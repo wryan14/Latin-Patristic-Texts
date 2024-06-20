@@ -30,4 +30,4 @@ Contributions are welcome! If you have texts to add or improvements to suggest, 
 
 ## About
 
-This repository is part of the Bibliothecarius Modernus - The Modern Librarian project, dedicated to making ancient texts accessible through modern technology. 
+This repository is part of the Bibliothecarius Modernus - The Modern Librarian project, dedicated to making ancient texts accessible through modern technology. For more information, visit our [YouTube channel](https://www.youtube.com/channel/UC5hvJMbDPhlh2ldZPe_CgOg).
