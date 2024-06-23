@@ -1,0 +1,97 @@
+<speak>
+<break time="2s"/>Sermon Six:<break time="500ms"/>Celebrating the Birth of Saint Peter with the Monks<break time="2s"/>
+  <p>
+    <s>By honoring the most glorious leaders of the Christian faith with annual celebrations, dear brothers, we also worship with due reverence God Himself and our Lord, who is the author of this faith.</s>
+    <s>The word <phoneme alphabet="ipa" ph="əˈpɒsəl">apostle</phoneme> in Latin means "sent one"; therefore, those who honor the sent ones clearly honor the sender.</s>
+    <s>The dignity bestowed upon the ministers is undoubtedly shown to the one whose ministers they are, as the Savior Himself said to His disciples: <phoneme alphabet="ipa" ph="wɛəˈvɛr">whoever</phoneme> listens to you listens to me, and whoever receives you receives me, <break time="500ms" /> <sub alias="Luke">Luke</sub> 10:16.</s>
+    <s>Truly blessed are the merits of the apostles, in whom Christ proclaims Himself to be both received and heard; equally blessed are those whose devotion to the apostles returns to Christ.</s>
+    <s>Therefore, brothers, holding the faith of such a great promise, let us rejoice with faithful joys in the sufferings of our fathers, endured for the confession of Christ: because those who rejoice in the death of martyrs do not doubt that the martyrs reign with Christ after death.</s>
+    <s>Let us honor with the most pious efforts the most revered fathers of all churches, Peter and Paul, whose death today has become a day of birth thanks to the grace of Christ; for whom the end of life became the beginning of living; for whom, as the apostle Paul said, to live was Christ, and to die was gain.</s>
+    <s>Indeed, Christ was their life, for life was not without Christ for them; Christ was their life, because what they lived was for the benefit of Christ's churches.</s>
+    <s>For them, to die was gain, because by such a death they earned eternal life for themselves; to die was gain for them, whose corruption was succeeded by incorruption, and the losses of the present times were followed by eternal gains.</s>
+    <s>But now, dear ones, I think it necessary to speak of their own specific virtues, as much as the dryness of our tongue and the weakness of our mind allows, or rather as God mercifully grants.</s>
+  </p>
+  <p>
+    <s>This is Peter who, by confessing Christ the Lord to be the Son of the living God, established for us the most solid and invincible foundations of faith.</s>
+    <s>For when the Lord asked who people said He was, Peter answered: "You are the Christ, the Son of the living God" <break time="500ms" /> <sub alias="Matthew">Matthew</sub> 16:16.</s>
+    <s>That is, you, Lord, made of the flesh of the Virgin, are the Christ, who is the eternal Son of the living God; you, Lord, born as a man among men, are with unimaginable majesty God with God.</s>
+    <s>You are the Christ, who, coming to suffer for our redemption, remain impassible with the Father.</s>
+    <s>Who, then, could have ever lifted their gaze to such a great mystery of the incomprehensible Deity, if not from the mouth of Peter the truth of this saving faith had shone forth?</s>
+    <s>Who can match the glory of his merits with any great speech, from whom the faith of the adorable Divinity both began and remains with us?</s>
+    <s>What is more glorious than this man, who declared the faith of the inscrutable mystery by speaking, taught it by living, and confirmed it by suffering?</s>
+    <s>To show the greatness of this confession, the Savior said to him: "Blessed are you, Simon Barjona, for flesh and blood has not revealed this to you, but my Father who is in heaven; And I will give you the keys of the kingdom of heaven" <break time="500ms" /> <sub alias="Matthew">Matthew</sub> 16:17.</s>
+    <s>Who, then, could have believed that Christ, born in the flesh and of the flesh, was the Son of the omnipotent Father, unless the Father Himself had graciously revealed it to us from heaven through Peter?</s>
+    <s>This confession granted him the keys of the heavenly kingdom before he entered the gates of heaven.</s>
+  </p>
+  <p>
+    <s>But, brothers, let no thoughts of the keys given to Peter be like our earthly keys; the key of heaven is the word of Peter, because the apostle judges the merits of each person, either closing or opening the kingdom of heaven to each one.</s>
+    <s>Therefore, this key is not made by the hand of any mortal craftsman, but the power of judging is given by Christ.</s>
+    <s>Finally, He said to him: "Whose sins you forgive, they are forgiven; whose sins you retain, they are retained" <break time="500ms" /> <sub alias="John">John</sub> 20:23.</s>
+    <s>This is Peter, whom the waters beneath his feet proved to be the most confident in Christ.</s>
+    <s>For he faithfully asked his Lord to grant him new steps on the waves, and as the beloved he deserved it: he seemed to tremble for this reason alone, that human weakness might recognize how great the distance is between the Lord and the servant.</s>
+  </p>
+
+
+  <p>
+    The flesh, weighed down by sins, sinks, and the spotless foot does not know how to slip. And also, lest Peter, walking on the water with an unhesitating foot, might have equaled his Lord in virtues by reaching Christ.
+  </p>
+  <p>
+    But why do we say he was so afraid, when his pious fear led to greater faith? For as Peter believed that by his Lord's command he could be sustained by the waves, so also, while he was sinking, he believed that by the Lord's power he would be saved. Truly blessed is Peter, and even when he was afraid, his faith was admirable, for the fear of imminent danger could not shake him. For as he was sinking, he cried out, "Lord, save me" <break time="500ms" /> (Matthew 8:25), showing that he doubted himself, not the Lord.
+  </p>
+  <p>
+    Therefore, let no one consider this fear of the most glorious Peter a fault. Because this fear, although it disturbed his initial faith, adorned him with renewed confidence in faith. This is Peter, to whom Christ willingly granted the sharing of His name. For as the Apostle Paul taught, the rock was Christ. So through Christ, Peter was made the rock, as the Lord said to him: "You are Peter, and on this rock I will build my Church" <break time="500ms" /> (Matthew 16:18).
+  </p>
+  <p>
+    For just as, in the desert, water flowed from the rock for the thirsty people of the Lord, so to the whole world, weary with the dryness of unbelief, from the mouth of Peter emerged the spring of life-giving confession. This is Peter, to whom Christ, about to ascend to the Father, entrusted the feeding of His sheep and lambs. So that those whom He had redeemed by His mercy, Peter might preserve by the strength of his faith. And rightly indeed did the Son of God, the judge of hidden things, entrust the feeding and guarding of His sheep to him, knowing that in tending the Lord's flock, neither zeal nor faith would be lacking in him.
+  </p>
+  <p>
+    This is Peter, who, when he was being led to the cross as a disciple of the Crucified, asked to be crucified upside down. Not refusing the suffering but avoiding the equality with the Lord's cross, to show all the admirable virtue of humility and to keep the discipline of the new mystery even in torment. How confidently, dearest ones, Peter went to the cross, who, repelling the fear of death, sought the manner of dying in such bitter suffering.
+  </p>
+  <p>
+    What shall I say of the most glorious Paul, in whom the Lord chose the faith of His name while he was still persecuting it? While as a fierce persecutor he was ravaging the Christian Church, Christ found a friend in the heart of this enemy. And while he was taking Christians for temporal punishments, he himself, captured for eternal grace, suddenly became a shepherd from a wolf, a guardian from a robber, a defender from an enemy. Thus it was evident that neither did Paul persecute the Lord's people with an evil intention, nor did Christ fail to recognize whom He would choose in Paul.
+  </p>
+  <p>
+    This is Paul, who, called by Christ's voice from heaven, though his Jewish unbelief blinded his eyes, did not lose his vision but transformed it. He lost his sight and regained it, so that at the same time, a punishment for his persecution would proceed, and the grace of the calling God would illuminate the Church. For the Lord said to him from heaven: "Saul, Saul, why are you persecuting me?" <break time="500ms" /> (Acts 9:4). That is, why are you persecuting me, Saul? What injustice of mine has stirred your hatred against me? Is it because I have given sight to the blind, healed the sick, driven out demons, fed hungry crowds with five loaves? Or because I have raised the dead from their graves? Or rather because I have promised the heavenly kingdom to my faithful?
+  </p>
+  <p>
+    But if you doubt that I can fulfill what I promise, look, if you can, from where I call you. But why do you persecute me, Saul, or what do you gain by persecuting me? Will your persecution have any effect against the one reigning in heaven? Can you harm me in any way, whom you cannot even see? For I am Jesus of Nazareth, whom you are persecuting <break time="500ms" /> (Acts 22:8); who exchanged earth for heaven, the cross for the kingdom, death for eternity: from all this you should not hesitate, and now that you are saved and soon returned, your sight will persuade you.
+  </p>
+  <p>
+    But the most blessed Paul, indeed restrained by sudden blindness, understanding the majesty of the one speaking from heaven, immediately became faithful, ceased his persecution, and gained new eyes to see Christ.
+  </p>
+
+
+  <p>
+    <s>
+      Aulus, who, as a reward for his virtues, was taken up to heaven for the third time beyond human merit, learned the secrets of heaven; so that, as a future teacher of the churches, he might learn among the angels what he should preach among humans.
+    </s>
+    <s>
+      Who would dare not believe him, who speaks of the Lord’s sacraments not only from what he heard but also from what he saw?
+    </s>
+  </p>
+  <p>
+    <s>
+      How great, brothers, was the grace of our God that he was called from the heavens to apostleship so that his apostleship might be consecrated in heaven?
+    </s>
+    <s>
+      And after all, this is Paul who, having proudly raised his head against Christ's name, humbly submitted his neck to be struck by the sword of the unfaithful for the honor of Christ.
+    </s>
+    <s>
+      Nor did it trouble him to die for Him whom he had often proven to live and reign after death.
+    </s>
+  </p>
+  <p>
+    <s>
+      And so it happened that glorious Paul, who had fought many battles for the faith of Christ among various nations with great struggle, was received by Rome to triumph as a victor of the world.
+    </s>
+    <s>
+      These, then, are the most blessed Peter and Paul, who, preaching the mystery of the heavenly kingdom with one spirit, consecrated their teaching with holy blood and the strongest death on the same day of suffering.
+    </s>
+    <s>
+      Being made the leaders of all churches by heavenly dispensation, they sought Rome and placed their most sacred bodies in the stronghold of that city, which had obtained the leadership of the whole world.
+    </s>
+    <s>
+      So that Christ, showing the power of his virtue, might place the leaders of his kingdom where the world had the head of its empire.
+    </s>
+  </p>
+</speak>
