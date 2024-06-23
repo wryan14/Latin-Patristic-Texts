@@ -1,0 +1,609 @@
+<speak>
+
+
+  <p>
+    <s>
+      This image lacks care, and often both similarity and image are known to lack equality.
+    </s>
+    <s>
+      This equality, however, can sometimes be combined with both image and similarity.
+    </s>
+    <s>
+      These three, although they belong to the same category called relation, have certain properties among themselves that others lack.
+    </s>
+    <s>
+      For it is characteristic of an image that it is always derived from another, while it is characteristic of both similarity and equality that they, remaining in their own substance, are not expressed by another but are considered similar or equal to other things by this name.
+    </s>
+    <s>
+      An image does not admit of more or less, but similarity and equality do.
+    </s>
+    <s>
+      For just as one can say more similar or less similar, more equal or less equal, one cannot say more image or less image.
+    </s>
+    <s>
+      For in their conversion, which is called <lang xml:lang="el">antistrofe</lang> in Greek, there is a certain subtle contradiction.
+    </s>
+    <s>
+      To pursue all of these would be lengthy.
+    </s>
+    <s>
+      Nevertheless, to make the difference between these three names clearer, the words of blessed Augustine must be brought forth.
+    </s>
+    <s>
+      He says, "Where there is an image, there is immediately similarity, but not necessarily equality. Where there is equality, there is immediately similarity, but not necessarily an image. Where there is similarity, there is not necessarily an image nor necessarily equality, as in a mirror there is an image of a man, because it is derived from him. There is also necessarily similarity, but not equality, because many things are missing in the image that are present in the thing from which it is derived. Where there is equality, there is immediately also similarity, but not necessarily an image, as in two equal eggs, because there is equality."
+    </s>
+  </p>
+
+
+  <p>
+    There is a resemblance. For whatever is present in one is also present in the other. However, it is not an image because neither is derived from the other. Where there is a resemblance, there is not necessarily an image, nor necessarily equality. Every egg, as far as it is an egg, is similar. But a partridge egg, although similar to a chicken egg in that it is an egg, is not an image of it because it is not derived from it, nor is it equal, because it is shorter. It is also of a different species of animals. But when it is said "not necessarily," it is understood that it can sometimes be the case. Therefore, there can be some image in which there is also equality, as in parents and children, where image, equality, and resemblance can be found if the interval of time is absent. For the child's resemblance is derived from the parent, so it is rightly called an image, and it can be so great that it is also rightly called equality, except that the parent precedes in time. From this, it is understood that equality can sometimes be not only resemblance but also an image, as is evident in the above example. There can also sometimes be resemblance and equality, even if there is no image.
+  </p>
+
+
+  <p>
+    An image, as we said about equal things. A likeness and an image can exist, even if there is no equality, as we showed in a mirror. There can also be a likeness where both equality and image exist, as we mentioned about children, except for the time when parents precede them.
+  </p>
+  <p>
+    Therefore, with these brief rules of differences laid out, let us move on to the things that have been begun, in a suitable order, and let the testimonies of divine law, which have not been rightly used, be rightly proclaimed by us with the teachings of venerable fathers. In this way, the wings of those who arrogantly claimed them will be broken, and the minds of diligent readers, who wish to use these well, will ascend to higher things.
+  </p>
+  <p>
+    <s>How should it be understood what is written: 'Abraham worshiped the people of the land, the sons of Heth,' or what is read about Moses worshiping Jethro?</s> 
+    <s>Those who make councils for the sake of worshiping images attempt to support their error with these examples.</s> 
+    <s>And because neither Jacob worshiped Pharaoh nor Daniel Nebuchadnezzar, as they say, they are not read to have worshiped them.</s>
+  </p>
+  <p>
+    Those who are fervent about worshiping images particularly and familiarly use this example, that Abraham is read to have worshiped the sons of Heth and Moses the priest Jethro.
+  </p>
+  <p>
+    The worship of these is as different from the worship of a painted image as a painted man is from a real man. For as much as a real man is separated from a painted one, a rational from an irrational, a sensitive from an insensitive, an animated from an inanimate in their definition, so much doubtlessly is their distinction.
+  </p>
+
+
+<p>
+The right to worship is distinct from the act of worship itself. For it is one thing to greet a person with respect and human courtesy, and another to worship a picture made of various colors, which cannot walk, speak, or sense in any way, with some unknown type of reverence.
+</p>
+<p>
+We are taught by almost all examples in the Holy Scriptures to love brotherhood, show affection to our neighbors, and embrace humility. Through these, we greet each other respectfully. However, we are more often forbidden rather than instructed to worship or honor images or some senseless trinkets in almost all places of the divine Scriptures. For instance, to give a few examples, the most sacred shepherd upon whom the holy church is founded, did not say to love images but to love brotherhood, nor to be subject to pictures but to every human creature, and to sanctify the Lord Christ in our hearts, not with images.
+</p>
+<p>
+Indeed, it is utterly irrational and unreasonable to use the example of Abraham bowing to the people of the land and Moses bowing to Jethro, the priest of Midian, to support the worship of images. It is evident that holy men often bowed out of humility to please God and to greet others respectfully, and often they humbly refused to be worshiped by others. Sometimes, in the strength of their holiness, they scorned to bow to the proud. Images, however, are never to be worshiped in any way.
+</p>
+
+
+<p>They tried to worship. For it is read that Abraham or Moses worshipped humble men who were necessary for their needs, and Mordecai refused to worship Haman, an arrogant man. </p>
+<p>This clearly shows that holy men are supportive of the humble, either to encourage them to do better or to ensure they do not lose their supreme virtues through the same humility, but they stand firmly against the wicked, either to avoid the company of evil or to compel them to repent. </p>
+<p>Therefore, when John in Revelation is restrained by the angel from worshipping him, with the angel saying, <phoneme alphabet="ipa" ph="vide">See</phoneme>, do not do that; I am your fellow servant, and when Peter, the shepherd of the church, kindly avoided the centurion’s worship by saying: Rise, brother, I am also a man, just like you, and when Paul, the chosen vessel, together with Barnabas, strongly rejected the worship of the Lycaonians, there is no doubt that all worship, which is due only to God, who alone is to be worshipped and revered, is forbidden to be given to any creature, except for the purpose of showing humility through greeting. </p>
+
+```SSML
+
+  <p>
+    <s>
+      So, let the most holy Augustine tell us what he thought about this worship of Abraham or Moses.
+    </s>
+    <s>
+      He says: An example of humility is also shown, since Moses, with whom God spoke, did not disdain or despise the counsel of his foreign father-in-law.
+    </s>
+    <s>
+      Even though Jethro was not an Israelite, it is rightly asked whether he should be considered among the wise and religious men who worship the true God, just as Job, who was not from that people, is considered.
+    </s>
+    <s>
+      Indeed, this is more credible because the words are ambiguous.
+    </s>
+    <s>
+      It's uncertain whether he sacrificed to the true God among his people when he saw his son-in-law or whether Moses worshipped him.
+    </s>
+    <s>
+      Even if it had been explicitly stated, the honor given to his father-in-law would have seemed to be the kind of respect usually shown to men for the sake of honor by fathers, just as it is written about Abraham that he worshipped the sons of Heth.
+    </s>
+  </p>
+  <p>
+    <s>
+      But we should not pass over in silence the claim that Jacob worshipped Pharaoh or that Daniel worshipped King Nebuchadnezzar.
+    </s>
+    <s>
+      This is neither found in the Hebrew text nor in our Latin texts, which were translated from the Hebrew truth by blessed Jerome.
+    </s>
+    <s>
+      It is not found anywhere.
+    </s>
+    <s>
+      It is only read that Jacob was in Pharaoh's presence once.
+    </s>
+    <s>
+      Scripture narrates it this way: After this, Joseph brought his father before the king and set him before him.
+    </s>
+    <s>
+      Jacob blessed him, and when asked by him, "How many are the years of your life?" Jacob replied, "The days of my pilgrimage and my life are one hundred and thirty years."
+    </s>
+  </p>
+
+```
+```SSML
+
+<p>
+<s>Small and wicked, and they did not reach the days of my fathers,</s>
+<s>to whom they wandered.</s>
+<s>And after blessing the king, he went outside.</s>
+<s>In these words, it is shown that he did not worship him, but blessed him.</s>
+<s>Even if he had done that, he would not have done it to set an example of worshiping images, but to show the humility of a holy patriarch who fears God and honors the king.</s>
+</p>
+<p>
+<s>Considering how things stand, I believe that they think the divine Scripture uses that very familiar way of speaking, which some call acirologia, so that 'to bless' is used instead of 'to worship'.</s>
+<s>This way of speaking is so peculiar to them that they use 'to have', 'to greet', 'to kiss', and 'to revere' instead of 'to worship', and others do the same.</s>
+</p>
+<p>
+<s>1) Augustine, Questions on the Heptateuch, Book II, Chapter 69; CSEL XXVIII, 134; Migne 1. C. XXXIV, 619.</s>
+<s>2) Cf. Ex. 18, 5</s>
+<s>3) It is very important that the author of the work here and in several places below, e.g. I, C. 22. 30, III, C. 29, IV, C. 2, uses the first person singular, whereas elsewhere he always speaks from the first person plural, i.e., from the persona of King Charles.</s>
+<s>For the word 'I believe', although the author was far from it, flowed from his pen and neither the king, who always uses the plural of majesty, nor the court bishops, as you might have suspected from their practice, are proven to be the authors of the work.</s>
+<s>Moreover, this word directs us to the true author, namely Alcuin, who frequently used it.</s>
+<s> Cf.</s>
+</p>
+
+```
+
+<p>
+We discussed these things in N. A. XXXVII, 492.
+</p>
+<p>
+The Capitularies of Charlemagne on Images:
+</p>
+<p>
+They are placed and, as I stated, almost all such words are turned into 'adore.' However, Holy Scripture rejects this way of speaking, just like other errors. It always uses pure, proper, fixed, or prudent words or phrases, as the prophet attests, who says, "The law of the Lord is blameless." If it put 'bless' instead of 'adore,' it would be using improper words. If it uses improper words, it is blameworthy. But it is blameless, so it did not put 'bless' instead of 'adore.'
+</p>
+<p>
+So say, say holy Daniel, say man of desires, say investigator of secrets, say examiner of scriptures, say prophet, who is proven to have spoken more clearly about the Redeemer of the world than others, because you do not only write that He is to come, which you have in common with others, but you also teach the time at which He will come, arrange the kings in order, count the years, and predict the most manifest signs. Say, did you worship Nebuchadnezzar, as they babble? "In my volume, nowhere," I say, "did I read that I did this. And even if I had done it, their assertion would not be supported in any way. I resolved in my heart not to defile myself with his food or the wine he drank, and they say I worshipped him. So, falling on his face and worshipping me and sacrificing burnt offerings and incense to me, they command me."
+</p>
+
+
+  <p>
+    <s>And to the God of gods and the Lord of kings and the revealer of mysteries, who can open secrets, I confessed and spoke to Him in me because of the greatness of His signs, of which I am the dwelling, rather than worshipping me, addressing Him with kind words, and asked Him to always show mercy.</s>
+    <s>In the lineage of Israel, or that He would appoint my fellow captives, Ananias, Azarias, and Misael, over the works of the province of Babylon, I requested, not worshipping in flattery.</s>
+    <s>For even if I had worshipped Him, I wouldn't be worshipping something senseless, but remaining humble to a higher power, knowing there is no power except from God, I would be worshipping a rational being with a greeting.</s>
+    <s>For once I had such a happy conversation, that when opportunities were sought by the king's side to accuse me, by those envious, and not for anything else, except in the legitimate matters of my God, I was accused and thrown into the lions' den.</s>
+    <s>And now I am accused of worshipping whom I did not worship, and I am said by false witnesses to have done what I did not do, it remains for me to cry out with David: 'False witnesses have risen against me, and iniquity has lied to itself'.</s>
+    <s>Therefore, when for the love of images, Jacob the patriarch and Daniel the prophet are accused, and they strive to turn the senses of the divine Scriptures to foreign understandings and despise their predecessors or parents contrary to the command of the law, it remains that they are content with these and their patronage, if they do not wish to correct their error.</s>
+  </p>
+
+
+<p>
+<s>
+If they believe, they will be protected.
+</s>
+<s>
+And while they boast in images, we will boast in the cross of our Lord Jesus Christ, through whom the world has been crucified to us and we to the world.
+</s>
+</p>
+<p>
+<s>
+Regarding the fact that John the presbyter and ambassador of the Easterners, in his careless attempt to establish the worship of images, is said to have stated:
+</s>
+<s>
+Jacob set up a pillar to God, and blessed it.
+</s>
+<s>
+It is of no small foolishness to use this as an example to justify the worship of images, because Jacob set up a stone as a pillar, as John the presbyter and ambassador of the Easterners said in the same synod, which was convened for the sake of worshipping images.
+</s>
+<s>
+It is written that the stone was not believed to be an image or likeness of some past thing.
+</s>
+<s>
+If it had been set up by the holy patriarch to be worshipped, in memory of some past thing and bearing its likeness, it might perhaps have provided some support to those who do not fear to fall into such a great error.
+</s>
+<s>
+But since it is one thing for a patriarch to do something to foreshadow the future, and another for a painter to paint something in memory of past deeds; since it is one thing to be filled with the Holy Spirit, and another to be imbued with the art of painting; since it is one thing to act with heavenly grace, and another to act with the skill of a painter,
+</s>
+<s>
+it is clear that these are different matters.
+</s>
+</p>
+
+
+<p>
+<s>That method of working has been experienced; it is one thing for Jacob to set up a stone for a pillar, and another for a painter to place an image on a wall.</s>
+<s>It is one thing to pour oil over it according to a symbolic figure, and another to order it to be worshipped according to a vain assertion, which is not only useless but also beyond useless to propose as an example for establishing anything, because it seems to differ from that thing by all the detours of argumentation.</s>
+<s>Did Jacob set up that stone to be worshipped or paint an image of anything on it? </s>
+<s>For while images have almost no other function except to bring back memories to minds by their sight, the stone which the patriarch set up is believed to have had three notable and highly honorable functions.</s>
+</p>
+<p>
+<s>First, because it supported the neck of the Israelite and served as a pillow to the patriarch who lacked a pillow and was burdened by his head, who not only saw a ladder reaching from the earth to heaven and angels ascending and descending on it, but also saw the Lord Himself promising good things to him.</s>
+</p>
+<p>
+<s>Second, because it was set up as a sign and a title by which the holy patriarch would remember that holy place, so that when he returned, gladdened by the affection of his offspring and wives and enriched by great wealth, he would fulfill his vows to the Lord, who had granted all these things to him.</s>
+</p>
+<p>
+<s>Third, because it symbolized our Mediator, who has become the cornerstone and is marvelous in our eyes; who was anointed by the Father with the oil of gladness above his companions.</s>
+</p>
+
+
+<p>
+<s>In his works, Daniel describes a stone cut from a mountain without human hands, as seen in Daniel 2:45.</s>
+<s>This stone, born without human involvement from a virgin womb, is also referred to by David as he says, "The Lord is my rock, my fortress, and my savior," in 2 Samuel 22:2.</s>
+</p>
+<p>
+<s>Isaiah the prophet writes: "Behold, I lay a stone in Zion, a tested, precious cornerstone, and those who believe in it will not be disappointed," as seen in Isaiah 28:16.</s>
+<s>This stone is called 'cornerstone' because it joins two walls coming from opposite directions, representing circumcision and uncircumcision, or even the Old and New Testaments, into one holy congregation, of which He is the head, as noted in Ephesians 4:15.</s>
+</p>
+<p>
+<s>Through the prophet Zechariah, God the Father says: "Behold, I am bringing forth my servant, the Branch, for the stone I have set before Joshua has seven eyes," as seen in Zechariah 3:8-9.</s>
+<s>These seven eyes clearly represent the sevenfold grace of the Spirit proceeding from the Father and the Son, as prophesied by Isaiah: "The spirit of the Lord, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the Lord," as found in Isaiah 11:2.</s>
+</p>
+<p>
+<s>Regarding this cornerstone, the rock of the church, it is said: "Like newborn infants, crave pure spiritual milk, so that by it you may grow up," as seen in 1 Peter 2:2.</s>
+</p>
+
+
+<p>
+<lang xml:lang="en">
+And the understanding of the distinguished; I corrected. 
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+The Eastern and, when he was present at the Nicaean Synod, spoke not once but multiple times, especially delivering a dissertation on the origin of the hatred and persecutions of the veneration of sacred images. See Mansi XIII, 198, in action V.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+Charlemagne's Capitulary on Images.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+If you have tasted how sweet the Lord is, approaching the living stone, rejected by men but chosen and honored by God, and shortly after: 1 Peter 2:7-8.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+Therefore, honor to you who believe, but for those who do not believe, the stone which the builders rejected has become the cornerstone, and a stone of stumbling and a rock of offense to those who stumble at the word, being disobedient, to which they also were appointed.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+This document shows that it is both an honor to the strength of believers and a stumbling block of hardness for unbelievers. This was also foretold through the righteous Simeon with this meaning. Luke 2:34. For he said: This child is destined to cause the fall and rise of many in Israel, the fall of unbelievers, and the rise of believers. He is also called fire, either because he illuminates the believers with the light of eternal life or because he will burn the unbelievers with the fire of eternal punishment. Regarding the anointing of this stone, it was spoken by David in the oracles a little earlier and is now to be presented by the testimony of the shepherd of the church, who said: Jesus of Nazareth, whom God anointed with the Holy Spirit and power. For the Holy Spirit often in the divine Scriptures...
+</lang>
+</p>
+
+
+  <p>
+    The name "oil" is indicated, and John the Apostle is a witness.
+  </p>
+  <p>
+    As he says in 1 John 2:27, "As his anointing teaches you about all things." If they are anointed with this indescribable nectar, they should by no means use synods to establish the worship of images or misuse the Holy Scriptures for strange interpretations.
+  </p>
+  <p>
+    Regarding what the aforementioned John said in Genesis 32:11, "He wrestled with him in the form of a man and called him Israel, which means 'Mind seeing God.'"
+  </p>
+  <p>
+    But even that does not escape criticism, as the same John the Elder and the legate of the Easterners is said to have spoken among other delusions about Jacob: "He wrestled with him in the form of a man and called him Israel, which is interpreted as 'Mind seeing God.'", for this saying is far from the proposed matter and in the interpretation of the name omits a certain usualness, sounding almost unusual.
+  </p>
+  <p>
+    For while some interpret that name as "Man seeing God," some as "Strong with God," and some even as "Prince with God," I do not know if any of those accepted in the canon have interpreted it as "Mind seeing God." Therefore, not only should he be criticized for bringing forth something almost unusual while neglecting the more common interpretations, but also the entire synod that gave its approval to his many delusions, which not only did not resist his words but also recorded them in a volume.
+  </p>
+  <p>
+    Therefore, since the holy church, according to the institution of the holy fathers, considers everything irreproachable.
+  </p>
+
+
+  <p>
+    <s>If he rejects everything that is blameworthy, he should also reject this synod of theirs, which is certainly blameworthy.</s>
+    <s>And if he does not reject this, which is blameworthy, neither does he accept those that are blameless.</s>
+    <s>However, he accepts those that are blameless; therefore, because this one is open to criticism, he should not accept it at all.</s>
+    <s>For the holy and universal church accepts those synods that were celebrated by learned and catholic men for various reasons of faith or religion in different places or times and are not at all deterred from sound and sober doctrine.</s>
+  </p>
+  <p>
+    <s>Furthermore, the struggle of such a great patriarch with the angel is said to prefigure not some kind of veneration of images but the passion of the Lord in the same people.</s>
+    <s>This people prevailed over him by struggling, because they crucified him and received a blessing from him among those who believed in him, and remained lame among those who refused to believe in him, as the blessed Augustine says:</s>
+    <s>"Jacob desired to be blessed by that angel."</s>
+  </p>
+
+
+<p>
+<phoneme alphabet="ipa" ph="lʊkˈtan.do">Fighting</phoneme> <w role="amazon:NN">prevailed</w>, there is a great prophecy about Christ. For it itself suggests something mystical, because every man wants to be blessed by someone greater. So how did he want to be blessed by the one he overcame by fighting? Jacob prevailed over Christ, or rather, he seemed to prevail through those Israelites by whom Christ was crucified; and yet he is blessed by Him in those Israelites who believed in Christ, of whom it was said: For I too am an Israelite, of the seed of Abraham and the tribe of Benjamin. So, the same Jacob is both limping and blessed. Limping in the breadth of his thigh as in the multitude of his descendants, of whom it was said: And they limped away from their paths. Yet blessed in those of whom it was said: The remnant saved by the election of grace.
+</p>
+<p>
+What does not pertain to the worship of images is not found in our books, which are translated from Hebrew truth, but is said by them in their synod: Jacob, receiving the robe torn by his sons, kissed it with tears and placed it on his own eyes.
+</p>
+<p>
+It is not surprising if Jacob is accused by them of having kissed Joseph's robe and placed it on his eyes, by whom even Pharaoh is accused of having been worshipped. For it often happens that one who has begun to be deceived once is often deceived, and one who has once deviated from the way and neglected to follow the path of their journey's guide is often carried through rough and pathless ways by the guide of error.
+</p>
+
+
+<p>
+<s>In neither the Hebrew nor the Latin texts, which are translated from the Hebrew truth, is it narrated that the father kissed or placed it upon his eyes.</s> 
+<s>Even if it were narrated that this had happened, in no way would the adoration of images be implied in this act, as it is one thing to adore and another to kiss, which they mistakenly think are the same.</s> 
+<s>It is one thing to adore a painted image and another to place the garment of a son, who was believed to be deceased, upon tearful eyes out of paternal affection and grief.</s> 
+<s>It is another thing to bow to a likeness and yet another to give a kiss to the garment of a beloved son with inner piety.</s>
+</p>
+<p>
+<s>The holy patriarch was so distressed by the storm of his troubled mind that not only did he kiss the garment of the son whom he believed had been taken by the cruelty of death or place it upon his eyes,</s> 
+<s>but also, postponing consolation, he mourned his misfortunes with funeral cries and declared that he would descend to the underworld after his son.</s>
+<s>How then could it be believed that the blessed Jacob did not kiss or place the garment upon his eyes but only saw and recognized it?</s>
+<s>Holy Scripture commemorates this in the following order.</s>
+<s>It says: They took his robe, and they dipped it in the blood of a goat they had killed, sending it to the father and saying: We found this; see if it is your son's robe or not.</s> 
+<s>When the father recognized it, he said: It is my son's robe; a fierce beast has devoured him; Joseph has surely been torn to pieces.</s>
+</p>
+
+
+<p>
+Finally, we should briefly explain what this holy man's tunic, through which they attempted to establish the worship of images, prefigured in symbolic sacraments and hinted at in silent mysteries. This will both refute their vain assertion and soothe the reader's mind.
+</p>
+<p>
+Joseph, who is interpreted as 'increase' and called 'Savior of the World' by the Egyptians, carried the symbol of the one who saved the human race with his death, nourished the world with spiritual food, and made the seed of his faith grow so much that it filled the entire world and connected earthly things with heavenly ones through the same faith. His garment was dyed with the blood of a goat because he appeared in the likeness of sinful flesh and condemned sin in the flesh, according to the Apostle. He also bore our sins in his body on the tree, becoming a sacrifice for sins, so that we, being freed from evils, might live with justice. By his wound, we were healed, we who were wandering like sheep.
+</p>
+<p>
+His garment is also the holy church, which is the body of Christ, as Paul attests when he says: I rejoice in my sufferings, because I complete in my flesh what is lacking in Christ's afflictions, for the sake of his body, which is the church. This garment is multicolored or varied because...
+</p>
+
+
+  <p>
+    <s>
+      Clearly, the holy church is gathered from a variety of nations and languages.
+    </s>
+    <s>
+      As the psalmist teaches in Psalm 44:10, "The queen stands at your right hand in gold of Ophir, adorned with varied robes."
+    </s>
+    <s>
+      The same robe, which is described as reaching down to the ankles, often symbolizes the perfection of holy men, who are indeed members of Christ.
+    </s>
+    <s>
+      They bring the garment of good deeds all the way to the end.
+    </s>
+  </p>
+  <p>
+    <s>
+      Some unlearned people say in confusion, 'Why do you accuse me of idol worship when I do not accuse you of worshipping the cross?'
+    </s>
+    <s>
+      But it is clear that Jacob, seeing the top of Joseph's staff, did not worship the wood itself but honored Joseph through it, just as we honor Christ through the cross.
+    </s>
+  </p>
+  <p>
+    <s>
+      The claim that Jacob worshipped the top of Joseph's staff is noteworthy because some use it to justify the worship of images, citing it as an example.
+    </s>
+    <s>
+      However, the Latin texts do not read "worshipped the top of Joseph's staff" but rather "worshipped at the head of his bed."
+    </s>
+    <s>
+      In the Hebrew truth, which should be given the most credence, there is no mention of a staff.
+    </s>
+    <s>
+      It simply says, "Israel worshipped God, turning to the head of the bed."
+    </s>
+    <s>
+      As the blessed Augustine said, the old man lay in such a way that he could pray without any strain whenever he wanted.
+    </s>
+  </p>
+  <p>
+    <s>
+      As we have previously mentioned, some Latin texts state, "worshipped at the top of the staff," so it is necessary to take this into account.
+    </s>
+  </p>
+
+
+  <p>
+    Let's explain how it should be understood based on the documents of the scholars. He says: The Latin texts have it as: "And he worshipped on the top of his staff," while some correcting it have: "He worshipped on the top of his own staff," or: "on the head of his staff," or "on the summit" or "on the top." They are misled by the Greek word, which is written with the same letters, whether "his" or "his own," but the accents are different and known to those who understand these things.
+  </p>
+  <p>
+    In Latin manuscripts, these are not disregarded. They are very significant for distinction, even though it might have one more letter if it were "his own," so it would not be "autu," but "eautu." Therefore, it is rightly questioned what it means. For it would easily be understood that the old man, who was carrying the staff in the manner that age customarily carries a cane, did so as he bent down to worship God, indeed on the top of his own staff.
+  </p>
+
+
+<p>
+He carried it to bow his head over it and worship God. What does it mean, then: 'He worshipped over the top of his staff,' that is, the staff of his son Joseph? Did he perhaps take the staff from him when his son swore an oath, and while holding it after the words of the oath, before returning it, he immediately worshipped God? He was not ashamed to carry, for a while, the symbol of his son's authority, where the sign of a great future event would be indicated.
+</p>
+<p>
+So, let them say, let them say what they will argue against this, those who do not fear to accuse the patriarch of idol worship merely because of images and who seek to alter the holy Scriptures with a deranged mind. Behold, the Hebrew truth proclaims that the same patriarch worshipped God at the head of his bed. Behold, the Latin library announces that he worshipped either over the head of his staff or at the head or at the top or over the top. Behold, the very learned Augustine, inspired by divine grace, with careful investigation says that he worshipped God at the top of either his own staff or his son's, not the same staff nor the same son.
+</p>
+<p>
+Let them say, which translator of the holy law has translated that he worshipped the top of his son's staff and in that same staff, his son? Which most diligent investigator of the holy law has examined that he worshipped his son's staff or his son rather than God? And when they cannot find this, let them realize that their understanding of the divine Scriptures is more corrupting or contradicting than investigating.
+</p>
+<p>
+Now indeed, since almost the entire series of the divine law is either mutilated or altered by them because of the worship of images, it is necessary to...
+</p>
+
+
+  <p>
+    <s>There is the writing of the law given after Moses, the new restoration of the law found after Ezra, the new translation sought after Theodotion, Symmachus, and Aquila, or even blessed Jerome, the new examination done by the apostles and the apostolic men filled with the Holy Spirit, which can be so contrary to the divine Scriptures that it binds all who reject the worship of images with the chain of anathema.</s>
+  </p>
+  <p>
+    <s>Moreover, what is the difference between the cross of Christ and the images painted by artists, or by what great mystery the cross stands out above the images, or how the human race was redeemed not through images but through the cross of Christ - these two which they consider either equal or equivalent, we will explain in the following sections with the Lord's favor.</s>
+  </p>
+  <p>
+    <s>They say that it does not pertain to the worship of images, that which is written: 'Jacob blessed Pharaoh' (cf. Gen. 47:10).</s>
+  </p>
+  <p>
+    <s>It has been stated above that the often-mentioned patriarch Jacob did not worship Pharaoh, but blessed him.</s>
+    <s>Now, because in another reading of that most vain synod, 'blessing' is somehow put in place of 'worship,' it must be briefly dealt with.</s>
+  </p>
+  <p>
+    <s>Indeed, the writing of that vanity is so shrouded in the darkness of ignorance that the following does not seem to agree with the preceding, nor the preceding with the following.</s>
+  </p>
+
+
+<p>
+<lang xml:lang="en">
+They translated the sacred text from the Hebrew language into Greek. See Wetzer and Welte, 'Church Textbook' II, 714. Refer below to II, chapter 28. See the acts of the Second Council of Nicaea, actions IV and VII; Mansi XIII, 46. 406. Response of Hadrian 45 MG. Letters V, 27, chapter XXV. Refer above to page 27, line 22 and following.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+The Councils II. Supplement.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+Capitulary of Charlemagne on Images.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+As vanity and lies are always fleeting, always perishable, and always slipping away, Solomon says: "Whoever relies on lies, feeds the wind, and follows flying birds." Therefore, to establish the veneration of images, which is central to their faith and all holiness, they strive to change many words or meanings pertaining to other things into 'veneration'.
+</lang>
+</p>
+<p>
+<lang xml:lang="en">
+For instance, they believe that the same holy man who blessed Pharaoh did not give the same blessing typically given by exiles to citizens, subjects to superiors, or the poor to the rich, and especially the elderly, who bestow certain favors upon themselves. Instead, they claim it relates to some unclear veneration of painted images, which is as useless as it is unable to declare its own efficacy in words. They say: "Jacob blessed Pharaoh, but he did not bless him as God; we venerate the image, but we do not worship it as God." What an inappropriate comparison! What a dull conjecture! What a foolish statement! You claim it is the same kind of blessing that the holy patriarch gave to the king, as mentioned in Genesis 41:42.
+</lang>
+</p>
+
+```ssml
+
+<p>
+<s>There, with the whole community,</s>
+<s>he granted fertile land to inhabit,</s>
+<s>not just a portion of any province,</s>
+<s>but the option of the entire land of his empire,</s>
+<s>for the adoration you show to images,</s>
+<s>which can offer nothing to those who adore them besides the memory of what they represent!</s>
+</p>
+<p>
+<s>So, Jacob blessed Pharaoh, not as a god, whom all creatures bless and praise,</s>
+<s>nor as a picture crafted by an artist's hand, but as a man to whom honor is due because of the power granted to him by God.</s>
+<s>I say he blessed him, not as an insensible image, but as a rational human being,</s>
+<s>not as a creation of the painter's skill,</s>
+<s>but as someone made in the image and likeness of God;</s>
+<s>not as something immovably standing on walls, but as someone providing prosperity to himself and his offspring.</s>
+<s>And, to put it another way, Israel blessed the king,</s>
+<s>who was filled with the same spirit that would later inspire the Apostle to say: "Bless and do not curse,"</s>
+<s>who not only prayed for those who enriched him and his family with wealth, but also for those who slandered and persecuted them.</s>
+<s>Therefore, this blessing, which was celebrated for the sake of good retribution,</s>
+<s>does not align with the adoration of images;</s>
+<s>for images can neither reward those who adore them nor punish those who disdain them based on their merits.</s>
+</p>
+
+```
+
+  <p>
+    <s>Moses, following God's command, made the Ark of the Covenant with two golden cherubim.</s>
+    <s>It is recorded that holy Moses made the mercy seat and the Ark of the Covenant, following the Lord's instructions.</s>
+    <s>Along with the two golden cherubim, he also carved the stone tablets, but he was not commanded to worship them.</s>
+    <s>These objects were created not just to remember past events, but to foreshadow sacred mysteries of the future.</s>
+    <s>Given these facts, it is absurd and foolish for anyone to try to equate these sacred and highly honorable objects, made by divine command, with images created by humans and to justify their worship using these examples.</s>
+    <s>Our voices cannot explain it, and our understanding cannot fathom it, especially since the sacred meanings are so profound, while these images offer little benefit aside from reminding us of what they represent.</s>
+    <s>Thus, the Ark of the Covenant was made from acacia wood and overlaid with gold, both inside and out.</s>
+    <s>It contained the stone tablets of the covenant, manna, and Aaron's rod.</s>
+    <s>The mercy seat was made of gold in the shape of a tablet, placed on top of the Ark, matching its length and width.</s>
+  </p>
+
+
+<p>
+<s>Just as the Ark was to be covered by the mercy seat and the two gold cherubim were to be above it, one on each side, looking at each other, with their faces toward the mercy seat and their wings overshadowing it, so too would God speak to Moses from the mercy seat or from between the cherubim.</s>
+<s>Who is so dull and so mad as to not only permit but also to worship images, using the excuse of these awe-inspiring and notable mysteries?</s>
+<s>While these images sometimes merely hint at the order of events, and other times lie about things that never happened, the true mysteries always shine with holiness and excellence, and the sacraments glitter.</s>
+</p>
+<p>
+<s>The Ark of the Covenant, according to some, represents our Lord and Savior, the only one through whom we have a covenant of peace with the Father.</s>
+<s>After His resurrection, He ascended to heaven and placed the flesh He had taken from the Virgin at the right hand of the Father.</s>
+<s>In the Ark are the two tablets of the law, which signify the two Testaments.</s>
+<s>Also in the Ark is Aaron's rod, which had budded, because He is both king and priest.</s>
+<s>He is king because it is written of Him: "<phoneme alphabet="ipa" ph="vɜrɡəm">Virgam</phoneme> of His power the Lord will send out of Zion and He will rule in the midst of His enemies."</s>
+<s>He is a priest because it is written of Him: "You are a priest forever according to the order of Melchizedek."</s>
+<s>And in the Ark is the manna, the food from heaven.</s>
+</p>
+
+
+<p>
+David, the remarkable prophet, says: "He gave them bread from heaven, mankind ate the bread of angels," just as he himself says in the Gospel: "I am the living bread that came down from heaven." 
+</p>
+<p>
+A mercy seat is placed upon it because his mercy, which surpasses the legal or evangelical commandments that are founded in the law, is above them. Through this mercy of the same Mediator, we are saved, not by the works of the law we have done, nor by our own efforts, but by his mercy. This mercy is spoken of in a paternal voice: "My truth and my mercy are with him, and in my name, his power will be exalted." And through the prophet, he says: "I desire mercy, not sacrifice," and through the Psalmist, it is said: "Many are your mercies, Lord," who, according to the apostle, is the atonement for our sins.
+</p>
+<p>
+There are two cherubim, signifying the fullness of knowledge revealed in the two Testaments. They look at each other because the law and the Gospel have great harmony, as the Lord says: "I did not come to abolish the law, but to fulfill it." The cherubim have their faces turned towards the mercy seat because the two Testaments completely commend placing hope in God's mercy. From above this mercy seat, that is, from between the cherubim, God speaks because the Son is the Word of the Father, through whom all things were made. And since he is of the same substance as the Father, just as he says in the Gospel: "I and the Father are one."
+</p>
+
+
+<p>
+<s>Where we are, or as Philip says: Whoever sees me, sees the Father. </s>
+<s>John 10:30; 14:9. </s>
+<s>1) Regarding the following up to 1.9, see Augustine, Questions on the Heptateuch book II, chapter 105; CSEL l. C. 161; Migne, Patrologia Latina XXXIV, 633. </s>
+<s>2) See Augustine, Different Questions for Simplician book II, question 4; Migne, Patrologia Latina XL, 144. </s>
+<s>The same, Commentary on Psalm 131; Migne, l. C. XXXVII, 1722. </s>
+<s>3) See Jerome, On Hebrew Names; Migne, l. C. XXIII, 831. </s>
+<s>Augustine, On Genesis Against the Manicheans book II, chapter 23; Migne, l. C. XXXIV, 214. </s>
+<s>See p. 36, l. 14. </s>
+</p>
+<p>
+<s>CHARLEMAGNE'S CAPITULARY ON IMAGES. </s>
+<s>Whoever sees me, sees the Father, God's voice is always heard between the two Testaments. </s>
+<s>According to most teachers of divine law who interpret these things morally, gold signifies wisdom, and the ark signifies the secret of God. </s>
+<s>In the ark, it was commanded to place the law, the manna, and Aaron's rod. </s>
+<s>The rod signifies power, the manna signifies grace, because without grace there is no power to fulfill the commandments. </s>
+<s>However, because the law is not fulfilled in every part by anyone who is progressing, the mercy seat is above; for this reason, it is needed so that God may be merciful; and therefore it is placed above, because mercy triumphs over judgment. </s>
+<s>The two cherubim overshadow the mercy seat with their wings, that is, they honor it by covering it, because these are mysteries, and they look at each other, because they are in agreement - indeed, the two Testaments are represented there, and their faces are toward the mercy seat, because they greatly commend God's mercy, in which there is one hope. </s>
+<s>Finally, from here it is revealed... </s>
+</p>
+
+
+<p>
+<s>God spoke to Moses from between the cherubim above the mercy seat.</s> 
+<s>Now, if a rational creature in the multitude of knowledge, since this is the interpretation of the cherubim, is signified by the two animals, then there are two of them to commend the society of charity.</s> 
+<s>They overshadow the mercy seat with their wings because they attribute their wings to God, not to themselves, meaning they honor God with their virtues, by which they excel.</s> 
+<s>And their faces are only toward the mercy seat because for anyone advancing in the multitude of knowledge, there is no hope except in God's mercy.</s> 
+<s>Therefore, the two tablets, which we said above signify the two Testaments, are given without any terror, without any noise of fire, without any commotion of clouds, without any sound of trumpets, unlike those which were first given by the Lord and are recorded to have been broken by Moses.</s> 
+<s>When they were given, the people said to Moses, "You speak to us, and let not God speak to us, lest we die."</s> 
+<s>This clearly indicates that the first tablets signified the old Testament, in which there was fear, and the second ones, the new, in which there is love.</s> 
+<s>The first were the work of God, the second the work of man.</s> 
+<s>The first were inscribed by the finger of God, the second are said to be written by man.</s> 
+<s>This clearly shows that the old Testament was signified by the first tablets because God commanded there, but man did not do it.</s> 
+<s>For the law was given in the old Testament to convict transgressors.</s> 
+</p>
+
+
+<p>
+The preacher says: The law came in so that sin might increase. For it was not fulfilled through fear, which is only fulfilled through love. And so it is called the work of God, because God established the law, God wrote it; it is not a work of man, because man did not obey God, and instead the law made him guilty. However, in the second tablets, man, with the help of God, makes and writes the tablets, because the love of the New Testament makes the law. Hence, the mediator of God and men came not to destroy the law, but to fulfill it. And the same excellent preacher says: The fullness of the law is love, and faith works through love.
+</p>
+<p>
+Thus, it became easy for man in the New Testament, which was difficult in the old, for those who have faith that works through love, and by the finger of God, that is, the Spirit of God, writing it within the heart, not outside on stone. Hence, the Apostle says: Not on tablets of stone, but on tablets of human hearts, because the love of God, by which the commandment is truly fulfilled, is poured out in our hearts by the Holy Spirit, who has been given to us. 
+</p>
+<p>
+This is why the law was first given, signifying the Old Testament, which is solely the work of God and the writing of God's finger, as the Apostle says: Therefore, the law is holy, and the commandment is holy, righteous, and good. The law, therefore, holy and good, is always the work of God.
+</p>
+
+
+  <p>
+    It is where a person does nothing, because they do not obey, but rather are oppressed by the law which threatens and condemns. For sin, he says, so that it may appear as sin through the good, worked in me. Romans 7:13.
+  </p>
+  <p>
+    It is death. However, a person is blessed when they fulfill this holy, just, and good commandment. This is also their work, but through the grace of God. Indeed, this sense is adapted to the old translation, in which it is remembered that the second tablets were written by the legislator.
+  </p>
+  <p>
+    Moreover, because in the Hebrew truth both, namely the first and second, are written by God, this signifies that both the Old and New Testament were written by the grace of the Holy Spirit, who is called the finger of God, and in that, the spirit of servitude in fear is received. Romans 8:15.
+  </p>
+  <p>
+    Because God imposes the yoke of the law on humans, humans cannot bear it. However, in this case, where the tablets are made by humans but written by God, humans receive the spirit of adoption by obeying.
+  </p>
+  <p>
+    Therefore, these symbols, namely the ark and what is in it, the mercy seat or the cherubim, should always be seen by us with spiritual sight and sought with the total intention of the mind. And we should not seek them in painted tablets or walls, but look at them with the eye of the mind in the inner parts of our hearts. And as the Apostle says, with unveiled face. 2 Corinthians 3:18.
+  </p>
+
+
+  <p>
+    <s>By looking at God's image, we are transformed from glory to glory, as by the Spirit of the Lord, not walking in deceit nor corrupting the word of God.</s>
+    <s>But in the manifestation of truth, we no longer seek truth through images and pictures, but by hope, faith, and charity, we come to the same truth, which is Christ, with His help.</s>
+  </p>
+  <p>
+    <s>This cannot justify the use of images for worship, as some foolishly and irrationally say, because it is written in the law: 'See, I have called by name Bezalel, son of Uri, son of Hur, of the tribe of Judah, and I have filled him with the spirit of wisdom and understanding to complete the work in gold and silver and have given him Oholiab, son of Ahisamach.'</s>
+  </p>
+  <p>
+    <s>The law, as the Apostle says, is spiritual.</s>
+    <s>It is given to us by God to guide our minds on the dark path of this present age, whose light can illuminate the secrets of the mystic senses.</s>
+    <s>The commandment of the Lord is clear, says the prophet, enlightening the eyes; and also: 'Your word is a lamp to my feet and a light to my path, Lord.'</s>
+    <s>About this, a certain wise man says: 'The commandment of the law is a lamp, and the teaching is light and correction and discipline are the way of life.'</s>
+    <s>And Isaiah says: 'At night my spirit watches for you, God, because your commandments are light on the earth.'</s>
+    <s>Those who do not understand this light correctly are certainly devoid of it and suffer from it.</s>
+  </p>
+
+
+<p>
+<s>They are believed to be the ones who, because of some kind of image worship, try to violently bend it to their senses and, in their error, attempt to use it to support themselves, even though they attempt to bring forward testimonies from it that are irrelevant to the matter.</s>
+<s>Because Bezalel was chosen by the Lord to do work in gold and silver and was filled with the spirit of wisdom, understanding, and knowledge, this was added to him after God's grace.</s>
+<s>The following words are written in the lower margin with the sign 'hp' (meaning 'place this here') prefixed and the sign 'SR' (meaning 'the following context') added after.</s>
+<s>These corrections were made by the first hand.</s>
+<s>Afterwards, charity was added.</s>
+<s>For the following, compare Augustine, Questions on the Heptateuch, Book V, Chapter 15; CSEL Book, page 381; Migne Book, Chapter XXXIV, page 755.</s>
+<s>Acts of the Second Council of Nicaea, Action VI, Volume III; Mansi XIII, page 250.</s>
+<s>Response of Hadrian, Book, page 19, Chapter XII.</s>
+</p></speak>
