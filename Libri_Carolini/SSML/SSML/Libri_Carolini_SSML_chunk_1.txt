@@ -1,0 +1,691 @@
+<speak>
+  <p>
+    I wanted to release the Capitulary of Charlemagne about images earlier, but the edition of the text faced various difficulties, including the calamities of war and resource shortages, which significantly delayed the process. The index, which I have prepared and completed, is currently stored away and cannot be published at this time. Given these circumstances, although reluctantly, I have decided to make the text itself public now, leaving the publication of the index for more fortunate times.
+  </p>
+  <p>
+    Regarding its origin, structure, content, church-political authority, manuscripts and editions, the scholarly debate about the authenticity of this capitulary, the capitulary itself and the so-called Hadrianic capitulary, the author and his theological teachings, especially what it indicated about venerable images—that they should be kept merely 'in memory of past events and for the decoration of churches' without any veneration—I have discussed these matters in Neues Archiv für Gesellschaft für ältere deutsche Geschichtskunde volumes 36, pages 631-666, and volume 37, pages 455-533. I believe these discussions do not require further supplements.
+  </p>
+  <p>
+    Although I trust that all this is not unknown to readers, it still seems not entirely unnecessary to remind them that the praised chapter is preserved in the Vatican manuscript codex Latin 7207 and its copy in the Arsenal Library codex number 663. Additionally, the renowned John Mercati reported another manuscript in the Vatican Library in Bessarion volume 37, page 112. Even if this manuscript happens to finally come to light, it will not affect the authority of the text from codex Vat. lat. 7207, which I have transcribed.
+  </p>
+
+
+<p>
+The neatly and clearly written material, even if it initially appears that the writer intended to provide an amended copy, I have shown that it cannot be overturned in any way. Was that lost book the one sent by Emperor Charles to Pope Hadrian? Or another copy like codex 663? I will discuss my thoughts on this matter elsewhere.
+</p>
+<p>
+I cannot publish the book without expressing my deepest gratitude to those distinguished men who supported this edition: His Eminence Francis Ehrle, Cardinal of the Holy Roman Church, who was formerly the head of the Vatican Library, and the Most Reverend John Mercati, who currently holds this office. To Albert Ehrhardt, now a professor at the University of Bonn, and especially to Richard Salomon, a professor at the University of Hamburg, who helped me in proofreading the pages and assisted me in every way with their work and advice.
+</p>
+<p>
+Rome, December 1923.
+Hubert Bastgen.
+</p>
+<p>
+"IN THE NAME OF OUR LORD AND SAVIOR JESUS CHRIST.
+</p>
+<p>
+On folio 1.
+</p>
+<p>
+BEGINS THE WORK OF THE MOST ILLUSTRIOUS AND EXCELLENT OR DIGNIFIED MAN CHARLES, BY THE WILL OF GOD KING OF THE FRANKS, GOVERNING FRANCE, GERMANY, ITALY, OR THE ADJACENT PROVINCES WITH THE HELP OF THE LORD, AGAINST THE SYNOD, WHICH IN THE PARTS OF GREECE FOOLISHLY FOR THE WORSHIP OF IMAGES
+</p>
+<p>
+Our mother Church, redeemed by the most precious blood of Christ the bridegroom, washed in the saving waters of regeneration, fed with the salvific food of the body and drink of the blood, anointed with the nectar-like liquid, and spread in peace throughout the whole world, sometimes suffers external, sometimes internal wars.
+</p>
+
+
+<p>
+<s>Sometimes it is shaken by foreign invasions, and sometimes it is troubled by civil unrest.</s>
+<s>Occasionally, it is assailed by the attacks of unbelievers or heretics, and sometimes it is disturbed by the quarrels of schismatics or the arrogant.</s>
+<s>For it is like the ark that holds within it the souls to be saved, similar to the ark of that ancient patriarch, which navigated through the most severe floods of this world without the danger of shipwreck, <phoneme alphabet="ipa" ph="kʊmˈpɛr">compared</phoneme> to Genesis 6:14 onwards.</s>
+<s>It withstands the storms and does not yield to the deadly floods of the present age, nor does it crumble under the siege of hostile powers.</s>
+<s>But rather, it is defended by Him who fights for it and within it, as the prophet says: "Our strong city," Isaiah 26:1.</s>
+<s>The Savior will place a wall and a rampart around it, and He has set watchmen upon its walls, compared to Isaiah 62:6, who will never be silent day or night, resisting adversaries and enduring tumultuous disturbances.</s>
+<s>They welcome those who flock to the true confession of faith and firmly reject those who stubbornly resist this confession, maintaining the stability of the faith.</s>
+</p>
+
+
+<p>
+<s>or nearby provinces.</s> 
+<s>See 'New Archive' vol. 36, p. 665.</s> 
+<s>See below IV, C. 28:</s> 
+<s>When the leaders of two or three provinces come together, what they do is catholic and perhaps can be called universal.</s> 
+<s>This council was held in Nicaea in 787 under the rule of Constantine VI (780-797) and his mother Irene who acted on his behalf.</s> 
+<s>See Hefele, 'History of Councils' (2nd ed., Freiburg 1877) vol. III, pp. 441 and following.</s> 
+<s>Regarding external and internal words, see p. 2, note 1.</s> 
+<s>Notice here the similar sounds of the final words.</s> 
+<s>This style of writing in our vernacular language is called 'rhyme prose.'</s> 
+<s>See what we discussed about this in 'New Archive' vol. 37, p. 504.</s> 
+<s>LL. Councils II. Supplement.</s>
+<s>CHARLEMAGNE'S CAPITULARY ON IMAGES.</s>
+<s>Intact it remains and does not cease to sing with David:</s> 
+<s>They have often attacked me from my youth, let Israel now say, they have often attacked me from my youth, but they could not prevail against me.</s> 
+<s>This continuously explains the mystery of the Holy Trinity through the threefold parts of prayer, while also presenting its words to the ears of divine majesty, that is, the melody of psalm-singing, which it offers without interruption.</s> 
+<s>It petitions for the understanding of the cry, that is, the emotion of the heart, which is wonderfully received not by carnal ears but by the ineffable ears of divine majesty.</s> 
+<s>It earnestly prays with a devoted mind and seeks to make the voice of its prayer heard, so that it may be declared that this is perfect prayer, inflamed by the ardent emotion of the mind.</s>
+</p>
+
+
+    <p>
+        Although it enters our senses, <break time="500ms" /> divine nature is believed not to be discerned by the parts of the body, <break time="500ms" /> but to perform all things with one power. <s> It hears what we see, and looks into what we have thought or will think, <break time="500ms" /> and nothing can be hidden from its ineffable light. </s>
+    </p>
+    <p>
+        It can perceive words with its ears, understand shouts, and pay attention to the voice of speech. <s> Though repeated under various words through the type of expression called "metabole" by rhetoricians, <break time="500ms" /> a threefold repetition signifies one and the same thing. </s>
+    </p>
+    <p>
+        This is shown even in the invocation of the king and God or Lord, as it says: "My King and my God, for to you I pray, Lord." <s> It demonstrates belief in and confession of three persons and one substance in divinity, <break time="500ms" /> as it inserts singular words in the invocation of three names. </s>
+    </p>
+    <p>
+        For she is a holy mother, she is immaculate, she is bright, she is incorrupt, and she is fertile. <s> She knows not how to lose virginity and does not cease to generate children. <break time="500ms" /> The more she is struck by the adversities of the world, the more she expands with greater and more excellent virtues, <break time="500ms" /> and the more she is oppressed, the higher she is exalted. </s> The prophet introduces her speaking to God through ethopoeia: "When I called upon you, you heard me, O God of my righteousness; in my distress, you enlarged me."
+    </p>
+    <p>
+        Since we have taken up the reins of governance in the kingdom by the Lord's granting, <break time="500ms" /> it is necessary that, with Christ's help, we strive with all our might for its defense and exaltation.
+    </p>
+
+
+<p>
+So that we may be considered good and faithful servants by him. This is not only for us, who have been entrusted with ruling in the turbulent battles of this age, but also for all who have been nurtured by his abundance, to observe diligently. However, it is necessary that:
+</p>
+<p>
+We, according to the divine mercy, defend the holy church of Christ from the attacks of pagans and the devastation by infidels with arms externally, and internally strengthen it with the recognition of the Catholic faith. You, most holy father, with your hands raised to God like Moses, should support our army.
+</p>
+<p>
+Alcuin to Charles: Happy is the people that rejoices in such a ruler, in whose prosperity the safety of all consists. For what the apostolic fathers once accomplished in their writings for the confirmation of the Catholic faith in various parts of the world, your most holy diligence does not cease to fulfill. We proclaim this wonderful and special gift of Christ's devotion in you, that you strive with such dedication to cleanse and protect the churches of Christ from the doctrines of the faithless internally, as you attempt to defend or expand them from the devastation of pagans externally. With these two swords, the divine power has armed your venerable excellence on the right and left: in which you are a praiseworthy victor and glorious conqueror.
+</p>
+<p>
+Alcuin to Charles: Behold, in you alone rests the entire salvation of the churches of Christ. Alcuin to Charles: O defender of the churches of God, through your prosperity.
+</p>
+
+
+  <p>
+    May the Christian empire be protected, and the Catholic faith be defended.
+  </p>
+  <p>
+    Alcuin to Charles: From this, it can be clearly recognized that not only is the imperial power of your wisdom given by God for the governance of the world, but especially for the protection of the church and the enhancement of wisdom.
+  </p>
+  <p>
+    One should never separate from His union, who is known to be a member of it, for whoever is not with it is against it, and whoever does not gather with it, scatters. Therefore, we are compelled to speak on this matter, which we do not pursue without a certain sorrow of the soul, as we are taught by the apostolic example to be weak with the weak and to burn with those who are scandalized.
+  </p>
+  <p>
+    The inflamed ambition of vain arrogance and the most insolent desire for empty praise has incited certain people of the eastern regions, not only kings but also priests, to the extent that they disregarded sound and sober doctrine, and belittled that apostolic saying: If anyone preaches to you a gospel other than what has been preached, even if it is an angel, let him be accursed. And they, transgressing the prophetic instruction and the boundaries of the elders, attempt to impose upon the church through infamous and most inept synods what neither the Savior nor the apostles are known to have imposed. And while they strive to elevate the height of their own praise, they accumulate great guilt upon their souls, and while they wish to consign the order of their deeds to the memory of posterity.
+  </p>
+
+
+<p>
+<s>Yes, they tear apart the bond of church unity.</s>
+<s>Years ago, in parts of Bithynia, a certain council was held with such reckless and indiscreet boldness that they carelessly abolished images placed in church decorations and commemorations of historical events from ancient times.</s>
+<s>They did this without caution, and with a rejection that went against what the Lord commanded about idols in Leviticus 26.</s>
+<s>They committed the same action towards all images, not understanding that an image is a type, while an idol is a specific kind, and that a specific kind cannot be referred to as a type, or vice versa.</s>
+</p>
+<p>
+<s>For although almost every idol is an image, not every image is an idol.</s>
+<s>An idol and an image have very different definitions.</s>
+<s>An image is made to adorn or to show achievements, while an idol is made only to entice the souls of the misguided with sacrilegious rites and empty superstitions.</s>
+<s>An image is said to refer to something else, whereas an idol refers to itself.</s>
+</p>
+<p>
+<s>These people, blinded by the darkness of such folly, included among their errors this idea: that their king, Constantine, had freed them from idols.</s>
+<s>To him who rejoices like a giant to run his course, about whom it is said "Behold, the lion of the tribe of Judah, the root of David, has triumphed," they wished to deny the title of victory by attributing it to their king.</s>
+<s>The prophet had predicted not about their king, but about the true conqueror, Christ: "Behold, the Lord will ascend upon a light cloud and will enter."</s>
+</p>
+
+
+  <p>
+    Egypt will tremble before him, and the idols of Egypt will be destroyed in his presence. The light cloud represents a human body, which he took from a virgin without the stain of human corruption. Egypt is meant to symbolize the world, which he promised to reshape through Jeremiah with almost the same words, saying: "I will destroy the idols and make the false gods of Memphis cease."
+  </p>
+  <p>
+    Furthermore, nearly three years ago, another council was held in those parts by the successors of those who had conducted the previous one. Many who were present at the first council were also said to be present at this one. Although this council differed in intent from the first, it did not differ in error; and though the matter is different, the disgrace is the same. And while it came later in time, it did not come later in wrongdoing. Not surprisingly, they seem to flow into the same pit of hell, although they drift through different paths, as they are believed to stem from the same source of pride and vain glory.
+  </p>
+
+
+<p>
+<s>He compels the previous administrators to worship images, which the previous one had not even allowed to be seen.</s> 
+<s>And wherever they found any mention of images, whether in the places of the Divine Scripture or in the commentaries of the holy fathers, they twist it to suit their own will for adoration.</s> 
+<s>These people are no less absurdly connected in 'having' and 'adoring' than those were in image and idol, as those thought image and idol to be the same, and these think 'having' and 'adoring' to be one and the same, which are different both in nature and in the way they are discussed.</s> 
+<s>For although those differ greatly in kind, they are at least connected in that one is a species and the other a genus, but these are connected neither by genus nor by species nor by any such association, as things can be adored which are not possessed, and things can be possessed which are not adored.</s> 
+</p>
+<p>
+<s>Thus, casting away the reins of moderation and disregarding what was not incongruously said by the ancients in the proverb: "Nothing in excess," they proceed through the byways, as if someone, caring to impose temperance on a person given to much talking, the latter, on the contrary, studies silence so much that he becomes mute.</s> 
+<s>And to whom unrestrained talkativeness brought shame, equally brings shame through idle silence.</s> 
+<s>Or if a doctor reproves a patient for drunkenness, the latter, thinking to obey the doctor's orders, forbids himself not only wine but also any liquid, so that he who was previously languishing from too much wine might become weak from lack of moisture.</s>
+</p>
+
+
+  <p>
+    <s>
+      Your soul, deprived of all refreshing drink, languishes from thirst, parched and dry, even though the cause of your suffering might be different, the effect remains the same: the error of laziness.
+    </s>
+    <s>
+      Meanwhile, neither side, neither these nor those, are bound by the reins of temperance, but both rush headlong down precipitous paths and diverge in their courses, yet they converge at one point: the bride of Christ, the church, to whom He says in the Song of Songs: "You are altogether beautiful, my love, and there is no flaw in you."
+    </s>
+    <s>
+      They try to impose blemishes on her, while some seek to strip her of her virtues and others misuse them, either by removing her adornments or by promoting the worship of those adornments.
+    </s>
+    <s>
+      Both of these evils, as we have said, spring from the fountain of vanity.
+    </s>
+  </p>
+  <p>
+    <s>
+      While they seek human approval and wish to be called Rabbi by men, and they set their praises at the top of their agendas, not considering what a wise man once said: "Let another praise you, and not your own mouth; a stranger, and not your own lips."
+    </s>
+    <s>
+      Abandoning the traditions of the ancient fathers, who decreed not to worship images but allowed them as church ornaments, they strive to impose new and unusual regulations on the church, which add blemish rather than beauty.
+    </s>
+    <s>
+      For if it is vanity to impose new regulations on the church, it is a schism, which should not occur in the church.
+    </s>
+    <s>
+      And if it is a schism, it is a blemish, which is denied to be in the bride.
+    </s>
+    <s>
+      So if it is vanity to impose new regulations on the church, it is a blemish.
+    </s>
+  </p>
+
+
+  <p>
+    <s>There is no doubt about it, it is denied that she can be a bride.</s>
+    <s>Therefore, as stated in John 3:29, it is understood that one cannot be a friend of the bridegroom who seeks to accumulate glory for himself, by not fearing to obscure the wisdom of the church with errors.</s>
+    <s>Thus, if the bride should not be stained, no one should attempt to stain her.</s>
+    <s>If no one should attempt to stain her, then whoever does so wrongs the bridegroom.</s>
+  </p>
+  <p>
+    <s>If therefore the bride should not be stained — and truly she should not be — whoever attempts to stain her wrongs the bridegroom.</s>
+    <s>We, content with the prophetic, evangelical, and apostolic writings and the teachings of the holy orthodox fathers, who in no way deviated in their doctrines from Him who is the way, the truth, and the life, and imbued with the teachings of the six holy and universal councils, which were convened by the holy and venerable fathers to address various heresies, reject all new ideas and foolish inventions.</s>
+    <s>We not only do not accept them, but we also despise them as filth, just as we despise the council held in Bithynia for its impudent tradition of image worship.</s>
+  </p>
+  <p>
+    <s>The text of its writings, lacking eloquence and sense, has reached us.</s>
+    <s>We were compelled to write against its errors, so that if by chance it tries to pollute the hands of those holding it or the ears of those listening to it, it may be repelled by the authority of our pen, armed with the divine scriptures.</s>
+    <s>And thus, it may be rendered inactive or rather unarmed.</s>
+  </p>
+
+
+<p>
+<s>
+The enemy coming from the east will be struck down in the west by the judgment of the holy fathers, brought to us by God.
+</s>
+<s>
+We have undertaken this work with the agreement of the priests in the kingdom granted to us by God, for the Catholic flocks of prelates, not with arrogance and pride, but with zeal for God and the pursuit of truth.
+</s>
+<s>
+For just as it is holy to adhere to just and honest things, it is certainly a sin to accommodate oneself to the worst and most disordered things.
+</s>
+<s>
+Thus, David offered to God as a pure sacrifice that he fled from the company of evildoers, when he said, "I hated the congregation of evildoers, and I will not sit with the wicked."
+</s>
+<s>
+And Jehoshaphat, king of Judah, was rebuked by the Lord through a prophet for being allied with the worst king of the Israelite nation.
+</s>
+<s>
+So, the founders of the aforementioned two synods are neither lacking in the skill of speech, as the Apostle claims to be unskilled in speech but not in knowledge, nor in the eloquence combined with spiritual sense, of which it is said in the Song of Songs of the Church from the perspective of the holy preachers: "We will make for you ornaments of gold, studded with silver."
+</s>
+<s>
+We find it strange that they are so inflated by the wind of such vanity that they not only dared to disturb these things but also tried to count them among the six venerable synods.
+</s>
+<s>
+Neither of them should be counted as the seventh after Nicaea, but rather either the third, preserved after Ariminum, or the second, destroyed earlier.
+</s>
+<s>
+In the following, when the matter demands, we will explain this more carefully with the Lord's guidance.
+</s>
+</p>
+
+
+<p>We will not dispute. <break time="500ms" /> 
+These things, of course, <phoneme alphabet="ipa" ph="haʊd sɛkʊs">are not</phoneme> to be compared with the six synods, just as the altar of the Reubenites, Gadites, and half-tribe of Manasseh cannot be compared to the altar established by the Lord's command through the legislator. <s>Its authors would have faced the fury of the Israelite swords if humble confession mixed with prayers had not preempted brotherly anger.</s> <s>We, indeed, have been taught by the prophecy of Isaiah, who says: "This is the way, walk in it, you will not turn to the right or to the left,"</s> and warned by the teaching of the Apostle to the Gentiles, who directs us to the way.</p>
+<p>Anastasius the librarian of Rome considered it improper and inconvenient that the seventh synod (i.e., the Second Council of Nicaea) <sub alias="should not have a Latin version">should not be available in Latin</sub>; <s>not because it had never been translated before, but because the translator followed the word-for-word idiom of both languages so closely that it was either barely or never understood, and thus it became tedious to read, leading almost everyone to despise it for this reason.</s> <s>Therefore, Anastasius made another translation, which he dedicated to Pope John VIII.</s> Anastasius and the author of this Capitular had the same translation in mind.</p>
+<p>The importance of these words has been demonstrated. <s>It is clearer than daylight that this Capitular is a book that, in our vernacular language, would be called a 'state document.'</s> </p>
+
+
+<p>
+The public letters of the 'western part' against the 'eastern part', the king of the Franks against the 'king' of the Greeks.
+</p>
+<p>
+<sub alias="Compare">Cf.</sub> the acts of the Paris Council of the year 825: Moreover, the same synod (i.e., the Second Council of Nicaea) was read out by your father of holy memory (i.e., Charlemagne) in front of himself and his people, and he criticized it in many places, as was appropriate, etc.
+</p>
+<p>
+<sub alias="Compare">Cf.</sub> our commentary N. A. XXXVII, 475.
+</p>
+<p>
+The Ariminum Synod was celebrated in the year 359; <sub alias="compare">cf.</sub> N. A. XXXVI, 666 and below IV, C. 13.
+</p>
+<p>
+<sub alias="Compare">Cf.</sub> Joshua 22:9 and following.
+</p>
+<p>
+Saint Paul; <sub alias="Compare">cf.</sub> 1 Timothy 2:7.
+</p>
+<p>
+The Capitulary of Charlemagne concerning Images.
+</p>
+<p>
+He established the royal policy of keeping images in the decorations of churches and as a memory of past events, and worshipping only God and offering appropriate veneration to His saints. We neither break them nor worship them, but we reject the writing of that most foolish synod, which not only lacks the eloquence to express small things humbly, moderate things temperately, and great things grandly, but also neglects the style of simple speech. We strive to be followers of our teacher, namely the Lord's Word, in every way. Since, therefore, the confused discussions of the aforementioned synod contain fathers anathematizing their sons and sons anathematizing their fathers, our style, with the Lord's favor, will arrange a mixed criticism of both, leaving nothing undiscussed, nothing untouched, nothing hidden in the caves of silence, except perhaps what difficulty may conceal.
+</p>
+
+
+<p> 
+<s>He denied sharing the disorderly speech with our understanding or the childish ineptitude of the statement, restrained by respect, and despised our speech for pursuing it.</s> 
+<s>About what Constantine and Haerena say in their writings: "Through Him who reigns with us, God."</s> 
+<s>About what Constantine and Haerena wrote in a letter to the venerable Pope Adrian of the apostolic see: "God chose us, who seek His glory in truth."</s> 
+<s>About what Constantine and Haerena call their deeds or writings "divine."</s> 
+<s>About what Constantine and Haerena wrote in their letter to the venerable Pope Adrian of the city of Rome: "We ask for your fatherly support, and especially God asks, who does not want any person to perish."</s> 
+<s>That it is no small sin to understand the Holy Scriptures in a way other than they should be understood, and to adjust them to meanings they do not contain, as in the erroneous synod, which took place in Bithynia, during the reign of Constantine and his mother Haerena, with Tharasius, the bishop of Constantinople, presiding.</s> 
+<s>That the holy Roman, catholic, and apostolic church should be consulted above other churches for matters of faith when a question arises.</s> 
+<s>That the statement "God created man in His own image and likeness" does not pertain to the worship of images.</s> 
+<s>What is the difference between image and likeness or equality.</s> 
+<s>How to understand the statement "Abraham worshiped the people of the land, the sons of Heth," or what Moses taught Jethro.</s> 
+</p>
+
+
+  <p>
+    <s>They worshiped in error—those who, by these examples, try to support their mistake of holding synods for the sake of worshipping images.</s>
+    <s>And because neither Jacob worshiped Pharaoh nor Daniel worshiped King Nebuchadnezzar, as they claim, it is nowhere to be found.</s>
+  </p>
+
+  <p>
+    <s>About that which John, a presbyter and envoy of the East, is read to have said carelessly, attempting to establish the worship of images: 'Jacob set up a pillar to God and blessed it.'</s>
+  </p>
+
+  <p>
+    <s>About that which the aforementioned John said: 'He wrestled with him in the form of a man and called him Israel, which is interpreted as: A mind seeing God.'</s>
+  </p>
+
+  <p>
+    <s>It does not pertain to the worship of images, nor is it found in our texts translated from the Hebrew truth, that which they say in their synod: 'Jacob, receiving the torn coat of Joseph from his sons, kissed it with tears and laid it on his eyes.'</s>
+  </p>
+
+  <p>
+    <s>About that which they say ignorantly and disorderly: 'If you accuse me of worshiping the wood of the cross as God, why do you not accuse Jacob of worshiping the top of Joseph's staff?' But it is clear that he did not worship the wood itself, but through the wood, Joseph, just as we worship Christ through the cross.</s>
+  </p>
+
+  <p>
+    <s>It does not pertain to the worship of images, as they say, that it is written: 'Jacob blessed Pharaoh.'</s>
+  </p>
+
+  <p>
+    <s>How absurdly they act, who bring forth examples from divine law to confirm images, saying the mercy seat and two golden cherubim and the ark of the covenant.</s>
+  </p>
+
+
+<p>To the recipient, the Lord commanded Moses to do this.</p>
+<p><s>16</s> <s>That it does not pertain to the worship of images, as those very foolishly and irrationally think,</s> <s>that it was written by the lawgiver:</s> <s>'Behold, I have called by name Bezalel, the son of Uri, son of Hur, of the tribe of Judah, and I have filled him with the spirit of wisdom and understanding to complete the work with gold and silver, and I have given him Aholiab, the son of Ahisamach,'</s> <s>and so on.</s></p>
+<p><s>17</s> <s>That they do not think correctly, who say:</s> <s>'If according to Moses's lawful tradition it is commanded to the people that purple and blue threads be placed on the fringes at the ends of their garments</s> <s>as a reminder and to keep the commandments, then much more should we, through the depicted images of holy men, see the outcome of their way of life and imitate their faith according to apostolic tradition.'</s></p>
+<p><s>18</s> <s>That their hope is in vain, who place their salvation in images, saying:</s> <s>'Just as the Israelite people were saved by looking at the bronze serpent, so we will be saved by looking at the images of the saints.'</s></p>
+<p><s>19</s> <s>That it is very reckless to say:</s> <s>'Just as the Jews were given the tablets and the two cherubim, so we Christians have been given the cross and the images of the saints to write and worship.'</s></p>
+<p><s>20</s> <s>That it is known that Tharasius was excessively bold, saying:</s> <s>'Just as the ancients had the cherubim overshadowing the mercy seat, so we have the images of our Lord Jesus Christ and the holy Mother of God and his saints overshadowing the altar.'</s></p>
+<p><s>21</s> <s>That John the presbyter did not think well, who, to support the worship of images,</s></p>
+
+
+  <p>
+    <s>
+      Jesus said: 'And Joshua set up twelve stones in memory of God.'
+    </s>
+  </p>
+  <p>
+    <s>
+      XXII. There is no equal worship, as they say, between the prophet Nathan toward King David and the worship of images.
+    </s>
+  </p>
+  <p>
+    <s>
+      XXIII. Regarding what is written: 'Your face's light has shone upon us, O Lord,' or: 'I seek your face, O Lord,' nothing should be understood as referring to a man-made image, as they say.
+    </s>
+  </p>
+  <p>
+    <s>
+      XXIV. It does not pertain to any man-made image what is written: 'All the rich among the people will seek your face,' as they claim.
+    </s>
+  </p>
+  <p>
+    <s>
+      XXV. The words of Bishop Leo of Fotice, who applied the psalmist's verse to himself when he turned to the worship of images, are untimely and full of delusion, saying: 'You turned my mourning into joy, tore my sackcloth, and clothed me with gladness.'
+    </s>
+  </p>
+  <p>
+    <s>
+      XXVI. It does not pertain to the worship of images, those who disregard what the psalmist sang: 'Each one spoke vain things to his neighbor; they spoke with deceitful lips and a double heart.'
+    </s>
+  </p>
+  <p>
+    <s>
+      XXVII. It does not pertain to their parents, as they say: 'May the Lord destroy all deceitful lips and boastful tongues.'
+    </s>
+  </p>
+  <p>
+    <s>
+      XXVIII. It is not fulfilled in their parents, as they say, what is written: 'The enemies have perished; their cities have been destroyed by the sword to the end.'
+    </s>
+  </p>
+
+
+  <p>
+    <s>
+      As it is written: <sub alias="Lord">Domine</sub>, I have loved the beauty of your house.
+    </s>
+    <s>
+      These images understand that beauty.
+    </s>
+  </p>
+  <p>
+    <s>
+      This was not said by the psalmist about man-made images, as they claim: 'As we have heard, so we have seen.'
+    </s>
+  </p>
+  <p>
+    <s>
+      About what Constantine and Hacrena say in their writings: 'Through Him who reigns with us, God.'
+    </s>
+  </p>
+  <p>
+    <s>
+      Human frailty often exceeds the limits of its own capability, and the more it exalts itself beyond what it should, the more it withdraws from Him who dwells on high and looks down on the humble in heaven and on earth.
+    </s>
+    <s>
+      And the more it tries to draw near to Him who is exalted above all nations by seeking loftiness, the more it is distanced from Him.
+    </s>
+    <s>
+      If it does not neglect the measure of its condition and strives to reach higher while submitting itself with a devoted mind to humbler things, it can ascend by lowering itself to Him from whom it was known to descend by exalting itself.
+    </s>
+    <s>
+      And as much as it humbles itself to the ground, it becomes closer to heaven.
+    </s>
+  </p>
+  <p>
+    <s>
+      Therefore, as our being is so distant from God's being, and our living from His living, and our reigning from His reigning, the madness of those who indiscriminately claim God to reign with them is more to be lamented than admired.
+    </s>
+    <s>
+      For His being is simply being; He does not know past or future.
+    </s>
+    <s>
+      He does not have a part of eternity, which we call time and divide into present, past, and future, but He possesses the entirety of eternity in the unchangeability of His essence.
+    </s>
+    <s>
+      Therefore, to Him, being is simply being.
+    </s>
+  </p>
+
+
+    <p>
+        <s>Moses was told, "I am who I am," and "He who is has sent me to you."</s>
+        <s>But for us, with our past memories, present experiences, and future expectations, our existence doesn't compare to His.</s>
+    </p>
+    <p>
+        <s>These words weren't found in the letter written by Constantine and Irene, but in another letter sent to them through Tarasius, the Patriarch of Constantinople (784-806), who led the Second Council of Nicaea.</s>
+        <s>There, it reads "the Savior of all of us who rules over you," which Anastasius the Librarian translated as "our Savior, who commands you all" (Acts of the Second Council of Nicaea, session VII; Mansi XIII, 407/08).</s>
+        <s>Pope Hadrian, in his response to our Capitulary, where this chapter is discussed (MG. Epp. V, 53, C. XXI), repeated the heading verbatim as it stands in the Capitulary.</s>
+        <s>This is consistent throughout; see N. A. XXXVII, 477.</s>
+        <s>Also, refer to Hefele III, 716.</s>
+    </p>
+    <p>
+        <s>For His life neither feels a beginning nor an end nor any change.</s>
+        <s>As it is written in the prophets: "As I live," says the Lord, and some of the saints dared to say, "The Lord lives," meaning He lives that life which neither began nor is subject to change nor ends.</s>
+    </p>
+    <p>
+        <s>However, our life undergoes a beginning, an end, and changes; although the soul is immortal, it is still mutable.</s>
+    </p>
+
+
+<p>
+<s>
+It is understood that this change is often attributed to death. 
+</s>
+<s>
+Thus, it was said to the first man: On the day you eat from it, you will surely die. 
+</s>
+<s>
+Not that he was immediately punished with the death of the flesh when he transgressed the Lord's command, but because he strayed far from that holiness in which he stood close to God, through the changeability of the mind.
+</s>
+</p>
+<p>
+<s>
+Moreover, his reign differs from our reign as much as his being differs from our being and his living from our living, for his essence, just as it always had being and living, so also it had reigning.
+</s>
+<s>
+Our reigning is preceded by our being and living, and is succeeded by our perishing. 
+</s>
+<s>
+Given these conditions, it is a great presumption for anyone to claim to 'co-reign' with God. 
+</s>
+<s>
+Even David, about whom the Lord said, "I have found David, a man after my own heart," and "I have found my servant David; with my holy oil I have anointed him," did not dare to say this.
+</s>
+<s>
+Nor did Solomon, to whom the Lord said, "Wisdom and knowledge are granted to you, and I will give you riches, wealth, and honor, such as no king before you has had, nor shall any after you have." 
+</s>
+<s>
+He confidently said of himself, "God has taught me wisdom, and I have understood the knowledge of the holy ones."
+</s>
+<s>
+Nor has any king, whether upheld by the prerogative of merits or mentioned by Scripture as having been proud, been read to say such a thing.
+</s>
+</p>
+<p>
+<s>
+Meanwhile, the syllable 'con' in forming verbs according to those who are literary...
+</s>
+</p>
+
+
+  <p>
+    <s>The term "discipline" means almost nothing other than "together," as in: "Let the entire congregation of Israel gather together" and "Let them come together for the feast day," that is, come together in a group.</s>
+    <s>The Apostle says: "If we suffer together, we shall also be glorified together," that is, be glorified together.</s>
+    <s>And this: "They both sat by the edge of the fountain," that is, they sat together.</s>
+    <s>The term "consessor" means "one who sits together."</s>
+  </p>
+  <p>
+    <s>"Together" is said to mean certain things, according to those who delve into logical secrets, in three ways: by time, by nature, and by kind.</s>
+  </p>
+  <p>
+    <s>By time, as the blessed Augustine says, when things exist or appear together at the same time, so that neither is before or after the other, but both seem to have a common beginning.</s>
+    <s>According to this mode, we cannot be said to reign together, since he is eternal and we are temporal, he without a beginning, and we with a beginning.</s>
+  </p>
+  <p>
+    <s>By nature, when certain things are naturally together, yet none of them precedes the other.</s>
+    <s>For example, simple and double must naturally be together.</s>
+    <s>But neither does double make simple exist, nor does simple make double exist.</s>
+    <s>According to this mode, we cannot be said to reign together, since his nature is prior to ours in so many ways, and the creator precedes the created in so many ways.</s>
+  </p>
+  <p>
+    <s>By kind, whenever things from the same kind seem to be naturally together, but are distinguished by species, as is the case with animals.</s>
+    <s>For instance, a land animal and an aquatic animal are both called animals.</s>
+  </p>
+
+
+<p>
+No form is distinguished, and none is before another, but all begin at once from the living being. 
+</p>
+<p>
+When it comes to the changeable word, the first page of which is written by a hand from the 13th century, refer to N. A. XXXVII, 48.
+</p>
+<p>
+Thus rightly A; invited V. 
+</p>
+<p>
+Thus rightly A; from the first.
+</p>
+<p>
+It begins in a hand from the 8th century.
+</p>
+<p>
+In the first, refer to N. A. l. C.
+</p>
+<p>
+Let us also be glorified VA.
+</p>
+<p>
+Let us be glorified VA.
+</p>
+<p>
+As often as it.
+</p>
+<p>
+Refer to Alcuin, De dialectica C. XI; Migne, Patrologia Latina, CI, 964.
+</p>
+<p>
+Refer to Augustine, On the Literal Interpretation of Genesis Book IV, Chapter 34; Corpus scriptorum cccl. lat. Vindob. (cited CSEL) XXVIII, section III, p. I, 134; Migne, l. C. XXXIV, 319.
+</p>
+<p>
+Councils Il. Supplement.
+</p>
+<p>
+The CAPITULARY OF CHARLEMAGNE CONCERNING IMAGES.
+</p>
+<p>
+It is known to arise from one kind. This third way, no less than the previous two, refuses to rule with us simultaneously, as our nature is not at all known to be joined with its certain substance and distinguished by a certain form. Although it is present everywhere through the power of divinity, it cannot rightly be said to co-rule with anyone. For to be everywhere is one thing, to be with someone at the same time is another; to rule ineffably is one thing, to co-rule with anyone is another.
+</p>
+<p>
+Therefore, 'to co-rule' and 'to sit together' and many such phrases, if expressed absolutely without indicating anyone to whom one might co-rule or sit together, designate two or more ruling or sitting together at the same time. But if someone is said to co-rule or sit together with someone, it signifies that the one who co-rules or sits together with is preceded, and the other participates.
+</p>
+<p>
+Refer to Acts.
+</p>
+<p>
+Refer to Colossians 2:12.
+</p>
+<p>
+Refer to 9:15.
+</p>
+
+
+    <p>
+        <s>Yesterday, Paul, the chosen vessel who reigns and sits with Christ, said: "You have been buried with Christ"; and again: "If you have been raised with Christ, seek what is above."</s>
+        <s>From this, it can be understood that the one who is buried and rises again precedes, while those who are buried and rise with him participate in him.</s>
+        <s>If the Redeemer of the human race had not been buried and risen for us, we would not be able to be buried and rise with him.</s>
+        <s>From this teaching, it is gathered that God is removed from caution when he tells us that he reigns with us, not participating in reigning with us, but as the author of all things, precedes all in being, living, and reigning.</s>
+    </p>
+    <p>
+        <s>If someone, being contentious, tries to argue an error about this word, citing what is said about the only begotten Son of God in the form of a servant,</s>
+        <s>saying: "Why does he not reign with us, with whom, according to the Apostle, we suffer, are buried, made alive, and rise again; of whose promise we are co-heirs, co-body members, and co-participants in the same Jesus Christ through the gospel, in whom God raised us up together and made us sit together in the heavenly realms;</s>
+        <s>about whom the evangelist also says: 'While dining, he was taken up'; and again: 'They went out and preached everywhere, with the Lord working with them'?"</s>
+        <s>Let him consider, once the fog of a cloudy mind is cleared, that this is not from his divinity, but from our humanity, in which we suffer, are buried, and are made alive with him.</s>
+        <s>For just as to suffer, to be buried, and to eat are things in which we suffer and are buried with him.</s>
+    </p>
+
+
+<p>
+<s>Eating with us is said to be uniquely human, and so ruling is uniquely divine, as the psalmist testifies.</s>
+<s>Psalm 148:1</s>
+<s>He says: "His name alone is exalted"; and again: "The kingdom is the Lord's and He will rule";</s>
+<s>Psalm 21:29.</s>
+<s>Psalm 144:13.</s>
+<s>and again: "Your kingdom, Lord, is an everlasting kingdom, and your dominion endures through all generations."</s>
+<s>We are said to rule too, but mistakenly, not rightfully.</s>
+<s>For to rule, to be immortal and truthful, is natural to Him alone; but for others, who achieve these qualities, it is attributed by His generosity, who truly reigns, is the only immortal and truthful one, as the teacher of nations preaches.</s>
+<s>Romans 3:4.</s>
+<s>He says: "God is truthful, and every human is a liar"; and again: "He alone has immortality."</s>
+<s>1 Timothy 6:16.</s>
+</p>
+<p>
+<s>Not that, as the blessed Jerome says, angels and other rational creatures do not have immortality and are not lovers of truth, but He alone is naturally both immortal and truthful, while others achieve immortality and truth from His generosity.</s>
+<s>It's one thing to possess something on your own, and another to have it by the power of the one who gives it to you.</s>
+<s>If we can rightly say that we can die and suffer with God, who is immortal and impassible, then it can also be rightly said that God can reign with us.</s>
+<s>And if the former is evidently absurd to say, then the latter is prudently rejected.</s>
+</p>
+
+
+<p>
+We share in Christ's suffering when, out of love for Him who endured the pain of the cross for us, we crucify our flesh—that is, the world with its sins and desires (Galatians 5:24). We die to the world and rise with Christ, and in doing so, we crucify the flesh, meaning the body (Galatians 6:14, Colossians 2:20), so that we may trample its desires. For we are buried with Him through baptism into death (Romans 6:4), so that just as Christ was raised from the dead by the power of the Father, we too might walk in newness of life. And thus, being baptized, we are buried with Him, so that from then on we may follow this life in which Christ rose. Baptism is the pledge and image of the resurrection, so that, remaining in Christ's teachings, we do not return to past sins. We are made alive and rise with Him if we are united in the likeness of His death (Romans 6:5), that is, if in baptism we renounce all sins and are transferred to a new life, no longer sinning (Romans 6:6). The likeness of His death has granted us a similar resurrection. We are co-heirs and co-participants with Him, not because any possession is divided among us, but because He Himself is our inheritance and possession. For the Lord has said, "The Lord is your inheritance" (Deuteronomy 18:2); and elsewhere, "The Lord is my portion and my inheritance" (Psalm 16:5). We are united in body, even though we have different graces (Ecclesiasticus 45:27).
+</p>
+
+
+<p>
+<s>They believed in this, but they are united in one body of the Church.</s>
+<s>Therefore, together He made them sit with Christ in the heavenly places,</s>
+<s><sub alias="see">cf.</sub> Ephesians 2:6.</s>
+</p>
+<p>
+<s>Not that the saints sit there as long as they are in this world and are away from Him,</s>
+<s>but according to the judgment of the aforementioned doctor, this is the practice of the Scriptures,</s>
+<s>that sometimes future events are referred to in the past tense by a figure of speech,</s>
+<s>which is called prolepsis, for example in</s>
+<s><sub alias="Psalm">Ps.</sub> 22:16.</s>
+</p>
+<p>
+<s>They pierced my hands and my feet,</s>
+<s>and elsewhere about His passion.</s>
+<s>Like a lamb</s>
+<s><sub alias="Isaiah">Is.</sub> 53:7,</s>
+<s><sub alias="Jeremiah">Jer.</sub> 51,</s>
+<s>He was led to the slaughter,</s>
+<s>or certainly in a spiritual sense,</s>
+<s>the saints are not in the flesh,</s>
+<s>although they live in the flesh</s>
+<s>and have their conversation in the heavenly places,</s>
+<s>while they walk on earth,</s>
+<s>ceasing to be flesh,</s>
+<s>they strive entirely in the spirit,</s>
+<s>thus they sit in the heavenly places with Christ.</s>
+</p>
+<p>
+<s>The Kingdom of God is within us,</s>
+<s>and where our treasure is,</s>
+<s>there will our heart be also;</s>
+<s>and we sit firm and stable with Christ in wisdom, word, righteousness, and truth.</s>
+<s>The apostles preached, with the Lord working with them,</s>
+<s>that is, providing support for good works,</s>
+<s>and therefore their work had such power that thousands of people believed at their preaching,</s>
+<s>and the strength of nature was broken,</s>
+<s>the dead received life, the blind received sight, and the deaf received hearing.</s>
+</p>
+<p>
+<s>The Lord indeed works with all the saints according to the Apostle, who says:</s>
+<s>I became a minister according to the gift of grace that was given to me by the working of His power.</s>
+<s>But to sinners,</s>
+<s>...</s>
+</p>
+
+
+  <p>
+    Therefore, they sin greatly, and in no way should they be believed to cooperate or reign together. So, if that which the Apostle says, "If we endure, we will also reign with him," is considered by anyone to offer some help in this matter, they should understand that this is different based on three reasons: person, time, and merit.
+  </p>
+  <p>
+    By person, because it is not said that he will reign with the saints, but that the saints will reign with him; by time, because it is not said that they have reigned or are reigning, but that they will reign; by merit, because not just anyone, but only the saints will reign with him. For he says, "If we endure, we will also reign with him," meaning if we endure in this age, we will reign in the future or certainly after the judgment, when we will no longer see him through a mirror and in riddles, but face to face. 
+  </p>
+  <p>
+    For if we are still in this world, we still endure; if we still endure, we do not yet reign. So, if we are still in this world, we do not yet reign. Moreover, if we reign with him, what is perfect has already come; if what is perfect has already come, then what is partial has been done away with. But what is partial has not been done away with, so we do not yet reign with him.
+  </p>
+  <p>
+    Therefore, if the saints, as long as they are in this world, do not reign with him, much less does he reign with them, whose is the kingdom and the power, and whose is the reign.
+  </p>
+
+
+<p>
+<s>If there will be no end, and if he does not reign with the saints, he certainly cannot be said to reign with sinners.</s>
+<s>But we have learned from the Apostle John that the saints will reign with him.</s>
+<s>For he says, "Beloved, it has not yet appeared what we shall be; but we know that when he appears, we shall be like him, for we shall see him as he is."</s>
+<s>So, 'when he appears, what we shall be' means immortal and glorious, in which 'we shall be like him'.</s>
+</p>
+<p>
+<s>He said 'like', not 'equal'.</s>
+<s>Like, of course, not in bodily resemblance, but in the inner person, as the blessed Augustine says in his letter to the virgin Italica:</s>
+<s>"Who would be so foolish as to say that we are or will be similar to God in body?</s>
+<s>So, this likeness is in the inner person."</s>
+</p>
+<p>
+<s>"Therefore, we shall see him as he is," when according to his promise, he reveals himself to those who love him, existing without end.</s>
+<s>In this, we will see God, celebrating the eternal Sabbath's solemnity infinitely, as the Lord says to us:</s>
+<s>"Be still and know that I am God."</s>
+<s>All these things will not be fulfilled in the saints until, according to the Apostle, "this mortal puts on immortality and this corruptible puts on incorruption."</s>
+</p>
+<p>
+<s>For if we reign with him, what we shall be has already appeared;</s>
+<s>if what we shall be has already appeared, we are already like him;</s>
+<s>if we are already like him, we already see him as he is.</s>
+<s>But we do not yet see him as he is, so we do not yet reign with him.</s>
+<s>Therefore, he reigns in us, not 'reigns with' us, he reigns, indeed, according to...</s>
+</p>
+
+
+<p>
+<s>According to the blessed Augustine's opinion, in believers, because he was weakened even to the cross and death.</s> 
+<s>In this way, the Son properly reigns in the faith of believers.</s> 
+<s>For the Father cannot be said or believed to be incarnate, judged, or crucified.</s> 
+<s>Through the form in which he is equal to the Father, he reigns in those who contemplate the truth, but does not reign with us, because he does not share in our kingdom.</s> 
+<s>For his kingdom is properly his own, as we discussed earlier.</s> 
+<s>We do not yet reign with him as long as we are clothed in this mortal body.</s> 
+<s>We hope to do so through his mercy, when, according to the contemplation of the higher truth, to attain blessedness without any movement of the soul or resistance from any part of the body, no one will love personal power.</s> 
+<s>God will be all in all.</s> 
+</p></speak>
