@@ -1,0 +1,126 @@
+<speak>
+<break time="2s"/>Augustine responds to Maximus the grammarian regarding previous correspondences, but does so in a manner that shows they are unworthy of response, suitable for ridicule.
+
+<break time="2s"/>
+From Epistle Seventeen found in Volume 33 of Patrologia Latina<break time="1s"/>
+  <p>
+    <s>
+      Are we having a serious discussion or just joking around?
+    </s>
+    <s>
+      Because, judging by your letter, whether it was due to the weakness of your argument or the amiability of your manners, I'm uncertain if you preferred to be witty rather than ready.
+    </s>
+  </p>
+  <p>
+    <s>
+      First, you compared Mount Olympus with your forum.
+    </s>
+    <s>
+      I'm not sure what the point was, unless it was to remind me that Jupiter set up camp on that mountain when he fought against his father, as the story goes, which even your people call sacred.
+    </s>
+  </p>
+  <p>
+    <s>
+      And to make me recall that in your forum there are two statues, one of Mars naked and the other armed, whose spirit, extremely hostile to the citizens, would be suppressed by a human statue with three fingers extended.
+    </s>
+    <s>
+      Did you really think I would believe that by mentioning that forum, you wanted to renew my memory of such gods, unless you preferred joking rather than being serious?
+    </s>
+  </p>
+  <p>
+    <s>
+      But the part where you said that such gods are parts of one great God, I advise you, since you honor me with your attention, to abstain greatly from such sacrilegious jokes.
+    </s>
+    <s>
+      If you indeed speak of that one God, about whom, as it has been said by the ancients, both the learned and unlearned agree, do you say these are parts of Him, whose ferocity, or if you prefer, power is restrained by the image of a dead man?
+    </s>
+  </p>
+  <p>
+    <s>
+      I could say much more on this; for you see, with your wisdom, how broadly this matter is open to criticism.
+    </s>
+    <s>
+      But I restrain myself, so that I am not thought to be addressing you rhetorically rather than truthfully.
+    </s>
+  </p>
+  <p>
+    <s>
+      As for the Punic names of some deceased people that you gathered to throw what seemed to you to be festive insults at our religion, I do not know whether I should refute them or pass them over in silence.
+    </s>
+    <s>
+      If these matters seem as trivial to your seriousness as they are, I do not have much time for joking.
+    </s>
+  </p>
+  <p>
+    <s>
+      But if they seem grave to you, I am surprised that, disturbed by the absurdity of names, it did not come to mind that you also have Eucaddires among your priests and Abaddires among your gods.
+    </s>
+  </p>
+  <p>
+    <s>
+      I do not think these things were not on your mind when you wrote, but rather, in your usual humanity and charm, you wanted to remind us to relax and see how many laughable things there are in your superstition.
+    </s>
+  </p>
+  <p>
+    <s>
+      For you could not have forgotten yourself so much, as an African writing to Africans, since we are both situated in Africa, to think that Punic names should be ridiculed.
+    </s>
+  </p>
+  <p>
+    <s>
+      For if we interpret those names, what does Namphanio mean other than a man of good foot, that is, whose arrival brings some good fortune; as we often say, he entered with the right foot, whose entrance was followed by some success?
+    </s>
+    <s>
+      If you disapprove of this language, deny that many wise things have been recorded in Punic books, as the most learned men have stated.
+    </s>
+  </p>
+  <p>
+    <s>
+      Surely you are not ashamed of being born where the cradle of this language is still warm.
+    </s>
+    <s>
+      If the sound does not irrationally displease us, and you recognize that I have interpreted that name well, then you have reason to be angry with your Virgil, who invites your Hercules to the sacred rites celebrated by Evander in this way:
+    </s>
+  </p>
+  <p>
+    <s>
+      And may you graciously approach our sacred rites with a favorable step. (Virgil, Aeneid VIII.)
+    </s>
+    <s>
+      He wishes Hercules to come with a favorable step.
+    </s>
+    <s>
+      Therefore, he wishes your Hercules to come as Namphanio, about whom you deign to mock us greatly.
+    </s>
+  </p>
+  <p>
+    <s>
+      Nevertheless, if you like to laugh, you have a great stock of jokes on your side: the god Stercutius, the goddess Cloacina, Venus Baldiva, the god Fear, the god Paleness, the goddess Fever, and countless other such things, for which the ancient Romans, worshipers of statues, built temples and thought they should be revered.
+    </s>
+  </p>
+  <p>
+    <s>
+      If you neglect these, you neglect Roman gods; from which it is understood that you are not initiated into Roman sacred rites, yet you scorn and despise Punic names, as if you were devoted to the altars of Roman gods.
+    </s>
+  </p>
+  <p>
+    <s>
+      But it seems to me that you perhaps...
+    </s>
+  </p>
+
+
+    <p>You don't think much of those sacred things, but instead seek to find some kind of pleasure in them for this life's passing enjoyment. Indeed, you even didn't hesitate to flee to Virgil, as you write, and to defend yourself with his verse, which says:</p>
+    <p><s>"Each one is drawn by their own pleasure." (Virgil in Bucolics, Eclogue 3)</s></p>
+    <break time="500ms" />
+    <p>For if Virgil's authority pleases you, as you indicate it does, then certainly you also like this:</p>
+    <p><s>"First from the ethereal Olympus came Saturn, fleeing the weapons of Jupiter, and an exile from his stolen kingdoms." (Virgil, Aeneid, Book VIII)</s></p>
+    <break time="500ms" />
+    <p>and other such things, which he and gods like yours want to be understood as having been humans. For he had read much of the history bolstered by ancient authority, which even Cicero had read, who recounts the same thing in his dialogues more than we would dare to ask for, and strives to bring into human knowledge as much as those times allowed.</p>
+    <break time="500ms" />
+    <p>As for what you say, that your sacred rites are preferred to ours because you worship your gods publicly, whereas we use more secretive gatherings: first, I ask you how you forgot Bacchus, whom you think should be entrusted to the eyes of only a few initiates. Then you yourself judge that you wanted to do nothing else, when you mentioned the public celebration of your sacred rites, except to present to us the decurions and leading citizens of your city, raging and frenzied through the streets, as if they were spectacles before our eyes. In which celebration, if you are possessed by a divine power, surely you see what kind of thing it is that takes away the mind. But if you are pretending; what are these secrets of yours even in public, or what is the point of such a shameful lie? Then, why do you not predict the future, if you are prophets? Or why do you rob those standing around, if you are sane?</p>
+    <break time="500ms" />
+    <p>Therefore, when you make us recall these and other things, which I now think should be omitted, through your letter, why should we not laugh at your gods, whom anyone who knows your intellect and reads your letters understands are subtly mocked by you yourself? Therefore, if you want to engage with us on these matters, in a way that suits your age and wisdom, and which can justly be demanded from our purpose by our dearest ones, seek something worthy of our discussion. And take care to speak on behalf of your gods in such a way that we do not think you a betrayer of your cause, reminding us more of what can be said against them than saying anything in their favor.</p>
+    <break time="500ms" />
+    <p>Ultimately, so that you are not unaware and are not led unwittingly into sacrilegious insults, know that Christian Catholics, whose church is even established in your town, worship none of the dead, nor do they adore anything created and made by God as a deity, but only the one God who made and created all things. These matters will be discussed more fully, with the help of the true and only God, when I see that you are willing to engage seriously.</p>
+</speak>

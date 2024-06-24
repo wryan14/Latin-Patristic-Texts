@@ -1,0 +1,88 @@
+<speak>
+<break time="2s"/>Maximus Grammaticus defends pagan worship, criticizes Christian practices, and expresses indignation at the veneration of Christian martyrs over traditional pagan gods.
+<break time="2s"/>
+From Epistle Sixteen found in Volume 33 of Patrologia Latina<break time="1s"/>
+  <p>
+    <s>
+      <break time="500ms" /> 
+      Wishing often to be cheered by your conversations, and prompted by your recent delightful discourse, I have not ceased to respond in kind, lest you consider my silence as regret.
+    </s>
+    <s>
+      But I ask that if you find these words to be like the frailty of old age, you treat them with the indulgence of kind ears.
+    </s>
+    <s>
+      Greece, with uncertain faith, claims Mount Olympus as the abode of the gods.
+    </s>
+    <s>
+      But we see and affirm that the forum of our city is occupied by the presence of beneficial deities.
+    </s>
+    <s>
+      Indeed, who is so insane, so mentally deranged, as to deny that there is one supreme God, without beginning, without offspring, like a great and magnificent father?
+    </s>
+    <s>
+      We invoke this God's powers, scattered through his worldly work, with many names, since we evidently do not know his proper name.
+    </s>
+    <s>
+      For "God" is a common name in all religions.
+    </s>
+    <s>
+      Thus, while we honor his various aspects with different supplications, we seem indeed to worship the whole.
+    </s>
+  </p>
+
+  <p>
+    <s>
+      <break time="500ms" /> 
+      But I cannot hide my impatience with such a great error.
+    </s>
+    <s>
+      Who can endure <phoneme alphabet="ipa" ph="ˈmɪɡdɑn">Mygdon</phoneme> being preferred to Jupiter who wields the thunderbolt; <phoneme alphabet="ipa" ph="ˈsænəm">Sanaem</phoneme> to Juno, Minerva, Venus, and Vesta; and, oh, the horror, the archmartyr <phoneme alphabet="ipa" ph="næmˈfænjən">Namphanion</phoneme> to all the immortal gods?
+    </s>
+    <s>
+      Among these, <phoneme alphabet="ipa" ph="ˈluːsɪtæs">Lucitas</phoneme> is also venerated with no less reverence, and many others with an endless number of names (names hateful to gods and men) who, conscious of their heinous crimes, added to their crimes under the guise of a glorious death, found an end worthy of their morals and deeds.
+    </s>
+    <s>
+      If it is worth mentioning, the foolish frequent their tombs, abandoning the temples and neglecting the spirits of their ancestors, so that the prophecy of that indignant poet stands out:
+    </s>
+    <s>
+      And Rome swore by the shadows in the temples of the gods. (<phoneme alphabet="ipa" ph="ˈljuːkən">Lucan</phoneme>.)
+    </s>
+    <s>
+      But to me, it almost seems that the Actium war has arisen again, with Egyptian monsters daring to hurl weapons at the gods of the Romans, which will not last.
+    </s>
+  </p>
+
+  <p>
+    <s>
+      <break time="500ms" /> 
+      But I ask you, most wise man, to set aside the strength of your eloquence, for which you are renowned, and the arguments of <phoneme alphabet="ipa" ph="ˈkrɪsɪpəs">Chrysippus</phoneme>, which you often use, and temporarily put aside dialectics, which with its struggles leaves nothing certain for anyone, and prove in reality who this God is that you Christians claim as your own and imagine to be present in hidden places.
+    </s>
+    <s>
+      We openly worship our gods in the light, before the eyes and ears of all mortals, with pious prayers, and through sweet sacrifices make them favorable to us, and we strive to make these things seen and approved by all.
+    </s>
+  </p>
+
+  <p>
+    <s>
+      <break time="500ms" /> 
+      But as an old man, I withdraw from this contest, and willingly follow the sentiment of the Mantuan rhetorician:
+    </s>
+    <s>
+      Each is drawn by their own pleasure. (<phoneme alphabet="ipa" ph="ˈvɜrdʒɪl">Virgil</phoneme> in Bucolics, Eclogue 2.)
+    </s>
+    <s>
+      After this, I do not doubt, illustrious man, that this letter, stolen by some, will be destroyed by fire or in some other way.
+    </s>
+    <s>
+      If that happens, it will be a loss of the paper, not of my words, of which I will keep a copy perpetually among all the devout.
+    </s>
+    <s>
+      May the gods keep you, through whom and by whom all things are preserved.
+    </s>
+  </p>
+
+
+  <p>
+    <s>We all honor and worship the common father of mortals in a thousand different ways, with harmonious discord.</s>
+  </p>
+</speak>
