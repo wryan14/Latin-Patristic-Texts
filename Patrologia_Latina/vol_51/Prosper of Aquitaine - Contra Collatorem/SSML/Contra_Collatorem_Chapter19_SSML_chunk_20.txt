@@ -1,0 +1,111 @@
+<speak>
+<break time="1s"/>
+Chapter Nineteen
+<break time="2s"/>
+    <p>
+        <s>Prosper Recapitulates the Twelve Definitions of Cassian:</s>
+        <s>To Make Clearer What Those Who Spoke Against the Defenders of Grace Thought About Grace and Disturbed the Peace of the Church by Reviving Questions from the School of the Condemned Pelagians.</s>
+    </p>
+    <p>
+        <s>From these definitions that we have discussed so far, by omitting some, it is not unclear or ambiguous what those who speak against the most sincere defenders of God's grace think about grace, and disturb the peace of the victorious Church by reviving questions from the school of the condemned.</s>
+        <s>If we were to recount them as we have heard, our discourse would become excessively lengthy.</s>
+        <s>From what is known from their own writings, any devout reader can easily understand the precipices reached by these paths, and the muddy bog of these turbid streams, whose mire exudes.</s>
+        <s>I think it is necessary, before concluding this volume, to briefly and collectively summarize what we have shown to be inconsistent with Catholic truth, so that what might escape the reader's memory when interspersed with our responses, can be more easily recalled when reviewed together.</s>
+    </p>
+    <p>
+        <s>In the first definition it is said:</s>
+    </p>
+    <p>
+        <s>Not only the beginnings of actions but also of good thoughts come from God, who inspires us with the beginnings of holy will and grants us the strength and opportunity to carry out what we rightly desire.</s>
+        <s>For every good gift and every perfect gift is from above, coming down from the Father of lights, who begins and continues and completes all good things in us.</s>
+        <s>This we fully accept and profess to be Catholic.</s>
+    </p>
+    <p>
+        <s>In the second definition it is said:</s>
+    </p>
+    <p>
+        <s>Divine protection is inseparably present with us, and such is the Creator's compassion for His creation that He not only accompanies it but also continually precedes it with His providence.</s>
+        <s>The Prophet, experiencing this, confesses, saying: "My God, His mercy will go before me" (Psalm Fifty-Nine, Verse Ten).</s>
+        <s>When He sees in us a budding good will, He enlightens and strengthens it, and urges it towards salvation, granting growth to what He has either planted Himself or seen emerge through our effort.</s>
+    </p>
+    <p>
+        <s>Here, however, we depart from the previous definition, and what was wholly attributed to grace is now in part assigned to free will.</s>
+        <s>Nevertheless, in all these things, both the grace of God and the freedom of will are shown, by which a person can, by their own movements, sometimes extend towards virtuous desires, but always needs to be helped by the Lord.</s>
+    </p>
+
+
+  <p>
+    For when someone wishes, they enjoy good health, or they are freed from disease as they desire.
+  </p>
+  
+  <p>
+    As if our doctor does not also grant the sick the desire for true health.
+  </p>
+  
+  <p>
+    To make it clearer, even the beginnings of good intentions, which sometimes come from the goodness of nature granted by the Creator, cannot reach the perfection of virtues unless they are directed by the Lord. The Apostle is a witness, saying:
+    <break time="500ms" />
+    <s>
+      "For I have the desire to do what is good, but I cannot carry it out"
+      <break time="500ms" />
+      <sub alias="Romans">Romans</sub> 7:18.
+    </s>
+  </p>
+  
+  <p>
+    As if the Apostle has a good will from natural affection rather than from the gift of grace, when he declares that his ability to think even comes from God
+    <break time="500ms" />
+    <sub alias="Second Corinthians">2 Corinthians</sub> 3:5.
+  </p>
+  
+  <p>
+    And these things are so indiscriminately mixed and confused that it is a great question among many as to what depends on what: whether it is because we have begun with good will that God has mercy on us, or because God has mercy, we attain the beginning of good will. Many people believe each of these points, and by asserting more than is just, they are entangled in various and contradictory errors. If we say that the beginning of good will is ours, what was it in the persecutor Paul? What in the tax collector Matthew? One was attracted to salvation while involved in the bloodshed and sufferings of the innocent, the other in public violence and plundering. But if we always say that the beginnings of good will are inspired by the grace of God, what shall we say about Zacchaeus' faith? What about the piety of the thief on the cross? They, by their own desire, forced their way into the heavenly kingdom, anticipating the special calls of vocation.
+  </p>
+  
+  <p>
+    It is said to be an error both to assert that good will is born of grace and to say that grace depends on good will: yet it is determined that both opinions should be accepted, as one is exemplified in Paul and Matthew, and the other in Zacchaeus and the thief.
+  </p>
+  
+  <p>
+    Therefore, these two things, grace and free will, seem to be opposed to each other, but both are in agreement, and we gather that we must accept both equally in the reasoning of piety: lest by removing one of these from humans, we seem to have exceeded the rule of ecclesiastical faith.
+  </p>
+  
+  <p>
+    As if it should be accepted that in some people will precedes grace, and in others grace precedes will: and not that in all cases will follows grace. Because according to them, if free will is taken away when it is preceded by grace, grace is removed when it is preceded by free will.
+  </p>
+  
+  <p>
+    Therefore, Adam conceived the knowledge of evil after his transgression, which he did not have before; he did not lose the knowledge of good which he had received.
+  </p>
+  
+  <p>
+    Both statements are false: for Adam, being forewarned by God, knew from how much evil he should guard himself; and he forgot the great good in which he was established when he believed the devil. Just as the knowledge of evil is very harmful, so is the ignorance of good, which is very harmful.
+  </p>
+  
+  <p>
+    Therefore, we must be careful not to attribute all the merits of the saints to God in such a way that we ascribe nothing but what is evil to human nature.
+  </p>
+  
+  <p>
+    As if nature before grace is not in damnation.
+  </p>
+
+
+<p>And, there should be no blindness or injury: or they are not justified freely, since their merits come from there, where justice is.</p>
+
+<p>Therefore, it cannot be doubted that every soul naturally has the seeds of three hundred and sixty virtues, inserted by the Creator's benefit: but unless these are awakened by God's help, they cannot reach the growth of perfection.</p>
+
+<p>It is as if Adam lost nothing of spiritual goods by transgressing; and virtue is not given to be possessed, but to more easily attain perfection, it must be encouraged.</p>
+
+<p>This is also shown in <phoneme alphabet="ipa" ph="dʒoʊb">Job</phoneme>, God's most tested athlete. When the devil sought him for a one-on-one fight, we read that divine justice provided for him. For if he had fought against the enemy not by his own virtue but solely by God's protecting grace, and had endured those many trials and destructions sought by the enemy's entire cruelty without any virtue of his patience, supported only by divine help, how could the devil not have repeated the slanderous voice he had previously uttered against him: "Does Job worship God for nothing? Haven't you protected him and his household and everything he has on every side? But take away your hand, that is, let him fight against me with his own strength, unless he will curse you to your face." But since the slanderous enemy dared not repeat any such complaint after the conflict, he confessed himself defeated not by God's strength but by Job's. Although it should be believed that God's grace was not entirely absent from him, which granted the tempter such power to tempt, as it knew Job had the strength to resist.</p>
+
+<p>If God only knew what Job could do but did not also grant that he could do it, He would be a witness to Job's patience, not a helper. And where would the necessity of the grace's aid be if such a great victory were achieved by human strength alone?</p>
+
+<p>In the eleventh definition, it was said about the faith of the centurion: The Lord marvels at him and praises him, preferring him to all those who had believed from the people of Israel, saying, "Truly I tell you, I have not found such great faith in Israel." For there would be no praise or merit if the Lord had preferred in him what He Himself had given.</p>
+
+<p>It is a wicked sentiment that thinks a man to whom God has given nothing is happier than one to whom He has given everything.</p>
+
+<p>Therefore, when praying, we call the Lord not only our protector but also our supporter. For in that He first calls us and brings us to salvation, even when we are ignorant and unwilling, He is called protector and savior. But in that He is accustomed to help us when we strive, and to support and defend us when we flee for refuge, He is called supporter and refuge.</p>
+
+<p>Anyone who can agree with this sentiment does not want to be saved by Christ.</p>
+</speak>
