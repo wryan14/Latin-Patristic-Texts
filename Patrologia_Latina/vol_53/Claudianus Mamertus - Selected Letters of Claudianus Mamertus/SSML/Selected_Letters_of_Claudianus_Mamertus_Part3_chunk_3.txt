@@ -29,15 +29,7 @@ Letter Three <break time="500ms"/>To the most learned man, <break time="500ms" /
 
 
     <p>
-        Here is the translation of the provided Latin text into modern, easy-to-understand English:
-    </p>
-    <p>
         A vast amount of knowledge from your ancestors has flowed into you. You should also remember the ancient nobility of the city of Vienna, <break time="500ms" /> of which you are a citizen and scholar. You must fulfill your double duty, <break time="500ms" /> which is to respond both to the fathers and to your country. At the end of this discussion, I very familiarly ask that you disregard the childish trifles of new theories, and do not waste any time reading them. 
-    </p>
-    <p>
-        <s>
-            Note: Perhaps while. And so reads Fabricius in Bibliotheca Medica, volume one, page one thousand seventy-eight.
-        </s>
     </p>
     <p>
         They spin some ridiculous speeches of hollow words and weaken oratory strength with their applauding harmonies. Let Naevius and Plautus serve you for elegance, <break time="500ms" /> Cato for seriousness, <break time="500ms" /> Varro for expertise, <break time="500ms" /> Gracchus for sharpness, <break time="500ms" /> Chrysippus for discipline, <break time="500ms" /> Fronto for grandeur, and Cicero for acquiring eloquence. 
