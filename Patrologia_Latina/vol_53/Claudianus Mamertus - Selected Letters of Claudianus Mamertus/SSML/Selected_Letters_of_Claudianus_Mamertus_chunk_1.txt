@@ -1,0 +1,71 @@
+<speak>
+<break time="2s"/>Selected Letters of Claudianus Mamertus, Presbyter of Vienna
+<break time="1s"/>
+Letter One <break time="500ms"/>Greeting from Claudianus to Sidonius Apollinaris
+<break time="2s"/>
+    <p>
+        <s>
+            </s>
+    </p>
+    <p>
+        <s>
+            If it were possible for me to meet with you, my revered friend, even occasionally and briefly, it would not be to inquire about the desires or needs of some persons from here and there, but rather those things which may be of use for the sake of my duty.
+        </s>
+        <s>
+            Indeed, the opportunity for a visit is hindered in many ways and by various unfortunate causes.
+        </s>
+        <s>
+            Moreover, the ability to write either rarely presents itself suitably or does not present itself at all.
+        </s>
+        <s>
+            Whether or not these same excuses are justifiable, you yourself must judge.
+        </s>
+    </p>
+    <p>
+        <s>
+            Furthermore, the fact that others often receive your letters, who do not even seek them, and perhaps do not deserve them more than I do, I do not think this goes unpunished by the laws of friendship.
+        </s>
+        <s>
+            I also do not sorrowfully leave unmentioned that those little books, which you do not refuse to make famous in your name, you have never shared with me in response.
+        </s>
+        <s>
+            But perhaps you do not have the free time to spare, which you dedicate only sparingly to your great friendship.
+        </s>
+    </p>
+    <p>
+        <s>
+            When are you ever so busy or engaged that it does not serve the benefit of others?
+        </s>
+        <s>
+            When you pray to God, you reconcile Him not only to friends but also to strangers.
+        </s>
+        <s>
+            When you delve into the mysteries of the heavenly Scriptures, the more diligently you study, the more abundantly you impart the doctrine to others.
+        </s>
+        <s>
+            When you spend your resources for the needs of the poor, you indeed provide for yourself the most, but also for others.
+        </s>
+        <s>
+            Therefore, clearly nothing, indeed nothing, of all your actions is so unfruitful that it brings abundant fruit for you alone and not for many others as well.
+        </s>
+    </p>
+    <p>
+        <s>
+            Thus, no occasion of any hindrance can be falsely alleged, why I, your special and intimate friend, should gain nothing fruitful from my special one, from whom even many strangers gain much.
+        </s>
+        <s>
+            But, as I assert, following the form of the evangelical giver, what you do not give to a hungry friend, you will give to an insistent knocker.
+        </s>
+    </p>
+    <p>
+        <s>
+            Moreover, if you continue to harden yourself as usual even now, I will do something that will make you regret it: because if you sin further by remaining silent, I will immediately avenge myself by writing.
+        </s>
+        <s>
+            For it is undoubtedly certain, that just as you are to be punished by my writing, so I am punished by your silence.
+        </s>
+        <s>
+            Farewell.
+        </s>
+    </p>
+</speak>
