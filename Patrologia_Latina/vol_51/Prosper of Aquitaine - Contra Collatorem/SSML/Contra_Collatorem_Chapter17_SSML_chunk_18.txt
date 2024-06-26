@@ -1,0 +1,53 @@
+<speak>
+<break time="1s"/>
+Chapter Sixteen
+<break time="2s"/>
+  <p>
+    <s>
+      How Much Cassian Supports the Pelagians in the Above Refuted Points, Saying that the Grace of God is Given According to Our Merits; Whom He Nevertheless Accuses of Profane Opinion, Thus Proving Himself Self-Contradictory. Salvation Cannot Be By Any Means, Except Through Faith.
+    </s>
+  </p>
+  <p>
+    <s>
+      It should certainly be considered in this opinion of yours how much you help those who say that the Grace of God is given according to our merits; whom you nevertheless, to defend the shadow of the Catholic faith, profess to be of a profane opinion, saying: Let no one think that these things were stated by us for this reason, that we might strive to establish that the ultimate salvation consists in the power of our faith, according to the profane opinion of some, who, attributing everything to free will, define that the grace of God is dispensed according to the merit of each one.
+    </s>
+    <break time="500ms" />
+    <s>
+      But I wonder greatly how you do not see, or think that others do not see, that you condemn yourself with your own words.
+    </s>
+    <s>
+      For by saying that the centurion, whose faith was praised by the Lord's voice, would have no praise or merit if he had preferred what was given to him, you have defined that the centurion had not a given faith, but his own; and thus nothing was conferred on him by grace at the beginning; but in that same faith was the cause of praise and merit, neither of which he would have if the Lord had given what is due to praise and merit.
+    </s>
+    <break time="500ms" />
+    <s>
+      Therefore, in vain, to escape the odium of a condemned error, you deny that the ultimate salvation consists in the power of our faith, since in every way salvation cannot be except through faith.
+    </s>
+    <s>
+      For the righteous shall live by faith 
+      <phoneme alphabet="ipa" ph="ˈroʊmənz">Romans</phoneme> 1:17; 
+      <phoneme alphabet="ipa" ph="ˈhæbəkʊk">Habakkuk</phoneme> 2:4.
+    </s>
+    <s>
+      Because the Truth says, Amen, amen, I say to you, whoever hears my word and believes in him who sent me has eternal life and does not come into judgment, but has passed from death to life 
+      <phoneme alphabet="ipa" ph="d͡ʒɑn">John</phoneme> 5:24.
+    </s>
+    <s>
+      And again, this is the will of my Father, that everyone who sees the Son and believes in him may have eternal life; and I will raise him up on the last day 
+      <phoneme alphabet="ipa" ph="d͡ʒɑn">John</phoneme> 6:40.
+    </s>
+    <s>
+      And again, this is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent 
+      <phoneme alphabet="ipa" ph="d͡ʒɑn">John</phoneme> 17:3.
+    </s>
+    <break time="500ms" />
+    <s>
+      Since, therefore, it is clear that eternal and blessed life is prepared for this faith, which you have honored with merits and praises because you prefer to count it among the goods of free will rather than among the gifts of God, how will you avoid this wound, which you inflict on yourself, by declaring those profane who define that grace is dispensed according to human merits, and asserting that those who are faithful by the gift of grace have neither praise nor merit?
+    </s>
+    <s>
+      Therefore, whichever way you turn, you are both conquered by yourself and conquer yourself.
+    </s>
+    <s>
+      For if merits do not precede grace, and faith cannot be without merits, faith does not precede grace, and in every way whatever that is from which merit is born is obtained by grace, which is not possessed before grace.
+    </s>
+  </p>
+</speak>

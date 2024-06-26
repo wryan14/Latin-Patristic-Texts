@@ -1,0 +1,48 @@
+<speak>
+<break time="1s"/>
+Chapter One
+<break time="2s"/>
+   The Slanderers of Saint Augustine's Doctrine Lead to the Belief That the Enemies of Grace Were Unjustly Condemned by the Church. Hence, there is a Greater Need to Refute Them.
+    
+    <p>Some people dare to say that the grace of God, by which we are Christians, was not rightly defended by Bishop Augustine of blessed memory, and they do not cease to attack his books written against the Pelagian error with excessive slanders.</p>
+    
+    <p>The internal domestic malice of these people would be no less to be scorned than the external barking of heretical loquacity, unless those who, under the name of sheep, support the wolves expelled from the Lord's sheepfold were of such a kind that neither their rank in the Church nor their intellects should seem to be despised.</p>
+    
+    <p>Since they have the appearance of godliness in zeal, whose power they deny in understanding, they draw many uneducated people to themselves, and disturb hearts that do not have the discernment of spirits. They endeavor to bring the cause of the Church to such a state, that while affirming that our people did not speak truthfully for grace, they persuade that the enemies of grace were unjustly condemned.</p>
+    
+    <p>Therefore, this evil must not be neglected, which grows daily from hidden and small seeds and spreads farther and wider from its origin. We must strive, as much as the Lord helps, to uncover the hypocrisy of deceitful slanderers, who from the very magnitude of the injury they inflict on one, that is, blessed Augustine, whom I have in mind...</p>
+
+
+  <p>
+    <s>My priests praised.</s>
+    <s>But we suspect it is merely a gloss of the scribe.</s>
+    <s>They brought to all, and especially to the pontiffs of the apostolic see, from the unlearned and less cautious, those judged of superior knowledge, and with miserable and perverse success, they easily draw consent to a lie, because they earned reverence through presumption.</s>
+  </p>
+  <p>
+    <s>For, since they are men of good reputation, they are believed in no way to have been able to burst into the clamor of a superfluous complaint through slowness of understanding or rashness of judgment.</s>
+    <s>And not rather to have labored with great ingenuity and intense study, so that with the discussions of the most subtle disputant comprehended, now stricter censorship and more discerning inspection might find what previous careless favor and uncurious kindness had not seen.</s>
+  </p>
+  <p>
+    <s>Where then did this diligence of such a severe examination arise?</s>
+    <s>Why did the stern brow of such austerity arm itself, to sift the measures of thoughts, the weights of words, the number of syllables, as a treacherous examiner, and presume to accomplish something great if he attaches a mark of error to a Catholic preacher?</s>
+    <s>As if some unknown work, which has hitherto been hidden, were attacked: and not that doctrine is torn apart by these bites, which has scattered the inventions of new heretics and crushed the diabolical pride of Pelagian arrogance.</s>
+  </p>
+  <p>
+    <s>For more than twenty years, the Catholic army has been fighting and winning against the enemies of God’s grace under the guidance of this man.</s>
+    <s>And it wins, I say, because it does not allow those it has conquered to breathe, and in whose destruction, the hand of all priests wrote one sentence.</s>
+    <s>Driven from the pontificate and deprived of communion, they complain about the happiness of our victory, and arm their tongues against us, preferring to be exiled from the truth rather than citizens of the Church.</s>
+  </p>
+  <p>
+    <s>But our fellow members and co-participants in the grace of Christ, why do they complain about these arms with which the common faith was defended?</s>
+    <s>Why do they retract the completed war and weaken the fortifications of long-secured peace?</s>
+    <s>Are the victors displeasing, and the conquered pleasing; and are the condemned errors so insolently favored that out of envy of depravity,</s>
+  </p>
+
+
+<p>
+    And our authors are to be struck and judged? Or has the standard of the new judges been so strictly applied, that they claim none of the things that have been cut out, and reject some of the things that have been defended?<break time="500ms"/>
+</p>
+<p>
+    Behold, with the peace of the Catholic victory preserved, with the reverence of the unbreakable decrees preserved, we are ready to listen to the advocates of a more corrected doctrine, and to recognize the lines of the most subtle discretion cut off from all error.
+</p>
+</speak>

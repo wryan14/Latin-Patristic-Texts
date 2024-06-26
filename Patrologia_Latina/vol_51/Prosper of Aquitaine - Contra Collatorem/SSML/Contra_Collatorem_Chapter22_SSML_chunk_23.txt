@@ -1,0 +1,42 @@
+<speak>
+<break time="1s"/>
+Chapter Twenty-Two
+<break time="2s"/>
+  <p>
+
+    <s>
+      Although Augustine's critics are sufficiently proven wrong, they must still be tolerated, and we should not lose hope for their correction.
+    </s>
+    <s>
+      In the meantime, they should always be loved but avoided, and we should pray to God to take the lead in all our efforts.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      I believe it has been sufficiently demonstrated that the critics of Saint Augustine both bring up empty objections and attack what is right, while defending what is wrong.
+    </s>
+    <s>
+      They stir up internal strife with the tools of the defeated, rebelling against both divine and human laws.
+    </s>
+    <s>
+      However, as long as they are not yet separated from the brotherly community, their intention should be tolerated more than their correction should be despaired of.
+    </s>
+    <s>
+      So that until the Lord, through the leaders of the Church and the legitimate ministers of His judgments, rectifies what has been disturbed by the pride of a few and the ignorance of some, we, with God's help, should strive with quiet and modest patience, to return love for hatred, avoid the conflicts of the foolish, uphold the truth, and not contend with falsehood.
+    </s>
+    <s>
+      Always ask God that in all our thoughts, wills, words, and actions, He may take the lead, who said He is the beginning.
+    </s>
+    <s>
+      For from Him, and through Him, and in Him are all things: to Him be glory forever. Amen.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      Here ends the book of Saint Prosper against the book of the former abbot Cassian, which is titled, On the Protection of God; or against the doctrine of Pelagius and Celestius, the inventors and defenders of that wicked doctrine, and the enemies of the grace of God and our Lord Jesus Christ, and in defense of the holy Roman bishops and Saint Bishop Augustine, asserting the truth from his books against the aforementioned heretics. Thanks be to God.
+    </s>
+  </p>
+  <break time="1s"/>
+</speak>

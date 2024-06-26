@@ -1,0 +1,80 @@
+<speak>
+<break time="1s"/>
+Chapter Three
+<break time="2s"/>
+  <p>
+    <s>Cassian does not fully agree with either the Pelagians or the Catholics: while erring, he asserts that some are justified by grace, and others by law and nature.</s>
+    <s>Cassian's third definition: Man has the desire for virtues from himself.</s>
+    <s>This is refuted based on what was previously confessed in the first definition.</s>
+  </p>
+  <p>
+    <s>And you sufficiently arm yourself against the slanders of the Pelagians.</s>
+    <s>And you think you sufficiently guard yourself against the slanders of the Pelagians if you concede to us what must be felt in the whole of those called, in part.</s>
+    <s>But neither with the heretics nor with the Catholics do you have full agreement.</s>
+    <s>They maintain the beginnings of free will in all just works of men: we always believe that the beginnings of good thoughts come from God.</s>
+    <s>You found some vague third thing, inconvenient to both parties, by which you neither gain the agreement of the enemies nor remain in the understanding of our people.</s>
+  </p>
+  <p>
+    <s>But how do you not notice, you fall into that damnation, which, whether you want it or not, you are convicted of saying, that the grace of God is given according to our merits; when you affirm that some good work precedes in men themselves, for which they receive grace?</s>
+    <s>For it cannot be considered of no merit the faith of the petitioner, the piety of the seeker, the persistence of the one who knocks; especially when all such are said both to receive and to find, and to enter.</s>
+    <s>In which it is superfluous, indeed impious, to want to make room for merits existing before grace, so that it is not wholly true what the Lord says, "No one comes to me unless the Father who sent me draws him" (John 6:44); which would in no way be said, if anyone's conversion were to be believed without God's illumination; or if in any way the human will could extend to God without God, who draws him called to the Son.</s>
+  </p>
+  <p>
+    <s>Not compelling the unwilling, but makes the unwilling willing, and in any way bends the resistance of the unbeliever; so that the heart of the listener, generated with the delight of obedience in itself, arises where it was pressed; learns there, where it was ignorant; hence it trusts, where it doubted; hence it wills, where it was unwilling.</s>
+    <s>For the Lord will give sweetness, and our land will give its fruit (Psalm 85:12).</s>
+  </p>
+  <p>
+    <s>But let us see what follows (Conference 13, ch. 9): To whom it is easily open, how the sum of salvation is attributed to our choice?</s>
+    <s>Of which it is said, "If you are willing and obedient, you shall eat the good of the land" (Isaiah 1:19).</s>
+    <s>And how it is not of him who wills nor of him who runs, but of God who shows mercy (Romans 9:16)?</s>
+    <s>What also is that, which God will repay each one according to his works (Matthew 16:27); and, "It is God who works in you both to will and to do, for His good pleasure" (Philippians 2:13): and this not from you, but from God.</s>
+  </p>
+
+
+  <p>
+    <s>
+      Is it not from works, so that no one can boast?
+    </s>
+    <s>
+      Behold, as if collected from the Scriptures, he almost collides with himself in an alternate sense.
+    </s>
+    <s>
+      And the rest, which is collected from the Scriptures, as if gathered with an alternate opposing sense, so that he entrusts the efforts of human industry to the gifts of grace.
+    </s>
+    <s>
+      With the division of all people made, some are those whom the grace of God saves, others whom the law and nature justify.
+    </s>
+    <s>
+      But the law can command that no evil be done; however, it cannot free from evil.
+    </s>
+    <s>
+      It makes the commandment known, but does not provide the affection to obey:
+    </s>
+
+    <s>
+      Unless what is killing through the command of the letter becomes life-giving through the spirit of grace.
+    </s>
+  </p>
+  <p>
+    <s>
+      After this, he concludes, saying:
+    </s>
+    <s>
+      But in all these things both the grace of God and our free will are declared.
+    </s>
+    
+    <s>
+      And because sometimes by his own impulses a person can extend to the desires of virtues, but always needs to be helped by the Lord.
+    </s>
+    <s>
+      And where is it, that by the preceding regular definition: Not only the beginning of good actions, but also of good thoughts, is from God, who begins, executes, and completes what is good in us (See above, chapter 1, number 4)?
+    </s>
+    <s>
+      Behold here, even if you confess the necessary help of God for good beginnings: yet you attribute the praiseworthy impulses and desires for virtues, with the grace of God removed, to the naked free will: so that good and healthy efforts indeed cannot profit unless God helps.
+    </s>
+    
+    <s>
+      However, they can begin, even if not inspired by God.
+    </s>
+  </p>
+</speak>

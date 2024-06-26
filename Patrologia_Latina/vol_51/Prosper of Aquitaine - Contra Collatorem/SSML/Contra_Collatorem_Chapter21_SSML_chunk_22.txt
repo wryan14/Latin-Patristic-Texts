@@ -1,0 +1,79 @@
+<speak>
+<break time="1s"/>
+Chapter Twenty-One
+<break time="2s"/>
+  <p>
+    <s>Returning to the defense of Augustine, who was especially attacked by the Semipelagians, accusing him of the same things as the Pelagians had done before, and Julian in particular.</s>
+    <s>Therefore, these should be fought with the same weapons by which the Pelagians were defeated, namely, the authority of the Church:</s>
+    <s>since Innocent struck down Augustine's opponents with the condemnation of the Pelagians, and the same were condemned by the Palestinian Synod, the African Councils, Zosimus, Boniface, and Celestine.</s>
+    <s>The mockery against the testimony of Celestine is refuted.</s>
+    <s>Augustine's doctrine is shown to be consistent everywhere.</s>
+    <s>The prayer of Saint Prosper, that Pope Sixtus may repel the hidden enemies of grace.</s>
+  </p>
+  <p>
+    <s>Behold what kind of teachers these are, who, in order to corrupt the purity of Catholic minds by slandering the defenders of grace, tear apart with rabid mouths that preeminent man of our time in ecclesiastical doctrine, and believe that they can overthrow all the defenses of authority if they repeatedly strike this very strong tower of pastoral watchfulness with the Pelagian battering ram.</s>
+    <s>Indeed, the firm foundation of God stands.</s>
+    <phoneme alphabet="ipa" ph="tuː ˈtɪm.ə.θi">Second Timothy</phoneme> <sub alias="chapter two, verse nineteen">2:19</sub>:
+    <s>yet these men do not fail in their efforts.</s>
+    <s>It is fitting that those who follow their opinion should also imitate their madness.</s>
+    <s>For they cannot say anything other than what has been spread by the complaints of the condemned and the insults of the most insolent Julian.</s>
+    <s>The products of one seed are alike, and what was hidden in the roots is revealed in the fruits.</s>
+    <s>Therefore, it is not necessary to fight with a new strategy against these men, nor to undertake special battles as if against unknown enemies.</s>
+    <s>Their machines were broken then, and they fell with the allies and leaders of their pride, when Innocent of blessed memory struck the heads of their wicked error with the apostolic sword:</s>
+    <s>when the synod of Palestinian bishops forced Pelagius to pronounce judgment on himself and his followers:</s>
+    <s>when Pope Zosimus of blessed memory annexed the strength of his judgment to the decrees of the African councils, and armed the hands of all the bishops with the sword of Peter for the destruction of the impious:</s>
+    <s>when Pope Boniface of holy memory rejoiced in the Catholic devotion of the most pious emperors, and used not only apostolic but also royal edicts against the enemies of God's grace;</s>
+    <s>and when the same man, though he was very learned, still sought the answers of the blessed Bishop Augustine against the books of the Pelagians.</s>
+  </p>
+  <p>
+    <s>Hence, the venerable Pope Celestine, to whom the Lord granted many gifts of His grace for the protection of the Catholic Church, knowing that the condemned were to be granted not a trial of judgment, but only the remedy of penance:</s>
+    <s>ordered the expulsion of Celestius, who was seeking a hearing as if the matter had not been discussed, from all the borders of Italy:</s>
+    <s>so much did he consider the statutes and synodal decrees of his predecessors inviolable, that he would not allow what had once deserved to be cut off to be reconsidered.</s>
+    <s>Nor with less diligence did he free Britain from the same disease, when he excluded some enemies of grace who were occupying only the land of their origin, even from that remote part of the Ocean, and by appointing a bishop to the Scots, namely Palladius, while striving to keep the Roman island Catholic, he also made the barbarian land Christian.</s>
+    <s>Through this man, the Eastern Churches were also purged of a twin plague, when he sent Cyril, bishop of the city of Alexandria, the most glorious defender of the Catholic faith...</s>
+  </p>
+
+
+    <p>Exsecrable, or finally the Venetian edition, to eradicate. To cut out Nestorian impiety, he was assisted by the apostolic sword; by which even the Pelagians, while they joined with related errors, were again overthrown.</p>
+
+    <p>Through this man within Gaul, those who criticize the writings of the blessed Augustine had their liberty of bad eloquence taken away. When action was taken by those consulting, and the piety of the books displeasing to the erring was praised, he clearly revealed with holy eloquence what should be thought of their authority. He openly declared how much he disliked the presumption of this novelty, by which some dared to insolently rise against ancient teachers, and with undisciplined slander oppose the preaching of truth:</p>
+
+    <p>Augustine, he says (Letter of Coelestine to the Gauls), a man of holy remembrance, for his life and merits, we have always had in our communion; nor was he ever even rumored to have been tainted by any sinister suspicion, whom we remember to have been of such great knowledge, that he was always held among the best teachers even by my predecessors. Therefore, everyone has thought well of him in common; as one who has been loved and honored by all everywhere.</p>
+
+    <p>Against this trumpet of the most illustrious praise, against this dignity of the most sacred testimony, does anyone dare to emit the murmur of malicious interpretation, and to cast the cloud of ambiguous obscurity upon the clear and pure judgment? So that because in the pope's letter, the titles of the books in question are not explicitly stated, it might appear from this that they were not approved, and that this praise was given to holy Augustine for the merits of previous authors. Let it plainly remain, let this condition remain, that the novelty of these books (Lib. on the Predestination of the Saints and on the Gift of Perseverance) seems to be rejected, if in the same cause the antiquity of the same man disagrees; and it is judged either useless or inappropriate, which is found to be inconsistent with those things written against the Pelagians.</p>
+
+    <p>So let us omit those volumes in which from the beginning of his bishopric, long before the attackers of grace arose, he argued for grace, and let the three books to Marcellinus (On the Merits of Sins) be read. To Saint Paulinus of Nola, bishop, let the letter (Letter 186) be reviewed. Also to the blessed Sixtus, then a presbyter of the apostolic see, now a pope, let the pages (Letter 194) be revisited. Let the volumes distinctly edited be reviewed, to Saint Pinianus (On the Grace of Christ and Original Sin), to Count Valerius (On Marriage and Concupiscence), to the servants of Christ Timasius and Jacobus (On Nature and Grace).</p>
+
+    <p>The first six books against Julian, one to Saint Aurelius, the bishop of Carthage on the deeds of Palestine: another to Paul and Eutropius priests, against the questions of Pelagius and Coelestius (On Perfect Justice): and to the blessed memory of Pope Boniface four volumes (Against the Two Letters of the Pelagians) are reviewed.</p>
+
+
+    <p>
+        <s>With their works, Cologne.</s> 
+        <s>Then he omits, with others; and they end the phrase with a comma before recognizing.</s> 
+        <s>If in all these works, and in many others, which would take too long to list, the same spirit of teaching and the same form of preaching preceded, let the accusers acknowledge that they are objecting in vain.</s> 
+        <s>These books are not given a special or separate testimony, whose norms are praised in all volumes.</s> 
+        <s>For the Apostolic see does not differ from what is already known to it.</s> 
+        <s>It proves with what is already known, and what it joins in judgment, it does not divide in praise.</s> 
+        <s>Therefore, those who refute these newly published books should agree with the previous ones and consent to those writings which were first composed for the Christian grace.</s> 
+        <s>But they do not.</s> 
+        <s>For they know that all Pelagian things are contrary to them, and that nothing can be applicable to them for resolving subsequent matters, if they confess that the truth lies in the preceding ones.</s>
+    </p>
+    <p>
+        <s>Therefore, to resist the depravity of such men, it is necessary not so much by the zeal of disputations as by the privilege of authorities.</s> 
+        <s>So that from the body of doctrines long overthrown, no member is allowed to rise.</s> 
+        <s>Because it is known that the cunning of this falsehood is held, that if it senses under the pretense of correction any shoot of its favorers taking root, it may want to renew itself from even a small part of itself.</s> 
+        <s>For where the whole has no other part than a portion, it is not devotion to have given almost the whole, but fraud to have retained even the least.</s> 
+        <s>So that the snares of hypocrites are not obtained, we trust that with the Lord's protection it will be granted, that what was worked in Innocent, Zosimus, Boniface, and Celestine, will be worked in Sixtus.</s> 
+        <s>In the custody of the Lord's flock, this part of glory is reserved for this shepherd, that as they drove away manifest wolves, so he may drive away hidden ones.</s> 
+        <s>With the most learned old man ringing this sermon in his ears, with which he encouraged his collaborator, saying:</s> 
+        <s>"There are indeed some who think that impieties, justly condemned, should still be defended more freely.</s> 
+        <s>And there are those who more secretly penetrate houses; and what they now fear to shout openly, they do not cease to sow in secret."</s> 
+        <s>There are also those who have completely fallen silent, greatly suppressed by fear, but still retaining in their hearts what they no longer dare to utter with their mouths: who, nevertheless, can be very well known to the brothers from their former defense of that doctrine.</s> 
+        <s>Therefore, some are to be more severely restrained, others more vigilantly searched out; others, indeed, to be treated more gently, but no less diligently taught.</s>
+    </p>
+
+
+    They are feared so they do not stray, but not neglected so they do not perish.
+    <break time="500ms" />
+    <phoneme alphabet="ipa" ph="ɔːˈɡʌstɪn">Augustine</phoneme>, letter 19 to <phoneme alphabet="ipa" ph="sɪkˈstʊs">Sixtus</phoneme>.
+</speak>

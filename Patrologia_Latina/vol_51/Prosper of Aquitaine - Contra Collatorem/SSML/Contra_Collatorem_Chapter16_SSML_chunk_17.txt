@@ -1,0 +1,84 @@
+<speak>
+<break time="1s"/>
+Chapter Sixteen
+<break time="2s"/>
+  <p>
+    <s>
+      Cassianus tries to confirm what he taught previously by using the example of the evangelical centurion. His eleventh assertion is: It is of no praise or merit if Christ highlights in a person only what He Himself has given. Saint Prosper counters, proving that praise and merit are not taken away by grace; and that praise and merit are attributed to faith and good works without prejudice to grace.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      To these definitions of yours, which you believed to be supported by adequate authority, you add, as if confident of the readers' agreement, that God sometimes offers more than sufficient to test our faith, so that the strength of the believers' faith can be recognized.
+    </s>
+    <s>
+      You show this with the example of the centurion who, when asking for healing for his servant, and the Lord promised to come to his house, responded, <phoneme alphabet="ipa" ph="aɪ æm nɒt ˈwɜːrði ðæt ˈjuː ʃʊd ˈɛntə ˈʌndər maɪ ruːf, bʌt ˈoʊnli seɪ ðə wɜrd, ænd maɪ ˈsɜrvənt wɪl bi hiːld">"I am not worthy that you should enter under my roof, but only say the word, and my servant will be healed"</phoneme> (Matthew 8:8).
+    </s>
+    <s>
+      In this, the Lord praised him with such admiration that He proclaimed He had not found such great faith in Israel.
+    </s>
+    <s>
+      And with this minimal conclusion, you almost confirm the whole Pelagian doctrine by saying (Conference 13, Chapter 14), <phoneme alphabet="ipa" ph="fɔr ðɛr wʊd bi noʊ preɪz ɔr ˈmɛrɪt ɪf kraɪst ˈhaɪˌlaɪts ɪn hɪm wɒt hi ˈhɪmˌsɛlf hæz ˈɡɪvən">"For there would be no praise or merit if Christ highlighted in him what He Himself had given."</phoneme>
+    </s>
+  </p>
+
+  <p>
+    <s>
+      Therefore, it is falsely written (Wisdom 8:21), <phoneme alphabet="ipa" ph="bɪˈkɔz noʊ wʌn kæn bi ˈsɛlf rɪˈstreɪnd ənˈlɛs ɡɑd ɡrænts ɪt">"Because no one can be self-restrained unless God grants it."</phoneme>
+    </s>
+    <s>
+      The Apostle falsely preached when he spoke of the same virtue, saying (First Corinthians 7:7), <phoneme alphabet="ipa" ph="aɪ wɪʃ ðæt ɔl mɛn wɜr æz aɪ æm; bʌt iʧ hæz hɪz oʊn ɡɪft frʌm ɡɑd, wʌn ɪn ðɪs weɪ, ənˈʌðər ɪn ðæt">"I wish that all men were as I am; but each has his own gift from God, one in this way, another in that."</phoneme>
+    </s>
+    <s>
+      And it is falsely taught by the one who said (James 1:5), <phoneme alphabet="ipa" ph="ɪf ˈɛni əv ju læks ˈwɪzdəm, lɛt hɪm æsk əv ɡɑd, ænd ɪt wɪl bi ˈɡɪvən tu hɪm">"If any of you lacks wisdom, let him ask of God, and it will be given to him."</phoneme>
+    </s>
+    <s>
+      Nor is it true (James 1:17), <phoneme alphabet="ipa" ph="ˈɛvri ɡʊd ɡɪft ænd ˈɛvri ˈpɜrfɪkt ɡɪft ɪz frʌm əˈbʌv, ˈkʌmɪŋ daʊn frʌm ðə ˈfɑðər əv ˈlaɪts">"Every good gift and every perfect gift is from above, coming down from the Father of lights";</phoneme> and (John 3:27), <phoneme alphabet="ipa" ph="ə mæn kæn rɪˈsiːv ˈnʌθɪŋ ənˈlɛs ɪt hæz bɪn ˈɡɪvən tu hɪm frʌm ˈhɛvən">"A man can receive nothing unless it has been given to him from heaven."</phoneme>
+    </s>
+  </p>
+
+  <p>
+    <s>
+      Should we say that all virtues should be counted among God's gifts, but in those which a person has by his own, he is praiseworthy, and there is merit where God's gifts are not present?
+    </s>
+    <s>
+      Therefore, according to your rule, those who are given not only to believe in Christ but also to suffer for Him, have lost both praise and merit; nor do they have true glory who glory not in themselves, but in the Lord.
+    </s>
+    <s>
+      But more rightly we hear the prophet saying (Jeremiah 17:5), <phoneme alphabet="ipa" ph="ˈkɜrst ɪz ðə mæn hu trʌsts ɪn mæn ænd meɪks flɛʃ hɪz ɑrm, ænd ˈhuːz hɑrt dɪˈpɑrts frʌm ðə lɔrd">"Cursed is the man who trusts in man and makes flesh his arm, and whose heart departs from the Lord";</phoneme> and the one who said (Psalm 18:1), <phoneme alphabet="ipa" ph="aɪ wɪl lʌv ju, oʊ lɔrd, maɪ strɛŋkθ">"I will love you, O Lord, my strength";</phoneme> and (Psalm 34:3), <phoneme alphabet="ipa" ph="maɪ soʊl ʃæl meɪk ɪts boʊst ɪn ðə lɔrd">"My soul shall make its boast in the Lord";</phoneme> and (Psalm 118:14), <phoneme alphabet="ipa" ph="ðə lɔrd ɪz maɪ strɛŋkθ ænd maɪ sɔŋ">"The Lord is my strength and my song."</phoneme>
+    </s>
+    <s>
+      So that we may clearly know, they have neither praise nor merit in whom are not found those things which, unless the Lord gives, are not possessed.
+    </s>
+  </p>
+
+  <p>
+    <s>
+      Thus, you thought that praise for the testimony of faith could prejudice the gifts of grace; as if faith, where it is praised, is not also taught to be a gift.
+    </s>
+    <s>
+      The Apostle praises the faith of the Romans, and for this good he gives thanks to God, saying (Romans 1:8), <phoneme alphabet="ipa" ph="fɜrst, aɪ θæŋk maɪ ɡɑd θru ˈʤizəs kraɪst fɔr ɔl əv ju, bɪˈkɔz jɜr feɪθ ɪz prəˈkleɪmd ɪn ɔl ðə wɜrld">"First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world."</phoneme>
+    </s>
+    <s>
+      He writes to the Corinthians with a similar affection, saying (First Corinthians 1:4), <phoneme alphabet="ipa" ph="aɪ ɡɪv θæŋks tu maɪ ɡɑd">"I give thanks to my God."</phoneme>
+    </s>
+  </p>
+
+
+    <p>
+        Always for you, in the grace of God, which is given to you in Christ Jesus; because in everything you have been made rich in Him, in every word and in all knowledge.
+    </p>
+    <p>
+        Did He remove praise by giving thanks to God, to the believers? Or by praising the believers, did He deny the author of merit? Let us also hear what he thinks about the faith of the Ephesians. Therefore, he says in Ephesians, chapter 1, verse 15, <break time="500ms" /> "And I too, having heard of your faith, which is in the Lord Jesus, and love for all the saints, do not cease giving thanks for you, making mention of you in my prayers, that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and revelation in the knowledge of Him, illuminating the eyes of your heart."
+    </p>
+    <p>
+        So, they had faith, they also had works of love, which could neither lack praise nor merit; but for these virtues, the Apostle does not cease to give thanks to God, knowing that these gifts have come from the Father of lights, from whom he also declares that he asks, that to those whom He has given faith, which works through love, He may give the Spirit of wisdom and understanding: and hence the Ephesians may know that they have received what they have, from whom they learn to hope for what they do not have.
+    </p>
+    <p>
+        For the Philippians too, he gives similar thanks to God, and does not suppress their merit and praise, saying in Philippians, chapter 1, verse 3, <break time="500ms" /> "I thank my God upon every remembrance of you, always in every prayer of mine for you all making my request with joy, for your fellowship in the gospel from the first day until now: being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ."
+    </p>
+    <p>
+        Whose human praise and merit is now suspended in God? What virtue or piety is there that did not flow from the fountain of grace, where from the beginning to the end, both the initiation and the perfection of a good work are attributed to the Lord? Of whom it is sung concerning His saints in Psalm, chapter 89, verses 16 to 17, <break time="500ms" /> "Lord, they shall walk in the light of Your face, and in Your name they shall rejoice all day, and in Your righteousness they shall be exalted, for You are the glory of their strength."
+    </p>
+</speak>

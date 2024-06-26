@@ -1,0 +1,68 @@
+<speak>
+   <break time="1s"/>
+Chapter Ten
+<break time="2s"/>
+  <p>
+    <s>The passage from the Apostle in <phoneme alphabet="ipa" ph="ˈroʊ.mənz">Romans</phoneme> <sub alias="chapter two, verse fourteen">2:14</sub>, about the Gentiles who do by nature the things of the law, is explained and defended.</s> 
+    <s>There is a certain wisdom in unbelievers from the remnants of nature created by God, but no movement of goodwill exists without the Holy Spirit.</s>
+  </p>
+  <p>CHAPTER 22.</p>
+  <p>
+    <s>
+      <w role="ivona:NN">But</w> lest it might seem that this calamity of the first man has passed on to his progeny, which has the whole judgment of all human nature intact, this teacher is about to prove by the example of the Gentiles and thus says (Collation 13, chapter 12):
+    </s>
+    <s>
+      Finally, the fact that the human race did not lose the knowledge of good after the transgression of Adam is very clearly declared by the Apostle's statement, who says in <phoneme alphabet="ipa" ph="ˈroʊ.mənz">Romans</phoneme> <sub alias="chapter two, verse fourteen">2:14</sub>, 
+      <break time="500ms" /> "When the Gentiles, who do not have the law, do by nature the things required by the law, these not having the law are a law to themselves, who show the work of the law written in their hearts, their conscience also bearing witness and their thoughts alternately accusing or even defending them, on the day when God will judge the secrets of men."
+    </s>
+  </p>
+  <p>
+    <s>
+      If the Apostle speaks of those who are called from the foreskin and, when they were far off, were made near (Ephesians <sub alias="chapter two, verse thirteen">2:13</sub>), believing in him who once did not have mercy, now has mercy (First Peter <sub alias="chapter two, verse ten">2:10</sub>), and justifying the circumcision by faith, and the foreskin through faith (Romans <sub alias="chapter three, verse thirty">3:30</sub>), made two into one in himself, breaking down the wall of enmity (Ephesians <sub alias="chapter two, verse fourteen">2:14</sub>) of Jews and Gentiles, in one new man making peace; concluding all in unbelief, so that the promise by faith in Jesus Christ might be given to those who believe (Galatians <sub alias="chapter three, verse twenty-two">3:22</sub>):
+    </s>
+    <s>
+      If, I say, the Apostle speaks of those in whose hearts God writes the new covenant with his finger, that is, the Holy Spirit, so that they naturally perform the fullness of the law and acts of charity, with their nature reformed and renewed; 
+      <break time="500ms" /> what does the novelty of this most arrogant opinion help, since the reconciliation of enemies can only be attributed to the grace of the Mediator? For all have sinned and fall short of the glory of God, being justified freely by his grace (Romans <sub alias="chapter three, verse twenty-three">3:23</sub>).
+    </s>
+    <s>
+      Therefore, grace is the glory of God, not the merit of the liberated. For who has first given to him, that it should be repaid to him? Nothing of good work comes from the dead, nothing of justice proceeds from the wicked: all their salvation is by grace; and therefore, it is the glory of God, so that whoever glories, may glory in him whose glory he needed (Romans <sub alias="chapter eleven, verse thirty-five">11:35</sub>).
+    </s>
+  </p>
+  <p>
+    <s>
+      But if, which this disputant prefers to be understood, these things are said of those who, alien from Christian grace, established certain things similar to the commandments of the law by their own judgment, understanding that the morals of cities and the concord of peoples could not otherwise be maintained, unless both rewards for right actions and penalties for sins were decreed:
+    </s>
+    <s>
+      This authority from the book of Ecclesiasticus is omitted by some editions but is found in the manuscripts. In other editions, it reads, from wisdom itself from God. In one manuscript, it reads, held primacy among all nations: and in another, these final words are missing.
+    </s>
+  </p>
+
+
+  <p>
+    I went to Jacob, and I found it. Therefore, as it is said by the Wisdom of God itself, 
+    <s>"I came forth from the mouth of the Most High, and I held the first place among all peoples; I sought rest in Jacob, and I found it."</s>
+  </p>
+  <p>
+    So who would doubt that this wisdom is preserved in human nature for the benefit of temporal life, as it was created by God? 
+    For if the rational mind's ability did not extend even to ordering earthly matters, nature would not be corrupted but extinct.
+  </p>
+  <p>
+    Even though it excels in the most excellent arts and all disciplines of human learning 
+    <phoneme alphabet="ipa" ph="sɪˈræk">Sirach</phoneme> 24:7, it cannot justify itself: because it uses its good things wrongly, and without the worship of the true God, it is condemned for impiety and uncleanness, and what it thinks defends it, actually accuses it.
+  </p>
+  <p>
+    Therefore, since Paul states that no flesh is justified by the works of the law 
+    <phoneme alphabet="ipa" ph="ˈrəʊ.mənz">Romans</phoneme> 3:20; and that in Christ, neither circumcision nor uncircumcision means anything, but a new creation 
+    <phoneme alphabet="ipa" ph="ɡəˈleɪ.ʃənz">Galatians</phoneme> 5:6; why does he instruct the impious liberty of unbelievers with natural goods and want to justify it by their own principles?
+  </p>
+  <p>
+    Why does he define the nakedness of the transgressor's knowledge as suitable for the renewal of the damaged old way? 
+    As if this knowledge, whether obtained from the remaining works of nature or sought from the teaching of the law, could by its own understanding ensure that we love to do what we know should be done: or that there is any movement of good will, except that which is created by the breath of charity diffused through the Holy Spirit.
+  </p>
+  <p>
+    For without faith it is impossible to please 
+    <phoneme alphabet="ipa" ph="ˈhi.bruːz">Hebrews</phoneme> 11:6: and, 
+    <s>"Whatever is not of faith is sin"</s> <phoneme alphabet="ipa" ph="ˈrəʊ.mənz">Romans</phoneme> 14:23: and, in Christ Jesus neither circumcision nor uncircumcision means anything; but faith working through love 
+    <phoneme alphabet="ipa" ph="ɡəˈleɪ.ʃənz">Galatians</phoneme> 5:6.
+  </p>
+</speak>

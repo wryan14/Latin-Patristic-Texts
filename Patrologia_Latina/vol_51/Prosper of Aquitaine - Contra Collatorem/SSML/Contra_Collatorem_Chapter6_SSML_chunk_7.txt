@@ -1,0 +1,27 @@
+<speak>
+
+<break time="1s"/>
+Chapter Five
+<break time="2s"/>
+  <p>Since the question of the origin of holy wills has been clearly defined against the Pelagians, Cassian wrongly, gathering the weapons of the erring, contends that free will is taken away by grace: when it is rather formed, governed, and ordered through it.</p>
+
+  <s>For when the question of the origin of holy wills, and the principles of faith and charity, was disputed between us and the Pelagians, the conflict was ended not with an uncertain victory nor a doubtful conclusion; so that we must still discuss the most unjust peace of this alliance of yours.</s>
+  <s>The enemy's army was defeated, the war was completed, we are victorious through Him who made power in His arm, who scattered the proud in the thoughts of their hearts, brought down the mighty from their thrones, and exalted the humble, filled the hungry with good things, and sent the rich away empty.</s>
+  <s>(<phoneme alphabet="ipa" ph="luːk">Luke</phoneme> <sub alias="chapter one, verses fifty-two to fifty-three">1:52-53</sub>)</s>
+  <s>Through Him, who showing mercy to our fathers, remembered His holy covenant, and the oath He swore to our father Abraham, to grant us that we, being delivered from the hand of our enemies, might serve Him without fear, in holiness and righteousness before Him all our days.</s>
+  <s>(<phoneme alphabet="ipa" ph="luːk">Luke</phoneme> <sub alias="chapter one, verse seventy-one">1:71</sub>)</s>
+  <s>Through Him, who gave us victory through Jesus Christ our Lord.</s>
+  <s>(<phoneme alphabet="ipa" ph="ˈse.kənd ko.rin.thi.ənz">Second Corinthians</phoneme> <sub alias="chapter fifteen, verse fifty-seven">15:57</sub>)</s>
+  <s>Through Him, from whom we have received not the spirit of this world, but the Spirit who is from God, that we might know the things that have been freely given to us by God.</s>
+  <s>(<phoneme alphabet="ipa" ph="fɜrst ko.rin.thi.ənz">First Corinthians</phoneme> <sub alias="chapter two, verse twelve">2:12</sub>)</s>
+  <s>Why do you strive to collect the shattered weapons of broken arguments?</s>
+  <s>Why, by reviving the ashes of an extinguished doctrine, do you try to kindle the scent of dying smoke into a living flame?</s>
+
+  <s>There is no danger to free will from the grace of God, nor is the will taken away, since the desire to do good is generated within it.</s>
+  <s>For if it is not to be considered ours because it is formed, governed, ordered, and imbued: then the children of God are stripped of liberty who are led by the Spirit of God.</s>
+  <s>(<phoneme alphabet="ipa" ph="ˈroʊ.mənz">Romans</phoneme> <sub alias="chapter eight, verse fourteen">8:14</sub>)</s>
+  <s>They lose the strength of rational minds and are deprived of all praise for voluntary devotion, to whom is given the Spirit of wisdom and understanding, counsel and might, knowledge and piety, and the fear of the Lord.</s>
+  <s>(<phoneme alphabet="ipa" ph="aɪˈzeɪ.ə">Isaiah</phoneme> <sub alias="chapter eleven, verse two">11:2</sub>)</s>
+  <s>Surely those who do not think they need these reforms have passed from the habit of old sickness into madness: they reject the remedy, cry out, rage, resist; but if they are children of the promise, they will rest and be healed.</s>
+
+</speak>

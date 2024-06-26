@@ -1,0 +1,116 @@
+<speak>
+  <p>
+    <s>CHAPTER VIII. Sixth Definition of Cassian: Free will and grace should be accepted together; that is, they are believed to equally contribute to salvation.</s>
+    <s>Divine authorities on grace are presented: and the reason why free will is not taken away by grace is given.</s>
+  </p>
+
+  <p>
+    <s>After this, he presents testimonies from Sacred History, showing that the observance of God's commandments and the fulfillment of virtues are attributed to divine grace.</s>
+    <s>We also readily confess this.</s>
+    <s>And having recalled examples such as Balaam, whom God transformed from cursing the Israelites to blessing them <phoneme alphabet="ipa" ph="ˈnʌmbərz">Numbers</phoneme> thirteen; and Abimelech, who was not allowed to sin against Rebecca <phoneme alphabet="ipa" ph="ˈdʒɛnəsɪs">Genesis</phoneme> twenty-six; and Joseph, who was sold by his brothers, whose evil intention God turned to good <phoneme alphabet="ipa" ph="ˈdʒɛnəsɪs">Genesis</phoneme> thirty-seven: he returns to confirm his definition.</s>
+    <s>He states that free will, which he claims to join with grace, is partially taken away from some of the human race, as much as it is in itself, and established in another part.</s>
+    <s>He says: Indeed, these two, that is, either grace or free will, seem to oppose each other; but both agree, and we should accept both equally with a sense of piety: lest by taking away one of these from man, we seem to exceed the rule of ecclesiastical faith.</s>
+  </p>
+
+  <p>
+    <s>The rule of ecclesiastical faith is, as the Apostle preaches: No one can say "Lord Jesus," unless in the Holy Spirit <phoneme alphabet="ipa" ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> twelve verse three.</s>
+    <s>The rule of ecclesiastical faith is: What do you have that you did not receive? <phoneme alphabet="ipa" ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> four verse seven.</s>
+    <s>If you did receive it, why do you boast as if you did not?</s>
+    <s>The rule of ecclesiastical faith is: By the grace of God, I am what I am, and His grace toward me was not in vain, but I labored more abundantly than they all; yet not I, but the grace of God which was with me <phoneme alphabet="ipa" ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> fifteen verse ten.</s>
+    <s>And, I obtained mercy so that I might be faithful <phoneme alphabet="ipa" ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> seven verse twenty-five.</s>
+    <s>The rule of ecclesiastical faith is: We have this treasure in earthen vessels, that the excellence of the power may be of God and not of us <phoneme alphabet="ipa" ph="ˈsɛkənd kəˈrɪnθiənz">Second Corinthians</phoneme> four verse seven.</s>
+    <s>The rule of ecclesiastical faith is: By grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast <phoneme alphabet="ipa" ph="ɪˈfiʒənz">Ephesians</phoneme> two verse eight.</s>
+    <s>The rule of ecclesiastical faith is: Do not be intimidated by your adversaries, which is proof to them of perdition, but to you of salvation, and that from God: For to you it has been granted on behalf of Christ.</s>
+  </p>
+
+
+  <p>
+    <s>
+      Because it has been granted to you for Christ's sake, not only to believe in Him but also to suffer for Him.
+      <break time="500ms" />
+      <w role="emphasis">Philippians</w> 1:28.
+    </s>
+    <s>
+      The ecclesiastical rule is:
+    </s>
+    <s>
+      Work out your own salvation with fear and trembling. For it is God who works in us both to will and to work for His good pleasure.
+      <break time="500ms" />
+      <w role="emphasis">Philippians</w> 2:12.
+    </s>
+    <s>
+      The ecclesiastical rule is:
+    </s>
+    <s>
+      Not that we are sufficient to think anything from ourselves, as if from ourselves, but our sufficiency is from God.
+      <break time="500ms" />
+      <w role="emphasis">Second Corinthians</w> 3:5.
+    </s>
+    <s>
+      This rule is confirmed by the Lord saying,
+    </s>
+    <s>
+      No one can come to me unless it has been given to him by my Father.
+      <break time="500ms" />
+      <w role="emphasis">John</w> 6:66.
+    </s>
+    <s>
+      And, All that the Father gives me will come to me.
+      <break time="500ms" />
+      <w role="emphasis">John</w> 6:37.
+    </s>
+    <s>
+      And, Without me you can do nothing.
+      <break time="500ms" />
+      <w role="emphasis">John</w> 15:5, 16.
+    </s>
+    <s>
+      And, You did not choose me, but I chose you.
+      <break time="500ms" />
+      <w role="emphasis">Luke</w> 10:22.
+    </s>
+    <s>
+      And, No one knows the Son except the Father; nor does anyone know the Father except the Son, and he to whom the Son wills to reveal Him.
+      <break time="500ms" />
+      <w role="emphasis">Matthew</w> 11:27.
+    </s>
+    <s>
+      And, Just as the Father raises the dead, so the Son also gives life to whom He wills.
+      <break time="500ms" />
+      <w role="emphasis">John</w> 5:21.
+    </s>
+    <s>
+      And, Blessed are you, Simon Barjona, because flesh and blood did not reveal this to you, but my Father who is in heaven.
+      <break time="500ms" />
+      <w role="emphasis">Matthew</w> 16:17.
+    </s>
+  </p>
+  <p>
+    <s>
+      This rule takes away the will from no human; because the power of grace does not work in wills so that they do not exist, but that they may be made good from evil, and faithful from unfaithful; and those who were darkness of themselves may become light in the Lord.
+    </s>
+    <s>
+      What was dead may be brought to life, what was lying down may be raised, what was lost may be found.
+    </s>
+    <s>
+      This is in all men who are delivered from the power of darkness and transferred to the kingdom of the Son of God's love, without exception of any person, we believe to be the work of the grace of the Savior.
+    </s>
+    <s>
+      Because, as this same one probably, but not definitively, determined, we say and defend that not only the beginning of good actions but also of good thoughts is from God, who inspires us with the beginnings of a holy will and grants the strength and opportunity to achieve what we rightly desire.
+    </s>
+    <s>
+      For every good gift and every perfect gift is from above, coming down from the Father of lights.
+      <break time="500ms" />
+      <w role="emphasis">James</w> 1:17.
+    </s>
+    <s>
+      Who begins good things, and continues; and perfects them in us.
+    </s>
+    <s>
+      If the author had remained in this sentiment, he would not have exceeded the ecclesiastical rule; nor would he be at the same time opposed to free will and ungrateful to the grace of God.
+    </s>
+    <s>
+      Of which two while indicating one in Paul and Matthew, another in Zacchaeus and the thief, he does not understand that in those he took away free will, in these he took away grace.
+    </s>
+  </p>
+</speak>

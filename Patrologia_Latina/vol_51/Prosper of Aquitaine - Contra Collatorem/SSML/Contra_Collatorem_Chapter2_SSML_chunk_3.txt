@@ -1,0 +1,160 @@
+<speak>
+  <p>
+<break time="1s"/>
+Chapter Two: Why he primarily addresses the definitions of Cassian.
+<break time="2s"/>
+    <s>
+      Cassian's first Catholic definition.
+    </s>
+    <s>
+      From which later begins to introduce the definition that many come to grace without grace.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      <w role="emphasis">And</w> so that we do not seem to obscure the knowledge of the learned by stirring up things that the ignoble crowd and the reckless chatter of the foolish intemperately pour out, we will refer primarily to the definitions of one who undoubtedly excels all of them in the study of the Holy Scriptures.
+    </s>
+    <s>
+      These also must for the time being be taken up for consideration because it cannot be doubted whether they are so.
+    </s>
+    <s>
+      For they are written and published by their author: now it is not to be asked whether they are, but to be demonstrated what they teach.
+    </s>
+    <s>
+      Therefore, in the book titled "On the Protection of God," a certain priest (<phoneme alphabet="ipa" ph="kæsɪən">Cassian</phoneme>), who excels in the practice of disputation among those with whom he lived, introduces a certain abbot (<phoneme alphabet="ipa" ph="kɛrəmən">Chaeremon</phoneme>) discussing the grace of God and free will, whose opinion he shows he thoroughly approved and adopted.
+    </s>
+    <s>
+      So now our business is not with him, who perhaps would refute his opinions either by denying them or by correcting them; but with this one, who strives to bring forth such teaching to serve as a tool for the enemies of God's grace.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      However, this teaching at the beginning of the disputation does not deviate from the piety of truth and would deserve to be honored with just praise, if it did not deviate from the commenced rectitude with a hasty and leftward progress.
+    </s>
+    <s>
+      For after the comparison of the farmer, to whom he fitted the form of one living under grace and faith, and whose labor he said would be fruitless unless aided by the help of God in everything, he introduced the most Catholic definition, saying:
+    </s>
+    <s>
+      From which it is clearly gathered that not only the actions but also the beginnings of good thoughts are from God: who inspires in us the beginnings of holy will, and grants the strength and opportunity to carry out those things we rightly desire.
+    </s>
+    <s>
+      <phoneme alphabet="ipa" ph="dʒeɪmz">James</phoneme> 1:17: "For every good gift and every perfect gift is from above, coming down from the Father of lights: who both begins what is good and carries it out and completes it in us, as the Apostle says."
+    </s>
+    <s>
+      <phoneme alphabet="ipa" ph="sɛkənd kəˈrɪnθiənz">Second Corinthians</phoneme> 9:10: "He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness."
+    </s>
+    <s>
+      Here, lest anyone think there is nothing left that is done through free will,
+    </s>
+  </p>
+
+
+<p>Not unreasonably added to show that it was not taken away by these gifts but rather strengthened, unless</p>
+<break time="500ms" />
+
+<s></s>
+<p>Turned back to their own iniquities, they preferred to turn away from God's help.</p>
+
+<p>But it is ours, he says, to humbly follow the grace of God that draws us daily,</p>
+<break time="500ms" />
+
+<s></s>
+<p>Or certainly with stiff necks and uncircumcised ears, as it is written in</p>
+<phoneme alphabet="ipa" ph="ækt">Acts</phoneme>
+<p>chapter 7, verse 51, resisting Him, through Jeremiah we deserve to hear,</p>
+<break time="500ms" />
+
+<p>Shall the one who falls not rise again? Or shall the one who turns away not return?</p>
+<break time="500ms" />
+
+<p>(Jeremiah chapter 8, verse 4) Why then has this people turned away in Jerusalem with a persistent turning away: they have hardened their necks, and refused to return?</p>
+<break time="500ms" />
+
+<s></s>
+<p>Likewise below, when he had taught that all efforts of virtues need God's grace, he added in a reasonable manner, saying (Conference 13, chapter 6):</p>
+<break time="500ms" />
+
+<p>All these things, as they cannot be continually desired by us without divine inspiration,</p>
+<break time="500ms" />
+
+<s></s>
+<p>So neither can they be perfected in any way without His help.</p>
+
+<p>But in the seventh chapter (now it is chapter 8), wishing to show the general grace of Christ, which does not overlook any person entirely and does not abandon even the rebellious and opposed:</p>
+<break time="500ms" />
+
+<p>Therefore, he says, the divine protection is inseparably with us</p>
+<break time="500ms" />
+
+<s></s>
+<p>And such is the Creator's affection for His creation that not only does He accompany it, but also precedes it</p>
+<break time="500ms" />
+
+<s></s>
+<p>Continually with providence. In which it can be seen, for this reason he said providence as a companion, because</p>
+<break time="500ms" />
+
+<s></s>
+<p>Even those who often abandon themselves He does not abandon; or because He follows all those He precedes.</p>
+<break time="500ms" />
+
+<s></s>
+<p>He continues saying: When He sees in us the beginning of good will, He illuminates it</p>
+<break time="500ms" />
+
+<s></s>
+<p>And strengthens it, and directs it to salvation, giving it increase, which He either planted Himself,</p>
+<break time="500ms" />
+
+<s></s>
+<p>Or saw emerge from our effort.</p>
+
+<p>And here he can still say that he meant the beginning of that good will to be from God</p>
+<break time="500ms" />
+
+<s></s>
+<p>As inspired or planted principles: because from hearts already illuminated</p>
+<break time="500ms" />
+
+<s></s>
+<p>Salutary efforts can emerge, which are therefore said to be the person's own, because he has already received the ability for good efforts, and their seeds are referred to their author.</p>
+
+<p>In the ninth chapter he added,</p>
+<break time="500ms" />
+
+<s></s>
+
+
+    <p>
+        And he said: 
+        <s>It is not easily discerned by human reason how the Lord gives to those who ask, is found by those who seek, and opens to those who knock.</s> 
+        <s>And again, is found by those who do not seek Him, clearly appears among those who did not question Him.</s> 
+        <s>He extends His hands all day long to a people who do not believe Him and contradict Him, calling those who resist and are placed far off.</s> 
+        <s>Isaiah 65:1</s> 
+        <s>Drawing the unwilling to salvation, withholding the opportunity to sin from those who wish to sin, kindly opposing those who hasten to evil.</s> 
+    </p>
+    <p>
+        <s>Now here, as if through an inscrutable diversity, a definition is introduced which teaches that many come to grace without grace, and that this desire of asking, seeking, knocking, is held by some from the vigilance of free will.</s> 
+        <s>However, it is reported to be so blinded in others by such great aversion that it cannot be recalled by any exhortations unless it is led by the force of one who draws the unwilling.</s> 
+        <s>As if this were not done in the souls of all by the varied work of grace, so that the unwilling are made willing; or anyone of those who already use the judgment of reason could receive faith except by will.</s> 
+        <s>Hence it is as absurd to say that anyone tends to the participation of grace unwillingly, as to assert that anyone comes to it without being incited by the Spirit of God.</s>
+    </p>
+    <p>
+        <s>Therefore, this disputant quickly forgot the definition he previously stated, quickly dissented from his own opinion with unstable levity.</s> 
+        <s>For he had said regularly, "Not only the beginning of good actions, but also of good thoughts, is from God."</s> 
+        <s>See above, chapter 2, number 2</s> 
+        <s>And lest this should be understood as doctrine applied externally, he had vigilantly added:</s>
+        <s>Who inspires us with the beginnings of holy will, and grants the strength and opportunity to perform what we rightly desire.</s> 
+        <s>For every good gift, and every perfect gift is from above, descending from the Father of lights, who begins what is good, and carries out and completes it in us.</s>
+    </p>
+    <p>
+        <s>Catholic teacher, why do you abandon your profession?</s> 
+        <s>Why do you fall back into the smoky darkness of falsehood, leaving the light of the clearest truth?</s> 
+        <s>What you marvel at in those who ask, seek, and knock, why do you not ascribe to the same grace that is desired?</s> 
+        <s>You see good efforts, pious studies, and you doubt they are God's gifts?</s> 
+        <s>The work of grace may have been hidden, while the faith planted in thought was closed in secrecy:</s> 
+        <s>but where there is supplicant prayer, diligent inquiry, frequent knocking, why do you not understand the supply of incitement from the quality of the work?</s>
+    </p>
+</speak>
