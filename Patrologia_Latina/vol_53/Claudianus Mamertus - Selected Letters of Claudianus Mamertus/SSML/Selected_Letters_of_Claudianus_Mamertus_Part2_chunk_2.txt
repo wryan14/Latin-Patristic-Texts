@@ -1,0 +1,58 @@
+<speak>
+<break time="1s"/>
+Letter Two <break time="500ms"/>Greetings from Sidonius to Claudianus
+<break time="2s"/>
+
+    <p>
+        <s>You, my esteemed friend, are establishing a deeper bond of friendship, and you question why I've refrained for so long from picking up my pen and writing to you, and why no paper has carried my words to you to show my diligent concern for your well-being.</s>
+        <s>You have speculated wrongly if you think that anyone who loves to converse in Latin wouldn't be afraid when their writing is judged by your ears.</s>
+        <s>Your expertise in listening is so great that, if my merit from past times doesn't overshadow me, I wouldn't compare myself even to the gravity of Fronto, the weightiness of Apuleius, or the eloquence of Varro, Atacinus, Terence, or Pliny, either the Elder or the Younger.</s>
+    </p>
+    
+    <p>
+        <s>Supporting my opinion is that book you wrote, rich in knowledge of the soul and the sciences of words and things.</s>
+        <s>In it, when you mention my name in the introduction, I received the greatest honor: my reputation, which was not worth much, has been immortalized by being included in the titles of your books.</s>
+    </p>
+    
+    <p>
+        <s>Oh, what a great and magnificent work it is, enclosed in its subject matter, conspicuous in its rhetoric, intricate in its propositions, and unlocked through debate.</s>
+        <s>Although it has thorny points because of the complex syllogisms, it's still sweet with the bloom of flourishing eloquence.</s>
+        <s>The new words there, though ancient, would make the style of even the oldest literature seem outdated in comparison.</s>
+        <s>What is more precious is that the entire diction is so sharply concise that it flows naturally, being expansive in content but tight in sentences, teaching more than it says.</s>
+    </p>
+    
+    <p>
+        <s>In your books, how remarkable it is that despite their maturity, they retain a certain tenderness and mix in a timely sweetness.</s>
+        <s>This keeps the reader's attention, which may become tired by the detailed parts of philosophy, refreshed with delightful excursions, as if in the harbors of your vast sea.</s>
+        <s>Oh, book of many strengths! Oh, eloquence not weak, but subtle!</s>
+        <s>It neither swells with hyperbolic outbursts nor shrinks with humbling simplicity.</s>
+        <s>It is a unique and singular doctrine, notable in asserting various matters, accustomed to philosophize with experts in each art.</s>
+    </p>
+    
+    <p>
+        <s>If chance demands, it does not hesitate to hold the lyre with Orpheus, the staff with Aesculapius, the compass with Archimedes, the horoscope with Euphrates, the compass with Perdix, the plumb line with Vitruvius; it never stops investigating with Thales, the times with Atlas, the stars with Zetes, weights with Chrysippus, numbers with Euclid, measurements.</s>
+    </p>
+    
+    <p>
+        <s>Ultimately, no one in my age has been able to affirm what they wished as you have.</s>
+        <s>For when you engage in argument, you rightly claim mastery of both languages and disciplines.</s>
+        <s>You feel like Pythagoras, divide like Socrates, explain like Plato, implicate like Aristotle, flatter like Aeschines, become angry like Demosthenes, bloom like Hortensius, incite like Cethegus, linger like Fabius, pretend like Crassus, dissemble like Caesar, persuade like Cato, dissuade like Appius, and convince like Cicero.</s>
+    </p>
+    
+    <p>
+        <s>Now, if we compare you to the holy Fathers, you instruct like Jerome, refute like Lactantius, build like Augustine, elevate like Hilary, humble like John, reprimand like Basil, console like Gregory, overflow like Orosius, are concise like Rufinus, narrate like Eusebius, urge like Eucherius, provoke like Paulinus, and persist like Ambrose.</s>
+    </p>
+    
+    <p>
+        <s>As for your Hymn, if you ask my opinion, it is well-composed, abundant, sweet, and elevated.</s>
+        <s>It surpasses any lyrical dithyrambs in poetic charm and historical truth.</s>
+        <s>What's special about it is that, within the bounds of meter, syllables, and their natural placements, rich words are enclosed in short verses; the brevity of tightly structured poetry does not diminish the length of ornamented prose.</s>
+    </p>
+
+
+    <p>These, and the smaller pyrrhic feet, not only surpass the triple molossus and anapaest, but also the four-part combinations of epitrites and paeons. The grandeur of expression exceeds regular limitations, and it is like a large gem barely fitting in a small setting of gold. It shines forth like the spirit of a powerful horse, which, if held back by the reins in rough or uneven terrain, you understand that it lacks not speed but space.</p>
+    <p>In short, I consider myself skilled in both styles of speaking, and neither the Athenians of Attica nor the Muses of music would judge otherwise, provided that my prolonged laziness has not deprived me of the opportunity to critique. For while I gradually adopt a new style of writing under the guise of a forced profession, and unlearn the old suddenly, I have nothing more of a good orator than that I have become more of a bad poet.</p>
+    <p>Therefore, I ask that you pardon this fault of mine, because, remembering myself somewhat, I rarely mix my dry stream with your river. Your trumpet will be honored by the whole world as it deserves. It is known to have sounded with double success, since it found neither rival nor equal, even as it long traveled through the ears and mouths of the people, while I also circulated it.</p>
+    <p>But for us, it is a great audacity to babble even among local and established orators, or court advocates. Who, even when they make speeches, with all due respect to the better ones, a larger crowd, vacate the most illiterate letters. For you, who can alternate between free and constrained speech, few whom fair Jupiter loved will imitate.</p>
+    <p>Farewell.</p>
+</speak>
