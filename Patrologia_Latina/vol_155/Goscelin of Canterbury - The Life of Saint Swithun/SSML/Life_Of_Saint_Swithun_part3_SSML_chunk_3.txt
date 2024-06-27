@@ -1,0 +1,103 @@
+<speak>
+  <p>
+  <break time="1s"/>
+    <s>
+      CHAPTER II. The Translation of the Body, Other Miracles.
+    </s>
+  <break time="1s"/>
+  </p>
+  <p>
+    <s>
+      After these events, on July 15, the venerable Bishop Athelwold, along with other bishops, abbots, and many monks, lifted the holy relics from the monument by the command of the glorious King Edgar and placed them with great reverence in the basilica of the apostles Peter and Paul.
+    </s>
+    <s>
+      There, blessings are granted to all who ask with true faith.
+    </s>
+    <s>
+      Afterwards, four sick people received healing at his tomb over the course of three days.
+    </s>
+    <s>
+      Then, over five months, there was rarely a day when the sick were not healed at the honorable relics of the saint.
+    </s>
+    <s>
+      Sometimes three, sometimes five, sometimes seven, sometimes ten, now twelve, now fifteen.
+    </s>
+    <s>
+      Indeed, we saw more than two hundred sick people healed through the saint's merit in ten days, and countless in the span of a year.
+    </s>
+    <s>
+      Therefore, let the unbelievers come to the saint of God to recognize the blessings of the Creator and to praise the Creator.
+    </s>
+  </p>
+  <p>
+    <s>
+      Let the faithful know that our Lord Jesus Christ, the only begotten of God, who at the beginning of this age, veiled in the garment of flesh, by Himself gave sight to the blind, made the lame walk, restored hearing to the deaf, healed the paralyzed, raised the dead, and walked on the sea with dry feet;
+    </s>
+    <s>
+      in our times, to show the omnipotence of His majesty and to manifest the merit of the distinguished priest Swithun, grants the blessing of health to the bodies of the sick, as numerous as the sands of the sea, which cannot be counted.
+    </s>
+    <s>
+      Blessed is the Almighty God, who in our time has deigned to glorify His saint with signs and virtues; who lives and reigns with the Father and the Holy Spirit through all ages.
+    </s>
+    <s>
+      Amen.
+    </s>
+  </p>
+  <p>
+    <s>
+      At the time when the Lord was revealing His saint Swithun to people, it happened that twenty-six sick people came to Winchester in one day to regain their health.
+    </s>
+    <s>
+      Some were blind, some deaf, some mute, and some paralyzed.
+    </s>
+    <s>
+      When they approached the monument of the holy bishop and offered prayers before God, through his intervention, they were all healed within three days, and they returned home joyfully, magnifying and praising the Lord.
+    </s>
+    <s>
+      Not long after, one hundred twenty-four sick people from various parts of England and Saxony, afflicted with multiple illnesses, came to the same saint.
+    </s>
+    <s>
+      All of them were healed of various diseases by the merit of the holy bishop, with God's will, within two weeks and returned home healthy, blessing the Lord.
+    </s>
+    <s>
+      There was also a man who had been blinded during the Greater Litanies due to robbery: but since he was innocently blinded, he came to the mausoleum of Saint Swithun on the Epiphany of the Lord, humbly offering prayers.
+    </s>
+    <s>
+      His eyes, which had been put out with iron and completely removed, were illuminated.
+    </s>
+    <s>
+      He had clear vision for the rest of his life.
+    </s>
+    <s>
+      Therefore, since we cannot recount all the miracles that the Lord has deigned to perform through Saint Swithun, let us ask this holy bishop to heal the illnesses of our souls by interceding for us before the Lord, with whom he has earned the right to remain forever due to his good works.
+    </s>
+    <s>
+      Therefore, when the Savior of the world decided to show such signs at the tomb of the venerable Father Swithun, the blessed Bishop Athelwold ordered the brothers living there that whenever anyone received healing through the merit of the holy man, they should all immediately go to the church and glorify God with hymns and praises.
+    </s>
+  </p>
+  <p>
+    <s>
+      However, it happened that after a few days, some began to resent being awakened at night, sometimes four times, sometimes three times, and they began to persuade others to wrongly abandon what had been piously ordered by their bishop.
+    </s>
+    <s>
+      When this was carelessly neglected for fifteen days, Saint Swithun himself appeared in a dream to a faithful man, saying to him: Go to the old monastery and tell the brothers that their murmuring greatly displeases Almighty God, since many miracles are performed daily before...
+    </s>
+  </p>
+
+
+    <p>
+        They act so unjustly that they do not give Him praise but prioritize fleeting pursuits over divine works. <break time="500ms" />
+        Add to this that if they cease their praises, the great deeds of God will immediately cease. <break time="500ms" /> 
+        But if they continue to glorify God, He will perform as many miracles there as no one alive can recall being done anywhere. <break time="500ms" />
+    </p>
+    <p>
+        The aforementioned man, after waking up from the saint's departure, hurried to Bishop Athelwold and informed him of everything the holy man had commanded. <break time="500ms" />
+        The bishop, disturbed in spirit, wondered why the brothers had not acted according to the saint's directive and sent a strong warning to the monks. <break time="500ms" /> 
+        He instructed them that for all healings that occurred at the saint's tomb, they should make a sign, all go together to the church, and sing praises to Almighty God with hymnic voices. <break time="500ms" />
+    </p>
+    <p> 
+        We have heard that this has been observed ever since. <break time="500ms" /> 
+        To whom be glory and praise to Almighty God, who has thus deemed to glorify His saint, who lives and reigns forever and ever. <break time="500ms" /> 
+        Amen.
+    </p>
+</speak>

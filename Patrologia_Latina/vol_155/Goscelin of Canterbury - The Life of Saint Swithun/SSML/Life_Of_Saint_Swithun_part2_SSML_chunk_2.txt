@@ -1,0 +1,52 @@
+<speak>
+  <p>
+    <break time="500ms"/>
+    <s>HISTORY OF THE TRANSLATION AND MIRACLES</s>
+    <break time="500ms"/>
+    <s>Authored, it seems, by Lantfiedus, a monk of Winchester in England.</s>
+    <break time="500ms"/>
+    <s>From the oldest manuscript of Bigotius.</s>
+    <break time="2s"/>
+  </p>
+  <p>
+    <s>CHAPTER ONE.</s>
+    <break time="500ms"/>
+    <s>The body of Saint Swithun divinely revealed, and the miracles.</s>
+    <break time="1s"/>
+  </p>
+  <p>
+    <s>In the times of the most fortunate King Edgar of the English and the most glorious emperor of the entire island of Albion, in the year of the Incarnation of our Lord and Savior Jesus Christ 971, in the 14th indiction, the almighty Deity deigned to reveal to the English Saxons the holy body of the blessed Bishop Swithun.</s>
+    <s>Through his merits, so many sick people, by the favor of God, were restored to their former health, as no living person has ever heard by common report, nor seen with bodily eyes, nor learned by reading, to have been healed at the tomb of any saint.</s>
+    <s>However, the life and ancient conduct of this remarkable bishop are unknown to us because no writings exist.</s>
+    <s>But the mercy of almighty God has deigned to reveal his merits most clearly through miraculous signs.</s>
+  </p>
+  <p>
+    <s>Therefore, three years before the holy remains of the aforementioned bishop were removed from the mausoleum where they had been buried long ago by the most reverend bishop of that place, Athelwold, and his brothers, the saint himself appeared in a dream to a certain truthful smith, radiant with an angelic appearance, saying to him:</s>
+    <s>"Do you recognize that canon who, along with others living poorly, was recently expelled from the old monastery? To recognize him clearly, he is called Eadsinus by name."</s>
+    <s>The smith replied: "I once knew him, Father, but now I do not know where he is."</s>
+    <s>The bishop said to him: "He now resides in Winchelcombe. I ask you, and in the name of Christ, I command you to go quickly to him and tell him my orders: This is what Bishop Swithun commands you, Eadsinus, to hasten to Winchester and tell the bishop, who now finally governs the diocese I once presided over, to elevate my body from the tomb and place it in a church, because it has been granted to him from heaven that I am to be revealed in his time."</s>
+  </p>
+  <p>
+    <s>The smith said to the saint: "Lord, he will by no means want to believe my words."</s>
+    <s>The holy man said: "So that he believes your words, tell him to go to my tomb and pull one ring from the three that are fixed to the cover of my sarcophagus. If he can immediately pull it out, let it be truly known to him that I sent you to him. But if he cannot pull it out at all, then he should by no means believe you. You can then confidently tell him that if he desires to enjoy the safety of both lives, he should change his ways and actions for the better and hasten incessantly to the blessedness of the heavenly homeland. Furthermore, prophesy to everyone that as soon as they open my tomb, they will find treasures so inestimable and precious that whatever gold and jewels exist anywhere will seem worthless in comparison to these."</s>
+    <s>After giving such commands to the smith, the holy prophet ascended to the heavens. However, that smith, at first fearing to seem deceitful, dared not reveal this vision to anyone living.</s>
+  </p>
+  <p>
+    <s>He was admonished a second and third time by the same holy bishop, who rebuked him sharply for not obeying his commands. Finally, he approached the tomb of the holy bishop, took one of the aforementioned rings, and with such a voice...</s>
+  </p>
+
+
+
+<p>Then, to the Lord, creator of all things:</p>
+
+<p>Lord God, creator of the entire universe, grant me, a sinner, that if this holy man, who rests here in body, has appeared to me three times in the sleep of the night, I may be able to pull out this iron sphere from here, as recently in the vision of the dream, the same man of God endeavored to reveal to my ears. As soon as he pulled the steel orb, it followed him from the stone mass as if it were stuck in sea sand. When he put it back in its own small crevice, it remained fixed, slightly pressed by the heel, so that afterward, no one could pull it out from there.</p>
+
+<p>On the same day, as he was passing through the market, he found a certain servant of the aforementioned cleric coming to Winchester for necessary purchases. He informed him of the things he had seen in dreams and humbly begged him to tell such things to his master. After he reached his own master over a long interval of time, he remained silent, forgetful of that matter, but later, moved by repentance, he diligently narrated everything he had heard from the craftsman to his master.</p>
+
+<p>At that time, the cleric, not only the bishop of the Winchester diocese but also all the brothers living there, was vexed because of the expulsion of the canons, who were using wicked and very filthy customs, for which the venerable Athelwold had expelled them from the aforementioned monastery. He refused to listen, being more eager to fulfill the orders of the holy Father. However, after the course of two years, with the favor of the supreme mercy of the Creator, who leads all those whom he presses to labor in the Lord's vineyard to his grace; the same cleric who was recently there became a venerable monk. For we ourselves saw it happen, as this present little book demonstrates. Blessed be Almighty God, who justifies sinners, who saves those who hope in Him, who humbles the proud, who exalts the humble!</p>
+
+<p>So, two years before the holy discovery of the body, a certain hunchbacked man, very bent due to a large goiter, heard in a dream that he should go to Winchester, and there, through the merit of Saint Swithun, he would receive health. Rising in the morning, as best as he could, he supported his hump with twin crutches. He arrived at Winchester, where he stayed for a long time. Being admonished again by an angelic visitation, he went to the tomb of the holy bishop Swithun, and kneeling, he prayed to the Lord that he might be healed there by the merits of the saint, as he had heard in his dreams. As soon as he rose from his prayers, he was so divinely healed that no trace of the deformed hump appeared anywhere.</p>
+
+<p>As the day of the most sacred solemnity approached, when the venerable bishop of God, Swithin, was released from bodily bonds and migrated from this world to the Lord, a man was miserably debilitated in all his limbs by demonic deceptions. As he was tormented for a long time, his neighbors and relatives brought him to the tomb of the holy man of God, and they spent that night awake with the sick friend in constant prayers. The sick man, however, oppressed by sleep in the morning, fell asleep a little, and it seemed to him that some people approached him and took one of his shoes off his foot. Immediately, he returned home healthy with his friends. However, his shoe was searched for everywhere but was not found. Eight other weak people were healed at the mausoleum of the holy man before his bones were taken from there.</p>
+
+</speak>
