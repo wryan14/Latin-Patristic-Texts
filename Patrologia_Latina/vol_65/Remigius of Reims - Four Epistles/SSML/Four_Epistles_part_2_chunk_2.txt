@@ -1,0 +1,57 @@
+<speak>
+<break time="1s"/>Letter One<break time="1s"/> To the illustrious and meritorious King Clovis, from Remigius<break time="2s"/>
+    <p>
+        <s>
+            It pains me, and it pains me greatly, because of your sorrow that your sister Albofledis, of glorious memory, has passed away.
+        </s>
+        <s>
+            But we can find comfort, because she left this world in such a way that she should be remembered more than mourned.
+        </s>
+        <s>
+            For she lived a life such that it is believed the Lord took her, and she, chosen by God, migrated to heaven.
+        </s>
+        <s>
+            She lives in your faith, even if she has been received through desire.
+        </s>
+        <s>
+            Christ fulfilled it, so that she received the blessing of virginity; she who is consecrated should not be mourned, she who blooms in the sight of the Lord with the flower of virginity, and indeed is crowned with the crown she received for her virginity.
+        </s>
+        <s>
+            Let it not be that she is mourned by the faithful, she who has earned the good fragrance of Christ, so that through Him whom she pleases, she can provide help to those who ask.
+        </s>
+    </p>
+    <p>
+        <s>
+            My lord, drive sadness from your heart: with a composed mind, govern the kingdom wisely, taking on higher counsels with a focus on serenity.
+        </s>
+        <s>
+            Strengthen your body with a joyful heart: by shaking off the numbness of sorrow, you will more keenly watch over salvation.
+        </s>
+        <s>
+            The kingdom remains for you to manage, and with God’s guidance, to oversee.
+        </s>
+        <s>
+            You are the head of the people, and you bear the leadership.
+        </s>
+        <s>
+            Do not let those who are accustomed to seeing happiness through you see you affected by bitterness in mourning.
+        </s>
+        <s>
+            Be the comforter of your own soul, maintaining the vigor of your innate providence, so that sadness does not diminish the purity of your mind.
+        </s>
+    </p>
+    <p>
+        <s>
+            As for her present passing, who, as I believe, is joined to the choirs of virgins, the King rejoices in heaven.
+        </s>
+        <s>
+            Greeting your glory, I commend my familiar priest Maccolum whom I have sent.
+        </s>
+        <s>
+            I ask that you forgive me for not meeting you in person, as I have presumed to send these words of exhortation.
+        </s>
+        <s>
+            However, if you command through the bearer of this letter that I should come, disregarding the harshness of winter, neglecting the cold, and overcoming the hardship of the journey, I will endeavor to reach you with the Lord’s help.
+        </s>
+    </p>
+</speak>
