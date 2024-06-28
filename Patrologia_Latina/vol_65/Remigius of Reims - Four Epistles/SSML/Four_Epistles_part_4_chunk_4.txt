@@ -1,0 +1,37 @@
+<speak>
+<break time="1s"/>Letter Three<break time="1s"/>To the truly holy and deservedly most blessed brothers in Christ, Heraclius, Leo, and Theodosius<break time="2s"/>
+        <p>
+            Paul the apostle speaks in his letter: <phoneme alphabet="ipa" ph="lʌv nɛvər feɪlz">"Love never fails"</phoneme> (First Corinthians 13:8), which did not settle in your hearts to send such letters to me. 
+            For I offered a simple prayer for Claudius, whom you do not write as a priest, so that you might show your indignation towards me. 
+            I do not deny that he has gravely sinned, but you should have respected my age, even if not my merits.
+        </p>
+        <p>
+            With divine favor, it has been said that I have presided over the episcopal seat for 53 years, and no one has addressed me so insolently. 
+            You say it would have been better if you had not been born. This would have been convenient for me, so I would not have heard the reproach of a transgressor.
+        </p>
+        <p>
+            I made Claudius a priest, not corrupted by a bribe, but by the testimony of the most excellent king, who was not only a preacher of the Catholic faith but also a defender. 
+            You write that what he ordered was not canonical. You hold the highest priesthood. The governor of the regions, the guardian of the homeland, the conqueror of nations commanded it. 
+            You burst forth with such bile against me that you did not even respect the author of your episcopate.
+        </p>
+        <p>
+            I asked that Claudius, the perpetrator of sacrilege, be preserved for penance. 
+            In Jonah chapter 3 verses 5 through 10, we read that the Ninevites escaped destruction predicted by a heavenly announcement through penance: 
+            which John the precursor of the Lord preached in the Gospel of Matthew, that with the kingdom of heaven approaching, the people should do penance so that they might not perish. 
+            In Revelation, it is written to the angels of the churches by the command of the Lord and Savior, that they should correct by penance what they had done less worthily.
+        </p>
+        <p>
+            From the angry words of your holiness, I understand that you do not pity the fallen after their downfall. 
+            But I see that you rather wish that he does not turn back and live, when the Lord said: <phoneme alphabet="ipa" ph="aɪ du nɑt dɪˈzaɪər ðə dɛθ əv ðə daɪɪŋ, bʌt ðæt hi tɜrnz bæk ænd lɪvz">"I do not desire the death of the dying, but that he turns back and lives"</phoneme> (Ezekiel 33:2).
+        </p>
+        <p>
+            This is what we should follow, this will of the Lord not to overlook, but to hold: because he placed us not for wrath, but for the care of men, and to serve piety rather than fury.
+        </p>
+        <p>
+            You state in your letter that a certain Celsus who believed Claudius, was abducted, and you do not know whether he is alive or dead and command me to be his investigator; and you do not know whether he should be sought in the world or in the underworld: and you want me to restore his property which I do not know was taken. 
+            You command the impossible, to accomplish the impious.
+        </p>
+        <p>
+            You write that I am a Jubilee in years, mocking rather than rejoicing out of love, to which the bond of charity being broken, you neither spare nor respect insincerely.
+        </p>
+    </speak>
