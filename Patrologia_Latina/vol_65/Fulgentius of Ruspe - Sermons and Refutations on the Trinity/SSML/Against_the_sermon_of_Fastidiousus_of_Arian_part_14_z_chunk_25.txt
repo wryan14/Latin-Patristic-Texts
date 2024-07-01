@@ -1,0 +1,25 @@
+<speak>
+  <p>
+    <s>Now, with the Lord's help, I will respond to his blasphemies.</s>
+    <break time="500ms"/>
+    <s>The entire Trinity did not take on flesh, nor did the entire Trinity feel the injuries of suffering.</s>
+    <s>Nor did the entire Trinity lie in the tomb.</s>
+    <s>Nor did the entire Trinity descend into hell.</s>
+    <s>Nor did the entire Trinity rise from the dead on the third day.</s>
+    <s>Any other things that are proven to pertain to the sacrament of incarnation are attributed to the person of the Son alone.</s>
+    <break time="500ms"/>
+    <s>Those accusations he made, full of falsehood and perversity, can only be truthfully directed at the Sabellians, that is, the Patripassians.</s>
+    <s>They indeed fail when they are confronted and convicted of preaching that the Holy Trinity has one nature and one person.</s>
+    <s>Their perversity consequently leads them to this absurdity.</s>
+    <s>They do not at all believe in the divine birth.</s>
+    <s>Instead, they assign to the Father the nature according to the flesh, the suffering and death, the resurrection from the dead, the ascension into heaven, and all those things in the sacrament of incarnation that pertain to the person of the Son alone.</s>
+    <break time="500ms"/>
+    <s>However, the Catholic Church, divinely inspired, holding the truth of faith, knows how to assert one nature of the Holy Trinity and at the same time very carefully attributes to each person their own.</s>
+    <s>Therefore, the Son of God, mercifully redeeming us, is rightly believed to have taken on flesh alone.</s>
+    <s>He did not take on human nature in such a way that one nature of divinity and flesh was formed in Him.</s>
+    <s>For in Christ, divinity could not be what flesh is, because each nature retained its own properties.</s>
+    <s>It was not possible for either of them to cease to exist or to be completely transformed into the other.</s>
+    <break time="500ms"/>
+    <s>If this were to happen, it would rightly be said that the entire Trinity took on flesh when the Son converted His flesh into that divinity, which we profess remains common to Him with the Father and the Holy Spirit.</s>
+  </p>
+</speak>

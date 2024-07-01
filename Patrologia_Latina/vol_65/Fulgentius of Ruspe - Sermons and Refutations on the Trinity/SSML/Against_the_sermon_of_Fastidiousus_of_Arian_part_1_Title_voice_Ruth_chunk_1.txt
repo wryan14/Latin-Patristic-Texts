@@ -1,0 +1,8 @@
+<speak>
+    <break time="1s"/>
+            Sermons and Refutations on the Trinity
+    <break time="2s"/>
+        The original sermon by Fastidiosus the Arian
+    <break time="1s"/>
+        and the refutation by Fulgentius of Ruspe
+</speak>

@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Refutation of the Sermon of Fastidiosus the Arian
+<break time="500ms"/>by Fulgentius of Ruspe
+<break time="2s"/>
+Chapter One<break time="1s"/>
+</speak>

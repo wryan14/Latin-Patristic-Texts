@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Prayer of Blessed Eleutherius, Commending His Soul to God for the Faith and the Church of Tournai
+<break time="2s"/>
+</speak>

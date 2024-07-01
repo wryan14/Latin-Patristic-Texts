@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>The Sermons, Prayers, and Historical Narratives of St. Eleutherius of Tournai
+<break time="2s"/>
+ <break time="500ms"/>SERMON ON THE CONFESSION OF THE HOLY TRINITY
+<break time="2s"/>
+</speak>

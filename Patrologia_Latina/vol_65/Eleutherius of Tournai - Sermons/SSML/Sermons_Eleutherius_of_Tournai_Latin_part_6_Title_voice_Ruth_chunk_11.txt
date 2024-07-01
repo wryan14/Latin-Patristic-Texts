@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Sermon on the Feast of the Annunciation
+<break time="2s"/>
+</speak>
