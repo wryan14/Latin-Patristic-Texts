@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>The Muratorian Canon: <break time="500ms"/>or, Headless Fragment of an Unknown Author on the Canon of Sacred Scriptures
+<break time="2s"/>
+</speak>
