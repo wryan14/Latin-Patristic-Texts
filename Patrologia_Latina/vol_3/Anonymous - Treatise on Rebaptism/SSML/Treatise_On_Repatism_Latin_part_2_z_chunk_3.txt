@@ -1,0 +1,521 @@
+<speak>
+  <p>
+    <s>
+      I notice that the brothers have questioned what should be done regarding those who, although baptized in heresy, were baptized in the name of our God Jesus Christ.
+    </s>
+    <s>
+      After leaving that place and earnestly coming to the Church of God, they repent with all their hearts, realizing the condemnation of their error and seeking salvation from the Church.
+    </s>
+    <s>
+      Should the ancient custom and ecclesiastical tradition be observed, where, after receiving baptism in the name of our Lord Jesus Christ, they only need the bishop to lay hands on them to receive the Holy Spirit?
+    </s>
+    <s>
+      And would this laying on of hands be sufficient to confirm and complete their faith, or is repeated baptism necessary for them, as if they had never been baptized in the name of Jesus Christ?
+    </s>
+  </p>
+  <p>
+    <s>
+      Therefore, some writings were being circulated on this new question, with both sides striving earnestly to refute the other.
+    </s>
+    <s>
+      In this kind of question, as it seems to me, no dispute or controversy would have arisen if each of us had been content with the venerable authority of all the Churches and necessary humility, without looking for a place for contradiction.
+    </s>
+    <s>
+      For everything that is uncertain, ambiguous, and established by the differing opinions of wise and faithful men should be condemned if it is judged against the ancient and memorable solemn observation of all the meritorious saints and faithful.
+    </s>
+    <s>
+      Anything introduced against the peace and tranquility of the Churches, even if it appears to be a minor issue, would bring nothing but discord, quarrels, and schisms, yielding no other fruit than allowing a person, whoever he may be, to be praised for his supposed wisdom and steadfastness among some fickle people, and to be celebrated for correcting the errors and vices of all the Churches among those like himself.
+    </s>
+  </p>
+  <p>
+    <s>
+      For all heretics have this goal and plan: to weave as many calumnies as possible against our most holy mother Church and to consider it a great glory to find something that can even slightly be used to accuse her.
+    </s>
+    <s>
+      No faithful person of sound mind, especially no one in the clergy, and much less the bishops, should dare to hold such views.
+    </s>
+    <s>
+      It is monstrous for bishops to think about such scandals and not fear to reveal the supposed shame of the mother Church, against the commandment of the law and all Scriptures, with irreverence and personal danger, although the only shame in this matter lies in their own error, not in the Church.
+    </s>
+  </p>
+  <p>
+    <s>
+      Therefore, it is a worse offense for such people to criticize what has been rightly observed in the most ancient tradition, which was correctly observed by those before us and is still observed by us.
+    </s>
+    <s>
+      Even if we were to engage in arguments from both sides, because what is innovated cannot stand without causing dissension among the brothers and harm to the Church, it should not be allowed to recklessly stain the Church mother and those who attempt such audacity and impiety should rightfully be marked with infamy.
+    </s>
+  </p>
+  <p>
+    <s>
+      But since it is not within our power to say the same thing according to the command of the Apostle <phoneme alphabet="ipa" ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> 1:10, and to avoid schisms among us, we strive as much as we can to explain this matter and persuade the turbulent people to start attending to their own business, which would benefit us greatly if they would finally agree to this sound advice.
+    </s>
+    <s>
+      Therefore, whatever pertains to the holy Scriptures on this part...
+    </s>
+  </p>
+
+
+  <p>
+      We will necessarily gather the relevant chapters into one, and what seems to be different or varied, we will clearly bind together as much as possible. We will examine the usefulness and benefit of each according to our modest ability so that we may introduce to all the brothers a highly beneficial and peaceful form and custom in the Church.
+    </p>
+    <break time="500ms"/>
+    <p>
+      <s>Therefore, as we approach the discussion of the saving and new, that is, spiritual and evangelical Baptism, we first encounter the very well-known proclamation made and begun by John the Baptist.</s> 
+      <s>He deviated somewhat from the law, that is, the ancient baptism of Moses, and prepared the way for new and true grace.</s> 
+      <s>With the baptism of water and repentance that he practiced at the time, he gradually preempted and occupied the ears of the Jews with the announcement of the future spiritual Baptism, urging them and saying: 
+        <break time="300ms"/> 
+        "He who comes after me is stronger than I, whose sandal strap I am not worthy to untie. He will baptize you with the Holy Spirit and fire" 
+        <break time="300ms"/> 
+        (Matthew 3:11; Mark 1:7; Luke 3:16; John 1:27). 
+      </s> 
+      <s>Therefore, we too must begin the discussion here.</s>
+    </p>
+    <break time="500ms"/>
+    <p>
+      <s>For even the Lord, after His resurrection, confirmed this same message of John in the Acts of the Apostles, commanding them not to leave Jerusalem but to wait for the promise of the Father, which you heard from me: 
+        <break time="300ms"/> 
+        "For John baptized with water, but you will be baptized with the Holy Spirit not many days from now" 
+        <break time="300ms"/> 
+        (Acts 1:4-5).
+      </s>
+      <s>Likewise, Peter recounted these same words of the Lord, explaining himself to the Apostles by saying: 
+        <break time="300ms"/> 
+        "As I began to speak, the Holy Spirit fell upon them just as on us at the beginning. And I remembered the word of the Lord, how He said: ‘John indeed baptized with water, but you will be baptized with the Holy Spirit.’ If then God gave them the same gift as He gave us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?" 
+        <break time="300ms"/> 
+        (Acts 11:15-17).
+      </s>
+      <s>And again: 
+        <break time="300ms"/> 
+        "Brothers, you know that in the early days God made a choice among you, that by my mouth the Gentiles should hear the word of the gospel and believe. And God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as He did to us" 
+        <break time="300ms"/> 
+        (Acts 15:7-8).
+      </s>
+      <s>Therefore, we must consider the meaning and power of this statement.</s>
+    </p>
+    <break time="500ms"/>
+    <p>
+      <s>For the Lord said to those who would be baptized afterward that they should believe that they would be baptized, not as by him in water for repentance, but in the Holy Spirit.</s> 
+      <s>Concerning this proclamation, since none of us can doubt, it is clear how people were baptized in the Holy Spirit.</s> 
+      <s>For those who believed were baptized only in the Holy Spirit because John distinguished and said that he baptized in water, but one was coming who would baptize in the Holy Spirit by the grace and power of God.</s>
+      <s>This is done by the hidden working and gifting, yet also in the Baptism of spirit and water, and additionally in the Baptism of spirit in one's own blood, as the Holy Scriptures declare to us, each of which we will provide clear proofs for in our explanations.</s>
+    </p>
+    <break time="500ms"/>
+    <p>
+      <s>To which you might impatiently respond, as you often do, that the Lord said in the Gospel: 
+        <break time="300ms"/> 
+        "Unless one is born of water and the Spirit, he cannot enter the kingdom of heaven" 
+        <break time="300ms"/> 
+        (John Chapter 3 verses 3 and 5).
+      </s>
+      <s>From this, it is clearly shown that Baptism only benefits those who can also receive the Holy Spirit: for even the Holy Spirit descended upon the Lord Himself when He was baptized, and His action and word agree together, and this mystery cannot exist in any other way.</s>
+      <s>To this response, none of us are so insane or obstinate as to dare to contradict against reason or truth; all things being intact and to be conducted in the Church in every way according to the order of discipline, and to be perpetually observed by us.</s>
+      <s>But if in the same New Testament these things which we find combined in this matter are sometimes found separated and divided, and therefore disposed as if they were separate; let us see whether they could sometimes be individually solitary, as if they are not necessary together.</s>
+    </p>
+  <p>
+Useful, but as if whole and perfect. For when the Holy Spirit is given to each believer through the laying on of hands by the bishop, just as the Apostles did to the Samaritans after Philip's baptism by laying hands on them and thus imparting the Holy Spirit to them <break time="500ms"/> (which they prayed for; for the Spirit had not yet descended upon any of them, but they had only been baptized in the name of the Lord Jesus), our Lord also, after the resurrection, when He had breathed on them and said to His Apostles, <break time="500ms"/> "Receive the Holy Spirit" <break time="500ms"/> (John 20:22), He then bestowed the Holy Spirit upon them.
+</p>
+
+<p>
+<s>Since it is found this way, what do you think, brother?</s>
+<s>If someone is not baptized by a bishop, so that even if hands are laid on him immediately, but he dies before receiving the Holy Spirit, do you think he has received salvation or not?</s>
+<s>For even the Apostles and disciples, who also baptized others and were baptized by the Lord, did not immediately receive the Holy Spirit, for He had not yet come because Jesus had not yet been glorified </s> <break time="500ms"/> (John 7:39); but after His resurrection, there was not even a short interval of time before this happened.
+</p>
+
+<p>
+<s>Just as when the Samaritans were baptized by Philip, until the Apostles were asked to come down from Jerusalem to lay hands on them and confer the Holy Spirit through the laying on of hands:</s>
+<s>during that interval, some of them could have died without receiving the Holy Spirit and thus have died deprived of the grace of the Holy Spirit.</s>
+<s>This is also undoubtedly customary and often happens even today, that many, after baptism, leave this world without the laying on of the bishop's hands and yet are regarded as faithful and complete believers.</s>
+</p>
+
+<p>
+<s>Just like the Ethiopian eunuch, when he was returning from Jerusalem and reading the prophet Isaiah and was confused, prompted by the Spirit, heard the truth from Philip the deacon, believed, and was baptized </s> <break time="500ms"/> (Acts 8); <s>and when he came up out of the water, the Spirit of the Lord took Philip away, and the eunuch saw him no more.</s>
+<s>He went on his way rejoicing because, as you see, no hands were laid on him by a bishop to receive the Holy Spirit.</s>
+</p>
+
+<p>
+<s>If you accept this and believe it to be salutary, and do not contradict the opinion of all the faithful, it is necessary to confess that, just as this wider discussion goes, that it can also stand that through the laying on of hands by the bishop alone, since baptism in the name of our Lord Jesus Christ preceded, the Holy Spirit can be given to another repentant and believing person; because Scripture foretold that those who were to believe in Christ should be baptized in the Spirit:</s>
+<s>so that these also may not seem to have less than those who are perfect Christians, lest it be necessary to question what kind of baptism it was that they received in the name of Jesus Christ.</s>
+<s>Unless perhaps in that earlier discussion about those who were baptized only in the name of Christ Jesus, you determine that they can also be saved without the Holy Spirit, or not by this means alone, but if through the laying on of the bishop's hands the Holy Spirit is customarily bestowed, or also not say that it is the bishop alone who is accustomed to give the Holy Spirit.</s>
+</p>
+
+<p>
+<s>But if this is so, and any of these events can happen without depriving a believing man of salvation, you also agree that a partial and not as you contend, a complete mystery of faith, where necessity intervenes, cannot take away salvation from a believing and repentant man.</s>
+<s>Or if you say that such a man cannot be saved, we deprive all bishops of salvation, binding them to the most certain dangers, so that for all the people under their care, scattered in various regions and weakened by their own infirmities, they must themselves provide assistance; because other men lesser than clerics who are in danger cannot provide the same:</s>
+<s>lest the blood of those who seem to have left this world empty be required at the hands of the bishops.</s>
+<s>Moreover, as you are not unaware, the Holy Spirit is found to be given by the Lord to believing people without...</s>
+</p>
+
+
+  <p>
+    With the baptism of water, as contained in the Acts of the Apostles, it happened in this way: While Peter was still speaking these words, the Holy Spirit fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles. For they heard them speaking in their own languages and glorifying God. Then Peter responded, <s>“Can anyone withhold water for baptizing these people who have received the Holy Spirit just as we have?”</s> And he commanded them to be baptized in the name of Jesus Christ <s>(Acts 10:44-48).</s>
+  </p>
+
+  <p>
+    As Peter also later taught us comprehensively about the same Gentiles, saying: <s>“He made no distinction between us and them, cleansing their hearts by faith”</s> <s>(Acts 15:9).</s> And there will be no doubt that people can receive the Holy Spirit without water baptism, as it was observed that these people were baptized in the Spirit before they were baptized with water, fulfilling both John’s and the Lord’s teachings. Since they received the grace of promise without the laying on of the Apostles’ hands and without water, which they received later, and their hearts were cleansed by faith, God granted them forgiveness of sins at the same time, so that the subsequent water baptism only provided them with the invocation of the name of Jesus Christ, ensuring that nothing was lacking for the completeness of the ministry and faith.
+  </p>
+
+  <p>
+    On the other hand, the disciples of our Lord, upon whom the Holy Spirit descended on the day of Pentecost, were already baptized according to the Lord’s baptism. This was not by their own will but by the will of God, as the Spirit sat upon each of them, although they had already been justified and baptized by the Lord’s Baptism. The Apostles, who were baptized by the Lord, were found to have deserted Him on the night He was arrested, including Peter, who had adamantly claimed he would remain faithful but ultimately denied Him. This showed that any sins they contracted in the meantime were undoubtedly forgiven by the baptism of the Holy Spirit through sincere faith.
+  </p>
+
+  <p>
+    The Apostles instructed those who were spoken to in the Holy Spirit to be baptized in the name of Jesus Christ, as the power of Jesus’ name invoked during baptism could provide significant benefit for salvation, as Peter narrates in the Acts of the Apostles: <s>“There is no other name under heaven given among men by which we must be saved”</s> <s>(Acts 4:12).</s> The apostle Paul also reveals that God exalted Jesus our Lord and gave Him a name above every name, so that at the name of Jesus, every knee should bow in heaven and on earth and under the earth, and every tongue confess that Jesus is Lord, to the glory of God the Father <s>(Philippians 2:9-11).</s>
+  </p>
+
+  <p>
+    Even if a person baptized in the name of Jesus persists in some error, they are not prevented from coming to right understanding, correcting their error, coming to the Church and the bishop, and sincerely confessing Jesus before men. Thus, when the bishop lays hands on them, they receive the Holy Spirit and do not lose the previous invocation of Jesus’ name. We must not condemn this invocation, even if it is established in error, as it cannot suffice for salvation alone. This ensures that those from different backgrounds or heretics who misuse Jesus' name cannot achieve salvation without true and complete faith. However, the invocation of Jesus’ name, with the correction of error and recognition of true faith, cleansed from all past wrongs, allows the mystery of God to be fulfilled in such individuals. This makes their faith right and provides the complete sign, which is very beneficial.
+  </p>
+
+
+<p>
+Submit to the authority of so many years, so many churches, and likewise of the Apostles and bishops, to acquiesce with good reason. Since it is a great inconvenience and loss to the most holy mother Church, to rise up now suddenly and without reason against the ancient decisions after such a long series of centuries.
+</p>
+<p>
+For it is not for any other reason that Peter, who had already been baptized, who had been asked by the Lord Himself what he thought about the Lord, and who had confessed, by the revelation of the heavenly Father, that our Lord was not only Christ but also the Son of the living God <w role="amazon:NN">Matthew</w> 16:16, later was shown to have opposed Christ Himself when He preached about His passion, and for that reason was shown to be called Satan <w role="amazon:NN">Matthew</w> 16:23.
+</p>
+<p>
+This happened because it would occur that some, although varying in their own opinions and sometimes faltering in faith and doctrine, when baptized in the name of Jesus, still if they could correct it within a certain interval of time, would not for that reason be excluded from salvation. Once they repented, they would obtain the full hope of salvation by penance; especially since they would receive the Holy Spirit, with which each person ought to be baptized.
+</p>
+<p>
+Just as we find not only Peter to have experienced this in the Gospel, but also all the disciples, to whom the Lord later said, after they had already been baptized, "because you will all be scandalized in me" <w role="amazon:NN">Mark</w> 14:27. All of them, as we observe, after their faith was corrected, were baptized in the Holy Spirit after the resurrection of the Lord.
+</p>
+<p>
+So that not without reason we also believe today that men corrected from their former error can be baptized in the Holy Spirit, who, when baptized in water in the name of the Lord, might have had some shaky faith. It makes a great difference whether someone is not baptized at all in the name of our Lord Jesus Christ or rather falters in some way when baptized with the water baptism, which is less, provided that later it is evident that there is sincere faith in the truth in the baptism of the Spirit, which is undoubtedly greater.
+</p>
+<p>
+Nor should you think that what the Lord said: "Go, teach the nations, baptize them in the name of the Father and of the Son and of the Holy Spirit" <w role="amazon:NN">Matthew</w> 28:19, is contrary to this treatise. Because while this is true and correct and must be observed in all ways in the Church, and is also accustomed to being observed, yet it is necessary to consider that the invocation of the name of Jesus should not seem trivial to us because of the reverence and power of that name: in which name all virtues are usually done, and sometimes some even by outsiders.
+</p>
+<p>
+Otherwise, what do those words of Christ pertain to, who said that He would deny and not know those who would say to Him on the day of judgment: "Lord, Lord, did we not prophesy in Your name, and cast out demons in Your name, and do great works in Your name?" and answering them even with an oath, "I never knew you; depart from me, you who work iniquity" <w role="amazon:NN">Matthew</w> 7:22-23. Unless it would be shown to us that sometimes even by those who work iniquity, these things can be done by the excessive power of the name of Jesus.
+</p>
+<p>
+Therefore, this invocation of the name of Jesus should be accepted by us and all others as a certain beginning of the Lord's mystery, which can later be fulfilled by the remaining things. Otherwise, such an invocation would not be beneficial when it has remained alone because after the death of such a man, nothing at all can be added to or supplemented for him or be of any use on the day of judgment, when those things we mentioned above would begin to be reproached to him by our Lord. Who, however, all today, in order to assist themselves in these ways, as we have shown above, cannot be so harshly and cruelly prohibited by any human being.
+</p>
+<p>
+But to this, as usual, you will object, opposing us that the disciples were baptized fully and correctly when they were baptized, and not like these heretics: which you must take from their character and that of the one who baptized them. And therefore, we do not respond to this proposition of yours as accusers of the Lord's disciples, but as we are compelled; because it is necessary to investigate the reasons where and when and how salvation has been provided to each of us.
+</p>
+<p>
+For our Lord was born...
+</p>
+<p>
+    And it seemed reasonable for his disciples to believe that Christ was he, for many reasons:
+    <s>He was from the tribe of Judah, from the lineage of David, and he was born in the city of Bethlehem.</s>
+    <s>Angels announced to the shepherds at that very moment that a Savior was born to them.</s>
+    <s>His star was seen in the east and was diligently sought after and worshipped by the wise men, and honored with illustrious gifts and notable presents.</s>
+    <s>As a very young boy, he sat in the temple and wisely and admirably disputed with the teachers of the law.</s>
+    <s>When he was baptized, unlike anyone else, the heavens opened, the Holy Spirit descended and remained upon him, and he was glorified by the testimony of his Father as well as John the Baptist.</s>
+    <s>He understood the hearts and thoughts of all beyond human mediocrity.</s>
+    <s>He healed and cured ailments, diseases, and weaknesses with great power.</s>
+    <s>He granted the forgiveness of sins with evident proof.</s>
+    <s>He expelled demons by command.</s>
+    <s>He cleansed lepers with a word.</s>
+    <s>He turned water into wine and greatly enhanced the joy of the wedding feast.</s>
+    <s>He restored or granted sight to the blind.</s>
+    <s>He confidently asserted the doctrine of the Father.</s>
+    <s>He fed five thousand people with five loaves of bread in a deserted place, and the leftovers and pieces filled more than twelve baskets.</s>
+    <s>He raised the dead everywhere out of his compassion.</s>
+    <s>He commanded the winds and the sea to be still.</s>
+    <s>He walked on the sea with his feet.</s>
+    <s>He performed all virtues altogether.</s>
+  </p>
+  <p>
+    <s>Because of these deeds and many similar acts that contributed to his fame, it seemed logical that, as the Jews feel about Christ, though they do not believe in Jesus Christ our Lord, they too might think that such a great man would persevere forever without suffering any death, and that he would possess the kingdom of Israel and the entire world in perpetuity without any end.</s>
+    <s>Hence, the Jews dared to seize him and anoint him as king, which indeed he had to escape from.</s>
+    <s>Therefore, his disciples thought that he would grant eternal life in no other way than by first continuing this temporal life with eternal life in himself.</s>
+    <s>Finally, while they were staying in Galilee, Jesus said to them, "The Son of Man is going to be delivered into the hands of men, and they will kill him, and after three days he will rise again" (Mark 9:30).</s>
+    <s>And they were very sorrowful because, as we said, they had previously conceived a far different idea in their minds.</s>
+    <s>This was also the Jews' argument against him when he himself taught them and announced future events; they said, "We have heard from the law that Christ remains forever: and how do you say that the Son of Man must be lifted up?" (John 12:34).</s>
+  </p>
+  <p>
+    <s>It was the same presumption of the disciples about Christ, with Peter himself, the leader and chief of the apostles, bursting into this statement of disbelief.</s>
+    <s>For when he had been asked by the Lord along with the others what he thought of him, that is, who he thought he was; and he had first confessed the truth, saying that he was Christ, the Son of the living God (Matthew 16:16 and following); and for this reason, he was judged blessed by him because he had not attained this carnally, but by the revelation of the heavenly Father.</s>
+    <s>However, when Jesus began to show his disciples that he must go to Jerusalem, suffer many things from the elders and chief priests and scribes, and be killed and on the third day be raised again; nevertheless, that true confessor of Christ, after a few days, took him aside and began to rebuke him, saying, "God forbid it, Lord! This shall never happen to you" (Matthew 16:22-23).</s>
+    <s>So that for this reason he deserved to hear from the Lord, "Get behind me, Satan! You are a stumbling block to me; for you are not setting your mind on God's interests, but man's."</s>
+  </p>
+  <p>
+    <s>This rebuke against Peter shone even more clearly when the Lord was apprehended, as he, terrified by a servant girl, said, (Matthew 26:70 and following) "I do not know what you are talking about, nor do I know him."</s>
+    <s>And again, when he said the same thing under oath, and a third time, he swore and affirmed, saying that he did not know him.</s>
+  </p>
+
+
+  <p>
+    <s>And the man not once, but repeatedly denied Him.</s>
+    <s>Because this intention of his would persist until the Lord's passion, the Lord made it known much earlier so that we would not be ignorant of it.</s>
+  </p>
+  <p>
+    <s>Finally, after the resurrection of the Lord, one of His disciples, Cleopas, was sad.</s>
+    <s>Following the error of all his fellow disciples, and speaking to the Lord as if to a stranger about what had happened, he said this about Jesus of Nazareth, who was a prophet powerful in deeds and words before God and all the people:</s>
+    <s>How our priests and leaders handed Him over for a death sentence and crucified Him.</s>
+    <s>But we had hoped that He was the one to redeem Israel.</s>
+    <s><phoneme alphabet="ipa" ph="lu:k">Luke</phoneme> twenty-four.</s>
+  </p>
+  <p>
+    <s>According to this, all the disciples judged the assertions of the women who had seen the Lord after His resurrection as nonsense.</s>
+    <s>Some of them, even after seeing Him, did not believe but doubted.</s>
+    <s>Those who were not present at all did not believe until later when they were rebuked and scolded by the Lord Himself in every way.</s>
+    <s>Because His death had offended them so much that they thought He had not risen, whom they believed should not have died; because against their belief, He had died once.</s>
+  </p>
+  <p>
+    <s>Therefore, concerning the disciples themselves, it is found that they neither had full nor perfect faith in the ways we have mentioned.</s>
+    <s>And what is much more serious, as it is written in the Gospel according to John, they were also baptizing others.</s>
+    <s><phoneme alphabet="ipa" ph="dʒɑn">John</phoneme> three twenty-two.</s>
+  </p>
+  <p>
+    <s>Furthermore, what will you say about those who are often baptized by bishops of very bad conduct?</s>
+    <s>Who, however, when God wills, are convicted in their crimes and are even deprived of communion itself?</s>
+    <s>Or what will you decide about those who have been baptized by bishops with wrong beliefs or who are less knowledgeable?</s>
+  </p>
+  <p>
+    <s>When they have not spoken the tradition of the sacrament clearly and completely or even in a way that is appropriate.</s>
+    <s>Certainly, either they asked what or they heard from those answering what should not be asked or answered.</s>
+    <s>Yet this does not greatly harm our correct faith, but these simpler people also hand down the mystery of faith not as elegantly and composedly as you do.</s>
+  </p>
+  <p>
+    <s>For surely you will say, out of your unique diligence, that these must be baptized again, especially when something is lacking or hindering them from receiving that inviolable divine mystery of faith unblemished.</s>
+    <s>But, most excellent men, let us give and allow the heavenly virtues their powers, and let us concede the proper operations to the dignity of divine majesty, and understanding how much benefit there is in it, let us willingly comply.</s>
+  </p>
+  <p>
+    <s>And so, when our salvation is established in the Baptism of the Spirit, which is often joined with the Baptism of water, if Baptism is conferred by us, let it be assigned completely and solemnly and through all that is written, and let it be conferred without any separation of anything.</s>
+    <s>Or if it has been conferred by a lesser clergy out of necessity, let us wait for the outcome so that either it may be supplemented by us or reserved to be supplemented by the Lord.</s>
+    <s>If indeed it has been conferred by outsiders, let it be corrected as this matter allows and admits.</s>
+    <s>Because the Holy Spirit is not outside the Church, and faith cannot be sound not only among heretics but also among those who are in schism.</s>
+  </p>
+  <p>
+    <s>Therefore, for those who repent and are corrected through the teaching of truth and their faith, which is later amended with their hearts purified, they should only be assisted by the spiritual Baptism, that is, the laying on of hands by the bishop and the administration of the Holy Spirit.</s>
+    <s>The sign of faith is rightly and customarily handed down in the Church in this way and manner.</s>
+    <s>Lest the invocation of the name of Jesus, which cannot be abolished, seems to be held in contempt by us.</s>
+    <s>Which surely should not be.</s>
+    <s>Although such invocation, if none of the things we mentioned follow, ceases and is void of the operation of salvation.</s>
+  </p>
+  <p>
+    <s>For the Apostle says there is one Baptism.</s>
+    <s><phoneme alphabet="ipa" ph="ɛfizjənz">Ephesians</phoneme> four-five.</s>
+    <s>It is necessary with the invocation of the name of Jesus persevering.</s>
+    <s>Because it cannot be taken away by any human once it has been invoked, if it is against the decree of the Apostles.</s>
+  </p>
+
+
+  <p>
+    If we dare to add excessively or even redundantly in our zeal for Baptism: if someone returning to the Church does not wish to be baptized again, it will result in us depriving him of the spiritual Baptism, who we believe should not be deprived of water Baptism.
+  </p>
+  <p>
+    <s>
+      But what will you decide about the person who, upon hearing the word, is suddenly arrested in the name of Christ, immediately confesses, and before he can be baptized with water, is punished? 
+    </s>
+    <s>
+      Will you declare that he is lost because he was not baptized with water, or will you consider that something external might contribute to his salvation, even though he was not baptized with water? 
+    </s>
+    <s>
+      If you think he is lost, the Lord's statement will confront you: "Whoever acknowledges me before others, I will also acknowledge before my Father in heaven" (Matthew 10:32). 
+    </s>
+    <s>
+      It does not matter whether the person who confesses to the Lord is a listener of the word or a believer, as long as he confesses Christ, whom one ought to confess. 
+    </s>
+    <s>
+      Because the Lord, in turn, will confess his confessor before the Father, adorning him with the honor of his martyrdom, as promised. 
+    </s>
+    <s>
+      However, this should not be interpreted broadly, as if it could be extended to everyone, because even a heretic who denies Christ can confess his name, believing in another Christ, which would not benefit him since the Lord said that it is not proper for us to confess him before others without him and without his revered name. 
+    </s>
+    <s>
+      Therefore, both the confessor and the confession must remain whole, sincere, uncontaminated, and inviolable, with no selection of the confessor, whether he is just or a sinner, a perfect Christian, or even now imperfect, who, at great risk to himself, did not fear to confess the Lord. 
+    </s>
+    <s>
+      This does not contradict the earlier discussion because there, time allows for correcting many errors or wrongs, and since certain things are granted solely in the name of our Lord, martyrdom can only be completed in and through the Lord. 
+    </s>
+    <s>
+      Hence, no one can confess Christ without his name, nor can the name of Christ stand for confession without Christ himself.
+    </s>
+  </p>
+  <p>
+    <s>
+      Therefore, this entire discussion must be carefully examined to become clearer. 
+    </s>
+    <s>
+      The invocation of the name of Jesus can only contribute to salvation if it is subsequently fulfilled correctly, as preached by both Prophets and Apostles. 
+    </s>
+    <s>
+      For James says in the Acts of the Apostles: "Brothers, listen to me: Simon has described how God first intervened to choose a people for his name from the Gentiles. The words of the prophets are in agreement with this, as it is written: ‘After this I will return and rebuild David’s fallen tent. Its ruins I will rebuild, and I will restore it, that the rest of mankind may seek the Lord, even all the Gentiles who bear my name, says the Lord, who does these things’" (Acts 15:13-17). 
+    </s>
+    <s>
+      Therefore, both the remaining men, that is, some Jews, and all the Gentiles upon whom the name of the Lord has been invoked, can and must seek the Lord because the invocation of the name provides them the opportunity or even imposes the necessity to seek the Lord. 
+    </s>
+    <s>
+      With them, the sacred Scriptures command, either entirely or partially, to discuss the truth more boldly than with the Gentiles, upon whom the name of the Lord Jesus, the Son of the living God, has not been invoked, nor upon the Jews, who only accept the old Scriptures. 
+    </s>
+    <s>
+      Therefore, both types of people, Jews and Gentiles, fully believing as they should, are baptized in the same way. 
+    </s>
+    <s>
+      However, the heretics already baptized with water in the name of Jesus Christ need only to be baptized in the Holy Spirit. 
+    </s>
+    <s>
+      And in Jesus, whose name alone is given under heaven by which we must be saved, death is rightfully scorned; because if they persist in this way, they cannot be saved, as they did not seek the Lord after the invocation of his name upon them, just as those who did not wish to believe in Christ might be led astray, about whom the Lord said: "Watch out that no one deceives you. For many will come in my name."
+    </s>
+  </p>
+
+
+  <p>
+    <s>Hundreds: I am Christ, and many will be led astray.</s>
+    <s>(Matthew Chapter 24 verses 4 and 5 through 11).</s>
+    <s>And again he says:</s>
+    <s>Then if anyone says to you, 'Look, here is the Christ,' or 'There he is,' do not believe it.</s>
+    <s>For false Christs and false prophets will rise and perform great signs and wonders, so as to lead astray, if possible, even the elect.</s>
+    <s>(Matthew 24:23-24).</s>
+  </p>
+  
+  <p>
+    <s>These powers those people will undoubtedly perform under the name of Christ at that time.</s>
+    <s>Even now, some seem to perform certain miracles and falsely prophesy in this name.</s>
+    <s>But it is certain that they do not belong to Christ because they are not Christ’s.</s>
+    <s>In the same way, if someone departs from Christ, clinging only to His name, they will not be much helped, but rather burdened by this name, even if they were previously most faithful or just, or honored by some clergy, or endowed with the dignity of confession.</s>
+  </p>
+  
+  <p>
+    <s>For all these people, by denying the true Christ and introducing or following another, when there is no other at all, leave themselves with no hope or salvation.</s>
+    <s>Just like those who denied Christ before men, who must be denied by Christ, regardless of their previous conduct or sense or dignity.</s>
+    <s>Just as they dared to renounce Christ, that is, their salvation, condemned by this clause, because the Lord most clearly said:</s>
+    <s>Whoever denies me before men, I will also deny before my Father who is in heaven.</s>
+    <s>(Matthew 10:33).</s>
+  </p>
+  
+  <p>
+    <s>This word, 'Whoever,' fully shows us in the clause of confession that no condition of the confessor can hinder.</s>
+    <s>Even if that denier was previously either a heretic or a listener or beginning to listen, who was not yet baptized, or converted from heresy to the truth of faith, or left the Church and then returned.</s>
+    <s>And then when he returned, before the bishop laid hands on him, he necessarily had to confess Christ before men.</s>
+    <s>Just as no former dignity of one denying Christ can advocate for salvation.</s>
+  </p>
+
+  <p>
+    <s>For whatever is found last in a person in this respect, that is what one of us must be judged by, with all previous deeds abolished and erased.</s>
+    <s>And therefore, since in martyrdom there is such a change of things in a moment of time, that everything can be changed very quickly; let no one flatter themselves who missed the opportunity of glorious salvation, if by their own fault they excluded themselves from it.</s>
+    <s>Just like Lot’s wife, who similarly in distress of things looked back, against the command of the Angels, and was turned into a pillar of salt.</s>
+  </p>
+
+  <p>
+    <s>For the same reason, that heretic who is killed while confessing Christ’s name can correct nothing afterward, if he had a wrong belief about God or Christ.</s>
+    <s>Since by believing in another God or another Christ he deceived himself, confessing not Christ, but merely the name of Christ.</s>
+    <s>When even the Apostle consequently says:</s>
+    <s>And if I deliver up my body to be burned, but have not love, I gain nothing.</s>
+    <s>(First Corinthians 13:3).</s>
+  </p>
+  
+  <p>
+    <s>Because by this act, he gains nothing who does not have the love of that God and Christ, who is preached in this way through the Law and the Prophets and in the Gospel:</s>
+    <s>You shall love the Lord your God with all your heart and with all your soul and with all your mind, and you shall love your neighbor as yourself.</s>
+    <s>On these two commandments depend all the Law and the Prophets.</s>
+    <s>(Deuteronomy 6:5; Matthew 22:37-40).</s>
+  </p>
+  
+  <p>
+    <s>As the Evangelist John also says:</s>
+    <s>Everyone who loves is born of God and knows God; because God is love.</s>
+    <s>(First John 4:7-8).</s>
+  </p>
+  
+  <p>
+    <s>As also God says:</s>
+    <s>For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life.</s>
+    <s>(John 3:16).</s>
+  </p>
+  
+  <p>
+    <s>So it is manifestly apparent that anyone who does not have this love for us and from us in themselves, gains nothing by empty confession and passion.</s>
+    <s>It appears and is established that they are heretics who believe in another god or accept another Christ than the one whom the Scriptures of the New and Old Testament clearly preach, which proclaim the Father almighty creator of all and His Son without obscurity.</s>
+  </p>
+
+
+  <break time="500ms"/> 
+  They will go to those expecting salvation from another god. Then, against their expectation, they will be condemned to eternal punishment by Christ, the Son of God the Father Almighty, the Creator, whom they have blasphemed. When God begins to judge the secrets of men according to the Gospel through Christ Jesus, they will be judged because they did not believe in Him, even though they were washed in His name.
+
+  <break time="500ms"/> 
+  <p>All the baptism of heretics can be corrected after some time interval if someone survives and corrects their faith. As our God spoke to His disciples in the Gospel according to Luke, saying: "I have another baptism to be baptized with" (Luke 12:50). Likewise, according to Mark, He said to the sons of Zebedee: "Can you drink the cup that I drink, or be baptized with the baptism that I am baptized with?" (Mark 10:38). This was said knowing that men would be baptized not only with water but also with their own blood. Those baptized with this Baptism alone may attain full faith and sincere dignity of the washing, and be baptized in both ways, yet equally obtain one baptism of salvation and honor.</p>
+
+  <break time="500ms"/> 
+  <p>For what was said by the Lord, "I have another baptism to be baptized with," does not indicate a second baptism as if there are two baptisms, but shows that another type of baptism, also given for the same salvation, was granted to us. Both types needed to be initiated and sanctified by our Lord first, so that we too might receive this one double beneficial and honorable Baptism from either or both types. Thus, the paths of one Baptism would be opened to us, so that it would be safe if either were missing, just as water baptism is safely missing for martyrs who hear the word. Though we are certain that if they have any delay, they would also be baptized with water. Likewise, for those who have become legitimate believers, the baptism of their own blood is safely missing because they are baptized in the name of Christ, redeemed by the most precious blood of the Lord. Both these streams flow from one and the same source of the Lord's Baptism, so that everyone who is thirsty may come and drink, as the Scripture says: "Rivers of living water shall flow from within them" (John 7:38).</p>
+
+  <break time="500ms"/> 
+  <p>These rivers first appeared in the Lord's passion, when blood and water flowed from His side, pierced by a soldier's lance, sending out two streams of different types, yet from the same and singular side, so that whoever believes and drinks from both streams will be filled with the Holy Spirit. For the Lord, speaking of these streams, indicated the Holy Spirit that those who believed in Him were to receive. The Spirit had not yet been given because Jesus had not yet been glorified (John 7:39).</p>
+
+  <break time="500ms"/> 
+  <p>Therefore, saying how one Baptism can be generated, which the Apostle proclaims to be one, is manifest in this way: because there are different types of one and the same Baptism flowing from one wound into water and blood. Since there are two types of Baptisms we have spoken of, that is, one and the same type, with each type needing to be one Baptism, as we have spoken more fully.</p>
+
+  <break time="500ms"/> 
+  <p>And since we seem to have divided all spiritual Baptism into three parts, let us also come to the proof of the proposed narration, so that we do not seem to have done this rashly and according to our own sense. For John says about our Lord in his Epistle, teaching us: "This is He who came by water and blood, Jesus Christ, not by water only, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth. For there are three that bear witness: the Spirit, the water, and the blood; and these three are one" (First John 5:6-8). From this, we gather that water is accustomed to give the Spirit, and blood is accustomed to give the Spirit to men, and the Spirit Himself is accustomed to give the Spirit. For when water is poured out as well as blood, the Spirit is also poured out by the Lord upon all who believe, so that men can be baptized with water, their own blood, and the Holy Spirit.</p>
+
+  <break time="500ms"/> 
+  <p>For Peter says: "And in the last days, it shall be, God declares, that I will pour out my Spirit on all flesh" (Acts 2:17-18).</p>
+
+
+  <p>
+    It was spoken by the Prophet: 
+    <s>
+      "In the last days, says the Lord, I will pour out my Spirit upon all people, and your sons and daughters will prophesy, your young men will see visions, and your old men will dream dreams. 
+    </s>
+    <s>
+      Even on my servants, both men and women, I will pour out my Spirit in those days."
+    </s>
+  </p>
+  <p>
+    This Spirit in the Old Testament was not given widely or abundantly, but shared with some, or sometimes spontaneously came upon certain individuals, or clothed them, or was over them, as we observe with Moses and the seventy elders to whom the Lord said: 
+    <s>
+      "I will take the Spirit that is on you and put it on them" 
+      <sub alias="Numbers 11:17">(Numbers eleven: seventeen).</sub>
+    </s>
+    <s>
+      Because of this, according to His promise, God took some of the Spirit that was on Moses and put it on them, and they prophesied in the camp. 
+    </s>
+    <s>
+      Moses, being a spiritual man, rejoiced at this happening, even though Joshua, son of Nun, urged him to intervene, but Moses was not moved by this.
+    </s>
+  </p>
+  <p>
+    Moreover, in the Book of Judges and the Books of Kings, we observe that the Spirit of the Lord was upon or came upon many, such as Othniel, Gideon, Jephthah, Samson, Saul, David, and others. 
+    <s>
+      This shows us clearly that the Lord has taught us the freedom and capability of the Holy Spirit saying: 
+      "The Spirit blows where it wills, and you hear its sound, but you do not know where it comes from or where it goes" 
+      <sub alias="John 3:8">(John three: eight).</sub>
+    </s>
+    <s>
+      Thus, the same Spirit can sometimes be found even on those who are unworthy, not without purpose or reason, but for the sake of some necessary operation, as it was with Saul, upon whom the Spirit of God came, and he prophesied. 
+    </s>
+    <s>
+      Although later, after the Spirit of the Lord left him, and an evil spirit from the Lord tormented him, he came to kill David, but those who were sent fell into a band of prophets and prophesied, preventing them from accomplishing their mission. 
+    </s>
+    <s>
+      We believe that this was the work of the Spirit who was upon them all according to the will of God.
+    </s>
+  </p>
+  <p>
+    This Spirit also filled John the Baptist from his mother's womb and came upon those who were with Cornelius the centurion before they were baptized with water. 
+    <s>
+      Thus, while connected to human baptism, the Holy Spirit either precedes or follows it, or in the absence of water baptism, comes upon those who believe, giving us the advice that we should either fully maintain proper Baptism or supplement it if given by anyone in the name of Jesus Christ, keeping the holy invocation of the name of Jesus Christ, as we have fully explained, respecting the venerable custom and authority of so many people and such a long time.
+    </s>
+  </p>
+  <p>
+    Since the first part of this discussion seems to be explained, we should also address the following part because of the heretics; it is very necessary not to overlook the treatment that has once come to hand, lest any of the simpler brothers be dared to be attacked by the cunning of some heretics. 
+    <s>
+      For John said that we should be baptized with the Holy Spirit and fire 
+      <sub alias="Matthew 3:11; Luke 3:16">(Matthew three: eleven; Luke three: sixteen)</sub>,
+      and because he added "and fire," some desperate people have dared to spread their wickedness everywhere.
+    </s>
+    <s>
+      Therefore, very cunning people seek to corrupt and violate the sanctity of Baptism so that they may even nullify it; these trace their origin from Simon the magician, exercising their multifaceted perversity through various errors.
+    </s>
+    <s>
+      To this Simon, Peter said in the Acts of the Apostles: 
+      "May your money perish with you, because you thought you could buy the gift of God with money. You have no part or share in this ministry, because your heart is not right before God" 
+      <sub alias="Acts 8:20-21">(Acts eight: twenty to twenty-one).</sub>
+    </s>
+    <s>
+      They do all these things while seeking to deceive those who are simpler or more curious: and some of them try to present themselves as delivering a whole and perfect Baptism, not like us delivering a mutilated and shortened Baptism, which they claim to assign in such a way that as soon as in the water...
+    </s>
+  </p>
+
+
+  <p>They ascended, immediately over the water, and the fire appeared. If this can be carried out as a trick, as many such tricks of Anaxilaus are affirmed to be, or if it is something natural, how this can happen, or if they think they see this, or if the work of an evil spirit and magical poison can bring forth fire in water, they still proclaim such a deception and trick to be perfect Baptism.</p>
+
+  <p>If faithful people were forced to receive it, it will certainly not be doubted that they have lost what they had. Just as if a soldier, sworn by an oath, deserts his camp, and in the very different camps of the enemy wishes to take another oath, by this reasoning it is clear that he is stripped of his former oath.</p>
+
+  <p>Also, if such a person returns to you again, you will surely hesitate whether he has Baptism or not; and yet you will have to help this one, too, who repents in any way you can. But the author of this counterfeit, indeed destructive baptism, is a certain book forged by the heretics themselves due to this same error, which is titled <em>The Preaching of Paul</em>.</p></speak>

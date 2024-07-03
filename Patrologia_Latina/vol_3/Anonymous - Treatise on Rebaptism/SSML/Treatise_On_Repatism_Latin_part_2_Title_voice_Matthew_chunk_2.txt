@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>The Anonymous Book on Rebaptism:<break time="1s"/> Why those who have been baptized once in the name of the Lord Jesus Christ should not be baptized again.
+<break time="2s"/>
+</speak>
