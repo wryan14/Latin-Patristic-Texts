@@ -1,0 +1,13 @@
+<speak>
+  <p>
+    <s>Oh, what an inconsistent and laughable thing, that certain writings, I don't know with what sense, are about us, who scorn the worship of images.</s>
+    <s>These writings are taken from what the Lord instructed the disciples when sending them to preach, so that they would have great confidence in preaching and, not terrified by the fear of persecutors, would not hide like a lamp under a basket.</s>
+    <s>Instead, putting aside all fear, would show themselves with all the marks of freedom and proclaim from the rooftops what they had heard in the rooms.</s>
+  </p>
+  <break time="500ms"/>
+  <p>
+    <s>Therefore, let them place their lamp, that is, the worship of images, adorning it on the summit of their faith.</s>
+    <s>But as for us, if we have any splendor of knowledge, let us place it in Christ, who is the source of light, so that we may be able to exhibit the splendor of word and example to those remaining with us in the house of the holy church.</s>
+  </p>
+
+</speak>

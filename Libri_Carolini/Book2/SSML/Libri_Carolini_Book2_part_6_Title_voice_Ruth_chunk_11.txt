@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 6:<break time="500ms"/> That 'Worship at his holy mountain' does not justify image worship
+    <break time="2s"/>
+</speak>

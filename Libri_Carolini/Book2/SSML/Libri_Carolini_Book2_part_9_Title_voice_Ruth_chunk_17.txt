@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 9:<break time="500ms"/> That Solomon's work in the temple does not justify image worship
+    <break time="2s"/>
+</speak>

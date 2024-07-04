@@ -1,0 +1,18 @@
+<speak>
+
+    <p>
+        <s>What we should observe in this matter, we are taught by the warnings of the apostle Paul, who says:</s>
+        <break time="500ms"/>
+        <s>"Test the spirits to see whether they are from God" (<phoneme ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> 4:1); and again:</s>
+        <break time="500ms"/>
+        <s>"Do not believe every spirit, but test the mind" (<phoneme ph="fɜrst kəˈrɪnθiənz">First Corinthians</phoneme> 4:1).</s>
+    </p>
+    <p>
+        <s>For since, as we have previously stated, the life and preaching of Gregory of Nyssa, bishop, are unknown to us, the testimonies brought forth from his works are seen as less suitable for confirming doubtful matters.</s>
+        <break time="500ms"/>
+        <s>Therefore, his teachings should neither be highly praised by us nor excessively criticized, but his doctrine, along with the doctrines of others whom we do not know, should be set aside.</s>
+    </p>
+    <p>
+        <s>Instead, after the prophetic and evangelic or apostolic scriptures, we should be content with the doctrines of illustrious Latin teachers whose life and preaching are known to us, or of the Greeks who were also Catholic and were translated by Catholics into our language.</s>
+    </p>
+</speak>

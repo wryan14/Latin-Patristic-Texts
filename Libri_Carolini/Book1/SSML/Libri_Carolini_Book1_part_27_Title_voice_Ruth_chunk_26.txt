@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 27:<break time="500ms"/>About how it does not pertain to their ancestors, as they say: "May the Lord destroy all flattering lips and the tongue that speaks proud things."
+<break time="2s"/>
+</speak>

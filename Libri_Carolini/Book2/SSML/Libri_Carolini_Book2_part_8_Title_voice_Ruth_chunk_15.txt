@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 8:<break time="500ms"/> That 'Those who turn to sin will be led by the Lord to those who commit iniquity' is not about those who scorn image worship
+    <break time="2s"/>
+</speak>

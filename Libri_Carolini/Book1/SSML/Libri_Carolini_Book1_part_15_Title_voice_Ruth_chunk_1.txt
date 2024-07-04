@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 15:<break time="500ms"/>How absurdly those act who, confirming images as parts of the divine law, bring forth the propitiatory and the two golden cherubim from the Ark of the Testament, which our Lord Moses made.
+<break time="2s"/>
+</speak>

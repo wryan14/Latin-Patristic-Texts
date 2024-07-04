@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 28:<break time="500ms"/>About how it is not fulfilled in their ancestors, as they say, which is written: "The enemies have failed in their sword forever and the cities you have destroyed."
+<break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 16:<break time="500ms"/> That non-material images are not adored, but as Augustine said: 'What is the image of God, if not the face of God in which the people of God are sealed?'
+    <break time="2s"/>
+</speak>

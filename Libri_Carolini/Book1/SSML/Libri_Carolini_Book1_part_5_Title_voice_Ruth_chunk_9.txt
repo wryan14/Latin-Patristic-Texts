@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 5:<break time="500ms"/>About how the holy Scriptures should be understood not in a small way but as they are, and how they should be accommodated to their true sense, which some did not understand in an erroneous synod, which was held in Bithynia during the reign of Constantine and Herena, with Tharasius of Constantinople presiding.
+<break time="2s"/>
+</speak>

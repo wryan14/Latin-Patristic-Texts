@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 4:<break time="500ms"/>About how Constantine and Herena wrote in an epistle to the venerable Pope Adrian of Rome: "We ask your patience and beg you earnestly that no one should perish."
+<break time="2s"/>
+</speak>

@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 22:<break time="500ms"/>About how not without equal adoration, they say, which is written: "And Nathan the prophet anointed David king before the image."
+<break time="2s"/>
+</speak>

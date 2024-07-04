@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 15:<break time="500ms"/> That the quote from blessed Ambrose, bishop of Milan, is misused to support a major error
+    <break time="2s"/>
+</speak>

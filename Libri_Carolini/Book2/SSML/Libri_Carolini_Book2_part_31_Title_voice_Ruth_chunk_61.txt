@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 31:<break time="500ms"/> That those who curse their predecessors act against the Lord's command and contradict their own origins
+    <break time="2s"/>
+</speak>

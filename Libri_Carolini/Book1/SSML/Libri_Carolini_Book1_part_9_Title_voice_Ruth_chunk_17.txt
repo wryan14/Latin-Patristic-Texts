@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 9:<break time="500ms"/>About how to understand what is written: "Abraham worshipped the people of the land, the sons of Heth," or how Moses is said to have worshipped - from which examples, those who wrongly adore images make synods, fulfilling their error - and what Jacob, Pharaoh, and Daniel of Nebuchadnezzar are said to have worshipped.
+<break time="2s"/>
+</speak>

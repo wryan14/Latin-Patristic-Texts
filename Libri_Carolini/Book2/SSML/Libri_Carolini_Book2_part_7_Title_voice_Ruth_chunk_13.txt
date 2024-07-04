@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 7:<break time="500ms"/> That 'The Lord will not leave the rod of the wicked upon the lot of the righteous' is not about image worship
+    <break time="2s"/>
+</speak>

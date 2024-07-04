@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 2:<break time="500ms"/>About how Constantine and Herena wrote in an epistle to the venerable Pope Adrian of Rome: "He has chosen this God, who truly possesses the glory of His name."
+<break time="2s"/>
+</speak>

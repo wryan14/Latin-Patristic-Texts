@@ -1,0 +1,24 @@
+<speak>
+  <p>
+    For this verse is also incorrectly placed in the reading of the same synod, for it is neither our voice, who worship the Father in spirit and truth, nor theirs, who attempt to worship God and his saints in images. 
+    <s>
+      Because we have a great prophet, Jesus Christ, our Lord; about whom it is said through Moses: 
+      "The Lord God will raise up a prophet for you. You will listen to him";
+      whom we also have as an advocate with the Father, according to the apostle: whom we daily behold with spiritual eyes, and we are diligently taught by his prophecies.
+    </s>
+  </p>
+  <p>
+    But the destruction and dispersions and calamities and deaths of the Jewish people, not even the destruction of the temple, the abolition of ceremonies, the recession from prophecy and the knowledge of God, bewailing and saying: 
+    <s>
+      "For there is no longer a prophet, and he will no longer recognize."
+    </s>
+    This was also predicted through the prophet Hosea, who said: 
+    <s>
+      "For many days the children of Israel will sit without king and without prince and without sacrifice and without altar and without ephod and without teraphim."
+    </s>
+    He also added their conversion to faith, which we believe will happen near the end of the world: 
+    <s>
+      "And after this, the children of Israel will return and seek the Lord their God and David their king, and they will come trembling to the Lord and to his goodness in the last days."
+    </s>
+  </p>
+</speak>

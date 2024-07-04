@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 14:<break time="500ms"/>About how the adoration of images does not pertain to them, and they say what is written: "Jacob blessed Pharaoh."
+<break time="2s"/>
+</speak>

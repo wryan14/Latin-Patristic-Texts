@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Libri Carolini
+<break time="1s"/>Book Two
+<break time="1s"/>Chapter 1:<break time="500ms"/>"That 'How the enemy has acted wickedly in Your holy places' was not written for those who despise worshiping images"
+<break time="2s"/>
+</speak>

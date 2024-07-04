@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 12:<break time="500ms"/>About how the adoration of images does not pertain to our beliefs, nor is it found in our codes, but it is discovered that those in the synod said: "Jacob, accepting his sons, took his garment and worshipped Joseph, kissing him with tears and placing his own eyes on him."
+<break time="2s"/>
+</speak>

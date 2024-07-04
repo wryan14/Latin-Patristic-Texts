@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 25:<break time="500ms"/> That the apostles never established image worship
+    <break time="2s"/>
+</speak>

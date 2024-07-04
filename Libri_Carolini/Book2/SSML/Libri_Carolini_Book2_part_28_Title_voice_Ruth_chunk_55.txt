@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 28:<break time="500ms"/> How the Mystery of the Lord's Cross differs from images
+    <break time="2s"/>
+</speak>

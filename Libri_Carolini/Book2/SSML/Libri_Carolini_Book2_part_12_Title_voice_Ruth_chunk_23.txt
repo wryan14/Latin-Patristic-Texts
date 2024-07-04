@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 12:<break time="500ms"/> That the gospel testimony 'No one lights a lamp and puts it under a basket' has been misused by those who worship images
+    <break time="2s"/>
+</speak>

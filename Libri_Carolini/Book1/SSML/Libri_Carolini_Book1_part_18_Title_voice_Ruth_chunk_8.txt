@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 18:<break time="500ms"/>About how vain is the hope of those who place their salvation in images, saying: "As the Israelites looked upon the bronze serpent and were saved, so we are saved by beholding the images of saints."
+<break time="2s"/>
+</speak>

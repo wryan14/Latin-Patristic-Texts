@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 16:<break time="500ms"/>About how the adoration of images does not pertain, and they foolishly and irrationally think, which is written by the legislator: "See, I have called by name Bezalel son of Uri, son of Hur, of the tribe of Judah, and have filled him with the spirit of wisdom and understanding to accomplish all manner of workmanship in gold and silver and brass."
+<break time="2s"/>
+</speak>

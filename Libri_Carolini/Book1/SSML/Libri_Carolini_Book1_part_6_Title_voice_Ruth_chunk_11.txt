@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 6:<break time="500ms"/>About how the holy Roman, Catholic, and Apostolic Church declares certain things and how faith spreads, with questions arising, and everything being settled.
+<break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 21:<break time="500ms"/> That those who do not adore images do not contradict the Christian religion
+    <break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 24:<break time="500ms"/> That only blessed Peter said to adore images, and that images are adored with charity and salvation
+    <break time="2s"/>
+</speak>

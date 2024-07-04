@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 18:<break time="500ms"/> That the testimony from the Sixth Council does not pertain to image worship
+    <break time="2s"/>
+</speak>

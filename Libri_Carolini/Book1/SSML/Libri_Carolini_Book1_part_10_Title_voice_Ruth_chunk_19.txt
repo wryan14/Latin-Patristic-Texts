@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 10:<break time="500ms"/>About how John the Presbyter and the legates of the Eastern Church said in a certain synod about adoring statues: "Erecting Jacob with a staff, whom God blessed."
+<break time="2s"/>
+</speak>
