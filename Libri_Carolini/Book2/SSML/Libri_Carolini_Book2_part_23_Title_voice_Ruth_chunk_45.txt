@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 23:<break time="500ms"/> That Gregory, bishop of Rome, said to adore and not to break images
+    <break time="2s"/>
+</speak>

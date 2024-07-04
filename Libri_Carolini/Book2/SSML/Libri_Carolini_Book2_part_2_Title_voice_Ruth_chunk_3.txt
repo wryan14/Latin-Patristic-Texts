@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 2:<break time="500ms"/> That 'For there is no longer a prophet, and he will no longer recognize' does not pertain to this matter
+    <break time="2s"/>
+</speak>

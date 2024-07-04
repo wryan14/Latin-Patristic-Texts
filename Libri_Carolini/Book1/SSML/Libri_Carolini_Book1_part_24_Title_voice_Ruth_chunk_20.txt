@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 24:<break time="500ms"/>About how no one ever made a picture to be adored, which is written: "And they adored the golden calf which the people had made."
+<break time="2s"/>
+</speak>

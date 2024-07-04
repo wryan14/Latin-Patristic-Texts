@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 11:<break time="500ms"/>About what St. John wrote: "The people are pleased when they are like God, and they adore and worship the true God."
+<break time="2s"/>
+</speak>

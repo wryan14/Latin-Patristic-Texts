@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 27:<break time="500ms"/> That equating images to the body and blood of the Lord is a great rashness and absurdity
+    <break time="2s"/>
+</speak>

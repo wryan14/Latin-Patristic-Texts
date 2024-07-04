@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 4:<break time="500ms"/> How to understand: 'Mercy and truth have met together; righteousness and peace have kissed each other'
+    <break time="2s"/>
+</speak>

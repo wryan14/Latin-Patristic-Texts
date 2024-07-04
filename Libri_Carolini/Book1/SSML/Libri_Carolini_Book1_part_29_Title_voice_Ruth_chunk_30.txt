@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 29:<break time="500ms"/>About how it should be understood, which is written: "Lord, I have loved the habitation of Your house," which beauty they understand as images.
+<break time="2s"/>
+</speak>

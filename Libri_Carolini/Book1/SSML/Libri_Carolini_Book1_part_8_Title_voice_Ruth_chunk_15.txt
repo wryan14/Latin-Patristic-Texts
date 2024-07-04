@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 8:<break time="500ms"/>What is the difference between image and likeness and their equality.
+<break time="2s"/>
+</speak>

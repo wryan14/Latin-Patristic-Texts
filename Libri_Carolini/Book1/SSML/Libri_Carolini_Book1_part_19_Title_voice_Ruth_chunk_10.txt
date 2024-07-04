@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 19:<break time="500ms"/>About the great folly of those who say: "As the tables of the law, so the cross and the images of saints are to be adored by Christians."
+<break time="2s"/>
+</speak>

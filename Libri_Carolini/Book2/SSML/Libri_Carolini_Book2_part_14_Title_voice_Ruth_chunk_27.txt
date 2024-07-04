@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 14:<break time="500ms"/> That the statement of blessed Athanasius, bishop of Alexandria, should not be understood as some think
+    <break time="2s"/>
+</speak>

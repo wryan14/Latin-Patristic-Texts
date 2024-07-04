@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 25:<break time="500ms"/>About the extreme folly of those who say they are converted by the image and the Psalm which says: "And they turned their backs to me and not their faces."
+<break time="2s"/>
+</speak>

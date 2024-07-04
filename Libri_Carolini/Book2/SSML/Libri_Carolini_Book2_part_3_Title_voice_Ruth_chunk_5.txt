@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 3:<break time="500ms"/> How to understand: 'Lord, in your city you will reduce their image to nothing'
+    <break time="2s"/>
+</speak>

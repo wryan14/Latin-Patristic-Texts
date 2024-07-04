@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 30:<break time="500ms"/>About how it is not for the manifestation of images by the Psalmist, as they say, it is written: "As we have heard, so we have seen."
+<break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 29:<break time="500ms"/> That Tarasius presumptively equates images with sacred vessels
+    <break time="2s"/>
+</speak>

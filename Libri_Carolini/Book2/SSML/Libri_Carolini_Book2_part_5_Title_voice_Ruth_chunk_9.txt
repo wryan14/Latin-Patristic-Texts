@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 5:<break time="500ms"/> That 'Exalt the Lord our God and worship at His footstool, for He is holy' is not about image worship
+    <break time="2s"/>
+</speak>

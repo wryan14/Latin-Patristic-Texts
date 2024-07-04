@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 13:<break time="500ms"/>About how they ignorantly and disorderly say: "If you slander me for adoring the wood of the cross, why don't you slander Jacob for adoring the top of Joseph's staff?" But it is clear that he did not adore the wood seeing it, but the wood of Joseph, just as we adore Christ on the cross.
+<break time="2s"/>
+</speak>

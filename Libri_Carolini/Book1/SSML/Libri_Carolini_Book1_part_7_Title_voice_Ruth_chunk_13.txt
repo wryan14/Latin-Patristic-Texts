@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 7:<break time="500ms"/>About how it pertains to not adoring images, which is written: "God created man in His image and likeness."
+<break time="2s"/>
+</speak>

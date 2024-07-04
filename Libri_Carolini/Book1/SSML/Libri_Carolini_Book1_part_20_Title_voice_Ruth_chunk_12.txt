@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 20:<break time="500ms"/>About how no less all, and the people themselves, Tharasius declares and knows: "As the sacred altars of the divine propitiation are adorned, so are the images of our Lord Jesus Christ and the saints."
+<break time="2s"/>
+</speak>

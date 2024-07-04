@@ -1,0 +1,5 @@
+<speak>
+
+<break time="1s"/>Chapter 23:<break time="500ms"/>About what is written: "Let the light of Your countenance shine upon us, O Lord," and "Your face, O Lord, I will seek," and how images are made according to understanding.
+<break time="2s"/>
+</speak>

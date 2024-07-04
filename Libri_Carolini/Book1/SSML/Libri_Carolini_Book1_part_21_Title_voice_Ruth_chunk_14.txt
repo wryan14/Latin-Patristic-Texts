@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter 21:<break time="500ms"/>About how the Presbyter John also felt, and confirmed the adoration of images, saying: "And Jesus laid down the twelve stones in His memory."
+<break time="2s"/>
+</speak>

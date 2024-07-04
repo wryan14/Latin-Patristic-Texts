@@ -1,0 +1,5 @@
+<speak>
+
+<break time="1s"/>Chapter 17:<break time="500ms"/>About how they do not correctly understand, who say: "According to Moses' legitimate tradition, purple cloth is to be thrown on the tent in the wilderness with extreme vestments and for memory and observance of commandments, much more for us, through apostolic tradition, we see the pictures of saints as examples for our conversations, as we are commanded to imitate them."
+<break time="2s"/>
+</speak>

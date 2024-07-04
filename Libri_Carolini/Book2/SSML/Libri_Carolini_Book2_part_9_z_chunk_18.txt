@@ -1,0 +1,50 @@
+<speak>
+  <p>
+
+    <s>
+      Solomon is said to have made oxen and lions in the temple, but we who understand the law spiritually, as the Apostle says, are instructed by certain hidden mysteries in their creation.
+    </s>
+    <s>
+      However, those who love the worship of images try to justify their empty foolishness.
+    </s>
+    <s>
+      We are taught by mystical meanings, while they are confirmed in their great error.
+    </s>
+    <s>
+      We seek the truth through symbols, but they are deceived by something well-made and take it as authority for something that should not be done.
+    </s>
+    <break time="500ms"/>
+    <s>
+      Why then, O descendant of David, O king of Israel, O wisest of the wise, did you make them?
+    </s>
+    <s>
+      "I made them," I say, "not to be worshipped but to signify certain mystical things; not to support error, but to reveal the secrets of mysteries; not to be a stumbling block to blind minds, but to subtly hint at something great to those who scrutinize deeply."
+    </s>
+    <s>
+      If he should therefore be blamed for something well done being misused for evil by the wicked, then the lawgiver should also be blamed for raising something necessary to the sight of many in the wilderness, which the wicked later used wrongly.
+    </s>
+    <break time="500ms"/>
+    <s>
+      Therefore, we do not reject images made in memory of past events and for the beauty of the basilicas, since we know through Moses and Solomon that they were made, albeit in symbolic figures.
+    </s>
+    <s>
+      However, we restrain their most insolent or rather most superstitious worship, a practice we have not found established by patriarchs, prophets, apostles, or apostolic men.
+    </s>
+    <break time="500ms"/>
+    <s>
+      But to return to the subject, Solomon made oxen and lions in the temple because Christ also established apostles and their successors in the church.
+    </s>
+    <s>
+      According to the blessed Gregory, they are humble companions to those who do good and stand firm against the vices of the wrongdoers with the zeal of justice.
+    </s>
+    <s>
+      Thus, the meekness of the ox sustains the former, and the fierceness of the lion spurs on the latter.
+    </s>
+    <s>
+      This can be gathered from the example of the pastor of the church, who gently won over Cornelius by humility and vehemently stood against Ananias and Sapphira when they acted deceitfully.
+    </s>
+    <s>
+      Therefore, holy men sometimes have the meekness of oxen and sometimes the fierceness of lions, as they hold the staff to rule the strong firmly and the rod to support the weaknesses of the infirm.
+    </s>
+  </p>
+</speak>

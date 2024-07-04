@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 19:<break time="500ms"/> That John, Bishop of Constantinople's opinion does not support image veneration as claimed
+    <break time="2s"/>
+</speak>
