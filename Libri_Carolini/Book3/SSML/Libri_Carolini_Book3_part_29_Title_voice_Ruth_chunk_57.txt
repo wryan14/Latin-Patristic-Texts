@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 29:<break time="500ms"/> On John the Eastern priest's irrational comparison of honoring the emperor's image to venerating Christ's image
+    <break time="2s"/>
+</speak>

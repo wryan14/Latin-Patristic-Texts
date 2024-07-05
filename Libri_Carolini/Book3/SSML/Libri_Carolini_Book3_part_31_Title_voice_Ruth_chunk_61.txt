@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 31:<break time="500ms"/> On the nonsensical story of a recluse's oath and his abbot's foolish statement about image worship
+    <break time="2s"/>
+</speak>

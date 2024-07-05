@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 20:<break time="500ms"/> On John the Priest's recounting of John Chrysostom's words about an angel in an image
+    <break time="2s"/>
+</speak>

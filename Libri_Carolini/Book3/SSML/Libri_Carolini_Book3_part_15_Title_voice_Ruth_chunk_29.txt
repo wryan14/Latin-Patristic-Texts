@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 15:<break time="500ms"/> Against those who equate honoring imperial images with venerating religious images
+    <break time="2s"/>
+</speak>

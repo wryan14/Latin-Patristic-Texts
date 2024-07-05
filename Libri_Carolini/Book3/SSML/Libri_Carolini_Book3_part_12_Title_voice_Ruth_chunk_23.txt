@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 12:<break time="500ms"/> That they have largely abandoned kindness and patience by speaking disorderly
+    <break time="2s"/>
+</speak>

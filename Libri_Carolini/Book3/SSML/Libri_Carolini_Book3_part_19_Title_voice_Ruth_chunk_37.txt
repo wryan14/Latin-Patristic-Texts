@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 19:<break time="500ms"/> That Agapius, Bishop of Caesarea in Cappadocia, made a foolish statement about divine Scriptures
+    <break time="2s"/>
+</speak>

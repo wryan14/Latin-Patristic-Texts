@@ -1,0 +1,30 @@
+<speak>
+
+    <p>
+        Since there are many kinds of expressions that are taught extensively and variously by grammarians or rhetoricians, the sequence of all speeches or words is divided into four parts. Every speech is either wise and eloquent, wise and not eloquent, eloquent and not wise, or neither wise nor eloquent.
+    </p>
+    <p>
+        Therefore, it is wise and eloquent, as many books of the Holy Scriptures are, such as the book of the prophet Isaiah. His speech is both wise, as it was dictated by the Holy Spirit, and eloquent because it was delivered by a distinguished and cultured man.
+    </p>
+    <p>
+        However, it is wise and not eloquent, as some parts of the divine Scriptures are: wise in the heights of the sentences proclaimed with divine nectar but not eloquent either due to the simplicity of the holy men who delivered it, who preferred to use the sense rather than the beauty of words, or due to the manner of speaking of the natives among whom the holy men, the bearers of the divine word, are known to have been born or lived. As Jerome says about blessed Jeremiah, the simplicity of his speech came from the place Anatoth, where he was born.
+    </p>
+    <p>
+        Therefore, it is eloquent and not wise, as some of the writings of the Gentiles are. Although adorned with the cultivation of human arts, they are foolish because they lack the knowledge of the true God and the salutary exhortation. There is also the speech of some heretics, eloquent but not wise, which, although polished by the industry of human minds, is entirely devoid of the truth of wisdom and the teachings of virtues. About eloquent but not wise, it is said through the prophet Isaiah: "For the people are foolish, not understanding, the people of unwise speech, so that you cannot understand the eloquence of their language, in which there is no wisdom."
+    </p>
+    <p>
+        Therefore, neither eloquent nor wise is like many who rashly approach teaching anything before they are refreshed by the feasts of the most sacred senses and imbued with the ornaments of eloquence. This is also true of the writing of this synod, whose errors we strive to discuss, in whose sentences neither the embellishment of sense is found nor any stream drawn from the river of eloquence.
+    </p>
+    <p>
+        And since every writing is either cultivated and clear, or cultivated and not clear, or uncultivated and clear, or neither cultivated nor clear, this is alien to the first two types and entirely bound to the following two because it is neither elevated by the cultivation of words or the high style of eloquence, nor woven with the purity of clear expression. In one case, it soothes the mind of the reader by its brilliance; in the other, it promotes understanding by its purity.
+    </p>
+    <p>
+        It is not cultivated and unclear because it is not involved in long periods, not adorned with various perplexities of topics, nor linked by slippery conclusions of syllogisms coming from the industry of the art of dialectics. All of these are cultivated, as they are polished by a sophistic cylinder, and unclear because they are remote from the understanding of simple readers and only present themselves to the ingenuity of the most learned.
+    </p>
+    <p>
+        But it is either clear, lacking cultivation, and evident to all readers or listeners; or disorganized and poorly composed, mutilated by solecisms, corrupted by barbarisms, clothed in the clouds of other faults, and lacking cultivated speech. The order of weaving senses is exploded, neither cultivated nor clear.
+    </p>
+    <p>
+        Therefore, if by chance any error in the statements about faith remains undiscussed, it will defend itself with these arms from us because it has hidden itself in such convoluted words and could not be detected by us because it came to us shrouded as if by a certain cloak of speech difficulty.
+    </p>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 18:<break time="500ms"/> That Euthymius, Bishop of Sardis, erred in his statement about image veneration
+    <break time="2s"/>
+</speak>

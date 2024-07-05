@@ -1,0 +1,61 @@
+<speak>
+
+    <p>
+        <s>We rightly showed that Basil, Bishop of Ancyra, should be accused in the previous chapter because, having laid the foundation of his faith, he neglected to build upon it the very necessary things for a building of such an excellent mystery, and instead tried to build things that should be completely rejected from any structure of religion.</s>
+        <s>But in the present case, we decide that Theodosius, Bishop of Amorium, should be more rightly and appropriately accused, who, having laid no foundation of his faith in the mentioned synod, began to build vain and irrational things.</s>
+        <s>In his building, if what was vainly raised is removed, at least what was well-founded will remain.</s>
+        <s>But in this case, if all that is vain and frivolous is removed, nothing will remain.</s>
+        <break time="300ms"/>
+        <s>If therefore he is rightly blamed who added the adoration of images to the confession of the holy and unique Trinity, much more rightly should this one be blamed, who, setting aside the confession of that highest and ineffable mystery, only dreamed of some frivolous things about the adoration of those images.</s>
+    </p>
+    <break time="500ms"/>
+    <p>
+        <s>For he began thus:</s>
+        <s>'I confess and promise and accept and kiss and adore images.'</s>
+        <s>Oh, what a wonderful confession from a bishop!</s>
+        <s>Oh, what a fine saying from a priest!</s>
+        <s>Oh, what praiseworthy devotion from a prelate!</s>
+        <break time="300ms"/>
+        <s>He is silent about the confession of the most excellent majesty and sounds forth the confession of the most insolent vanity.</s>
+        <s>He withdraws from the confession of Him who said:</s>
+        <s>'Everyone who confesses me before men, I will also confess before my Father who is in heaven';</s>
+        <s>and he enters fully into the confession of images.</s>
+        <break time="300ms"/>
+        <s>He is silent about what he should confess and should urge others to confess, and he confesses what he should neither confess nor allow others to confess;</s>
+        <s>and he, who ought to oppose the wall for the house of Israel and stand in the battle on the day of the Lord, himself, to the disgrace of surrender, alas!</s>
+        <s>willingly falls away:</s>
+        <s>because he, who ought to restrain the minds of others from wrong confession and ridiculous error by the zeal of preaching, himself first becomes the way of error by the example of wrong confession.</s>
+    </p>
+    <break time="500ms"/>
+    <p>
+        <s>As for the fact that he anathematizes everyone 'who does not instruct all people beloved by Christ to adore and venerate the images of all the saints who have pleased God since the beginning of time', let the prudent reader notice how absurdly and incautiously he acts, especially since the anathema, which he rashly attempts to impose on others, he irreverently turns upon himself and his own, and the weapon with which he tries to pierce the foreign part of his error he deflects to the death of himself and his citizens.</s>
+        <break time="300ms"/>
+        <s>Nor does the adoration of images free his own from the bond of anathema, which was only trying to bind outsiders.</s>
+        <s>For he anathematizes 'those who do not instruct all people beloved by Christ to adore images'.</s>
+        <s>Surely, to leave others aside, do all in the flock entrusted to him instruct all people beloved by Christ to adore images, who neither have the duty of instruction nor the rank of preaching?</s>
+        <s>Does he himself instruct 'all people beloved by Christ'?</s>
+        <break time="300ms"/>
+        <s>Since almost the whole world is full of the people of Christ, for God is no longer known only in India, but the sound of the apostles has gone out into all the earth, and the whole earth is filled with the glory of the Lord, and all nations come and worship in the sight of the Lord according to the prophecy of Malachi in the word of the Lord, saying:</s>
+        <s>'From the rising of the sun to its setting, my name is great among the nations, and in every place, a pure offering is sacrificed and offered to me.'</s>
+        <break time="300ms"/>
+        <s>And the shepherd of the church, to whom, in the vision, the whole world full of various nations is shown as full of different kinds of animals to be called to the grace of God, says:</s>
+        <s>'In truth, I perceive that God shows no partiality, but in every nation, anyone who fears Him and does what is right is acceptable to Him.'</s>
+    </p>
+
+
+  <p>
+    If, according to his delusion, </p>
+  <p>
+    For even if they instruct the people of two or three or certainly several provinces, they do not instruct the entire beloved people of Christ. The Catholic Church is spread through such vast and extensive parts of the world, which is indeed the </p>
+  <p>
+    Therefore, either he will teach the entire Church of Christ from east to west, from north to south, instructing himself and his followers in the worship of images, or according to his own vain opinion, he and his companions or subjects will be subject to condemnation.
+  </p>
+  <p>
+    For even if they could instruct all the people, they could not have all the images of all the saints who have pleased God since the beginning, in whose worship they would instruct the entire population. Their number is so great that it is said by the prophet, speaking from the perspective of the Son to the Father: </p>
+  <p>
+    Even if this is said hyperbolically, the number of those who have pleased God since the beginning is so vast that they cannot be painted or counted by anyone except Him, in whose book their names are written.
+  </p>
+  <p>
+    For if the same bishop wishes to avoid the condemnation he has proclaimed, it is necessary for him to have and worship the images of all the saints who have pleased God in various parts of the world since the beginning. And if he cannot have them due to their multitude, indeed because he cannot, he should submit himself to the condemnation he has proclaimed.
+  </p>
+</speak>

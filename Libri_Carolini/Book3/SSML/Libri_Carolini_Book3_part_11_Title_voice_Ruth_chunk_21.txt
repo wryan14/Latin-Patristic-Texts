@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 11:<break time="500ms"/> That the Greeks rashly anathematized the Catholic Church for not worshiping images
+    <break time="2s"/>
+</speak>
