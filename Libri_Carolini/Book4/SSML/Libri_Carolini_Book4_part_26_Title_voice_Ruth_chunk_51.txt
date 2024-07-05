@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 26:<break time="500ms"/> Against those who place sacred images in polluted areas
+    <break time="2s"/>
+</speak>

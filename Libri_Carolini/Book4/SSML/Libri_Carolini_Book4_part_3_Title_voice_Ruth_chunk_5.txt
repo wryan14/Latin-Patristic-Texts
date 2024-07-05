@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 3:<break time="500ms"/> That Dionysius reported a lamp burning for months before Saint Mary's image
+    <break time="2s"/>
+</speak>

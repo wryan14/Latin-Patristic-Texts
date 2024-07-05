@@ -1,0 +1,23 @@
+<speak>
+
+  <p>
+    <s>So, these people, about whom we are speaking, combine two things that contradict each other in this matter.</s>
+    <s>Namely, they often call these images holy and venerable and assert that they should be placed in streets or squares, which are often polluted.</s>
+    <s>Just as light and darkness, heat and cold do not agree, it is clear that holiness and contamination, purity and impurity do not agree.</s>
+    <s>Hence, it is evident that they make a great error when they assert that these images are holy and decide that they should be placed in contaminated places.</s>
+    <s>For it becomes somewhat clear in this judgment of those who order them to be placed in the streets or squares of cities and towns, that these images lack holiness, as they indeed do lack it.</s>
+    <s>If they were believed to be holy, they would be placed in holy places.</s>
+    <s>Everything holy is clean, nothing clean is impure, therefore nothing holy is impure.</s>
+    <s>If they seek to place these images in the seats of impure places, they do not scorn uncleanness, which is contrary to holiness.</s>
+    <s>If they do not scorn uncleanness, they can by no means be called holy.</s>
+    <s>If they seek the seats of impure places, they can by no means be called holy.</s>
+  </p>
+  <p>
+    <s>For, to pass over other examples, which can teach that each thing should be applied to a suitable thing rather than an unsuitable one, let us bring forth the precepts of the very leaders of eloquence.</s>
+    <s>They have thoroughly decreed in eloquence that the thing, place, time, and person should be considered.</s>
+    <s>Lest grave matters be spoken to light-minded people, modest things to shameless people, wanton things to serious people, immodest things to modest people, unchaste things to chaste people, ridiculous things to sad people, profane things to religious people.</s>
+    <s>Everything in the art of eloquence should be so appropriate that nothing is inappropriate, nothing contradictory, but that everything remains moderated according to the quality of places and times.</s>
+    <s>If this has been commanded to be observed by orators in the art of eloquence, it must be observed by us much more in the practices of our religion.</s>
+    <s>So that everything pertaining to religion is observed and held as reason and order require.</s>
+  </p>
+</speak>

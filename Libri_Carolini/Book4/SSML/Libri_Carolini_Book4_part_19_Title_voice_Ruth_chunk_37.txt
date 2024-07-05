@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 19:<break time="500ms"/> On the contradiction between Epiphanius's views and his disciples' actions
+    <break time="2s"/>
+</speak>

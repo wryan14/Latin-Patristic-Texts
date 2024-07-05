@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 27:<break time="500ms"/> On the potential for deception by poorly painted images and the poor's lack of access
+    <break time="2s"/>
+</speak>

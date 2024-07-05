@@ -1,0 +1,31 @@
+<speak>
+<p>
+<s>Among the various absurdities said to be done or written in that same synod, this one is no less absurd than the others: they call the same synod universal, even though it neither holds the unshaken purity of universal faith nor is confirmed by the actions of all churches.</s>
+<s>As the universal church is what is called "catholic" in Greek, similarly, anything that does not depart from its unity can be called catholic.</s>
+<s>For all Christian doctrine or any constitution or tradition must be such that it agrees with the universal church.</s>
+<s>Heretics, however, have not observed this, as they have established certain small gatherings in various parts of the world, confined to some regions, thereby separating both themselves and many others from the fellowship of church unity.</s>
+</p>
+<break time="500ms"/>
+<p>
+<s>When the bishops of two or three provinces come together, if they establish something in preaching or doctrine based on the institution of the ancient canons and it does not differ from the doctrines of the ancient Fathers, what they do is catholic and perhaps can be called universal;</s>
+<s>because, even though it was not done by the bishops of the entire world, it does not differ from the faith and tradition of all.</s>
+<s>We know that this has often happened in many parts of the world due to certain pressing needs.</s>
+<s>For many councils have been held, whose institutions strengthen and support the holy church.</s>
+</p>
+<break time="500ms"/>
+<p>
+<s>However, if the bishops of two or three provinces come together and, desiring to establish some new things, form certain small gatherings which do not agree with the universal church but differ from it in some way, what they do is not catholic and therefore cannot be called universal.</s>
+</p>
+<break time="500ms"/>
+<p>
+<s>Everything that belongs to the church is catholic, and everything that is catholic is universal; and everything that is universal is free from the novelty of profane words.</s>
+<s>Therefore, everything that belongs to the church is free from the novelty of profane words.</s>
+<s>For if this synod were free from the novelty of words and content with the doctrines of the ancient Fathers, it could be called universal.</s>
+<s>However, it is not content with the doctrines of the ancient Fathers, and thus it cannot be called universal.</s>
+<s>The term "universal" comes from "URO," which means "to turn many times into one"; a multitude of units gathered into one by turning becomes a universality.</s>
+</p>
+<break time="500ms"/>
+<p>
+<s>We would certainly not hesitate to declare the same synod universal, if we did not feel that it contradicts the doctrines of the universal church.</s>
+</p>
+</speak>

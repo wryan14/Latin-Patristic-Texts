@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 10:<break time="500ms"/> That no Gospel mentions Jesus sending an image to Abgarus
+    <break time="2s"/>
+</speak>

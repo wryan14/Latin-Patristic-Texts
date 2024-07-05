@@ -1,0 +1,41 @@
+<speak>
+
+  <p>
+    <s>
+      We have often said in this work, and it is clearly apparent, that almost all their opinions, which they put forward in their synod in support of the veneration of images, are somewhat interwoven with such clouds of ignorance and laziness that their eloquence and sense are lacking, making it difficult for readers to grasp their meaning.
+    </s>
+    <s>
+      Thus, the most absurd structure of those texts does not clearly express what they wish to convey, but amidst those cloudy words, there are some clear indications, namely mentions of well-known names or things, just like small fires shining through thick darkness, so that through the words and well-known things, the reader's mind perceives what they wish to express.
+    </s>
+    <break time="500ms"/>
+  </p>
+  <p>
+    <s>
+      In the sentence presented, Deacon Epiphanius, if I am not mistaken, tried to express that a woman, healed from a flow of blood by touching the fringe of the Lord's garment, erected a title or image in honor of the same Lord, and touched the fringe of the same image again, under which a certain herb grew, which, if it gradually grew and touched the base of the erected image, would heal all ailments.
+    </s>
+    <s>
+      In this act - if it is believed to have happened - there is no commendation of image veneration.
+    </s>
+    <s>
+      If that woman, due to the nature of her sex and a certain lightness of mind, erected an image upon receiving the benefit of health - as she was always seeking the presence of the Lord and unaware that He could be everywhere - who would be so foolish, after receiving the gifts of holy faith and knowing that He is everywhere, to erect an image and worship it?
+    </s>
+    <s>
+      And if that woman, in a world not yet freed from the worship of idols, acted similarly to the way some statues of dead men were erected in cities for the memory or worship of certain things, who in their right mind would approve of her actions and, believing the Lord to be not in man-made things but in heaven or rather everywhere, strive to act similarly?
+    </s>
+    <s>
+      Or if perhaps she had a zeal for God in a superstitious manner, but not according to knowledge, who, strengthened in faith as a Catholic, will take her actions as an example in this part and do similar things?
+    </s>
+    <s>
+      Or if perhaps, in the rudiments of her conversion, she could not yet partake of solid food and thus used tender food so that she might gradually grow in strength to receive solid food, that is, to approach the worship of the invisible and ineffable God through a visible and tangible thing, who, becoming her imitator in this act, would desire to be reduced to the foods of infancy, rejecting the strength of solid food?
+    </s>
+    <break time="500ms"/>
+  </p>
+  <p>
+    <s>
+      Therefore, in the miracle that happens with the herb - if it is believed to have happened - which, as he admitted, heals all ailments, their assertion cannot be supported in any way, because it is not testified to have happened so that herbs or images might be worshipped, but so that the minds of unbelievers might be converted from the vanities of idols to the rudiments of true faith, since according to the Apostle, signs are believed to have been given not for the faithful, but for the unbelievers.
+    </s>
+    <s>
+      For the Catholic Church, in order to grow in faith, needed to be nourished by miracles, and to strengthen its new plantation, it needed to be fostered by constant irrigations.
+    </s>
+  </p>
+</speak>
