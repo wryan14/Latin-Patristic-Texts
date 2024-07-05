@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 2:<break time="500ms"/> That Tarasius attempted to cover one mistake with another
+    <break time="2s"/>
+</speak>

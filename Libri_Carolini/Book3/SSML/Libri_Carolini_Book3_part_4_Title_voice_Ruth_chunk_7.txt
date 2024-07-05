@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 4:<break time="500ms"/> Whether Theodore, Bishop of Jerusalem, is correct in his belief about the Father's and Son's beginnings
+    <break time="2s"/>
+</speak>

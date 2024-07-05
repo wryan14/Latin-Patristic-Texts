@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 22:<break time="500ms"/> That the judges at the synod inappropriately exalted the art of painting
+    <break time="2s"/>
+</speak>

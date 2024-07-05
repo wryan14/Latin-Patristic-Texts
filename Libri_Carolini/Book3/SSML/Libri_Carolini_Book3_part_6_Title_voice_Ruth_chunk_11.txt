@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 6:<break time="500ms"/> That Basil, Bishop of Ancyra, included image and relic adoration in his faith confession but omitted key doctrines
+    <break time="2s"/>
+</speak>

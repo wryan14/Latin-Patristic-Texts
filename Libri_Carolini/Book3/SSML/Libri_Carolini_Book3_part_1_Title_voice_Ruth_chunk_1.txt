@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Libri Carolini
+<break time="1s"/>Book Two
+<break time="1s"/>Chapter 1:<break time="500ms"/>The confession of the Catholic faith received from the holy fathers
+<break time="2s"/>
+</speak>

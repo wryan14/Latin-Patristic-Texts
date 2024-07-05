@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 25:<break time="500ms"/> That images should not be worshiped merely because of alleged miracles associated with them
+    <break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 8:<break time="500ms"/> That doubt exists regarding the Holy Spirit's procession
+    <break time="2s"/>
+</speak>

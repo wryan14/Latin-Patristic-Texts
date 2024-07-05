@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 3:<break time="500ms"/> Whether Tarasius correctly believes the Holy Spirit proceeds from the Father through the Son rather than from the Father and the Son
+    <break time="2s"/>
+</speak>

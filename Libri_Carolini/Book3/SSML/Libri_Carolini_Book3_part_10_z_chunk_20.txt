@@ -1,0 +1,38 @@
+<speak>
+  <p>
+
+    <s>
+      Indeed, what Bishop Theodorus has done by presenting these two psalmist verses together with the inserted adverb "immediately," as if one directly follows the other without the interruption of other verses, is ridiculous.
+    </s>
+    <break time="500ms"/>
+    <s>
+      The verse that he says "immediately follows" not only does not follow immediately but is known to precede the other by almost 50 psalms.
+    </s>
+  </p>
+  <p>
+    <s>
+      We do not wish to criticize because it might show some sign of faith, but because it is subject to ridiculous criticism and provides material for mockery to critics.
+    </s>
+    <break time="500ms"/>
+    <s>
+      It shows that such writing is not suitable to instruct greatly without error, as it stumbles without strength in small matters.
+    </s>
+    <break time="500ms"/>
+    <s>
+      It does not have the power to affirm doubtful things and teach unknown matters, which it does not have the talent to narrate non-doubtful things and present known ones.
+    </s>
+  </p>
+  <p>
+    <s>
+      How then can the doctrine of that synod be accepted, whose writing is criticized in so many places?
+    </s>
+    <break time="500ms"/>
+    <s>
+      Or how can it achieve the dignity of association with the other synodal writings compiled or accepted by the holy fathers, which avoids the association of their meanings and words?
+    </s>
+    <break time="500ms"/>
+    <s>
+      For those writings are criticized in nothing and therefore accepted in everything, but these, because they are criticized in many ways, are justly almost entirely rejected.
+    </s>
+  </p>
+</speak>

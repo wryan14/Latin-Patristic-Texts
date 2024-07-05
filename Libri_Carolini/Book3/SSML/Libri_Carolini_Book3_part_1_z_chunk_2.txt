@@ -1,0 +1,67 @@
+<speak>
+
+    <p>
+        <s>We also believe in our Lord Jesus Christ, through whom all things were created, the God of all things, the only-begotten Son of God, not made or adopted, but begotten and of one substance with the Father, so as to be equal in all things to God the Father, and cannot be inferior in time, rank, or power.</s>
+        <s>We confess that He is as great as the one who begot Him.</s>
+        <s>But we do not assign any time to the divine and ineffable generation of the Son from the Father, nor do we say that the Father or the Son ever began to exist.</s>
+        <s>We cannot confess the Father as eternal unless we also confess the Son as co-eternal: the Son is called the Son by the Father, and He who has always been the Father has always had the Son.</s>
+    </p>
+    <p>
+        <s>We also believe in the Holy Spirit, God proceeding from the Father, equal in all things to the Father and the Son in will, power, eternity, and substance.</s>
+        <s>There is absolutely no rank in the Trinity, nothing that can be said to be inferior or superior; but the whole divinity is equal in its perfection.</s>
+        <s>So, except for the terms that indicate the properties of the persons, whatever is said of one person can be worthily understood of the three.</s>
+        <s>And thus we confound Arius, saying that the substance of the Trinity is one and the same, and we confess one God in three persons.</s>
+        <s>This avoids the impiety of Sabellius by distinguishing three persons under their properties, not saying that the Father is Himself the Son, or Himself the Holy Spirit, but stating that the person of the Father is different from the Son and the Holy Spirit.</s>
+    </p>
+    <p>
+        <s>We confess not only the names but also the properties of the names, that is, the persons, or as the Greeks express it, hypostasis, that is, subsistences.</s>
+        <s>The Father does not exclude the person of the Son or the Holy Spirit; nor does the Son or the Holy Spirit receive the name or person of the Father.</s>
+        <s>But the Father is always the Father, the Son is always the Son, and the Holy Spirit is always the Holy Spirit.</s>
+        <s>Therefore, the substance of these things is one, but they are distinguished by persons and names.</s>
+    </p>
+    <p>
+        <s>However, we say that the Son of God, who possesses eternity without beginning with the Father and the Holy Spirit, at the end of the ages assumed perfect human nature from Mary, ever virgin, and became flesh, assuming man without changing His divinity.</s>
+        <s>Nor, as some very wickedly think, do we say that the Holy Spirit was the seed, but that He worked by the power and virtue of the Creator.</s>
+    </p>
+    <p>
+        <s>Thus we confess in Christ one person of the Son, saying that there are two perfect and complete substances, that is, divinity and humanity, which consists of soul and body.</s>
+        <s>And as we condemn Photinus, who confesses only a mere man in Christ, so we anathematize Apollinaris and his followers, who say that the Son of God assumed less of human nature, either in the flesh or in the soul or in the senses, and that the assumed man was unlike those for whom He was assumed, whom we confess to be like us except for the stain of sin, which is not natural.</s>
+    </p>
+    <p>
+        <s>We also similarly abhor the blasphemy of those who try to assert that from the time the flesh was assumed, all that belonged to divinity migrated into the man, and again, that all that belonged to humanity was transferred into God.</s>
+        <s>So that, which no heresy ever dared to say, by this confusion both substances, divinity and humanity, seem to be emptied and changed from their proper state into another, who confess both an imperfect God in the Son and an imperfect man, so that neither God is believed to be held nor man.</s>
+        <s>But we say that what was assumed by the Son of God was passible, while the divinity remained impassible.</s>
+    </p>
+    <p>
+        <s>For the Son suffered truly, not feignedly, all that Scripture testifies, that is, hunger, thirst, weariness, pain, death, and other such things; according to that which could suffer, that is, not according to that substance which assumed, but according to that which was assumed.</s>
+    </p>
+
+
+    <p>
+        For the Son of God Himself, according to divinity, is as impassible as the Father, as incomprehensible as the Father, as invisible as the Father, and as unchangeable as the Father. And although the personal property of the Son, that is, the Word of God, assumed a passible man, yet by His indwelling, according to His supreme substance, the divinity of the Word suffered nothing, just as the whole Trinity, which we must confess to be impassible. 
+    </p>
+    <p>
+        Therefore, the Son of God died according to the Scriptures in the way that He was able to die. He rose on the third day, ascended into heaven, and sits at the right hand of God the Father, retaining the same nature of flesh in which He was born, suffered, and also rose again. The substance of humanity was not destroyed but glorified and will remain in the eternal kingdom of God. Having received from the Father power over all things in heaven and on earth, He will return to judge the living and the dead, to reward the righteous and punish sinners.
+    </p>
+    <p>
+        We believe in the resurrection of the flesh, so we say that we will be restored in the same reality of our bodies as we are now, and that we will remain forever as we will be made after the resurrection. There is one life for the saints, but different rewards for their labor; conversely, there are also punishments for sinners according to the measure of their sins.
+    </p>
+    <p>
+        We hold baptism, which should be celebrated with the same sacramental words in infants as in adults. We believe that a person, if they have fallen after baptism, can be saved through repentance. We accept the Old and New Testament in the number of books that the authority of the holy catholic church has handed down.
+    </p>
+    <p>
+        We believe that souls are given by God, which we say are made by Him, and we anathematize those who say that souls are a part of the divine substance of God. We also condemn the error that says souls existed and were conversing in heaven before they were sent into bodies.
+    </p>
+    <p>
+        We also detest the blasphemy that says it is impossible for a person to be commanded by God to do something, and that God's commandments can be kept not by individuals but by all in common, or that first marriages are condemned by the Manicheans or second marriages by the Cataphrygians.
+    </p>
+    <p>
+        We anathematize those who say that the Son of God sinned out of necessity due to the flesh and that He could not do all that He willed because He took on human nature. We also condemn the heresy of Jovinian, who says there will be no distinction between the merits of individuals in the future, and that we will not possess the virtues there that we neglected here.
+    </p>
+    <p>
+        We confess free will, and we say that we always need God's help, and we reject those who, with the Manicheans, say that humans cannot avoid sin, and those who, with the Jovinians, assert that humans can avoid sin. Both positions deny the freedom of will. We say that humans can always both sin and avoid sin, so we always confess our free will.
+    </p>
+    <p>
+        This is the true integrity of the faith of the catholic tradition, which we sincerely believe and confess, and we have expressed this in the words of blessed Jerome in this work. This is the true faith, this is the confession we preserve and hold. Whoever keeps this confession unwaveringly and unstained will have eternal salvation.
+    </p>
+</speak>

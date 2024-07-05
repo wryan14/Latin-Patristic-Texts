@@ -1,0 +1,22 @@
+<speak>
+
+    <p>
+        <s>If someone builds a wooden house and wants to decorate the walls with marble panels or various colored glass fragments, but sees that by nature these materials cannot adhere to the wood, they will abandon these materials and try again with wood to complete the house.</s>
+        <s>Similarly, if someone wants to make a tin vessel but lacks the necessary material, they will not seek other precious metals that cannot adhere to tin, but will look for more tin to complete the intended work.</s>
+        <s>In the same way, those in their council, when they tried to expand their instrument of error—namely, the writing composed for the worshipping of images—realized that the divine Scriptures could not adhere to it, so they turned to certain apocryphal and laughable tales.</s>
+        <s>And when they saw that the testimonies of divine law, applied inappropriately to the same work, could not adhere, they tailored sentences that could not differ in sense or words.</s>
+        <s>Just as a precious emerald set in an iron ring or a gold-threaded garment sewn with a haircloth cover does not fit, so the testimonies of divine words do not fit the work they applied them to.</s>
+    </p>
+    <p>
+        <s>Therefore, a matter that is doubtful and contentious should not be supported by apocryphal tales but by the oracles of divine law or the salutary warnings and very clear teachings of those doctors who are accepted by the Catholic and Apostolic Church.</s>
+    </p>
+    <p>
+        <s>But perhaps some very scrupulous defender of this error might say: They did not insert the sentences of apocryphal books into their work to confirm the matter at hand, but to mock the madness of certain heretics.</s>
+        <s>To this, our style can easily provide a response.</s>
+        <s>When they say that someone, which no authentic reading narrates, restrained a certain person from a crime with an image of Polemon, are they mocking anyone?</s>
+    </p>
+    <p>
+        <s>Therefore, in the same reading, there are certain things that they placed to affirm the matter at hand, and also many things which, although placed mockingly, are so convoluted, so disorderly, so monstrously delivered, so mixed up, that it is almost impossible to understand whether the words spoken are those of mockers or those who believe in what is being said.</s>
+        <s>This matter, although understood as said by learned people, is said to generate scandal among some unlearned people; and rightly so, because it is covered by such ignorance that it can hardly be understood.</s>
+    </p>
+</speak>

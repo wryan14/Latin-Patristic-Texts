@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 26:<break time="500ms"/> On Theodorus, Bishop of Miri's, recounting of his archdeacon's dreams to defend image worship
+    <break time="2s"/>
+</speak>

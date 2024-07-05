@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 23:<break time="500ms"/> On John the Presbyter's false statement about painters and Scriptures
+    <break time="2s"/>
+</speak>

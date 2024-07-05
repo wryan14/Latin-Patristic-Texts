@@ -1,0 +1,53 @@
+<speak>
+  <p>
+    <s>Often in this work we are compelled to say that examples should not be taken from harmful matters.</s>
+    <s>We repeat this so often because we have found that they frequently did this to affirm their error.</s>
+    <s>Just as proper examples provide support for good deeds in an appropriate order, so too do they seek support from erroneous deeds for their erroneous actions.</s>
+  </p>
+  <break time="1s"/>
+  <p>
+    <s>To establish the proposed error, they bring forth the example of a certain recluse, who, if he acted as they assert, is known to have committed a threefold fault in this matter: whether because he willingly obeyed a demonic suggestion, or because he bound himself with an oath at its instigation, or even because he nullified that oath.</s>
+    <s>These three are not only not to be drawn as examples, but also to be utterly rejected by every Catholic, as they are prohibited by many testimonies of divine law.</s>
+  </p>
+  <break time="1s"/>
+  <p>
+    <s>Associations and seductions, not only of demons but also of wicked men, are prohibited by numerous precepts of divine oracles.</s>
+    <s>For it is written in <phoneme alphabet="ipa" ph="ˈɛksədəs">Exodus</phoneme>: "You shall not bear false witness"; and in Proverbs: "My son, do not let wicked men lead you astray."</s>
+    <s>If therefore the seductions of wicked men are to be avoided, much more are the suggestions and agreements of evil spirits to be avoided, because, being enemies of humanity and always hostile to us, we should always be suspicious of their deception and vigilant against their wickedness, knowing that they are of a more subtle nature and wit.</s>
+    <s>Also, in swearing to a demon, he contradicts the divine words which prohibit oaths.</s>
+    <s>For it is written in Sirach: "Do not accustom your mouth to swearing, for many falls are due to it."</s>
+    <s>Just as a servant continually interrogated will not be without bruises, so anyone who swears and names frequently will not be clean from sin.</s>
+    <s>A man who swears much will be filled with iniquity, and plague shall not depart from his house."</s>
+    <s>Moreover, Truth itself says in the Gospel: "But I say to you, do not swear at all, neither by heaven, for it is God's throne, nor by the earth, for it is His footstool, nor by Jerusalem, for it is the city of the great King, nor shall you swear by your head, for you cannot make one hair white or black."</s>
+    <s>Let your speech be 'Yes, yes,' 'No, no'; anything more than this is from the evil one."</s>
+    <s>Furthermore, it is absurdly said that he perjured himself to a demon.</s>
+    <s>For the Lord says through Moses: "You shall not swear falsely by my name, and so profane the name of your God; I am the Lord."</s>
+    <s>And in the prophet Zechariah it is written: "Do not love a false oath, for all these things I hate, says the Lord Almighty."</s>
+  </p>
+  <break time="1s"/>
+  <p>
+    <s>Therefore, since the same recluse committed these three things contrary to divine words, his abbot showed no correction in him but pointed out to him a worse path of sin, saying: "It is more convenient for you to enter any brothel in the city than to deny the worship of the image of the Lord or His holy mother."</s>
+    <s>Oh incomparable absurdity! Oh destructive evil! Oh madness to be preferred over many other insanities!</s>
+    <s>He says it is more convenient to do what is prohibited by both law and gospel than to abstain from something that is neither instituted by law nor gospel.</s>
+    <s>He says it is more convenient to commit a crime than to abstain from a crime.</s>
+    <s>He says it is more convenient to plunge oneself voluntarily into the depths of mud than to hold the path of the right road with an unoffending foot.</s>
+    <s>He says it is more convenient to violate the temple of God than to spurn the worship of insensate things.</s>
+    <s>He says it is more convenient to take the members of Christ and make them members of a prostitute than to disdain the worship of any work of an artisan.</s>
+    <s>Let him say, if he can find it anywhere, that the Lord said, "Do not deny the worship of the image," just as it is most evident that He said, "You shall not commit adultery."</s>
+    <s>Let him say, if he can find it anywhere, that the Lord said, "If you see an image and do not..."</s>
+  </p>
+
+
+  <p>
+    When you worship it, you sin, as he clearly said: "If you look at a woman to lust after her, you have already committed adultery with her in your heart."
+  </p>
+  <p>
+    When this is not recognized, one strongly feels they have made a mistake, having committed such a shameful act to avoid something fruitless. For while the Lord commands through the law to gird your loins above your breasts, meaning to cut off lust in the heart, and through the gospel to gird your loins and keep your lamps, meaning to associate good works with chastity, and while chastity commandments are given in the books of divine speech, nowhere is it found that the worship of images is commanded.
+  </p>
+  <p>
+    Hence, while his abbot, who ought to have guided him to salvation, loosened the reins of sin, and who should have pulled him back from the snare of error with which he had sworn to the demon, he also fell with him into the abyss of error, saying that the gravest crime was more convenient to commit. He undoubtedly fulfilled that gospel saying: "If a blind man leads a blind man, both will fall into a pit." Whoever wishes to support their assertion with such an example demonstrates not only their considerable madness but also shows it to be stronger than others'.
+  </p>
+  <p>
+    Therefore, since the persistence of their absurdity and the continuity of their nonsense or even the accumulation of their delusions do not rest in the intervals of their volume, which we examine for errors, let at least the interval of these books, which is between the end of one and the beginning of another, rest. Thus, as their error is examined by constant discussion, so the continuity of those errors may also be somewhat separated by the interval of books.
+  </p>
+</speak>

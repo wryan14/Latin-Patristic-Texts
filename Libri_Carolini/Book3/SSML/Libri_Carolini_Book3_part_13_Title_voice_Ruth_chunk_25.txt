@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 13:<break time="500ms"/> That a woman should not teach in a council, as Herena did in their council
+    <break time="2s"/>
+</speak>

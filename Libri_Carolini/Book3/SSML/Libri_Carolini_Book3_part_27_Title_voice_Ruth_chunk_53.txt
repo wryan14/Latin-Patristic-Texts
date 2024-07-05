@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 27:<break time="500ms"/> That they wrongly apply God's words about worship to the veneration of images
+    <break time="2s"/>
+</speak>

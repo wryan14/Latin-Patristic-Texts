@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 24:<break time="500ms"/> That images should not be equated with the relics of saints
+    <break time="2s"/>
+</speak>

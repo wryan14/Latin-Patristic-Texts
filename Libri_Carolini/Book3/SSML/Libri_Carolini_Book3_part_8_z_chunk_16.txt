@@ -1,0 +1,17 @@
+<speak>
+
+    <p>
+        <s>It has been shown above, as far as the brevity of this style, to which we strive, permits, with the Lord’s assent, that the Holy Spirit proceeds from both the Father and the Son.</s>
+        <break time="500ms"/>
+        <s>Now, since almost everyone in the aforementioned synod either remained completely silent on this matter or spoke ambiguously, we – as humans with human weaknesses in our thoughts and ignorant of things we neither hear nor read – do not bear witness to the faith of those who passed over this in silence, nor to those who spoke ambiguously.</s>
+    </p>
+    <p>
+        <s>Nor do we reject their belief because they were silent or spoke ambiguously, since we do not know how they hold this matter.</s>
+        <s>But we pass over this matter undiscussed, so as not to appear to give assent by our silence, and because it is not clear what they mean, we fear to condemn and reserve the judgment for Him who is not deceived by hidden things.</s>
+    </p>
+    <p>
+        <s>We know that those who are not far from error, if they are distant from it because they have correct thoughts on this matter, still approach it because they have neglected to confess correctly what they rightly think.</s>
+        <break time="500ms"/>
+        <s>For what is rightly believed in the heart must be rightly professed with the mouth for salvation.</s>
+    </p>
+</speak>

@@ -1,0 +1,81 @@
+<speak>
+  <p>
+
+    <s>
+      If they mean the temple of God, which is often abusively referred to as the place of God, they are gravely mistaken.
+    </s>
+    <s>
+      For sacrifices are offered in the temple of the Lord, not in images; the solemnities of the Mass are celebrated in the temple, not in paintings; the people standing in the temple and offering their prayers to God are heard, not in painted panels.
+    </s>
+    <s>
+      The Lord is in His holy temple, says David, not in His holy image; His throne is in heaven, not in pictures.
+    </s>
+    <s>
+      Nor does he say: His eyes look upon the proud or those who seek vain praise, but they look upon the poor, upon the poor indeed, about whom the Truth itself says: "Blessed are the poor in spirit."
+    </s>
+    <s>
+      And again: In His temple, says the same most holy prophet, not in images, everyone will speak of glory.
+    </s>
+    <s>
+      And again: Worship the Lord, not in paintings, but in His holy court.
+    </s>
+    <s>
+      For as much as the temple, which can hold many people, differs from the image, which, apart from the memory of the vision it brings to those who look at it, is suitable for no other purpose, so much does the veneration or adoration of images differ from the veneration given to the temple of God, as many indications show.
+    </s>
+    <s>
+      If they call the soul of a righteous person the place of God, which more familiarly can be called the place of God, since the Lord inhabits and sanctifies it by inhabiting, in this too they are gravely mistaken.
+    </s>
+    <s>
+      For God gave the law for the salvation of souls, not for the salvation of images; the Redeemer of the world descended to earth to free souls, not images; for humans, who are often figuratively referred to as souls, not for images, which are formed by artisans, He said to the Father: "Those whom You have given me, I want them to be with me where I am, so that they may see my glory, which You have given me, because You loved me."
+    </s>
+    <s>
+      Therefore, since God first gave men the natural law, which they corrupted, and later gave the written law, which they also violated, He then showed Himself to be seen in bodily presence, and it is believed that He always cared for human salvation before the law, under the law, and under grace, it is never believed that He gave any such attention to images.
+    </s>
+    <s>
+      Therefore, the veneration that is due to people out of charity cannot be equated with the veneration of images.
+    </s>
+    <s>
+      This indeed about the place of God or the temple, which is abusively so called, or about the soul of a righteous person, which is more fittingly called the place of God, with which images in no way should be equated according to their madness, should suffice to be briefly said.
+    </s>
+  </p>
+  <p>
+    <s>
+      On the other hand, discussing the place of God, who is non-local, who is not contained by a place, who contains everything and is not a place, to whom nothing of those six parts of a place applies, to whom nothing is before or after, to the right or left, above or below, requires more subtle understanding.
+    </s>
+    <s>
+      Although, therefore, the order of those ten categories, which are dealt with by philosophers, seems to be ascribed to Him, so that according to His essence, which is ineffable, it is said: The Lord God, God is one, God is strong, God is mighty; according to His magnitude, which is immense: great is the Lord and greatly to be praised; according to His quality, which is indescribable, it is said: the good Creator of all; according to His relation, it is said: the Lord, the Father of all who believe in Him; according to His position: who sits above the cherubim; according to His time: and Your years will not fail; according to His place: the Lord has prepared His throne in heaven; according to His habit: the abyss is like a garment to Him; according to His action: He raises the poor from the dust and lifts the needy from the ash heap; according to His passion: you made me labor with your sins - nevertheless, all these and similar things are shown to be humanly said about God, about whom nothing can be worthily said by mortals.
+    </s>
+    <s>
+      For He is a substance easy for no one to investigate, and therefore ineffable, because He is not investigable by anyone.
+    </s>
+    <s>
+      He is great without magnitude, good without quality, the Lord of all without relation, and similar things, which seek the matter of more abundant discussion.
+    </s>
+  </p>
+  <p>
+    <s>
+      To say something about the place of God, the words of Saint Augustine must be cited, who stated that God is non-local through the complexity of a single five-part syllogism.
+    </s>
+  </p>
+
+
+  <s>
+    He proved it. For he said: God is not in any place. For that which is in a place is contained by location; that which is contained by location is a body. But God is not a body. Therefore, He is not in any place.
+  </s>
+  <break time="500ms"/>
+  <s>
+    Later, in another syllogism, he proved that He is not in a place, and that everything is in Him. For he said: And yet, because He exists and is not in a place, everything is rather in Him than He is in any place, and yet not in such a way that He is the place. For a place is in space, which is occupied by the length, width, and height of a body. Nor is God such a thing, and therefore everything is in Him, and He is not a place.
+  </s>
+  <break time="500ms"/>
+  <s>
+    Later, in a very fitting little clause, he asserted that the place of God is abusively called the temple of God, but that the soul of a human can be better called the place: However, the place of God, he said, is abusively called the temple of God, not because He is contained there, but because He is present there; but nothing is better understood to be this than a pure soul. 
+  </s>
+  <break time="500ms"/>
+  <s>
+    Therefore, when they say that they venerate images as the place of God, whether they mean as the temple of God, or as the soul of a just person, neither is appropriate. But if, in that word, they understand something local about God, their sense is very much at odds with the truth. 
+  </s>
+  <break time="500ms"/>
+  <s>
+    Therefore, as we are unaware of their thoughts and do not know with what feeling or sense they said this, we only examine those things which we have perceived from the writing.
+  </s>
+</speak>

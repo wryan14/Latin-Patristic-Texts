@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 5:<break time="500ms"/> That Tarasius improperly called the Holy Spirit 'a fellow tribe member to the Father and the Son'
+    <break time="2s"/>
+</speak>

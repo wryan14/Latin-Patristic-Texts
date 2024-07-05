@@ -1,0 +1,102 @@
+<speak>
+    <p>
+        <s>
+          In the previous chapter, we explained that a clear and transparent definition should be made in the confession of the holy faith.
+        </s>
+        <s>
+          We now necessarily carry this out because unless speech proceeds on a straight path, with all ambiguities set aside to demonstrate the truth of the matter, there is doubt among listeners about the integrity of the faith of the one who speaks.
+        </s>
+        <s>
+          It seems to approach heretical depravity, even if not in intent, at least in sound.
+        </s>
+    </p>
+    <break time="500ms"/>
+    <p>
+        <s>
+          Therefore, it must be avoided that in the profession of faith by Bishop Theodore, when he says the Father is 'without beginning' and the Son 'acknowledges no other beginning than the Father and has his subsistence from Him,' it might be suspected that the Father precedes the Son either in time, who is co-eternal with Him, or in substance, who is consubstantial with Him, or in honor, who is equal to Him.
+        </s>
+        <s>
+          Although this is indeed rightly and catholically believed by the aforementioned man, it is nevertheless so ambiguously stated that suspicion about his faith can arise in the reader, which often not weak belief, but the difficulty of the speech usually causes.
+        </s>
+        <s>
+          Since therefore it does not evidently shine forth in this profession whether his faith should be approved or disapproved, and since our intention prefers to approve rather than disapprove it, it remains for us to briefly explain what we have received, believed, and held from the holy fathers about this matter.
+        </s>
+    </p>
+    <break time="500ms"/>
+    <p>
+        <s>
+          For in such a profession, it must be feared lest, while the Father is said to be 'without beginning' and the Son 'acknowledges no other beginning than the Father,' it might be suspected that the Father is older than the Son because He begot Him, and the Son is later than the Father because He was begotten, when nothing in the Holy Trinity is earlier or later, where nothing begins in time to be perfected subsequently in time.
+        </s>
+        <s>
+          Because just as the three persons are consubstantial with each other, so also co-eternal.
+        </s>
+        <s>
+          And without time, the generation of the Son from the Father is understood, and without time also the procession of the Holy Spirit from both.
+        </s>
+        <s>
+          For the Father is the beginning of the Son not by creating, but by begetting; not by preceding in time, but by ineffably begetting an ineffable Son who is co-eternal with Him, without whom He never was.
+        </s>
+        <s>
+          And the Son is the beginning, not of the Father, but of the things created by Him.
+        </s>
+        <s>
+          And the Holy Spirit is the beginning of all things created by Him because He cannot in any way be separated from the designation of creator.
+        </s>
+        <s>
+          The Father and the Son are the beginning of the Holy Spirit, not by begetting, because He is not a Son, nor by creating, because He is not a creature, but by giving, because He proceeds from both.
+        </s>
+        <s>
+          Likewise, the Father, the Son, and the Holy Spirit are one beginning of all things created by the one and only creator.
+        </s>
+        <s>
+          And although the Father is the beginning, the Son is the beginning, and the Holy Spirit is the beginning, yet they are not three beginnings, but one beginning, one divinity, one substance, one omnipotence.
+        </s>
+    </p>
+    <break time="500ms"/>
+    <p>
+        <s>
+          These things, which we have briefly touched upon, are to be approved by the words of the distinguished preacher Augustine.
+        </s>
+        <s>
+          For he says: The Father is therefore called relatively, and the same is called relatively the beginning, and if anything else, the Father is said to be relative to the Son.
+        </s>
+        <s>
+          The beginning, however, is said to be relative to everything that has come from Him.
+        </s>
+        <s>
+          Likewise, the Son is said to be relative, is called relatively the Word and the Image; and in all these terms, He is referred to the Father, none of which the Father is called.
+        </s>
+        <s>
+          And the Son is called the beginning: for when it was said to Him, 'Who are you?' He replied, 'The beginning, because I also speak to you.'
+        </s>
+        <s>
+          But is it the same beginning as the Father? He wanted to show Himself as the creator when He said He is the beginning, just as the Father is the beginning of creation, because all things are from Him.
+        </s>
+        <s>
+          For the creator is also called relative to the creature, just as the lord to the servant.
+        </s>
+        <s>
+          And therefore, when we say both the Father is the beginning and the Son is the beginning, we do not say two beginnings of the creature, because the Father and the Son are together the beginning of the creature, just as one creator, just as one God.
+        </s>
+    </p>
+
+
+  <p>
+    The principle is that which begets. Indeed, since it works, we can rightly call the Holy Spirit a principle, provided we separate this from the title of Creator. It is written about Him that He works and remains always working within Himself. For He does not change or cease to be the same while He works.
+  </p>
+  <p>
+    As He works, consider: <s>"To each one," says the Apostle, "is given the manifestation of the Spirit for the common good: to one is given through the Spirit the word of wisdom, to another the word of knowledge according to the same Spirit, and so on."</s> Likewise, after a few lines: <s>"For if we are each asked separately about the Holy Spirit, we rarely respond that He is God; and yet, along with the Father and the Son, He is truly God."</s> Therefore, God is called one principle in relation to creation, not three principles.
+  </p>
+  <p>
+    Within the Trinity, if the begetter to the begotten is a principle, then the Father is a principle to the Son because He begot Him. And whether the Father is also a principle to the Holy Spirit, of whom it is said, <s>"He proceeds from the Father,"</s> is a small question. Because, if it is so, then He is not only a principle to that which He begets or makes, but also to that which He gives.
+  </p>
+  <p>
+    Hence, it becomes clear, as it often troubles many, why the Son is not also called the Holy Spirit. For it is read in the Gospel that He proceeds not as one born but as one given; and therefore He is not called the Son, because He is neither born as the only-begotten, nor made, that He might be adopted through grace, as we are.
+  </p>
+  <p>
+    For what is of the Father by nature refers only to the Father, as He is called the Son, and therefore He is the Son of the Father, not of the Holy Spirit. But what is given refers both to the one who gives and to those who receive. Thus, the Holy Spirit is called not only of the Father and the Son, who give Him, but also ours, who receive Him: as it is said, <s>"the salvation of the Lord,"</s> because He gives salvation, so He is also our salvation, who receives it.
+  </p>
+  <p>
+    Likewise, after a few lines: <s>"Therefore, if what is given has a principle from whom it is given, because it has not received it from elsewhere, as it proceeds from Him, it must be confessed that the Father and the Son are the principle of the Holy Spirit, not two principles, but as the Father and the Son are one God and in relation to creation one Creator and one Lord, so in relation to the Holy Spirit they are one principle."</s> However, in relation to creation, the Father, the Son, and the Holy Spirit are one principle, one Creator, and one Lord.
+  </p>
+</speak>
