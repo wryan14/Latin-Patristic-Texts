@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 28:<break time="500ms"/> That they wrongly call their synod 'universal'
+    <break time="2s"/>
+</speak>

@@ -1,0 +1,15 @@
+<speak>
+
+    
+    <p>
+        Since neither side maintains moderation, neither are these restrained by reason, nor are their predecessors believed to have been restrained by discipline. Instead, both are proven to be carried away through rough and pathless ways, followers of forbidden and unproductive things. As has often been said, these think it right to worship images submissively, while those have impatiently thought it right to break them. As Deacon Demetrius says, <s>Recklessly and disorderly, among other things, they burned two silver-embellished books because there was some mention of images in them, and they cut out two pages from another book,</s> as if the mention of images could not be made otherwise without immediately being thought to worship them.
+    </p>
+    
+    <p>
+        For while no one even lightly considers worshipping images in accepted books, mention of them is still made in many. <break time="500ms"/> If all books in which there is mention of images are to be burned, many instruments of scripture will perish altogether. For first, each thing must be examined and then judged. This can be proven with many examples of both divine and worldly laws, and can also be supported by the teachings of the rhetoricians. They placed the deliberative genre first, the demonstrative second, and the judicial third, so that whatever deliberation finds to be either rejected or followed, demonstration shows it to be either praiseworthy or blameworthy, and judicial gives the sentence either with punishments or rewards. Otherwise, if these two latter genres do not precede the judicial, with the causes of deliberation examined first and the order of demonstration neglected, anything will be judged otherwise than is just.
+    </p>
+    
+    <p>
+        Therefore, in all things, moderation or mediocrity must be maintained, and the philosophical saying must be remembered: <s>Nothing in excess.</s> This moderation must always be tempered with the company of examination. For the Apostle does not say: <s>Burn everything without moderation and without examination,</s> but: <s>Examine everything; hold fast to what is good.</s>
+    </p>
+</speak>

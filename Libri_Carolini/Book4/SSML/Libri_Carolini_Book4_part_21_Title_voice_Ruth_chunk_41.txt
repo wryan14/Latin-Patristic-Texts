@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 21:<break time="500ms"/> On their interpretation of the prophecy about the virgin and child
+    <break time="2s"/>
+</speak>

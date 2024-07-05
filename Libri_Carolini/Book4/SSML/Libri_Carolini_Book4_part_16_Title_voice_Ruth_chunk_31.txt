@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 16:<break time="500ms"/> That Epiphanius's statement about consecration without prayer is criticized
+    <break time="2s"/>
+</speak>

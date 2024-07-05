@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 6:<break time="500ms"/> That they claim image destroyers are worse than all heretics, including their ancestors
+    <break time="2s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 25:<break time="500ms"/> Against those who argue Epiphanius would have listed image worship as a heresy
+    <break time="2s"/>
+</speak>

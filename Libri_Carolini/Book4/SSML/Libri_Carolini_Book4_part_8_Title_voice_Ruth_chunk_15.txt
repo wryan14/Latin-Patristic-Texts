@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 8:<break time="500ms"/> On Deacon Demetrius's account of their parents destroying books with images
+    <break time="2s"/>
+</speak>

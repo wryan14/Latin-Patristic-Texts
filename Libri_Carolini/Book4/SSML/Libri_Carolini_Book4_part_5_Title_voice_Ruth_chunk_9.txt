@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 5:<break time="500ms"/> That Saint Simeon the Stylite's letter differs from Scripture and church fathers' teachings
+    <break time="2s"/>
+</speak>

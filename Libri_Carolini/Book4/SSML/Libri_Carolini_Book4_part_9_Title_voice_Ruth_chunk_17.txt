@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 9:<break time="500ms"/> On Leontius's boast of finding correction in silver tablet images
+    <break time="2s"/>
+</speak>

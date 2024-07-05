@@ -1,0 +1,5 @@
+<speak>
+    <break time="1s"/>
+    Chapter 24:<break time="500ms"/> On their arrogant claim of presiding with Christ as head
+    <break time="2s"/>
+</speak>
