@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>  <p>ON THE CHURCH OF RAVENNA. DECREE OF FELIX the Fourth.</p>
+<break time="2s"/>
+</speak>

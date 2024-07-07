@@ -1,0 +1,80 @@
+<speak>
+
+  <p>
+    <s>
+      To my dearest brother Caesarius, Felix. 
+    </s>
+    <s>
+      I have read what has been established among your brotherhood, that it is not allowed for someone from a lay background to be rashly promoted to the priestly office before testing:
+    </s>
+    <s>
+      a matter that has also reached us, that some, after ordination, have reverted to secular ways.
+    </s>
+  </p>
+  <p>
+    <s>
+      And although such a presumptuous act is abominable, negligence is even more dangerous.
+    </s>
+    <s>
+      For he who can resist an incoming evil and allows it to happen through neglect is more so the author of the evil work.
+    </s>
+  </p>
+  <p>
+    <s>
+      No one should hope to excuse themselves through old customs; because what was illicitly begun, if condemned in the future, cannot produce its own fruits.
+    </s>
+    <s>
+      For what is learned in steps, if it reaches its set point without the perfection of teaching, it errs through examination, because it does not receive firmness; nor can one preserve honor through fear, who once reached his glory through effort.
+    </s>
+  </p>
+  <p>
+    <s>
+      And empty praise, to whom it is given, harms, nourishing pride more than encouraging the work of true virtue.
+    </s>
+    <s>
+      The vessel of election writes to his native Timothy saying: Do not be quick to lay hands on anyone, nor share in other people's sins.
+      <break time="500ms"/>
+      <phoneme alphabet="ipa" ph="faɪrst tɪmɒθi faɪv">First Timothy 5</phoneme>
+    </s>
+  </p>
+  <p>
+    <s>
+      What does he mean: do not be quick to lay hands?
+    </s>
+    <s>
+      Because the dignity that is given is given so that it may remain immovable.
+    </s>
+    <s>
+      It should, therefore, be considered under long deliberation before it is granted.
+    </s>
+  </p>
+  <p>
+    <s>
+      Hence, how can a teacher who does not know the basics teach?
+    </s>
+    <s>
+      How can a helmsman who has not shown his services among sailors guide the ship?
+    </s>
+  </p>
+  <p>
+    <s>
+      He does not know what is owed to teachers who has not bent his heart to obedience, hence how should he be an example to posterity on how to behave in the house of God.
+    </s>
+    <s>
+      Let there be in all clerics, and especially in those who are to be chosen for the priesthood, the eloquence of the apostolic admonition, which says: Moreover, he must have a good testimony from those who are outside.
+      <break time="500ms"/>
+      <phoneme alphabet="ipa" ph="faɪrst tɪmɒθi θri">First Timothy 3</phoneme>
+    </s>
+  </p>
+  <p>
+    <s>
+      Therefore, by common consent, under the observance of venerable canons, choose a priest to be ordained: so that we may be concerned for our own salvation, and consult the benefits of those who have been diligently admitted to this order.
+    </s>
+    <s>
+      May God keep you safe, dearest brother.
+    </s>
+    <s>
+      Given on the third day before the Nones of February in the consulship of Mavortius (528 AD).
+    </s>
+  </p>
+</speak>

@@ -1,0 +1,18 @@
+<speak>
+<break time="1s"/>Letters and Decrees of Pope Felix the Fourth
+<break time="1s"/>  <p>
+    <s>
+      FELIX POPE the Fourth TO CAESARIUS OF ARLES.
+    </s>
+    <break time="500ms"/>
+    <s>
+      On not promoting laymen to the priesthood before testing. 
+    </s>
+  </p>
+  <p>
+    <s>
+      FIRST LETTER
+    </s>
+  </p>
+<break time="2s"/>
+</speak>

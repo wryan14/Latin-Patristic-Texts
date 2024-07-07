@@ -1,0 +1,8 @@
+<speak>
+<break time="1s"/> Pope Felix the Fourth to all bishops.
+<break time="500ms"/>
+(This and the following letter suffer from the defect of forgery.) 
+<break time="500ms"/>
+Letter Two
+<break time="2s"/>
+</speak>
