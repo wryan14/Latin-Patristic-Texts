@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>On Genesis: <break time="500ms"/>DOES THE DAY BEGIN IN THE EVENING OR IN THE MORNING?
+<break time="500ms"/>by Marius Victorinus
+<break time="2s"/>
+</speak>

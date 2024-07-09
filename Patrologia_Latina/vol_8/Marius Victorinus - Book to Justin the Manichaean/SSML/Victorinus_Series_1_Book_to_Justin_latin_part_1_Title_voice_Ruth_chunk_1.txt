@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>Book to Justin the Manichaean
+<break time="500ms"/> by Marius Victorinus
+<break time="2s"/>
+</speak>
