@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Book on Not Sparing Those Who Sin Against God
+<break time="500ms"/>
+by Lucifer of Cagliari
+<break time="2s"/>
+</speak>
