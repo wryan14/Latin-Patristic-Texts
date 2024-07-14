@@ -1,0 +1,47 @@
+<speak>
+<break time="1s"/>Selected Letters of Montanus of Toledo
+<break time="2s"/>
+Introduction<break time="1s"/>
+    <p>
+        Montanus, bishop of the Church of Toledo after Celsus, flourished during the time of King Amalaric of the Goths and led the church from 522 to 531. According to the series of bishops of Toledo by John the Baptist Perez, canon of Toledo, and Clarus Loaysa and Aguirre, which we will provide more complete and corrected at the end of volume two.
+    </p>
+    <p>
+        From Saint Ildephonsus, we learn about the many great virtues that shone in him. He possessed great strength of mind, was very eloquent in speech, prudent in governance, worthy of the highest honors, and commendable for the innocence of his life.
+    </p>
+    <p>
+        His holiness is well-documented by ancient and faithful tradition, which was widespread during Saint Ildephonsus's time. The most holy bishop, attacked by foul calumny from envious men, vindicated his innocence by an outstanding miracle. He sustained burning coals in his clothes until he completed the sacred mysteries, yet his clothes suffered no damage, nor did the fire lose its force.
+    </p>
+    <p>
+        We read that in later centuries, Saint Anselm and other very holy men used a similar purification inspired by the Holy Spirit.
+    </p>
+    <p>
+        The eloquence of Montanus and the splendor of his doctrine are evident from two letters that have survived. One was written to the beloved brothers and sons of the Palentinian territory, and the other to the distinguished Thuribius. Additionally, his leadership is clear from the second council of Toledo, which he presided over. Anyone who diligently reads its canons will notice a certain purity of speech reminiscent of the golden age, which was rare during the times of the Goths.
+    </p>
+    <p>
+        The name of Montanus was renowned throughout Spain, and his wisdom was so widely recognized that the second council of Toledo, held in 527, was inscribed as "Council held in the city of Toledo with Bishop Montanus." He is often mentioned by the Fathers at the end, asserting that the following council should be convened by Montanus and celebrated with him.
+    </p>
+    <p>
+        Eighty-three years after the aforementioned council, in the Carthaginian council held under King Gundemar in 610, the Fathers referred to the acts of the second council of Toledo with the words "Saint Montanus." These words, added to the previous ones, clearly prove that not only was Montanus's wisdom celebrated in Spain, but also his holiness.
+    </p>
+    <p>
+        Although he is not listed in the fasts of the saints of Boletan, he cannot be deprived of the praise of Saint Ildephonsus, who calls him the most blessed priest, and the acclaim of the Carthaginian Fathers, who refer to him as Saint Montanus.
+    </p>
+    <p>
+        Although he was praised for all virtues, he was especially noted for his zeal for the house of the Lord, tirelessly fighting to maintain and restore the discipline of the sacred canons against the rampant errors and corrupt practices in Spain. The already praised letters testify to this, breathing zeal from every direction. Whether he sharply reproves the Palentinian priests for making chrism and enlisting bishops of another jurisdiction to consecrate basilicas or censures their levity and folly, who, despite rejecting the abominable heresy of Priscillian, continued to honor his name. Or when he entrusts his authority to the esteemed presbyter Thuribius to correct these evils. Finally, his great veneration for the admonitions of the Roman pontiffs and his diligence in ensuring the canons of holy councils were observed can be inferred from the second letter. We will explain this more fully in the notes to it. When a certain bishop, illegitimately elected and ordained, invaded the Palentinian Church, unknown to Celsus the metropolitan and the provincial bishops, Montanus, elevated to the see of Toledo, did not allow the culprit to go unpunished for long, nor could he be swayed by many entreaties to remit anything of the severity of the decrees of the holy council of Nicaea.
+    </p>
+    <p>
+        All these things commend the virtue of Montanus all the more, as it is more marvelous that a shepherd so unblemished adhered to the sound doctrine of his fathers.
+    </p>
+
+    <p>He flourished during a time when the Arian heresy had almost entirely occupied Spain, with the Gothic kings proudly seated on the throne. He did not hide away in some remote corner but remained in the heart of Spain, in front of the heretical prince and the entire court of Arians, offering notable testimonies of his piety and tireless defense of the orthodox religion.</p>
+    <p>As a result, no one can deny the great glory that has flowed into this holy metropolitan Church of Toledo. From this, everyone will understand how rightly Eufemius, the fourth bishop of this see, called it Catholic in the subscription of the Third Council of Toledo. This was because it always had pastors like Montanus, who never strayed from the true and orthodox Catholic Church's faith, even amid the darkest errors and greatest storms of persecution.</p>
+    <p>Montanus died in the last year of King Amalaric's reign, in the ninth year of his episcopate, in the year 531. To this year should be attributed what many historians, both our own and foreign, recount about the plundering of Toledo by the Franks after their victory over the impious and cruel persecutor of Catholic Clotilde, Amalaric. From this, we may reasonably suppose that the most holy bishop, not so much worn out by old age as by grief, seeing the city overwhelmed by such calamity, his beloved Church stripped of its goods, sacred vessels taken away—sixty, fifteen plates, twenty boxes of Gospel books—all made of the purest gold and adorned with the most precious gems, closed his eyes exhausted by such a disaster; and this most sorrowful event hastened his death.</p>
+    <p>As a crowning touch, we offer the words of Saint Ildephonsus, who expressed the eulogy of such a great man in his book "On Illustrious Men," chapter 3:</p>
+    <break time="500ms"/>
+    <p>"Montanus, after Celsus, held the chair of the first see of the province of Carthage in the city of Toledo: a man shining with the virtue of spirit and adorned with the opportunity of eloquence, he retained and disposed the governance of honor with appropriate and heavenly law and order. He wrote two letters filled with ecclesiastical utility and discipline; one of which he is reported to have prohibited the inhabitants of Palencia with great authority, affirming with testimonies of the Holy Scriptures that it is entirely forbidden for presbyters to consecrate chrism and bishops to consecrate churches of another diocese. He also condemned and reproached the lovers of the Priscillian sect, even though they did not practice the same, because they retained the memory of it with love, recalling that in the books sent by the most blessed Bishop Thurribius to Pope Leo, the Priscillian heresy was detected, convicted, and properly remains condemned. Another letter he wrote to the religious Thurribius, in which he commends him for destroying the worship of idols and commits to him the authority of priestly vigor by which he curtails with great invective the presbyters from consecrating chrism and bishops from consecrating churches of another diocese. This man is narrated by ancient and faithful recounting to have held burning coals in his garment for so long in reproach of infamy until he completed the entire celebration of the Mass by himself before the sacred altar of his see. After the solemnities were completed, neither was the fire of the coals nor the beauty of the garment found to have been lost. Then, after giving thanks to God, the deception of the accuser and the innocence of the most blessed priest were proven by the simple nature of the fire. He was glorious during the times of King Amalaric. He held the dignity of the pontificate for nine years."</p>
+
+<break time="1s"/>
+Letter One 
+<break time="2s"/>
+
+</speak>

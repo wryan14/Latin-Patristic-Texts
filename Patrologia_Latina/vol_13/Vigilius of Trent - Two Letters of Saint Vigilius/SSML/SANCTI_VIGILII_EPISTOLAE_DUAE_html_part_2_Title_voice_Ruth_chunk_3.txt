@@ -1,0 +1,8 @@
+<speak>
+<break time="1s"/>
+Letter Two 
+<break time="500ms"/>
+On the same martyrs. Here begins the letter of Saint Vigilius on the praises of the most blessed martyrs Sisinnius, Alexander, and Martyrius, whose relics were brought by Jacob, a distinguished man, to John, the bishop of Constantinople.
+
+<break time="2s"/>
+</speak>
