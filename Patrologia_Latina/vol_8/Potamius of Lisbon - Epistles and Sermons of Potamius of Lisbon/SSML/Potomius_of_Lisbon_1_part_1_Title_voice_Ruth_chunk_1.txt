@@ -1,0 +1,16 @@
+<speak>
+<break time="1s"/>Epistles and Sermons of Potamius of Lisbon
+<break time="2s"/>
+Introduction to Potamius
+<break time="1s"/>
+In the year 366 AD, Potamius, the Bishop of Lisbon, was a significant figure in the early Christian church. His writings, including epistles and sermons, played a crucial role in the theological debates of his time, particularly concerning the nature of the Son of God.
+
+Potamius initially supported the Nicene Creed, which upheld the consubstantiality of the Son with the Father. He wrote an influential epistle to Athanasius, Bishop of Alexandria, defending this position. However, Potamius's later years saw a dramatic shift as he aligned with Arianism, a theological stance that denied the equality of the Son with the Father. This change led to his condemnation by leading church figures, including Hosius of Corduba.
+
+Among Potamius's notable works are his sermons on Lazarus and the martyrdom of the prophet Isaiah. These texts are known for their complex and obscure style, reflecting the intellectual rigor of early Christian theological discourse. Despite his controversial legacy, Potamius's writings offer valuable insights into the ecclesiastical and doctrinal conflicts of early Christianity, illustrating the intense struggle between orthodoxy and heresy. His works remain an important resource for understanding the development of early Christian theology and church history.
+
+<break time="1s"/>
+Part One 
+<break time="1s"/>
+
+</speak>

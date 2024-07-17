@@ -1,0 +1,113 @@
+<speak>
+  <p>
+    <s>
+      Although you may gather many arguments, examples, and proofs, my friend Victorinus, to show that Christ was born and not made, Arius, a sharp-minded man, along with his disciples and the distinguished Eusebius, have expressed their opinions on this matter in their letters; we now present these letters.
+    </s>
+  </p>
+  
+  <p>
+    <s>
+      Arius to Eusebius:
+    </s>
+    <s>
+      "To the most beloved master, a faithful man of God with the correct opinion. Arius, who unjustly suffers persecution from Pope Alexander, for the all-conquering truth, which you also defend, wishes you well in the Lord.
+    </s>
+    <s>
+      When my father Ammonius came to Nicomedia, it seemed fitting to greet you through him and to share with you the love and affection you have for the brethren, for the sake of the Lord and His Christ.
+    </s>
+    <s>
+      For the bishop greatly oppresses and persecutes us, and stirs up all evil against us to drive us out of the city as though we were godless men because we do not agree with his public declaration: 'The Son is unbegotten, always God, always Son, simultaneously Father, simultaneously Son, the Son is co-eternal with the Father: always begotten: God does not precede the Son in understanding, nor by any small measure: the Son is always from God, the Son of God.'
+    </s>
+    <s>
+      And because your brother Eusebius in Caesarea, and Theodotus, and Paulinus, and Athanasius and Gregory, and Aetius, and all those around the East say that God existed before the Son without beginning, they have been anathematized, except for Philogonius, Hellanicus, and Macarius, heretical men, who have not stated that the Son is either an emanation, an emission, or simultaneously unbegotten.
+    </s>
+    <s>
+      We cannot even hear their blasphemies, even if they threaten us with ten thousand deaths.
+    </s>
+    <s>
+      We, however, say and understand, and have taught and teach, that the Son is not unbegotten, nor a part of the unbegotten in any way, nor from any subject, but that He exists by will and thought before times and ages, a full God, only-begotten, and unchangeable.
+    </s>
+    <s>
+      Before He was begotten or created or defined or founded, He was not: He was not unbegotten.
+    </s>
+    <s>
+      We are persecuted because we said: the Son has a beginning, but God is without beginning.
+    </s>
+    <s>
+      Therefore, we are persecuted, and because we said He is not from the existing things.
+    </s>
+    <s>
+      We have said this, since He is not a part of God nor from any subject: therefore, we are persecuted.
+    </s>
+    <s>
+      Now you know. Strengthen yourself in the Lord, I pray, remembering our tribulations, Collucianista, truly Eusebius."
+    </s>
+    <s>
+      This is what Arius says.
+    </s>
+  </p>
+
+  <p>
+    <s>
+      And Eusebius, in a similar manner, wrote this to Paulinus:
+    </s>
+    <s>
+      "For we neither heard of two unbegottens, nor one divided into two, nor of anything corporeal that suffers, we neither say nor believe, master: but one indeed unbegotten, and one truly made by Him, and not from His substance, universal in nature of what is unbegotten, neither participating, nor from His substance: but made entirely different in nature and power, to the perfect likeness and affection and power of Him who made what was made.
+    </s>
+    <s>
+      Whose origin is not only inexpressible by words but also inconceivable to thought; not only of men but also of those above men, we believe to be totally incomprehensible.
+    </s>
+    <s>
+      And we do not read these things introducing them ourselves, but we learned them from the holy scripture.
+    </s>
+    <s>
+      We say He is created, and founded, and made in substance; and we learned He is immutable and ineffable in nature and likeness to the one who made Him:
+    </s>
+    <s>
+      As the Lord Himself says in Proverbs, chapter 8, verses 22 to 23:
+    </s>
+    <s>
+      'The Lord created me at the beginning of His work, the first of His acts of old. Ages ago I was set up, at the first, before the beginning of the earth.'
+    </s>
+    <s>
+      If He were from Him, that is, from Him as a part of His substance, He would not be said to be created or founded, nor are you ignorant of this, master.
+    </s>
+    <s>
+      Truly, what exists from the unbegotten cannot be said to be created or founded by another or by itself, from the beginning being unbegotten.
+    </s>
+    <s>
+      But if we say He is born, to mean He has some substance, as if from the paternal substance, and has the same nature as Him, we understand that it is not only He who is said to be born from Him."
+    </s>
+  </p>
+
+
+  <p>
+    <s>
+      <w>Rupture</w>, but also in different things, they are naturally alike in all things.
+    </s>
+    <s>
+      For even in humans it says, <phoneme alphabet="ipa" ph="aɪˈzeɪ.ə">Isaiah</phoneme> 1:2, <break time="0.3s"/> "I have raised sons and brought them up, but they have rebelled against me."
+    </s>
+    <s>
+      And in <phoneme alphabet="ipa" ph="ˌdjuː.təˈrɒn.ə.mi">Deuteronomy</phoneme> 32:18, <break time="0.3s"/> "You deserted the God who fathered you."
+    </s>
+    <s>
+      And elsewhere in <w>Job</w> 38:28, <break time="0.3s"/> "Who, he says, gave birth to the drops of dew?"
+    </s>
+    <s>
+      Not explaining nature from nature, but the generation of each thing that was created from his will: for nothing is from his substance; but all things were made by his will, each thing as it was brought into being.
+    </s>
+    <s>
+      And he indeed is God: some things, however, are made in his likeness through his word, to be like him; some things are made according to the participation of substance, but all things are made through him by God, and all things are from God.
+    </s>
+    <s>
+      Taking these things and destroying them according to the grace given to you divinely, take care to write to my lord Alexander.
+    </s>
+    <s>
+      For I believed that if you write to him, you would bring him to shame.
+    </s>
+    <s>
+      Greet all who are in the Lord. May divine grace keep you safe and praying for us, my lord.
+    </s>
+  </p>
+</speak>

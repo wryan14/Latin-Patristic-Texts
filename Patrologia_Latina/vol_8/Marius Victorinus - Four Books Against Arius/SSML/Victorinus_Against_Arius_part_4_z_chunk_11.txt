@@ -1,0 +1,381 @@
+<speak>
+  <p>
+    <s>
+      Does life exist as one thing, the same thing, or another thing?
+    </s>
+    <s>
+      One thing. And why do two names mean the same thing, and how?
+    </s>
+    <s>
+      Since it is one thing to be in action, another thing to be the action itself, therefore, they are different. But how are they different?
+    </s>
+  </p>
+  <p>
+    <s>
+      Since in that which lives, there is life, and in that which is life, it necessarily lives: for what lives is not without life, nor does life exist without living.
+    </s>
+    <s>
+      Hence, one thing in another, and from this, two in any one thing: and if as two, not purely as two, since one thing is in the other, and they are in each other, therefore the same.
+    </s>
+    <s>
+      But the same exists in two, and is different from itself: therefore, it is both the same and different in any one of these.
+    </s>
+    <s>
+      But if it is the same, and each is the same and one to itself; for since one exists in the other, neither is as a twin; therefore, if each is in itself and the other, it will be one in itself; but since each is one in itself, the same one is in the other: but since the same one is in the other, both are truly one: for neither is different, neither in the power of existing, nor in time, perhaps in cause, and this is prior to the other.
+    </s>
+  </p>
+  <break time="1s"/>
+  <p>
+    <s>
+      To judge this more easily, we will examine these things better.
+    </s>
+    <s>
+      Living and life are such that both living is life, and life is living; not as doubled one in the other, nor one with the other: for this is union: even if inseparably joined, it is united, not one?
+    </s>
+    <s>
+      Now indeed, with the same action, life is living, and in the same way, life is being.
+    </s>
+    <s>
+      For we speak of these two, living and life; not of that which has life and living as an effect. Although the third itself, and in that which has life, and as one from the other, yet as one both.
+    </s>
+    <s>
+      From this, it appears what each existence in its own things is worth, with the same substance remaining, they preserve their being without any innovation: for the being of life is to move: and to move is to live.
+    </s>
+    <s>
+      Therefore, being and living is, and being life: therefore, one and the same substance: for to each, in that it is, its being is substance.
+    </s>
+    <s>
+      Indeed, in the higher and eternal, that is, in the intelligible and intellectual, nothing is accidental, nothing is quality, nothing is twin, nor with another, but all are living, intelligent substances, pure, simple, of one kind, by the same they exist and live, and understand; and by the same they understand, they are.
+    </s>
+    <s>
+      Therefore, living and life is one substance.
+    </s>
+  </p>
+  <break time="1s"/>
+  <p>
+    <s>
+      But since the intellect reveals itself, and speech proceeds, so that in living there is life; and in life, there is life because it lives: it must be seen and examined with careful reasoning whether this natural composition and twin mode of existence is pure simplicity or one, or two.
+    </s>
+    <s>
+      If it makes no difference, living and life are the same; and being life, the force contains living; rightly and deservedly we will say that these are one, not a twin union for the existence of itself.
+    </s>
+    <s>
+      But if firstly, living is one thing, being life is another.
+    </s>
+    <s>
+      And likewise, if there is a difference, as now life is the cause for living, now living is the cause that life exists: these are two, but twin in themselves, and simply united: for divine reason and power relate these twins, as of the same nature and power, one from which the other is.
+    </s>
+    <s>
+      Yet there is some difference, however small, hence it is not a twin in vain.
+    </s>
+    <s>
+      For action and acting are not the same, nor power and operation, nor, to speak more truly, the cause is not the same as the effect: for the former is the origin, the latter is the birth.
+    </s>
+    <s>
+      Hence, since these two, living and life, are action and acting, although they are together in themselves, yet they must be considered of different force and nature, so that one is the cause of the other, the other is the effect.
+    </s>
+    <s>
+      But as I understand, and the approved opinion is, that in the principal and natural origin of the first divinity, first is living, secondly is life; thus reason will teach, and truth will approve; living becomes the cause, and the effect of living is life, which however is itself living and life: for both are together, and always were known together.
+    </s>
+  </p>
+
+
+  <p>
+    To the second and third, or whatever follows, which live by an ordered cause and principle, so that life and living are the same and simultaneous; but this living, according to life, is life when it exists. The first and primary living is both the cause of life, the fountain, and the origin of the living.
+  </p>
+  <p>
+    I know this may seem obscure, not so much in the matters, but in the repetition of the same words, because these two are connected in such a way that when life exists, living also exists, and when living exists, life also exists. Hence, when either one is established, the doubling of the other will seem unnecessary.
+  </p>
+  <p>
+    <s>Listen, reader, listen to what will amaze you, reader: these things, so difficult, so convoluted, so closed in the treatment of God and divine matters, we will open with simple discussion.</s> <s>We all certainly admit God, Almighty God, God above all, God before all, God from whom all things come.</s> <s>When we admit this, we also undoubtedly confess that He exists.</s> <s>What do we believe this existence to be? What do we think?</s> <break time="500ms"/> <s>(John 4:24) "God is Spirit," he says, "light; and the true light is God."</s> <s>What do we believe this to be, that is called spirit?</s> <s>We are compelled to understand spirit as a certain existing, living, and intelligent substance: indeed, in the highest places and around God, it is almost humble and alien; and in later times, the name does not seem to fit the substance.</s> <s>But why should we avoid this word?</s>
+  </p>
+  <p>
+    Since existence is to any being that which is its substance. And in Jeremiah, God speaking says, "If you had stood in my substance, you would have seen my word." <break time="500ms"/> <s>So also not long after, and in many other places.</s> <s>Therefore, spirit is substance, that is, its existence:</s> <s>let us gather then according to John (John 4:24): "God is Spirit; and those who worship him must worship in spirit and truth."</s> <s>God, he says, is spirit, this is the essence of God, which is existence:</s> <s>therefore, the substance of God is spirit, the same substance, that is, which is living:</s> <s>not that substance is one thing and living another, but the living itself is the substance itself.</s> 
+  </p>
+  <p>
+    For if it is said by the same (John 6:63): "It is the Spirit that gives life," certainly it is the one who gives life, who lives, and is the power of life: therefore the spirit lives, God lives. <break time="500ms"/> <s>Moreover, because He lives, as we said above, and is life, therefore Spirit and life are the same, as John also says: "The Spirit is life"; therefore God, when He is Spirit, both lives and is life.</s> <s>Paul also to the Romans (Romans 8:1-2): "There is therefore now no condemnation for those who are in Christ Jesus, who do not walk according to the flesh: For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death."</s> <s>He says Spirit of life, for these three are spirit: God, Jesus, the Holy Spirit.</s>
+  </p>
+  <p>
+    And concerning God, I think it has been proven that He is spirit: and that spirit lives, gives life, and is life substantially, so that these things are understood, and that it is a simple and single substance, so that to be spirit is to live, and to be life. <break time="500ms"/> <s>But not this living which is ours, or of animals, or of elements, or of those created from elements, or of the world, or of all in the world, or of angels, demons, or even those whom they call gods in the world: no, I say, that living is not in God.</s> <s>God is what it is to live to the soul, or to each one, or to that universal and fountain-like one; not as it is for angels, not as it is for thrones, glories or others existing in the eternal, or in the intellectual, or intellects:</s> <s>but that living, from which these receive life and live according to their own kind of existence, in a certain way progressing, and these as they can receive the power of living vigor, from itself to itself, through itself, in itself alone simple, pure without any beginning of existence from which it is diffused, or progressed, or born the principle through which the living of others would be created.</s>
+  </p>
+  <p>
+    For living begets life; for by natural power the actor is prior to the action: for the agent begets the action, and as it were gives the word and the thing from itself, it receives itself. This, when right, is also very true by reason: certainly God, to whom this name God fits for omnipotence and principal summity: God, I say, first, if something is to be said about the works of God.
+  </p>
+
+
+  <p>
+    First, the intelligence of the human mind, as it exercises itself and understands things, attributes time to things either existing together, fused together, or arising together, and to different origins. God, I say, first brought forth the existences and substances of universals. Plato calls these ideas, the principal forms of all existing species; for example, being, life, intelligence. And likewise, thisness and otherness, and other such kinds: thus, the genera of genera are poured out, being universally the principal powers of all powers.
+  </p>
+  <p>
+    Therefore, being, that is, existence or essence; or life, that is, vitality, the first universal power of life, the first source of all living. Likewise, intelligence, the power of understanding, virtue, power, substance, or nature: these three are to be understood as individual, but they are named and said to exist so much as they are in their fullness. For nothing of these is not threefold: for to be, if it lives, is to be in life. But to live is not to live without having intelligence: thus, mixed and as it is a thing, simple in threefold simplicity.
+  </p>
+  <p>
+    For whatever is this in itself, and is another, is not to be called twin at times, but always one.
+  </p>
+  <p>
+    But more on these things elsewhere. Therefore, God is living, which is highest, first, fountain-like, primarily principal. He produced these three by His work of living, that they might exist. These thus came about by His work, and this is the offspring, this is the generation, that from the acting comes the act; from what is essence or being, from the living comes vitality or life, from the intelligent comes intelligence, the universal intelligence of universal intelligences.
+  </p>
+  <p>
+    Therefore, living is prior to life: although in what is living, life is; but living is the parent of life, and life is the offspring, being generated by the living. Therefore, God is living, that first living from Himself, living before all living, and before the very living of life: acting and always acting, and acting from no beginning, not acting from action, lest action or the appearance of a principle be to the agent, but that action be either produced or exists or is poured out by the work of the agent. This indeed we place in living: therefore, God is living, and principal living, but life as generated. Living therefore is the father, life the son.
+  </p>
+  <p>
+    For what was made in Him is life, and the Son himself says (John 14:6): I am the way, I am the truth, I am the life. This life is what arose from the Father who lives, and this is that (John 16:27): For I came out from God. Likewise, He says of Himself (John 7:37-38): If anyone is thirsty, let him come to me and drink; whoever believes in me, as Scripture has said, rivers of living water will flow from within them. Hence also what He replied to the Samaritan woman (John 4:10): If you knew the gift of God, and who it is that says to you, 'Give me a drink,' you would have asked Him, and He would have given you living water. Likewise, later (John 4:13): Everyone who drinks this water will be thirsty again. Samaritan water is mundane, the soul (John 4:14): But whoever drinks the water I give them will never thirst again, but the water I give them will become in them a spring of water welling up to eternal life.
+  </p>
+  <p>
+    By these and countless other examples, it becomes clear enough that Christ, the Son of God, is life and eternal life: indeed, He Himself is Spirit like the Father. (John 3:6): For what is born of the Spirit is spirit: the Spirit breathes, and breathes from Himself: to breathe is to live. Moreover, what breathes from itself, lives from itself: what lives from itself, lives from eternity and into eternity: for it never abandons itself, which is its cause, so that it is what it exists.
+  </p>
+  <p>
+    Therefore, since the Father is what is living, as we have taught above, and living is to be life, likewise what is life is what is generated from what is living, necessarily what is life is what is living: for life lives because it is life, and is life from itself: for from itself it has living: however, from that first, which is primarily living, which is the Father, where and whence it exists.
+  </p>
+
+
+<p>
+Life, which includes both living and living from itself, which we prove, understand, and confess to be Jesus Christ, the Son.
+</p>
+
+<p>
+All these things which I have said, let us see how they are signified and asserted in the Gospel according to John through the very words of the Savior. 
+<s>In the book of John, chapter six, verse fifty-eight: <break time="500ms"/> "The living Father sent me, and I live because of the Father."</s> 
+<s>And so that no one might believe that Christ in the flesh said this, he immediately added in verse fifty-nine: <break time="500ms"/> "This is the bread that came down from heaven."</s> 
+<s>Then he testifies and teaches that he is life and eternal life:</s> 
+<s>In verses fifty-four and fifty-five: <break time="500ms"/> "Unless you receive the body of the Son of Man, as the bread of life, and drink his blood, you will not have life in you; but whoever eats his flesh and drinks his blood has eternal life."</s>
+</p>
+
+<p>
+<s>Therefore, everything that Christ is, is eternal life, whether spirit, soul, or flesh: for he is the Word of all these things. The principal Word is life: therefore, even those things which he assumes are life; hence these will also earn us eternal life through the Spirit which Christ gives us, having made these spiritual things.</s>
+<s>And so that no one might believe that Christ spoke these things about the fleshly Christ, and not about his whole self, who is Spirit, soul, and flesh, what does he say? In verse sixty-three: <break time="500ms"/> "What if you see the Son of Man ascending?"</s>
+<s>Who is the Son of Man? Spirit, soul, flesh: for he had these when he ascended, and with these he ascended.</s>
+<s>What then does he add? That the spirit might be understood: <break time="500ms"/> "Where he first was: this is, spirit: and life, which is the Father, which is God, from whom these are consubstantial, that is, of the same substance, never existing outside of themselves, primarily principal, one and the same substance, with equal power, the same majesty, virtue, none before the other, except that one is the cause of the other, and therefore the other; but the same other truly because the same one God; because truly the other, therefore first and second; and because one is the cause of the other, therefore father, which is the cause: and indeed that which is from the other, son: in substance truly no difference, no separation in time, no distinction; one motion, one will, and sometimes the appearance of another will, but always the same."</s>
+</p>
+
+<p>
+Let us first teach these things to be so by sacred reading, then, as order demands, as necessity requires, and let us consider in those who have one and the same substance, why one bears the power of the sender, the other of the sent: one of the commander, the other of the minister: one free from the passions in the action of moving, the other through infinite acts in creating worlds infinitely, and in those things which are in the worlds, subjected to countless passions up to death.
+</p>
+
+<p>
+The first lives, lives from itself, lives eternally, and this is God. What lives itself, as I have taught, has the power of existence or substance, and the nature of life and intelligence: indeed, in that which is being, this is what we call living, and this is understanding, and this is God: therefore, what it is for God to be, is the cause of existence and father. And since in his own being there is life for him, and in that also knowledge of who he is, and he is the source of universal life and intelligence.
+</p>
+
+<p>
+For of these three things which are in simple existence in God, or which are God, more being is God: what has from itself to live, and to be life, or to understand, and to be intelligence, as I have taught above, and in many other places. So that now we may take the remaining two, I mean life and intelligence, as generated from that which is being, having their being from that which is first moved to be, having received the power and name of life and intelligence from the prior existence. For in the three things all are named in a certain order: not that there are not three in each of the three, but that by movement they accomplish what they are said to be: for being is the first movement, which when it ceases is called movement, the same inner movement: for when it operates for itself to exist, it is rightly called both inner movement and ceasing movement.
+</p>
+
+<p>
+Hence we call movement what is lives and living: now indeed when from that which is lives and living formed and generated in a certain manner in the form of the habit of that which is lives and living the form is formed, this is called life, this is called son. So that as
+</p>
+
+
+    But wherever it may be, whether placed there where it is, or elsewhere, it leads us to know Him whose it is. Thus, life makes us know what it means to live, for living is an act. In action, at every moment, it is a course. Therefore, it is said in the Gospel according to John: <break time="250ms"/> <lang xml:lang="en-US">No one has ever seen God.</lang> <break time="250ms"/> For who can see living, which God is, without the life which comes together and exists in a certain form through actions, so that it is the form of the living being? Therefore, the form of what it is to live is life, through which, or in which, what is, lives and seems to live, is received and recognized. This is signified by the saying of the Savior from the Father: <break time="250ms"/> <lang xml:lang="en-US">Whoever has seen me has seen the Father.</lang> <break time="250ms"/> For the Son of God is the form of God, that is, life, which is the form of the living. 
+
+    For it was said by Paul to the Philippians: <break time="250ms"/> <lang xml:lang="en-US">Who, being in the form of God, did not consider it robbery to be equal with God.</lang> <break time="250ms"/> Likewise to the Colossians: <break time="250ms"/> <lang xml:lang="en-US">Who is the image of the invisible God.</lang> <break time="250ms"/> Therefore, Jesus Christ is both the image and form of God. We have also said that in the form is seen that of which it is the form, and in the same way, in the image is seen he whose image it is, especially if he whose image it is, is invisible, as it is said: <break time="250ms"/> <lang xml:lang="en-US">The image of the invisible God.</lang> <break time="250ms"/> In the same way, it is said in the Gospel according to John: <break time="250ms"/> <lang xml:lang="en-US">No one has ever seen God, except the only begotten Son, who is in the bosom of the Father.</lang> <break time="250ms"/> And also thus it was said to Moses in Exodus: <break time="250ms"/> <lang xml:lang="en-US">You cannot see my face; for no one can see my face and live.</lang> <break time="250ms"/> However, he allowed his back to be seen, that is, below, and other parts besides the face.
+
+    <break time="500ms"/>
+
+    IX. How many mysteries are here? How many types of questions? How many signs to declare both God and Jesus Christ, that there is substance, and that both are one substance, and that both together are one substance, and that the substance is from the Father to the Son? All these, and other such things, can in no way be explained, understood, and approved unless the previous discussion shines forth with clear perceptions. Therefore, let us have a fixed belief that God is spirit, and the spirit from which both the Son is spirit, and the Holy Spirit is spirit, as it is said in John: <break time="250ms"/> <lang xml:lang="en-US">That which is born of the spirit is spirit.</lang> <break time="250ms"/> And also in John: <break time="250ms"/> <lang xml:lang="en-US">The spirit gives life.</lang> <break time="250ms"/> What gives life, indeed, lives itself. What lives, because it is spirit, lives from itself. What lives from itself, this itself is what lives. And because what lives from itself, since it is itself what lives, it has nothing else that is called living. For it is not made alive, but it lives itself, exists living or to live. Because it lives, and to live is to act, in that it lives from itself, it never began. For it did not wait for another, nor did it ever abandon itself, nor will it ever abandon itself. Therefore, it lives from eternity and to eternity, the principal and universal substance of living. Not so that it is a substance, and thus living, but that which is living itself, this itself is substance. For when it is living itself, and lives, and is understood to be living, and in some way to be, its being itself is not its own, that is substance. This is also called spirit in all sacred reading and the words of things themselves.
+
+    <break time="500ms"/>
+
+    X. But the spirit breathes, and breathes from itself, and God is spirit. Indeed, it breathes, that is, it lives. Therefore, the spirit, who is God, lives from itself and always. It lives, I say, and in the act of living, and in the very work of life when it lives, it works life. Therefore, eternal life is born from the living God, it is generated, and because it lives, it is substance itself. And what is from Him who lives, and life itself is substance, by the same equal and together, because life itself exists by living so that it is life. Therefore, to live is spirit, and the spirit is life. It encompasses both, and is in both, and neither is as a twin and adjunct, but with the simplicity of existence from itself and in itself, as of another substance duplicated, never separated from itself, because in each it is a twin. For indeed, to live is with life, and life again is with that which is to live. But to live, as we have taught, is God, life is Christ. And because to live is the generator of life, for in the act, which is to live, as a certain offspring life is generated, to live becomes the Father, the Son life, in this way indeed, the one is the other, therefore two.
+
+
+    Where do two come from, except
+    one from the other? And that which comes from the other is always a son,
+    but that from which the other comes is a father. But now,
+    the other is not separate and distinct, but
+    only different in that it is made and being made,
+    and generating and being generated, with both united as one in substance,
+    since living is life and life itself is living: hence the father and the son are one God.
+    And because the natural conversion of existence is only one:
+    just as living is in life, and life is in living; the conversion is one and the same.
+    Wherefore, since living is in what life is,
+    the only begotten son is consubstantial with the father, one son, one father.
+    Hence, one and the same substance,
+    simultaneously and always: This is indeed of the same substance, having the same substance together,
+    and equal power and strength of existing, the same nature of substance, with no preceding time;
+    which we call consubstantial, with the causal prior being living, to what is life, as that which generates and is father,
+    and that which is generated and is son, both to be, and to be called being.
+    Therefore, because they are within each other, and even though the father exists, the son does not:
+    and likewise, when the son exists,
+    the father, of whom the son is, does not; yet by the force of things and the equality of substance,
+    since living is life and life is one, it was rightly pronounced by the divine voice of the Savior (John 16:10, 11):
+    And I am in the Father, and the Father is in me. Hence also this (John 10:30):
+    I and the Father are one: for
+    when guided by the force and nature of things, everything is nothing if it does not live, and being devoid of vital motion,
+    neither matter nor the image or appearance of existence is believed to have form:
+    for the slippery and inconsistent force of flowing and ebbing nature does not receive subsistence,
+    nor does it take form, to be said to be something.
+    Therefore, lacking that which is something to be, even
+    it holds its own being, so that it is rightly said not to be in any way.
+    But now, comprehended and whole, and circumscribed in parts,
+    and formed, and embodied in this, and seized by some form to be and believed to be: because
+    with vital motion, and enclosed by definite lines from the infinite, it is brought into certain senses.
+    Therefore, the hylic things, to appear to be, are made by the vital force and power,
+    which flowing from that logos which is life, which we call
+    the son, through Archangels, Angels, Thrones, Glories,
+    and other things above the world, first into bodies,
+    and courtyards, running and flowing in their pure and natural substance,
+    experiences its light with greater communion, soon coming gradually into the soul and the source of the soul.
+    Because the soul is the image of the logos, it receives a greater flow
+    as if by some knowledge. And because it hastens to animate the soul,
+    its desire to animate it becomes more eager.
+    Hence, immersed in matter, and entangled in worldly elements, and finally in the bonds of the flesh, mixing itself with corruption and death itself,
+    it provides an idol of living to the dregs of matter. Therefore, all earthly, humid,
+    airy, fiery, ethereal, heavenly things live, not by that previous logos, nor by the full light of life, but because of the hylic connection
+    wounded by the vital light, they live above the celestial things,
+    and live more, those which have withdrawn from matter and bodily bonds, such as purer souls, Thrones,
+    and Glories; likewise Angels and the Spirits themselves, some having life in another,
+    that is, in their own substance: others are life itself: Jesus Christ, and the Holy Spirit:
+    for we will soon teach about this: together with God, but life from God,
+    but they live with universal life, and live from themselves, and have not what they live in another,
+    but their very being is to live and to be life,
+    and to be knowledge given by the father, that is, primarily
+    existing as that which is living. Therefore,
+    all these enumerated things live, and nothing exists either in eternal, worldly, or hylic things, which does not live according to its nature:
+    it must be confessed that there is some force or power
+    by which all things are made alive, and are raised up into vital spirits, so that from this they live, and because they live, they have been given existence.
+
+
+    <p>
+        Three times the vital spirit breathes into mortals, by which all things thrive, subsist, take their own actions, are generated, and will be generated. <break time="500ms"/> God, without doubt, God, whom our mind reveres as the father of life and the divine essence of living. <break time="500ms"/> We will call Him the power of life, as we have said elsewhere, or the highest and principal life, and generally the universal origin, cause, head, and fountain of all living beings: the principle of existing things, the father of substances, who grants existence to others from His own being, according to the capacity and nature of those receiving the power of life and substance, He governs. <break time="500ms"/>
+    </p>
+    <p>
+        What is He, or in what is He? Indeed, He is alive and true: One, as He allows us to speak of Him: He lives, and lives from eternity and into eternity, having from Himself that very thing which is His substance: He lives; for no action could or should be added to Him, so that He might be less than Himself at times: but always perfect, full, and whole, in what it is to be Him, it is also to be thus: the rest are after God, and are powers, and actions of power, which by their own strength are believed to exist, so that all things seem to both be and have what they possess in their mature processes of existence in their work here: however, they are called actions when they generate existing processes and bring forth what they can be. <break time="500ms"/> Like a seed is already a potential, and a stalk, and leaves; or the outpouring of male or female desire; but these are in the world and under the moon: above, however, in the ether and the heavens, they are actions, and live by actions, but also generated as what they were to become: for from their origin, released into their own proper operations, they run through their acts by the contagion of containing nature. <break time="1s"/>
+    </p>
+    <p>
+        If these things in the world are actions, how much more are those things in the eternal and above the celestial realms actions, and actions that generated these worldly things? Also both the soul and Angels from souls, and above souls. <break time="500ms"/> For the soul is also <phoneme alphabet="ipa" ph="autogónō">αὐτογόνῳ</phoneme>, that is, borne by its own and from itself, motion, it is called <phoneme alphabet="ipa" ph="autokínetos">αὐτοκίνητος</phoneme>, hence <phoneme alphabet="ipa" ph="akínetos">ἀκίνητος</phoneme>: therefore it is always in motion, which is always to act, and to be itself <phoneme alphabet="ipa" ph="enérgeian">`ενέργειαν</phoneme>, so that its substance is that motion. <break time="500ms"/> For it is said in the book of Genesis, "Let us make man in our image and likeness." <break time="500ms"/> Therefore, it has <phoneme alphabet="ipa" ph="autógonon kínēsin">αὐτόγονον κίνησιν</phoneme>, that is, motion originated from itself, as it is to God, as to Christ. <break time="500ms"/> But since it is not that primary spirit, therefore another substance, and created, not existing from itself, but made to have motion from itself: for the soul is one thing, life is another: life is the habit of living, and as it were a certain form, or state generated by living, containing within itself living itself, and that being which is life, both being one substance: for truly one is not in the other, but one in its simple duality; and therefore in itself, because it is from itself; and hence from itself, because it operates another thing in the seventh simplicity: rest indeed generates nothing; motion and the operation of acting form from itself what it is, or rather how it is: for to be, is to live: to be life, however, is a certain motion, that is, the form of the living, completed by that very thing to which it is a form: but that which completes, that is, to live: because it never began: for what lives from itself does not begin, because it always lives, whence neither does life begin: for the one completing without a beginning, and that which is completed lacks a beginning. <break time="500ms"/> Therefore, simultaneously both and consubstantial. <break time="500ms"/> To live, however, is God, life is Christ: and in what it is to live, it is life, and in what it is life, it is to live. <break time="500ms"/> In this way indeed one in the other, because one completes and the other completes one in the other. <break time="500ms"/> As the one completing in the completed, so the completed in the completing, especially if these are always: therefore both the father in the son, and the son in the father: for indeed the one completing and the completed completing, and the completed by the completing completed; therefore one substance, not one in two, and in one two; but because in which God, in the same the son, that is of such a kind: for as God lives, so the son lives: in what kind of substance the father, in such the son. <break time="1s"/>
+    </p>
+    <p>
+        But if the father lives, they say, the son also lives, and therefore both in the same and such substance. The substance of this lives, with both being,
+    </p>
+
+
+    <p>Both went without a beginning; both are eternal. But this is excluded by the sacred words of the Evangelist, with the Son himself speaking, our Lord Jesus Christ:</p>
+    <s>"The Father lives" <break time="500ms"/> <phoneme alphabet="ipa" ph="dʒɑn">John</phoneme> 6:58.</s>
+    <p>This source is without a beginning. But where does it originate from?</p>
+    <s>"And I," he says, "live because of the Father." So if because of the Father, he received from the Father; and if he received, he is begotten from the unbegotten. And if he lives, his existence is certain, and the power of substance in both lives in the same way, the same for the Father and the Son, but the Son's substance is from the Father.</s>
+    <s>For what is born of the Spirit is spirit <break time="500ms"/> <phoneme alphabet="ipa" ph="dʒɑn">John</phoneme> 3:6.</s>
+    <p>Therefore, from such a substance of the Father, such is the substance of the Son. And to show more clearly that the substance is given from the Father and the same one substance, it is said that he lives, and life is substance. Therefore, the same substance for God, and from God to Christ the Son.</p>
+    <s>As the Evangelist says: "Just as God has life in himself, so he has granted the Son to have life in himself" <break time="500ms"/> <phoneme alphabet="ipa" ph="dʒɑn">John</phoneme> 5:26.</s>
+    <p>Therefore, Christ is of the same substance with God, that is, consubstantial, which means of the same substance, that is, the first, principal, universal substance, from which everything that exists and lives has life injected, that is, not born from itself, nor is its living from itself, which belongs to God and the Son.</p>
+    <s>As much as life is given to all others, Christ bestows. Living in God is as the primary, producing life from one and the same source of existence, with no precedence in time or power, concerning substance.</s>
+    <s>Hence, whether we take this to mean consubstantial, that the substance is the same, there is no doubt that it is the same, because he who lives is already life, which is God: and he who is life, lives, which is Christ. And for both, life is from themselves, as it is said: "Just as the Father has life in himself, so he has granted the Son to have life in himself."</s>
+    <p>If we take consubstantial to mean what it is, being of the same substance, it is more easily and clearly proven what we said about the Father or the Son. For living and life are so simultaneous and always together, that in the act of living, there is life:</p>
+    <s>and again, life is present in the act of living.</s>
+    <p>Let us take an example: although what I am saying is more the reality itself, not an example. We have said that God is nothing other than living, but the principal, from which all living of all others originates, their very action in acting existing, and in this kind of movement having its being, which is either existence, or having its own substance. Although not even having, but existing itself, which is primarily and universally living.</p>
+    <s>That which is produced from this act, and as its form, is life. For just as eternity is produced by the ever-present act of all things, so life is produced by the ever-present act of living.</s>
+    <p>And to imagine it this way, vitality is, as life’s form is generated for its power and substance. But our living also consists of the ever-present time. For we do not live the past, nor do we live the future, but we always use the present.</p>
+    <s>This is the only time that, because it is the only time, is said to be the image of eternity. For just as eternity always has everything in the present, and always these things. We too, because we have everything we can have through the present time, therefore this time of ours is an image of eternity, because our present is not the same, nor the same always present.</s>
+    <p>Thus life is produced by living, and is formed simultaneously by existing: and formation is an appearance; the appearance, however, arises from the hidden, and from the hidden arises and is born, even before it existed. Hence in living life, before life; yet life is later, because life is through living, and always and eternally life: because in what is, lives, and from eternity lives, is life.</p>
+    <p>Since therefore God lives, Christ is life, because life arises existing from that which also lives; necessarily the Father lives, the Son is life, as we taught above, so that in what is, lives, life is: and in life there is living. Therefore the Son is consubstantial with the Father, as we taught above with examples.</p>
+    <s>Now it follows that...</s>
+
+
+  <p>
+    Let this be with the Holy Spirit explained. About God, these things have been said and proven: God is what it is to be, the Spirit is what it is to live. Also, light is what it is to be intelligence and knowledge. Indeed, light allows nothing hidden, nothing obscure; it opens, illuminates, enlightens.
+  </p>
+
+  <p>
+    Therefore, God is that very thing which is God, which is to be, which is the first and principal being of all that exists, providing being according to the capacity of those perceiving, as we have previously taught. This is, that is, to live, this is to understand, which is to be, which is spirit, which is light. These things are indeed in one and simple, or rather one and simple. These are what it is to be, this we rightly call existence or substance. <break time="500ms"/> But since the principal of these is that which is to be; while the other two, to live and to understand, are understood to be movements, since all movement arises from rest. Rest is what it is to be; from that which is to be, movement arises, and then action: the movement of that first which is to be, is to live and to understand. <break time="500ms"/> Both are indeed movements, and one movement, providing two powers with a twin function, one and the same substance. For substance is movement for them: for in them, being is not different from moving. Similarly, living is not different from understanding as far as substance is concerned. For it belongs to the living to understand, and to the understanding to live, turning upon itself by one movement: yet so that while the work and act of living remains, the act of intelligence is stirred: <break time="500ms"/> whence since Christ is life, the Holy Spirit is knowledge and intelligence: yet all things the Holy Spirit has, He received from Christ, Christ from the Father, that is, from Him who is to be; there is life, and living is knowledge and understanding: nor then, when that first being is such, that when being is, moving is also.
+  </p>
+
+  <p>
+    Although it is called rest, it is moved inwardly by the movement by which it lives for itself and understands itself. Therefore, from the internal movement, external movement is born, from that which is inward being, and from that which is inward living, external living, from that which is inward understanding; external understanding, with life and intelligence moving themselves. For movements are in the same way existing together, which is to be, so that it is both inward and outward, this Trinity inwardly, with God one and only outwardly, with Jesus Christ inwardly and outwardly, with both being one God, and from them, God being consubstantial with Christ, necessarily Christ is consubstantial with the Holy Spirit, and thus through Christ with God: He himself also came forth from God. For if every motion that is external is from God's internal motion, thus too this is from God. Indeed, knowledge and intelligence are the existence and power of each's knowing; and this itself is movement, by this very movement of substance: necessarily therefore in Christ, or Christ is, and has all things from Him, because from life which is Christ, intelligence has stood, and therefore another. This indeed is said: And He will take what is Mine (John 16:14, 15). But He also has from Me, they are two: therefore one and another: <break time="500ms"/> But since the Spirit Himself is motion, and Christ is motion, and since true life is Christ, and He gives true life to those who believe in Him, that is eternal, and is with God for those who believe in Him, that He is the Son of God, and that through faith: therefore through Christ we are reconciled to God; indeed, because of humans' buried memory of themselves and God, there is need for the Holy Spirit if knowledge approaches: And to understand what is the width and length and depth and height (Ephesians 3:18); and if love and faith in Christ are confirmed through the Holy Spirit, because it is knowledge, he will be saved: for He fully testifies about Christ, and teaches all things, and is the inner power of Christ, granting knowledge and advancing towards salvation, hence another Paraclete. Indeed, for those dead through sins, life had first to be given, that they might be raised to God through faith, which was already to live from the life of God brought by Christ in the flesh, so that He might also aid the flesh. Therefore, for men confirmed through faith in Christ the Son of God, knowledge also seems to be given, both about Christ and thus about God.
+  </p>
+
+
+    <p>
+        <s>
+            To rebuke the world. When they understood these things, they were more easily freed by the light of God, through the understanding of their human and divine nature, from contempt for earthly and worldly things, and by the desire that knowledge of divine things excites.
+        </s>
+    </p>
+    <p>
+        <s>
+            Therefore, faith comes later, that is, the later faith works: for when Christ, who had sown faith through miracles and teachings, that he himself was the Son of God and would give life to those who believed in him, had departed, all things were completed by the Spirit, and faith grew in knowledge of Christ, and with Christ always present.
+        </s>
+        <s>
+            For he said: For he will not speak on his own, but whatever he hears he will speak, and he will declare to you the things that are to come: he will glorify me, for he will take from what is mine <phoneme alphabet="ipa" ph="ʤɑn">John</phoneme> 16:13, 14.
+        </s>
+        <s>
+            Therefore, from life comes understanding, and this life comes from living, that is, from the Father to the Son, from the Son to the Holy Spirit; for he added: All things that the Father has are mine <phoneme alphabet="ipa" ph="ʤɑn">John</phoneme> 16:15.
+        </s>
+    </p>
+    <p>
+        <s>
+            For this reason, he said, they are mine, because what the Father has belongs to the Son, to be, to live, to understand: these same things the Spirit has, all things therefore are of the same substance.
+        </s>
+        <s>
+            Yet to show his presence always, he speaks according to Matthew: Go and teach all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you, and behold I am with you always, to the end of the age <phoneme alphabet="ipa" ph="mæθju">Matthew</phoneme> 28:19, 20.
+        </s>
+    </p>
+    <p>
+        <s>
+            From this it is shown in a way that the same Jesus, the same Holy Spirit, though their actions are different, as he teaches understanding, the other gives life.
+        </s>
+        <s>
+            For indeed it is the same motion and the first motion: by which it happens, that he who lives truly lives, and understands, and truly understands, who truly understands, truly lives.
+        </s>
+    </p>
+    <p>
+        <s>
+            And to manifest that Jesus and the Holy Spirit are the same, let us consider this: namely the Holy Spirit is doctrine, understanding, and wisdom itself, and wisdom is given to Christ and to God: and this is called Christ, which is the Gospel, that Christ is the Son of God, which the Gospel defines as the power and wisdom of God, as Paul to the Romans <phoneme alphabet="ipa" ph="rɔmənz">Romans</phoneme> 1:16.
+        </s>
+        <s>
+            Also Solomon: All wisdom is from God, and has been with him always, before the ages <phoneme alphabet="ipa" ph="ekəˈlɛsɪæstɪkəs">Ecclesiasticus</phoneme> 1:1.
+        </s>
+    </p>
+    <p>
+        <s>
+            Behold the same substance appears with wisdom and is given by God, and from God, indeed to Christ and the Holy Spirit.
+        </s>
+        <s>
+            And when it is said that it has always been with God, that the same substance is manifest, together with the Father.
+        </s>
+        <s>
+            Then when it is said, before the ages, not therefore when in the flesh, then Christ.
+        </s>
+        <s>
+            Also the first of all created is wisdom <phoneme alphabet="ipa" ph="ekəˈlɛsɪæstɪkəs">Ecclesiasticus</phoneme> 1:4.
+        </s>
+        <s>
+            If the firstborn is Christ, wisdom is Christ. 
+        </s>
+        <s>
+            Then what follows, the Holy Spirit: and the understanding of prudence from the ages.
+        </s>
+    </p>
+    <p>
+        <s>
+            If the Holy Spirit is prudence, and understanding; if knowledge and doctrine. Christ is without a doubt, for he himself is from the ages, that is, from eternity, and the firstborn, and more importantly, the only begotten.
+        </s>
+        <s>
+            These and other things treated in many books by me prove the same substance not only of God and Christ, but also of the Holy Spirit.
+        </s>
+        <s>
+            Therefore, let us give or accept that God is that which is the first and principal living, which is the true and principal being: for it is not, which does not live: this very living we have shown to be the operation itself, and generating life.
+        </s>
+    </p>
+    <p>
+        <s>
+            In what is life, there is knowledge and understanding: therefore God lives, and by living God is life, and with life there is understanding.
+        </s>
+        <s>
+            But these three as one and simple, and in it as the principal thing, that is, this is what being more exists principally, God lives, necessarily and understanding himself.
+        </s>
+        <s>
+            For from this he understands all things, because he understands himself.
+        </s>
+        <s>
+            He is the cause of all existences, and therefore all things: therefore life and understanding accepted in that which is being within, always operate, which is living.
+        </s>
+        <s>
+            To live for God is therefore to exist. Therefore, all things, one and omnipotent God is.
+        </s>
+        <s>
+            What then? if he operates within himself, or rather himself with life and understanding? How do these things appear as if outside?
+        </s>
+    </p>
+
+
+  <p>
+    Can they do this? And what is inside or outside the being or the word? Philosophers and learned men have asked what they are and where they are. What they are, their substance or existence, let us explain: where they are, whether inside or outside, and in all other things, whether in both and everywhere.
+  </p></speak>

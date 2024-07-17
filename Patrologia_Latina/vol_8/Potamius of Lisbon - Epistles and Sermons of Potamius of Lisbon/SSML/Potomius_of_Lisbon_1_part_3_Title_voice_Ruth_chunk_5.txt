@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>
+Part Three
+<break time="1s"/>Letter from Potamius to Athanasius Condemning Arianism (Post-Council of Ariminum)
+<break time="2s"/>
+</speak>
