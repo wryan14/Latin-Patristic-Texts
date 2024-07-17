@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/> LETTER TO MARIUS VICTORINUS THE RHETORICIAN
+<break time="500ms"/>
+From Candidus the Arian
+<break time="2s"/>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+<break time="1s"/>Four Books Against Arius
+<break time="500ms"/>by Marius Victorinus
+<break time="2s"/>
+Book One 
+<break time="2s"/>
+</speak>
