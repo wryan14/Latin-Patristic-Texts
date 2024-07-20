@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Chapter Eleven 
+<break time="500ms"/>
+    Through the Spirit of God, we understand secrets. 
+<break time="1s"/>
+</speak>

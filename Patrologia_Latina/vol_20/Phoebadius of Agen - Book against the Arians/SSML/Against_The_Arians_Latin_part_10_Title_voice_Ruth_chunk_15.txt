@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>Chapter Eight <break time="500ms"/>
+    <p>The objections of the heretics are resolved.</p> 
+    <break time="1s"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>Chapter Eighteen <break time="500ms"/>
+    The Son of God, maintaining unity with the Father, carried man on earth and was not absent from heaven.
+    <break time="500ms"/>
+</speak>

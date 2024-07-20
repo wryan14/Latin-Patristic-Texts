@@ -1,0 +1,8 @@
+<speak>
+<break time="1s"/>Chapter Twelve 
+<break time="500ms"/>
+    <p>
+        <s>Bad teachers: what they think and how they fight.</s>
+    </p>
+<break time="1s"/>
+</speak>

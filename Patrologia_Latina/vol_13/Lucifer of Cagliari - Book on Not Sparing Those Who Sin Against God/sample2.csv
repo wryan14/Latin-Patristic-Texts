@@ -1,0 +1,4 @@
+Resource URI,Resource Type,Title,Authors,Authors As Published,Editors,Contributors,Divisions,Abstract,Full Text,DOI,Publication,ISBN,ISSN,eISSN
+https://example.com/article1,Academic articles,Sample Article Title 1,John Doe; Jane Smith,Doe J.; Smith J.,Editor Name,Contributor Name,Research Division,Abstract text here,Full Text,10.1234/sample.1,Journal of Example Studies,978-1234567890,1234-5678,2345-6789
+https://example.com/article2,Working papers,Sample Paper Title 2,Alice Johnson,Johnson A.,,,Financial Studies,Abstract for paper 2,Full Text,10.5678/sample.2,Working Paper Series,,1111-2222,2222-3333
+https://example.com/article3,Short articles and notes,Brief Note on Economics,Bob Williams; Carol Davis,Williams B.; Davis C.,,,Economic Research,Brief abstract,Full Text,10.9876/sample.3,Economics Notes,978-0987654321,3333-4444,4444-5555

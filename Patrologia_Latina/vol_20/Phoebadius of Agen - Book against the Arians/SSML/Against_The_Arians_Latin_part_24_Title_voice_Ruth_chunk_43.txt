@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>Chapter Twenty-Two <break time="500ms"/>
+  <p>What about the Patropassians? What about the Arians? What is the rule of faith?</p>
+<break time="1s"/>
+</speak>

@@ -1,0 +1,9 @@
+<speak>
+<break time="1s"/>Chapter Ten 
+<break time="500ms"/>
+    <p>
+        <s>Heretics agree with us in words, but not in meaning.</s>
+    </p>
+
+<break time="1s"/>
+</speak>

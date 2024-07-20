@@ -1,0 +1,7 @@
+<speak>
+<break time="1s"/>Chapter Nineteen <break time="500ms"/>
+  <p>
+    <s>The Ariomaniacs speak one thing with their mouths and mean another in their hearts.</s>
+  </p>
+<break time="1s"/>
+</speak>

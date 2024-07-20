@@ -1,0 +1,7 @@
+<speak>
+<break time="1s"/>Chapter Seventeen <break time="500ms"/>
+  <s>Heretics deny everything about the Father but confess it about the Son.</s>
+  <break time="500ms"/>
+  <p>How God the Son is visible. </p>
+<break time="1s"/>
+</speak>
