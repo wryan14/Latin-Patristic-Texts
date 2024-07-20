@@ -1,0 +1,8 @@
+<speak>
+<break time="1s"/>Chapter Fourteen 
+<break time="500ms"/>
+  <p>
+    From the sacred scriptures, the Catholic doctrine is confirmed.
+  </p>
+<break time="2s"/>
+</speak>

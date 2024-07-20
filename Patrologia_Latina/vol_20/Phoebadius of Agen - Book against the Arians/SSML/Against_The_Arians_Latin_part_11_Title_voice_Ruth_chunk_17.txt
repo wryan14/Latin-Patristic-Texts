@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Chapter Nine
+<break time="500ms"/>
+The birth of Christ is unknown. Christ is from God, in God, and with God. 
+<break time="1s"/>
+</speak>

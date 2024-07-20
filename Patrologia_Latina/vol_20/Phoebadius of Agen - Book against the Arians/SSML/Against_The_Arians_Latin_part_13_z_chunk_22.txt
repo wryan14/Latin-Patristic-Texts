@@ -1,0 +1,67 @@
+<speak>
+
+    <p>
+       Now, this knowledge is no longer hidden, as it is revealed for a reason. God, who punishes ignorance, is not unjust, as He would not punish if He had not given knowledge. He provided this through the Holy Spirit. Indeed, the Spirit, He says, will tell you all truth <sub alias="John sixteen thirteen">(John 16:13)</sub>. When He says all truth, certainly nothing is excluded. This is the Spirit of knowledge and truth, through whom Solomon spoke of the Lord's birth: 
+        <break time="500ms"/>
+        <s>
+            "What it is," he says, "and wisdom, and how it was made, I will tell, and I will investigate it from the beginning of its birth" <sub alias="Wisdom six twenty-four">(Wisdom 6:24)</sub>.
+        </s>
+    </p>
+    <p>
+        Therefore, through the same Spirit, we can find what we are seeking. For the Apostle also says: 
+        <break time="500ms"/>
+        <s>
+            "God has revealed it to us through His Spirit; for the Spirit searches everything, even the depths of God" <sub alias="First Corinthians two ten">(1 Corinthians 2:10)</sub>.
+        </s>
+        <s>
+            No one knows what is in God except the Spirit of God: and if that Spirit dwells in us, as the Apostle confirms, we can therefore understand the secrets of God through the same Spirit.
+        </s>
+    </p>
+    <p>
+        Truly: 
+        <break time="500ms"/>
+        <s>
+            "Seek, and you will find; ask, and it will be given to you; knock, and it will be opened to you" <sub alias="Matthew seven seven; Luke eleven twenty-four">(Matthew 7:7; Luke 11:24)</sub>.
+        </s>
+        And again: 
+        <break time="500ms"/>
+        <s>
+            "Father, you have hidden these things from the wise and revealed them to little children" <sub alias="Matthew eleven twenty-five">(Matthew 11:25)</sub>: certainly to us, to whom the Lord says: "To you it has been given to know the mystery of God" <sub alias="Matthew thirteen eleven">(Matthew 13:11)</sub>; that mystery of which the Apostle says: "What was not made known to the sons of men in other generations is now revealed to His saints" <sub alias="Ephesians three five">(Ephesians 3:5)</sub>.
+        </s>
+        <s>
+            Clearly revealed. For He has shown the glorious riches of His grace to us in Christ, who is the glory of God the Father.
+        </s>
+    </p>
+    <p>
+        He is the true offspring of the Unbegotten. This means: No one knows how the Son was begotten. Certainly no one, except those in whom, as the Lord says, His word does not penetrate <sub alias="John eight thirty-seven">(John 8:37)</sub>; just as it did not to the Jews, to whom the same Lord says: 
+        <break time="500ms"/>
+        <s>
+            "You do not know where I come from or where I am going; because you judge according to the flesh" <sub alias="John eight fourteen fifteen">(John 8:14-15)</sub>.
+        </s>
+    </p>
+    <p>
+        How can no one know if the Father says: 
+        <break time="500ms"/>
+        <s>
+            "My heart has uttered a good word" <sub alias="Psalm forty-five two">(Psalm 45:2)</sub>? 
+        </s>
+        How can no one know if the Son says: 
+        <break time="500ms"/>
+        <s>
+            "I came forth from the mouth of the Most High" <sub alias="Sirach twenty-four five">(Sirach 24:5)</sub>?
+        </s>
+        <s>
+            Do not seek further, and you have nothing more to ask; for you know everything: because what is said is everything. "I came forth," He says, "from the mouth of the Most High."
+        </s>
+    </p>
+    <p>
+        This is the perfect birth of the Word, the beginning without a beginning. This is the beginning having a beginning in birth, in a state not having a beginning. For from the unbegotten God, a begotten God came forth, one from one, true from true, full from full; and thus by being born in what always was, He did not begin to be what was born of the unbegotten, nor does He have time as He is naturally co-eternal with the timeless Father. For it is written: 
+        <break time="500ms"/>
+        <s>
+            "God is Spirit" <sub alias="John four twenty-four">(John 4:24)</sub>: and He was born eternal from God.
+        </s>
+        <s>
+            Therefore, of His nature, which consists of eternity. The Son is not imperfect, even though He is born, because He was born from the perfect: nor is He diminished who begot, because He begot from Himself. For He gave all to all, so that according to the power of the Spirit, He would be whole in the whole.
+        </s>
+    </p>
+</speak>

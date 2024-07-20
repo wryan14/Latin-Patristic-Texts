@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Chapter Four 
+<break time="500ms"/>
+ One God, or none. Blind heretics.
+<break time="1s"/>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+<break time="1s"/>Chapter Twenty-Three <break time="500ms"/>
+  <p>
+    From the author’s judgment on Hosius, bishop of Cordoba.
+  </p>
+<break time="1s"/>
+</speak>

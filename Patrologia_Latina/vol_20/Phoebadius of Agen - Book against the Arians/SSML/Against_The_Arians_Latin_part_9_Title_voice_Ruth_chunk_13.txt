@@ -1,0 +1,8 @@
+<speak>
+<break time="1s"/>Chapter Seven 
+<break time="500ms"/>
+    <p>
+        <s>Let's explain the term "substance".</s>
+    </p>
+<break time="2s"/>
+</speak>

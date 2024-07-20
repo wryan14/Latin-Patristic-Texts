@@ -1,0 +1,5 @@
+<speak>
+<break time="1s"/>Chapter Thirteen <break time="500ms"/>
+  <p>Christ, the mirror of God’s majesty, reflects the full image of the Father. The heresy of Sabellius.</p>
+<break time="1s"/>
+</speak>

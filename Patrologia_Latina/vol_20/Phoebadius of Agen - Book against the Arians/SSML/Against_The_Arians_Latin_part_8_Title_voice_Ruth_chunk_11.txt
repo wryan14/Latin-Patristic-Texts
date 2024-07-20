@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Chapter Six 
+<break time="500ms"/>
+<p>Nicaean Council. Untarnished Truth.</p>
+<break time="2s"/>
+</speak>

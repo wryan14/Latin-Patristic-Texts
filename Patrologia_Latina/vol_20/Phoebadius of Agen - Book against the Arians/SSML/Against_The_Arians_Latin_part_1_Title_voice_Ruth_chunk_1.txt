@@ -1,0 +1,10 @@
+<speak>
+<break time="1s"/>Book Against the Arians
+<break time="500ms"/>
+by Phoebadius of Agen 
+<break time="2s"/>
+    Chapter One
+    <break time="500ms"/>
+    Occasion and Argument of the Disputation.
+    <break time="1s"/>
+</speak>
