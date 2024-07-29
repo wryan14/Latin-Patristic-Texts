@@ -1,0 +1,45 @@
+<speak>
+  <p>The arguments by which the Arians support their heresy are refuted, especially their claim that the term <phoneme alphabet="ipa" ph="homoʊˈuːsiən">homoousion</phoneme> should not be accepted because it is not found in the Holy Scriptures.</p>
+  
+  <p>You tell me that <phoneme alphabet="ipa" ph="homoʊˈuːsiən">homoousion</phoneme>, meaning "of one substance," should not be accepted because it is not found in the Scriptures. However, they worship as the Apostle said: <break time="500ms"/> "At the name of Jesus every knee should bow, in heaven and on earth and under the earth; and every tongue confess" <break time="500ms"/> (Philippians 2:10). <break time="500ms"/> And Moses said, "Let all the angels of God worship him" <break time="500ms"/> (Deuteronomy 32:43, according to the Septuagint). And David: "All kings shall bow down to him" <break time="500ms"/> (Psalm 72:11). This would not be said in the Scriptures unless He were the Word, the Son, the maker of all things.</p>
+  
+  <p>You say <phoneme alphabet="ipa" ph="homoʊˈuːsiən">homoousion</phoneme> should not be named because it is not contained in the Holy Scriptures. I ask you, who prohibit this: should it not be named because it is not written, or because it should not be believed? If it should be believed, why should it not be professed? For the Apostle says, <break time="500ms"/> "For with the heart one believes and is justified, and with the mouth one confesses and is saved" <break time="500ms"/> (Romans 10:10).</p>
+  
+  <p>If it should not be named because it should not be believed, then the Arian claim holds, which denies the Father and the Son are of one substance, asserting the Son of God was made either out of nothing or from the Father, but from a different substance, whenever and however He wanted, and from wherever He wanted, as long as He is believed to have come from somewhere else and not from what the Father is.</p>
+  
+  <p>Even if they say He was born, this is only in words; because they understand everything that is born to be made; just as we are called begotten from God, who are clearly His creation.</p>
+  
+  <p>If you are not an Arian, and you acknowledge the true Son was born, not made, from the true Father, why do you not say He is of one substance with the Father? You are afraid to profess what you believe in vain; and you believe in vain if you do not believe like this, and you are rightly marked as a heretic. Although you have changed the phrase, where you think it was prohibited to call the Son of God a creation, yet when you add: <break time="500ms"/> "As any of these things that were made," you show that He should not be called a creation, not because He should not be understood as made, but not made like any of these things, but still made. For you say He was made, as a perfect creation, through whom all things were made; as long as you understand Him to be made, even if not like the rest.</p>
+  
+  <p>Returning to what you say, that the term <phoneme alphabet="ipa" ph="homoʊˈuːsiən">homoousion</phoneme>, meaning "of one substance," is not found in the Holy Scriptures; suppose for a moment this is true, because wherever substance is read, the thing of God, not God, is understood; although you also profess something else that is not written, that is, "God from God, light from light": what do you say to these? Either hold all with me, or omit all. For if you are afraid to say the term "of one substance" because it is not written, you should also be afraid to profess "God from God" and "light from light."</p>
+  
+  <p>I prove that "God from God," "light from light," and the term "of one substance" are contained in the Holy Scriptures. For when the Son of God Himself, who is God, says in His Gospel: <break time="500ms"/> "I came out from the Father" <break time="500ms"/> (John 16:27), we justly and rightly profess "God from God," because we recognize that the Son of God, the true God, was born from the true God the Father. But not in the way we are called gods <break time="500ms"/> (Psalm 82:6), or as Moses was called the god of Pharaoh <break time="500ms"/> (Exodus 7:1), but because He is the true Son, born from the true Father; truly and confidently He is to be called "God from God," and thus "light from light."</p>
+  
+  <p>What is not written, you say with me, but you do not entirely agree with me. Because it is written about the Father: <break time="500ms"/> "God is light" <break time="500ms"/> (First John 1:5); and about the Son: "The true light that gives light to everyone was coming into the world" <break time="500ms"/> (John 1:9); and: "The light shines in the darkness" <break time="500ms"/> (John 1:5); that is, Christ in the world; and the darkness has not overcome it; namely, the people whose hearts are darkened by the shadows of ignorance did not recognize Christ, the true God, and the true Son of God. But the Lord Himself says: <break time="500ms"/> "I am the light of the world; whoever follows me will never walk in darkness, but will have the light of life" <break time="500ms"/> (John 8:12).</p>
+
+  <p>
+    <s>Father of Light,</s>
+    <s>And the Son is light, truly light from light.</s>
+  </p>
+  <p>
+    <s>But you assert light from light as though from the Father, who is true light, another light was made that is not of the same substance as the Father.</s>
+    <s>Just as any other light, although made by God, is very different from Him who made it.</s>
+    <s>Therefore, you say light from light, not of light.</s>
+  </p>
+  <p>
+    <s>So when I said these things beforehand, even if you don't understand them with me, however, you pronounce them, since they are not written.</s>
+    <s>Do you not also profess with me the term of one substance, which you do not think is contained in the Scriptures?</s>
+    <s>Unless because there you have had some way to hide your malicious thoughts with secret deceit in both;</s>
+    <s>so that you might express this very thing with the sound of your voice, yet still separate the understanding of what is said by far?</s>
+  </p>
+  <p>
+    <s>Just as those heretics who deny the resurrection of the flesh say woe to those who do not rise in the flesh to deceive the simple-minded souls.</s>
+    <s>But if you question them why they said this, knowing they utterly deny the resurrection of the flesh, they will tell you:</s>
+    <s>Woe indeed will be to him who has not been baptized in the flesh, so that his soul while in the body, from the death of his sins, as from the grave of crimes through baptism, in the same rises.</s>
+  </p>
+  <p>
+    <s>For they defend the resurrection only of the soul through the grace of the life-giving bath while in the flesh; but they exclude the salvation of the flesh itself.</s>
+    <s>And these people through a plausible confession secretly deceive the innocent minds.</s>
+    <s>And as a deadly potion tempered with the sweetness of honey, deceiving with its pleasantness, kills; so also this evil through the flattery of the ears, contaminating the understanding of the listeners with a certain flaw, infects with the contagion of adhering vice.</s>
+  </p>
+</speak>

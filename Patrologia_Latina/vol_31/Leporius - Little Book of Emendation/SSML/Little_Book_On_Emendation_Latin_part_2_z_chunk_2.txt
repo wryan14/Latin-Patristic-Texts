@@ -1,0 +1,78 @@
+<speak>
+  <p>
+    Leporius, a Gallic monk, initially lived in a monastery in Marseilles, as it appears. He excelled in the monastic life with his virtuous conduct and innocence of manners. Believing that he had achieved this solely through his own will and effort, without God's help, he began to profess the Pelagian doctrine. This is testified by Gennadius. Cassian also reports similarly.
+  </p>
+  <p>
+    Leporius did not merely follow Pelagius; he went further and fell into the heresy that Nestorius later propagated widely in the East. According to Cassian, he was considered one of the foremost or most prominent proponents of this heresy in Gaul. Bishop Facundus of Hermiane also recorded this. The author of the "Conferences" writes that this poisonous plague emerged in his time, especially in the city of Belgae, or according to another reading, from the large city of Veligae. Therefore, it is uncertain whether he meant the town of Belica on the Rhone in Bresse or Augusta Treverorum. Sirmond and Garnier, adhering to the latter reading, understand it to be the city of Trier, and Tillemont does not deny this. In that city, Leporius first taught his errors, which he later promulgated in Provence in a certain letter, causing great scandal and offense to charity, as he himself admits in his booklet of Correction.
+  </p>
+  <p>
+    Despite being admonished by Cassian and other Gallican teachers to renounce his impiety, he held his harmful resolve and was deservedly ejected from the Church by the Gallican bishops Proculus and Cyllinius. This is clear from the letter of the African fathers to the same bishops, which is appended to Leporius's booklet.
+  </p>
+  <p>
+    He, however, banished from his homeland, crossed into Africa with some followers of his depravity. There, by the grace of God and the efforts of some African prelates, especially Augustine, he recognized and renounced his error and professed sound doctrine. But since he had caused scandal to many in Gaul, he sent a letter to Proculus and Cyllinius and other bishops of Gaul, testifying to his faith, which he confirmed with this subscription: "I, Leporius, wanting to express deeply my faith dictated by my own mind, which I will hold to the end by God's will, have signed it before the holy bishops in the church of Carthage."
+  </p>
+  <p>
+    About Leporius's booklet, Cassian says: "Thus he magnificently condemned his ill-conceived persuasion; so that his correction is almost as admirable as the untainted faith of many: for the first thing is not to fall into error at all; the second is to repudiate it well." He adds: "Therefore, having come to his senses, he not only confessed his error with sorrow and without shame in Africa, where he was and still is, but also sent tearful letters of confession and lamentation to all the cities of Gaul: so that where his deviation was known before, his correction might also be known; and those who were witnesses of his error before might be the same witnesses of his correction afterward."
+  </p>
+  <p>
+    Furthermore, some learned men, such as Garnier, Quesnel, Tillemont, and the editors of Norisian works, have thought that this booklet of Leporius was written by Augustine, based on both the style and the expressions used. They were primarily moved by the reasons that among the testimonies attached to the one hundred sixty-fifth letter of Saint Leo, Leporius's booklet is inscribed under Augustine's name. They say the same was done in the second session of the Council of Chalcedon. It is also read similarly in Theodoret. However, it should be noted that the same passage from Leporius's booklet appears in the cited authors: therefore, the opinion that Augustine is the author of Leporius's booklet should be said to stem from one of Leo's letters. As for the Council of Chalcedon, the same Leo's letter is recited in it. Theodoret, presenting the same words, is understood to have copied them from the same Leo's letter. Furthermore, that great pontiff perhaps ascribed that work to Augustine for no other reason than knowing it was from him.
+  </p>
+
+
+<p>
+<s>Approved and signed with his own hand.</s> 
+<s>It is known that the document was signed by four African bishops, among whom Augustine stands out.</s> 
+<s>They also sent a letter on that occasion to the bishops Proculus and Cyllinnius in Gaul, which includes these noteworthy words:</s> 
+<break time="500ms"/>
+<s>"Just as he (Leporius) was received by us in person, let him be received by you through his letter."</s> 
+<break time="500ms"/>
+<s>We also thought it appropriate to sign this letter with our own hands, testifying that it belongs to him.</s> 
+<break time="500ms"/>
+<s>Such a letter from the African fathers, Sirmondus says, although written in the name of four bishops, clearly shows the style and intellect of Augustine, making it doubtful that it was not dictated by him.</s> 
+<s>It is included among Augustine's works.</s> 
+<s>But on this matter, it would be helpful to consult the learned writers of French literary history, who strongly assert that the work attributed to Leporius is genuinely his.</s>
+</p>
+
+<p>
+<s>That this booklet held great authority among the ancients, and that Leporius himself was considered a defender of the Catholic faith against Nestorius, is evident.</s> 
+<s>This is especially clear from Cassian, who, after quoting several passages from the same booklet, concludes his opinion with these words:</s> 
+<break time="500ms"/>
+<s>"This confession of his (Leporius), that is, the faith of all Catholics, was approved by all African bishops, from whom he wrote, and by all Gallican bishops, to whom he wrote.</s>  
+<s>And no one has yet appeared who would disapprove of this faith without being accused of infidelity, because denying the approved faith is a declaration of impiety."</s> 
+<break time="500ms"/>
+<s>Furthermore, Pope John the Second took testimony from the same Leporian booklet to affirm the doctrine of faith, and he asserted that the booklet was approved by the African Synod; for it was indeed read aloud before the holy bishops in the church of Carthage, as Leporius himself writes.</s> 
+<s>Here are the words of the praised Roman Pontiff:</s>  
+<break time="500ms"/>
+<s>"Leporius," he says, "in the letter which Aurelius, Bishop of Carthage, Blessed Augustine, and the African Synod confirmed," etc.</s> 
+<break time="500ms"/>
+<s>Additionally, in the petition of Basil the Deacon and Archimandrite, and other monks, presented to Emperor Theodosius in the year 430, which is found among the acts of the Council of Ephesus, Leporius is listed among the holy fathers of the Church who taught the mystery of the Incarnation, that Christ is truly God.</s>  
+<s>(For Quesnellus is not to be listened to, who vainly persuades himself that the Leporius praised by Basil there is different from our Leporius, some bishop of a certain seat, because he is listed among the bishops who defended the divinity of Christ.)</s> 
+<s>Facundus also praises the booklet of Leporius in such a way that he uses his testimony to support the orthodox faith.</s> 
+<s>Finally, Gennadius, as we have seen earlier, lists him among the illustrious men who were distinguished by their ecclesiastical writings.</s>
+</p>
+
+<p>
+<s>Therefore, after Leporius had given such a distinguished example of his doctrine and piety in Africa, having once been a monk in Gaul teaching erroneous beliefs against the faith, he was later established in that region and was eventually ordained a priest of the Church of Hippo.</s> 
+<s>This is well known from Cassian and Gennadius.</s> 
+<break time="500ms"/>
+<s>Cassian says:</s>  
+<s>"Leporius, once a monk, now a priest."</s> 
+<break time="500ms"/>
+<s>Gennadius says:</s>  
+<s>"Leporius, still a monk, later a priest."</s> 
+<s>Furthermore, there is a question among the learned whether our Leporius, already a priest, is the same as the one mentioned among the priests of the Church of Hippo in the ecclesiastical acts, where Saint Augustine designated Heraclius as his successor.</s> 
+<s>These acts are said to have been issued during the consulship of Theodosius for the twelfth time and Valentinian for the second time, on the sixth day before the Kalends of October, that is, in the year 426.</s> 
+<s>Around the same time, Saint Augustine delivered a sermon on the life and conduct of the clergy, in which he praised the same Leporius at length with these words:</s>  
+<break time="500ms"/>
+<s>"I speak to you, who perhaps do not know; for many of you know: the priest Leporius, though distinguished by birth and born in an honorable position among his people, yet now serving God, having left everything he had, I received him as a poor man," etc.</s>  
+<s>These words clearly indicate that this priest of Hippo was once a monk and, significantly, a foreigner.</s>
+</p>
+
+
+  Augustine clearly states:
+  Norisius rightly observed that Leporius, who had previously traveled as a monk from Gaul to Africa, where the holy father received him in his poverty, seems to be the same person. But it is better to consult the learned men we mentioned a little earlier, who, upon examining the recently recited passage from Augustine more diligently, reached the same conclusion. Sirmondus also saw it this way. However, Baronius, Garnerius, Tillemontius, and Ballerinii thought differently.
+  
+  <p>Now, Leporius was still in Africa in the year 430. Cassianus, speaking of him, says: "He, therefore, having come to his senses, not only in Africa, where he was then and is now," etc. Thus, in his books on the Incarnation. This work was written against Nestorius while he still held the seat of Constantinople, and it is known to have been composed before the Council of Ephesus, celebrated in 431, thus around the year 430, as Norisius and Tillemontius also concluded after Baronius. Moreover, if the arguments discussed so far are accurately summed up, it would be nearly possible to define the time when Leporius published his pamphlet. Learned men have various opinions on this matter. Norisius states that Leporius' conversion and thus his confession should not be extended beyond the year 410 and should even be placed before this very year. Sirmondus considers it to have happened around the year 425, Garnerius in the preceding year 424. Pagius, however, refers it to the year 427, after Saint Augustine had published his book on Correction and Grace. Tillemontius and Ballerinii also agree. But putting aside such opinions, the most learned men we praised earlier say that the pamphlet on Emendation was written by Leporius in 418 or at the latest 419. For, they say, the death of Proculus, bishop of Marseille, should not be postponed beyond these years, as even Tillemontius himself acknowledges; since both Leporius' pamphlet and the letter from the African fathers about Leporius' conversion are addressed to this bishop. No other Proculus bishop from Marseille can rightly be fabricated in order to weaken this argument or introduce another way of counting. We pass over the other, not insignificant reasons by which the learned confirm the proposed time notation. They also dissolve the objection drawn from the time when Saint Augustine published his book on Correction and Grace, showing that from 421, when the holy doctor published his Enchiridion, Leporius' errors were well known to him and he openly criticized them in that work. Therefore, having rightly considered these matters, we confidently adhere to this latest opinion, which we also know was later approved by Sirmondus, as we mentioned above, since Pope John II asserted that Leporius' letter was confirmed by the African synod. "If," he says, "he called it African, which we have after the consulship of Honorius XII and Theodosius VIII in the year of Christ 419, it must be established that Leporius' emendation occurred in that same year."</p>
+  
+  <p>What remains are only fragments of Leporius' pamphlet, described in Cassianus' books on the Incarnation, preceded by the letter from the African bishops, first published by Sirmondus in 1629 among the councils of Gaul. The following year, 1630, he published it in full from a manuscript of the Herivallensis monastery among five ancient doctrinal works. Since then, it has appeared in the royal edition of the Councils of Lupare, as well as in Labbe and Hardouin. Additionally, Garnerius attached the same work, corrected of many errors, along with the letter from the African bishops, to his Mario Mercator. It was also included in the Lyon Library of the Fathers. Finally, with Garnerius' corrections, it exists in the collection of Sirmondus' works, an edition which we have entrusted to be printed much more elegantly than the others.</p>
+</speak>
