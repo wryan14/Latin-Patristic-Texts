@@ -1,0 +1,4 @@
+<speak>
+<break time="1s"/>Chapter Seven
+<break time="2s"/>
+</speak>

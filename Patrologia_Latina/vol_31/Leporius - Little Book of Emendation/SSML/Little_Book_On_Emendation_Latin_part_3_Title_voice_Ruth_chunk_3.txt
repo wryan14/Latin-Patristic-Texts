@@ -1,0 +1,7 @@
+<speak>
+<break time="1s"/>
+The Book of Emendations, or Satisfaction <break time="500ms"/>
+To the Bishops of Gual 
+From Leporius the Presbyter
+<break time="2s"/>
+</speak>

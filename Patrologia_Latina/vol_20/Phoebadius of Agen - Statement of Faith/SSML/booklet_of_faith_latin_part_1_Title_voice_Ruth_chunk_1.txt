@@ -1,0 +1,6 @@
+<speak>
+<break time="1s"/>Statement of Faith
+<break time="500ms"/>
+by Phoebadius of Agen
+<break time="2s"/>
+</speak>
