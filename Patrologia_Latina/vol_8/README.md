@@ -11,3 +11,5 @@ An audio version of this work is available on Archive.org for free download:
 * [Letter to Victorinus by Candidus the Arian - Archive.org](https://archive.org/details/book-on-the-divine-generation)
 
 * [Four Books Against Arius by Marius Victorinus - Archive.org](https://archive.org/details/four-books-against-arius)
+* [Treatise on the Martyrdom of Isaiah by Potamius - Archive.org](https://archive.org/details/treatise-on-the-martyrdom-of-isaiah)
+* [Treatise on Lazarus by Potamius - Archive.org](https://archive.org/details/treatise-on-lazarus)
