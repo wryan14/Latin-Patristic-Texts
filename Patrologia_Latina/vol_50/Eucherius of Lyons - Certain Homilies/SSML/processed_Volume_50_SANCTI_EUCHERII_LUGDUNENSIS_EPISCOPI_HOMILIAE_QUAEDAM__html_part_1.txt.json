@@ -1,0 +1,12 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        Some Sermons by Saint Eucherius, Bishop of Lyons\n    </p>\n<break time=\"2s\"/>\n</speak>",
+      "original_latin": "HOMILIAE QUAEDAM. SANCTI EUCHERII\nLUGDUNENSIS EPISCOPI\n",
+      "voice": "Ruth",
+      "start_time": 0.0,
+      "end_time": 3.888
+    }
+  ]
+}
