@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATENSIS EPISCOPUS\nIN SOPHONIAM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\nOn the Prophet Zephaniah <break time=\"500ms\"/>\nby \n        Haymo <break time=\"500ms\"/> Bishop of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n        <p>Zephaniah, the ninth prophet among the twelve, is known as \"watchtower\" or \"the secret of the Lord.\" He witnessed the impending destruction of Jerusalem during the reign of Josiah, the just king, and prophesied during this time. He spoke of the devastation of other nations and warned about the day of judgment.</p>\n    \n</speak>",
+      "original_latin": "Sophonias propheta, qui nonus est in ordine duodecim\nprophetarum, interpretatur specula, sive\narcanum Domini. Cernit captivitatem urbis Hierusalem,\ncujus jam instabat eversio regnante Josia\nrege justissimo, sub quo et iste prophetavit. Aliarum\ngentium vastationem praedicat, et diem judicii\nintonat.",
+      "voice": "Matthew"
+    }
+  ]
+}

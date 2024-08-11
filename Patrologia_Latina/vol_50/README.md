@@ -7,3 +7,6 @@ An audio version of this work is available on Archive.org for free download:
 * [Certain Homilies by Eucherius of Lyons - Archive.org](https://archive.org/details/certain-homilies)
 * [Little Book on the Praise of the Hermitage by Eucherius of Lyon - Archive.org](https://archive.org/details/little-book-on-the-praise-of-the-hermitage)
 * [Letter of Exhortation to Valerian by Eucherius of Lyons - Archive.org](https://archive.org/details/letter-of-exhortation-to-valerian)
+* [Sermon on the Life of St. Honoratus by Hilary of Arles - Archive.org](https://archive.org/details/sermon-on-the-life-of-st.-honoratus)
+* [Passion of St. Maurice and Companions by Eucherius of Lyons - Archive.org](https://archive.org/details/passion-of-st.-maurice-and-companions)
+* [Summary of the Works of Cassian by Eucherius of Lyons - Archive.org](https://archive.org/details/summary-of-the-works-of-cassian)

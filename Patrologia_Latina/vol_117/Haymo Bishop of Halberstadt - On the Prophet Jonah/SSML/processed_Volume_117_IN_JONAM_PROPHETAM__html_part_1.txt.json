@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATENSIS EPISCOPUS\nIN JONAM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\nOn the Prophet Jonah\n<break time=\"500ms\"/>\nby\nHaymo Bishop of Halberstadt\n<break time=\"2s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <break time=\"500ms\"/> \n  <p>\n    The Hebrews say that Jonah was the son of the widow of Zarephath, whom Elijah resurrected from the dead. When Elijah returned him to his mother, she worshiped and said, \"Now I know that you are a man of God, and that the word of the Lord in your mouth is true.\" Because of this, Jonah was called the son of Amittai. Amittai means truth, and since Elijah spoke the truth, Jonah was called the son of truth. Some believe his tomb is in Gath, which is in Ophir, while others say he was born and buried in Lydda, also known as Diospolis.\n  </p>\n  <p>\n    The Book of Tobit mentions this prophet, where the father speaks to his son before dying. The destruction of Nineveh is near, for the word of the Lord does not fail. Initially, the people of Nineveh repented and received mercy from the Lord at Jonah's preaching. However, they later reverted to their old ways and were overthrown as foretold, during the reign of Josiah among the Hebrews and Astyages among the Medes.\n  </p>\n</speak>",
+      "original_latin": "Jonam tradunt Hebraei filium esse Sareptanae viduae,\nquem mortuum suscitavit Elias, quem cum\nmatri reddidisset, adoravit illa, et dixit: Nunc in\nisto cognovi, quoniam vir Domini es, et verbum Domini\nin ore tuo verum est, et ob hanc causam vocatum\nfilium Amathi. Amathi interpretatur veritas, et\n ex eo quod Elias verum dixit, vocatus est filius veritatis;\ncujus sepulcrum dicunt esse in Geth, quae\nest in Ophir. Alii dicunt eum in Lidda, id est Diospoli\net natum et conditum. Meminit hujus prophetae liber\nTobiae, ubi moriturus pater filio loquebatur. Prope\nest interitus Ninivae, non enim excidit verbum Domini. Primum enim ad praedicationem Jonae intelligimus\nNinivitas conversos poenitentiam egisse, et a\nDomino veniam consecutos, postea vero ad mala\npristina relapsos, juxta quod praedictum fuerat,\nfuisse subversos, regnante apud Hebraeos Josia, apud\nMedos Astyage.",
+      "voice": "Matthew"
+    }
+  ]
+}
