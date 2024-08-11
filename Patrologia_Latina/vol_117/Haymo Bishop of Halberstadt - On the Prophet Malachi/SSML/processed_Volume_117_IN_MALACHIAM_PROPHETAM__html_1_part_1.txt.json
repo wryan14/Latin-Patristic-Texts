@@ -1,0 +1,15 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATENSIS EPISCOPUS\nIN MALACHIAM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\nOn the Prophet Malachi  \n<break time=\"500ms\"/>\nby Haymo Bishop of Halberstadt\n<break time=\"2s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      In <phoneme alphabet=\"ipa\" ph=\"mælɪˈkaɪəm\">Malachiam</phoneme> Prohetam.\n    </s>\n    <s>\n      The Hebrews believe that Malachi, the last of the twelve prophets, was Ezra, who was both a prophet and a priest.\n    </s>\n    <s>\n      He prophesied at the same time as Haggai and Zechariah, which is why no specific time is given in the title.\n    </s>\n    <s>\n      His name means \"angel of the Lord\" or \"my angel,\" because he was so authoritative that whatever he said was believed as if it had been spoken by an angel of the Lord.\n    </s>\n    <s>\n      Some even thought he was naturally an angel who had descended from heaven in human form to remind the people, who had recently returned from captivity.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "IN MALACHIAM PROPHETAM. Malachiam prophetam ultimum duodecim prophetarum,\nHebraei putant esse Esdram prophetam\net sacerdotem. Hic prophetavit eodem tempore quo\net Aggaeus et Zacharias. Unde nec tempus ponitur\nin titulo. Interpretatur angelus Domini, sive angelus\nmeus, quia tantae fuit auctoritatis, ut quidquid dixisset,\nita crederetur velut ab angelo Domini dictum\nfuisset. Unde nonnulli putaverunt eum natura angelum\nde coelo descendisse carne indutum, ad commonefaciendum\npopulum, qui nuper de captivitate\nreversus erat."
+    }
+  ]
+}
