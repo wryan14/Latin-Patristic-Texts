@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>Forty-Two <break time=\"500ms\"/>\n    <s>During these days of fasting, we should avoid disputes and quarrels, focusing instead on praising God and doing necessary work.</s> <break time=\"500ms\"/>\n    <s>The Lord admonishes those who argue and fight during Lent, as well as those who pressure debtors for repayment.</s>\n    <s>Through the prophet, He says:</s>\n    <break time=\"500ms\"/>\n    <s>\"Look, on the day of your fast you pursue your own interests and oppress all your workers.</s>\n    <s>Look, you fast only to quarrel and to fight and to strike with a wicked fist\" (Isaiah fifty-eight, verse three).</s>\n  </p>\n</speak>",
+      "original_latin": "XLII. Quod jejuniorum diebus cessare debeant lites et contentiones. In his jejuniorum diebus nullae lites, nullae contentiones\nesse debent, sed in Dei laudibus et in\nopere necessario persistendum. Arguit enim eos qui\ncontentiones et lites Quadragesimae tempore exercent,\net qui debita a debitoribus exigunt, Dominus\nper prophetam dicens: Ecce in die jejunii vestri inveniuntur\nvoluntates vestrae, et omnes debitores vestros\nrepetitis. Ecce ad lites, et contentiones jejunatis, et\npercutitis pugno impie (Isa. LVIII, 3).",
+      "voice": "Matthew"
+    }
+  ]
+}

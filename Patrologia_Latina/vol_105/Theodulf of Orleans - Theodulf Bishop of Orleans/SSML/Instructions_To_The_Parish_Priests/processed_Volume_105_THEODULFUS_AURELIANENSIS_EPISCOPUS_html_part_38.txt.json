@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Twenty-Six <break time=\"500ms\"/> The faithful should avoid the crime of perjury. <break time=\"500ms\"/>\n    </s>\n    <s>\n      It must be preached that the faithful should avoid perjury entirely, recognizing it as a great crime. It is forbidden in the law, the prophets, and the Gospel.\n      <break time=\"500ms\"/>\n      <phoneme alphabet=\"ipa\" ph=\"ˈmæθ.ju\">Matthew</phoneme> 5:33 says:\n    </s>\n    <s>\n      Some people take this crime lightly and impose only minor penance for perjury.\n    </s>\n    <s>\n      They should know that the penance for perjury should be the same as for adultery, fornication, murder, and other serious crimes.\n    </s>\n    <s>\n      If anyone, after committing perjury or any other serious sin, refuses to come to confession because they fear the long hardship of penance, they should be expelled from the church and from the communion and fellowship of the faithful.\n    </s>\n    <s>\n      No one should eat or drink with them, pray with them, or receive them into their home.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "XXVI. Ut a perjurii crimine fideles caveant. Praedicandum est etiam ut perjurium fideles caveant,\net ab hoc summopere abstineant, scientes hoc\ngrande scelus esse, et in lege, et prophetis, sive Evangelio\n(Matth. V, 33) prohibitum. Audivimus enim\nquosdam parvipendere hoc scelus, et levem quodammodo\nperjuris poenitentiae modum imponere. Qui\n nosse debent, talem de perjurio, qualem et de adulterio,\nde fornicatione, de homicidio, et de caeteris\ncriminalibus vitiis, poenitentiam imponendam. Si\nquis vero perpetrato perjurio, aut quolibet criminali\npeccato, timens poenitentiae longam aerumnam, ad\nconfessionem venire noluerit, ab ecclesia repellendus\nest, sive a communione et consortio fidelium, ut nullus\ncum eo comedat, neque bibat, neque oret, neque\nin suam eum domum recipiat.",
+      "voice": "Matthew"
+    }
+  ]
+}

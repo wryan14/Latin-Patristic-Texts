@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Four <break time=\"500ms\"/> What preparations should be made before coming to the synod. <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>When you gather for the synod, as usual, bring the vestments, books, and holy vessels that you use for your ministry and duties.</s>\n    <s>Also, bring two or three clerics with whom you celebrate the solemnities of the masses, to show how diligently and earnestly you conduct the service to God.</s>\n  </p>\n</speak>",
+      "original_latin": "IV. Quo apparatu ad synodum venire debeant. Quando more solito ad synodum convenitis, vestimenta,\net libros, et vasa sancta, cum quibus vestrum\nministerium et injunctum officium peragitis, vobiscum\ndeferte; nec non duos, aut tres clericos, cum\nquibus missarum solemnia celebratis, vobiscum adducite,\nut probetur quam diligenter, quam studiose\nDei servitium peragatis.",
+      "voice": "Matthew"
+    }
+  ]
+}

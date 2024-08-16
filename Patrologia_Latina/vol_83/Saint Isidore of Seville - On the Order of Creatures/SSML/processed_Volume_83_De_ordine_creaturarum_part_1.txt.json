@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Order of Created Things <break time=\"500ms\"/>\nby Isidore of Seville \n<break time=\"2s\"/>\n</speak>",
+      "original_latin": "SANCTI ISIDORI HISPALENSIS EPISCOPI \nDE ORDINE CREATURARUM LIBER ",
+      "voice": "Ruth"
+    }
+  ]
+}

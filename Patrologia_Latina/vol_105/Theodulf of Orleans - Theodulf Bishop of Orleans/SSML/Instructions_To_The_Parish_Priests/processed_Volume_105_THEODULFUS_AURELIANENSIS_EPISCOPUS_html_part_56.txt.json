@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Forty-Four <break time=\"500ms\"/> On Holy Communion: how and how often it should be taken.\n    </s> <break time=\"500ms\"/>\n  </p>\n  <p>\n    <s>\n      People should be advised not to approach the sacred sacrament of the body and blood of the Lord carelessly, nor to abstain from it too much.\n    </s>\n    <s>\n      They should carefully choose a time when they can abstain from marital relations for a while, cleanse themselves of vices, adorn themselves with virtues, be dedicated to charity and prayers, and then approach such a great sacrament.\n    </s>\n    <s>\n      Just as it is dangerous for anyone impure to approach such a great sacrament, it is also dangerous to abstain from it for a long time.\n    </s>\n    <s>\n      This is with consideration for those who are excommunicated, who do not take communion whenever they want, but at certain times, and for any religious people living holy lives, who do it almost every day.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "XLIV. De sacra communione, quo modo, et quam frequenter\nusurpanda sit. Admonendus est populus ut ad sacrosanctum sacramentum\ncorporis et sanguinis Domini nequaquam\nindifferenter accedat, nec ab hoc nimium abstineat:\nsed cum omni diligentia eligat tempus, quando aliquandiu\nab opere conjugali abstineat, et vitiis se\n purget, virtutibus exornet, eleemosynis et orationibus\ninsistat, et sic ad tantum sacramentum accedat. Quia sicut periculosum est impurum quemque ad\ntantum sacramentum accedere, ita etiam periculosum\nest ab hoc prolixo tempore abstinere. Salva ratione\neorum, qui excommunicati, non quando eis\nlibet, sed certis temporibus communicant, et religiosis\nquibuscunque sancte viventibus, qui pene omni\ndie id faciunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

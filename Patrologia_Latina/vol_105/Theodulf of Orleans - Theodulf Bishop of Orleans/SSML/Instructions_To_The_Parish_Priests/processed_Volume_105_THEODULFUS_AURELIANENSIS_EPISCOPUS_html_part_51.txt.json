@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\nThirty-Nine <break time=\"500ms\"/>\n    <s>Fasting should not be broken before the evening service.</s> <break time=\"500ms\"/>\n  </p>\n  <p>\n    <s>Many people who think they are fasting start eating as soon as they hear the signal for the ninth hour.</s>\n    <s>These people should not be considered truly fasting if they eat before the evening service has been celebrated.</s>\n    <s>One should attend Mass, and after hearing the solemnities of the Mass or evening services and giving alms, then one should go to eat.</s>\n  </p>\n  <p>\n    <s>However, if someone is unable to attend Mass due to necessity, they should estimate the evening hour and, after completing their prayer, break their fast.</s>\n  </p>\n</speak>",
+      "original_latin": "XXXIX. Quod jejunium ante vespertinum officium solvi non\ndebeat. Solent plures, qui se jejunare putant, mox ut signum\naudiunt ad nonam, manducare, qui nullatenus\njejunare credendi sunt, si ante manducaverint quam\nvespertinum celebretur officium. Concurrendum est\nenim ad Missas, et auditis missarum solemnibus,\nsive vespertinis officiis, largitis eleemosynis, ad cibum\naccedendum est. Si vero aliquis necessitate\nconstrictus fuerit ut ad missam convenire non valeat,\naestimata vespertina hora, completa oratione\n sua, jejunium absolvere debet.",
+      "voice": "Matthew"
+    }
+  ]
+}

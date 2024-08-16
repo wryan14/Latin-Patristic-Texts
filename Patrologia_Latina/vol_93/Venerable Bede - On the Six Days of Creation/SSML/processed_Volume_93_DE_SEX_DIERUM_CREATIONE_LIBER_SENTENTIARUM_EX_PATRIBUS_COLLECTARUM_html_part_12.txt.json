@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE DIE TERTIA",
+      "cleaned_english_translation": "<speak>\nOn the Third Day <break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>Then God said, <s>\"Let the waters under the sky be gathered into one place, and let the dry land appear.\"</s> <s>But why didn't He say, \"Let the dry land be visible,\" or \"Let the waters be gathered,\" unless it's because they are closer to the same formless state as the heavenly bodies, so that from these, in the numbering of days, the weaker things of the world are fashioned?</s></p>\n  <p>He did not want it to be understood that it was commanded to be done like the higher things, but rather He commanded that the gathered waters appear by themselves as the weaker things of the world.</p>\n  <p>So, where were the waters gathered if they first covered the entire earth?</p>\n  <p>They were gathered where they were drawn back, allowing the land to be exposed.</p>\n  <p>And if any part of the dry land appeared before, where could it have been gathered?</p>\n  <p>Thus, the abyss did not occupy the whole. It is better understood that either the water first occupied the land like a mist, or it surrounded the land, providing a hollow place for the waters to run to, so the dry land could appear.</p>\n</speak>",
+      "original_latin": "Dixit vero Deus: Congregentur aquae quae sub coelo\nsunt in locum unum, et appareat arida. Quid est ergo\nquod non ait: Fiat arida visibilis, vel aqua congregata,\nnisi quia propinquiora sunt eidem informitati,\nquam coelestia corpora, ut de his per innumerationem\ndierum infirma rerum condiuntur. Ideo noluit\ninferri, ut similiter cum superioribus fieri imperaret,\n sed congregatae aquae apparere per se infirma rerum\njussit. Ubi ergo congregatae sunt aquae si totam terram\nprius occupaverunt, illic, scilicet quo retractae\nsunt ut terra nudaretur. Et si aliqua pars antea arida\napparebat, ubi congregari potuisset, non ergo totum\nabyssus occupavit, sed magis intelligendum est, aut\nin modum nebulae prius aqua terram occupasset, aut\nterram longe lateque obsidens, qua cavum locum\npraebuisset, ubi percurrentes aquas capere potuissent\nut appareret arida.",
+      "voice": "Matthew"
+    }
+  ]
+}

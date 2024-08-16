@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Twenty-Two</s><break time=\"500ms\"/>\n    <s>All the faithful should learn the Lord's Prayer and the Creed. <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>Everyone, from the youngest to the oldest, must learn the Lord's Prayer and the Creed.</s>\n    <s>They need to understand that these two statements form the entire foundation of the Christian faith.</s>\n    <s>If someone doesn't memorize, believe, and frequently recite these, they cannot be considered Catholic.</s>\n    <s>It is decreed that no one shall be anointed with chrism, baptized, received from the baptismal font, or presented for confirmation before the bishop unless they have memorized the Creed and the Lord's Prayer, except for those too young to speak.</s>\n  </p>\n</speak>",
+      "original_latin": "XXII\nUt omnes fideles orationem Dominicam et symbolum\ndiscant  Commonendi sunt fideles ut generaliter omnes, a\nminimo usque ad maximum, orationem Dominicam\net symbolum discant; et dicendum eis, quod in his\nduabus sententiis omne fidei Christianae fundamentum\nincumbit, et nisi quis has duas sententias et\nmemoriter tenuerit, et ex toto corde crediderit, et\nin oratione saepissime frequentaverit, catholicus esse\nnon poterit. Constitutum namque est ut nullus\n chrismetur, neque baptizetur, neque a lavacro fontis\nillius suscipiatur, neque coram episcopo ad confirmandum\nquemlibet teneat, nisi symbolum et orationem\nDominicam memoriter tenuerit, exceptis his\nquos ad loquendum aetas minime perduxit",
+      "voice": "Matthew"
+    }
+  ]
+}
