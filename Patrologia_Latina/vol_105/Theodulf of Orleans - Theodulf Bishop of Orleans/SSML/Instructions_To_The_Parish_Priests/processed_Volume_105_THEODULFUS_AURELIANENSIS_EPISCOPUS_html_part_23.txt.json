@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Eleven <break time=\"500ms\"/>Masses should only be celebrated in a church.<break time=\"500ms\"/>\n    </s>\n  </p>\n  <p>\n    <s>\n      The solemnities of the masses must be held exclusively in a church, not in any houses or common places, but in the place the Lord has chosen.\n    </s>\n    <s>\n      As it is written: \n      <break time=\"500ms\"/>\n      \"Be careful not to offer your burnt offerings in just any place you see, but in the place which the Lord chooses to put his name.\"\n      <break time=\"500ms\"/>\n      <phoneme alphabet=\"ipa\" ph=\"dɛʊtəˈrɒnəmi\">Deuteronomy</phoneme> 12:13.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "XI. Ut missae nisi in ecclesia non celebrentur. Missarum solemnia nequaquam alibi nisi in ecclesia\ncelebranda sunt, non in quibuslibet domibus\net in vilibus locis, sed in loco quem elegerit Dominus,\njuxta illud quod scriptum est: Vide ne offeras\nholocausta tua in omni loco quem videris, sed in loco\nquem elegerit Dominus, ut ponat nomen suum ibi\n(Deut. XII, 13).",
+      "voice": "Matthew"
+    }
+  ]
+}

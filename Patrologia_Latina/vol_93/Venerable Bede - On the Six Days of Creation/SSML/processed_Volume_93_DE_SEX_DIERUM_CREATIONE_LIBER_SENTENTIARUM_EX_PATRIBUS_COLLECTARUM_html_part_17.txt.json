@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n        <p>\n            <s>On the fifth day, living creatures were created in the waters, symbolizing humans renewed to life through the sacrament of baptism.</s>\n            <s>Birds were also created, representing holy souls ascending to the heavens.</s>\n        </p>\n    \n</speak>",
+      "original_latin": "Item Recapitulatio.  Et iterum inter haec die quinta facta sunt in aquis\nreptilia animarum vivarum, homines scilicet renovati\nin vitam per baptismi sacramentum; facta sunt et\nvolatilia, id est, sanctae animae ad superna volantes.",
+      "voice": "Matthew"
+    }
+  ]
+}

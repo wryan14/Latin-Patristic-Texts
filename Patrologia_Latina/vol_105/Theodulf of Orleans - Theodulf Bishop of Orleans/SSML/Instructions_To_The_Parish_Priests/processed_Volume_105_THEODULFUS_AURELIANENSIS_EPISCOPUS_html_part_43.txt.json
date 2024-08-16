@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        Thirty-One <break time=\"500ms\"/> Those who come to confession must confess everything and be examined thoroughly. Confessions should cover all sins, whether committed in action or in thought. <break time=\"500ms\"/>\n    </p>\n    <p>\n        There are eight principal vices that almost everyone struggles with. They are gluttony, or excessive eating; fornication; sloth or sadness; greed; vain glory; envy; anger; and pride.\n    </p>\n    <p>\n        Therefore, when someone comes to confession, they should be carefully questioned about the circumstances under which they committed the sin they are confessing. Based on the nature of the act, appropriate penance should be assigned.\n    </p>\n    <p>\n        They should also be encouraged to confess their perverse thoughts and be guided to confess their struggles with the eight principal vices. The priest should name each vice and listen to their confession about it.\n    </p>\n</speak>",
+      "original_latin": "XXXI. Qui ad confessionem veniunt omnia confiteri, et de\nomnibus examinari debent. Confessiones dandae sunt de omnibus peccatis quae\nsive in opere, sive in cogitatione perpetrantur. Octo\nsunt principalia vitia, sine quibus vix ullus inveniri\npotest. Est enim gastrimargia, hoc est ventris ingluvies,\nsecundo fornicatio, tertio acedia sive tristitia,\n quarto avaritia, quinto vana gloria, sexto invidia,\nseptimo ira, octavo superbia. Quando ergo quis ad\nconfessionem venit, diligenter debet inquiri quomodo\naut qua occasione peccatum perpetraverit quod peregisse\nse confitetur, et juxta modum facti debet ei\npoenitentia indicari. Debet ei persuaderi ut et de perversis\ncogitationibus faciat confessionem. Debet ei\netiam injungi ut de octo principalibus vitiis faciat\nsuam confessionem, et nominatim ei debet sacerdos\nunumquodque vitium dicere, et suam de eo confessionem\naccipere.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            Thirty-Eight <break time=\"500ms\"/> Almsgiving should be combined with fasting. <break time=\"500ms\"/>\n        </s>\n    </p>\n    <p>\n        <s>\n            On fasting days, the food or drink you would have consumed should be given to the poor.\n        </s>\n        <s>\n            Simply saving your lunch for dinner is not a sacrifice; it's just an increase in food.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "XXXVIII. Quod cum jejunio eleemosyna jungenda sit. Diebus vero jejunii eleemosyna facienda est, et\ncibum vel potum, quo quisque uti debuit si non jejunaret,\n pauperibus eroget, quia jejunare et cibos\nprandii ad coenam reservare, non mercedis, sed ciborum\nest incrementum.",
+      "voice": "Matthew"
+    }
+  ]
+}

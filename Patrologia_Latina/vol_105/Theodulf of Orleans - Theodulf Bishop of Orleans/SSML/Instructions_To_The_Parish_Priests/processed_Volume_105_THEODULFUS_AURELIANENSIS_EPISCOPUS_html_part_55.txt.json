@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nForty-Three\n  <p>\n    <s>During these sacred days, spouses should abstain and live chastely and devoutly.</s> <break time=\"500ms\"/>\n    <s>This way, with a sanctified heart and body, these holy days are observed, allowing us to reach the holy day of Easter.</s>\n    <s>Fasting is almost worthless if it is tainted by marital acts and is not complemented by prayers, vigils, and alms.</s>\n  </p>\n</speak>",
+      "original_latin": "XLIII. Quod diebus jejuniorum abstinendum sit a conjugibus. Abstinendum est enim in his sacratissimis diebus\n a conjugibus, et caste et pie vivendum, ut sanctificato\ncorde et corpore isti sancti dies transigantur,\net sic perveniatur ad diem sanctum Paschae, quia\npene nihil valet jejunium quod conjugali opere poluitur,\net quod orationes, vigiliae et eleemosynae non\ncommendant.",
+      "voice": "Matthew"
+    }
+  ]
+}

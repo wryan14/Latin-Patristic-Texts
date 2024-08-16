@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    \n        <p>\n            <s>Fifteen.<break time=\"500ms\"/> Do not entice other clergy members.<break time=\"500ms\"/></s>\n            <s>We strictly forbid anyone from enticing or accepting another's clergy member.</s>\n            <s>The sacred canons impose severe punishment for this offense.</s>\n        </p>\n    \n</speak>",
+      "original_latin": "XV. Ne alienos item clericos sollicitent. Hoc quoque modis omnibus prohibemus, ut nullus\nvestrum alterius clericum sollicitet aut recipiat,\nquia gravis de hac re in sacris canonibus sententia\nest.",
+      "voice": "Matthew"
+    }
+  ]
+}

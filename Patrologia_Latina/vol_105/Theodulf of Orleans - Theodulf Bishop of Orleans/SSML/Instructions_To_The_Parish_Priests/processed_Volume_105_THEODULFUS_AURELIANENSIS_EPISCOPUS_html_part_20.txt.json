@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Eight <break time=\"500ms\"/> That in churches, besides sacred things, nothing else should be stored.<break time=\"500ms\"/></s>\n    </p>\n    <p>\n        <s>We often see churches being filled with harvests and hay.</s>\n        <break time=\"500ms\"/>\n        <s>Therefore, we strictly want this to be observed: that nothing should be stored in the church besides church vestments, holy vessels, and books.</s>\n        <break time=\"500ms\"/>\n        <s>If other activities are conducted there that shouldn't be, we might hear from the Lord:</s>\n        <break time=\"500ms\"/>\n        <s>\"My house shall be called a house of prayer; but you have made it a den of thieves\"</s>\n        <break time=\"500ms\"/><s>(Matthew 21:13).</s>\n    </p>\n</speak>",
+      "original_latin": "VIII. Ut in ecclesiis praeter res sacras alia non recondantur. Videmus crebro in ecclesiis messes et fenum\ncongeri, unde volumus et hoc penitus observetur, ut\nnihil in ecclesia praeter vestimenta ecclesiastica, et\nvasa sancta, et libros recondatur: Ne forte, si alia\nibi quam oportet negotia exerceantur, a Domino\naudiamus: Domus mea domus orationis vocabitur;\nvos autem fecistis eam speluncam latronum (Matth. XXI, 13).",
+      "voice": "Matthew"
+    }
+  ]
+}

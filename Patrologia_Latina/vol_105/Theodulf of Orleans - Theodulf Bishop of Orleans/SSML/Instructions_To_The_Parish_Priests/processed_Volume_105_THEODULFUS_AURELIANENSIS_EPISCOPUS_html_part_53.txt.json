@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p> Forty-One <break time=\"500ms\"/>\n    <s>Which days during Lent should the faithful receive Communion, and how to celebrate Easter week?</s> <break time=\"500ms\"/>\n  </p>\n  <p>\n    <s>On each Sunday in Lent, except for those who are excommunicated, the sacraments of the body and blood of Christ should be received.</s>\n    <s>On Holy Thursday, Good Friday, the Easter Vigil, and Easter Sunday, everyone should fully partake in Communion.</s>\n    <s>All the days of Easter week should be celebrated with equal reverence.</s>\n  </p>\n</speak>",
+      "original_latin": "XLI. Quibus diebus in Quadragesima communicare debeant\nfideles, et de paschalis hebdomadae celebritate. Singulis diebus Dominicis in Quadragesima, praeter\nhos qui excommunicati sunt, sacramenta corporis\net sanguinis Christi sumenda sunt, et in Coena\nDomini et in Parasceve, in vigilia Paschae, et in die\nResurrectionis Domini penitus ab omnibus communicandum,\net ipsi dies paschalis hebdomadae omnes\naequali religione colendi sunt.",
+      "voice": "Matthew"
+    }
+  ]
+}
