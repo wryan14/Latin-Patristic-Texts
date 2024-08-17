@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Prophet Hosea <break time=\"500ms\"/>\nby Haymo Bishop of Halberstadt <break time=\"2s\"/>\n</speak>",
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN OSEE PROPHETAM",
+      "voice": "Ruth"
+    }
+  ]
+}
