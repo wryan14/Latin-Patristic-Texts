@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Fourteen<break time=\"500ms\"/> Priests should not try to draw the faithful from other churches to their own.<break time=\"500ms\"/>\n    </s>\n    <s>\n      No priest should persuade members of God's Holy Church from another priest's parish to leave their church and give their tithes to him.\n    </s>\n    <s>\n      Each should be content with his own church and congregation, and follow the principle: \n      <break time=\"500ms\"/>\n      \"Whatever you want people to do to you, do the same to them\" (Matthew 7:12)\n    </s>\n    <s>\n      Anyone who goes against these rules or resists these warnings should know that they risk losing their position or being detained in prison for a long time.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "XIV. Ne aliarum ecclesiarum fideles ad suam ecclesiam\npertrahere nitantur. Nullus presbyter fidelibus sanctae Dei Ecclesiae de\nalterius presbyteri parochia persuadeat, ut ad suam\necclesiam concurrant relicta propria ecclesia, et\n suas decimas sibi dent; sed unusquisque sua ecclesia\net populo contentus, quod sibi non vult fieri alteri\nnequaquam faciat, juxta illud Evangelicum: Quaecunque\nvultis ut faciant vobis homines, haec eadem\nfacite illis (Matth. VII, 12). Quisquis autem contra\nhaec constituta venerit, aut his monitis nostris reniti\ntentaverit, aut gradum se sciat amissurum, aut\nin carcere longo tempore detinendum.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Fourteen<break time=\"500ms\"/> Priests should not try to draw the faithful from other churches to their own.<break time=\"500ms\"/>\n    </s>\n    <s>\n      No priest should persuade members of God's Holy Church from another priest's parish to leave their church and give their tithes to him.\n    </s>\n    <s>\n      Each should be content with his own church and congregation, and follow the principle: \n      <break time=\"500ms\"/>\n      \"Whatever you want people to do to you, do the same to them\" (Matthew 7:12)\n    </s>\n    <s>\n      Anyone who goes against these rules or resists these warnings should know that they risk losing their position or being detained in prison for a long time.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "XIV. Ne aliarum ecclesiarum fideles ad suam ecclesiam\npertrahere nitantur. Nullus presbyter fidelibus sanctae Dei Ecclesiae de\nalterius presbyteri parochia persuadeat, ut ad suam\necclesiam concurrant relicta propria ecclesia, et\n suas decimas sibi dent; sed unusquisque sua ecclesia\net populo contentus, quod sibi non vult fieri alteri\nnequaquam faciat, juxta illud Evangelicum: Quaecunque\nvultis ut faciant vobis homines, haec eadem\nfacite illis Matth VII 12. Quisquis autem contra\nhaec constituta venerit, aut his monitis nostris reniti\ntentaverit, aut gradum se sciat amissurum, aut\nin carcere longo tempore detinendum.",
+            "voice": "Matthew"
+        }
+    ]
 }

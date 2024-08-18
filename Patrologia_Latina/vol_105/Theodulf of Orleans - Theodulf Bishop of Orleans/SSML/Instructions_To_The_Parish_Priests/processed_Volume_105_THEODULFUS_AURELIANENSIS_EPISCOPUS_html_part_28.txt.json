@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Sixteen.<break time=\"500ms\"/> Regarding those who try to bribe their way into other people's churches.\n    <break time=\"500ms\"/></s>\n    <s>\n      If a priest is found to have given or is giving gifts to any clergy member or layperson in order to take over another priest's church, he should know that for this theft and cruel greed, he will either lose his position or be detained in prison for a long time doing penance.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "XVI. De his qui alienas ecclesias muneribus ambiunt. Si quis presbyter inventus fuerit alicui clerico\naut laico munera dare, aut dedisse, ut ecclesiam\nalterius presbyteri subripiat, sciat se pro hac rapina\net saeva cupiditate, aut gradum amissurum, aut in\ncarceris aerumna longo tempore poenitentiam agendo\ndetinendum.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Sixteen.<break time=\"500ms\"/> Regarding those who try to bribe their way into other people's churches.\n    <break time=\"500ms\"/></s>\n    <s>\n      If a priest is found to have given or is giving gifts to any clergy member or layperson in order to take over another priest's church, he should know that for this theft and cruel greed, he will either lose his position or be detained in prison for a long time doing penance.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "XVI. De his qui alienas ecclesias muneribus ambiunt. Si quis presbyter inventus fuerit alicui clerico\naut laico munera dare, aut dedisse, ut ecclesiam\nalterius presbyteri subripiat, sciat se pro hac rapina\net saeva cupiditate, aut gradum amissurum, aut in\ncarceris aerumna longo tempore poenitentiam agendo\ndetinendum.",
+            "voice": "Matthew"
+        }
+    ]
 }

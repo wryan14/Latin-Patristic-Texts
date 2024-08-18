@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Twenty <break time=\"500ms\"/> They themselves have schools where they educate the children of the faithful for free. <break time=\"500ms\"/></s>\n    <s>Priests should establish schools in towns and villages.</s>\n    <s>If any of the faithful wish to entrust their children to them to learn letters, they should not refuse to receive and teach them.</s>\n    <s>They should teach them with the utmost charity, keeping in mind what is written:</s>\n    <s>\"And those who are wise shall shine like the brightness of the sky; and those who lead many to righteousness, like the stars forever and ever\" <phoneme alphabet=\"ipa\" ph=\"ˈdæn.jəl\">Daniel</phoneme> 12:3.</s>\n    <s>Therefore, when they teach them, they should not demand any payment for this, nor accept anything from them except what the parents, out of a spirit of charity, willingly offer.</s>\n  </p>\n</speak>",
-      "original_latin": "XX. Ut scholas ipsi habeant in quibus fidelium parvulos\ngratis erudiant. Presbyteri per villas et vicos scholas habeant, et\nsi quilibet fidelium suos parvulos ad discendas litteras\neis commendare vult, eos suscipere et docere\n non renuant, sed cum summa charitate eos doceant,\nattendentes illud quod scriptum est: Qui\nautem docti fuerint fulgebunt quasi splendor firmamenti;\net qui ad justitiam erudiunt multos, fulgebunt\nquasi stellae in perpetuas aeternitates (Dan. XII, 3). Cum ergo eos docent, nihil ab eis pretii pro hac\nre exigant, nec aliquid ab eis accipiant, excepto\nquod eis parentes charitatis studio sua voluntate\nobtulerint.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Twenty <break time=\"500ms\"/> They themselves have schools where they educate the children of the faithful for free. <break time=\"500ms\"/></s>\n    <s>Priests should establish schools in towns and villages.</s>\n    <s>If any of the faithful wish to entrust their children to them to learn letters, they should not refuse to receive and teach them.</s>\n    <s>They should teach them with the utmost charity, keeping in mind what is written:</s>\n    <s>\"And those who are wise shall shine like the brightness of the sky; and those who lead many to righteousness, like the stars forever and ever\" <phoneme alphabet=\"ipa\" ph=\"ˈdæn.jəl\">Daniel</phoneme> 12:3.</s>\n    <s>Therefore, when they teach them, they should not demand any payment for this, nor accept anything from them except what the parents, out of a spirit of charity, willingly offer.</s>\n  </p>\n</speak>",
+            "original_latin": "XX. Ut scholas ipsi habeant in quibus fidelium parvulos\ngratis erudiant. Presbyteri per villas et vicos scholas habeant, et\nsi quilibet fidelium suos parvulos ad discendas litteras\neis commendare vult, eos suscipere et docere\n non renuant, sed cum summa charitate eos doceant,\nattendentes illud quod scriptum est: Qui\nautem docti fuerint fulgebunt quasi splendor firmamenti;\net qui ad justitiam erudiunt multos, fulgebunt\nquasi stellae in perpetuas aeternitates Dan XII 3. Cum ergo eos docent, nihil ab eis pretii pro hac\nre exigant, nec aliquid ab eis accipiant, excepto\nquod eis parentes charitatis studio sua voluntate\nobtulerint.",
+            "voice": "Matthew"
+        }
+    ]
 }

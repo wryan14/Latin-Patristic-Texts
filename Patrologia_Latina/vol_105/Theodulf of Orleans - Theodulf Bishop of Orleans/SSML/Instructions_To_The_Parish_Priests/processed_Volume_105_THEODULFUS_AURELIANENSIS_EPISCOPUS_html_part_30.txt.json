@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Eighteen <break time=\"500ms\"/> Sacred vessels should not be used for other purposes.<break time=\"500ms\"/>\n    </s>\n    <s>\n      No priest or layperson should use a chalice, paten, or any sacred vessel dedicated to divine worship for anything else.\n    </s>\n    <s>\n      Anyone who drinks from a consecrated chalice anything other than the blood of Christ, received in the sacrament, or uses the paten for anything other than the ministry of the altar, should heed the example of Belshazzar. When he took the Lord's vessels for common use, he lost his life and his kingdom.\n    </s>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"ˈdeɪniəl\">Daniel</phoneme> 5.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "XVIII. Ut vasa sacra in alios usus non detorqueant. Nullus presbyter seu laicus praesumat calicem, aut\npatenam, aut quaelibet vasa sacra et divino cultui\nmancipata, ad alios usus retorquere. Nam quicunque\nde calice sacrato aliud bibit praeter Christi sanguinem\nqui in sacramento accipitur, et patenam ad\naliud officium habet quam ad altaris ministerium,\ndeterrendus est exemplo Baltassar qui dum vasa Domini\nin usus communes assumpsit, vitam pariter cum\nregno amisit (Dan. V).",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Eighteen <break time=\"500ms\"/> Sacred vessels should not be used for other purposes.<break time=\"500ms\"/>\n    </s>\n    <s>\n      No priest or layperson should use a chalice, paten, or any sacred vessel dedicated to divine worship for anything else.\n    </s>\n    <s>\n      Anyone who drinks from a consecrated chalice anything other than the blood of Christ, received in the sacrament, or uses the paten for anything other than the ministry of the altar, should heed the example of Belshazzar. When he took the Lord's vessels for common use, he lost his life and his kingdom.\n    </s>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"ˈdeɪniəl\">Daniel</phoneme> 5.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "XVIII. Ut vasa sacra in alios usus non detorqueant. Nullus presbyter seu laicus praesumat calicem, aut\npatenam, aut quaelibet vasa sacra et divino cultui\nmancipata, ad alios usus retorquere. Nam quicunque\nde calice sacrato aliud bibit praeter Christi sanguinem\nqui in sacramento accipitur, et patenam ad\naliud officium habet quam ad altaris ministerium,\ndeterrendus est exemplo Baltassar qui dum vasa Domini\nin usus communes assumpsit, vitam pariter cum\nregno amisit Dan V.",
+            "voice": "Matthew"
+        }
+    ]
 }

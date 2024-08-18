@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Six <break time=\"500ms\"/> Women should not approach the altar while Mass is being celebrated. <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>Women should not come near the altar during Mass when the priest is celebrating.</s>\n    <s>They should remain in their places, and the priest will take their offerings to present to God.</s>\n  </p>\n  <p>\n    <s>Women should be mindful of their perceived weakness and the frailty of their sex, and thus should refrain from touching anything sacred in the service of the Church.</s>\n    <s>Men who are not clergy should also be cautious, recalling the story of Uzzah, who was struck down by the Lord when he tried to touch the Ark of the Lord without permission.</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"tʊˈsæmjʊəl\">Second Samuel</phoneme> chapter 6.</s>\n  </p>\n</speak>",
-      "original_latin": "VI. Ut feminae ad altare, dum missae celebrantur, non\naccedant. Feminae missam, sacerdote celebrante nequaquam\nad altare accedant, sed locis suis stent, et ibi\nsacerdos earum oblationes Deo oblaturus accipiat. Memores enim esse debent feminae infirmitatis suae\n at sexus imbecillitatis, et idcirco sancta quaelibet\nin ministerio Ecclesiae contingere pertimescant;\nquae etiam laici viri pertimescere debent, ne Ozae\npoenam subeant, qui dum arcam Domini extraordinarie\ncontingere voluit, Domino percutiente interiit\n(II Reg. VI).",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Six <break time=\"500ms\"/> Women should not approach the altar while Mass is being celebrated. <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>Women should not come near the altar during Mass when the priest is celebrating.</s>\n    <s>They should remain in their places, and the priest will take their offerings to present to God.</s>\n  </p>\n  <p>\n    <s>Women should be mindful of their perceived weakness and the frailty of their sex, and thus should refrain from touching anything sacred in the service of the Church.</s>\n    <s>Men who are not clergy should also be cautious, recalling the story of Uzzah, who was struck down by the Lord when he tried to touch the Ark of the Lord without permission.</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"tʊˈsæmjʊəl\">Second Samuel</phoneme> chapter 6.</s>\n  </p>\n</speak>",
+            "original_latin": "VI. Ut feminae ad altare, dum missae celebrantur, non\naccedant. Feminae missam, sacerdote celebrante nequaquam\nad altare accedant, sed locis suis stent, et ibi\nsacerdos earum oblationes Deo oblaturus accipiat. Memores enim esse debent feminae infirmitatis suae\n at sexus imbecillitatis, et idcirco sancta quaelibet\nin ministerio Ecclesiae contingere pertimescant;\nquae etiam laici viri pertimescere debent, ne Ozae\npoenam subeant, qui dum arcam Domini extraordinarie\ncontingere voluit, Domino percutiente interiit\nII Reg VI.",
+            "voice": "Matthew"
+        }
+    ]
 }

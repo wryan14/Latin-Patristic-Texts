@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Seventeen <break time=\"500ms\"/> Do not refuse baptism to sick children from other parishes.<break time=\"500ms\"/>\n    </s>\n    <s>\n      If a sick child is brought to any priest for baptism, regardless of their parish, the sacrament should not be refused.\n    </s>\n    <s>\n      If anyone denies this request and the child dies without being baptized, the person who refused will be held accountable for the child's soul.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "XVII. Ut parvulis aliarum parochiarum aegrotantibus baptismum\nnon negent. Si parvulus aegrotans ad quemlibet presbyterum\nbaptismi gratia de cujuslibet parochia allatus fuerit,\nei baptismi sacramentum nullo modo negetur. Si\nquis hoc munus petenti concedere detrectaverit, et\n ille parvulus absque baptismatis gratia mortuus\nfuerit, noverit se ille qui eum non baptizavit, pro\nejus anima rationem redditurum.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Seventeen <break time=\"500ms\"/> Do not refuse baptism to sick children from other parishes.<break time=\"500ms\"/>\n    </s>\n    <s>\n      If a sick child is brought to any priest for baptism, regardless of their parish, the sacrament should not be refused.\n    </s>\n    <s>\n      If anyone denies this request and the child dies without being baptized, the person who refused will be held accountable for the child's soul.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "XVII. Ut parvulis aliarum parochiarum aegrotantibus baptismum\nnon negent. Si parvulus aegrotans ad quemlibet presbyterum\nbaptismi gratia de cujuslibet parochia allatus fuerit,\nei baptismi sacramentum nullo modo negetur. Si\nquis hoc munus petenti concedere detrectaverit, et\n ille parvulus absque baptismatis gratia mortuus\nfuerit, noverit se ille qui eum non baptizavit, pro\nejus anima rationem redditurum.",
+            "voice": "Matthew"
+        }
+    ]
 }

@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Two<break time=\"500ms\"/>\n        <phoneme alphabet=\"ipa\" ph=\"ðæt\">That</phoneme> reading and praying should be done constantly.<break time=\"500ms\"/>\n      \n    </s>\n  </p>\n  <p>\n    <s>\n      You should dedicate yourselves continuously to both reading and praying, because the life of a righteous person is guided, adorned, and protected from sin by reading regularly.\n    </s>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"əkɔ́rdɪŋ\">According</phoneme> to the one who said: \n      <break time=\"500ms\"/>\n      \n        \"I have hidden your word in my heart, that I might not sin against you\" (Psalm 119:11).\n      \n      <break time=\"500ms\"/>\n    </s>\n    <s>\n      For these are the weapons, namely reading and praying, by which the devil is defeated.\n    </s>\n    <s>\n      These are the tools by which eternal happiness is obtained.\n    </s>\n    <s>\n      With these weapons, vices are suppressed.\n    </s>\n    <s>\n      With this nourishment, virtues are nurtured.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "II. Quod lectioni et orationi assidue vacandum sit. Oportet vos et assiduitatem habere legendi, et\ninstantiam orandi, quia vita viri justi lectione instruitur,\nornatur, et assiduitate lectionis munitur\nhomo a peccato, juxta illum qui dicebat: In corde\nmeo abscondi eloquia tua, ut non peccem tibi (Psal. CXVIII, 11). Haec sunt enim arma, lectio videlicet et\noratio, quibus diabolus expugnatur: haec sunt instrumenta\nquibus aeterna beatitudo acquiritur: his\narmis vitia comprimuntur: his alimentis virtutes\nnutriuntur.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Two<break time=\"500ms\"/>\n        <phoneme alphabet=\"ipa\" ph=\"ðæt\">That</phoneme> reading and praying should be done constantly.<break time=\"500ms\"/>\n      \n    </s>\n  </p>\n  <p>\n    <s>\n      You should dedicate yourselves continuously to both reading and praying, because the life of a righteous person is guided, adorned, and protected from sin by reading regularly.\n    </s>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"əkɔ́rdɪŋ\">According</phoneme> to the one who said: \n      <break time=\"500ms\"/>\n      \n        \"I have hidden your word in my heart, that I might not sin against you\" (Psalm 119:11).\n      \n      <break time=\"500ms\"/>\n    </s>\n    <s>\n      For these are the weapons, namely reading and praying, by which the devil is defeated.\n    </s>\n    <s>\n      These are the tools by which eternal happiness is obtained.\n    </s>\n    <s>\n      With these weapons, vices are suppressed.\n    </s>\n    <s>\n      With this nourishment, virtues are nurtured.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "II. Quod lectioni et orationi assidue vacandum sit. Oportet vos et assiduitatem habere legendi, et\ninstantiam orandi, quia vita viri justi lectione instruitur,\nornatur, et assiduitate lectionis munitur\nhomo a peccato, juxta illum qui dicebat: In corde\nmeo abscondi eloquia tua, ut non peccem tibi Psal CXVIII 11. Haec sunt enim arma, lectio videlicet et\noratio, quibus diabolus expugnatur: haec sunt instrumenta\nquibus aeterna beatitudo acquiritur: his\narmis vitia comprimuntur: his alimentis virtutes\nnutriuntur.",
+            "voice": "Matthew"
+        }
+    ]
 }

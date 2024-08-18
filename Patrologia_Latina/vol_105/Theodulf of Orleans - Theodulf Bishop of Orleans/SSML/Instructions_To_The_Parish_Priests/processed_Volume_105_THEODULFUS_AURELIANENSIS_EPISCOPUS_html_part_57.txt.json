@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Forty-Five <break time=\"500ms\"/> On Sundays, people should not be distracted from public worship by special masses. <break time=\"500ms\"/>\n    </s>\n  </p>\n  <p>\n    <s>\n      Special masses conducted by priests on Sundays should not be held in such a way that they distract people from the solemn public masses, which are canonically held at 9 AM.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      It is unfortunate that some, on Sundays or other festive days, upon hearing that a mass is being celebrated, even if it is for the deceased, leave immediately.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      They spend the whole day from early morning in drunkenness and feasting rather than serving God.\n    </s>\n  </p>\n</speak>",
-      "original_latin": "XLV. Ut diebus Dominicis populus per missas peculiares a\npublicis non abstrahatur. Ut Missae, quae per dies Dominicos peculiares a\nsacerdotibus fiunt, non ita in publico fiant, ut per\neas populus a publicis missarum solemnibus, quae\n hora tertia canonice fiunt, abstrahatur: quia pessimus\nusus est apud quosdam, qui in diebus Dominicis,\nsive in quibuslibet festivitatibus, mox ubi missam\ncelebrari, etiamsi pro defunctis sit, audierint,\nabscedunt, ut per totum diem a primo mane ebrietati\net comessationi potius quam Deo deserviant",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Forty-Five <break time=\"500ms\"/> On Sundays, people should not be distracted from public worship by special masses. <break time=\"500ms\"/>\n    </s>\n  </p>\n  <p>\n    <s>\n      Special masses conducted by priests on Sundays should not be held in such a way that they distract people from the solemn public masses, which are canonically held at 9 AM.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      It is unfortunate that some, on Sundays or other festive days, upon hearing that a mass is being celebrated, even if it is for the deceased, leave immediately.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      They spend the whole day from early morning in drunkenness and feasting rather than serving God.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "XLV. Ut diebus Dominicis populus per missas peculiares a\npublicis non abstrahatur. Ut Missae, quae per dies Dominicos peculiares a\nsacerdotibus fiunt, non ita in publico fiant, ut per\neas populus a publicis missarum solemnibus, quae\n hora tertia canonice fiunt, abstrahatur: quia pessimus\nusus est apud quosdam, qui in diebus Dominicis,\nsive in quibuslibet festivitatibus, mox ubi missam\ncelebrari, etiamsi pro defunctis sit, audierint,\nabscedunt, ut per totum diem a primo mane ebrietati\net comessationi potius quam Deo deserviant",
+            "voice": "Matthew"
+        }
+    ]
 }

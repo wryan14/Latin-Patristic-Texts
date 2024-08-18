@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Thirteen <break time=\"500ms\"/>Priests Should Avoid Drunkenness and Taverns, and Not Socialize Recklessly <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>You must ensure that you avoid drunkenness.</s> \n    <s>Additionally, you should preach that the people under your care abstain from it.</s>\n  </p>\n  <p>\n    <s>Do not visit taverns for drinking or eating, and do not wander through houses or neighborhoods out of curiosity.</s> \n    <s>Do not hold gatherings with women or with any impure persons.</s>\n  </p>\n  <p>\n    <s>However, if a head of a household invites you to his home with his wife and children to share in spiritual joy, and to receive spiritual nourishment from your words, and to offer you physical nourishment as an act of charity, it is proper that if any of the faithful provides you with a meal, they should be spiritually nourished by you in return.</s>\n  </p>\n</speak>",
-      "original_latin": "XIII. Ut presbyteri ab ebrietate et tabernis abstineant, nec\ntemere cum quibuslibet conviventur  Observandum vobis est, ut et vos ab ebrietate abstineatis,\net ut plebes subditae abstineant praedicetis,\net neque per tabernas eatis bibendo aut comedendo,\nneque domos aut vicos curiositate qualibet peragretis,\n neque cum feminis aut cum quibuslibet impuris\npersonis convivia exerceatis. Nisi forte paterfamilias\nquilibet vos ad domum suam invitaverit, et cum\nsua conjuge et prole velit vobiscum spiritali gaudio\nlaetari, et verborum vestrorum refectionem accipere,\net vobis refectionem carnalem charitatis officio exhibere;\noportet enim, ut si quando quilibet fidelium\ncarnalibus vos reficit epulis, a vobis reficiatur epulis\nspiritalibus.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Thirteen <break time=\"500ms\"/>Priests Should Avoid Drunkenness and Taverns, and Not Socialize Recklessly <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>You must ensure that you avoid drunkenness.</s> \n    <s>Additionally, you should preach that the people under your care abstain from it.</s>\n  </p>\n  <p>\n    <s>Do not visit taverns for drinking or eating, and do not wander through houses or neighborhoods out of curiosity.</s> \n    <s>Do not hold gatherings with women or with any impure persons.</s>\n  </p>\n  <p>\n    <s>However, if a head of a household invites you to his home with his wife and children to share in spiritual joy, and to receive spiritual nourishment from your words, and to offer you physical nourishment as an act of charity, it is proper that if any of the faithful provides you with a meal, they should be spiritually nourished by you in return.</s>\n  </p>\n</speak>",
+            "original_latin": "XIII. Ut presbyteri ab ebrietate et tabernis abstineant, nec\ntemere cum quibuslibet conviventur  Observandum vobis est, ut et vos ab ebrietate abstineatis,\net ut plebes subditae abstineant praedicetis,\net neque per tabernas eatis bibendo aut comedendo,\nneque domos aut vicos curiositate qualibet peragretis,\n neque cum feminis aut cum quibuslibet impuris\npersonis convivia exerceatis. Nisi forte paterfamilias\nquilibet vos ad domum suam invitaverit, et cum\nsua conjuge et prole velit vobiscum spiritali gaudio\nlaetari, et verborum vestrorum refectionem accipere,\net vobis refectionem carnalem charitatis officio exhibere;\noportet enim, ut si quando quilibet fidelium\ncarnalibus vos reficit epulis, a vobis reficiatur epulis\nspiritalibus.",
+            "voice": "Matthew"
+        }
+    ]
 }
