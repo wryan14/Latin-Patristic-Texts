@@ -10,3 +10,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Mystical Exposition on Ecclesiastes by Salonius - Archive.org](https://archive.org/details/mystical-exposition-on-the-proverbs-of-solomon)
 * [Against Greed in four books Book One by Salvian of Marseille - Archive.org](https://archive.org/details/against-greed-in-four-books-book-one)
 * [Against Greed in four books Book One by Salvian of Marseille - Archive.org](https://archive.org/details/against-greed-in-four-books-book-one)
+* [Against Greed in four books Book Two by Salvian of Marseille - Archive.org](https://archive.org/details/against-greed-in-four-books-book-two)
