@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n           Seven <break time=\"500ms\"/> That the priest should not celebrate Mass alone. <break time=\"500ms\"/>\n        </s>\n    </p>\n    <p>\n        <s>\n            The priest should never celebrate Mass alone because the Mass requires the priest's greeting and the people's response. It involves the priest's admonition and, again, the people's response. \n        </s>\n        <s>\n            Therefore, it should never be celebrated by one person alone. \n        </s>\n        <s>\n            There must be those present who stand around him, whom he greets, and from whom he receives a response. \n        </s>\n        <s>\n            This brings to mind the Lord's saying: <break time=\"500ms\"/> \n            \"Where two or three are gathered in my name, I am there among them\" (Matthew 18:20).\n        </s>\n    </p>\n</speak>",
-      "original_latin": "VII. Ut sacerdos missam solus non celebret. Sacerdos missam solus nequaquam celebret, quia\nsicut illa celebrari non potest sine salutatione sacerdotis,\nresponsione plebis, admonitione sacerdotis,\nresponsione nihilominus plebis, ita nimirum nequaquam\nab uno debet celebrari. Esse enim debent qui\nei circumstent, quos ille salutet, a quibus ei respondeatur,\net ad memoriam illi reducendum est illud Dominicum:\n Ubicunque fuerint duo veltres in nomine meo\ncongregati, et ego in medio eorum (Matth. XVIII, 20).",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n           Seven <break time=\"500ms\"/> That the priest should not celebrate Mass alone. <break time=\"500ms\"/>\n        </s>\n    </p>\n    <p>\n        <s>\n            The priest should never celebrate Mass alone because the Mass requires the priest's greeting and the people's response. It involves the priest's admonition and, again, the people's response. \n        </s>\n        <s>\n            Therefore, it should never be celebrated by one person alone. \n        </s>\n        <s>\n            There must be those present who stand around him, whom he greets, and from whom he receives a response. \n        </s>\n        <s>\n            This brings to mind the Lord's saying: <break time=\"500ms\"/> \n            \"Where two or three are gathered in my name, I am there among them\" (Matthew 18:20).\n        </s>\n    </p>\n</speak>",
+            "original_latin": "VII. Ut sacerdos missam solus non celebret. Sacerdos missam solus nequaquam celebret, quia\nsicut illa celebrari non potest sine salutatione sacerdotis,\nresponsione plebis, admonitione sacerdotis,\nresponsione nihilominus plebis, ita nimirum nequaquam\nab uno debet celebrari. Esse enim debent qui\nei circumstent, quos ille salutet, a quibus ei respondeatur,\net ad memoriam illi reducendum est illud Dominicum:\n Ubicunque fuerint duo veltres in nomine meo\ncongregati, et ego in medio eorum Matth XVIII 20.",
+            "voice": "Matthew"
+        }
+    ]
 }

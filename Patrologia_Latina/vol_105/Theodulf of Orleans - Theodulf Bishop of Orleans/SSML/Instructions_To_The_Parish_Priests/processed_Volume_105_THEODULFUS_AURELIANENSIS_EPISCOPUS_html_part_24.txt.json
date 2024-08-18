@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    Twelve <break time=\"500ms\"/>Women should not live with a priest.<break time=\"500ms\"/>\n  </p>\n  <p>\n    No woman should live in the same house as a priest. \n    <break time=\"500ms\"/>\n    Although the canons allow his mother, sister, and similar individuals without suspicion to live with him, \n    <break time=\"500ms\"/>\n    we completely prohibit this because other women, who are not related to him, may come to serve or visit and tempt him to sin.\n  </p>\n</speak>",
-      "original_latin": "XII. Ut feminae cum presbytero non habitent. Nulla femina cum presbytero in una domo habitet. Quamvis enim canones matrem, et sororem, et hujuscemodi\npersonas, in quibus nulla sit suspicio, cum\nillo habitare concedant, hoc nos modis omnibus\nidcirco amputamus, quia in obsequio sive occasione\nillarum veniunt aliae feminae quae non sunt\nei affinitate conjunctae, et eum ad peccandum illiciunt.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    Twelve <break time=\"500ms\"/>Women should not live with a priest.<break time=\"500ms\"/>\n  </p>\n  <p>\n    No woman should live in the same house as a priest. \n    <break time=\"500ms\"/>\n    Although the canons allow his mother, sister, and similar individuals without suspicion to live with him, \n    <break time=\"500ms\"/>\n    we completely prohibit this because other women, who are not related to him, may come to serve or visit and tempt him to sin.\n  </p>\n</speak>",
+            "original_latin": "XII. Ut feminae cum presbytero non habitent. Nulla femina cum presbytero in una domo habitet. Quamvis enim canones matrem, et sororem, et hujuscemodi\npersonas, in quibus nulla sit suspicio, cum\nillo habitare concedant, hoc nos modis omnibus\nidcirco amputamus, quia in obsequio sive occasione\nillarum veniunt aliae feminae quae non sunt\nei affinitate conjunctae, et eum ad peccandum illiciunt.",
+            "voice": "Matthew"
+        }
+    ]
 }

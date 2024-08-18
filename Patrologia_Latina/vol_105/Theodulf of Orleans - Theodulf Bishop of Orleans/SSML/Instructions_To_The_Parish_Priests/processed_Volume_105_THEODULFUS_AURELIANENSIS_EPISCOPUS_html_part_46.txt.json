@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n   Thirty-Four <break time=\"500ms\"/> What True Love  <break time=\"500ms\"/>Is.\n  </p>\n  <p>\n    People should be reminded that true love means loving God more than oneself, loving your neighbor as yourself, and not doing to others what you wouldn't want done to you.\n  </p>\n  <p>\n    There are many other aspects to consider, but listing them all would take too long. If anyone thinks love is only about food, drink, and exchanging gifts, they are greatly mistaken.\n  </p>\n  <p>\n    As the Apostle says, <break time=\"500ms\"/> \"The kingdom of God is not a matter of eating and drinking\" <break time=\"500ms\"/> (Romans 14:17). When these actions are done with love, they are good and should be considered among the virtues.\n  </p>\n</speak>",
-      "original_latin": "XXXIV. Vera charitas quaenam sit. Admonendus est populus quod haec sit vera charitas\nquae Deum diligit plusquam se, et proximum\ntanquam se, et quae nihil vult alii facere nisi quod\n sibi vult fieri; et plura quae recensere longum est. Nam et quicunque in potu et cibo, et dandis atque\naccipiendis rebus, charitatem tantum putant, non\nmediocriter errant, dicente Apostolo, Regnum Dei\nnon est cibus et potus (Rom. XIV, 17). Nam et ipsa\nquando cum charitate faciunt, bona sunt, et inter\nvirtutes computanda.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n   Thirty-Four <break time=\"500ms\"/> What True Love  <break time=\"500ms\"/>Is.\n  </p>\n  <p>\n    People should be reminded that true love means loving God more than oneself, loving your neighbor as yourself, and not doing to others what you wouldn't want done to you.\n  </p>\n  <p>\n    There are many other aspects to consider, but listing them all would take too long. If anyone thinks love is only about food, drink, and exchanging gifts, they are greatly mistaken.\n  </p>\n  <p>\n    As the Apostle says, <break time=\"500ms\"/> \"The kingdom of God is not a matter of eating and drinking\" <break time=\"500ms\"/> (Romans 14:17). When these actions are done with love, they are good and should be considered among the virtues.\n  </p>\n</speak>",
+            "original_latin": "XXXIV. Vera charitas quaenam sit. Admonendus est populus quod haec sit vera charitas\nquae Deum diligit plusquam se, et proximum\ntanquam se, et quae nihil vult alii facere nisi quod\n sibi vult fieri; et plura quae recensere longum est. Nam et quicunque in potu et cibo, et dandis atque\naccipiendis rebus, charitatem tantum putant, non\nmediocriter errant, dicente Apostolo, Regnum Dei\nnon est cibus et potus Rom XIV 17. Nam et ipsa\nquando cum charitate faciunt, bona sunt, et inter\nvirtutes computanda.",
+            "voice": "Matthew"
+        }
+    ]
 }

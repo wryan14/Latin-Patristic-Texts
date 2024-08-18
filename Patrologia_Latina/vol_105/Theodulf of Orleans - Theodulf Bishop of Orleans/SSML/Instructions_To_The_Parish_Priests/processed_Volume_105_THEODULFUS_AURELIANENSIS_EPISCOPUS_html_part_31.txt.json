@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Nineteen <break time=\"500ms\"/>Which schools can they send their relatives to, if they want? <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>If any of the priests wishes to send his nephew or any relative to a school, whether it be in the church of the Holy Cross, the monastery of Saint Anianus, Saint Benedict, Saint Lifardus, or any of the other monasteries granted to us to manage, we grant him permission to do so.</s>\n  </p>\n</speak>",
-      "original_latin": "XIX. Ad quas scholas mittere consanguineos suos possint,\nsi velint. Si quis ex presbyteris voluerit nepotem suum,\naut aliquem consanguineum, ad scholam mittere,\nin ecclesia Sanctae Crucis, aut in monasterio\nSancti Aniani, aut Sancti Benedicti, aut Sancti\nLifardi, aut in caeteris de his coenobiis quae nobis ad\nregendum concessa sunt, ei licentiam id faciendi\nconcedimus.",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Nineteen <break time=\"500ms\"/>Which schools can they send their relatives to, if they want? <break time=\"500ms\"/></s>\n  </p>\n  <p>\n    <s>If any of the priests wishes to send his nephew or any relative to a school, whether it be in the church of the Holy Cross, the monastery of Saint Anianus, Saint Benedict, Saint Lifardus, or any of the other monasteries granted to us to manage, we grant him permission to do so.</s>\n  </p>\n</speak>",
+            "original_latin": "XIX. Ad quas scholas mittere consanguineos suos possint,\nsi velint. Si quis ex presbyteris voluerit nepotem suum,\naut aliquem consanguineum, ad scholam mittere,\nin ecclesia Sanctae Crucis, aut in monasterio\nSancti Aniani, aut Sancti Benedicti, aut Sancti\nLifardi, aut in caeteris de his coenobiis quae nobis ad\nregendum concessa sunt, ei licentiam id faciendi\nconcedimus.",
+            "voice": "Matthew"
+        }
+    ]
 }

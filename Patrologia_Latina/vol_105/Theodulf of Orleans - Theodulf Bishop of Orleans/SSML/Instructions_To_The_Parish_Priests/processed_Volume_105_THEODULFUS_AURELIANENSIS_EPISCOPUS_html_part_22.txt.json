@@ -1,10 +1,10 @@
 {
-  "chunks": [
-    {
-      "chunk_number": 1,
-      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Ten <break time=\"500ms\"/>To prohibit idle talk and profane actions in the church.<break time=\"500ms\"/></s>\n    </p>\n    <p>\n        <s>You should come to church solely to praise the Lord and to perform His service.</s>\n        <s>Arguments, disturbances, idle talk, and similar actions should be completely banned from this holy place.</s>\n    </p>\n    <p>\n        <s>Where the name of God is invoked, a sacrifice to God is offered, and the presence of angels is undoubted, it is dangerous to say or do anything inappropriate for that place.</s>\n        <break time=\"500ms\"/>\n        <s>If the Lord drove out of the temple those who were buying and selling sacrifices to be offered to Him, how much more will He angrily cast out those who defile the place dedicated to divine worship with lies, idle talk, laughter, and other such nonsense?</s>\n        <break time=\"500ms\"/>\n        <s>(Matthew chapter 21, verse 12)</s>\n    </p>\n</speak>",
-      "original_latin": "X. Ut vaniloquia et profanae actiones in ecclesia prohibeantur. Non debetis ad ecclesiam ob aliam causam convenire,\nnisi ad laudem Domini et ejus servitium\nfaciendum. Disceptationes vero, et tumultus, et\nvaniloquia, et caeterae actiones ab eodem sancto loco\npenitus prohibendae sunt. Ubi enim Dei nomen invocatur,\nDeo sacrificium offertur, angelorum frequentia\ninesse non dubitatur, periculosum est tale\naliquid dicere vel agere quod loco non convenit. Si\nenim Dominus illos de templo ejecit qui victimas\n quae sibi offerrentur emebant vel vendebant, quanto\nmagis illos iratus inde abjiciet qui mendaciis, vaniloquiis,\nrisibus et hujuscemodi nugis locum divino\ncultui mancipatum foedant (Matth. XXI, 12)?",
-      "voice": "Matthew"
-    }
-  ]
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>Ten <break time=\"500ms\"/>To prohibit idle talk and profane actions in the church.<break time=\"500ms\"/></s>\n    </p>\n    <p>\n        <s>You should come to church solely to praise the Lord and to perform His service.</s>\n        <s>Arguments, disturbances, idle talk, and similar actions should be completely banned from this holy place.</s>\n    </p>\n    <p>\n        <s>Where the name of God is invoked, a sacrifice to God is offered, and the presence of angels is undoubted, it is dangerous to say or do anything inappropriate for that place.</s>\n        <break time=\"500ms\"/>\n        <s>If the Lord drove out of the temple those who were buying and selling sacrifices to be offered to Him, how much more will He angrily cast out those who defile the place dedicated to divine worship with lies, idle talk, laughter, and other such nonsense?</s>\n        <break time=\"500ms\"/>\n        <s>(Matthew chapter 21, verse 12)</s>\n    </p>\n</speak>",
+            "original_latin": "X. Ut vaniloquia et profanae actiones in ecclesia prohibeantur. Non debetis ad ecclesiam ob aliam causam convenire,\nnisi ad laudem Domini et ejus servitium\nfaciendum. Disceptationes vero, et tumultus, et\nvaniloquia, et caeterae actiones ab eodem sancto loco\npenitus prohibendae sunt. Ubi enim Dei nomen invocatur,\nDeo sacrificium offertur, angelorum frequentia\ninesse non dubitatur, periculosum est tale\naliquid dicere vel agere quod loco non convenit. Si\nenim Dominus illos de templo ejecit qui victimas\n quae sibi offerrentur emebant vel vendebant, quanto\nmagis illos iratus inde abjiciet qui mendaciis, vaniloquiis,\nrisibus et hujuscemodi nugis locum divino\ncultui mancipatum foedant Matth XXI 12?",
+            "voice": "Matthew"
+        }
+    ]
 }
