@@ -7,3 +7,5 @@ An audio version of this work is available on Archive.org for free download:
 * [On the Prophet Jonah by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-jonah)
 * [On the Prophet Micah by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-micah)
 * [On the Prophet Hosea by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-hosea)
+
+* [On the Prophet Zechariah by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-zechariah)
