@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Flight from the World\n<break time=\"500ms\"/>\nAmbrose of Milan\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "SANCTI AMBROSII\nMEDIOLANENSIS EPISCOPI\nDE FUGA SAECULI LIBER UNUS",
+      "voice": "Ruth"
+    }
+  ]
+}
