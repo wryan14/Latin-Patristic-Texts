@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "\nHAYMO HALBERSTATISCHEN EPISCOPUS\nIN ABDIAM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Obadiah<break time=\"500ms\"/>\nHaymo Bishop of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    In the prophet Obadiah's time, the Hebrews say he lived during the reign of Ahab, the king of Samaria, and the very wicked queen Jezebel. Obadiah fed one hundred prophets in caves who did not bow their knees to Baal. These were among the seven thousand whom Elijah is said to have not known about.\n  </p>\n  <p>\n    His tomb, along with the mausoleums of the prophet Elisha and John the Baptist, is still greatly venerated today in Sebaste, which was formerly called Samaria. Because he fed one hundred prophets, it is said that he received the spirit of prophecy. From being a leader of the army, he became a leader of the Church.\n  </p>\n  <p>\n    What the Lord said was fulfilled in him: \"He who receives a prophet in the name of a prophet will receive a prophet's reward.\"\n  </p>\n  <p>\n    Then, in Samaria, he fed a small flock; now, in the whole world, he tends the Church of Christ.\n  </p>\n</speak>",
+      "original_latin": "Abdiam prophetam esse aiunt Hebraei, qui sub\nrege Samariae Achab et impiissima regina Jezabel,\npavit centum prophetas in specubus, qui non curvaverunt\n genua Baal, et de septem millibus erant quos\nElias arguitur ignorasse, sepulcrumque ejus usque\nhodie cum mausoleo Elisei prophetae et Joannis Baptistae\n in Sebaste, quae olim Samaria dicebatur, cum\nmagna veneratione habetur. Legitur quia centum\nprophetas paverat, accepit spiritum prophetiae, et\nde duce exercitus fit dux Ecclesiae, et impletum est\nin illo quod Dominus ait: Qui recipit prophetam in\nnomine prophetae, mercedem prophetae accipiet. Tunc in Samaria parvum gregem paverat, nunc in\ntoto orbe Christi pascit Ecclesiam.",
+      "voice": "Matthew"
+    }
+  ]
+}
