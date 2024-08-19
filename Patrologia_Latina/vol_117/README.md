@@ -9,3 +9,4 @@ An audio version of this work is available on Archive.org for free download:
 * [On the Prophet Hosea by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-hosea)
 
 * [On the Prophet Zechariah by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-zechariah)
+* [On the Prophet Obadiah by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-obadiah)
