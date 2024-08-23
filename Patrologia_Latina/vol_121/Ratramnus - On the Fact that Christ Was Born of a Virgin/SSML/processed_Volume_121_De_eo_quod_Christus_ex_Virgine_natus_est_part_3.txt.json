@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "AUCTORIS PRAEFATIO. ",
+            "cleaned_english_translation": "<speak>\n    Author's Preface\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            If we are all considered Christians under one teacher, Christ, and if we all glorify one heavenly Father, united by the bond of one Spirit in the framework of one love, then there is no reason for me to fear that I am separated from your esteem, or that my writings are not suitable for your faith.\n        </s>\n        <s>\n            For the kinship of the Spirit is much greater than any blood relation.\n        </s>\n        <s>\n            Earthly lineage is certainly much lower than divine lineage, and the duties of temporal service do not produce as much grace of love as the fire of divine love generates.\n        </s>\n        <s>\n            Therefore, let any unfamiliar face, unknown name, or lack of acquaintance be set aside here, where such great and necessary rights of social union are agreed upon.\n        </s>\n        <s>\n            Thus, do not reject as a stranger the one whom the heavenly condition has made your close brother.\n        </s>\n        <s>\n            Since this is the case, I implore your reverence not to hesitate to respond to the suggestion of my humility.\n        </s>\n    </p>\n</speak>",
+            "original_latin": "Si uno sub magistro Christo omnes Christiani\ncensemur, si uno coelesti Patre universi credentes\ngloriamur, si unius Spiritus foedere in unius\ncharitatis compage solidamur, non est quod me\na tua dignatione sejunctum verear, quominus religioni\ntuae familiaria scripta procudam. Non enim\nvel sanguinis propinquitas tanta est quanta Spiritus. Terrena scilicet propago inferior multo est quam divina,\nnec officia temporalis obsequelae tantam pariunt\ngratiam dilectionis quantam divinis ignis generat\n charitatem. Perinde cesset hic vel facies invisa,\nvel nomen ignotum, vel familiaritatis comparatio\nnulla, ubi in copulae socialis devinctionem\ntanta, tam magna tamque necessaria conveniunt jura\nsocietatum. Non igitur velut alienum refutes, quem\nsuperna conditio tibi fratrem conciliavit propinquum. Cum haec ita se habeant, obsecro reverentiam\ntuam ut ad suggestionem parvitatis nostrae respondere\nnon graveris.",
+            "voice": "Matthew"
+        }
+    ]
+}

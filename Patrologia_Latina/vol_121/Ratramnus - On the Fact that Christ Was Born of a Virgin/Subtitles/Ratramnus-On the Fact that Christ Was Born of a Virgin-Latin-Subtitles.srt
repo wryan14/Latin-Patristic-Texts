@@ -1,0 +1,1885 @@
+1
+00:00:00,000 --> 00:00:05,687
+RATRAMNI
+CORBEIENSIS MONACHI
+DE EO QUOD CHRISTUS EX VIRGINE NATUS EST
+LIBER
+
+2
+00:00:05,687 --> 00:00:07,272
+MONITUM ACHERII.
+
+3
+00:00:07,272 --> 00:00:21,802
+De Ratramno haec monet Acherius in sua Praefatione:
+Ratramni, aliis Bertramni, Corbeiensis monachi
+presbyteri, Opusculum, De eo quod Christus
+de Virgine natus est, tot saeculis in Anglia tenebris
+obsitum, in Galliam demum non absque industria
+redux effeci.
+
+4
+00:00:21,802 --> 00:00:38,262
+Ansam praebuit Usserius Armachanus, qui suae Ratramnum labe haereseos ut aspergeret, insibilat, ipsum panis substantiam Eucharistiae sacramento in corpus Filii Dei transmutari, duobus quos de eo sacramento libris conscripsit, nequaquam admittere: perperamque id Usserius suadere conatur, in
+
+5
+00:00:38,262 --> 00:00:39,226
+Gottescalci Hist.
+
+6
+00:00:39,226 --> 00:00:52,849
+cap. II, hunc in modum:
+Inter Opuscula ejus (Ratramni) quae ad Trithemii
+notitiam non pervenerunt, unum est de Nativitate
+Christi, in quo eamdem quam in libro de Corpore et
+Sanguine Domini tradit, doctrinam propugnat. De
+anima alterum, etc.
+
+7
+00:00:52,849 --> 00:01:05,733
+Quam porro a vero aberret haec assertio, probat
+ipsummet opusculum, cui erroris hujusce ne verbuli
+quidem aut apicis vestigium inest. Imo vero illi
+ipsi perduellium antesignani Magdeburgenses centuria
+IX, cap. de Doctrina, col.
+
+8
+00:01:05,733 --> 00:01:17,425
+212, paucis Usserium
+refellunt: Transsubstantiationis habet semina Bertramnus,
+utitur enim vocabulis commutationis, et conversionis. Et cap. 6 de Caeremoniis et Ritibus
+Ecclesiae, col. 243: Bertramnus, lib.
+
+9
+00:01:17,425 --> 00:01:33,885
+de Corpore
+et Sanguine ostendit corpus Domini et sanguinem
+super altare seu mensam poni, et inde populo distribui,
+etc. Ratramnum docte luculenterque ab omni naevo
+asseruere Sextus Senensis, praef. bibliothecae sanctae,
+cardinalis Peronius, ac praeses Mauguinus: ille lib. II. Euch. , capp.
+
+10
+00:01:33,885 --> 00:01:46,656
+1 et 2; iste vero historicae et chronicae
+Dissertationis cap. 37, litteris ac fama floruisse
+Ratramnum Ludovici Pii et Caroli Calvi
+tempestate, fidem faciunt quas protulit elucubrationes. Hactenus Acherium exscripsimus.
+
+11
+00:01:46,656 --> 00:01:59,541
+Nunc lectorem monemus, ita scriptum esse de partu Virginis a Ratramno et ab ejus abbate Ratberto, ut neuter alterius opusculum legisse videatur; nec enim verisimile est, si legissent, utrumque eadem testimonia prolaturum fuisse, suam ut quisque sententiam probaret, nec ullam curam adhibiturum
+
+12
+00:01:59,541 --> 00:02:03,499
+fuisse, ut ea testimonia perversum in intellectum detorta esse ab adversario demonstraret.
+
+13
+00:02:03,499 --> 00:02:10,008
+Hoc etiam non omittendum est,
+priorem editionem collatam esse cum veteri codice
+Dallei a D. Edm. Martene, qui varias lectiones nobis
+communicavit.
+
+14
+00:02:10,008 --> 00:02:11,592
+AUCTORIS PRAEFATIO.
+
+15
+00:02:11,592 --> 00:02:25,054
+Si uno sub magistro Christo omnes Christiani
+censemur, si uno coelesti Patre universi credentes
+gloriamur, si unius Spiritus foedere in unius
+charitatis compage solidamur, non est quod me
+a tua dignatione sejunctum verear, quominus religioni
+tuae familiaria scripta procudam.
+
+16
+00:02:25,054 --> 00:02:36,313
+Non enim
+vel sanguinis propinquitas tanta est quanta Spiritus. Terrena scilicet propago inferior multo est quam divina,
+nec officia temporalis obsequelae tantam pariunt
+gratiam dilectionis quantam divinis ignis generat
+charitatem.
+
+17
+00:02:36,313 --> 00:02:50,314
+Perinde cesset hic vel facies invisa,
+vel nomen ignotum, vel familiaritatis comparatio
+nulla, ubi in copulae socialis devinctionem
+tanta, tam magna tamque necessaria conveniunt jura
+societatum. Non igitur velut alienum refutes, quem
+superna conditio tibi fratrem conciliavit propinquum.
+
+18
+00:02:50,314 --> 00:02:55,944
+Cum haec ita se habeant, obsecro reverentiam
+tuam ut ad suggestionem parvitatis nostrae respondere
+non graveris.
+
+19
+00:02:55,944 --> 00:03:03,672
+CAPUT PRIMUM. De Christi nativitate in Germania errores. Rationes affert
+auctor quare nasci ut caeteri debuit Christus.
+
+20
+00:03:03,672 --> 00:03:19,773
+Fama est, et quorumdam non contemnenda cognovimus relatione, quod per Germaniae partes serpens antiquus perfidiae novae venena diffundat, et catholicam super nativitate Salvatoris fidem, nescio qua fraudis subtilitate subvertere molitur; dogmatizans Christi infantiam per virginalis januam vulvae,
+
+21
+00:03:19,773 --> 00:03:28,014
+humanae nativitatis verum non habuisse ortum, sed monstruose de secreto ventris incerto tramite luminis in auras exisse, quod non est nasci, sed erumpi.
+
+22
+00:03:28,014 --> 00:03:42,326
+Quod enim vias uteri nascendo non est secutum,
+sed quacunque versum tanquam per parietem domus
+erupit, non jure natum esse, sed violenter egressum. Jam ergo nec vere natus Christus, nec vere genuit
+Maria. At vero fides habet catholica Jesum natum
+ex Maria Virgine.
+
+23
+00:03:42,326 --> 00:03:51,163
+Quod Angelus ad eam missus signatis
+ennuntiat verbis: Ecce, inquiens, concipies
+in utero, et paries filium (Luc I 31). Vide quam
+evidenter sectam depulit nefandam.
+
+24
+00:03:51,163 --> 00:04:06,127
+Non ait: Concipies
+filium, et egredietur tuo de utero, sed, concipies
+et paries, utrumque referens ad Mariam,
+ut virginitate inviolata et conciperet tanquam femina,
+et pareret tanquam mater, ne genitrix divinitatis
+de conceptu fieret gloriosa, et de partu redderetur
+inhonora.
+
+25
+00:04:06,127 --> 00:04:15,235
+Alterum velut ad suum penderet
+officium, alterum ad illius qui concipiebatur effectum:
+ita nec ipsa mater diceretur integra, nec Salvatoris
+nativitas ex matre perfecta.
+
+26
+00:04:15,235 --> 00:04:24,234
+Quamvis etiam
+ad Mariam directus angelus si sic foret locutus, non
+propterea necessario cogeret intellectum, quo nativitas
+de matre Christi extraordinaria crederetur.
+
+27
+00:04:24,234 --> 00:04:37,680
+Qui enim de femina virgine concipi delegit, nonnisi
+nasci de femina virgine credi facile quivisset, quoniam
+de sexu fragiliori humanitatis qui delegit exortum,
+nequaquam humanae nativitatis modum, salva
+virginitatis integritate, contemneret.
+
+28
+00:04:37,680 --> 00:04:48,264
+Inconveniens nempe Divinitatis erat consilio, ut in
+virgineo corpore uterum, quo conciperetur, quo
+formaretur, quo novem mensium dilatione portaretur
+eligeret, et uteri viam, qua de virginea procederet
+aula, repudiaret.
+
+29
+00:04:48,264 --> 00:05:02,135
+Aut aliam igitur viam, qua feminae parientes partus suos emittant jure nativitatis praeter solemnem parturitionis viam, talia quicunque garriunt, edoceant, aut eum habuisse de utero virginis exitum, Christum, quem lex monstrat naturae, praeter integritatis violatum pudorem, necesse esse
+
+30
+00:05:02,135 --> 00:05:02,763
+confiteantur.
+
+31
+00:05:02,763 --> 00:05:15,040
+Viperae priusquam parturitionis
+ad tempus perveniant catuli, traditur quod
+maturam naturae completionem non exspectantes,
+corrosis matris lateribus, exeunt cum genitricis interitu. Est quoque vulgaris opinio mustelam ore concipere,
+aure partum effundere.
+
+32
+00:05:15,040 --> 00:05:22,724
+Forsitan quisquis
+humanae viam nativitatis denegas Christo, aut viperinam
+maternis exitiosam conceptibus concedis, aut
+mustelinam fabulosis effictam commentis.
+
+33
+00:05:22,724 --> 00:05:30,119
+Ut maluerit
+potius hominum Redemptor de Virgine conceptus,
+vel serpentinam naturae contrariam, vel pecualem
+confictam nativitatem suscipere quam humanam.
+
+34
+00:05:30,119 --> 00:05:40,704
+Isto itaque modo, jam quidquid libuerit poterit
+excogitari, vel undecunque, vel per quodcunque placuerit
+natum fuisse Christum blasphemari, ut non
+sit virgineus partus Verbum caro factum, sed prodigialis
+egressus.
+
+35
+00:05:40,704 --> 00:05:48,432
+CAPUT II. Objicitur violatam matris integritatem. Respondetur,
+Maria semper virginem permansisse.
+
+36
+00:05:48,432 --> 00:06:03,892
+Sed, quaeso, cur refugis ascribere Christo naturalem
+virginalis portae progressum? Propterea, inquis,
+quoniam si uteri portam exivit, non est Virginis integritas
+intemerata. Equidem per quemcunque fuerit
+locum egressus, consequenter secundum tuam
+sententiam integritas est violata.
+
+37
+00:06:03,892 --> 00:06:17,371
+Si enim Salvatoris
+ortus viam naturae necessario fuerat corrupturus, necessario
+quoque quacunque exivit, sive per latus, sive
+per ventrem, sive per renes, sive per superiores inferioresve
+corporis partes, non absque integritatis damno
+processit.
+
+38
+00:06:17,371 --> 00:06:23,808
+Absit vero catholicis sensibus, ut nativitas,
+per quam restaurata fuerunt corrupta, quod
+corruperit integra credatur.
+
+39
+00:06:23,808 --> 00:06:38,443
+Intellige tandem vecors
+praesumptio, quoniam si per quamcunque virginei
+corporis partem ortus Salvatoris potuit fieri sine
+damno integritatis, consequenter et hoc potuit per
+januam vulvae. Quod si hanc fuerat violaturus, nihilominus
+quacunque est egressus, violavit.
+
+40
+00:06:38,443 --> 00:06:50,052
+At catholica
+fides de Virgine Salvatoris matre confitetur,
+quod virgo fuerit ante partum, virgo in partu,
+virgo post partum. Utrumque vides credi, utrumque
+confiteri, et matris virginitatem, et infantis
+exortum.
+
+41
+00:06:50,052 --> 00:07:00,010
+Propter namque inviolatam pudoris aulam, virginitatem
+praedicat et ante partum, et in partu, et post
+partum: et propter verae nativitatis exortum, verum
+parientis partum confitetur.
+
+42
+00:07:00,010 --> 00:07:16,295
+Quid enim virgo ante partum, ni impraegnata virginitas? Quid est virgo in partu, ni pariens virgo? Et quid virgo post partum, nisi virgo perseverans post partum? Ubi ergo virgo pariens, si partus negatur? porro cum praedicatur virginitas non peperisse, non peperit autem si partus aliter quam per
+
+43
+00:07:16,295 --> 00:07:17,671
+naturae januam processit.
+
+44
+00:07:17,671 --> 00:07:23,448
+Siquidem jam talis ortus non virgini
+est partus, sed proprius videlicet ipsius infantis
+egressus.
+
+45
+00:07:23,448 --> 00:07:39,336
+Obmutescat igitur hujusce commentum
+falsitatis, et catholica fides inconcussa teneatur, quae
+et vere natum de matre confitetur Christum, et vere
+Virginem Mariam concepisse, peperisse, et post partum,
+id est post editum filium, credit, praedicat et
+veneratur permansisse virginem.
+
+46
+00:07:39,336 --> 00:07:56,807
+CAPUT III. Per vulvam exisse Christum probat auctor. ---Partes
+corporis minime turpes. Quî partes corporis deturpantur. ---Spiritus
+sanctus beatam Virginem ab
+omni contagio sanctificavit. ---Partes quaedam corporis
+quare inhonestae.
+
+47
+00:07:56,807 --> 00:08:09,993
+Dicis turpe fuisse Dei Filio per vulvam processisse. Turpe hoc aut de natura aut de peccato. Sed
+per naturam nihil turpe; testatur enim Geneseos
+lectio quod omnis creatura bona. Quod bonum, et
+honestum est; quodque honestum est, non turpe.
+
+48
+00:08:09,993 --> 00:08:25,275
+Igitur omnis creatura secundum quod creata est,
+nequaquam turpis. Igitur et mulieris vulva non turpis,
+sed honesta; siquidem partes omnes creaturae
+honestae. Non ergo nascituro Christo semita vulvae
+declinanda, velut turpe aliquod, imo suscipienda
+tanquam nativitatis ministra.
+
+49
+00:08:25,275 --> 00:08:36,033
+Quomodo namque
+matricem, qua conceptus formaretur, non contempsit,
+ita nec vulvam, qua formatus exciperetur, repudiavit. Porro tu sensus corporis interrogans, aestimas eas
+uteri partes indecoras.
+
+50
+00:08:36,033 --> 00:08:51,867
+Noli sensibus fallentibus, id
+est corporeis, de rerum veritate assentiri, mentis
+judicium disquire, et deprehendes fore pulchra quae
+videntur turpia. Nulla denique creaturae pars, aut
+membrum, ni pulchrum est; redditur autem indecens,
+cum inordinatus et illicitus eum motus deturpaverit.
+
+51
+00:08:51,867 --> 00:09:01,081
+Etenim ante praevaricationem Adam et Eva
+non erubescebant, utpote motum inordinatum suis
+in membris nullum sentientes; ast ubi praevaricati
+sunt, erubescere coeperunt.
+
+52
+00:09:01,081 --> 00:09:08,473
+Non quidem propterea
+membra, quae nunc peccati culpa pudenda vocamus;
+siquidem et priusquam deliquerint, super eis non
+confundebantur.
+
+53
+00:09:08,473 --> 00:09:20,831
+Ubi vero inhonestus accessit motus
+genitalibus ante pudicis, sed de peccato jam non pudicis,
+secuta confusio est, non propter turpitudinem
+honestarum corporis partium, sed propter turpes irrationabilis
+motus passionis.
+
+54
+00:09:20,831 --> 00:09:36,324
+In quo autem per sancti Spiritus Ignem, vel in hoc corpore caduco, vel in futura vita jam per resurrectionem incorruptibili, fuerit iste passibilis motus ad naturae dignissimam redactus musicam, infirmitate depulsa, nihil habebunt membra naturae quod sit confusionis, quod turpitudinis, quod
+
+55
+00:09:36,324 --> 00:09:36,856
+inhonesti.
+
+56
+00:09:36,856 --> 00:09:44,150
+Interea vero lex quae est in membris nostris donec
+repugnat legi mentis, et captivat nos in legem
+peccati, et erubescimus et confundimur.
+
+57
+00:09:44,150 --> 00:09:59,536
+Sed non
+propter hanc legem peccati dominantem in membris
+nostris opus fuit Salvatori declinare viam nativitatis
+lege constitutam; quandoquidem Spiritus sanctus,
+qui Virginis uterum, quo Dei Filius incarnaretur, ab
+omni contagio sanctificavit, ipse quoque et vulvam
+qua nasceretur purgavit.
+
+58
+00:09:59,536 --> 00:10:15,401
+Nisi forte credibile videatur,
+quod eum locum divino conceptu reddiderit dignum,
+qui magis libidinis aestu succenditur, et quem
+minoris flammae temperamentum pertentat, mundare
+nequiverit. Quod enim mulieribus in umbilico, cui
+matrix subjacet, libido dominetur, verbis Scripturae
+sanctae didicimus.
+
+59
+00:10:15,401 --> 00:10:30,521
+Tibi autem non propter legem peccati,
+sed propter deformitatem naturae, genitale
+membrum videtur inhonestum. Cur hoc? Quoniam
+sensum carnis in rebus cognoscendis percunctaris,
+quem nemo sapiens de veri perceptione secutus est. Non mirum si falleris, qui falsitatis auctore perdoceris.
+
+60
+00:10:30,521 --> 00:10:45,108
+Eum denique sequuntur omnes, qui verisimilia
+pro veris, id est, corruptibilia pro aeternis amplectuntur. Revoca magis oculos a temporalibus, quae
+docet Ecclesiastes non tantum vanitatem, verum vanitates
+vanitatum; et disce veri perceptionem de
+sensibus veri participantibus.
+
+61
+00:10:45,108 --> 00:10:57,087
+Quod cum feceris, nihil
+in naturis turpe praeter inordinatos motus videbis,
+quos non de creantis sapientia, sed de peccati
+culpa contraxere, et deinceps non indignam judicabis
+Incarnatione Verbi ad nascendum virgineam
+vulvam.
+
+62
+00:10:57,087 --> 00:11:02,783
+Equidem pervidebis nihil dignius Creatoris
+humanitate, quam suae dispositionem fabricae comprobare.
+
+63
+00:11:02,783 --> 00:11:12,311
+Ut sicut approbavit uterum quo conciperetur,
+ita non approbarit uteri januam sui natalis
+abrogatione; ne quam constituit nascendi viam, suae
+refutaret humanationis egressu.
+
+64
+00:11:12,311 --> 00:11:26,049
+Ista ducas cum impia, novum quiddam moliris,
+ut Salvatori quo nasceretur nihil fuisse clausum
+clames, quod Conditori nil creaturarum queat obsistere:
+verum quidquid subsistit, sit ei apertum et
+permeabile. Ita plane si sentis, prudentissime sentis.
+
+65
+00:11:26,049 --> 00:11:39,122
+Hac vero regula cum nativitatis Christi primordia
+mancipare disponis, quod ad potentiam spectat,
+clarissime dogmatizas. Quod autem ad corporis proprietatem
+suscepti, et nativitatis pertinet humanae,
+a veritatis calle longissime recedis.
+
+66
+00:11:39,122 --> 00:11:50,810
+Virtuti siquidem
+voluntatis Christi nihil est clausum, nihil
+non penetrabile. Humanitas autem quae suscepta est,
+sicut intra sinus matricis collecta est, ita quandiu
+mansit illic, ventris exteriora non experta .
+
+67
+00:11:50,810 --> 00:11:55,796
+At
+vero mox virginei thalamum reliquit secreti, et
+foris exstitit, et intus esse cessavit.
+
+68
+00:11:55,796 --> 00:12:12,414
+Hac loci quid alternatione monstravit, nisi quod quamvis secundum divinitatis proprietatem sit ubique, juxta corporis circonscriptionem localis exstitit? Igitur quod locale est, sicut ubique non est semper, sed tunc ad alium migrat, cum locum deseruit primum; ita etiam cum transitum facit, non simul
+
+69
+00:12:12,414 --> 00:12:18,120
+dextrum ac sinistrum tenet, quemadmodum simul ante et retro non graditur, nec supra pariter et deorsum.
+
+70
+00:12:18,120 --> 00:12:31,913
+Certe
+et Salvator sicut alio tempore fuit in utero secundum
+corpus, et alio foris, ita in egrediendo quamvis
+egressionis voluntati nil fuerit clausum, unam
+tamen tenuit egressionis viam, non per omnes corporis,
+in quo formatus fuerat, partes exivit.
+
+71
+00:12:31,913 --> 00:12:46,980
+Constitue certe quam volueris corporis partem ortui
+Salvatoris. Non enim per omne corpus egressus
+est, quamvis voluntati ejus ad egressum nulla corporis
+pars fuerit clausa. Nec illocaliter egressus,
+hoc est enim incorporeae proprium naturae, longe
+vero a corporea remotum.
+
+72
+00:12:46,980 --> 00:12:49,583
+Constitue certe quam
+delegeris partem.
+
+73
+00:12:49,583 --> 00:13:05,797
+Vulvam renuis, umbilicum attribue; vel, si malueris, honestius quodcunque corporis ostium: ac si ostia quae dedit natura displicent, dissice ventrem, nuda costas, spinam rumpe, vel quemadmodum nescio qui stultissimi delirant, aperi ascellam, et ita de monte umbroso et condenso nativitatem contestare
+
+74
+00:13:05,797 --> 00:13:06,392
+Salvatoris.
+
+75
+00:13:06,392 --> 00:13:22,552
+Num igitur talis janua dominatoris ortu digna probabitur, quam stultorum opinio ementitur, et quam Creatoris sapientia naturae dedit conceptibili, dispuetur? An certe Bragmanorum sequemur opinionem, ut quemadmodum illi sectae suae auctorem Bubdam per virginis latus narrant exortum, ita nos Christum
+
+76
+00:13:22,552 --> 00:13:38,117
+fuisse praedicemus? Vel magis sic nascitur Dei sapientia de Virginis cerebro, quomodo Minerva de Jovis vertice, tanquam Liber pater de femore? Ut Christicolam de Virginis partu non solemnis natura, vel auctoritas sacrae lectionis, sed superstitio gentilis et commenta perdoceant fabulosa.
+
+77
+00:13:38,279 --> 00:13:54,456
+CAPUT IV. Auctor profert testimonia ex Veteri Testamento, ut
+suadeat Christum per vulvam Virginis exisse. Sed jam nunc testimonia procedant in medium
+divina, et ex eis ortum discamus Salvatoris, ne fabulis
+decipiamur vanis et falsis opinionibus eludamur.
+
+78
+00:13:54,456 --> 00:14:02,564
+Isaias vates, ortus hujus arcanum retexens,
+Dabit Dominus, inquit, ipse vobis signum. Ecce
+virgo concipiet et pariet filium (Isa VII 14).
+
+79
+00:14:02,564 --> 00:14:13,455
+Virginem confitetur concepturam, Virginem parituram,
+et hoc a Domino signum fore dandum,
+quod utrumque mirabiliter sit factura virgo, non
+quod praeter viam naturae partus sit exiturus.
+
+80
+00:14:13,455 --> 00:14:27,779
+Quod
+si esset futurum, oportuerat hoc prophetico nuntiari
+mysterio, quemadmodum virgineus nuntiatus est
+conceptus et partus. Nec enim talis editio minus divinae
+operationis proferret insigne, quando naturae
+viam in alios transposuisset fines.
+
+81
+00:14:27,779 --> 00:14:44,352
+Nunc autem virilem
+segregans operam, et integritatis insinuans donum,
+hoc docet a Domino signum, quod editura sit
+virgo Salvatorem. Non enim praeter naturam novum
+parturiendi designat iter virgini matri, sed a
+natura datum cum incorruptionis palma nativitatis
+dedicat sublimitate.
+
+82
+00:14:44,352 --> 00:14:59,979
+Non puto necessarium, nec brevitas concedit, ut
+de toto Scripturarum corpore subjiciantur exempla
+quibus fiat manifestum parere et generare mulieribus
+non nisi legitimo ventris orificio concedi; ut
+illud: Mulier quae concepto semine peperit masculinum
+(Lev XII 2).
+
+83
+00:14:59,979 --> 00:15:05,306
+Item: Sanctifica mihi omne
+primogenitum quod aperit vulvam in filiis Israel
+(Exod XIII 1).
+
+84
+00:15:05,306 --> 00:15:23,003
+Si enim mulier aliter quam per vulvam, id est os uteri, generat, jam non omne primogenitum sanctificatur Domino; sed quoniam hoc stultum dicere, non virgo genuit, nisi per vulvam; et ipsius verbi vis significatioque manifeste dat intelligentiae argumentum: ut enim videre ad oculos, audire ad aures,
+
+85
+00:15:23,003 --> 00:15:27,028
+olfacere ad nares, gustare ad fauces, ita parere refertur ad vulvam.
+
+86
+00:15:27,028 --> 00:15:36,144
+Alioquin si pro arbitrio
+singulorum licet intellectus verborum variari,
+erunt universa confusa, et parere concipereque de
+viris etiam suscipietur.
+
+87
+00:15:36,144 --> 00:15:52,737
+Cur non certe haec verborum
+officia de viris praedicentur, si partus Salvatoris non
+viam tenuit uteri, sed exivit quacunque. Habes, et
+superbis, patrocinium poetarum figmentum, ut et
+concepit vir et peperit. Quod, quia Christianus es,
+et eloquiis instructus veritatis, non dubito, repellis.
+
+88
+00:15:52,737 --> 00:16:09,673
+Qua de re legitimum naturae cursum vocibus praedicatum
+consuetis, non opinione nova pervertas, sed
+vera et usitata receptes interpretatione. Et cum legeris,
+audieris, pronuntiaveris, vel Virginem peperisse
+Christum, vel natum de Virgine Christum, illico tibi
+semita naturae janua vulvae occurrat.
+
+89
+00:16:09,673 --> 00:16:21,117
+Sicque te non
+error per devia ducet, sed verus intellectus in tramite
+recto tenebit. Ne autem argumentis haec videamur
+tantum comprobare, testimoniis disce vera de ortu
+Salvatoris quae asserimus esse.
+
+90
+00:16:21,117 --> 00:16:34,620
+Idem propheta Isaias: Et accessi ad prophetissam,
+et concepit et peperit filium: et dixit Dominus
+ad me: Voca nomen ejus: Accelera spolia detrahere,
+festina praedari (Isa VIII 3) . Adverte partum
+virginis prophetali signatum ministerio.
+
+91
+00:16:34,620 --> 00:16:51,729
+Propheta
+accessit ad prophetissam, quia Spiritus sanctus venit
+ad Mariam: concepit illa, et peperit filium, magis
+Spiritus sancti dono, quam sementivo virili. Quemadmodum
+Sara et sterilitate infecunda, et senio
+jam frigida, ut mater virgo de Spiritu sancto et impraegnanda
+et generata prophetaretur.
+
+92
+00:16:51,729 --> 00:16:59,568
+Et conceptus
+ergo et partus in prophetissa processit ut haeresis
+futura damnaretur, asserens Mariam concepisse, nec
+ut feminam generasse.
+
+93
+00:16:59,568 --> 00:17:15,760
+Sed prophetissa non in altero
+fallit, in altero verum praefigurat; quoniam genitrix
+Salvatoris et virgo de Spiritu sancto concepit, et sicut
+femina salvo pudore generavit. Item alibi: Rorate, coeli, desuper, et nubes pluant
+justum; aperiatur terra, et germinet Salvatorem
+(Isa XV 8).
+
+94
+00:17:15,760 --> 00:17:24,743
+Admirabili sane brevitate propheticus
+sermo, et annuntiationem angeli et prophetarum vaticinia,
+et conceptum virginis, et modum generationis
+exposuit.
+
+95
+00:17:24,743 --> 00:17:41,407
+Ortum denique Christi et angelus insinuat, nec prophetae tacent, et uterus virginis aperitur ad sobolem, et pudoris claustrum germinat Salvatorem, ut in apertione videas conceptum virginis, in germine intelligas partum pudoris; ut enim germen venam servat natalem, nec alieno semine concretum, sed
+
+96
+00:17:41,407 --> 00:17:55,377
+genitricis est propriae sementivum, juxta quod Genesis testatur de arboribus et herbis loquens: Cujus semen sit, inquiens, in semetipso (Gen. I, 11): sic virgo Maria non de virili, sed de proprio semine concepit, et genitali rivo exposuit conceptum.
+
+97
+00:17:55,377 --> 00:18:05,251
+Propterea virga Aaron aperitur in germen, erumpit
+in flores, qui foliis dilatatis formantur in amygdalas,
+ut insinuetur coagulum seminis, concretio conceptus,
+expositio partus.
+
+98
+00:18:05,251 --> 00:18:20,567
+Et quemadmodum virga
+Aaron protulit telluris absque subministratione et
+humoris irrigatione, nativas tamen per semitas,
+germen, flores et fructum; sic mater virgo non de
+voluptatis rivo, nec de maritali commercio, genitalem
+tamen per semitam genuit carnem Verbum
+factum.
+
+99
+00:18:20,567 --> 00:18:23,448
+CAPUT V. Testimonia alia.
+
+100
+00:18:23,448 --> 00:18:40,598
+Jeremias, quoque hunc sacrum Virginis partum
+praesagiens, ait: Creabit Dominus novum super
+terram: femina circumdabit virum (Jer XXXI 22). Discerne quid novum dixerit creatum iri, scilicet
+quod femineo tantum semine sancti Spiritus per ministerium,
+matricis in gremio habitus configuretur
+virilis.
+
+101
+00:18:40,598 --> 00:18:52,667
+Et quoniam nascendo talis conceptus uteri
+semitas non praeteriret, qui cursus nativitatis cunctis
+datur mortalibus, merito illud siluit, in quo
+praeter inviolatum pudorem sub nascendi lege nihil
+afferret novi.
+
+102
+00:18:52,667 --> 00:19:09,009
+Ezechiel quoque: Et converti me ad viam portae
+sanctuarii exterioris, quae respiciebat ad orientem;
+et erat clausa: et dixit Dominus ad me: Porta haec
+clausa erit, non aperietur, et vir non transiet per
+eam, quoniam Dominus Deus Israel ingressus est per
+eam; eritque clausa principi.
+
+103
+00:19:09,009 --> 00:19:17,324
+Per viam vestibuli
+portae ingredietur, et per viam ejus egredietur (Ezech XXXIV 3). Aestimo quod hic locus omnem solvat
+hujus nodum quaestionis.
+
+104
+00:19:17,324 --> 00:19:30,317
+Etenim portam quam describit
+propheta majores intellexerunt Virginem Mariam,
+quae bene monstratur clausa, quia virgo semper
+manet intacta, et vir non transiet per eam. Intende diligenter cui negatur transitus, et qua negatur.
+
+105
+00:19:30,317 --> 00:19:35,860
+Negatur prorsus viro, qui poterat violare, et
+ab eo removetur, quod poterat per coitum corrumpi.
+
+106
+00:19:35,860 --> 00:19:52,722
+Nemo enim removet ingressum, quia ratio naturae nec viam admittit, nec transitum, qua de re quando dicitur: Vir non transiet per eam, non de latere, nec de cerebro, nec de femore dicitur, quoniam transitus conjugalis ad alias refertur corporis partes, quibus natura ad coitum viam praebuit et
+
+107
+00:19:52,722 --> 00:19:53,299
+transitum.
+
+108
+00:19:53,299 --> 00:20:09,006
+Quoniam vero qua virilis removetur transitus, illac
+Dominus Deus Israel est ingressus, subsequens sermo
+demonstrat, dicendo: Dominus Deus Israel ingressus
+est per eam. Utque omne demat ambiguum,
+subjicit: Per viam vestibuli portae ingredietur, et
+per viam ejus egredietur.
+
+109
+00:20:09,006 --> 00:20:14,088
+Nolit jam de via Salvatoris,
+quam nascendo secutus est, haeresis nova dubitare.
+
+110
+00:20:14,088 --> 00:20:19,399
+En tibi propheta tanquam sub oculos metaphorice
+muliebris vulvae et vestibulum et viam
+ponit.
+
+111
+00:20:19,399 --> 00:20:33,736
+Ingressus est denique Dominus Deus
+Israel per viam vestibuli hujus portae, quia per incarnationis
+mysterium virginale introivit gremium;
+et per viam hujus portae egressus est, quoniam humanitate
+suscepta in domum mundi per incontaminatam
+exiit vulvam.
+
+112
+00:20:33,736 --> 00:20:43,275
+Non igitur nescio quem Dei
+Filio de utero matris confingas egressum. Spiritus
+sanctus te doceat veritatem, qui et thalamum tanto
+dignum sponso sanctificavit et portam.
+
+113
+00:20:43,275 --> 00:20:56,583
+Sed quid in
+difficilioribus et mysticis locis immoramur? ad aperta
+veniamus, et de domorum claustris, id est secretorum
+figuris ad portarum latitudinem migremus,
+quatenus vestigia sponsi, et emissiones sponsae, sub
+divo contemplemur.
+
+114
+00:20:56,583 --> 00:21:09,606
+In lege omne primogenitum sanctificatum erat
+Domino, significans eum qui solus sanctus et sine
+peccato natus est. Sic enim super hoc habes scriptum:
+Sanctificate mihi omne primogenitum quod
+aperit vulvam in Israel (Exod XIII 1).
+
+115
+00:21:09,606 --> 00:21:25,885
+Item:
+Cumque introduxerit te Dominus in terram Chananaei,
+sicut juravit tibi et patribus tuis; et dederit
+eam tibi, separabis omne quod aperit vulvam
+Domino (Ibid 11 12). Item: Nam cum induratus
+esset Pharao, et nollet nos dimittere, occidit
+Dominus omne primogenitum in terra Aegypti.
+
+116
+00:21:25,885 --> 00:21:41,021
+Idcirco
+immola Domino omne quod aperit vulvam masculini
+sexus, et omnia primogenita filiorum meorum
+redime (Ibid 13-15). Nota quod primogeniti
+sunt qui vulvam nascendo primi aperiunt, ut consequenter
+accipias hoc esse nasci de femina, quod est
+oriendo vulvam exire.
+
+117
+00:21:41,021 --> 00:21:57,014
+In catalogo praeceptorum:
+Primogenitum filiorum dabis mihi (Exod. XXII,
+29). Alibi: Omne quod aperit vulvam generis
+masculini meum erit (Exod XIII 2). In Levitico:
+Mulier si suscepto semine peperit masculum, et
+reliqua (Lev XII 1). Item: Sin autem feminam
+peperit (Ibid v 5), etc.
+
+118
+00:21:57,014 --> 00:22:07,296
+; et generare et parere
+docet feminas, non aliud esse quam per vulvam
+emittere partum. In Numeris: Meum est omne
+primogenitum ex quo percussi primogenitos in terra
+Aegypti.
+
+119
+00:22:07,296 --> 00:22:23,110
+Sanctifica mihi quidquid primum nascitur
+in Israel (Num III 13). Et superius: Ego tuli
+Levitas a filiis Israel pro primogenito, qui aperit
+vulvam in filiis Israel (Ibid 12). Et in sequentibus:
+Numera primogenitos sexus masculini de
+filiis Israel a mense uno (Ibid 40).
+
+120
+00:22:23,110 --> 00:22:36,446
+Et supra:
+Tollesque Levitas mihi pro primogenito filiorum
+Israel (Ibid 41). Et infra: Pro primogenitis
+quae aperiunt omnem vulvam in Israel accepi eos
+(Num VIII 16); nimirum Levitas. Mea sunt omnia
+primogenita filiorum Israel.
+
+121
+00:22:36,446 --> 00:22:52,674
+Alibi: Quidquid primum
+erumpit e vulva cunctae carnis quam offerunt
+Domino, sive de hominibus, sive de pecoribus fuerit,
+tui juris erit (Num XVIII 15). Ergo omnis
+partus, tam hominum quam jumentorum, per vulvam
+erumpit. Qua de re omnis de femina nascens per
+vulvam egreditur.
+
+122
+00:22:52,674 --> 00:23:05,951
+Non ergo nobis incertam generent
+quaestionem verba quae, consuetudine sua et usu
+Scripturarum certam suae significationis subministrant
+notionem; ut enim ambulare de pedis officio,
+sic parere de vulvae ministerio praedicamus.
+
+123
+00:23:05,951 --> 00:23:19,169
+Non igitur
+confundat dubietas quod intellectus manifesti
+significatio declarat. Ut autem sine viae directione
+non pervenitur ad limitem destinatum, sic nisi per
+verborum significantiam veram, locutionis veritas
+non aperitur.
+
+124
+00:23:19,169 --> 00:23:36,813
+Partum igitur aut natum, vel si quo alio nomine talis actio nominatur, feminarum, docti et naturae veritate, et consuetudine nascendi, et auctoritate Scripturarum, non aliud praeter verba significatarum rerum de rebus significatis intelligamus, ne procul a veritate evagemur, dum veritatis signa vel
+
+125
+00:23:36,813 --> 00:23:40,471
+non cognoscimus, vel prava interpretatione pervertere molimur.
+
+126
+00:23:40,471 --> 00:23:56,876
+Secundum datam regulam Evangeliorum
+super Salvatoris nativitate dicta contemplemur. In Matthaeo sic scriptum legimus: Angelus Domini
+apparuit Joseph in somnis dicens: Joseph fili
+David: noli timere accipere Mariam conjugem tuam,
+quod enim in ea natum est, de Spiritu sancto est.
+
+127
+00:23:56,876 --> 00:24:00,240
+Pariet autem filium, et vocabis ejus nomen Jesum.
+
+128
+00:24:00,240 --> 00:24:14,337
+Ipse enim salvum faciet populum suum a peccatis
+eorum: hoc autem totum factum est, ut adimpleretur
+quod dictum est per prophetam dicentem: Ecce
+in utero habebit et pariet filium, et vocabitur nomen
+ejus Emmanuel, quod interpretatur nobiscum Deus.
+
+129
+00:24:14,337 --> 00:24:24,881
+Exsurgens autem Joseph a somno, fecit sicut ei
+praecepit angelus Domini: et non cognoscebat eam
+donec peperit filium suum primogenitum, et vocavit
+nomen ejus Jesum (Matth I 20 et seq).
+
+130
+00:24:24,881 --> 00:24:36,800
+Cum ergo
+natus esset Jesus in Bethlehem Judae, toties nativitas
+praedicata Salvatoris, toties narratus Virginis partus,
+virginitas perdocetur, virilis removetur amplexus,
+non tamen vulvae transitus abnegatur.
+
+131
+00:24:36,800 --> 00:24:47,459
+Verum et
+evangelistae dictis, et prophetae vaticinio Salvatoris
+ortus per vulvam exstitisse monstratur; quoniam
+non parit femina, nisi per vulvam, non exit infans,
+nisi per uteri januam.
+
+132
+00:24:47,459 --> 00:25:03,734
+Lucas taliter super hac loquitur nativitate: Ingressus
+angelus ad Mariam dixit: Ave, gratia plena,
+Dominus tecum, benedicta tu inter mulieres. Quae
+cum audisset turbata est, et cogitabat qualis esset
+ista salutatio, et ait angelus ei: Ne timeas, Maria,
+invenisti gratiam apud Dominum.
+
+133
+00:25:03,734 --> 00:25:18,290
+Ecce concipies et
+paries filium, et vocabis nomen ejus Jesum. Et
+infra: Dixit autem Maria ad angelum: Quomodo
+fiet istud, quoniam virum non cognosco? Et respondens
+angelus dixit ei: Spiritus sanctus superveniet
+in te, et virtus Altissimi obumbrabit tibi.
+
+134
+00:25:18,290 --> 00:25:31,527
+Ideoque et
+quod nascetur ex te sanctum, vocabitur Filius Dei
+(Luc I 28 et seq). Si nondum vel naturae solemnitate,
+vel exemplo nascentium quid sit parere acquiescis,
+saltem missus ad Zachariam angelus ex
+ipso Evangelio te instruat.
+
+135
+00:25:31,527 --> 00:25:44,880
+Ait autem illi angelus:
+Ne timeas, Zacharia, quoniam audita est deprecatio
+tua; et uxor tua Elisabeth pariet tibi filium (Luc I 13). Unum verbum super utroque promittitur
+partu, et quomodo non idem ventris ostium significatur?
+
+136
+00:25:44,880 --> 00:26:00,936
+Dispar conceptionis ordo, non dispar est lex
+nascendi, quoniam Joannes de semine viri, Jesus de
+Spiritu sancto concipitur; et ille per portam per
+quam transivit vir, exponitur, iste per intemeratam
+pudoris aulam generatur: ambo tamen pariuntur,
+quoniam uterque per vulvae januam excipitur.
+
+137
+00:26:00,936 --> 00:26:06,048
+Attestatur
+etiam nostrae orationi evangelista, quando
+ait: Ideo quod nascetur ex te sanctum.
+
+138
+00:26:06,048 --> 00:26:18,549
+Memento
+quid de primogenitis, id est qui aperiunt vulvam,
+legifer mandaverit, et intelligas sanctum primogenitum
+vocari, et primogenitum qui aperit vulvam
+quare et Jesus cum sanctum Domino dicitur, et primogenitus
+appellatur.
+
+139
+00:26:18,549 --> 00:26:34,883
+Et si primogenitus, utique vulvam aperuit, non ut clausam corrumperet, sed ut per eam suae nativitatis ostium aperiret, sicut et in Ezechiel porta et clausa describitur, et tamen Domino Israeli narratur aperta, non quod liminis sui fores dimoverit ad ejus egressum, sed quod sic clausa patuerit
+
+140
+00:26:34,883 --> 00:26:35,439
+dominanti.
+
+141
+00:26:35,439 --> 00:26:49,329
+Idem evangelista rursus: Factum est autem cum
+essent ibi, impleti sunt dies ut pareret, et peperit
+filium suum primogenitum (Luc II 6). Et de Elisabeth
+fere eadem scribuntur: Elisabeth autem impletum
+est tempus pariendi, et peperit filium (Luc I 57).
+
+142
+00:26:49,329 --> 00:26:56,663
+Sicut utriusque feminae tempus ut pareret
+assignatur, sic ambobus nascentibus infantibus eodem
+verbo idem ventris ostium monstratur.
+
+143
+00:26:56,663 --> 00:27:10,108
+Et deinceps:
+Postquam impleti sunt dies purgationis
+Mariae secundum legem Moysi, tulerunt Jesum in
+Jerusalem ut sisterent eum Domino, sicut scriptum
+in lege Domini: Quia omne masculinum adaperiens
+vulvam, sanctum Domino vocabitur (Luc II 22).
+
+144
+00:27:10,108 --> 00:27:26,665
+Si tibi minus satisfecerant verba quibus genuisse Maria perdocetur, ut propterea aliunde quam per vulvam de Virginis aula processisse Jesum garrias, quoniam honestiori sermone pudendum mulieris fuerat obvelandum, tandem verbis evangelistae acquiescens, disce non translato, sed suo proprio vocabulo
+
+145
+00:27:26,665 --> 00:27:31,443
+os feminei ventris insinuatum, atque per illud Salvatorem nascendi subisse progressum.
+
+146
+00:27:31,944 --> 00:27:45,733
+Nam si
+fuit aliud Mariam peperisse quam masculinum ejus
+vulvam aperuisse, non secundum legis praeceptum
+sisti Domino, nec sanctum Domino debuerat vocari:
+Quoniam omne masculinum adaperiens vulvam,
+sanctum Domino vocabitur (Ibid 23).
+
+147
+00:27:45,733 --> 00:28:03,387
+Nunc vero et peperit eum Maria virgo, et per vulvam ejus egressus est Salvator, et tanquam primogenitus adaperuit eam, non quo violaret integritatem uteri, sed quo ventris palatium vacuaret; unde et mater, quanquam non suscepto semine genuerit, quia vero illi masculus adaperuerit vulvam, secundum
+
+148
+00:28:03,387 --> 00:28:08,737
+legem et purgationis dies implet, et hostiam ad templum cum puero Domino sistendo, defert.
+
+149
+00:28:08,856 --> 00:28:13,008
+CAPUT VI. Ex Patribus suam asserit sententiam.
+
+150
+00:28:13,008 --> 00:28:28,680
+Verum quoniam breviter ista de divinae auctoritatis
+collegimus libris, quibus Salvatoris ortum
+per intemeratae vulvam Virginis doceremus, libet
+etiam majorum traditionibus firmare sententiam
+nostram, quatenus multitudine testium et adversarius
+confutetur, et fideles uberius instruantur.
+
+151
+00:28:28,680 --> 00:28:41,622
+Locos
+tamen in medium deducemus, et eorum ipsorum
+testimonia pauca, ut propositae modum brevitatis
+custodiamus. Alioquin si unius eorum, ne
+dicam omnium, super hoc dicta in unum conferre
+voluerimus, multorum corpus voluminum conficiemus.
+
+152
+00:28:41,622 --> 00:28:57,896
+Ambrosius coelestis tuba, specimen sanctitatis, fidei robur inexpugnabile, dum de humano Salvatoris exortu tractaret (in Luc l XI c 2), ita fatus est: An mediocribus signis Deus probatur, quod angeli ministrant, quod magi adorant, quod martyres confitentur? Ex utero funditur, sed coruscat e coelo:
+
+153
+00:28:57,896 --> 00:29:00,899
+terreno in diversorio jacet, sed coelesti lumine viget.
+
+154
+00:29:00,899 --> 00:29:04,776
+Nupta peperit, sed virgo concepit. Nupta concepit,
+sed virgo generavit.
+
+155
+00:29:04,776 --> 00:29:20,940
+Quam subtiliter inviolati pudoris edocet secretum, quam magnifice virginem describit, et matrem nuptam praedicat et intactam! Fusum narrat ex utero Christum, ut eum per naturae viam sentias processisse, nec aestimes peregrinos ortus sui exitus requisisse, quem vena uteri naturali fluxu emisit in
+
+156
+00:29:20,940 --> 00:29:21,268
+lucem.
+
+157
+00:29:21,268 --> 00:29:31,480
+Quod ut clarius commendaret,
+adjecit, nuptam peperisse, sed virginem concepisse,
+et nuptam concepisse, sed virginem peperisse; ut in
+conceptu virginis et partu removeas virile consortium.
+
+158
+00:29:31,480 --> 00:29:44,804
+Animadvertis autem membra suis a natura
+ministeriis deputata, ut conceptus ad matricem, partus
+ad orificium referatur. Quibus denique membris
+mulier nupta concipit et parit, eisdem virginem et
+fecundatam credas et enixam. Rursus in sequentibus.
+
+159
+00:29:44,804 --> 00:29:53,160
+Omne masculinum adaperiens
+vulvam, sanctum Domino vocabitur. Verbis
+enim legis promittebatur Virginis partus. Et vere
+sanctus, quia immaculatus.
+
+160
+00:29:53,160 --> 00:30:09,800
+Denique ipsum esse qui
+lege signetur, in eumdem modum ab angelo repetita
+verba declarant: Quia quod nascetur, inquit,
+sanctum, vocabitur Filius Dei. Non enim virilis
+coitus vulvae virginalis secreta reseravit, sed immaculatum
+semen inviolabili utero Spiritus sanctus
+effudit.
+
+161
+00:30:09,800 --> 00:30:20,208
+Solus enim per omnia ex natis de femina
+sanctus Dominus Jesus, qui terrenae contagia corruptelae
+immaculati partus nativitate non senserit, et
+coelesti majestate depulerit.
+
+162
+00:30:20,208 --> 00:30:38,059
+Nam si litteram sequamur, quomodo sanctus omnis masculus, cum multos sceleratissimos fuisse non lateat? Nunquid sanctus Achab? Nunquid sancti pseudoprophetae, quos ad Eliae preces ultor coelestis injuriae ignis absumpsit? Sed ille sanctus, per quem figuram mysterii pia legis divinae praescripta
+
+163
+00:30:38,059 --> 00:30:38,664
+signabant.
+
+164
+00:30:38,664 --> 00:30:55,789
+Et quod solus
+sanctae Ecclesiae virginis ad generandos populos Dei
+immaculatae fecunditatis aperiret genitale secretum. Hic ergo solus aperuit sibi vulvam. Nec mirum:
+qui enim dixerat per prophetam: Priusquam te
+formarem in utero, novi te, et in vulva matris sanctificavi
+te (Jer I).
+
+165
+00:30:55,789 --> 00:31:03,353
+Qui ergo vulvam sanctificavit
+alienam, ut nasceretur propheta, hic est qui aperuit
+matris suae vulvam, ut immaculatus exiret.
+
+166
+00:31:03,353 --> 00:31:21,507
+(S Ambros l II in Luc c 2; S Aug l II de Peccat orig c 40 et lib I cont Jul c 2) Orator insignis hac oratione primo antiquae legis explanans edictum, dogmatizat sanctum legale unius veri sancti mysterium signasse, qui saeculi sub fine natus de Virgine, terrenae contagia corruptelae immaculati partus
+
+167
+00:31:21,507 --> 00:31:28,163
+novitate non senserit, sic aperiens virginalem vulvam nascendo, ut tamen eam relinqueret clausam non violando.
+
+168
+00:31:28,163 --> 00:31:40,992
+Alioquin si non illum
+Scriptura significavit, quae de masculis sancivit ut
+habeantur sancti, ostendit verum non esse decretum
+multorum pravitas masculorum. Sed lex Domini immaculata
+et testimonium fidele.
+
+169
+00:31:40,992 --> 00:31:55,218
+Qua de re quaerendus
+est intellectus qui possit aptari merito veritati;
+ubi sanctus ille solus repetitur, qui sine peccato conceptus,
+sine delicto genitus, sanctae Ecclesiae virginis
+ad generandos populos Dei immaculatae fecunditatis
+aperuit genitale secretum.
+
+170
+00:31:55,218 --> 00:32:08,132
+Non enim hoc genus narrationis
+ad Ecclesiam per mysterium coaptaret, nisi
+rei veritate de virginalis vulvae reseratione factum
+fuisse docere voluisset. Quem sequentia comprobant
+intellectum; ait enim: Hic ergo solus aperuit sibi
+vulvam.
+
+171
+00:32:08,132 --> 00:32:15,902
+Quid amplius requiris, quando signatis attestatur
+quod dicimus verbis? Et aperuit enim, et
+vulvam dixit, quo nihil per figuram reputes dictum.
+
+172
+00:32:15,902 --> 00:32:31,989
+Igitur manifesta confirmat sententia, quod olim vetus Scriptura loquebatur: Omne scilicet masculinum quod aperiret vulvam, sanctum Domino vocari, ut non moderno sed antiquissimo discas tempore signatum fuisse, non solum quod de Virgine nasceretur Jesus, verum quod per intemerati pudoris vulvam
+
+173
+00:32:31,989 --> 00:32:32,591
+nasceretur.
+
+174
+00:32:32,591 --> 00:32:40,689
+Utque nativitas ista impolluta de inviolato, non
+coinquinata de corrupto egressu putaretur, docet
+sub exemplo adhuc in vulva sanctificati prophetae.
+
+175
+00:32:40,689 --> 00:32:54,369
+Subjungit autem: Qui enim dixerat ad prophetam:
+Priusquam te formarem in utero, novi te, et in
+vulva matris sanctificavi te; qui ergo vulvam sanctificavit
+alienam, ut nasceretur propheta, hic est
+qui aperuit matris suae vulvam, ut immaculatus
+exiret.
+
+176
+00:32:54,369 --> 00:33:10,128
+Cessent jam verba nostra, ubi tanti doctoris
+verbis instruimur quid de Salvatoris ortu sentire
+debeamus. Non enim explicare debemus quid dixerit,
+cum potius involvere quam manifestius aperire
+queamus: nisi forte quis adeo rudis exstiterit, ut
+vulvam fore pudendum mulieris ignoret.
+
+177
+00:33:10,128 --> 00:33:14,544
+CAPUT VII. Testimonia ex Augustino et Hilario.
+
+178
+00:33:14,544 --> 00:33:26,777
+Procedat sed in conspectum Augustinus, fluvius
+eloquentiae, prescrutator secretorum, occultorum
+revelator, propugnator Ecclesiae, haereticorum debellator;
+et quid super Salvatoris sentiat exortu palam
+profiteatur.
+
+179
+00:33:26,777 --> 00:33:43,949
+In sermone de Natali Domini, dum de modestia Virginis, et mirabili Salvatoris conceptu declamaret, sic ait: Pronuntiato per angelum partu coepit Verbum formari, conceptione colligitur in homine Deus, et eum sustinet venter cui parvus fuerat mundus, et intra breve virginei corporis spatium pro nobis
+
+180
+00:33:43,949 --> 00:33:53,369
+est incarnata majestas; fecunda viscera Verbo auctore tenduntur; completisque novem mensibus venter coelestem hominem fudit: natum Dominum publicat angelicus sermo.
+
+181
+00:33:53,369 --> 00:34:09,507
+Diligenti descriptione
+quam brevissime prosecutus est, et principia
+conceptus, et constructionem soliditatis, et augmentum
+corporis. Mensium quoque spatium quo intra
+secreta ventris infantilis coaluit successus, inde progressus
+in auras, et in nativitatem Dei angelica conclamatio.
+
+182
+00:34:09,507 --> 00:34:18,697
+Vide profecto quoniam et conceptum dicitur,
+et concretum, et fusum, id est non per peregrinam
+irruptionem egressum, sed per vestibulum ventris
+virginalis fusum.
+
+183
+00:34:18,697 --> 00:34:35,467
+Item in alio sermone super eadem nativitate:
+Natus ergo Dominus noster ex carne quidem, sed
+non ex corruptione carnali: natus ut homo, sed non
+genitus ut homo. Ita suscepit carnem, ut servaret
+majestatis honorem; et sic segregavit puritatem
+nativitatis suae a colluvione concretionis humanae.
+
+184
+00:34:35,467 --> 00:34:45,978
+Peregit quidem in ortu suo plenam hominis dispensationem,
+sed Dei tamen non deseruit dignitatem. Vides a docto viro et divinitatem Filii Dei, et humanae
+nativitatis ordinem designari.
+
+185
+00:34:45,978 --> 00:34:58,441
+Dicit enim eum
+natum ex carne, scilicet de membris et humanitate
+virginis, lege quidem carnis, sed praeter corruptionem
+carnis; utque manifestius quid dicitur animadvertas,
+ait: Natus ut homo, sed non genitus
+ut homo.
+
+186
+00:34:58,441 --> 00:35:05,448
+Cerne quam plenissime nativitatis Christi
+mysterium reseravit: Ait namque: Natus ut
+homo, sed non genitus ut homo.
+
+187
+00:35:05,448 --> 00:35:16,969
+Quid est, natus
+ut homo? Quia per vulvam, per quam nascitur omnis
+homo, de virginis utero egressus est. Et quid est non
+genitus ut homo? Quoniam non de semine viri, sed
+de Spiritu sancto est incarnatus.
+
+188
+00:35:16,969 --> 00:35:26,323
+Fac ut non fuerit
+egressus per ostium ventris, non erit verum quod
+natus fuerit ut homo: sed natus est ut homo, igitur
+per ventris ostium, id est vulvam, natus est.
+
+189
+00:35:26,323 --> 00:35:40,069
+Hilarius, vir virtutum omnium atque ornamentorum,
+et sicut vita ita etiam eloquentia insignis, in
+libro Fidei secundo (de Trinitate lib II sub med ):
+Unus unigenitus Deus in corpusculi humani formam
+sanctae Virginis utero insertus accrescit.
+
+190
+00:35:40,069 --> 00:35:53,016
+Qui
+omnia continet, et intra quem et per quem cuncta
+sunt, humani partus lege profertur. Docet eum et
+corporis habitum ex Virgine et intra Virginem induisse,
+et de more nativitatis humanae, virginalis
+vulvae penetrasse secreta.
+
+191
+00:35:53,016 --> 00:36:02,769
+Commutatis siquidem verbis
+idem quod Pater Augustinus protestatur: ille
+namque quod natus sit ut homo testificatur; at iste
+quod humani partus lege prolatus est, intonuit.
+
+192
+00:36:02,769 --> 00:36:11,040
+Quatenus
+uterque dum Salvatoris processum de Virgine
+consona Scripturis sacris voce profitentur, et veritas
+doceatur, et falsitas subruatur.
+
+193
+00:36:11,040 --> 00:36:15,696
+CAPUT VIII. Item ex Gregorio papa et venerabili Beda.
+
+194
+00:36:15,696 --> 00:36:25,543
+Ut autem nullus adversario locus relinquatur contradictionis,
+procedat in medium Gregorius, speculum
+sanctitatis, eloquium lacteum, regula morum,
+et Dominici partus genituram verbis doceat veritatis.
+
+195
+00:36:25,543 --> 00:36:40,388
+In homilia 26, dum propositam solveret quaestionem,
+quod corpus Dominicum et verum fuit, et clausis
+januis ad discipulos introivit, tali sub exemplo comprobavit. Illud enim corpus Domini introivit ad
+discipulos januis clausis, quod videlicet ad humanos
+oculos per nativitatem suam clauso exiit utero.
+
+196
+00:36:40,388 --> 00:36:54,838
+Dicitur quod quemadmodum Dominus Jesus Christus
+post resurrectionis gloriam cum corporis veritate
+diversorium discipulorum, non per parietem, nec
+per postica, sed per januam, non tamen reseratam,
+ingressus est, ita de matris alvo procedens, non
+aliunde, sed per vulvam, clausam tamen, exivit.
+
+197
+00:36:54,838 --> 00:37:01,123
+Dicis
+forte clausis ad discipulos januis Dominum introisse,
+non tamen per locum januarum, sed per quamcunque
+penetrasse partem.
+
+198
+00:37:01,123 --> 00:37:15,968
+Primo quid ad divinum miraculum spectat clausis ostiis aliunde ingressum? Aut quid dignum evangelistae commendatione, inde introisse Dominatorem, per quod quislibet ingressum sibi poterat reperire mortalium? Aut Omnipotenti si nihil esse clausum quiret ad introitum, cur non idem super januarum aditu
+
+199
+00:37:15,968 --> 00:37:30,467
+suscipiatur, ut et illis clausis, attamen suo adventui reseratis ad discipulos foret ingressus? Sed quid respondebis de sepulcro, quandoquidem non solum clauso, verum etiam obsignato illo, corpus redivivum reposuit sub auras? An dices quod tantae subtilitatis corpus illud substiterit Jesu, ut
+
+200
+00:37:30,467 --> 00:37:33,783
+tenuius ventis, exilius aere nequiverit tumuli parietibus coerceri?
+
+201
+00:37:34,080 --> 00:37:49,876
+Sed quanquam sit impium ista sentire de Salvatoris corpore, cum post resurrectionem dixerit ad discipulos: Palpate et videte quia spiritus carnem et ossa non habet, sicut me videtis habere: et natura non patitur ut et ossium et carnis soliditate duratum sit crassum; et subtilitatis exilitate
+
+202
+00:37:49,876 --> 00:38:01,507
+deductum sit tenue: nec catholica fides naturae corporis aut qualitati ascribit quod clausum exierit sepulcrum, quod obseratis foribus penetraverit ad discipulos, sed Divinitatis potentiae et resurrectionis gloriae.
+
+203
+00:38:01,507 --> 00:38:15,248
+Alioquin non erit jam miraculum Deitatis
+commendans insigne, quod naturae ratione tenebitur
+astrictum. Attamen concedimus et ista, quamvis
+impia, quamvis contra fidem. Nunquid non idem de
+januis confiteberis clausis? Velis, nolis, hoc laqueo
+illigaberis.
+
+204
+00:38:15,248 --> 00:38:18,494
+Ergo exivit clauso sepulcro, et ingressus
+foribus obseratis.
+
+205
+00:38:18,494 --> 00:38:34,345
+Tantumdem igitur licet invitus, licet resultans, concedis virginali vulvae, nec infirmior, nec inhumanior superni numinis proles exstitit circa maternae claustra vulvae, ut et clausam relinqueret, et per eam transiret, quemadmodum tumuli sui signa, et discipulorum domus ostium vel exivit, vel
+
+206
+00:38:34,345 --> 00:38:36,293
+introivit, nec transeundo patefecit.
+
+207
+00:38:36,293 --> 00:38:52,360
+Beda, presbyter Anglorum, Christi membrum non reprobum, de hac quaestione non dissimilem superioribus profert sententiam in Commentario Lucae (in cap II), dum de Salvatoris nativitate et partu virginis loqueretur, sic ait: Quod autem Filium suum primogenitum Maria peperisse describitur, non juxta
+
+208
+00:38:52,360 --> 00:39:08,427
+Helvidium nobis accipiendum est, alios quoque filios eam procreasse, quasi nequeat primogenitus dici, nisi qui habeat fratres, sicut non unigenitus, nisi qui caret fratribus, solet appellari: quia et testimonium legis, et aperta ratio declarat omnes unigenitos, etiam primogenitos, non autem omnes
+
+209
+00:39:08,427 --> 00:39:10,753
+primogenitos etiam unigenitos posse vocari.
+
+210
+00:39:10,753 --> 00:39:16,272
+Hoc est
+non solum primogenitum post quem alii, sed omnes
+antequam nullus e vulva processerit.
+
+211
+00:39:16,272 --> 00:39:31,690
+Denique quia
+omne masculinum quod aperit vulvam, sanctum Domino
+vocari praecipitur, sive fratres sequantur, sive
+non sequantur, quod primum de vulva nascitur, primogeniti
+est jure consecrandum. His verbis et
+virginitatem defendit Mariae, et humani partus lege
+Salvatoris insinuat ortum.
+
+212
+00:39:31,690 --> 00:39:47,863
+Nam dum primogenitus
+et unigenitus perdocetur, fratres eum habere potuisse
+monstratur, quod nequaquam poterat esse
+verum, si Christus humana natus non fuerit lege. Nec enim merito tunc vel primogenitus, vel unigenitus
+diceretur, quia non genitus, genitus autem, est
+nativitatis humanae lege prolatus.
+
+213
+00:39:47,863 --> 00:39:58,915
+Qua de re Christus
+non est natus sicut homo, nec si genuisset Maria
+praeter Christum, potuisset Christus primogenitus
+vocari; quoniam non esset genitus, sed adversus
+jura naturae vel ejectus, vel egressus.
+
+214
+00:39:58,915 --> 00:40:15,088
+Nunc vero et legis auctoritate, et Evangelii veritate hic doctor instructus dogmatizat Jesum primogenitum sacrae Virginis, quoniam et primus et solus natus est ex ea humani partus jure; quoniam nascendo aperuit vulvam, non ut violaverit uteri pudorem, verum quo per signatam et intemeratam procederet
+
+215
+00:40:15,088 --> 00:40:17,514
+januam, de secreto ventris ad humanos oculos.
+
+216
+00:40:17,514 --> 00:40:26,248
+Et idcirco quod
+primus de vulva natus est, primogeniti jure consecratur. Nescio quid amplius ad hujus quaestionis
+comprobationem congerere sit necessarium testes.
+
+217
+00:40:26,248 --> 00:40:35,952
+Tot enim et tam magnae auctoritatis viri, non solum
+cuilibet sufficere catholico possunt, verum quemvis
+haereticum, et fidei gravitate, et sapientiae lumine
+conterere queunt.
+
+218
+00:40:35,952 --> 00:40:39,336
+CAPUT IX. Item ex Hieronymo.
+
+219
+00:40:39,336 --> 00:40:48,355
+Ne autem sibi quidquam commentum novitatis
+deesse queratur, jam nunc ipsa Virginis pudenda
+nudo nomine dicta, et per ea genitum Salvatorem
+in medium constituamus.
+
+220
+00:40:48,355 --> 00:41:05,003
+Hieronymus, sacrae legis interpres, omnium peritissimus disciplinarum, fidei turris inconcussa, sapientiae lampade splendidissimus, eloquio facundissimus, Latini, Graeci Hebraeique sermonis doctissimus, in libello adversus Helvidium, constituens primo ipsius Helvidii super hac re dicta, postea suam
+
+221
+00:41:05,003 --> 00:41:08,456
+sententiam profert, qua bene ab haeretico insinuata confirmat.
+
+222
+00:41:08,456 --> 00:41:21,819
+Sic enim legitur: Nunquid
+non quotidie Dei manibus parvuli finguntur in
+ventribus, ut merito erubescere debeamus Mariam
+nupsisse post partum? Quod si hoc illis turpe videtur,
+superest ut non credamus etiam Deum per
+genitalia Virginis natum.
+
+223
+00:41:21,819 --> 00:41:38,077
+Turpius est enim juxta eos
+Deum per Virginis pudenda genitum, quam Virginem
+viro suo nupsisse post partum. Hactenus haereticus
+de nuptu Virginis post partum nefandissima
+latrat. Sed de generatione Filii Dei per hominem
+verissima narrat, quod sequens oratio doctoris nostri
+declarat manifeste.
+
+224
+00:41:38,077 --> 00:41:45,426
+Talis enim est: Junge, si
+libet alias naturae contumelias, novem mensibus
+uterum insolescentem, fastidia, partum, sanguinem,
+pannos.
+
+225
+00:41:45,426 --> 00:42:00,849
+Ipse tibi describatur infans tegmine membranarum
+solito convolutus: ingerantur dura praesepia,
+vagitus parvuli, octavi diei circumcisio, tempus
+purgationis, ut probetur immundus, non erubescimus,
+non silemus. Quanto sunt humiliora quae
+pro me passus est, tanto illi plus debeo.
+
+226
+00:42:00,849 --> 00:42:07,976
+Et cum
+omnia replicaveris, nihil cruce contumeliosius proferes,
+quam profitemur, et credimus, et in qua de
+hostibus triumphamus.
+
+227
+00:42:07,976 --> 00:42:19,224
+Sed ut haec quae scripta
+sunt, non negamus, ita ea quae non sunt scripta,
+renuimus: natum Deum esse de Virgine credimus,
+quia legimus: Mariam nupsisse post partum non
+credimus, quia non legimus.
+
+228
+00:42:19,224 --> 00:42:30,041
+Distinctione prudenti vir doctissimus quae fuerant
+ab adversario male ingesta removit, et quae catholice
+prolata suscepit; quae vere dicta confirmavit, et
+quae ore blasphemo jaculata redarguit.
+
+229
+00:42:30,041 --> 00:42:44,725
+Per genitalia
+Virginis natum esse Deum confessus est: post partum
+nupsisse Mariam reprobavit: quod genitalia et
+pudenda in injuriam sacri partus deprompserit,
+exsecratus est; quod Verbum caro factum per secretam
+ventris januam exire non repudiaverit, approbavit.
+
+230
+00:42:44,725 --> 00:43:01,483
+Inde est quod et alias naturae depositiones annexuit, novem mensibus uterum insolescentem, fastidia, partum, sanguinem, pannos, infantem tegmine membranarum solito convolutum, dura praesepia, vagitus, circumcisionem, tempus purgationis, novissime crucis contumeliam; haec universa tanquam catholicus
+
+231
+00:43:01,483 --> 00:43:03,277
+amplexatur, suscipit, veneratur.
+
+232
+00:43:03,277 --> 00:43:19,307
+Quanto
+namque humiliora pro electis passus est Creator,
+tanto plus illi debent hac oratione doctoris egregii
+considerare, quia non pauca dinumerat, quae parvulus
+nequiverit sustinere, si non humani partus lege
+natus est, ut partum, sanguinem, pannos, membranarum
+convolutionem, vagitus.
+
+233
+00:43:19,307 --> 00:43:24,239
+Universa haec et genitalis
+virginei secretum, et humanae nativitatis legem
+protestantur.
+
+234
+00:43:24,239 --> 00:43:40,717
+Pariter quoque disce Spiritum sanctum hanc sacrosanctum qui protestatus est ortum, et sanctos doctosque homines, qui eum postea verbis scriptisque suis commendavere populis, magis illum voluisse sermonis honestioris insinuare circuitu, quam simplicis eloquii servando proprietatem, aliquid quod
+
+235
+00:43:40,717 --> 00:43:55,625
+offenderet audientes, in medium proferre: decebat enim tantam rem non humilibus, sed magnis, non sordidis, sed honestis exponere verbis, ut illud: Orietur stella ex Jacob, et consurget homo de Israel, et exiet virga de radice Jesse, et flos de radice ejus descendet.
+
+236
+00:43:55,625 --> 00:44:02,688
+Rorate, coeli, desuper, et nubes
+pluant justum; aperiatur terra, et germinet Salvatorem
+(Num XXIV 17; Isa I et XLV 8).
+
+237
+00:44:02,688 --> 00:44:11,558
+Neque enim
+defuere Spiritui sancto verba, quibus genitale virgineum
+valuerit aperire, sed rem praeclaram atque
+magnificam praeclaris magnificisque delegit figuris
+edocere.
+
+238
+00:44:11,558 --> 00:44:22,608
+Accessit tamen et propius, et legitimis propriisque
+decoris adaperuit sermonibus: propterea
+Propheta: Ecce virgo concipiet in utero, et pariet
+filium (Isa VII 14). Et: Puer natus est nobis;
+filius datus est nobis.
+
+239
+00:44:22,608 --> 00:44:37,808
+Et angelus ad Mariam:
+Ecce concipies et paries filium (Luc I 31),
+et multa horum similia: in omnibus istis et naturalibus
+et decentibus Christi nativitas commendatur
+verbis. Vitatur tamen suo vocabulo pars illa membrorum
+qua partus egreditur, commemorari, utpote nec honestum,
+nec necessarium.
+
+240
+00:44:37,808 --> 00:44:53,111
+Alioquin quando nomina ponuntur officiorum et verba, quis non et ea membra quibus illa peragantur officia, statim intelligit? Si quidem et videre per oculos, et audire per aures, et ambulare per pedes intelligimus, nec quando de aliquo praedicatur, ut vidit, audivit, ambulavit, ponuntur pariter
+
+241
+00:44:53,111 --> 00:45:03,487
+oculi, aures, pedes, nisi distinctionis et intelligentiae gratia, nec sic nos significata verborum advertimus, ut non partem, etiam membra illa sine quibus talia ministeria non explicantur, sentiamus.
+
+242
+00:45:03,487 --> 00:45:14,433
+Qua de re quod superfluum et turpe erat
+super sacri partus actu refugit enuntiare oraculum
+coeleste, refugerunt et sancti homines. Porro quod
+plenum significationis et commodationis modestiam
+habebat, exposuere.
+
+243
+00:45:14,433 --> 00:45:20,917
+Nec tamen et hoc usquequaque
+vitarunt, sive propter futuros veritatis inimicos, sive
+propter tollendae dubietatis occasionem.
+
+244
+00:45:20,917 --> 00:45:34,924
+Inde est
+quod ait Lucas evangelista: Postquam impleti sunt
+dies purgationis Mariae secundum legem Moysi, tulerunt
+Jesum in Jerusalem ut sisterent eum Domino,
+sicut scriptum est in lege Domini: Quia omne masculinum
+adaperiens vulvam, sanctum Domino vocabitur
+(Luc II 22).
+
+245
+00:45:34,924 --> 00:45:45,144
+Nec mirum si noluerint graves
+et reverendi doctores talia super gloriosissimae nativitatis
+contumeliam referre, qualia nec vulgus
+super cujuslibet pauperculae partu non erubescit
+confiteri.
+
+246
+00:45:45,144 --> 00:45:58,775
+Ergo et iste doctor insignis, cujus hic testimonium protulimus, cum recepisset ab inimico veritatis testimonium veritatis super divina generatione, indignatur tamen verborum injurias in Virginis contumelias, quod illis verbis quanquam naturalibus, quanquam propriis, humilibus tamen minusque modestis
+
+247
+00:45:58,775 --> 00:46:00,002
+virginis narraverit partum.
+
+248
+00:46:00,048 --> 00:46:03,432
+CAPUT X. In medium adducuntur poetarum Christianorum
+suffragia.
+
+249
+00:46:03,432 --> 00:46:21,508
+Amplius ergo jam non est quid requiras, quando nil superat de sancto partu quid discutias: siquidem pervenimus jam ad genitalia Virginis, transivimus ad pudenda puerperae, ut cui non dabat intelligentiam conceptus, partus, generatio, nativitas, apertio vulvae, tandem doceant pudenda, erudiant
+
+250
+00:46:21,508 --> 00:46:26,998
+genitalia; non dederint intellectum naturalia et honesta, dent saltem turpia et figurata.
+
+251
+00:46:26,998 --> 00:46:41,558
+Quoniam tantum docti sunt
+nostri secretorum pervestigatores, ut potius obscuris
+et alienis, quam claris et propriis assentiantur significationibus. Verum poetarum jam suffragia convocemus, ut
+omnis eloquentia testimonium ferat veritati.
+
+252
+00:46:41,558 --> 00:46:59,819
+Prudentius, vir liberalium studiorum non ignarus, in Apotheosi dum de injuriis quas passa est vita mundi pro libertate mundi disputaret, atque ab eis inviolabilem naturam, id est divinam, segregaret, easque passibili substantiae, id est humanae, assignaret, sic ait: His affecta est caro hominis,
+
+253
+00:46:59,819 --> 00:47:03,891
+quam femina praegnans Enixa est sub lege veteri, sine lege mariti.
+
+254
+00:47:03,891 --> 00:47:17,957
+Fideli prorsus et sapienti narratione et concubitum
+secrevit, et prolem naturaliter enixam disseruit. Legem removit mariti, et legem substituit uteri; ut
+de Spiritu sancto concepisse monstraret, per vulvam
+peperisse non taceret.
+
+255
+00:47:17,957 --> 00:47:33,257
+Huic simile Fortunatus presbyter
+peregrinus, sed coelestis civis, pauper rebus,
+censu fidei dives, in laude virginis Mariae sic fatur
+(Carm lib VIII poem 5 post init ):
+Sed redeo qua Virgo trahit laude canenda
+Qualis nulla fuit, nulla futura venit.
+
+256
+00:47:33,257 --> 00:47:44,856
+Quemque pluunt nubes justum de rore serenum,
+Haec Salvatorem germine terra dedit. Haec porta est clausa, in quam introivit nemo, nec exit,
+Ni Dominus solus, cui quoque clausa patent.
+
+257
+00:47:44,856 --> 00:48:00,920
+Non disconvenit superiori, imo aliis verbis hoc idem designat; nam gemina periodo eamdem sententiam commendans, et virginitatis praedicat integritatem, et humano de more nativitatis indicat expositionem, et Salvatorem conceptum divinitus narrat, et naturalis semitae vena germinatum; utque clarius
+
+258
+00:48:00,920 --> 00:48:15,254
+eliqueret quod loquebatur, attestatur Mariam portam exstitisse Ezechieliticam, per quam virilis nullus est introitus, vel exitus; solus vero omnipotens, cui nihil est clausum, per eam transit, ut qui concipi decrevit ex Virgine, humani partus lege de ea nasceretur.
+
+259
+00:48:15,254 --> 00:48:31,265
+Post omnes Athanasius Alexandrinus veniat, ut qui dote virtutum, constantia probatae fidei, sapientiae doctrina, perseverantia confessionis, solus, ut ita dixerim, Arianae perfidiae subvertit multitudinem numerosam, et vexillum verae credulitatis propugnator gerens invictus Ecclesiae restauravit
+
+260
+00:48:31,265 --> 00:48:37,268
+murum, roboravit statum; nostrae quoque disputationis confirmator assistat, et erroris sectam valenter evertat.
+
+261
+00:48:37,268 --> 00:48:53,441
+Ad Epitectum adversus eos agens qui unius substantiae Verbum et corpus quod assumpsit pro nostra redemptione dogmatizabant, cum fides teneat Christiana duas substantias, divinam scilicet humanamque in Christo conjunctas, ut in una persona utraque natura suam possideat distinctionem; sic infit inter
+
+262
+00:48:53,441 --> 00:49:02,420
+reliqua: Propterea ergo necessaria Maria, ut ex ipsa corpus assumeret, et ut suum pro nobis corpus offerret; et hanc Isaias prophetizans ostendit, dicens: Ecce Virgo.
+
+263
+00:49:02,420 --> 00:49:18,864
+Gabriel autem mittitur
+ad ipsam non transitorie virginem, sed ad virginem
+desponsatam viro, ut sponso ostenderet Mariam
+vere hominem fuisse. Et partus meminit Scriptura,
+et dicitur: Involvit puerum. Et: Beata sunt ubera
+quae suxit. Et, oblatum est sacrificium, quoniam
+aperuit qui natus est vulvam.
+
+264
+00:49:18,864 --> 00:49:34,839
+Haec autem omnia parturientis virginis erant indicia, et Gabriel certissime evangelizavit ipse dicens non transitorie, quod nasceretur ex te; ut non de foris inditum ei corpus videretur, sed, ex te; ut ex ipsa, naturaliter quod natum est, esse manifeste credatur; et hoc natura demonstrante, quia
+
+265
+00:49:34,839 --> 00:49:41,532
+impossibile est virginem lac proferre, et impossibile est lacte nutriri corpus et pannis involvi non ante naturaliter natum.
+
+266
+00:49:41,532 --> 00:49:57,724
+Orthodoxae fidei constantissimus, quem Dominus posuerat in civitatem munitam, in murum aeneum, et in columnam ferream regibus Judae, principibus ejus et omni populo terrae, non aliter de Virginis partu aut sentire potuit, aut effari, quam sentit et praedicat Ecclesia, quae est domus aedificata super
+
+267
+00:49:57,724 --> 00:50:09,597
+solidissimam petram, columna et firmamentum veritatis; propter quod cum enumeret plura quibus approbat incarnatum natum Christum de Virgine, ut etiam novam depellat haeresim, dicitur quoniam qui natus est aperuit vulvam.
+
+268
+00:50:09,597 --> 00:50:21,040
+Hancque verae confessionis
+doctrinam magis ac magis inculcans, inferius
+annectit: Impossibile esset virginem lac proferre,
+et impossibile esset lacte nutriri corpus, et pannis
+involvi, non ante naturaliter natum.
+
+269
+00:50:21,040 --> 00:50:35,936
+Quid amplius
+vultis, novae et inauditae praeteritis saeculis haereseos,
+vel auctores, vel defensores? En consistit adversum
+cuneum vestrum Athanasius ille, qui olim contra
+perfidiam Arianam dimicavit. Illo certamine divinitatem
+Verbi defendit, hoc agone humanitatem propugnat.
+
+270
+00:50:35,936 --> 00:50:52,344
+Tunc nativitatis quae est de Patre veritati
+contradicebatur, nunc nativitatis quae est de matre
+veritati resistitur. Hostes illi confligebant non esse
+natum Filium de substantia Patris, sed ex nihilo
+factum, isti oppugnant non naturaliter ortum Christum
+de matris utero, sed prodigialiter exceptum.
+
+271
+00:50:52,344 --> 00:51:09,352
+Ubique Christo contradicitur, ubique mundi liberatio
+maledictorum linguis injuriatur, sed propugnator
+doctus vincere, nesciens cedere, non de se tamen
+praesumens, sed in ipso pro quo pugnat confidens,
+accedat, et catervam superbia tumidam, vanitate subnixam,
+veritatis mucrone concidat.
+
+272
+00:51:09,352 --> 00:51:21,721
+Intorques pars adversa telum, et jactas: Non est
+natus Deus per naturam mulieris. Opponit fidei scutum
+vir fidelis, et refert gladium verbi Dei. Oblatum
+est sacrificium, quoniam qui natus est, aperuit
+vulvam.
+
+273
+00:51:21,721 --> 00:51:36,529
+Quid stupes falsitatis commentum? Non
+mucrone stimulatus, sed validissimo telo percussus
+es; oblatum est sacrificium, non vales negare; qua
+de re et apertam vulvam cogeris confiteri. Quod si
+aperuit vulvam, natus est per naturam mulieris
+sanguineam.
+
+274
+00:51:36,529 --> 00:51:53,299
+Veternosus anguis quo convertis aciem? quo lubricum captas caput objectare? An adhuc conaris
+in vulnus et insibilas ore trisulco; si aperuit
+vulvam, corrupit? Sed os pestiferum obice Danielitico
+jam nunc oppiletur, ut squamosus draco per partes
+disjectus cesset dementare Chaldaeos.
+
+275
+00:51:53,299 --> 00:52:10,307
+Isaias
+propheta: Ecce Virgo: et Gabriel mittitur non
+transitorie ad virginem, sed ad virginem desponsatam
+viro, et post, partum, post, involutionem parvuli,
+post, lactationem, post, oblatum, quoniam aperuit
+qui natus est vulvam, inclamat. Haec omnia parturientis
+virginis erant indicia.
+
+276
+00:52:10,307 --> 00:52:16,730
+Ergo virgo parit, non
+corrumpitur, virgini matri nascens Deus aperuit vulvam,
+nec violavit pudoris sigillum.
+
+277
+00:52:16,730 --> 00:52:32,489
+Nec ad haec forsitan penitus conquiescis, sed audes
+rursus confractam concisamque in ictus manum
+moliri: Deo nascituro nihil fuit clausum, sed voluntas
+ut exstitit nascendi, affluit mox egressus, nec
+moras passus est nativitatis, cui sine processu factus
+est ortus.
+
+278
+00:52:32,489 --> 00:52:46,583
+Et hanc perfidiae calumniam sic elidit defensor
+fidei, non quo Divinitatis subroget potentiae
+quidquam, sed quo humanae nativitatis homini Deo
+contestetur veritatem; ut ex ipsa, naturaliter quod
+natum est, esse manifeste credatur.
+
+279
+00:52:46,583 --> 00:53:01,170
+Igitur naturaliter
+natum esse Deum hominem factum praedicat, ut
+per naturae vulvam humani partus lege processisse
+cognoscas. Inde quoque docet haud aliter Virginem
+lege naturae potuisse lac proferre, vel lacte nutrire
+corpus; vel consequenter pannis involvere non ante
+naturaliter natum.
+
+280
+00:53:01,170 --> 00:53:16,418
+Ergo omnifariam, adversario devicto, teneamus vera fide, confiteamur ore veridico, Verbum carnem factum per ministerium vulvae naturaliter natum, et secundum rationis consequentiam, et secundum divinarum testimonia Scripturarum, et secundum doctorum non contemnendam auctoritatem: satis abundeque, ut
+
+281
+00:53:16,418 --> 00:53:26,633
+aestimo, monstratum est, Dominum Salvatorem de Virgine sicut hominem natum, non ut integritatem violaret, illa nativitas, quia Maria virgo fuit ante partum, virgo in partu, virgo mansit et post partum.
+
+282
+00:53:26,633 --> 00:53:39,340
+Sed ut qui de virgine corpus assumpsit,
+et intra gremium virginale concrevit, per aulam
+quoque virgineam naturaliter nasceretur. Quod si
+alicui ista non suffecerint, vel tarditate sensus, vel
+contradicendi studio, non deerit unde utrique subveniatur.
+
+283
+00:53:39,340 --> 00:53:48,335
+Si tamen et vulnus aperire suum maluerint,
+et contentionis perniciem non amare. Lusimus haec
+de more studentium: quae si quis contemnet, exercitia
+nobis nostra complacebunt.
+
