@@ -1,16 +1,17 @@
 1
-00:00:00,000 --> 00:00:04,416
+00:00:00,000 --> 00:00:08,256
 PRIVILEGIUM MONASTERII SANCTI GERMANI, PARISIENSIS EPISCOPI
+21 Aug. 566.
 
 2
-00:00:04,416 --> 00:00:12,957
+00:00:08,256 --> 00:00:17,485
 Dominis viris apostolicis, sanctis et in
 Christo fratribus, omnibus episcopis Parisiace urbis
 cum gratia Dei futuris, et celesti visitatione ditatis,
 Germanus peccator.
 
 3
-00:00:12,957 --> 00:00:26,939
+00:00:17,485 --> 00:00:32,593
 Omnibus non habetur incognitum,
 qualis ac quantus circa monasteria et ecclesias, aut erga
 Deum timentium virorum fuerit inclite memorie gloriosissimus Childebertus rex, cujus summa benivolentia
@@ -18,7 +19,7 @@ multis largita est copiosa beneficia, et immunitati notre
 stabilitatem perpetuam.
 
 4
-00:00:26,939 --> 00:00:41,328
+00:00:32,593 --> 00:00:48,141
 Scilicet cogitans quia,
 qui ista temporalia reservaret metenda, sibi multo
 majora a Deo illi attribuerentur, si ob ejus . . . (Sic apud
@@ -27,44 +28,44 @@ inopiam sustentaret, et pro magnis parva offerret,
 atque pro terrenis celestia adipisceretur.
 
 5
-00:00:41,328 --> 00:00:46,209
+00:00:48,141 --> 00:00:53,415
 Unde et nobis ob sepulturae suae meritum aliqua a se
 considerare mandavit et considerata cessit.
 
 6
-00:00:46,209 --> 00:01:01,309
+00:00:53,415 --> 00:01:09,732
 Itaque inclitus iste princeps Parisius basilicam in honore sanctae crucis et domni Vincentii, vel reliquorum sanctorum in unum membrum construxit, et sibi sepulturam inibi collocavit, ac largitatis suae copiam per testamenti sui paginam nobis habere decrevit, et habendi meritum loco tanti ordinis
 
 7
-00:01:01,309 --> 00:01:01,869
+00:01:09,732 --> 00:01:10,336
 constituit.
 
 8
-00:01:01,869 --> 00:01:16,563
+00:01:10,336 --> 00:01:26,213
 Sed dum pagina testamenti sui et cordis fides sub humana fragilitate temporaliter vigeret, agente in quorumdam calliditate, ne aeterna illi tribueretur beatitudo, ac scriptum non sortiretur effectum, simulque abbas et congregatio deputata non perciperent, ac sterilitate victus et vestitus
 
 9
-00:01:16,563 --> 00:01:29,884
+00:01:26,213 --> 00:01:40,607
 deperirent, monuit me illius recordatio, et ob amorem illius terruit me tanta securitas simulque pietatis et caritatis affectus; ille etenim post Deum, dum superesset, fuit nostra immunitas et securitas, pax et recuperatio ac sequestratio omnis a civili negotio.
 
 10
-00:01:30,239 --> 00:01:44,203
+00:01:40,992 --> 00:01:54,279
 Nos vero in hac re pietati illius consulentes, et caeterorum Regum velle stabiliri conantes, caritatem fraternae dilectionis vestrae nobiscum volumus concordari; quatinus illius sancti loci honor celeberrimus et memoria jam dicti principis gloriosi eniteat eodem in loco omnibus ejus aevi temporibus,
 
 11
-00:01:44,203 --> 00:01:57,841
+00:01:54,279 --> 00:02:07,256
 habeatque abbatem ex propria congregatione ipsa ecclesia, qui sub gubernatione regum, per successiones eumdem locum provideat; sitque alienus pontifex omnis Parisiorum ab eodem loco, ut non deinceps aliquam potestatem in omnibus ad ipsum locum pertinentibus habeat; simulque sancimus ut nullus
 
 12
-00:01:57,841 --> 00:02:11,666
+00:02:07,256 --> 00:02:20,410
 metropolitanus, aut aliquis suffraganeus ejus, causa alicujus ordinationis illuc ingredi praesumat, nisi solummodo ab abbbate ejusdem loci vocatus venerit ad sanctitatis misterium celebrandum, aut ad ecclesias consecrandas, aut ad benedictiones clericorum vel monachorum instituendas; quod debitum
 
 13
-00:02:11,666 --> 00:02:12,829
+00:02:20,410 --> 00:02:21,517
 renuere nullatenus debet.
 
 14
-00:02:12,829 --> 00:02:26,793
+00:02:21,517 --> 00:02:34,804
 Caeterum quicquid a
 die praesenti, tam a tempore meo, quam et successorum
 meorum omnium in sede Parisiorum residentium
@@ -74,14 +75,14 @@ vel argento fuerit delegatum vel donatum, ut ad integrum
 habeat volo, rogo, conjuro.
 
 15
-00:02:26,793 --> 00:02:32,612
+00:02:34,804 --> 00:02:40,340
 Decrevi etiam
 per hanc cartulam immunitatis et cessionis, meam
 basilicam superius memoratam sine gestorum obligatione
 manere.
 
 16
-00:02:32,612 --> 00:02:44,015
+00:02:40,340 --> 00:02:51,192
 Et quia id antea consuetudo non
 fuit, et modo a regibus et principibus mihi est concessum,
 voluntatem pietatis vestrae in hoc scripto
@@ -89,40 +90,40 @@ pretermittere nolui, sed in omnibus per vos roborari,
 et confirmari exposco, ut deinceps ratum permaneat.
 
 17
-00:02:44,015 --> 00:02:59,292
+00:02:51,192 --> 00:03:06,853
 Et si quis unquam fuerit, qui contra hanc deliberationem meam, quam ego pro firmitatis studio cum metropolitani et reliquorum episcoporum consilio ac suasione decrevi conscribere, quoquo tempore venire temptaverit, aut fortassis locum refragandi quesierit, in primis a liminibus sanctarum ecclesiarum
 
 18
-00:02:59,292 --> 00:03:14,211
+00:03:06,853 --> 00:03:22,150
 ab omnibus episcopis et sacerdotibus Dei, tam presentis temporis quam futuri, sit excommunicatus, et alienus a pace, et in futuro judicio cum sanctis et amicis Dei, in quorum honore hec conscriptio facta est, meum ac dominorum meorum metropolitanorum seu episcoporum presentium super se adesse
 
 19
-00:03:14,211 --> 00:03:16,452
+00:03:22,150 --> 00:03:24,447
 sentiat judicium, et sit anathema maranatha.
 
 20
-00:03:16,452 --> 00:03:30,506
+00:03:24,447 --> 00:03:38,856
 At insuper ut hec cartula firmiorem possit adipisci
 plenitudinem, comprovincialium dominorum
 episcoporum et fratrum meorum presbyterorum seu
 diaconorum conscriptionibus ipsam volui corroborare. Actum Parisius civitate, sub die XII Kalend. septembris, anno 5 Chariberti regis .
 
 21
-00:03:30,506 --> 00:03:36,005
+00:03:38,856 --> 00:03:44,494
 Germanus
 peccator hanc cartulam cessionis et emunitatis a
 me factam relegi et subscripsi, sub die quo supra.
 
 22
-00:03:36,005 --> 00:03:51,027
+00:03:44,494 --> 00:03:59,895
 Nicetius Lugdunensis episcopus in Christi nomine, petente apostolico domno et fratre meo Germano episcopo, et domina Ulthrogothe regina, atque domna Chrodesinta ac Chroberga, constitutionem hanc, scilicet a presenti tempore a successoribus domni Germani episcopi perpetuo custodiendam relegi, et
 
 23
-00:03:51,027 --> 00:03:53,471
+00:03:59,895 --> 00:04:02,401
 manus mee subscriptione corroboravi notato die .
 
 24
-00:03:53,471 --> 00:04:08,543
+00:04:02,401 --> 00:04:17,854
 Pretextatus
 Cabillonensis episcopus, deliberationem superius
 comprehensam, rogante et presente domno
@@ -132,7 +133,7 @@ juxta consensum et deliberationem domni Germani
 in perpetuo mansuram, subscripsi notato die.
 
 25
-00:04:08,543 --> 00:04:21,834
+00:04:17,854 --> 00:04:31,480
 Eufronius
 Nivernensis episcopus, rogante domno apostolico
 Germano episcopo, hanc deliberationem relegi
@@ -142,163 +143,12 @@ mei Germani episcopi consensi et subscripsi notato
 die.
 
 26
-00:04:21,834 --> 00:04:25,704
+00:04:31,480 --> 00:04:35,447
 Donnolus Cenomanensis episcopus, consensi et
 subscripsi notato die.
 
 27
-00:04:25,704 --> 00:04:42,194
-Caletricus peccator, juxta consensum
-et deliberationem domni Germani episcopi,
-consensi et subscripsi notato die. Victurius peccator,
-juxta deliberationem hanc, Germano presente
-fratre meo et rogante, consensi et subscripsi notato
-die. Leodebaudus peccator consensi et subscripsi
-notato die. 21 Aug.
-
-28
-00:04:42,194 --> 00:04:51,900
-566. ---Dominis viris apostolicis, sanctis et in
-Christo fratribus, omnibus episcopis Parisiace urbis
-cum gratia Dei futuris, et celesti visitatione ditatis,
-Germanus peccator.
-
-29
-00:04:51,900 --> 00:05:07,067
-Omnibus non habetur incognitum,
-qualis ac quantus circa monasteria et ecclesias, aut erga
-Deum timentium virorum fuerit inclite memorie gloriosissimus Childebertus rex, cujus summa benivolentia
-multis largita est copiosa beneficia, et immunitati notre
-stabilitatem perpetuam.
-
-30
-00:05:07,067 --> 00:05:22,785
-Scilicet cogitans quia,
-qui ista temporalia reservaret metenda, sibi multo
-majora a Deo illi attribuerentur, si ob ejus . . . ( Sic apud
-Bulliardum ) ecclesias et templa fundaret, et egentium
-inopiam sustentaret, et pro magnis parva offerret,
-atque pro terrenis celestia adipisceretur.
-
-31
-00:05:22,785 --> 00:05:28,079
-Unde et nobis ob sepulturae suae meritum aliqua a se considerare mandavit et considerata cessit.
-
-32
-00:05:28,079 --> 00:05:44,459
-Itaque inclitus iste princeps Parisius basilicam in honore sanctae crucis et domni Vincentii, vel reliquorum sanctorum in unum membrum construxit, et sibi sepulturam inibi collocavit, ac largitatis suae copiam per testamenti sui paginam nobis habere decrevit, et habendi meritum loco tanti ordinis
-
-33
-00:05:44,459 --> 00:05:45,065
-constituit.
-
-34
-00:05:45,065 --> 00:06:01,004
-Sed dum pagina testamenti sui et cordis fides sub humana fragilitate temporaliter vigeret, agente in quorumdam calliditate, ne aeterna illi tribueretur beatitudo, ac scriptum non sortiretur effectum, simulque abbas et congregatio deputata non perciperent, ac sterilitate victus et vestitus
-
-35
-00:06:01,004 --> 00:06:15,453
-deperirent, monuit me illius recordatio, et ob amorem illius terruit me tanta securitas simulque pietatis et caritatis affectus; ille etenim post Deum, dum superesset, fuit nostra immunitas et securitas, pax et recuperatio ac sequestratio omnis a civili negotio.
-
-36
-00:06:15,840 --> 00:06:28,836
-Nos vero in hac re pietati illius consulentes, et caeterorum Regum velle stabiliri conantes, caritatem fraternae dilectionis vestrae nobiscum volumus concordari; quatinus illius sancti loci honor celeberrimus et memoria jam dicti principis gloriosi eniteat eodem in loco omnibus ejus aevi temporibus,
-
-37
-00:06:28,836 --> 00:06:41,529
-habeatque abbatem ex propria congregatione ipsa ecclesia, qui sub gubernatione regum, per successiones eumdem locum provideat; sitque alienus pontifex omnis Parisiorum ab eodem loco, ut non deinceps aliquam potestatem in omnibus ad ipsum locum pertinentibus habeat; simulque sancimus ut nullus
-
-38
-00:06:41,529 --> 00:06:54,395
-metropolitanus, aut aliquis suffraganeus ejus, causa alicujus ordinationis illuc ingredi praesumat, nisi solummodo ab abbbate ejusdem loci vocatus venerit ad sanctitatis misterium celebrandum, aut ad ecclesias consecrandas, aut ad benedictiones clericorum vel monachorum instituendas; quod debitum
-
-39
-00:06:54,395 --> 00:06:55,478
-renuere nullatenus debet.
-
-40
-00:06:55,478 --> 00:07:08,475
-Caeterum quicquid a
-die praesenti, tam a tempore meo, quam et successorum
-meorum omnium in sede Parisiorum residentium
-episcoporum, vel a Deum timentibus principibus
-ejusdem plebis, in fiscis, villis, agris, in auro
-vel argento fuerit delegatum vel donatum, ut ad integrum habeat volo, rogo, conjuro.
-
-41
-00:07:08,475 --> 00:07:13,890
-Decrevi etiam
-per hanc cartulam immunitatis et cessionis, meam
-basilicam superius memoratam sine gestorum obligatione
-manere.
-
-42
-00:07:13,890 --> 00:07:24,504
-Et quia id antea consuetudo non
-fuit, et modo a regibus et principibus mihi est concessum,
-voluntatem pietatis vestrae in hoc scripto
-pretermittere nolui, sed in omnibus per vos roborari,
-et confirmari exposco, ut deinceps ratum permaneat.
-
-43
-00:07:24,504 --> 00:07:40,587
-Et si quis unquam fuerit, qui contra hanc deliberationem meam, quam ego pro firmitatis studio cum metropolitani et reliquorum episcoporum consilio ac suasione decrevi conscribere, quoquo tempore venire temptaverit, aut fortassis locum refragandi quesierit, in primis a liminibus sanctarum ecclesiarum
-
-44
-00:07:40,587 --> 00:07:56,296
-ab omnibus episcopis et sacerdotibus Dei, tam presentis temporis quam futuri, sit excommunicatus, et alienus a pace, et in futuro judicio cum sanctis et amicis Dei, in quorum honore hec conscriptio facta est, meum ac dominorum meorum metropolitanorum seu episcoporum presentium super se adesse
-
-45
-00:07:56,296 --> 00:07:58,655
-sentiat judicium, et sit anathema maranatha.
-
-46
-00:07:58,655 --> 00:08:13,452
-At insuper ut hec cartula firmiorem possit adipisci
-plenitudinem, comprovincialium dominorum
-episcoporum et fratrum meorum presbyterorum seu
-diaconorum conscriptionibus ipsam volui corroborare. Actum Parisius civitate, sub die XII Kalend. septembris, anno 5 Chariberti regis .
-
-47
-00:08:13,452 --> 00:08:19,242
-Germanus
-peccator hanc cartulam cessionis et emunitatis a
-me factam relegi et subscripsi, sub die quo supra.
-
-48
-00:08:19,242 --> 00:08:35,057
-Nicetius Lugdunensis episcopus in Christi nomine, petente apostolico domno et fratre meo Germano episcopo, et domina Ulthrogothe regina, atque domna Chrodesinta ac Chroberga, constitutionem hanc, scilicet a presenti tempore a successoribus domni Germani episcopi perpetuo custodiendam relegi, et
-
-49
-00:08:35,057 --> 00:08:37,631
-manus mee subscriptione corroboravi notato die .
-
-50
-00:08:37,631 --> 00:08:53,500
-Pretextatus
-Cabillonensis episcopus, deliberationem superius
-comprehensam, rogante et presente domno
-Germano episcopo, gaudenter suscepi relegendam et
-subscripsi notato die. Felix Aurelianensis episcopus
-juxta consensum et deliberationem domni Germani
-in perpetuo mansuram, subscripsi notato die.
-
-51
-00:08:53,500 --> 00:09:07,493
-Eufronius
-Nivernensis episcopus, rogante domno apostolico
-Germano episcopo, hanc deliberationem relegi et subscripsi, notato die. Domicianus Carnotensis
-episcopus, juxta consensum et deliberationem fratris
-mei Germani episcopi consensi et subscripsi notato
-die.
-
-52
-00:09:07,493 --> 00:09:11,567
-Donnolus Cenomanensis episcopus, consensi et
-subscripsi notato die.
-
-53
-00:09:11,567 --> 00:09:24,872
+00:04:35,447 --> 00:04:52,328
 Caletricus peccator, juxta consensum
 et deliberationem domni Germani episcopi,
 consensi et subscripsi notato die. Victurius peccator,
@@ -307,9 +157,8 @@ fratre meo et rogante, consensi et subscripsi notato
 die. Leodebaudus peccator consensi et subscripsi
 notato die.
 
-54
-00:09:24,872 --> 00:09:34,655
+28
+00:04:52,328 --> 00:04:58,536
 Amanuensis notarius, sub jussione domni Germani
-episcopi, hoc privilegium cessionis scripsi et subscripsi. Amanuensis notarius, sub jussione domni Germani
 episcopi, hoc privilegium cessionis scripsi et subscripsi.
 
