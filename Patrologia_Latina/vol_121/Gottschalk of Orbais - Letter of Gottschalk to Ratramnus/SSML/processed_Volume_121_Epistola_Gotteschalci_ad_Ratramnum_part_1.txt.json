@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "EPISTOLA GOTTESCHALCI AD RATRAMNUM. (Apud Cellotium Hist Gotteschalci p 414) ",
+            "cleaned_english_translation": "<speak>\n    Letter of Gottschalk to Ratramnus.\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    Come, I beg you, Clio, <break time=\"500ms\"/>\n    return with a faithful heart. <break time=\"500ms\"/>\n    Hurry, swift heroine, <break time=\"500ms\"/>\n    return, wise descendant; <break time=\"500ms\"/>\n    whose brother is Apollo. <break time=\"500ms\"/>\n  </p>\n  <p>\n    Because of this, as if flying, <break time=\"500ms\"/>\n    bring joyful greetings to my friend Ratramnus, <break time=\"500ms\"/>\n    Lord, Father, teacher, <break time=\"500ms\"/>\n    with an unpolished verse, <break time=\"500ms\"/>\n    which I willingly send to him, <break time=\"500ms\"/>\n    the famous and bright man. <break time=\"500ms\"/>\n  </p>\n  <p>\n    I truly love him deeply, <break time=\"500ms\"/>\n    with a pious and kind spirit, <break time=\"500ms\"/>\n    that it may be granted to me, the wicked one, <break time=\"500ms\"/>\n    by God who gives good things <break time=\"500ms\"/>\n    to everyone who asks. <break time=\"500ms\"/>\n  </p>\n  <p>\n    Without whom nothing is possible for anyone, <break time=\"500ms\"/>\n    as is clear to the disciple. <break time=\"500ms\"/>\n    Therefore, as you were asked, <break time=\"500ms\"/>\n    go without any delay. <break time=\"500ms\"/>\n    May you be held and see <break time=\"500ms\"/>\n    the beautiful face of my companion. <break time=\"500ms\"/>\n  </p>\n  <p>\n    For you come twice from that <break time=\"500ms\"/>\n    wonderful teacher, <break time=\"500ms\"/>\n    taking away bitterness, imprinting sweetness, <break time=\"500ms\"/>\n    you refresh the disciple's mouth <break time=\"500ms\"/>\n    with sweet food, pleasant aroma. <break time=\"500ms\"/>\n  </p>\n  <p>\n    Where you see him sitting, <break time=\"500ms\"/>\n    teaching others well, <break time=\"500ms\"/>\n    praying to the powerful God <break time=\"500ms\"/>\n    to give them pious peace; <break time=\"500ms\"/>\n    I ask you to give constant greetings.<break time=\"500ms\"/>\n  </p>\n</speak>",
+            "original_latin": "Age, quaeso, perge, Clio,\nRemeando corde fido:\nPropera, celer virago,\nRepeda, sagax propago;\nCui frater est Apollo:\nOb id hoc, velut volando,\nFer amico ovans Ratramno,\nDomino, Patri, magistro,\nCalamo metrum impolito:\nQuod ei libens remitto,\nCelebri viro, et corusco. Amo quem satis profecto,\nAnimo pio ac benigno:\nDatur ut mihi maligno\nAb eo Deo, bonum qui\n Dabit omni flagitanti,\nSine quo nihil fore nulli\nValet, ut liquet, alumno;\nIgitur velut petita\nEs, abi, mora nec ulla. Tenearis, ac decora\nVideas sodalis ora. Bis enim venis ab illo\nSpeciosa jam magistro,\nAdimens fel, imprimens mel,\nReficis os  alumni\nDape dulci, odore suavi,\nUbi vides sedentem,\nAlios probe docentem,\nRogitent Deum potentem,\n Det ut his piam quietem:\nRogo dic jugem salutem.",
+            "voice": "Matthew"
+        }
+    ]
+}
