@@ -8,3 +8,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Against the Objections of the Greeks Book Three by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-three)
 * [Against the Objections of the Greeks Book Two by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-two)
 * [Against the Objections of the Greeks Book One by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-one)
+* [Letter on the Cynocephali by Ratramnus - Archive.org](https://archive.org/details/letter-on-the-cynocephali)
