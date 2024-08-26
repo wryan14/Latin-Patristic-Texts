@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        On the seventeenth day of August, as the Sun's horses breathed sweet fire through the clouds, their heads and manes wet from the ocean waves, they hurried to steer their chariot back to its usual course. The bright stars had already vanished from the sky.\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        The pale Moon had also yielded to her brother, Phoebus. Now, he alone was driving the chariot with swift reins, spreading his lovely light over the world. He was shining with new brilliance and a splendid glow, restoring everything to its true form with his clear light.\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        All the earth rejoiced as the darkness was driven away. My mind, as if it foresaw something good, was more joyful than usual, leaping with happiness and feeling a stronger sense of cheerfulness throughout my entire being.\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        Then, suddenly, verses were gifted to me from the high throne of the King, delivered by a companion, sweeter than honey and more radiant than sunlight.\n    </p>\n</speak>",
+            "original_latin": "1. Septeno Augustus decimo praebente Kalendas,\nSolis equi dulcem efflarunt ubi nubibus ignem,\nFluctibus Oceani capita atque jubas madefacti,\nAssuetum ad cursum properantes vertere currum;\nSplendida jam toto cesserunt sidera coelo. Pallida germano cessit quoque Cynthia Phoebo:\nSolus jamque citis quadrigam agitabat habenis;\nJamque jubar mundo fundebat amabile quadro :\nJamque nitore novo, ac splendore micabat opimo,\nClara et luce suam reddebat cuique figuram. Gaudebat tenebras procul omnis terra fugatas,\nAtque mihi applaudens, veluti praesaga boni mens,\nTripudiabat ovans solito magis, atque triumphans,\nArtubus et cunctis hilarandi inerat potior vis. Cum mihi gratuito data sunt subito metra dono\n Celsithroni regis de parte relata sodalis,\nDulcia melle magis trans lumen fulgida solis.",
+            "voice": "Matthew"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    Just as someone thirsty loves to be refreshed by the sweetness of a pure spring under the star of <phoneme alphabet=\"ipa\" ph=\"ˈkænsər\">Cancer</phoneme>,\n  </p>\n  <p>\n    and a sick person wants to be revived with bread when hungry:\n  </p>\n  <p>\n    just as someone cold desires a fire, and a naked person longs for clothing;\n  </p>\n  <p>\n    an exile yearns for their homeland, or a shipwrecked person for dry land:\n  </p>\n  <p>\n    so does someone in darkness crave the nurturing gifts of light.\n  </p>\n</speak>",
+            "original_latin": "2. Quae sitiebat, uti, mea mens, sub sidere Cancri\nMessor amat refici fontis dulcedine puri,\nTabidus atque fame recreari vult quoque pane:\nAlgidus utque focum, ut exoptat nudus amictum;\nExsul ita patriam, seu terram naufragus imam:\nUtque situs tenebris cupit almae munera lucis.",
+            "voice": "Matthew"
+        }
+    ]
+}
