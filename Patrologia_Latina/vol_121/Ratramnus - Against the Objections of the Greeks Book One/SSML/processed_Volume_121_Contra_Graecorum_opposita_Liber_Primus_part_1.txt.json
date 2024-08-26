@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\nFour Books Against the Objections of the Greeks <break time=\"500ms\"/>\nby Ratramnus, a Monk of Corbie\n<break time=\"1s\"/>\n</speak>",
+            "original_latin": "RATRAMNI\nCORBEIENSIS MONACHI\nCONTRA GRAECORUM OPPOSITA\nROMANAM ECCLESIAM INFAMANTIUM\nLIBRI QUATUOR.",
+            "voice": "Ruth"
+        }
+    ]
+}
