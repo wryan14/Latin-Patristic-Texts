@@ -6,3 +6,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Confession and Extended Confession by Gottschalk of Orbais - Archive.org](https://archive.org/details/confession-and-extended-confession)
 * [Against the Objections of the Greeks Book Four by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-four)
 * [Against the Objections of the Greeks Book Three by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-three)
+* [Against the Objections of the Greeks Book Two by Ratramnus - Archive.org](https://archive.org/details/against-the-objections-of-the-greeks-book-two)
