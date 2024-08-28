@@ -6,3 +6,8 @@ An audio version of this work is available on Archive.org for free download:
 
 * [Confession by Prosper of Aquitaine - Archive.org](https://archive.org/details/confession)
 * [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
+* [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
+* [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
+* [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
+* [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
+* [The Epistles and Commentaries of Prosper of Aquitaine by Prosper of Aquitaine - Archive.org](https://archive.org/details/the-epistles-and-commentaries-of-prosper-of-aquitaine)
