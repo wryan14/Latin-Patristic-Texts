@@ -1,0 +1,2287 @@
+1
+00:00:00,000 --> 00:00:05,687
+PRIMASII
+COMMENTARIORUM SUPER APOCALYPSIM B. JOANNIS
+
+2
+00:00:05,687 --> 00:00:06,767
+PROLOGUS.
+
+3
+00:00:06,767 --> 00:00:22,167
+Tuis, vir illustris et religiose Castori, suasionibus acquiescens, sic librum Apocalypsis beati Joannis multis mysteriis opacatum, in adjutorio Domini nostri Jesu Christi, licet exiguis susceperim viribus exponendum, ut non meis solis tantum fuerim contentus inventis, sed quanquam numero pauca, si
+
+4
+00:00:22,167 --> 00:00:37,153
+qua tamen a sancto quoque Augustino testimonia exinde exposita forte reperi, indubitanter adjunxi, sed etiam a Ticonio Donatista quondam certa, quae sano congruunt sensui, defloravi, et ex eis quae eligenda fuerant, exundantia reprimens, importuna resecans, et impolita componens, catholico
+
+5
+00:00:37,153 --> 00:00:38,238
+moderamine temperavi.
+
+6
+00:00:38,238 --> 00:00:52,087
+Multa quippe in ipso ejus opere
+reperi et supervacua, et inepta et sanae doctrinae
+contraria, ita ut de causa quae inter nos et illos vertitur,
+secundum pravitatem cordis sui loca nocentia
+captaret, nostraeque Ecclesiae noxia expositione putaret
+mordaciter illudendum.
+
+7
+00:00:52,087 --> 00:01:04,593
+Nec mirum quod haereticus
+rem sibi congruam fecerit, sed vel quod invenire
+potuit defloranda, quod tamen ille facere injuste
+tentavit, nobis curae fuit, locorum opportunitatibus
+nactis, veraciter exsequi, eorumque errorem convincendo
+cassare.
+
+8
+00:01:04,593 --> 00:01:17,202
+Sicut autem pretiosa in stercore
+gemma a prudente debet curari, colligi, et reperta
+dignitati ingenuae revocari, ita undecunque veritas
+clareat, catholicae defendenda est unitati. Huic enim
+soli competit quidquid veritas foris etiam personarit.
+
+9
+00:01:17,202 --> 00:01:25,212
+Juste namque fides a perfidis collegit, quod sui juris
+esse cognoverit; nec prodesse potest alienis usurpatum,
+sed filiis, cum verae matri fuerit redditum.
+
+10
+00:01:25,212 --> 00:01:35,237
+Sic autem Donatistae hinc extolli non debent, sicut
+de sermone Caiphae, quo dixit: Expedit ut unus moriatur
+pro populo (Joan XI), Judaei non debent
+gloriari. Sed nec nostris debet esse offensio.
+
+11
+00:01:35,237 --> 00:01:45,623
+Si qua
+enim fuerint ecclesiasticis utilitatibus profutura, nostris
+sunt instructionibus applicanda, neque attendenda
+persona dicentis, sed qualitas consideranda
+est dictionis. Sic Moyses (Exod.
+
+12
+00:01:45,623 --> 00:02:00,508
+XVIII) eruditus omnem sapientiam Aegyptiorum, post divini sermonis alloquium, cujus pridem meruit beati consortio, Jethron socerum suum, mitissimus rudem, peritus ignarum, magister copiosae multitudinis singularem, Israelita gentilem devotus audivit, ejusque consilium sequens, utilitatem mox
+
+13
+00:02:00,508 --> 00:02:15,801
+praedictam invenit, cum regendi populi communicata per multos onera portarentur specialiter levigatus, sic recte ab ethnicis auctoribus probabiliter dicta et apostolicis praedicationibus sociata nostro profectui jussu meliore cesserunt, unde tamen non sinuntur gloriari gentiles. Extenditur autem hoc
+
+14
+00:02:15,801 --> 00:02:30,685
+opus in libros quinque. Quorum lectio qualem studiosis sit latura profectum, experto melius quam nostra pollicitatione probabitur. Verum pro diversitatibus opinantium, diversis me modis arbitror fore culpandum, cum alii de hujus operis coeperint prolixitate causari, alii autem libri profunda
+
+15
+00:02:30,685 --> 00:02:45,927
+pensantes, de exiguitate magis cepsuerint arguendum. Tali primos reor sermone placandos, quod satius me fatear de paucitate notandum, eo quod latentem ibi mysteriorum plenitudinem divinorum nec penetrare competenter quiverim, nec ea quidem quae intelligi potuerunt, idoneo valuerim sermone proferre.
+
+16
+00:02:45,927 --> 00:03:00,761
+Secundis vero hoc alloquio satisfactionis insinuem, nihil me dominis conservisque meis malevole subtraxisse, sed ignorantiae confessionem de exiguitate mallem veniam postulare. Si enim experto non crederem, sancti tamen Hieronymi edoctus sententia didicissem, qui de hoc libro loquens dicit:
+
+17
+00:03:00,761 --> 00:03:15,645
+Apocalypsis Joannis tot habet sacramenta quot verba, parum dixi, et pro merito voluminis laus omnis inferior est. In his verbis singulis multiplices latent intelligentiae. His intercedentibus, et veniam humilis confessio promeretur, et praecelsi dignitas libri credentibus saltem, etsi necdum
+
+18
+00:03:15,645 --> 00:03:17,022
+intelligentibus innotescit.
+
+19
+00:03:17,327 --> 00:03:33,732
+Nam cum alibi raro interponi soleat tropica proprietati narratio, hic tamen aut frequenter intexitur, aut condensior figura sensim generatur ex altera, aut una eademque res sic variis profertur adumbrata figuris, ut non eadem credatur repeti potuisse, sed altera, quod et in principio Ezechielis et
+
+20
+00:03:33,732 --> 00:03:37,035
+in aliquibus Danielis visionibus invenitur, sed hic amplius.
+
+21
+00:03:37,035 --> 00:03:40,943
+Pro qua re me infirmum
+nostis amplius vestris orationibus adjuvandum.
+
+22
+00:03:40,943 --> 00:03:42,287
+LIBER PRIMUS.
+
+23
+00:03:42,287 --> 00:03:51,040
+Adjuvante Domino, tractaturi debemus necessario interpretari
+titulum, designare locum, narrare sermonem,
+insinuare personam, ut ejus continentia nomine nuntietur,
+loco dignoscatur, et tempus .
+
+24
+00:03:51,040 --> 00:04:03,712
+Per causam
+dignitas clareat meritorum, persona unum significet in
+collegio caeterorum, cui assignare specialiter oporteat
+munus indultum. Cum enim singulos quosque libros diversis
+constet vocabulis titulari, επιγραφην hujus, id est
+superscriptionem Apocalypsis decuit appellare.
+
+25
+00:04:03,712 --> 00:04:10,049
+Inter
+Graecos enim positus, licet Hebraeus, tenorem libri, proprietate
+Graeci sermonis, expressit, αποκαλυψις enim
+interpretatur revelatio.
+
+26
+00:04:10,049 --> 00:04:23,451
+Cui autem Dominus Jesus Christus talia revelaret ac tanta, nisi illi quem prae caeteris discipulis sic praecipuo amore dilexit, ut hic adhuc positus, praesentia corporali super pectus suum faceret felici sorte discumbere, et de ipso vitae fonte spiritali veritatis arcana affluenter haurire, ut
+
+27
+00:04:23,451 --> 00:04:31,565
+praeeunte hujus dilectionis indicio, nulli putaretur dubium, tali Joannem revelatione condignum? Magnitudinem quippe revelationis commendare primum decuit magnitudine charitatis.
+
+28
+00:04:31,565 --> 00:04:38,721
+Haec autem eo tempore videre promeruit,
+quo in Palmos insula pro Christo a Domitiano Caesare
+exsilio missus et metallo damnatus, terminis arcebatur
+inclusus.
+
+29
+00:04:38,721 --> 00:04:51,166
+Congrue sane tempus adhibetur et locus, ut
+ubi vel quando humana putabatur vinciri custodia, ibi
+metas humanitatis mente transcendens, libero contuitu
+meruisset videre divina, et cui tunc certa terrarum
+spatia negabantur excedere, secreta concederentur coelestia
+penetrare.
+
+30
+00:04:51,166 --> 00:05:01,240
+Sic fides Christi sibi etiam in terris
+vindicat coelum, cum bene utens temporalibus malis,
+bonis fruitur sempiternis. Generalia proinde universalis
+Ecclesiae bona uni quidem revelantur, sed profutura
+omnibus praedicantur.
+
+31
+00:05:01,240 --> 00:05:08,351
+Quae denique solus vidit, septem
+Ecclesiis scripta transmisit, ut unus unitati consuleret,
+et non sibi soli, sed omnibus etiam se laborasse doceret.
+
+32
+00:05:08,351 --> 00:05:18,220
+Postea vero Evangelium scripsit, cum eum post
+Domitiani mortem exsilio liberum multorum precaretur
+congregatio sacerdotum, ne falsorum praedicatorum labe
+decipi sinisset ignaros.
+
+33
+00:05:18,220 --> 00:05:26,591
+Valentinus enim, Cerinthus et
+Ebion multos suos falsitatibus irretire jam coeperant,
+quibus jure cassandis veri Evangelii fuerat novitate resistendum.
+
+34
+00:05:26,591 --> 00:05:27,935
+CAPUT PRIMUM.
+
+35
+00:05:27,935 --> 00:05:31,665
+Apocalypsis Jesu Christi, quam
+dedit illi Deus palam facere servis suis.
+
+36
+00:05:31,665 --> 00:05:47,098
+Revelatio est Jesu Christi, quam propterea Deus Pater ei dedisse dicitur, cum inseparabile Patris et Filii opus omne probetur, imo etiam Spiritus sancti, cujus hic nomen frequenter insinuat, eo quod etiam in forma servi unus idemque et a Patre accipiat, et cum Patre concedat, quae oportet fieri in
+
+37
+00:05:47,098 --> 00:05:47,409
+brevi.
+
+38
+00:05:47,409 --> 00:05:51,242
+Omnis res quae
+temporaliter geritur, habet exordium et cursum et
+terminum.
+
+39
+00:05:51,242 --> 00:06:06,365
+Post exortum autem Ecclesiae, quae jam fuerat apostolorum praedicatione fundata, revelari oportuit, qualiter fuisset latius propaganda, vel quali etiam fine contenta, ut praedicatores veritatis hujus cognitionis fiducia freti, indubitanter aggrederentur pauci multos, inermes armatos, humiles
+
+40
+00:06:06,365 --> 00:06:09,421
+superbos, infirmi nobiles, vivi tamen spiritaliter mortuos.
+
+41
+00:06:09,421 --> 00:06:24,389
+In brevi sane apud Deum dicitur, quantiscunque in hac vita morulis aliquid proteletur, cui propheta (Psal LXXXIX): Quoniam mille anni ante oculos tuos, inquit, tanquam dies hesternus qui praeteriit, et significavit nuntianda per angelum suum servo suo Joanni, qui praedicavit verbum Dei et
+
+42
+00:06:24,389 --> 00:06:26,460
+testimonium Jesu Christi, ea quae vidit.
+
+43
+00:06:26,460 --> 00:06:41,946
+Dicendo, significavit aliquid etiam
+futurorum et mysteriorum ostendit, nec superficie
+litterae nos voluit remanere contentos, quos ad mysteria
+altius perscrutanda significationis verbo fecit
+intentos. Servo autem suo Joanni cum dicit, omni
+Ecclesiae in uno revelari voluit, quam in unitate fundavit.
+
+44
+00:06:41,946 --> 00:06:53,495
+Ideo dicit palam facere servis suis, non solum
+uni ex multis, sed per unum potius universis, sicut
+regni coelorum solus Petrus claves accepit (Matth XVI), qua tamen potestate omnis Ecclesia uti sublimata
+promeruit.
+
+45
+00:06:53,495 --> 00:07:09,868
+Recte sane adjecit, per angelum suum a Christo fuisse discipulo demonstrata, cum per assumptam creaturam, non per divinitatis essentiam Christum semper clareat apparuisse mortalibus et ante Incarnationem et post Ascensionem, propterea is qui eum magistrum noverat in homine suscepto testimonium
+
+46
+00:07:09,868 --> 00:07:24,514
+perhibuit invisibili verbo, ac ne verbum tantum sentiendum quisque putaret, nomen rursus Jesu Christi subjunxit, quod ad suscepti hominis formam pertinere non nescit, Felix qui legit et qui audiunt verba prophetiae hujus, et custodiunt ea quae in ea scripta sunt.
+
+47
+00:07:24,514 --> 00:07:40,720
+Dicendo, qui legit et qui audiunt,
+personam doctorum et discentium demonstravit, ut
+et studio legendi desidiam removeret, et servantibus
+beatitudinem desponderet, quibus etiam congruunt
+quae sequuntur, et servant ea quae in ea
+scripta sunt: quia utrisque servare competit, utrisque
+convenit.
+
+48
+00:07:40,720 --> 00:07:45,788
+Non enim auditores legis justi sunt
+apud Deum, sed factores legis justificabuntur (Rom II).
+
+49
+00:07:45,788 --> 00:08:00,211
+Quia tempus jam in proximo est, scilicet ut singula
+quae dicenda sunt impleantur, cum et plantatae
+jam Ecclesiae propagationis incrementa succedant de
+qua locuturus, ita praemittit: Joannes septem Ecclesiis
+quae sunt in Asia. Id est uni, Ecclesiae septiformi.
+
+50
+00:08:00,211 --> 00:08:16,249
+Septenario numero saepe universitas figuratur, eo
+quod ex primo impari et pari, id est, ternario et
+quaternario tanquam ex diverso universitas tota
+conficitur, nam et animae corporisque diversitas
+ipsam unitatem numeri hujus complectitur. Ad animam
+enim tria pertinent, ad corpus quatuor.
+
+51
+00:08:16,249 --> 00:08:30,060
+Dicitur
+namque (Deut VI) diligendus est Deus ex toto corde,
+ex tota anima, ex tota mente; corporis autem notas
+habemus quatuor qualitates, calidam et frigidam,
+siccam et humidam. Propterea etiam canitur (Ps CXVIII): Septies in die laudem dixi tibi.
+
+52
+00:08:30,060 --> 00:08:39,528
+Quod alibi
+dicit (Psal XXXIII), Benedicam Dominum in omni
+tempore, semper laus ejus in ore meo, et Sapientia
+aedificavit sibi domum, excidit columnas septem
+(Prov.
+
+53
+00:08:39,528 --> 00:08:56,678
+IX), et caetera quibus Ecclesia praedicitur orbem possessura terrarum, quam sicut unam possessionem in haereditatem idem Christus accepit. Dabo, inquit, tibi gentes haereditatem tuam, et possessionem tuam terminos terrae (Psal II). Hinc catholicum singulariter obtinet nomen, eo quod saeculum totum
+
+54
+00:08:56,678 --> 00:09:13,885
+sola haereditaria possideat dignitate. Haec nunc Joannem audit, salutationeque perpetuam sperat redempta salutem. Gratia vobis et pax a Deo, qui est, et qui erat, et qui venturus est omnipotens. Licet juxta Apostolum (II Cor V) Deus erat in Christo, mundum reconcilians sibi, vel sicut ipse testatur
+
+55
+00:09:13,885 --> 00:09:30,863
+(Joan VIII), Qui me misit, mecum est, propter unitatem unius ejusdemque naturae: ad personam tamen Filii hic proprie redigendus est locus. Est enim, quia idem permanet; erat, quia cum Patre omnia condidit, non ex virgine initium sumpsit: venturus est ad judicandum, et a septem spiritibus qui in
+
+56
+00:09:30,863 --> 00:09:47,898
+conspectu throni Dei sunt. Propter septenariam operationem Spiritus S. septiformis spiritale dicitur (Isa II), id est, sapientiae et intellectus, consilii et fortitudinis, scientiae et pietatis, et timoris Domini. Unius enim spiritus dona legaliter commendantur, quando a septem spiritibus pax et
+
+57
+00:09:47,898 --> 00:10:05,163
+gratia devotis optatur, et ab Jesu Christo, qui est testis fidelis, primogenitus mortuorum. In homine suscepto testimonium perhibuit Patri, cum praedicans dicit (Joan XVII): Et notum feci eis nomen tuum, et notum faciam: quod Judaeis dudum negatum ostendens, dicit (Exod VI): Et nomen meum Adonai non
+
+58
+00:10:05,163 --> 00:10:22,255
+indicavi eis. Credito enim Filio, Patris quoque notitia nihilominus revelatur: nam filius non diceretur, nisi patrem haberet; neque pater, nisi filium habuisset. Alter itaque alterius praedicatione cognoscitur, quia pater in filio, et filius in patre veraciter approbatur. Qui enim non honorificat
+
+59
+00:10:22,255 --> 00:10:25,478
+Filium, non honorificat Patrem qui misit illum (Joan V).
+
+60
+00:10:25,824 --> 00:10:38,906
+Hinc etiam
+idem Joannes in sua Epistola dicit: Qui credit in Filium
+Dei habet testimonium Dei in se; qui non credit Filio,
+mendacem facit eum, quoniam non credit in
+testimonio quod testificatus est Deus de Filio (I Joan V).
+
+61
+00:10:38,906 --> 00:10:56,389
+Et ab Jesu Christo, qui est testis fidelis, passus etiam suo nos sanguine solvit a peccato, qui resurgens jure primogenitus a mortuis praedicatur (Colos I), et fecit nos in regnum et sacerdotes Deo et Patri suo, sicut et Petrus apostolus dicit Gens sancta, regale sacerdotium, genus electum (I Petr
+
+62
+00:10:56,389 --> 00:10:56,917
+II), etc.
+
+63
+00:10:56,917 --> 00:11:13,109
+Ecce venit cum nubibus, et videbit eum omnis oculus. Qui enim judicandus primo venit occultus, judicaturus
+veniet manifestus, videbitur ab incredulis
+carne in qua pati voluit, non divinitate, quae impassibilis
+invisibilisque permansit. Idcirco adjecit, et
+qui eum confixerunt.
+
+64
+00:11:13,109 --> 00:11:27,482
+Et videbit illum omnis terra. Omnes etiam terreni vel omnes generaliter mali,
+maxime Judaei, qui eum ut minimum putavere necandum,
+cum talem viderint, qualem non credebant,
+sera semetipsos poenitentia lamentabuntur, et plangent
+se adveniente eo.
+
+65
+00:11:27,482 --> 00:11:44,437
+Ita, Amen, quod certissime
+novit Deo revelante futurum, interponens Amen,
+firmat sine dubitatione venturum. Ego sum Α et Ω,
+dicit Dominus Deus, qui est, et qui erat, et qui venturus
+omnipotens, per quem facta sunt tempora, nullo
+defuisse tempore praedicatur. Hinc etiam docetur
+Omnipotens.
+
+66
+00:11:44,437 --> 00:12:00,981
+Ego Joannes frater vester et particeps in
+tribulatione, et regno et patientia in Christo Jesu, fui
+in insula quae appellatur Pathmos, propter verbum Dei
+et testimonium Jesu Christi. Fui in spiritu die dominico. Ut quae promisimus approbentur, locum, tempus
+hic insinuavit et causam.
+
+67
+00:12:00,981 --> 00:12:17,232
+Haec, ne carnali phantasmate
+putaretur illusus, in spiritu se fuisse et vidisse
+testatur. Quorum autem conversatio in coelis
+est (Philip III) et qui non sibi vivunt, sed ei qui
+pro omnibus mortuus est et resurrexit (II Cor V),
+diem semper dominicum credendi sunt gerere.
+
+68
+00:12:17,232 --> 00:12:26,706
+Et
+audivi post me vocem magnam sicut tubam dicentem
+mihi: Quae vides scribe in libro, et mitte septem Ecclesiis,
+Epheso, Smyrnae, Pergamo et Thyatyrae, Sardis,
+Philadelphiae et Laodiceae.
+
+69
+00:12:26,706 --> 00:12:41,703
+Suscepto operi puto congruere, si omnia non valemus, certa saltem ex septem Ecclesiis nomina perscrutari, quid interpretata in nostra resonent lingua, ut cum eorum titulo indicia nobis certa patuerint, subsequentia quoque divini considerata sermonis, conveniens sensus suis quibusque personis vel
+
+70
+00:12:41,703 --> 00:12:43,223
+memoratis coaptetur Ecclesiis.
+
+71
+00:12:43,223 --> 00:12:49,404
+Ac primum de Asia faciendum, in qua tanquam
+in saeculo istae septem enumerantur Ecclesiae. Asia
+enim interpretatur elatio.
+
+72
+00:12:49,404 --> 00:13:00,145
+Universa itaque tanquam
+in hujus mundi provincia in elatione posita commonetur
+Ecclesia, ut eadem elatione rejecta, leni jugo
+Christi subdenda mitis accedat; aut quae jam coepit
+ampliore pietatis cultu proficiat.
+
+73
+00:13:00,145 --> 00:13:15,142
+Sic Saulus superbus arguitur, ut humilis acquiratur quando Saulus Dominus increpavit, et usque adeo Paulum tanquam paululum reddidit, ut qui nuper lupus rapax praedas in Christi discipulos anhelabat, Ananiae quoque (quod interpretatur ovis) devotus colla submitteret, et futurus magister, humilis
+
+74
+00:13:15,142 --> 00:13:17,169
+discipulatum fidei praedicandae subiret.
+
+75
+00:13:17,169 --> 00:13:25,883
+Ephesus proinde interpretatum dicitur
+voluntas sive consilium meum. Voluntatem vero pro
+charitate poni, consilium pro correctione negligentiae,
+frequenter novimus adhiberi.
+
+76
+00:13:25,883 --> 00:13:37,789
+Hoc denique ibidem
+claret, cum et placita voluntati quae ex charitate
+mulceant, enarrantur, et emendanda meliori consilio
+minaciter alligantur. Pergamus, interpretatum,
+dicitur dividendi cornua eorum, vel descindendi
+valles in sermone.
+
+77
+00:13:37,789 --> 00:13:52,989
+Porro quia de ejus Angelo duas hominum species demonstravit in ipso tenentes fidem, in aliis autem tenentium doctrinam Nicolaitarum, nec immerito, inter justorum et peccatorum cornua (quod idem nomen resonat) dividit, nisi ut sicut legimus (Psal LXXIV), Cornua peccatorum confringantur, et exaltentur
+
+78
+00:13:52,989 --> 00:13:53,648
+cornua justi.
+
+79
+00:13:53,648 --> 00:13:55,320
+Et descindendi
+vallem.
+
+80
+00:13:55,320 --> 00:14:10,092
+Discernenda utique fuerat humilitas
+confessionis vallis nomine, designata ab illorum ruina,
+qui Satanae dicuntur doctrinis innexi. Illum enim
+de solo neglectu decuit poenitere, illos de gravi lapsu
+exprobrari atque compungi. Sardis interpretatur
+princeps pulchritudinis.
+
+81
+00:14:10,092 --> 00:14:25,356
+In ea quippe Ecclesia electorum
+memorat dignitatem dicens: Qui non inquinaverunt
+vestem suam, mecum ambulabunt in albis. Philadelphia interpretatur salvans haerentem Domino,
+propterea ad ejus angelum talis sermo dirigitur,
+quo et se diligi noverit, et a tentationis hora tuendum.
+
+82
+00:14:25,356 --> 00:14:37,448
+Laodicea interpretatum, dicitur tribus amabilis
+Domino, sive fuerunt in vomitu. Ubi ostendit quid
+divinae charitatis munere ibidem impendatur: quid
+vitio humanae elationis qui se divites esse jactabant,
+justius imputetur.
+
+83
+00:14:37,448 --> 00:14:50,032
+Denique amabilis Dominus dicit
+(Apoc III): Ego quos amo, arguo et castigo, sed
+rursus tepiditatis arguitur, ut transgressionis foeditate
+repulsa, amabilis perseveret, cui et aurum
+ignitum et albam vestem converso promittit (Ibid).
+
+84
+00:14:50,032 --> 00:15:05,789
+Gerentibus autem ibi cor impoenitens, ipsi fuerunt
+in vomitu, quibus et dicit: Incipiam te ex ore meo
+vomere, ut nomini sermo actusque concordet. Et
+conversus respexi ut viderem vocem quae mecum loquelatur. Et vidi septem candelabra aurea, et in medio
+candelabrorum similem Filio hominis.
+
+85
+00:15:05,789 --> 00:15:20,670
+Id est,
+Christum, qui se hoc saepius nomine voluit nuncupari. Qui Christus indutus est ipsa septem candelabra. Sive autem septem candelabra, sive septem
+stellae, Ecclesia est. Bene autem in medio. Omnes
+enim (dicit Psalmus LXXV) qui in circuitu ejus sunt,
+offerent munera.
+
+86
+00:15:20,670 --> 00:15:32,488
+Vel sicut Ezechiel ait, Ut sciant
+gentes quia in medio Israelis ego sum. Sed propter
+figuratas locutiones tropice causas dividit genus in
+species, ita ut etiam in aliquibus speciebus genus
+tantum invenitur expressum.
+
+87
+00:15:32,488 --> 00:15:41,352
+Certis namque locis
+propter subtiles minutias et eloquii divini altitudinem
+liquido genus non potest demonstrari, quod
+facilius videri quam exprimi potest.
+
+88
+00:15:41,352 --> 00:15:57,980
+Dividit autem
+genus in partes hoc modo, ut arca Noe Ecclesia, et
+octo animae quae intra aream sunt, Ecclesia, cum
+unum sit et homo Juda, et quae habitat Jerusalem,
+et judices inter domum et inter vineam ejus, cum
+Jerusalem et habitantes in ea, et vinea Domini, Ecclesia
+sit.
+
+89
+00:15:57,980 --> 00:16:09,086
+Sic enim conclusit, dicens: Vinea enim
+Domini Sabaoth, domus Israel est (Isa V). Et in
+domo magna quod est Ecclesia, vasa aurea et argentea
+(II Tim II), cum eadem vasa sunt domus Dei.
+
+90
+00:16:09,086 --> 00:16:24,137
+Et iterum, Exite de medio ejus qui fertis vasa Domini,
+cum qui fuerint, ipsi sunt vasa; et, Quis habitabit
+in tabernaculo Dei? innocens manibus et
+mundo corde (Psal XIV), cum aliud tabernaculum
+Dei non sit in terris, quam innocentes et mundi
+corde.
+
+91
+00:16:24,137 --> 00:16:38,580
+Ita et nunc inter septem candelabra discrevit
+Ecclesiam in Filio hominis. Erunt enim duo, inquit
+Apostolus (Ephes V), in carne una: ego autem dico
+in Christo et in Ecclesia. Et ut supradictum est, in
+aliquibus speciebus genus a parte est.
+
+92
+00:16:38,580 --> 00:16:53,570
+Aliter similem
+Filio hominis dicit, cum morte devicta ascendisset
+in coelum, adunato corpore Ecclesiae, quam amplius
+merito in coelestibus sedere dicit, non jam re, sed
+adhuc spe quasi Filium hominis ambulantem inter
+medium candelabrorum aureorum.
+
+93
+00:16:53,570 --> 00:17:10,017
+Inter medium
+dicit Ecclesiarum, sicut et in Salomone dicit: Inter
+semitam justorum ambulabo. Cujus antiquitas et immortalitas
+majestatis origo in capite candor ostenditur
+vestitum, inquit, podere sacerdotium ostendit. Juxta Zachariam enim poderis sacerdotalis est
+vestis.
+
+94
+00:17:10,017 --> 00:17:21,547
+Singulari quippe suae carnis hostia Christus
+sacerdotium gessit quando se crucis patibulo pro nobis
+offerens Patri, seipsum crucifigi permisit. Et erat
+praecinctus supra mamillas zona aurea.
+
+95
+00:17:21,547 --> 00:17:31,439
+Mamillas
+duo testamenta dicit, sicut in Cantico canticorum
+legimus: Duo ubera tua sicut duo hinnuli gemelli
+qui pascuntur inter lilia, et ubera tua similia botris.
+
+96
+00:17:31,439 --> 00:17:40,968
+Potest autem in hac specie genus videri et in testamentis
+Ecclesiarum intelligi, ut tanquam testamenta
+ex eo quod efficiunt, comparationem accipiant.
+
+97
+00:17:40,968 --> 00:17:50,667
+Non
+enim testamenta pascuntur, sed Ecclesia per testamenta
+nutritur. Hujus autem tropi species in Scripturis
+inveniuntur, ut factor ex eo quod facit, nomen
+accipiat.
+
+98
+00:17:50,667 --> 00:18:05,010
+Mamillae ergo testamenta, zona vero
+aurea chorus sanctorum, qui adhaeret et amplectitur
+testamenta: vel Christum quem concinunt, significant,
+sed etiam charitatem, qua sibi nectuntur, servantes,
+ut Apostolus, unitatem spiritus in vinculo
+pacis.
+
+99
+00:18:05,010 --> 00:18:08,420
+Caput autem et capilli ejus erant albi velut lana
+aut nix.
+
+100
+00:18:08,420 --> 00:18:25,878
+Capillos albos, praecelsos quoque justitiae virtutibus enitentes, multitudinem candidatorum dicit, quos super nivem gratia dealbavit, quos per lanam propter oves quae sunt ad dexteram, significavit, et per nivem, propter dealbatorum innumerabilem turbam et coelo datorum: ipsi enim sunt Jerusalem,
+
+101
+00:18:25,878 --> 00:18:30,757
+quae quotidie de coelo descendit, ut adhuc peregrinantes ad eam tendendo suspirent.
+
+102
+00:18:30,757 --> 00:18:38,223
+Aliter per
+lanam, propter stolam sanctam quae de ea conficitur,
+sine macula et ruga recte sentitur, oculi ejus ut flamma
+ignis.
+
+103
+00:18:38,223 --> 00:18:49,862
+Oculos Ecclesiae aliquando praecepta Dei
+dicit, aliquando spiritales, sicut Salomon dicit
+(Prov I), Mandatum lucerna est, et lex lux; et de
+spiritalibus Dominus dicit, Vos estis lux mundi
+(Matth V).
+
+104
+00:18:49,862 --> 00:19:06,968
+Quod autem ipsa praecepta sint ignis,
+sic dicit: Ignitum eloquium tuum valde (Psal CXVIII);
+et de Joseph, Praeceptum Domini ignivit eum. Ignis autem hic praeceptorum, et fidelibus lumen, et
+incredulis praebet incendium. Ignis enim ante eum
+praeibit, et inflammabit in circuitu inimicos ejus.
+
+105
+00:19:06,968 --> 00:19:16,021
+Pedes ejus similes aurichalco Libani, sicut de fornace
+ignea. Pedes ignitos novissimi temporis Ecclesiam
+dicit. Pede enim novissima pars corporis ponitur.
+
+106
+00:19:16,021 --> 00:19:30,600
+Tunc enim Ecclesia vehementia pressurarum probanda
+praedicitur (Dan II); sicut lapis de monte praecisus
+statuam illam in pedibus percussit, id est,
+regnorum mundi corpus omne suo ictu contrivit. Sed ideo in pedibus, quia novissimo tempore.
+
+107
+00:19:30,600 --> 00:19:40,951
+Aurichalco
+autem illa ratione comparavit, quod ex aere
+fiat, cum igne multo et medicamine adhibito producitur
+ad aureum colorem. Ideo autem Libani, quia
+electi: interpretatur enim candidatio.
+
+108
+00:19:40,951 --> 00:19:56,993
+Et quod in
+Judaea Libanus mons sit, ubi circa finem mundi corpus
+Christi persecutionibus examinari significat, ubi
+et Dominus creditur passus. Et nox ejus sicut nox
+aquarum multarum. In voce Ecclesiam ostendit praedicantem,
+cui dicitur: Clama, ne cesses (Isa LVIII). Aqua autem multi populi sunt.
+
+109
+00:19:56,993 --> 00:20:13,143
+Sed et donum baptismi
+quod emisit praecepto per apostolos ad salutem recte
+intelligitur. Hic psalmus: Dominus diluvium inhabitat
+(Psal XXVIII); et, Vox, inquit, Domini super
+aquas, Deus majestatis innotuit (Ibid ); et caetera
+quae huic sensui suffragantur. Et habebat in dextera
+sua septem stellas.
+
+110
+00:20:13,143 --> 00:20:24,958
+In dextera Christi est spiritalis
+Ecclesia; propterea astitit regina a dextris tuis in vestitu
+deaurato circumamicta varietate (Psal XLIV), cui
+astanti dicit: Venite, benedicti Patris mei, percipite
+regnum (Matth XXV).
+
+111
+00:20:24,958 --> 00:20:39,428
+Istae septem Ecclesiae, septem
+stellae sunt, quas nominatim vocat, non quia illae
+solae sunt Ecclesiae aut principes, sed quod uni dicit
+omnibus dicit in unitate positis, secundum praedictam
+intelligentiae formam, qua septenario numero
+universitatem diximus figurari.
+
+112
+00:20:39,428 --> 00:20:50,213
+Et ex ore ejus gladius
+utrinque acutus exierat. Ideo bis acutus, quia gladius
+militem armat, hostem necat, desertorem punit. Hinc Apostolus dicit (Ephes VI): Et gladium spiritus,
+quod est verbum Dei.
+
+113
+00:20:50,213 --> 00:20:59,209
+Omnis namque scriba
+eruditus, dicit Dominus (Matth XIII), similis est patrifamilias,
+qui profert de thesauro suo nova et vetera,
+novum videlicet testamentum et vetus.
+
+114
+00:20:59,209 --> 00:21:15,360
+Ex hoc
+autem gemino testamento tanquam gladio bis acuto,
+nunc eruditur Ecclesia, ut quae aeternis deputetur
+bonis, bene uti praesentibus noverit. Hoc praecinctus
+Apostolus gladio, dicit (I Cor VI): Per arma justitiae
+a dextris et a sinistris. Et facies ejus splendebat
+ut sol in virtute sua.
+
+115
+00:21:15,360 --> 00:21:29,234
+Splendorem ejus mani estam
+dicit in carne praesentiam, qua loquebatur hominibus
+facie ad faciem (Exod XXXIII). Solis autem comparatio
+propter significationem congruam adhibetur:
+propter ortum et occasum et rursus ortum, quod natus
+sit et passus et resurrexit.
+
+116
+00:21:29,234 --> 00:21:37,323
+Sed et similitudinem
+gloriae solis, futuram suae Ecclesiae Dominus repromittit
+dicens: Tunc justi fulgebunt sicut sol in
+regno Patris mei (Matth XIII).
+
+117
+00:21:37,323 --> 00:21:49,109
+Cujus comparatione
+capitis Christi claritas magis est intelligenda sublimior,
+quippe cum justorum ipse sit claritudo, quam
+ideo post resurrectionem suis discipulis abscondit, ne
+eum nec agnoscere nec sufferre quivissent.
+
+118
+00:21:49,109 --> 00:22:02,019
+Haec autem
+non caecitas debet vel agnosci vel dici, sed quaedam
+invisibilitas, quae in Graeco αορασια aptius vocitatur. Per hanc neque Eliseum exercitus (IV Reg VI) neque ostium populus saeviens agnoscebat, cum
+caetera praeter ipsa viderent.
+
+119
+00:22:02,019 --> 00:22:12,037
+Hujus denique clarificationis
+speciem in monte sufferre non valuerunt. Et
+cum vidissem eum, cecidi ad pedes ejus tanquam mortuus. Joannes, qui ista vidit, totius Ecclesiae figuram
+portat.
+
+120
+00:22:12,037 --> 00:22:23,715
+Sed et singuli quoque apostoli vel
+prophetae, qui dicunt: Mortui enim estis, et vita
+vestra abscondita est cum Christo in Deo. Ecclesia
+ergo tanquam mortua mundo ante Dominum Christum. Et posuit super me dexteram suam.
+
+121
+00:22:23,715 --> 00:22:33,036
+Utique
+propter sacerdotium, quo Ecclesiae propositos novimus
+ordinari, sive quia omnis unius corpus est sacerdotis,
+dicens: Noli timere, Joannes Ego sum primus
+et novissimus.
+
+122
+00:22:33,036 --> 00:22:41,768
+Primus, quia omnia per ipsum
+facta sunt (Joan I); novissimus, quia in ipso instaurantur
+omnia, et vivus quia fui mortuus, et ecce sum
+vivens in saecula saeculorum.
+
+123
+00:22:41,768 --> 00:22:52,000
+Omnis summa et spes
+consolationis ostenditur, cum dicitur ei qui mortuus
+jacet, Noli timere, sicut in Evangelio, Gaudete, inquit
+(Joan XVI), quia vici saeculum. Ego sum vivus
+qui fui mortuus.
+
+124
+00:22:52,000 --> 00:22:58,536
+Caput enim corporis similem spem
+resurrectionis veraciter pollicetur, cujus praecessio
+spes est certamen bonorum.
+
+125
+00:22:58,536 --> 00:23:15,308
+Et habeo claves mortis et
+inferorum, id est diaboli et totius corporis ejus,
+ipsum mortis nomine signans. Inferorum autem, in
+quibus regnat. Qui omnes divini judicii non effugiunt
+potestatem tanquam clavem. Et ad Ecclesiam:
+In me habes, inquit, quas a me acceptas jure possides
+claves mortis.
+
+126
+00:23:15,308 --> 00:23:24,729
+Tu qui es velut mortuus, quia
+licet adhuc peregrinetur Ecclesia, corpus quidem
+mortuum est propter peccatum, spiritus vero vivit
+propter justificationem (Rom VIII).
+
+127
+00:23:24,729 --> 00:23:40,870
+Accepit tamen
+ut in Deo suo solvendi et ligandi habeat facultatem;
+sive cum probabili dispensat cuncta judicio, sive cum
+in accipientibus nullo fides incredulitatis impeditur
+obstaculo. Cui, inquit (Joan XX), dimiseritis peccata,
+dimittentur ei; quibus retinueritis, retenta erunt.
+
+128
+00:23:40,870 --> 00:23:55,230
+Scribe ergo quae vidisti, et quae sunt, et quae oportet
+fieri post haec: sacramentum septem stellarum quas
+vidisti in dextra mea, et septem candelabrorum aureorum. Septem stellae angeli sunt septem Ecclesiarum. Sed et candelabra septem Ecclesia sunt.
+
+129
+00:23:55,230 --> 00:24:09,016
+Stellas
+dixit angelos esse Ecclesiarum et candelabra Ecclesias:
+quae diligenter consideranda sunt. Si enim una
+est Ecclesia septiformis, sicut describitur (Cant VI),
+Una est columba mea, una est perfecta mea, Angeli
+quoque non erunt septem.
+
+130
+00:24:09,016 --> 00:24:14,817
+Nam si septem sunt, istae
+solae quas specialiter nominavit, angelos habent,
+caeterae vero non habent.
+
+131
+00:24:14,817 --> 00:24:32,279
+Nec putandum est quod
+hoc loco angeli singulis deputentur hominibus, quod
+incongrue ab aliquibus aestimatur: sed potius angeli
+Ecclesiarum hic intelligendi sunt rectores populi,
+qui singulis Ecclesiis praesidentes, verbum vitae cunctis
+annuntiant. Nam et angeli nomen nuntius interpretatum
+dicitur.
+
+132
+00:24:32,279 --> 00:24:33,624
+CAP. II.
+
+133
+00:24:33,624 --> 00:24:50,053
+Et angelo Ecclesiae Ephesi scribe. Dativo
+hic casu, angelo posuit, non genitivo. Ac si diceret:
+Scribe angelo huic Ecclesiae, ut non tam angelum
+et Ecclesiam separatim videatur dixisse, quam
+quis angelus exponere voluisset, unam videlicet faciens
+angeli Ecclesiaeque personam.
+
+134
+00:24:50,053 --> 00:24:55,291
+Quamvis enim
+sacramenti dispensatione praeponatur, compaginis
+tamen unitate connectitur.
+
+135
+00:24:55,291 --> 00:25:12,791
+Nam hanc regulam a
+principio servans non septem angelis, sed septem
+Ecclesiis scripsisset: Joannes, inquiens, septem
+Ecclesiis quae sunt in Asia, et Dominus quem vidit,
+Scribe, inquit, in libro quae vidisti, et mitte septem
+Ecclesiis. Postea tamen angelis jubet scribi, ut ostenderet
+unum esse.
+
+136
+00:25:12,791 --> 00:25:28,447
+Sed etiam si qua singulis partiliter
+Ecclesiis praedicat, universam generaliter convenire
+docetur Ecclesiam. Neque enim dicit, Quid
+spiritus dicat Ecclesiae, sed Ecclesiis. Angelum ergo
+Ecclesiam significans, duas in eo partes ostendit,
+dum et laudat et increpat.
+
+137
+00:25:28,447 --> 00:25:45,471
+In consequentibus autem
+manifestatur non eamdem increpare quam laudat,
+sicut Dominus in Evangelio (Luc XII; Matth XXIV)
+omne praepositorum corpus, unum servum dixit beatum
+et nequam, quem veniens Dominus ipse dividet,
+et non tantum servum, sed partem, inquit,
+ejus cum hypocritis ponet.
+
+138
+00:25:45,471 --> 00:26:03,269
+Incipiens ergo bella intestina, et septiformis Ecclesiae diversa opera in praesentibus futura monstrare, non dixit: Scribe quae sunt; sed, Quae fieri oportet, praedicans usque in finem saeculi malos cum bonis in Ecclesia commisceri: quae sine dubio amplectenda pro bonis, non tamen est deserenda pro
+
+139
+00:26:03,269 --> 00:26:03,627
+malis.
+
+140
+00:26:03,627 --> 00:26:16,960
+Angelo Ecclesiae
+Ephesi scribe: Haec dicit qui tenet septem stellas in
+dextera sua. Idem, qui vos in manu habet, suaque
+potestate regit et continet, Qui ambulat in medio
+septem candelabrorum aureorum. Id est in medio vestri.
+
+141
+00:26:16,960 --> 00:26:31,127
+Scio opera tua et laborem et tolerantiam, et quia
+ferre non potes malos, et tentasti eos qui se dicunt
+apostolos esse, et non sunt, et invenisti eos mendaces,
+et habuisti patientiam, et tolerasti propter nomen
+meum, nec defecisti.
+
+142
+00:26:31,127 --> 00:26:45,471
+Tentasti, inquit, eos. Non tentantur,
+nisi quod intus sunt. Qui enim foris sunt,
+sine ullo tentamento foris esse manifesti sunt, nec
+eos tentari opus est: intus foris ne sint, qui non
+solum ex fructibus, sed etiam ex habitatione loci
+tanquam schismatici dignoscuntur.
+
+143
+00:26:45,471 --> 00:27:01,587
+Non est autem laudis quod eum dixit malos ferre non posse, sed indicium infirmitatis, in eo vero laus, quod dixit: Non potes, et sustinuisti propter nomen meum infirmitatem, quippe a longanimitate discernens, non istam dicit humano defectu succumbere, sed illa quae per se non poterat, pro Dei nomine
+
+144
+00:27:01,587 --> 00:27:03,521
+subnixa patientiae robore sustinere.
+
+145
+00:27:03,521 --> 00:27:16,199
+Ad hoc etiam malos dicitur
+ferre non posse, ut cognitos non imitaretur;
+ad hoc autem tolerasse, ne deserens ipse ab unitatis
+vinculo reddatur alienus. Ille enim reprobus
+judicatur, qui propter apertos malos etiam latentes
+deserit bonos.
+
+146
+00:27:16,199 --> 00:27:29,146
+Partem porro angeli invehitur, dicens:
+Sed habeo adversus te, quoniam charitatem
+tuam primam reliquisti. Absit ut eum increpet quem
+ante laudabat, sed praedictam retinens regulam, mixtos
+optimis pessimos peregrinantem habere docet
+Ecclesiam.
+
+147
+00:27:29,146 --> 00:27:42,576
+Alius ergo qui dilectionem deserit inchoatam;
+alius qui propter nomen Dei circa malos quoque
+dicitur servare patientiam: uni denique dicitur,
+patientiam habes, et non defecisti alteri. Memento
+unde cecideris, et age poenitentiam, et fac priora opera.
+
+148
+00:27:42,576 --> 00:27:51,601
+Sin autem, veniam tibi cito, et movebo candelabrum
+tuum de loco suo, nisi poenitentiam egeris. Ejus hic
+candelabrum movere dicit, quem ad poenitentiam
+gerendam invitat.
+
+149
+00:27:51,601 --> 00:28:07,610
+Quod est angelus, hoc candelabrum cujus partem dicit non auferre, sed de loco movere, significans eum qui licet de Ecclesia non praecidatur, donec ventilabro ultimi judicii separetur, propriam tamen salutem et omne candelabri lumen amisit: et si charismatibus honoratus videatur, sibi tamen mortuus
+
+150
+00:28:07,610 --> 00:28:08,523
+esse cognoscitur.
+
+151
+00:28:08,523 --> 00:28:16,152
+Nam quod
+in illo vivit alienum est. Parti rursus bene dicit,
+Sed hoc habes bonum quoniam odisti facta Nicolaitarum,
+sicut et ego odi.
+
+152
+00:28:16,152 --> 00:28:31,030
+Id est, idololatriam et fornicationem,
+sicut consequenter ostendit. Omnes proinde
+Ecclesias docens, dicit: Qui habet aures, audiat
+quid Spiritus dicat Ecclesiis. Qui vincet, dabo ei edere
+de ligno vitae, id est de fructu crucis, quod est, inquit,
+in paradiso Dei mei.
+
+153
+00:28:31,030 --> 00:28:38,720
+Paradisus etiam Ecclesia
+intelligi potest, omnia enim in figura facta sunt, et
+Adam umbra futuri, Apostolo docente (Rom XIII),
+praecessit.
+
+154
+00:28:38,720 --> 00:28:53,042
+Lignum vero vitae, sapientia Dei Dominus
+Jesus Christus, qui in cruce pependit, qui et in Ecclesia
+et in spirituali paradiso vitale alimentum coelestisque
+panis praebet fidelibus sacramentum, de
+quo legimus (Prov III): Sapientia vita est amplectentibus
+eam.
+
+155
+00:28:53,042 --> 00:29:09,146
+Et angelo Ecclesiae Smyrnae scribe:
+Haec dicit primus et novissimus, qui fuerat mortuus
+et vivit: Scio tribulationes tuas et paupertatem, sed
+dives es. Omni Ecclesiae dicit, quae spiritu pauper
+est et omnia possidet, unde Apostolus (II Cor VI):
+Tanquam nihil habentes et omnia possidentes.
+
+156
+00:29:09,146 --> 00:29:20,960
+Et
+blasphemaris ab his qui se dicunt Judaeos esse, et non
+sunt, sed sunt synagoga Satanae. Hic quoque ostenditur
+non speciali tantum Ecclesiae loqui, quia non
+Smyrnae tantum fuerunt aut sunt Judaei blasphemantes.
+
+157
+00:29:20,960 --> 00:29:37,455
+Potest autem gemino modo Judaeorum hic nomen intelligi, sive aperti foras Judaei, sive intus positi, id est falsi Christiani, Judaeorum enim religiosum est nomen, inde Apostolus (Rom II): Qui in abscondito, inquit, Judaeus et circumcisio, cordis in spiritu, non littera, Itemque (Philip III): Nos
+
+158
+00:29:37,455 --> 00:29:51,943
+enim sumus circumcisio, qui spiritu Deo servimus, non in carne fiduciam habentes: nec ipsos autem non oportet deserere, cum dicantur etiam synagoga Satanae, cum noverimus (Joan XIII) Dominum tolerando usque in finem Judam, exemplum nobis patientiae praebuisse.
+
+159
+00:29:51,943 --> 00:30:04,872
+Nihil eorum timeas quae passurus
+es. Utique omnem Ecclesiam praemonet ut a toto
+corpore diaboli nullatenus metuat. Ecce missurus est
+diabolus quosdam ex vobis in carcerem, ut tentemini,
+et tribulationem habeatis dierum decem.
+
+160
+00:30:04,872 --> 00:30:11,158
+Universali
+Ecclesiae haec dicta conveniunt, adversus quam diabolus
+inextricabiles inimicitias semper exercet.
+
+161
+00:30:11,158 --> 00:30:22,462
+Et
+propterea in decem diebus, praesentis vitae significatur
+excursus, propter Decalogum, in quo breviter
+legis summa consistit: hic enim sunt necessaria divina
+praecepta, ubi opus est continentia.
+
+162
+00:30:22,462 --> 00:30:39,244
+Hinc divina (Matth V): Consenti adversario tuo, id est, legi, cum es cum illo in via hujus saeculi, videlicet tempus omne significans, quando contra varias cupiditatum illecebras, lege instruente confligitur, ut per Dei gratiam subactis carnalibus quinque sensibus qui propter sensum geminum
+
+163
+00:30:39,244 --> 00:30:41,724
+duplicati decem faciunt, victoria capiatur.
+
+164
+00:30:41,724 --> 00:30:57,872
+Esto fidelis usque ad mortem,
+et dabo tibi coronam vitae. Qui perseverat usque
+in finem, hic salvus erit (Matth XXIV). Qui habet
+aures, audiat quid Spiritus dicat Ecclesiis: Qui vicerit
+non laedetur a morte secunda. Interdictae arboris
+(Gen II III) esus, hanc posteris procuravit.
+
+165
+00:30:57,872 --> 00:31:12,809
+Christus
+autem ex lateris sui sacrario, aqua et sanguine
+profluente, crucis irrigans lignum, inde fecit salutis
+primitias germinare unde originale malum noverat
+surrexisse, dicens: Gaudete, quia vici saeculum. Quocirca si quis vincit, in ipso vincere poterit.
+
+166
+00:31:12,809 --> 00:31:22,729
+Et
+angelo Ecclesiae Pergami scribe: Haec dicit qui habet
+romphaeam ex utraque parte acutam. De gladio bis
+acuto satis dictum sit. Scio ubi habitas, ubi thronus
+Satanae est.
+
+167
+00:31:22,729 --> 00:31:35,821
+Omni Ecclesiae dicit, quia ubique ille
+tentator est, cui dicitur: Illa tuum observabit caput,
+et tu insidiaberis calcaneo ejus (Gen III). Mundus
+enim in maligno positus est. Thronus Satanae
+homines sunt, quos nequiter possidet.
+
+168
+00:31:35,821 --> 00:31:52,200
+Revertitur ad
+speciem, quia licet istis septem locis tota septiformis
+figuretur Ecclesia, gesta sunt tamen in his specialiter
+quae laudat aut increpat. Et tenes nomen
+meum, et non denegasti fidem meam. In diebus illis
+Antiphas testis meus et fidelis, qui occisus est apud
+vos.
+
+169
+00:31:52,200 --> 00:32:06,863
+Apud multos etiam Christus occiditur, sive qui
+eum resurrexisse non credunt, sive quia apud se
+vitiis damnabilibus negant, ubi Satanas inhabitat. Sed habeo pauca adversus te dicere. Utique adversus
+alia membra culpanda, non ea quibus dicit: Et non
+abnegasti fidem meam.
+
+170
+00:32:06,863 --> 00:32:14,822
+Habes ibi tenentes doctrinam
+Balaam (Num XXIV), qui docebat Balac mittere scandalum
+sub oculis filiorum Israel, edere de sacrificiis
+et fornicari.
+
+171
+00:32:14,822 --> 00:32:30,957
+Haec duo sunt principalia, quibus fruendis
+hypocritae militant, edere et fornicari, sicut Dominus
+dicit: Intus autem pleni estis rapina et incontinentia
+et omni iniquitate (Luc XII; Matt XXIII). Idololatria fornicatio est spiritalis. Perdidisti, inquit
+(Psal LXXII), omnes qui fornicantur abs te.
+
+172
+00:32:30,957 --> 00:32:44,094
+Similiter
+habes et tu tenentes doctrinam Nicolaitarum: similiter
+age poenitentiam. Sin autem, veniam tibi cito et
+pugnabo tecum in romphaea oris mei. Id est gladio
+oris, intelligi debet Ecclesiae, secundum praecedentem
+intelligentiae formam.
+
+173
+00:32:44,094 --> 00:32:53,034
+Romphaea autem utrius
+que testamenti praecepta sunt, quibus contemptores
+divinitus expugnantur. Quicunque enim in lege peccaverunt,
+per legem judicabantur (Rom II).
+
+174
+00:32:53,034 --> 00:33:05,081
+Qui habet
+aures, audiat quid Spiritus dicat Ecclesiis: Qui
+vincet, dabo ei de manna illo absconso, id est de
+pane invisibili, qui de coelo descendit, qui ideo factus
+est homo, ut panem angelorum manducaret homo
+(Joan VI).
+
+175
+00:33:05,081 --> 00:33:12,440
+In cujus figura illud in eremo manna
+praecessit, quod quia manducaverunt, ideo mortui
+a Domino perhibentur, quia increduli permanentes.
+
+176
+00:33:12,440 --> 00:33:25,468
+De hoc abscondito et spiritali singulariter manna,
+quod immortalitatem fidelibus pollicetur, non manducaverunt,
+cum dicit (Ibid ): Nisi manducaveritis
+carnem Filii hominis et biberitis ejus sanguinem,
+non habebitis vitam aeternam in vobis.
+
+177
+00:33:25,468 --> 00:33:40,296
+Nam qui etiam
+illo tunc cibo potuerunt spiritaliter pasci, eadem
+meruerunt immortalitate potiri, ut Moyses et caeteri. Eumdem enim cibum spiritalem, docente Apostolo
+(I Cor X), manducaverunt, quia non eis obfuit
+manna visibile spiritaliter utentibus cibo corporeo.
+
+178
+00:33:40,296 --> 00:33:53,085
+Sicut nec hominibus praesentis temporis proderit
+spiritalis corporis dominici manna, si illud indigne
+suscipiant, quia judicium sibi manducant et bibunt. Et dabo ei calculum candidum, id est adoptionem
+in Filium Dei (I Cor XI).
+
+179
+00:33:53,085 --> 00:34:07,621
+Nam calculus
+gemma pretiosa est, quae ad morem illius margaritae
+quam negotiator inveniens, venditis omnibus, comparavit,
+intelligenda proponitur (Matth XIII). Alia
+denique translatio margarita posuit. Et super calculum
+nomen novum, quod os Domini nominavit.
+
+180
+00:34:07,621 --> 00:34:23,341
+Aliter
+super baptismum atque martyrium, quod nemo, inquit,
+novit nisi qui accepit. Hypocritae enim, licet
+habere superficiem eatenus videantur, ipsius tamen
+virtutem intelligentiae (Isa LXII), nequeunt penetrare. Habentes, inquit, formam pietatis, virtutem autem
+ejus abnegantes.
+
+181
+00:34:23,341 --> 00:34:30,665
+Hinc idem Joannes (I Joan II):
+Qui dicit quoniam cognovit eum, et mandata ejus
+non servat, mendax est, et in ipso veritas non est.
+
+182
+00:34:30,665 --> 00:34:44,750
+Et angelo Ecclesiae qui est Thyatirae scribe: Haec dicit
+Dei Filius, qui habet oculos ut flamma ignis, et pedes
+ejus similes aurichalco, Scio opera tua, et charitatem, et
+fidem, et ministerium, et patientiam, et novissima opera
+tua plura quam priora.
+
+183
+00:34:44,750 --> 00:34:59,568
+Hic plenius declaratur, in
+uno Ecclesiae corpore et bonorum partem laude
+mulceri, et malorum increpationibus exprobrari. Ubi opera simul charitatem, fidem, ministerium
+et patientiam, et laudando approbat, et augmento
+insuper novissima dicit amplificata prioribus.
+
+184
+00:34:59,568 --> 00:35:09,822
+Sed
+habeo adversus te multa, quod sinis uxorem tuam
+Jezabel (III Reg XVI) quae se dicit prophetam, et
+sinis eam docere et seducere servos meos, fornicari et
+manducare de sacrificiis.
+
+185
+00:35:09,822 --> 00:35:25,824
+Angelus, id est Ecclesia,
+nomen est generale; sed dictorum qualitas monstrat,
+cui sermo conveniat: quae pars, quae species,
+quod officium angelo conveniat, et quemadmodum
+a parte unius corporis, a parte vel a figura ad proprietatem
+transeat, et a proprietate ad figuram redeat.
+
+186
+00:35:25,824 --> 00:35:33,961
+Facta sunt ista, et specialiter fuisse conjicitur
+mulier in supradicta Ecclesia, ex cujus forma speciali
+ad generalem totius orbis Jezabel sermo nunc
+figurate transfertur.
+
+187
+00:35:33,961 --> 00:35:47,858
+Angelus itaque id est Ecclesia, quoniam adhuc ex bonis constat et reprobis, bipartito hic modo cognoscitur: verum quia et praepositos habet et populos, idcirco in angelo praedicatorum significatur officium, quomodo si cum hominem referimus aliquid operis peregrinasse , nostri relatu sermonis
+
+188
+00:35:47,858 --> 00:36:01,992
+singulorum monstratur qualitas denuntiata membrorum, ut si verbi gratia vidisse aut verba eum fecisse dicamus, illud ad oculos, hoc ad linguam sine dubio redigamus, quod huic angeli probatur convenire personae, siquidem angelus nuntius esse cognoscitur, cui ut pote speculatori, et videre convenit
+
+189
+00:36:01,992 --> 00:36:06,608
+corrigenda, et nuntiare servanda, sic per caetera opera nominata membrorum significantur officia.
+
+190
+00:36:06,608 --> 00:36:20,742
+Cum ergo opera nunc laudat majora prioribus, omnium generaliter personam inducit, et quia inter positos quosque sunt etiam negligentes, propterea subinfert quod Jezabel fornicari permittat et a sanctorum specie, quibus potestas divinitus sinendi vel cohibendi tribuitur, ad totam propterea transit
+
+191
+00:36:20,742 --> 00:36:32,640
+Ecclesiam, ideo praepositum constituens reum, non quod ipse fecerit, sed quod fieri permiserit, et permittendo transgressionibus particeps fiat, propterea sequitur dicens: Dedi ei tempus ut poenitentiam ageret, et poenitere noluit a fornicatione sua.
+
+192
+00:36:32,640 --> 00:36:46,488
+Non dixit, dedi vobis aut tibi, aut nunquid qui fornicarie consentit, fornicarius ipse non erit? Sed quia ab specie transit ad genus, idcirco ab hoc crimine sic sanctos demonstrat alienos, ut per malorum exprobrationem, membrorum semper velit manere sollicitus, licet quid eorum agat dextra,
+
+193
+00:36:46,488 --> 00:36:54,626
+nesciente sinistra, quod facile cognoscimus, si a pastoribus greges, et inferiora ab eminentioribus membra spiritaliter discernamus, vel suis singula temporibus coaptemus.
+
+194
+00:36:54,960 --> 00:37:06,463
+Fornicatio autem
+Jezabelis generalis, et corporale et spiritale adulterium
+praesignavit, quando sub Christi nomine fornicationem
+et idololatriam dicebat. Perdidisti enim,
+inquit, omnes qui fornicantur abs te.
+
+195
+00:37:06,463 --> 00:37:13,653
+Ecce mitto illam
+in lectum, et eos qui cum ea moechati sunt, in
+maximam tribulationem, nisi poenitentiam egerint ab
+operibus suis.
+
+196
+00:37:13,653 --> 00:37:30,133
+Lectus hic datur intelligi securitas delinquentium,
+quam sibi per impuritatem criminum
+saepe flagitiosi promittunt, cum peccantes experti
+non fuerint praesentis irae vindictam, ex poenitentia
+eatenus negligunt, donec eis repentinus superveniat
+interitus, sicut dolor parturientis, et non effugient.
+
+197
+00:37:30,133 --> 00:37:42,798
+A Deo autem in hoc securitatis neglectum
+dari dicitur, cum latenti quidem, non tamen injusto
+judicio deseruntur. De hac securitate alibi legimus
+(Prov I): Aversio parvulorum interficiet eos, et
+prosperitas stultorum perdet illos.
+
+198
+00:37:42,798 --> 00:37:58,615
+Alia translatio
+luctum pro lecto posuit, quo aeternam miseriam
+designavit, nisi poenitentiam egerint ab operibus
+suis. Et filios ejus interficiam in mortem. Filios hic
+potestatem et opera mulieris figurari cognoscimus,
+mortem autem non momentaneam corporis, sed
+animae minatur aeternam.
+
+199
+00:37:58,615 --> 00:38:06,690
+Memoratis excessibus,
+nec poenitentia ulla correctis, non temporalem disciplinam,
+sed aeternam poenam deberi apostolica
+saepe testatur auctoritas.
+
+200
+00:38:06,690 --> 00:38:23,226
+Neque enim de illorum
+numero sunt de quibus dicitur: Flagellat omnem filium
+quem recipit (Hebr XII), sed de illis quibus
+dicitur: Israel, jam non irascar tibi: et, Zelus
+meus recessit a te (Ezech XVI). Non quod propitiationem
+fuerant consecuti, sed quia indigni judicabuntur
+temporaliter flagellari.
+
+201
+00:38:23,226 --> 00:38:39,983
+Et scient omnes Ecclesiae
+quia ego sum scrutator renis et cordis (Jerem XVII). Nunquid priusquam prodat adulteros et occidat,
+nesciunt Ecclesiae Deum scrutatorem esse renum
+et cordis? aut quomodo potest Ecclesiae dici,
+quia scitura sum et non initio fidei suae Deum occultorum
+scierit cognitorem.
+
+202
+00:38:39,983 --> 00:38:53,158
+Non ergo experientia
+rerum, sed certa fide tenendum est non perspicua,
+sed occulta idololatria, sed adulteros morte punire. Hos enim aeterna dicit damnatione plectendos. Et
+dabo unicuique vestrum secundum opera vestra.
+
+203
+00:38:53,158 --> 00:39:08,085
+Non
+jam totum pro parte increpat, sed totum pro
+toto, cum singulis propria pollicetur. Unusquisque
+enim, ait Apostolus (Galat VI), onus suum portabit. Et conversus ad partem bonam ejusdem angeli dicit:
+Vobis autem dico reliqui qui estis Thyatirae.
+
+204
+00:39:08,085 --> 00:39:23,374
+Quotquot
+non habent doctrinam hanc, qui non scierunt altitudinem
+Satanae, quemadmodum dicunt. Non cognovistis,
+pro eo ponitur, ac si diciret, nullo consensu probastis. Nam et Dominus illos se nescire forte testatur,
+quos in suam non recepit disciplinam.
+
+205
+00:39:23,374 --> 00:39:36,306
+Sequitur:
+Non mittam super vos aliud pondus, sed quod habetis,
+tenete usque dum venio. Hoc est, legis pondera vobis
+non ponam, de quibus Apostolus dicit (Galat V):
+State, et nolite iterum jugo servitutis contineri.
+
+206
+00:39:36,306 --> 00:39:47,607
+Ideo
+tenete levem sarcinam vel leve jugum Christi (Matth XI), quod per spiritum adoptionis efficitur leve, sub
+quo nos perseverare volens, dicit: Sed quod habetis
+tenete usque dum veniam.
+
+207
+00:39:47,607 --> 00:40:02,836
+Et qui vicerit, et custodierit
+usque in finem opera mea, dabo ei potestatem super
+gentes, et reget eas in virga ferrea, sicut vas figuli
+confringentur, sicut et ego accepi a Patre meo. In Christo
+habet Ecclesia hanc potestatem tanquam corpus
+in capite.
+
+208
+00:40:02,836 --> 00:40:19,032
+Si quae enim digne corpori ejus adhaeserit,
+veraciter habere dicitur quod filius haereditario jure
+possedit, in quo (secundum Apostolum) nobis Deus
+omnia donavit. Virga ferrea inflexibilis omnino justitia
+regit mites, destruit contumaces, et dabo ei stellam
+matutinam.
+
+209
+00:40:19,032 --> 00:40:35,711
+Stellam matutinam, et Christum intelligi,
+et resurrectionem primam convenit accipi,
+quia et ille apparens errorum tenebras repulit, et
+resurrectione properante, mundanae noctis tenebrae
+fugabuntur. Haec enim stella sicut noctis finem, sic
+diei praebere videtur initium.
+
+210
+00:40:35,711 --> 00:40:37,056
+CAP. III.
+
+211
+00:40:37,056 --> 00:40:52,061
+Angelo Ecclesiae qui est Sardis, scribe:
+Haec dicit qui habet septem spiritus Dei et septem stellas:
+Scio opera tua, quia nomen habes quoniam vivis,
+et mortuus es. Esto vigilans et stabilis, et confirma
+reliqua quae moritura erant. Non enim invenio opera tua
+repleta coram Deo meo.
+
+212
+00:40:52,061 --> 00:41:00,872
+Memento quemadmodum
+acceperis, et audita custodi, et age poenitentiam. Nomen
+(inquit) habes quia vivis, et mortuus es. Non
+dicatur nisi qui mortale crimen admiserit.
+
+213
+00:41:00,872 --> 00:41:13,741
+Non dicit:
+Confirma quae moritura erant, nisi ei qui viva adhuc
+aliqua habens in officio suo, in morte peccati non
+permanere permittitur. Non enim confirmari potest
+qui officium doctoris amiserit. Non invenio opera
+tua repleta coram Deo meo.
+
+214
+00:41:13,741 --> 00:41:27,732
+Non enim satis est arborem
+vivere et virere, fructus tamen debitos non
+habere. Commendat etiam poenitentiam praecedentium
+delictorum. Si autem non egeris poenitentiam,
+veniam et suscitabo adventum meum ad te, quasi fur
+veniam, et non scies qua hora veniam ad te.
+
+215
+00:41:27,732 --> 00:41:38,945
+Ipsam
+enim ad vocem si fueris negligens, hora praeveniet
+improvisa vocationis. Sequitur: Verum habes pauca
+nomina in Sardis, qui non inquinaverunt vestem suam
+et mecum ambulaverunt in albis, quoniam digni sunt.
+
+216
+00:41:38,945 --> 00:41:48,397
+Magna laus paucorum inter malos inquinatos jugi
+virtutum nitore immaculatis vestibus permanere, ad
+quorum habitum Deus provocat dicens: Qui vicerit,
+sic vestietur, albam vestem.
+
+217
+00:41:48,397 --> 00:41:59,344
+Sciebant utique pauci
+sancti esse in medio sui inquinatorum multitudinem;
+ipsi tamen immaculati permanentes, ingemiscebant
+juxta Ezechiel (Ezech III), et moerebant ab iniquitate
+quae fiebat in medio eorum.
+
+218
+00:41:59,344 --> 00:42:13,335
+Et non delebo nomen ejus
+de libro vitae, et confitebor nomen ejus coram Patre
+meo et coram angelis ejus. Sicut in Evangelio (Matt X):
+Confitebor, inquit, et ego eum coram Patre meo qui
+est in coelis. Et (Luc X), Gaudete quod nomina vestra
+scripta sunt in coelis.
+
+219
+00:42:13,335 --> 00:42:20,543
+Angelo Ecclesiae qui est Philadelphiae,
+scribe: Haec dicit sanctus et verus, qui habet
+clavem David, id est, regiam potestatem.
+
+220
+00:42:20,543 --> 00:42:27,453
+Clavem
+porro David dicit, sive quia de ejus stirpe natus est
+Christus, sive quia ipse David multa de Christo praefatus
+est.
+
+221
+00:42:27,453 --> 00:42:42,675
+Cujus dispensatione tanquam clave, legis
+et prophetarum et psalmorum arcana patuerunt, ipso
+teste, cum dicit (Luc XXIV): Necesse est impleri
+omnia quae scripta sunt in lege Moysi et prophetis
+et psalmis de me. Qui aperit, et nemo claudit, et qui
+claudit quod nemo aperit.
+
+222
+00:42:42,675 --> 00:42:56,998
+Legis divinae secreta solius
+Christi potestate panduntur fidelibus, clauduntur incredulis;
+illo autem solvente nullus claudit, quo ligante
+nullus absolvit. Ecce dedi in conspectu tuo
+apertum ostium, quod nemo claudere potest, quoniam
+pusillas habes vires.
+
+223
+00:42:56,998 --> 00:43:09,749
+Ostium quod Christus aperit,
+tunc reserari Ecclesiae coepit, quando suis discipulis
+sensum aperuit ut intelligerent Scripturas (Ibid). Hoc nullius unquam vi praecluditur, quod illis praedicantibus
+per totum mundum jam panditur.
+
+224
+00:43:09,749 --> 00:43:15,366
+Unde
+Apostolus (I Cor XVI): Ostium nobis, inquit, magnum
+apertum est in Domino, et adversarii multi.
+
+225
+00:43:15,366 --> 00:43:30,251
+Quod autem dicit, Pusillas habes vires, et servasti
+verbum meum, et non negasti nomen meum, causam
+ostendit, quod propterea haec dona promeretur Ecclesia,
+quia non suis viribus fidit, seque confitens
+parvas vires habere, non in se, sed in Domino redempta
+gloriatur.
+
+226
+00:43:30,251 --> 00:43:42,216
+Ecce dabo de synagoga Satanae ex
+his qui se Judaeos dicunt esse, nec sunt, sed mentiuntur. Ecce facturus sum illos venire ante pedes tuos
+adorare, et scies quia dilexi te, quoniam servasti verbum
+tolerantiae meae.
+
+227
+00:43:42,216 --> 00:43:56,595
+Hoc novum Ecclesiae tantum
+Philadelphiae tunc promisit, reliquum enim tempus
+et praecipue illud circa finem mundi praenuntiat,
+quando Judaei in Christum credentes, ejus Ecclesiae
+subjungantur, quae veraciter dicit (Psal LVI): Mihi
+alienigenae subditi sunt.
+
+228
+00:43:56,595 --> 00:44:05,807
+Nam et de Judaeis Apostolus
+dicit (Rom XI), quia caecitas ex parte Israel contigit,
+donec plenitudo gentium subintroiret, et sic
+omnis Israel salvus fieret.
+
+229
+00:44:05,807 --> 00:44:15,676
+Et scies quia dilexi te,
+cum tibi videlicet Judaeos, qui de nobilitate quondam
+generis extollebantur, humiles in fide subdidero, et
+tu cognosces et ipsi qualem tibi dilectionem exhibeam.
+
+230
+00:44:15,676 --> 00:44:30,744
+Multi enim ex Judaeis ad Ecclesiam veniunt,
+dicentes, sicut scriptum est: Jacta me in unam partem
+sacerdotii tui manducare panem. Quoniam servasti
+verbum tolerantiae meae, et ego te tuebor ab
+hora tentationis, quae ventura est universo orbi terrarum
+tentare eos qui inhabitant terram.
+
+231
+00:44:30,744 --> 00:44:46,342
+Licet intestino exteriorique conflictu indesinenter exerceatur Ecclesia, et sive partialiter singuli, sive generaliter hic impugnentur variis tentationibus, etiam tempus Antichristi significatur venturi, a quo omnem Ecclesiam quae constat in suis, liberaturum se Christus Dominus pollicetur, ut
+
+232
+00:44:46,342 --> 00:44:48,358
+tentatio ruinae, deceptio cognoscatur.
+
+233
+00:44:48,358 --> 00:44:58,121
+Venio cito, tene quod habes, ne quis alius
+accipiat coronam tuam. Hic electorum numerum quos
+secundum propositum vocatos apostolos memorat,
+stupenda prorsus consideratione cognoscimus.
+
+234
+00:44:58,121 --> 00:45:09,209
+Quos
+praescivit et praedestinavit conformes fieri imaginis
+Filii ejus, ostendens huic numero nec addi quemquam
+posse, nec minui, cum sic istum propriam coronam
+dicit amittere, ut alius eam percepturus accedat.
+
+235
+00:45:09,209 --> 00:45:18,335
+Unde intelligitur nec alium posse succedere, si quod
+ille tenuit, perseveranti fide custodiat. Sic etiam Judaeorum
+elatio est frustrata, qui de stirpe Abrahae
+gloriabantur.
+
+236
+00:45:18,335 --> 00:45:30,007
+Potens enim est Deus, inquit (Matth III), de lapidibus istis suscitare filios Abrahae, ut
+certa promissio maneret ex munere, et gloriatio carnalis
+vacuaretur in genere. Qui vicerit, faciam eum
+columnam in templo Dei mei.
+
+237
+00:45:30,007 --> 00:45:39,398
+Columna in fabricis et
+munimini congruit et decori; sic et mundi victores in
+Ecclesia eminent munere dignitatis, portant officio
+charitatis. Et foras, inquit, non exiet amplius.
+
+238
+00:45:39,398 --> 00:45:51,335
+Exierat
+junior filius (Luc XV), id est gentium populus,
+sed illius vituli saginati morte, id est Christi cruore
+reconciliatus atque redemptus, foras ultra non exit,
+quippe quem introduxit rex in cubiculum suum
+(Cant.
+
+239
+00:45:51,335 --> 00:46:10,763
+III, 8), et quantiscunque aut schismatum aut persecutionum arietibus quatiatur, non movetur. Firmum enim fundamentum Dei stat, habens signaculum hoc (II Tit II): Novit Dominus qui sunt ejus. Sic et hic et scribam super illum nomen Dei mei, quod videlicet filii Dei per adoptionem dicimur (Rom VIII),
+
+240
+00:46:10,763 --> 00:46:29,997
+et nomen civitatis Dei mei novae Jerusalem, quae descendit de coelo a Deo meo et nomen meum novum. Titulus nominis eminentiam, dignitatis et pacis insinuat visionem. Jerusalem enim interpretatur (Rom VI) visio pacis. Novae autem, propter novitatem vitae in qua jubemur incedere. Hoc autem Christi
+
+241
+00:46:29,997 --> 00:46:49,035
+nomen, quod est super omne nomen (Philip II), non ex tempore Filio Dei successit ut idem novum dici putetur, cum in eadem claritate Patri semper manserit coaeternus, de qua ad eum dicit (Joan XVII): Quam habui apud te priusquam mundus esset. Sed novum, pro humanitate, in qua et mori voluit et
+
+242
+00:46:49,035 --> 00:47:08,333
+mortuus resurrexit; hinc per prophetam (Isa XLIII): Nova, inquit, facio omnia quae nunc orientur; et Apostolus (II Cor V): Vetera transierunt, ecce facta sunt omnia nova. Hinc etiam meruimus Christiano censeri vocabulo. Angelo Ecclesiae Laodiceae scribe: Haec dicit quia est Amen testis fidelis et
+
+243
+00:47:08,333 --> 00:47:27,761
+verus. Quod hic, est et Amen ponitur, animadvertendum existimo. Amen quippe interpretatum, dicitur verum sive fideliter. Unde hoc loco ad illam divinitatis essentiam procul dubio redigendum est de qua loquens Moysi Deus, dicit (Exod III): Sic dices filiis Israel: Qui est, misit me ad vos. Ipse enim
+
+244
+00:47:27,761 --> 00:47:47,189
+vere est, qui semper idem est. Verum quia in unius Christi persona suscepta quoque humanitas fuerat praedicanda, consequenter dicit (Cap III): Qui est initium creaturae Dei. Initium quippe creaturae Dei, Christum Dominum propter incarnationis mysterium convenienter decet intelligi, ex cujus persona
+
+245
+00:47:47,189 --> 00:47:52,842
+scriptum legimus (Job X): Dominus creavit me initium viarum suarum; et Apostolus (Hebr.
+
+246
+00:47:53,231 --> 00:48:06,805
+X): Habentes fiduciam in introitu sanctorum, in sanguine Christi, qui initiavit nobis viam novam et viventem per velamen, id est carnem suam, et sacerdotem magnum, etc. Ipse enim est via, qui patria; ipse fidei auctor, qui etiam consummator; ipse Α et Ω, ipse initium quem nemo praecedit, ipse finis
+
+247
+00:48:06,805 --> 00:48:20,243
+cui nullus in regno succedit. Scio opera tua, quia, neque frigidus es, neque fervens; utinam frigidus esses aut fervens! sed quia tepidus es, incipiam te ex ore meo vomere. Potest hic quorumdam nobilium saeculi persona cognosci, quos ideo nec calidos dicit esse, nec frigidos, sed potius tepidos:
+
+248
+00:48:20,243 --> 00:48:33,817
+quia cum talis copia divitiarum multa circumfluat, operibus tamen pietatis inveniuntur steriles, nec ad opera bona ullo miserationum accenduntur intuitu. Ideo et pauperes tanquam frigidi esse negantur et fervidi, qui et divitiis non abundant, quibus tepidi utendo torpescunt, et eas indigentibus non
+
+249
+00:48:33,817 --> 00:48:47,209
+communicando, juste bonorum operum notantur carere fervore. Sed etiam illorum hic potest significare personam, apud quos intra cubiculum Scripturae tractantur, foris autem utrum fideles sint ignorantur, et fiducialiter ac tute praesumentes, inveniuntur operibus vacui. Ideo neque frigidos, neque
+
+250
+00:48:47,209 --> 00:49:00,738
+ferventes illos esse dicit, id est neque incredulos, neque fideles. Et quia hujusmodi tepiditate utrique sui nauseam faciunt: Vomam, inquit, te de ore meo; sed quia tempus est poenitentiae, non sibi blandiantur falso nomine divitum ac potentum, quorum egestas caecitasque increpatur et nuditas, sed
+
+251
+00:49:00,738 --> 00:49:14,312
+audiant consulentem sibi, verasque divitias, videlicet scientiam, pollicentem. Utrisque enim convenit, ut ne ab imis visceribus evomantur. Nunc sibi aurum emant de quo dicit (Prov XVI): Accipite sapientiam sicut aurum, et scientiam sicut argentum Kelimet . Si quid de Scripturarum divinarum fontibus
+
+252
+00:49:14,312 --> 00:49:23,391
+tanquam sapientiae lumine radianti haurire potuerint, opere ipso perficiant, sive illi de largitate substantiae, visceribus pietatis ignitis, sive isti de scientiae litteratura spiritaliter informati.
+
+253
+00:49:23,663 --> 00:49:35,094
+Scriptum
+est enim (Prov XIII): Redemptio animae viri divitiae
+suae. De illis vero (I Tit III): Ab infantia tua sacras
+litteras nosti, quae te possunt instruere ad salutem
+quae est in Christo Jesu.
+
+254
+00:49:35,094 --> 00:49:42,909
+Bene autem aurum
+conflatum dixit, propter pressuram persecutionis,
+quam si eos contigerit pro Christo subire, optent
+devote suscipere.
+
+255
+00:49:42,909 --> 00:49:54,048
+Tales enim de magno tepiditatis
+excidio utili compunctione conversi, non solum sibi,
+sed et aliis esse potuerint fructuosi, ipsique sint aurum
+tribulationis igne purgatum pariter et decoctum.
+
+256
+00:49:54,048 --> 00:50:06,529
+Ut sis, inquit, dives et veste alba vestiaris, et non
+appareat in te foeditas nuditatis tuae, et collyrio unge
+oculos tuos ut videas: justitiae operibus destitutos
+tanquam nudos notat, quos etiam arguit caecitatis.
+
+257
+00:50:06,529 --> 00:50:23,967
+Ille autem vestimentis albis induitur qui baptismate
+Christi vestitur, et ea fide pollet quae per dilectionem
+operatur (Galat V). Quicunque enim in Christo baptizati
+estis, Christum induistis (Rom VI); cum autem
+collyrio oculos dicit ungendos, inclinandum cor
+ad divina testimonia monet (Galat III).
+
+258
+00:50:23,967 --> 00:50:39,363
+Praeceptum
+enim Domini lucidum, illuminans oculos (Psal XVIII). Ego quos amo, redarguo, et castigo. Flagellat
+enim omnem filium quem recipit (Heb XII). Crede
+ergo et age poenitentiam. Ostendit esse Laodiceae qui
+fuissent laudabiliter imitandi, vel alii corrigendi.
+
+259
+00:50:39,363 --> 00:50:49,686
+Ecce ego sto ante ostium et pulso, si forte quis audierit
+vocem meam, et aperuerit mihi januam. Ostium
+utique cordis ad recipiendum Christum per fidem et
+obsequium praeceptorum.
+
+260
+00:50:49,686 --> 00:51:03,333
+Sequitur: Introibo ad eum,
+et coenabo cum eo, et ille mecum in throno meo: hinc
+et Dominus (Joan XIV): Si quis, inquit, diligit me,
+sermonem meum servabit, et Pater meus diliget eum,
+et ad eum veniemus, et mansionem apud eum faciemus.
+
+261
+00:51:03,333 --> 00:51:14,063
+Vincenti dabo sedere mecum in throno meo, sicut
+et ego vici, et sedeo cum Patre meo in throno ejus. Consessorem participem potestatis dicit atque judicii,
+de qua Joannes (Joan.
+
+262
+00:51:14,063 --> 00:51:31,301
+I): Dedit eis potestatem filios Dei fieri, his qui credunt in nomine ejus: qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt. Et (Matt XIX): Sedebitis mecum in duodecim thronis, judicantes duodecim tribus Israel. Qui habet aures, audiat quid Spiritus
+
+263
+00:51:31,301 --> 00:51:48,422
+dicat Ecclesiis. Aures hic cordis ad mandatorum obedientiam intelligi convenit. Ostendit autem quod illa quae singulatim denominans admonebat Ecclesiam, nunc generaliter Ecclesiis allegat praedicanda, descriptisque Ecclesiae operibus, quae esset et qualis futura praedici oporteret, recapitulata
+
+264
+00:51:48,422 --> 00:51:50,859
+Christi nativitate, eadem aliter dicturus.
+
+265
+00:51:50,975 --> 00:51:52,319
+CAP. IV.
+
+266
+00:51:52,319 --> 00:51:56,619
+Postea, inquit, vidi. Post ipsam utique
+visionem se alteram memorat vidisse.
+
+267
+00:51:56,619 --> 00:52:12,008
+Non gestorum
+est diversum tempus, sed visionum; ac si quis unam
+rem diversis modis enarret, enarrationes habebunt
+diversum tempus, non illud quod uno tempore gestum
+est; sic totum tempus Ecclesiae diversis figuris
+repetit enarrandum. Ecce, inquit, ostium apertum in
+coelo.
+
+268
+00:52:12,008 --> 00:52:27,227
+Ostium apertum, Christum dicit natum et passum
+ac suscitatum, qui est janua, ipso dicente: Ego
+sum ostium. Coelum Ecclesiam dicit, eo quod sit
+habitaculum Dei, ubi coelestia geruntur. Hoc est quod
+sicut in coelo voluntatem Dei, ita fieri postulamus
+in terra (Matth VI).
+
+269
+00:52:27,227 --> 00:52:41,541
+Aliquando autem coelum et terram
+et Ecclesiam dicit (Luc XI), propter terram
+quae et coelum consistit, sive cum infideles rectis fidelium
+praedicationibus acquiruntur, sive cum caro
+spiritui subditur, sive cum terrena coelestibus reconciliata
+junguntur.
+
+270
+00:52:41,541 --> 00:52:58,231
+Ecce vox illa prima quam audivi ut
+tuba loquentem mecum: Ascende huc, inquit, et ostendam
+tibi quae fieri post haec oportet. Vox praedicatio;
+ideo dicitur (Isa LVIII): Quasi tuba exalta vocem
+tuam. Ascensus est, quando cum despectu mundi
+venire ad Ecclesiam quisque vel compellitur, vel
+meretur.
+
+271
+00:52:58,231 --> 00:53:15,091
+A convalle autem plorationis ascenditur ad
+hujus apicem dignitatis; hinc legimus (Isa II): Venite,
+ascendamus in montem Domini et ad domum
+Dei Jacob, et docebit nos vias suas. Sed etiam fideles
+ad coelum invitantur ascendere, quando non quae
+super terram, sed coelestia appetere jubentur et sapere.
+
+272
+00:53:15,091 --> 00:53:30,254
+Nam et quando rudis quisque in Ecclesia Christum
+passum, resurrexisse et ascendisse docetur ad
+Patrem, et super his quisque spiritaliter eruditus et
+doctor, eumdem secundum formam Dei contemplatur,
+in parte justi ascendere dicitur, credita mysteriorum
+secreta visurus.
+
+273
+00:53:30,254 --> 00:53:42,191
+Hinc Dominus (Joan XX):
+Noli me tangere, nondum enim ascendi ad Patrem
+meum, tactum, volens credulitatem intelligi. Statim
+fui in spiritu, et ecce vidi thronum positum in coelo,
+et super thronum sedentem.
+
+274
+00:53:42,191 --> 00:53:55,970
+Et is qui sedebat, similis
+visui erat jaspidis, etc. Istae comparationes Ecclesiae
+conveniunt, quam (sic) Dominus indutus est jaspidis
+colorem, aquam sardinis, ignem significare puto, quibus
+duobus judicium novimus celebrari: primo per
+diluvium, in saeculi autem fine per ignem.
+
+275
+00:53:55,970 --> 00:54:05,237
+Et arcus,
+inquit, erat in circuitu throni, similis visui smaragdino. Arcus, quoniam post diluvium securitatis praecessit
+indicio, nunc Ecclesiae ad propitiandum Deum
+convenienter aptatur.
+
+276
+00:54:05,237 --> 00:54:16,587
+Nam cum nubes imbriferae
+splendore solis fuerint radiatae, arcus speciem reddunt,
+ad cujus comparationem cum sanctourm animae
+sole justitiae, quod est Christus, fuerint illustratae,
+eorum intercessu Divinitas propitiari dignatur.
+
+277
+00:54:16,587 --> 00:54:24,566
+Et in circuitu throni, sedilia viginti quatuor, in quibus
+seniores sedentes erant viginti quatuor, circumamicti
+veste alba, et super capita eorum coronae aureae.
+
+278
+00:54:24,566 --> 00:54:31,901
+Seniores totam Ecclesiam dicit, sicut per Isaiam
+(Isa XXIV): Regnavit Dominus in Sion et in Jerusalem,
+et in conspectu seniorum ejus clarificabitur.
+
+279
+00:54:31,901 --> 00:54:46,423
+Viginti quatuor autem praepositos complexus est simul et populos, tanquam duodecim tribus Israel duplicans, propter geminum Testamentum, quia et in Veteri et in Novo eadem formatur Ecclesia, id est, quoniam Ecclesiam in duodecim ostendit apostolis, omne scilicet corpus praepositorum, sicut et
+
+280
+00:54:46,423 --> 00:54:50,338
+invenimus in descriptione civitatis de coelo descendentis Jerusalem (Apoc XXI).
+
+281
+00:54:50,338 --> 00:55:00,746
+Isti viginti quatuor throni, excepta officiorum
+distributione, duodecim sunt, quia et praepositi
+ex duodecim tribubus promoventur. Sed duodecim
+throni, excepto mystico numero, unus est thronus,
+id est Ecclesia.
+
+282
+00:55:00,746 --> 00:55:12,095
+Solus enim Dominus Christus ad judicandum
+sessurus est; sedebit autem in sede, id est
+Ecclesia, judicans duodecim tribus: sed in Christo,
+in quo ipsa est tota, sedubunt et judicabunt membra,
+sed in unum et per unum caput.
+
+283
+00:55:12,095 --> 00:55:26,941
+Aliter possunt viginti
+quatuor seniores in illis intelligi, qui perfectionem,
+quae senario numero commendatur, clara Evangelii
+praedicatione consummant; nam quater seni,
+viginti quatuor faciunt. Et ex illorum throno exeunt
+coruscationes et voces et tonitrua.
+
+284
+00:55:26,941 --> 00:55:40,693
+Tonitruis et vocibus,
+praedicatio veritatis; coruscationibus miraculorum
+figurantur insignia, sicut in Evangelio (Marc XVI): Illi autem, inquit, profecti praedicaverunt ubique,
+Domino cooperante et sermonem confirmante,
+sequentibus signis.
+
+285
+00:55:40,693 --> 00:55:55,597
+Itemque (Psal LXXVI): Vox tonitrui
+tui in rota; apparuerunt fulgura tua orbi terrae. His enim tanquam nubibus praeceptis tonantibus miraculisque
+fulgentibus mundus tremefactus formidavit
+et credidit. Et septem phialae ignis ardentes
+erant in conspectu throni.
+
+286
+00:55:55,597 --> 00:55:58,244
+Illae septem phialae
+sunt septem Spiritus Dei.
+
+287
+00:55:58,244 --> 00:56:15,448
+Si se ipse non exponeret, in his septem ardentibus phialis Spiritum sanctum nos intelligere conveniret, sive quod ignearum forma linguarum apostolis infusus est, sive propter ejus memorabilem septenariam operationem: quanto magis nunc, quando ipse subjunxit: Qui sunt, inquiens, septem spiritus Dei!
+
+288
+00:56:15,448 --> 00:56:31,215
+Ubi autem convenientius Spiritus sanctus diceretur adesse, quam in baptismatis tempore, quando unumquemque fidelium eum credimus rite percipere, quod nunc aquarum videtur mentio facta signare? Hoc enim sequitur, dicens: Et in conspectu throni mare vitreum, simile crystallo.
+
+289
+00:56:31,215 --> 00:56:44,161
+In mari vitreo intelligitur
+baptismum, ubi corde creditur ad justitiam,
+ore autem confessio fit ad salutem (Rom X); propter
+fidem quippe refertur ad vitrum; non enim aliud in
+vitro videtur exterius, quam quod gestat interius.
+
+290
+00:56:44,161 --> 00:57:00,215
+Nec
+inaniter in conspectu throni hoc baptisma esse commendat,
+nisi quia possunt hoc haeretici quoque foras
+habere vel dare. Sic ergo dicit (Exod XXXIII): In
+conspectu throni, sicut Moysi dictum legimus: Est
+locus penes me. Vel ipse in Deuteronomio praemonet,
+dicens (Deut.
+
+291
+00:57:00,215 --> 00:57:16,229
+XII, XIV, XVI, XXVI): In loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi, quibus omnibus singularem Ecclesiae declaratam novimus unitatem, ubi baptisma Trinitatis haberi poterit ad salutem, quod foris generatus habet ad perniciem: non quia malum est quod datur, sed quia male utitur
+
+292
+00:57:16,229 --> 00:57:31,759
+cui datur, sicut buccella manu Domini Judae porrecta (Joan XIII). Quod autem alia editio ante solium transtulit mare vitreum esse, in solio potest sedes futuri judicii praesignari salubriter. Itaque vidimus ante judicii tempus salutaris baptismi concedi remedium, ut non reos et nudos, sed
+
+293
+00:57:31,759 --> 00:57:47,773
+justificatos atque munitos futurum possit invenire judicium. Quis enim salvaretur, si mundum Deus, baptismo necdum concesso, vellet praevenire judicio? Crystallo aqua munda et stabilis credulitas figuratur, quae non circumferatur omni vento doctrinae (Ephes IV), quippe in Christo habens fundamenta
+
+294
+00:57:47,773 --> 00:58:03,840
+subnexa, qui fundavit terram super aquas (Psal XXIII). Medio autem throno et in circuitu throni quatuor animalia plena oculis ante et retro. Quatuor animalia sunt evangelistae quatuor, quibus propter congruentiam narrationis in singulis eminentem, specialis videtur coaptari proprietas, sicut quidam
+
+295
+00:58:03,840 --> 00:58:19,853
+voluerunt: Matthaeo hominis, Marco leonis, Lucae vituli, aquilae Joanni. Cum autem omnium unum sit Evangelium, ideo quatuor principaliter demonstrantur, propter quatuor paradisi flumina, quibus orbis irrigari traditur universus, sicut horum praedicatione instruendus totus creditur mundus. Siquidem
+
+296
+00:58:19,853 --> 00:58:35,491
+Ecclesia saepe paradisius accipi solet. Oculos sane ante se et retro ob hoc animalia dicuntur habere, sive quod luminibus scientiae plena, sive quod perfecte Novi et Veteris Testamenti universa contineant sacramenta. Fides enim quae gemino Testamento profertur, omni temporum completur visu.
+
+297
+00:58:35,759 --> 00:58:47,940
+Cum
+ergo quid ante in Veteri tantum Testamento congruebat,
+quid Novo succedente claruerit revelatum, quidve
+his docentibus sperandum fore cognoscitur, istis
+omnifarie quodammodo animalia probantur fulgure,
+luminibus.
+
+298
+00:58:47,940 --> 00:59:04,800
+Praeterito namque tempori tanquam anteriora promissa dispensatio Christi Domini deputatur, quae sicut praedicta a prophetis legitur, peracta etiam perdocetur; praesenti, credulitatis augmenta et Ecclesiarum conveniunt incrementa; futuro, bonorum malorumque diremptio, quia justos in vitam, impios in
+
+299
+00:59:04,800 --> 00:59:07,451
+poenam futuros credimus deputandos (Matth XXV).
+
+300
+00:59:07,451 --> 00:59:24,311
+His quoque utriusque concordiam Testamenti novimus praesignari, cum posteriora prioribus, id est nova veteribus, iisdem probantur oculis, quae pariter refulgere et inter se plena fidei veritate concinere, cum, verbi gratia, in Veteri Testamento agno occiso, quinquaginta diebus exactis, datur lex ad
+
+301
+00:59:24,311 --> 00:59:28,033
+timorem, scripta digito Dei in lapideis tabulis (Exod XXI XIX XX).
+
+302
+00:59:28,033 --> 00:59:44,894
+Nunc quando pascha nostrum immolatus est Christus (I Cor V), id est juxta Joannem (Joan I), Agnus Dei qui tollit peccata mundi, peractis quinquaginta diebus, Spiritum sanctum discipulis mittit de coelo promissum (Act I), quem in sacris saepe paginis digito Dei legimus nuncupatum (Exod VIII 13), per
+
+303
+00:59:44,894 --> 00:59:54,593
+quem vetusta lapidei cordis remota duritia (Luc XI), charitas datur, qua timor foris protinus pellitur (I Joan IV), ut lex quae ante infirmis difficilis fuerat, impleretur.
+
+304
+00:59:54,593 --> 01:00:04,968
+Charitas enim Dei diffusa
+est in cordibus nostris per Spiritum sanctum, qui
+datus est nobis (Rom V), quo operante, Deus gratis
+colitur, non jam timore poenae, sed dilectione justitiae.
+
+305
+01:00:04,968 --> 01:00:16,415
+Nam et ipsum caput nostrum, cum et passum
+resurrexisse, et nunc ad Patris dexteram sedere, et
+venturum judicem solemniter praedicamus, his tanquam
+luminibus quatuor animalium irradiatur Ecclesia.
+
+306
+01:00:16,415 --> 01:00:31,529
+Qui evangelistis praedicantibus, cognoscit haec omnia, intentum etiam docet monetque lectorem, quod et in medio throno animalia memoret, et in circuitu throni eadem quatuor animalia; ac si diceret: In medio Ecclesiae Evangelium, et per circuitum orbis fructificantem Ecclesiam, id est, Evangelium,
+
+307
+01:00:31,529 --> 01:00:37,483
+quia etsi numerus praedicatorum augetur, unius tamen Evangelii veritas, nullius unquam novitatis diversitate mutatur.
+
+308
+01:00:37,483 --> 01:00:43,793
+Idem quippe crescendo perseverat
+in orbe, quod intemeratum manet in origine, hoc est
+in medio throno, et in circuitu throni.
+
+309
+01:00:43,793 --> 01:00:57,075
+Item cum superius
+dixerit vidisse se super thronum sedentem, et
+in circuitu throni sedilia viginti quatuor, in quibus
+seniores erant sedentes viginti quatuor, circumamicti
+veste alba, subsequenter in medio, inquit, throno et
+in circuitu throni quatuor animalia.
+
+310
+01:00:57,075 --> 01:01:12,087
+Cum enim nos velit aliud sedentem, aliud seniores, aliud quatuor animalia vocabulorum diversitate cognoscere, unius tamen throni nomine, uno cuncta videtur loco miscere, ubi intelligitur, quod Evangelia in senioribus, et seniores in Evangeliis, neque enim possunt ab alterutro separari; sic enim
+
+311
+01:01:12,087 --> 01:01:23,995
+potuerunt esse animalia in circuitu sedis, ubi seniores esse jam dixerat, in medio quoque throno, in Christi videlicet corpore, quod est Ecclesia: ubi nec seniores sine Evangelio, nec Evangelium absque senioribus esse sanus permittit.
+
+312
+01:01:23,995 --> 01:01:25,369
+Animal
+primum simile leoni.
+
+313
+01:01:25,369 --> 01:01:40,533
+Licet superius multorum Patrum expositionem de animalibus maluerim praelocare, ordinem tamen hic relationi intendens, quod primum animal simile dicit esse leoni, Matthaeo magis vultum assero convenire leonis, qui et Evangelium in Judaea primus scripsit, et in Christo regiae dignitatis et prosapiam
+
+314
+01:01:40,533 --> 01:01:42,620
+narrat, et gloriam insignanter praedicat.
+
+315
+01:01:42,620 --> 01:01:55,799
+Hunc denique ordinem beatus etiam Augustinus
+suadet ad sequendum, Matthaeo leonis, Marco
+hominis personam assignans, qui proprie humana
+videtur in Christo gesta narrasse. Tertium vituli, quae
+Lucae congruit propter vituli saginati hostiam singularem.
+
+316
+01:01:55,799 --> 01:02:09,486
+Porro autem Joanni rectius aquilae significatio
+deputatur, qui Verbi Dei celsitudinem et perspicaciter
+videre, et veraciter meruit praedicare. Quocirca hinc
+Ecclesia regiae majestatis fortitudine fungitur et
+decore, quia vicit leo de tribu Juda.
+
+317
+01:02:09,486 --> 01:02:24,402
+Catulus enim
+leonis Juda (Gen XLIX), ex cujus tribu reges populo
+praeesse solebant. Et secundum animal simile vitulo. Hujus Ecclesiae virtus in vitulo etiam, prima scilicet
+victima illa ratione signatur, qua adhuc quisque fidelium
+vincit, quando pro Christo mactatur.
+
+318
+01:02:24,402 --> 01:02:39,598
+Exhibete,
+inquit, corpora vestra hostiam vivam, sanctam, Deo
+placentem, rationabile obsequium vestrum (Rom XII),
+ut quod caput pro corpore, corpus mereatur implere
+pro capite. Propterea et a Zacharia orsus est
+sacerdote (Luc I). Tertium animal habens faciem
+quasi humanam.
+
+319
+01:02:39,598 --> 01:02:56,022
+Illam hic humilitatem Ecclesiae commendari puto, qua cum spiritum adoptionis filiorum Dei perceperit (Rom VIII), habeatque hunc thesaurum in vasis fictilibus (II Cor IV), libenter tamen humilis gloriari maluit in infirmitatibus suis (II Cor XII), quam extolli virtutibus acquisitis, pic sequens
+
+320
+01:02:56,022 --> 01:03:03,452
+magistri vestigia, qui factus obediens usque ad mortem (Philip II), dicebat: Discite a me quia mitis sum et humilis corde (Matth XI).
+
+321
+01:03:03,452 --> 01:03:15,854
+Quartum animal
+simile aquilae volanti. Ecclesia spiritualibus membris
+coelestia meditantibus volare describitur, quae nullo
+visu terrenae cupiditatis illecta, duorum Testamentorum
+gubernaculis regitur sublimius provehenda.
+
+322
+01:03:15,854 --> 01:03:24,401
+Nam istis similitudinibus vultuum, Christi quoque
+persona convenienter aptatur, homini videlicet,
+quem non imaginarie, sed proprie veraciterque suscepit.
+
+323
+01:03:24,401 --> 01:03:38,256
+Tribus vero residuis, quas figurali comparationis
+gratia gessit, ipse enim leo de tribu Juda,
+victor mortis illatae, quia leo fortissimus bestiarum
+ad nullius pavebit occursum. Vitulus, qui pro mundi
+salute mactatus, insigniore victima commendatur.
+
+324
+01:03:38,256 --> 01:03:44,903
+Aquila, quod et desursum ima mortalitatis nostrae
+petierit, atque isthinc rursus ad sedem coelestem
+ascenderit.
+
+325
+01:03:44,903 --> 01:03:58,416
+Et quatuor animalia habebant singula alas
+senas per circuitum. Et in animalibus ostendit viginti
+quatuor seniores, nam senae alae quatuor animalibus
+viginti quatuor alae sunt, etenim per circuitum throni
+vidit animalia, ubi se dixerat seniores vidisse.
+
+326
+01:03:58,416 --> 01:04:14,127
+Quomodo autem animal cum sex alis potest simile esse aquilae, quae habet duas alas, nisi quatuor animalia unum sunt? quae habent viginti quatuor alas, in quibus intelligimus viginti quatuor seniores, qui sunt Ecclesia, quam similavit aquilae, quae sunt duae alae, id est duo Testamenta, quibus
+
+327
+01:04:14,127 --> 01:04:27,962
+subvecta, sursum attollitur, ne implicita terrenis affectionibus, detardetur: aliter senas alas propter senarii numeri perfectionem positum arbitror, quia in sexta aetate, id est, adveniente plenitudine temporum, haec Apostolus peracta commemorat (Galat IV).
+
+328
+01:04:27,962 --> 01:04:38,686
+In novissimo
+enim animali conclusit omnia, quatuor enim sunt,
+sicut et evangelistae. Unumquodque animal et suam
+et trium possidet formam, sicut per Ezechielem hae
+sedes et eadem animalia describuntur.
+
+329
+01:04:38,686 --> 01:04:49,625
+Unumquodque
+quatuor formas dixit habuisse, et illas formas quas
+hic in Apocalypsi leonis, vituli, hominis, aquilae, has
+quatuor unumquodque animal habebat, ut si qui
+unum horum vidisset, quatuor vidisset.
+
+330
+01:04:49,625 --> 01:05:05,283
+Unde intelligitur singula in solidum esse, et rotas ejusdem throni ita describit, ut una rota quatuor partes mundi respiceret, quod est et veluti rota, et ejusdem facturae omnes quatuor, ut id est, et una quod quatuor, ne esset locus ubi non thronus perfectus esset, nec ab aliqua parte mundi
+
+331
+01:05:05,283 --> 01:05:09,894
+conversus secederet, inde per circuitum universum videlicet orbem possessura terrarum.
+
+332
+01:05:09,894 --> 01:05:22,388
+Erant plena oculis ante se et retro. Vel,
+sicut alia translatio dicit, intus et foris. Intus, eo
+quod dignum sit Evangelii lumen occultum. Si enim
+opertum est, inquit, Evangelium nostrum, in his qui
+pereunt est obvelatum (II Cor IV).
+
+333
+01:05:22,388 --> 01:05:30,431
+Aliter, ante et
+retro, quod ubicunque fructificans dilatetur Ecclesia,
+in lumine vultus Dei ambulat, et revelata facie
+gloriam Dei speculatur.
+
+334
+01:05:30,431 --> 01:05:42,895
+Aliter, ante et retro alas
+senas, quae viginti quatuor subsumantur, Veteris
+Testamenti libros insinuat, quos ejusdem numeri
+canonica auctoritate suscipimus, tanquam viginti
+quatuor seniores tribunalia praesidentes (II Cor III).
+
+335
+01:05:42,895 --> 01:05:52,448
+Ideo autem est Novi Testamenti praedicatio fructuosa,
+quia testimoniis Veteris fulta firmatur. Hoc tenet Ecclesia
+ante et retro, id est, et tunc sub lege, et nunc
+sub gratia.
+
+336
+01:05:52,448 --> 01:06:00,409
+Quae non habebant requiem, nocte ac die
+dicentes: Sanctus, Sanctus, Sanctus, Dominus Deus
+omnipotens, qui fuit, et est, et venturus est (Isa VI).
+
+337
+01:06:00,409 --> 01:06:16,496
+Cum Ecclesia circumquaque diffusa in singulis membris, professionibusque diversis, urbibus, regionibus, provinciis, linguis et gentibus variis, indesinenter Deum ore et opere in adversis et prosperis laudat, die ac nocte Dominum laudare non cessat, manente intellectualis creaturae perpetua in
+
+338
+01:06:16,496 --> 01:06:21,603
+coelestibus laude, super Jerusalem, ad cujus se instar informari peregrina laetatur Ecclesia.
+
+339
+01:06:21,603 --> 01:06:36,207
+Et cum dederant illa animalia
+claritatem et honorem et gratiam sedenti in throno,
+viventi in saecula saeculorum, statim cadebant in faciem
+viginti quatuor seniores in conspectu throni, et
+adorabant viventem in saecula saeculorum, mittentes coronas
+suas ante thronum.
+
+340
+01:06:36,207 --> 01:06:52,624
+Secundum praemissam intelligentiae formam, ex diversis membris universa aedificari videtur Ecclesia; nam quando animalibus personantibus laudem, id est, evangelistis praedicantibus Christi dispensationem, quae in trium temporum summa consistit, viginti quatuor seniores, id est omnes Ecclesiae, quae
+
+341
+01:06:52,624 --> 01:06:58,114
+in praepositis constant et populis, statim cadens in faciem, adorant viventem in saecula saeculorum.
+
+342
+01:06:58,114 --> 01:07:14,476
+Huic denique sensui Paulus apostolus protestatur et dicit (I Cor XIV): Si conveniat universa Ecclesia in unum, et omnes prophetent, intret autem quis infidelis vel idiota, convincitur ab omnibus, dijudicatur ab omnibus, occulta quoque cordis ejus manifesta fiunt: et tunc cadens in faciem, adorabit
+
+343
+01:07:14,476 --> 01:07:17,001
+Deum, pronuntians quod vere Deus in vobis est.
+
+344
+01:07:17,495 --> 01:07:28,207
+Mittentes coronas suas ante thronum,
+Deo videlicet assignantes quidquid virtutis,
+quidquid habeant dignitatis. Illi enim quidquid boni
+conquiritur, jure tribuetur, a quo ille qui vicerit,
+adjuvatur.
+
+345
+01:07:28,207 --> 01:07:42,867
+Cujus in Evangelio actionis figura praecessit,
+quando praecedens populus Dominum sternebant
+vestimenta sua in via, accipientesque ramos
+palmarum, procedebant obviam ei et dicebant: Benedictus
+qui venit in nomine Domini, Rex Israel
+(Matth XXI; Marc XI; Luc XIX; Joan XII).
+
+346
+01:07:42,867 --> 01:07:54,065
+Victoria
+coronarum palmarum signo aptius comparatur. Dicentes: Dignus es, Domine Deus noster, accipere
+claritatem et honorem et potestatem, quoniam tu
+creasti omnia, et ex tua potestate haec sunt constituta.
+
+347
+01:07:54,065 --> 01:08:03,695
+Vel, sicut alia editione translatum invenimus,
+quia tu creasti omnia, et propter voluntatem tuam erant,
+et creata sunt. Erant scilicet et in arte, priusquam
+formarentur in opere.
+
+348
+01:08:03,695 --> 01:08:14,135
+Creata sunt autem, ut in suis
+quoque naturis secundum praescriptos in Dei sapientia
+terminos etiam visibiliter exstitissent. Quae autem
+sequuntur, alterius libri tractanda sumantur
+exordio.
+

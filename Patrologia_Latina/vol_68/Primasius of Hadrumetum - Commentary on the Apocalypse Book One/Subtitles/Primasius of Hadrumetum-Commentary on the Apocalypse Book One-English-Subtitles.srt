@@ -1,0 +1,1931 @@
+1
+00:00:00,000 --> 00:00:05,687
+Commentary on the Revelation of Saint John
+by Primasius of Hadrumetum
+
+2
+00:00:05,687 --> 00:00:06,767
+Prologue
+
+3
+00:00:06,767 --> 00:00:19,305
+As you requested, illustrious and devout Castor, I have taken on the task of explaining the book of Revelation by the blessed John, which is shrouded in many mysteries, with the help of our Lord Jesus Christ, even though my abilities are quite limited.
+
+4
+00:00:19,305 --> 00:00:21,494
+I have not relied solely on my own findings.
+
+5
+00:00:21,494 --> 00:00:28,061
+I've also included some testimonies from Saint Augustine, even though they are few in number, which I found expounded on this topic.
+
+6
+00:00:28,061 --> 00:00:32,190
+Additionally, I have extracted certain useful insights from Tichonius the Donatist.
+
+7
+00:00:32,190 --> 00:00:38,459
+While curbing the excessive, cutting the superfluous, and refining the rough, I have balanced them with a Catholic moderation.
+
+8
+00:00:38,459 --> 00:00:43,235
+In his work, I found many things that were unnecessary, foolish, and contrary to sound doctrine.
+
+9
+00:00:43,235 --> 00:00:49,504
+He twisted certain passages according to the depravity of his heart, thinking to mock our Church with harmful interpretations.
+
+10
+00:00:49,504 --> 00:00:55,424
+It is not surprising that a heretic would do such a thing, but it is noteworthy that he could find anything to extract.
+
+11
+00:00:55,424 --> 00:01:02,340
+However, what he unjustly attempted to do, I have taken care to faithfully execute by using appropriate passages and refuting their errors.
+
+12
+00:01:02,340 --> 00:01:12,937
+Just as a precious gem found in filth should be cleaned, collected, and restored to its rightful dignity by a prudent person, so too, wherever truth shines, it must be defended for the unity of the Catholic faith.
+
+13
+00:01:12,937 --> 00:01:16,320
+Whatever truth is proclaimed rightfully belongs to this unity alone.
+
+14
+00:01:16,320 --> 00:01:24,529
+Rightly, faith gathers from the faithless what it recognizes as its own; it cannot benefit the usurpers but only the children when it is returned to the true mother.
+
+15
+00:01:24,529 --> 00:01:45,026
+Thus, Donatists should not boast about this, just as the Jews should not boast from Caiaphas's words, "It is better that one man die for the people" John eleven fifty. Nor should our people be offended. If any insights are found to be beneficial to ecclesiastical purposes, they should be applied to our teachings, not paying attention to the person speaking, but to the quality of the speech. Thus, Moses Exodus
+
+16
+00:01:45,623 --> 00:01:53,139
+Educated in all the wisdom of the Egyptians, Moses, the meekest of men, listened to his unrefined father-in-law Jethro after receiving the divine message.
+
+17
+00:01:53,139 --> 00:02:00,216
+Although Moses was skilled and Jethro was not, Moses, the teacher of a vast multitude, devotedly heeded his non-Israelite father-in-law's advice.
+
+18
+00:02:00,216 --> 00:02:03,242
+By following his counsel, he soon found the predicted benefit.
+
+19
+00:02:03,242 --> 00:02:07,098
+The burdens of governing the people were shared among many, and thus lightened.
+
+20
+00:02:07,098 --> 00:02:15,346
+Similarly, what pagan authors rightly stated and combined with apostolic teachings resulted in our betterment by a superior command, though pagans cannot boast about it.
+
+21
+00:02:15,346 --> 00:02:17,200
+This work is extended into five books.
+
+22
+00:02:17,200 --> 00:02:22,569
+The benefit that their reading will bring to scholars will be better proven by experience than by our promise.
+
+23
+00:02:22,569 --> 00:02:26,815
+However, due to the diversity of opinions, I expect to be criticized in different ways.
+
+24
+00:02:26,815 --> 00:02:32,915
+Some may complain about the length of this work, while others, considering the depth of the book, will argue it is too brief.
+
+25
+00:02:32,915 --> 00:02:43,262
+To the first group, I would say it is better to admit to brevity, as I could not fully penetrate the hidden fullness of divine mysteries, nor was I able to convey those that could be understood in suitable words.
+
+26
+00:02:43,262 --> 00:02:53,755
+To the second group, I would hint with this speech of satisfaction that I withheld nothing from my masters and fellow servants out of malice, but would rather ask for forgiveness for my ignorance due to its brevity.
+
+27
+00:02:53,755 --> 00:03:16,791
+If I did not believe from experience, I would have learned from the teachings of Saint Jerome, who, speaking of this book, says:
+"The Revelation of John has as many mysteries as words. I said little, and all praise is less than the merit of the volume."
+In these words, multiple understandings lie hidden. Through their intercession, a humble confession earns pardon, and the dignity of the exalted book becomes known to believers, even if not yet to those who understand.
+
+28
+00:03:17,327 --> 00:03:25,915
+While in other texts, figurative narratives are rarely inserted into literal accounts, here they are frequently woven in, or a denser figure gradually emerges from another.
+
+29
+00:03:25,915 --> 00:03:31,657
+Sometimes, the same subject is presented with such varied outlines that it seems like a different topic altogether.
+
+30
+00:03:31,657 --> 00:03:36,799
+This can be seen at the beginning of Ezekiel and in some visions of Daniel, but it is more common here.
+
+31
+00:03:36,799 --> 00:03:40,794
+For this reason, I know that I, being weak, need more support from your prayers.
+
+32
+00:03:40,943 --> 00:03:42,287
+Book One.
+
+33
+00:03:42,287 --> 00:03:48,431
+With the Lord's help, we need to interpret the title, specify the location, narrate the speech, and introduce the person.
+
+34
+00:03:48,431 --> 00:03:51,732
+This way, the content can be identified by name, place, and time.
+
+35
+00:03:51,732 --> 00:03:59,602
+Through this process, the dignity of merits becomes clear, and the person stands out in the assembly, to whom the assigned duty is particularly attributed.
+
+36
+00:03:59,602 --> 00:05:08,199
+Each book has a different title, and this one is fittingly called "Apocalypse." Although Hebrew, he expressed the content in Greek, as "apokalypsis" means "revelation." To whom would the Lord Jesus Christ reveal such great things if not to the one He loved above the other disciples? This one, while still alive, was blessed to recline on His chest and draw the spiritual secrets of truth from the very source of life. With this sign of love, it's clear that John was worthy of such a revelation.
+Indeed, the greatness of the revelation was first highlighted by the greatness of the love. John saw these things when he was exiled to the island of Patmos by Caesar Domitian for Christ's sake, confined and sentenced to labor in the mines. The time and place were fitting so that where and when he was thought to be bound by human custody, he transcended human limits with his mind, deserving to see divine things with a free gaze. Although denied certain earthly spaces, he was granted to penetrate heavenly secrets.
+Thus, the faith of Christ claims heaven even on earth, using temporal evils well and enjoying eternal goods. The universal Church's general benefits are revealed to one person but are beneficial for all. What he saw alone, he transmitted in writings to the seven churches, showing that he worked not for himself alone but for everyone.
+
+37
+00:05:08,351 --> 00:05:10,994
+Later, after Domitian's death, he wrote the Gospel.
+
+38
+00:05:10,994 --> 00:05:18,093
+The congregation of priests, at the request of many, freed him from exile to prevent the ignorant from being deceived by false preachers.
+
+39
+00:05:18,093 --> 00:05:26,488
+Valentinus, Cerinthus, and Ebion had already begun to mislead many with their falsehoods, making it necessary to counteract them with the truth of the new Gospel.
+
+40
+00:05:26,591 --> 00:05:27,935
+Chapter One
+
+41
+00:05:27,935 --> 00:05:31,454
+The Revelation of Jesus Christ, which God gave him to show his servants.
+
+42
+00:05:31,454 --> 00:05:38,441
+This revelation was given by God the Father to Jesus Christ, even though all works of the Father, the Son, and the Holy Spirit are inseparable.
+
+43
+00:05:38,441 --> 00:05:44,060
+Even in the form of a servant, Jesus receives from the Father and grants with the Father what must soon take place.
+
+44
+00:05:44,060 --> 00:05:47,481
+Everything that happens in time has a beginning, a course, and an end.
+
+45
+00:05:47,481 --> 00:05:55,055
+After the Church was founded by the preaching of the apostles, it was necessary to reveal how it would spread widely and by what end it would be contained.
+
+46
+00:05:55,055 --> 00:06:06,391
+This knowledge ensured that the preachers of truth would confidently approach the few against the many, the unarmed against the armed, the humble against the proud, the weak against the noble, yet spiritually alive against the dead.
+
+47
+00:06:06,391 --> 00:06:53,202
+Before God, "soon" is said, no matter how much something is delayed in this life.
+As the prophet said in Psalm eighty-nine, "For a thousand years in your sight are like yesterday when it is past."
+He signified these things to be announced through his angel to his servant John, who preached the word of God and the testimony of Jesus Christ, everything he saw.
+By saying "he signified," he indicated something of the future and mysteries.
+He did not want us to be content with the surface of the letter, but made us attentive to delve deeper into the mysteries through the word of signification.
+When he says "to his servant John," he intended for the whole Church to be revealed in one, which he founded in unity.
+Therefore, he says "to show his servants," not just to one among many, but through one to all.
+Just as Peter alone received the keys to the kingdom of heaven, as mentioned in Matthew sixteen, yet the whole Church has merited to use this power.
+
+48
+00:06:53,495 --> 00:06:57,845
+Rightly indeed, he added that it was shown to the disciple by Christ through his angel.
+
+49
+00:06:57,845 --> 00:07:06,043
+Christ has always appeared to mortals clearly through an assumed creature, not through the essence of divinity, both before the Incarnation and after the Ascension.
+
+50
+00:07:06,043 --> 00:07:10,993
+Therefore, the one who knew him as a teacher in the assumed man bore witness to the invisible word.
+
+51
+00:07:10,993 --> 00:07:18,991
+To prevent anyone from thinking the word should be felt only, he again added the name of Jesus Christ, which is known to pertain to the form of the assumed man.
+
+52
+00:07:18,991 --> 00:07:24,290
+Blessed is the one who reads and those who hear the words of this prophecy and keep what is written in it.
+
+53
+00:07:24,290 --> 00:08:39,278
+By saying, "the one who reads and those who hear," he demonstrated the role of teachers and learners. This was to remove the laziness in reading and promise blessedness to those who keep it, to whom also apply the following words, "and keep what is written in it," because it is fitting for both to keep it, and it applies to both.
+For not the hearers of the law are just before God, but the doers of the law will be justified. Romans chapter 2.
+Because the time is now near for each thing to be fulfilled, as the planted Churches now succeed in the growth of propagation, about which he is going to speak, he thus prefaces: John to the seven Churches which are in Asia. That is, to one sevenfold Church.
+The number seven often represents completeness because it is made up of the first odd and even numbers, that is, three and four, as if the whole universe is formed from diversity. The diversity of soul and body itself encompasses the unity of this number. For three pertain to the soul, and four to the body.
+It is said in Deuteronomy chapter 6 that God is to be loved with all your heart, with all your soul, and with all your mind. The body has four qualities: hot and cold, dry and wet. Therefore, it is also sung in Psalm chapter 119: "Seven times a day I praise you." Elsewhere, in Psalm chapter 34, it says, "I will bless the Lord at all times; his praise shall continually be in my mouth," and "Wisdom has built her house; she has hewn out her seven pillars." Proverbs chapter 9, verse 1.
+
+54
+00:08:39,528 --> 00:08:43,952
+The Church is foretold to possess the world, which Christ received as His inheritance.
+
+55
+00:08:43,952 --> 00:08:49,869
+He says, "I will give you the nations as your inheritance, and the ends of the earth as your possession" (Psalm 2).
+
+56
+00:08:49,869 --> 00:09:42,811
+This is why it uniquely holds the name "Catholic," because it alone possesses the dignity of the whole world as an inheritance.
+Now it hears John and, having been redeemed, hopes for eternal salvation through his greeting.
+"Grace to you and peace from God, who is, and who was, and who is to come, the Almighty."
+According to the Apostle (Second Corinthians 5), "God was in Christ reconciling the world to himself," or as He Himself testifies (John 8), "He who sent me is with me," due to the unity of one and the same nature, this passage should properly be attributed to the person of the Son.
+He is, because He remains the same; He was, because He created everything with the Father, not taking His beginning from the Virgin; He is to come to judge, and from the seven spirits who are before the throne of God.
+Because of the sevenfold operation of the Holy Spirit, it is called the sevenfold spiritual spirit (Isaiah 11), that is, of wisdom and understanding, counsel and might, knowledge and piety, and the fear of the Lord.
+
+57
+00:09:42,811 --> 00:09:52,432
+The gifts of one Spirit are commended when peace and grace are wished for the devout from the seven spirits, and from Jesus Christ, who is the faithful witness, the firstborn of the dead.
+
+58
+00:09:52,432 --> 00:10:25,618
+In the man assumed, He bore witness to the Father, when He says while preaching (John 17): "I have made your name known to them, and will make it known;" showing that it was long denied to the Jews, He says (Exodus 6): "And my name Adonai I did not make known to them."
+By believing in the Son, the knowledge of the Father is revealed: for He would not be called the Son unless He had a Father; nor the Father, unless He had a Son.
+Therefore, one is known by the preaching of the other, because the Father is truly approved in the Son, and the Son in the Father.
+For he who does not honor the Son does not honor the Father who sent Him (John 5).
+
+59
+00:10:25,824 --> 00:12:17,232
+Hence also, the same John says in his Epistle:
+"Whoever believes in the Son of God has the testimony of God in himself; whoever does not believe in the Son makes Him a liar, because he does not believe in the testimony that God has given about His Son"
+1 John 5.
+And from Jesus Christ, who is the faithful witness, who also freed us from sin by His own blood, who is proclaimed as the firstborn from the dead by right
+Colossians 1, and made us a kingdom and priests to God and His Father, as the apostle Peter also says:
+"A holy nation, a royal priesthood, a chosen people"
+1 Peter 2.
+Behold, He is coming with the clouds, and every eye will see Him.
+For He who is to judge first came hidden; He will come to judge openly, and will be seen by the unbelievers in the flesh in which He chose to suffer, not in divinity, which remained impassible and invisible.
+Therefore, he added, "and those who pierced Him."
+And every land will see Him.
+All the earthly people or all the wicked in general, especially the Jews, who thought He was the least worthy of being killed, when they see Him as He truly is, will regret with late repentance, and will mourn as He arrives.
+Thus, Amen, which he knows most certainly will happen by God's revelation, by adding Amen, he affirms without doubt that it will come.
+"I am Alpha and Omega," says the Lord God, "who is, and who was, and who is to come, the Almighty,"
+through whom times were made, and He is proclaimed as having lacked no time.
+Hence also, He is taught as the Almighty.
+I, John, your brother and companion in the tribulation, and kingdom and patience in Christ Jesus, was on the island called Patmos, because of the word of God and the testimony of Jesus Christ.
+I was in the spirit on the Lord's day.
+To confirm what we have promised, he indicated the place, time, and reason here.
+So that it would not be thought he was deceived by a carnal illusion, he testifies that he was in the spirit and saw this.
+But as for those whose conversation is in heaven
+Philippians3 and who do not live for themselves, but for Him who died for all and rose again
+2 Corinthians5, they are always believed to carry out the Lord's day.
+
+60
+00:12:17,232 --> 00:13:18,707
+And I heard behind me a loud voice like a trumpet saying to me: "What you see, write in a book, and send it to the seven churches: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea."
+Having received this task, I think it is appropriate, if we can't manage everything, to at least investigate the names of the seven churches and understand what they mean in our language. When their titles provide us with certain clues, we can match the subsequent divine messages to their respective persons or the mentioned churches.
+First, we start with Asia, where these seven churches are listed as if in the world. Asia is interpreted as exaltation. The universal Church, situated in the exaltation of this world, is admonished to reject that exaltation and approach Christ's gentle yoke humbly, or to progress further in the greater practice of piety if already begun.
+Thus, the proud Saul is rebuked to become humble when the Lord rebuked Saul and made him Paul, meaning small, so that he who recently breathed threats like a ravenous wolf against Christ's disciples would submit his neck to Ananias (which means lamb), and as a future teacher, would humbly undergo the discipleship of preaching the faith.
+
+61
+00:13:18,707 --> 00:13:21,127
+Ephesus is interpreted as my will or my counsel.
+
+62
+00:13:21,127 --> 00:13:25,616
+We often know that will is put for charity, and counsel for the correction of negligence.
+
+63
+00:13:25,616 --> 00:13:34,038
+This is evident because both the things pleasing to will, which soothe out of charity, are recounted, and those needing correction are sternly bound by better counsel.
+
+64
+00:13:34,038 --> 00:13:38,123
+Pergamum is interpreted as dividing their horns or cutting the valleys in speech.
+
+65
+00:13:38,123 --> 00:13:49,268
+Since two types of people were shown in its angel, some holding the faith, and others holding the doctrine of the Nicolaitans, it appropriately divides between the horns of the just and the sinners (as the name suggests).
+
+66
+00:13:49,268 --> 00:13:55,017
+As we read in Psalm 75: "The horns of the wicked will be cut off, and the horns of the righteous will be exalted."
+
+67
+00:13:55,320 --> 00:14:01,373
+Humility had to be recognized in the valley of confession, marked by the fall of those linked to the doctrines of Satan.
+
+68
+00:14:01,373 --> 00:14:07,174
+It was fitting for him to repent of mere neglect, but for them to be reproached and pierced by their grievous fall.
+
+69
+00:14:07,174 --> 00:15:21,225
+Sardis means "prince of beauty." In that Church, he mentions the dignity of the chosen ones, saying: "They have not soiled their clothes, they will walk with me in white."
+Philadelphia means "saving one who clings to the Lord," so such a message is directed to its angel, so that he may know he is loved and protected from the hour of temptation.
+Laodicea means "tribe beloved of the Lord," or "those who were in vomit." There he shows what is given by the gift of divine love: what is rightly attributed to the vice of human pride by those who boasted of being rich.
+Finally, the beloved Lord says in Revelation chapter 3: "I rebuke and discipline those whom I love," but he also reproaches for lukewarmness, so that, with the foulness of transgression repelled, he may persevere in being beloved, to whom he also promises refined gold and white garments if he repents. But to those with unrepentant hearts, they were in vomit, to whom he also says: "I will begin to spit you out of my mouth," so that the name, speech, and actions may agree.
+And I turned to see the voice that was speaking to me. I saw seven golden lampstands, and in the midst of the lampstands, one like the Son of Man. That is, Christ, who often wished to be called by this name. This Christ is clothed with the seven lampstands. Whether the seven lampstands or the seven stars, it is the Church. It is fitting that he is in the midst. For all (says Psalm 75) who are around him will bring gifts.
+
+70
+00:15:21,225 --> 00:15:41,200
+Or as Ezekiel says, "So that the nations may know that I am in the midst of Israel."
+But because of figurative expressions, he divides the genre into species tropically so that even in some species, the genre is only expressed. For in certain places, due to subtle details and the height of divine eloquence, the genre cannot be clearly demonstrated, which can be more easily seen than expressed.
+
+71
+00:15:41,352 --> 00:15:58,521
+However, he divides the type into parts in this way: just as the Ark of Noah is the Church, and the eight souls within the ark are the Church, so both the man Judah and those who inhabit Jerusalem, and the judges between the house and his vineyard, since Jerusalem and its inhabitants, and the vineyard of the Lord, are the Church.
+
+72
+00:15:58,521 --> 00:16:03,501
+For he concluded, saying: For the vineyard of the Lord of hosts is the house of Israel Isaiah 5.
+
+73
+00:16:03,501 --> 00:16:10,815
+And in the great house, which is the Church, there are golden and silver vessels Second Timothy 2, with these vessels being the house of God.
+
+74
+00:16:10,815 --> 00:16:19,062
+And again, Come out from among them, you who bear the vessels of the Lord, since those who do so are the vessels; and, Who will dwell in the tabernacle of God?
+
+75
+00:16:19,062 --> 00:16:26,480
+He who is innocent in hands and pure in heart Psalm 14, since there is no other tabernacle of God on earth than the innocent and pure in heart.
+
+76
+00:16:26,480 --> 00:16:31,096
+So also now he has distinguished the Church among the seven lampstands in the Son of Man.
+
+77
+00:16:31,096 --> 00:16:36,543
+For there will be two, says the Apostle Ephesians 5, in one flesh: but I say in Christ and in the Church.
+
+78
+00:16:36,543 --> 00:16:40,226
+And as mentioned earlier, in some cases, the type is part of the whole.
+
+79
+00:16:40,226 --> 00:16:54,179
+He similarly refers to the Son of Man, who, after conquering death, ascended into heaven, uniting the body of the Church, which he says deserves to sit in heavenly places, no longer in reality, but still in hope, like the Son of Man walking among the golden lampstands.
+
+80
+00:16:54,179 --> 00:16:59,833
+He mentions walking among the Churches, just as it says in Solomon: I will walk in the path of the righteous.
+
+81
+00:16:59,833 --> 00:17:06,421
+Whose antiquity and immortality, the majesty of origin is shown in the head's radiance, clothed, he says, with a priestly robe.
+
+82
+00:17:06,421 --> 00:17:09,585
+For according to Zechariah, the priestly robe is the garment.
+
+83
+00:17:09,585 --> 00:17:18,403
+Indeed, by the singular sacrifice of his flesh, Christ performed the priesthood when offering himself on the cross for us to the Father, allowing himself to be crucified.
+
+84
+00:17:18,403 --> 00:17:21,256
+And he was girded above the breasts with a golden belt.
+
+85
+00:17:21,256 --> 00:17:31,371
+He refers to the breasts as the two testaments, as we read in the Song of Songs: Your two breasts are like two twin fawns that feed among the lilies, and your breasts are like clusters of grapes.
+
+86
+00:17:31,371 --> 00:17:40,189
+However, in this type, the species can be seen and understood in the testaments of the Churches, so that as testaments from what they accomplish, they take on comparison.
+
+87
+00:17:40,968 --> 00:17:45,334
+The Church is nourished through the testaments, rather than the testaments being fed.
+
+88
+00:17:45,334 --> 00:17:49,855
+The Scriptures contain various tropes where the creator is named after what they create.
+
+89
+00:17:49,855 --> 00:17:57,561
+In this context, the testaments are referred to as breasts, and the golden belt represents the chorus of saints who cherish and uphold the testaments.
+
+90
+00:17:57,561 --> 00:18:06,038
+This also symbolizes Christ, whom they praise, and the love that binds them together, maintaining, as the Apostle says, the unity of the Spirit in the bond of peace.
+
+91
+00:18:06,038 --> 00:18:08,453
+His head and hair were white like wool or snow.
+
+92
+00:18:08,453 --> 00:18:16,518
+This whiteness, which shines with the virtues of righteousness, symbolizes the multitude of the pure, who have been cleansed by grace to be whiter than snow.
+
+93
+00:18:16,518 --> 00:18:23,197
+The wool signifies the sheep on His right hand, and the snow represents the innumerable crowd of the purified destined for heaven.
+
+94
+00:18:23,197 --> 00:18:30,338
+These pure souls are like Jerusalem, descending from heaven each day, inspiring those who are still on their journey to strive towards her.
+
+95
+00:18:30,338 --> 00:18:34,294
+Alternatively, the wool can be seen as representing the holy, unstained robe.
+
+96
+00:18:34,294 --> 00:18:36,092
+His eyes were like a flame of fire.
+
+97
+00:18:36,092 --> 00:18:41,948
+Sometimes, the eyes of the Church are described as the commandments of God, and other times as the spiritual ones.
+
+98
+00:18:41,948 --> 00:18:49,706
+As Solomon says in Proverbs, "For the commandment is a lamp, and the law a light." The Lord also says, "You are the light of the world" (Matthew 5:14).
+
+99
+00:18:49,706 --> 00:18:58,183
+The commandments themselves are referred to as fire, as in, "Your word is very pure" (Psalm 119:140), and of Joseph, "The word of the LORD tried him" (Psalm 105:19).
+
+100
+00:18:58,183 --> 00:19:03,885
+This fire of the commandments provides light to the faithful and serves as a purifying fire to the unbelievers.
+
+101
+00:19:03,885 --> 00:19:06,865
+A fire goes before Him, burning up His enemies all around.
+
+102
+00:19:06,865 --> 00:19:10,410
+His feet were like bronze from Lebanon, as if from a furnace of fire.
+
+103
+00:19:10,410 --> 00:19:13,646
+The feet of the Church in the last times are likened to bronze.
+
+104
+00:19:13,646 --> 00:19:26,027
+The feet, being the last part of the body, signify that the Church will be tested by severe trials in the end times, much like a stone cut out of a mountain striking a statue on its feet, thereby crushing the entire body of worldly kingdoms.
+
+105
+00:19:26,027 --> 00:19:29,675
+This emphasis on the feet indicates the trials during the final period.
+
+106
+00:19:30,600 --> 00:19:36,096
+The bronze was crafted from metal, created through intense fire and treatment to produce a golden color.
+
+107
+00:19:36,096 --> 00:19:38,422
+It's also called Libani, symbolizing purity.
+
+108
+00:19:38,422 --> 00:19:45,611
+In Judea, Mount Lebanon is believed to be where Christ's body was tested by persecutions and where the Lord is thought to have suffered.
+
+109
+00:19:45,611 --> 00:19:49,733
+His voice is like the sound of many waters, representing the Church preaching.
+
+110
+00:19:49,733 --> 00:19:52,535
+As it is said: Cry out, do not hold back (Isaiah 58).
+
+111
+00:19:52,535 --> 00:19:58,349
+Water symbolizes many people, and also the gift of baptism, which was commanded by the apostles for salvation.
+
+112
+00:19:58,349 --> 00:20:07,757
+This psalm says: The Lord sits enthroned over the flood (Psalm 29); and, The voice of the Lord is over the waters, the God of glory thunders (Psalm 29); among other affirmations.
+
+113
+00:20:07,757 --> 00:20:09,766
+He held seven stars in his right hand.
+
+114
+00:20:09,766 --> 00:20:21,711
+In the right hand of Christ is the spiritual Church; thus, the queen stood at his right hand in gold of Ophir, clothed in varied colors (Psalm 45), to whom he says: Come, blessed of my Father, inherit the kingdom (Matthew 25).
+
+115
+00:20:21,711 --> 00:20:30,326
+These seven churches are the seven stars, which he names, not because they alone are churches or leaders, but because what he says to one, he says to all in unity.
+
+116
+00:20:30,326 --> 00:20:32,494
+The number seven represents completeness.
+
+117
+00:20:32,494 --> 00:20:34,819
+From his mouth came a sharp two-edged sword.
+
+118
+00:20:34,819 --> 00:20:40,263
+It is sharp on both sides because a sword arms the soldier, kills the enemy, and punishes the deserter.
+
+119
+00:20:40,263 --> 00:20:45,179
+Hence, the Apostle says (Ephesians 6): And the sword of the Spirit, which is the word of God.
+
+120
+00:20:45,179 --> 00:20:55,539
+For every scribe trained for the kingdom of heaven, says the Lord (Matthew 13), is like a householder who brings out of his treasure what is new and what is old, meaning the New and Old Testament.
+
+121
+00:20:55,539 --> 00:21:05,105
+From this double testament, like a sharp two-edged sword, the Church is now instructed, so that, having been assigned to eternal goods, it may know how to use the present ones well.
+
+122
+00:21:05,105 --> 00:21:11,818
+Armed with this sword, the Apostle says (First Corinthians 6): By the weapons of righteousness for the right hand and the left.
+
+123
+00:21:11,818 --> 00:21:14,461
+His face was shining like the sun in its strength.
+
+124
+00:21:15,360 --> 00:21:20,407
+Its brightness manifests the presence in the flesh, where He spoke to people face to face Exodus 33.
+
+125
+00:21:20,407 --> 00:21:28,938
+The comparison to the sun is used because of its suitable meaning: due to its rising, setting, and rising again, symbolizing that He was born, suffered, and resurrected.
+
+126
+00:21:28,938 --> 00:21:37,267
+The Lord also promises a likeness of the sun's glory to His future Church, saying: Then the righteous will shine like the sun in the kingdom of my Father Matthew 13.
+
+127
+00:21:37,267 --> 00:21:48,725
+By this comparison, the brightness of Christ's head is understood to be even greater, as He is the brightness of the righteous, which He hid from His disciples after the resurrection so they could neither recognize nor bear it.
+
+128
+00:21:48,725 --> 00:21:54,530
+This should not be called blindness but rather a certain invisibility, which in Greek is more aptly called aorasia.
+
+129
+00:21:54,530 --> 00:22:01,950
+Through this, neither the army recognized Elisha Second Kings 6, nor did the raging crowd recognize the door, even though they saw everything else.
+
+130
+00:22:01,950 --> 00:22:05,231
+They could not bear the sight of this brightness on the mountain.
+
+131
+00:22:05,231 --> 00:22:07,957
+And when I saw Him, I fell at His feet as though dead.
+
+132
+00:22:07,957 --> 00:22:10,834
+John, who saw these things, represents the entire Church.
+
+133
+00:22:10,834 --> 00:22:16,589
+But also each of the apostles or prophets, who say: For you have died, and your life is hidden with Christ in God.
+
+134
+00:22:16,589 --> 00:22:20,223
+Therefore, the Church is as if dead to the world before the Lord Christ.
+
+135
+00:22:20,223 --> 00:22:21,990
+And He placed His right hand on me.
+
+136
+00:22:21,990 --> 00:22:30,117
+Certainly, because of the priesthood, by which we know the Church's leaders are ordained, or because every body is of one priest, saying: Do not be afraid, John.
+
+137
+00:22:30,117 --> 00:22:31,530
+I am the First and the Last.
+
+138
+00:22:31,530 --> 00:22:40,616
+The First, because all things were made through Him John 1; the Last, because all things are restored in Him, and alive because I was dead, and behold, I am alive forever and ever.
+
+139
+00:22:40,616 --> 00:22:49,954
+All the sum and hope of consolation is shown when it is said to the one lying dead, Do not be afraid, just as in the Gospel, Rejoice, He says John 16, because I have overcome the world.
+
+140
+00:22:49,954 --> 00:22:51,166
+I am alive who was dead.
+
+141
+00:22:51,166 --> 00:22:57,677
+For the head of the body truly promises a similar hope of resurrection, whose precedence is the hope of the struggle of the good.
+
+142
+00:22:58,536 --> 00:23:04,483
+And I have the keys of death and of hell, that is, of the devil and his entire body, marking him by the name of death.
+
+143
+00:23:04,483 --> 00:23:06,096
+But of hell, in which he reigns.
+
+144
+00:23:06,096 --> 00:23:09,724
+They all do not escape the power of divine judgment as if it were a key.
+
+145
+00:23:09,724 --> 00:23:15,420
+And to the Church: In me, you have, he says, the keys of death which you rightfully possess by receiving from me.
+
+146
+00:23:15,420 --> 00:23:23,736
+You who are like the dead, because although the Church still wanders, the body is indeed dead because of sin, but the spirit lives because of justification Romans 8.
+
+147
+00:23:23,736 --> 00:23:33,463
+However, it has received the power of binding and loosing in its God; whether it manages everything with probable judgment, or when no obstacle of disbelief impedes faith in those receiving it.
+
+148
+00:23:33,463 --> 00:23:40,065
+To whom, he says John 20, if you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.
+
+149
+00:23:40,065 --> 00:23:50,700
+Write therefore the things you have seen, and the things that are, and the things which will take place after this: the mystery of the seven stars which you saw in my right hand, and the seven golden lampstands.
+
+150
+00:23:50,700 --> 00:23:53,371
+The seven stars are the angels of the seven churches.
+
+151
+00:23:53,371 --> 00:23:55,488
+And the seven lampstands are the churches.
+
+152
+00:23:55,488 --> 00:24:02,191
+He said that the stars are the angels of the churches and the lampstands are the churches: these things must be carefully considered.
+
+153
+00:24:02,191 --> 00:24:09,599
+For if there is one sevenfold Church, as it is described in Song of Solomon 6, My dove is one, my perfect one is one, the angels will not be seven.
+
+154
+00:24:09,599 --> 00:24:14,639
+For if there are seven, only those which he specifically named have angels, while the others do not.
+
+155
+00:24:14,639 --> 00:24:28,399
+Nor should it be thought that in this place angels are assigned to individual men, which some improperly believe: but rather the angels of the churches here are to be understood as the leaders of the people, who preside over each church, announcing the word of life to all.
+
+156
+00:24:28,399 --> 00:24:31,574
+For the name angel is also said to be interpreted as messenger.
+
+157
+00:24:32,279 --> 00:24:33,624
+Chapter Two
+
+158
+00:24:33,624 --> 00:26:31,127
+And to the angel of the church in Ephesus, write:
+He uses the dative case for "angel," not the genitive, as if saying: Write to the angel of this church, so it does not seem as though he is speaking separately of the angel and the church, but rather making one entity of the angel and the church.
+Although the angel is placed in charge by the mystery of the sacrament, they are still united as one.
+If this rule were followed from the start, John would not have written to seven angels, but to seven churches, saying:
+John, to the seven churches that are in Asia, and the Lord whom he saw, said, Write in a book what you have seen, and send it to the seven churches.
+Later, however, he commands to write to the angels, to show that they are one.
+Even if he preaches individually to each church, he is shown to address the entire universal church in general.
+For he does not say, What the spirit says to the church, but to the churches.
+Therefore, signifying the church by the angel, he shows two parts in it, while he both praises and reproves.
+It is manifested in the following that he does not reprove the same one he praises, just as the Lord in the Gospel, in Luke chapter 12 and Matthew chapter 24, calls the whole body of overseers one servant, both blessed and wicked, whom the Lord himself will divide when he comes.
+And not only calls him a servant, but says, he will put his part with the hypocrites.
+Therefore, beginning with internal conflicts, and showing the different works of the sevenfold church in the present and future, he did not say: Write the things that are; but, What must happen, predicting that the bad will be mixed with the good in the church until the end of the world.
+This undoubtedly should be embraced for the sake of the good, but not abandoned because of the bad.
+To the angel of the church in Ephesus, write:
+These things says he who holds the seven stars in his right hand.
+The same one who holds you in his hand, and rules and contains you with his power, who walks in the midst of the seven golden lampstands.
+That is, in the midst of you.
+I know your works and your labor and your endurance, and that you cannot bear evil people, and you have tested those who say they are apostles and are not, and found them to be liars.
+And you have endured, and have patience, and for my name's sake have labored and have not fainted.
+
+159
+00:26:31,127 --> 00:28:16,152
+"You tested them," he said.
+"They are not tested unless they are inside. For those who are outside, it is clear they are outside without any testing. There's no need to test them. Those inside should not be outside, as they are recognized as schismatics not only by their actions but also by their place of residence."
+It's not commendable that he said he couldn't bear the wicked, but rather an indication of weakness.
+However, it is commendable that he said: 'You cannot, and you endured weakness for my name's sake,' distinguishing it from patience. He did not succumb to human deficiency but endured with the strength of patience for God's name what he couldn't bear on his own.
+He is also noted to not be able to bear the wicked so that he does not imitate those he knows; he tolerated them to not be alienated from the bond of unity.
+One is judged as reprobate if they forsake the good hidden within because of the obvious wickedness.
+The angel rebukes a part, saying: 'But I have this against you, that you have abandoned your first love.'
+Let it not be that he reproaches whom he previously praised, but by retaining the mentioned rule, he teaches that the Church, while traveling, has the worst mixed with the best.
+Therefore, one abandons the love they began with; another is said to maintain patience toward the wicked for God's name.
+To one it is said, 'You have patience and have not grown weary,' to another, 'Remember from where you have fallen, repent, and do the first works. But if not, I will come to you quickly and move your lampstand from its place unless you repent.'
+He says he will move the lampstand of the one he invites to repentance.
+What the angel is referring to is the lampstand, which he says he will not take away but move from its place. This signifies that although he is not cut off from the Church until separated by the winnowing fan of the final judgment, he has lost his own salvation and all the lampstand's light.
+Even if honored with gifts, he is recognized as dead to himself. For what lives in him is alien.
+He again speaks well to the part, 'But you have this in your favor: You hate the deeds of the Nicolaitans, which I also hate.'
+
+160
+00:28:16,152 --> 00:28:19,602
+Idolatry and fornication are what he refers to, as he later explains.
+
+161
+00:28:19,602 --> 00:28:24,853
+Teaching all the Churches, he says: Whoever has ears, let them hear what the Spirit says to the Churches.
+
+162
+00:28:24,853 --> 00:28:32,104
+To the one who overcomes, I will give the right to eat from the tree of life, which is the fruit of the cross, located in the paradise of my God.
+
+163
+00:28:32,104 --> 00:28:40,606
+This paradise can also be understood as the Church, for all things were symbolic, and Adam was a foreshadowing of the future, as the Apostle teaches in Romans chapter 13.
+
+164
+00:28:40,606 --> 00:28:45,057
+The true tree of life is the wisdom of God, the Lord Jesus Christ, who hung on the cross.
+
+165
+00:28:45,057 --> 00:28:55,009
+In the Church and in the spiritual paradise, he provides vital nourishment and heavenly bread to the faithful as a sacrament, as we read in Proverbs chapter 3: Wisdom is life to those who embrace it.
+
+166
+00:28:55,009 --> 00:29:03,860
+To the angel of the Church in Smyrna write: These are the words of the first and the last, who was dead and came to life: I know your tribulations and poverty, but you are rich.
+
+167
+00:29:03,860 --> 00:29:12,512
+He speaks to every Church that is spiritually poor yet possesses everything, hence the Apostle in Second Corinthians chapter 6: As having nothing, yet possessing everything.
+
+168
+00:29:12,512 --> 00:29:17,413
+And you are blasphemed by those who say they are Jews, but are not; they are a synagogue of Satan.
+
+169
+00:29:17,413 --> 00:29:22,914
+This shows that he does not speak to a specific Church only, because Jews were not blaspheming only in Smyrna.
+
+170
+00:29:22,914 --> 00:29:28,515
+The name of the Jews can be understood in two ways: either those who are openly Jews or false Christians within.
+
+171
+00:29:28,515 --> 00:29:35,566
+Hence the Apostle in Romans chapter 2: He is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit, not the letter.
+
+172
+00:29:35,566 --> 00:29:42,117
+Likewise, in Philippians chapter 3: For we are the circumcision, who worship God in the spirit, not having confidence in the flesh.
+
+173
+00:29:42,117 --> 00:29:51,419
+We should not abandon them, even when they are called a synagogue of Satan, as we know from John chapter 13, where the Lord endured Judas until the end, giving us an example of patience.
+
+174
+00:29:51,419 --> 00:29:54,120
+Do not fear any of the things you are about to suffer.
+
+175
+00:29:54,120 --> 00:29:58,270
+He surely warns the entire Church not to fear anything from the devil's whole body.
+
+176
+00:29:58,270 --> 00:30:04,071
+Behold, the devil is about to throw some of you into prison to test you, and you will have tribulation for ten days.
+
+177
+00:30:04,872 --> 00:30:09,944
+The statements apply to the universal Church, against which the devil always wages relentless enmity.
+
+178
+00:30:09,944 --> 00:30:21,345
+Therefore, in ten days, the course of the present life is signified, because of the Decalogue, in which the summary of the law briefly consists: here indeed are the necessary divine commandments, where self-restraint is needed.
+
+179
+00:30:21,345 --> 00:30:46,306
+Hence the divine command in Matthew Five: "Agree with your adversary, that is, the law, while you are on the way in this world," meaning all the time when, against the various temptations of desires, one struggles instructed by the law.
+By God's grace, with the five carnal senses subdued, which are doubled to make ten because of their dual nature, victory is achieved.
+Be faithful until death, and I will give you the crown of life. He who endures to the end will be saved (Matthew Twenty-Four).
+
+180
+00:30:46,306 --> 00:30:52,433
+He who has ears, let him hear what the Spirit says to the churches: He who overcomes will not be hurt by the second death.
+
+181
+00:30:52,433 --> 00:30:57,004
+The eating of the forbidden tree (Genesis Two and Three) procured this for the descendants.
+
+182
+00:30:57,004 --> 00:31:32,261
+But Christ, from the sanctuary of His side, with water and blood flowing out, watering the wood of the cross, made the first fruits of salvation sprout from there where He knew the original sin had arisen, saying: "Rejoice, because I have overcome the world."
+Therefore, if anyone overcomes, they can overcome in Him.
+And to the angel of the Church in Pergamum write: These things says He who has the sharp sword with two edges.
+Enough has been said about the double-edged sword.
+I know where you dwell, where Satan's throne is.
+He says this to every Church, because everywhere there is that tempter, to whom it is said: "It will watch your head, and you will lie in wait for its heel" (Genesis Three).
+
+183
+00:31:32,261 --> 00:31:34,270
+For the world is placed in the evil one.
+
+184
+00:31:34,270 --> 00:31:36,781
+Satan's throne is men, whom he wickedly possesses.
+
+185
+00:31:36,781 --> 00:31:45,570
+He returns to the topic, because although in these seven places the entire sevenfold Church is symbolized, things that are particularly praised or reproved were done in these.
+
+186
+00:31:45,570 --> 00:31:48,232
+And you hold fast my name, and did not deny my faith.
+
+187
+00:31:48,232 --> 00:31:51,697
+In those days Antipas, my faithful witness, who was killed among you.
+
+188
+00:31:52,200 --> 00:32:01,052
+In many people, Christ is still being crucified, either because they don't believe He rose from the dead, or because they deny Him through their sinful ways where Satan dwells.
+
+189
+00:32:01,052 --> 00:32:08,950
+But I have a few things to say against you, particularly against those members who are blameworthy, not those to whom He says:
+And you did not deny my faith.
+
+190
+00:32:08,950 --> 00:32:19,714
+Among you, there are those who hold to the teachings of Balaam Numbers 24, who taught Balak to put a stumbling block before the children of Israel, to eat things sacrificed to idols and to commit sexual immorality.
+
+191
+00:32:19,714 --> 00:32:28,919
+These are the two main things hypocrites engage in: eating and fornicating, as the Lord says:
+Inside you are full of greed, lack of self-control, and all iniquity Luke 12; Matthew 23.
+
+192
+00:32:28,919 --> 00:32:30,629
+Idolatry is spiritual fornication.
+
+193
+00:32:30,629 --> 00:32:34,351
+You have destroyed, He says Psalm 73, all those who are unfaithful to you.
+
+194
+00:32:34,351 --> 00:32:39,231
+Similarly, you also have those who hold the teachings of the Nicolaitans: repent in the same way.
+
+195
+00:32:39,231 --> 00:32:43,858
+Otherwise, I will come to you quickly and will fight against you with the sword of my mouth.
+
+196
+00:32:43,858 --> 00:32:48,285
+This refers to the sword of the Church's mouth, according to the previous understanding.
+
+197
+00:32:48,285 --> 00:32:53,365
+The sword represents the commands of both testaments, by which the disobedient are divinely defeated.
+
+198
+00:32:53,365 --> 00:32:56,785
+For whoever sinned under the law will be judged by the law Romans 2.
+
+199
+00:32:56,785 --> 00:33:09,310
+He who has ears, let him hear what the Spirit says to the churches: To him who overcomes, I will give some of the hidden manna, which is the invisible bread that came down from heaven, who became man so that man could eat the bread of angels John 6.
+
+200
+00:33:09,310 --> 00:33:15,195
+The manna in the wilderness was a foreshadowing of this, and those who ate it died because they remained unbelievers.
+
+201
+00:33:15,195 --> 00:33:25,306
+They did not eat this hidden and spiritual manna, which promises immortality to the faithful, as He says John 6: Unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.
+
+202
+00:33:25,306 --> 00:33:30,839
+Those who could spiritually benefit from that food then deserved to attain immortality, like Moses and others.
+
+203
+00:33:30,839 --> 00:33:39,541
+For they all ate the same spiritual food, as the Apostle teaches First Corinthians 10, because the visible manna did not harm those who used it spiritually as physical food.
+
+204
+00:33:40,296 --> 00:33:49,396
+As the spiritual manna of the Lord's body will not benefit the people of the present time if they receive it unworthily, because they eat and drink judgment upon themselves.
+
+205
+00:33:49,396 --> 00:33:53,184
+And I will give him a white stone, which means adoption as a Son of God.
+
+206
+00:33:53,184 --> 00:33:54,289
+First Corinthians 11.
+
+207
+00:33:54,289 --> 00:33:59,918
+The stone is a precious gem, similar to the pearl that the merchant found, sold everything for, and bought.
+
+208
+00:33:59,918 --> 00:34:00,496
+Matthew 13.
+
+209
+00:34:00,496 --> 00:34:02,969
+Another translation indeed used the word pearl.
+
+210
+00:34:02,969 --> 00:34:06,546
+And on the stone, a new name, which the mouth of the Lord has named.
+
+211
+00:34:06,546 --> 00:34:11,123
+Otherwise, on baptism and martyrdom, which no one knows except the one who receives it.
+
+212
+00:34:11,123 --> 00:34:16,383
+Hypocrites, although they seem to have the appearance, cannot penetrate the virtue of understanding.
+
+213
+00:34:16,383 --> 00:34:16,909
+Isaiah 62.
+
+214
+00:34:16,909 --> 00:34:20,013
+Having, it says, a form of godliness but denying its power.
+
+215
+00:34:20,013 --> 00:34:21,802
+Hence the same John:
+First John 2.
+
+216
+00:34:21,802 --> 00:34:27,010
+He who says he knows Him and does not keep His commandments is a liar, and the truth is not in him.
+
+217
+00:34:27,010 --> 00:34:35,690
+And to the angel of the church in Thyatira write:
+These are the words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.
+
+218
+00:34:35,690 --> 00:34:42,266
+I know your deeds, your love and faith, your service and perseverance, and that you are now doing more than you did at first.
+
+219
+00:34:42,266 --> 00:34:49,841
+Here it is fully explained, in the body of the church, that the part of the good is praised and the part of the wicked is reproved with rebukes.
+
+220
+00:34:49,841 --> 00:34:57,469
+Where deeds, along with love, faith, service, and perseverance, are praised, and indeed he says that the latter deeds are greater than the first.
+
+221
+00:34:57,469 --> 00:35:08,569
+But I have this against you: you tolerate that woman Jezebel, who calls herself a prophet, and you allow her to teach and lead my servants astray, to commit sexual immorality and to eat food sacrificed to idols.
+
+222
+00:35:08,569 --> 00:35:09,358
+First Kings 16.
+
+223
+00:35:09,358 --> 00:35:24,824
+Angel, that is, the church, is a general name; but the quality of the words shows to whom the speech is appropriate: what part, what kind, what office suits the angel, and how from a part of one body, from a part or a figure, it passes to a property, and from a property it returns to a figure.
+
+224
+00:35:25,824 --> 00:35:30,874
+These events occurred, and it is particularly believed that the woman was in the aforementioned Church.
+
+225
+00:35:30,874 --> 00:35:35,531
+The speech about Jezebel, initially specific, is now figuratively applied to the general world.
+
+226
+00:35:35,531 --> 00:35:43,278
+Therefore, the angel, symbolizing the Church, which consists of both good and bad people, is understood in two ways: it represents both leaders and followers.
+
+227
+00:35:43,278 --> 00:35:45,779
+In this context, the angel signifies the preachers.
+
+228
+00:35:45,779 --> 00:35:51,172
+For instance, when we talk about someone traveling for work, we describe the actions of individual body parts.
+
+229
+00:35:51,172 --> 00:35:56,075
+If we say he saw something, we attribute it to his eyes; if he spoke, we attribute it to his tongue.
+
+230
+00:35:56,075 --> 00:36:02,841
+This fits the angel's role since an angel is a messenger, a watchman who sees what needs correction and announces what should be observed.
+
+231
+00:36:02,841 --> 00:36:05,832
+Thus, through the mentioned works, their roles are signified.
+
+232
+00:36:05,832 --> 00:36:10,146
+When he praises the recent works as greater than the former ones, he refers to everyone.
+
+233
+00:36:10,146 --> 00:36:14,755
+Because some leaders are negligent, he mentions that Jezebel is allowed to commit fornication.
+
+234
+00:36:14,755 --> 00:36:21,864
+The responsibility of allowing or restraining falls to the whole Church, making the leader guilty not for committing the act but for allowing it.
+
+235
+00:36:21,864 --> 00:36:24,953
+By allowing it, he becomes a participant in the transgressions.
+
+236
+00:36:24,953 --> 00:36:54,371
+He continues by saying: "I gave her time to repent, but she was unwilling to repent of her fornication." He didn't say, "I gave you" or "to you," implying that consenting to fornication doesn't make one a fornicator. By moving from the specific to the general, he shows that the saints are free from this crime. Through reproaching the wicked, he remains concerned about the members, even if one part acts without the knowledge of another. We can recognize this if we spiritually distinguish the flocks from the shepherds and the lower members from the higher ones, assigning each to their own times.
+
+237
+00:36:54,960 --> 00:37:01,735
+Jezebel's sexual immorality, both physical and spiritual adultery, symbolized her claim of fornication and idolatry under Christ's name.
+
+238
+00:37:01,735 --> 00:38:16,617
+"For you have destroyed," it says, "all those who fornicate with you. Behold, I cast her onto a bed, and those who commit adultery with her into great tribulation, unless they repent of their deeds."
+This bed represents the false sense of security of wrongdoers, which they often promise themselves through the impurity of their crimes, as they have not yet faced God's wrath. They neglect repentance so much that sudden destruction, like the pain of childbirth, comes upon them, and they will not escape.
+From God, this neglect of security is seen as a judgment when they are forsaken by a hidden, yet just decision. About this false sense of security, we read elsewhere in Proverbs chapter 1: "The turning away of the naive will kill them, and the prosperity of fools will destroy them."
+Another translation mentions mourning instead of the bed, signifying eternal misery unless they repent of their deeds. "And I will kill her children with death." Here, the children represent the power and works of the woman, but the death threatens not just the body temporarily, but the soul eternally.
+The apostolic authority often testifies that due to such excesses, without any correction through repentance, eternal punishment is owed rather than temporal discipline. They are not among those of whom it is said, "He chastises every son whom he receives" (Hebrews 12), but among those of whom it is said, "Israel, I will no longer be angry with you," and "My jealousy has turned away from you" (Ezekiel 16).
+
+239
+00:38:16,617 --> 00:38:22,496
+This is not because they have achieved propitiation, but because they are judged unworthy to be chastised temporarily.
+
+240
+00:38:22,496 --> 00:38:27,229
+"And all the churches will know that I am the one who searches minds and hearts" (Jeremiah 17).
+
+241
+00:38:27,229 --> 00:38:32,560
+Do the churches not already know that God searches minds and hearts before He exposes and kills adulterers?
+
+242
+00:38:32,560 --> 00:38:39,734
+Or how can it be said to the church that they will know, and not that they have known since the beginning of their faith that God knows secrets?
+
+243
+00:38:39,983 --> 00:38:49,260
+Therefore, it is not through the experience of things, but by holding firmly to certain faith that we must accept not the obvious, but hidden idolatry, and punish adulterers with death.
+
+244
+00:38:49,260 --> 00:38:52,218
+For he says they are to be punished with eternal damnation.
+
+245
+00:38:52,218 --> 00:38:54,976
+And I will give to each of you according to your works.
+
+246
+00:38:54,976 --> 00:39:00,391
+He does not rebuke the whole for a part anymore, but the whole for the whole, as he promises each their own.
+
+247
+00:39:00,391 --> 00:39:04,002
+For each one, says the Apostle Galatians 6, will carry their own burden.
+
+248
+00:39:04,002 --> 00:39:13,178
+And turning to the good part of the same angel, he says: But to the rest of you in Thyatira, as many as do not have this doctrine, who have not known the depths of Satan, as they say.
+
+249
+00:39:13,178 --> 00:39:17,189
+You did not know, is used here, as if he said, you approved of it by no consent.
+
+250
+00:39:17,189 --> 00:39:22,253
+For the Lord also testifies that he does not know those whom he has not received into his discipline.
+
+251
+00:39:22,253 --> 00:39:27,067
+He continues: I will not put any other burden on you, but hold on to what you have until I come.
+
+252
+00:39:27,067 --> 00:39:36,243
+This means, I will not impose the burdens of the law on you, about which the Apostle says in Galatians 5: Stand firm, and do not let yourselves be burdened again by a yoke of slavery.
+
+253
+00:39:36,243 --> 00:39:47,876
+Therefore, hold on to the light burden or light yoke of Christ, as mentioned in Matthew 11, which is made light through the spirit of adoption, under which he wants us to persevere, saying: But hold on to what you have until I come.
+
+254
+00:39:47,876 --> 00:39:59,810
+And to the one who conquers and keeps my works until the end, I will give authority over the nations, and he will rule them with an iron rod, as when clay pots are broken to pieces, even as I myself have received authority from my Father.
+
+255
+00:39:59,810 --> 00:40:02,868
+In Christ, the Church has this power as the body in the head.
+
+256
+00:40:02,868 --> 00:40:11,844
+For if anyone worthily adheres to his body, they are truly said to have what the Son possessed by hereditary right, in whom, according to the Apostle, God has given us everything.
+
+257
+00:40:11,844 --> 00:40:18,262
+The iron rod represents inflexible justice that rules the meek and destroys the obstinate, and I will give him the morning star.
+
+258
+00:40:18,262 --> 00:40:30,096
+It is fitting to understand the morning star as both Christ and the first resurrection, because he, appearing, dispelled the darkness of errors, and with the hastening resurrection, the darkness of the worldly night will be driven away.
+
+259
+00:40:30,096 --> 00:40:34,909
+For this star seems to provide, just as it ends the night, so it gives the beginning of the day.
+
+260
+00:40:35,711 --> 00:40:37,056
+Chapter Three
+
+261
+00:40:37,056 --> 00:40:46,759
+To the angel of the church in Sardis, write:
+This is what he who holds the seven spirits of God and the seven stars says:
+I know your deeds; you have a reputation for being alive, but you are dead.
+
+262
+00:40:46,759 --> 00:40:52,916
+Be watchful and strengthen what remains and is about to die, for I have not found your deeds complete in the sight of my God.
+
+263
+00:40:52,916 --> 00:40:56,857
+Remember, therefore, what you have received and heard; hold it fast, and repent.
+
+264
+00:40:56,857 --> 00:40:59,615
+You have a reputation for being alive, but you are dead.
+
+265
+00:40:59,615 --> 00:41:02,521
+This applies only to those who have committed a mortal sin.
+
+266
+00:41:02,521 --> 00:42:20,297
+He says, "Strengthen what remains and is about to die," only to someone who still has some living elements in their duty and is not allowed to remain in the death of sin. For one who has lost the office of a teacher cannot be strengthened.
+I have not found your deeds complete in the sight of my God. It is not enough for a tree to live and be green; it must also bear the required fruits. He also commends the repentance of past sins.
+But if you do not repent, I will come and will awaken my coming to you like a thief, and you will not know at what hour I will come to you. For if you are negligent at that voice, the hour of calling will come unexpectedly.
+It continues: Yet you have a few people in Sardis who have not soiled their clothes; they will walk with me, dressed in white, for they are worthy. Great is the praise of the few who remain unblemished in their virtuous conduct among the defiled wicked. God encourages this by saying: Those who overcome will be dressed in white.
+Certainly, the few saints knew they were among a large number of defilers; yet remaining unblemished, they groaned like Ezekiel and mourned the iniquity that was happening among them. And I will never blot out their names from the book of life, but will acknowledge their names before my Father and his angels. As in the Gospel, "I will acknowledge him before my Father who is in heaven." And, "Rejoice that your names are written in heaven."
+To the angel of the church in Philadelphia, write:
+This is what the holy and true one, who holds the key of David, that is, royal authority, says.
+
+267
+00:42:20,543 --> 00:42:27,627
+The key of David is mentioned either because Christ was born from his lineage or because David himself foretold many things about Christ.
+
+268
+00:42:27,627 --> 00:44:05,756
+Through his plan, like a key, the mysteries of the law, prophets, and psalms were revealed, as he testified when he said:
+Luke 24:44: "It is necessary to fulfill all that is written in the law of Moses, the prophets, and the psalms about me."
+He who opens, and no one shuts, and he who shuts what no one opens. The secrets of the divine law are revealed to the faithful by Christ's power alone and closed to the unbelievers; when he unlocks, no one shuts, and when he binds, no one releases.
+Behold, I have placed before you an open door that no one can shut, because you have little strength. The door that Christ opens began to be revealed to the Church when he opened the minds of his disciples to understand the Scriptures.
+This door is never closed by force, and it is now being opened throughout the world by those who preach. Hence, the Apostle says:
+First Corinthians 16:9: "A great door has been opened to us in the Lord, and there are many adversaries."
+When he says, "You have little strength, and you have kept my word, and have not denied my name," it shows why the Church merits these gifts. It does not rely on its own strength; acknowledging its weakness, it glories not in itself but in the Lord who has redeemed it.
+Behold, I will give those from the synagogue of Satan, who say they are Jews and are not, but lie. Behold, I will make them come and worship at your feet, and know that I have loved you, because you have kept my word of patience.
+This was a promise made to the Church of Philadelphia at that time, but it also foretells the future, especially around the end of the world, when Jews believing in Christ will join his Church, which truly says:
+Psalm 56:9: "Foreigners submit to me."
+For the Apostle also says about the Jews:
+Romans 11:25: "A partial blindness has happened to Israel until the fullness of the Gentiles has come in, and thus all Israel will be saved."
+
+269
+00:44:05,807 --> 00:44:12,209
+And you will know that I have loved you when I make the Jews, who once boasted of their noble lineage, humble in faith before you.
+
+270
+00:44:12,209 --> 00:44:15,262
+You and they will recognize the kind of love I have shown you.
+
+271
+00:44:15,262 --> 00:45:51,237
+Many Jews will come to the Church, saying, as it is written: "Let me participate in your priesthood to eat bread." Because you have kept my word of patience, I will protect you from the hour of trial that is coming to the whole world to test those who live on the earth.
+Although the Church is constantly engaged in both internal and external conflict, and even though individuals or the whole Church are attacked by various temptations, the time of the Antichrist is also indicated to be coming, from whom Christ the Lord promises to deliver the entire Church that belongs to Him, so that the temptation to fall and deception may be recognized. I am coming soon; hold on to what you have, so that no one will take your crown.
+Here we recognize with awe the number of the elect whom the apostles call according to God's purpose. Those He foreknew and predestined to be conformed to the image of His Son, showing that this number cannot be added to or reduced, as He says "this one will lose his own crown so that another will receive it." From this, it is understood that no one else can succeed if he who held it keeps it with persevering faith.
+Thus, the pride of the Jews who boasted of being descendants of Abraham is frustrated. For God is able, says Matthew chapter 3, to raise up children for Abraham from these stones, so that the certain promise remains as a gift, and boasting in the flesh is nullified.
+Whoever overcomes, I will make him a pillar in the temple of my God. A pillar is fitting both for support and for beauty in buildings; likewise, the victors of the world stand out in the Church with the gift of dignity, bearing the duty of love. And, He says, he will never go out again.
+The younger son had gone out (Luke chapter 15), that is, the people of the Gentiles, but reconciled and redeemed by the death of that fatted calf, that is, by Christ's blood, he will no longer go out, for the king has brought him into his chamber.
+
+272
+00:45:51,335 --> 00:45:57,090
+No matter how much it is shaken by the battering rams of schisms or persecutions, it does not move.
+
+273
+00:45:57,090 --> 00:47:53,173
+For God's firm foundation stands, bearing this seal:
+Second Timothy 2:19
+"The Lord knows those who are his."
+Likewise, I will write on him the name of my God, which means we are called sons of God through adoption
+Romans 8:15
+and the name of the city of my God, the new Jerusalem, which comes down from heaven from my God, and my new name.
+The title of the name suggests distinction, dignity, and a vision of peace.
+For Jerusalem means "vision of peace."
+Romans 6:4
+The newness, however, is because of the new life in which we are commanded to walk.
+This name of Christ, which is above every name,
+Philippians 2:9
+did not come to the Son of God in time so as to be considered new, as he has always existed co-eternally with the Father in the same glory, of which he speaks:
+John 17:5
+"The glory I had with you before the world existed."
+But it is new in regard to his humanity, in which he chose to die and rose from the dead; hence the prophet says:
+Isaiah 43:19
+"Behold, I am doing a new thing; now it springs forth,"
+and the Apostle:
+Second Corinthians 5:17
+"The old has passed away; behold, the new has come."
+Therefore, we have also merited to be called by the name Christian.
+To the angel of the church in Laodicea write:
+These are the words of the Amen, the faithful and true witness.
+I think it is noteworthy that he is called Amen here.
+Amen means true or faithfully.
+Hence, in this place, it undoubtedly refers to the essence of divinity, from which God speaking to Moses says:
+Exodus 3:14
+"Thus you shall say to the Israelites, 'I AM has sent me to you.'"
+For he truly is, who always remains the same.
+But because the humanity taken on by Christ must also be proclaimed, he consequently says:
+Revelation 3:14
+"The beginning of God's creation."
+For it is fitting to understand Christ the Lord as the beginning of God's creation because of the mystery of the incarnation, from whose person we read:
+Job 10:8
+"The Lord created me at the beginning of his ways;"
+and the Apostle:
+Hebrews 1:5
+
+274
+00:47:53,231 --> 00:48:02,200
+We have confidence in entering the sanctuary through the blood of Christ, who opened for us a new and living way through the veil, which is his flesh, and serves as a great priest.
+
+275
+00:48:02,200 --> 00:48:11,418
+He is the way and the destination; the author of faith and its finisher; the Alpha and the Omega, the beginning with no one before him, and the end with no one after him in the kingdom.
+
+276
+00:48:11,418 --> 00:48:13,809
+I know your deeds; you are neither cold nor hot.
+
+277
+00:48:13,809 --> 00:48:15,553
+I wish you were either cold or hot!
+
+278
+00:48:15,553 --> 00:48:18,792
+Because you are lukewarm, I am about to spit you out of my mouth.
+
+279
+00:48:18,792 --> 00:48:23,077
+This describes certain nobles of the world who are neither hot nor cold, but lukewarm.
+
+280
+00:48:23,077 --> 00:48:28,607
+Despite being surrounded by riches, they are barren in acts of piety and lack compassion to perform good deeds.
+
+281
+00:48:28,607 --> 00:48:33,889
+Therefore, they are not like the fervent poor, who do not have the riches that make the lukewarm sluggish.
+
+282
+00:48:33,889 --> 00:48:37,376
+By not sharing with those in need, they lack the fervor of good works.
+
+283
+00:48:37,376 --> 00:48:42,060
+This also represents those who study Scripture privately but do not show their faith publicly.
+
+284
+00:48:42,060 --> 00:48:45,846
+While they confidently presume they are safe, they are empty in their deeds.
+
+285
+00:48:45,846 --> 00:48:49,334
+They are neither cold nor hot, neither unbelievers nor truly faithful.
+
+286
+00:48:49,334 --> 00:49:23,066
+Such lukewarmness is nauseating: "I will spit you out of my mouth," he says.
+But since it is a time for repentance, let them not deceive themselves with the false notion of being rich and powerful, whose poverty, blindness, and nakedness are rebuked. Let them heed the advice to seek true riches, namely knowledge, so they will not be rejected.
+Let them buy gold for themselves, as Proverbs 16:16 says: "Get wisdom like gold, and knowledge like silver." If they can draw anything from the divine Scriptures, like the radiant light of wisdom, let them put it into action, whether through substantial means with fervent piety, or through spiritual guidance informed by knowledge.
+
+287
+00:49:23,663 --> 00:49:27,474
+For it is written in Proverbs 13:
+The ransom of a man's soul is his wealth.
+
+288
+00:49:27,474 --> 00:49:34,891
+And about those in First Timothy 3:
+From your childhood, you have known the holy scriptures, which can instruct you for salvation in Christ Jesus.
+
+289
+00:49:34,891 --> 00:49:38,600
+He rightly mentioned refined gold because of the pressure of persecution.
+
+290
+00:49:38,600 --> 00:49:42,411
+If it happens to them for Christ, they should choose to endure it devoutly.
+
+291
+00:49:42,411 --> 00:49:48,914
+Such people, turned from great lukewarmness with useful contrition, can be fruitful not only for themselves but also for others.
+
+292
+00:49:48,914 --> 00:49:52,064
+They are gold purified and refined in the fire of tribulation.
+
+293
+00:49:52,064 --> 00:49:57,551
+So you may be, he says, rich and clothed in white garments, and the shame of your nakedness may not be seen.
+
+294
+00:49:57,551 --> 00:49:59,939
+Anoint your eyes with eye salve so you may see.
+
+295
+00:49:59,939 --> 00:50:04,714
+He notes those deprived of works of righteousness as naked, whom he also accuses of blindness.
+
+296
+00:50:04,714 --> 00:50:17,212
+But he is clothed in white garments who is clothed with the baptism of Christ, and is strong in that faith which works through love, as mentioned in Galatians 5:
+For as many as were baptized into Christ have put on Christ, as written in Romans 6.
+
+297
+00:50:17,212 --> 00:50:24,173
+And when he says to anoint your eyes with eye salve, he advises to incline your heart to divine testimonies, as mentioned in Galatians 3.
+
+298
+00:50:24,173 --> 00:50:28,644
+For the commandment of the Lord is clear, enlightening the eyes, as stated in Psalms 19.
+
+299
+00:50:28,644 --> 00:50:30,828
+I reprove and discipline those whom I love.
+
+300
+00:50:30,828 --> 00:50:34,385
+For he disciplines every son whom he receives, as noted in Hebrews 12.
+
+301
+00:50:34,385 --> 00:50:36,112
+Therefore, believe and do penance.
+
+302
+00:50:36,112 --> 00:50:40,684
+He shows there are those in Laodicea who should be admirably imitated or others corrected.
+
+303
+00:50:40,684 --> 00:50:42,615
+Behold, I stand at the door and knock.
+
+304
+00:50:42,615 --> 00:50:49,829
+If anyone hears my voice and opens the door, the door of the heart, indeed, to receive Christ through faith and obedience to his commandments.
+
+305
+00:50:49,829 --> 00:50:53,894
+It follows:
+I will come in to him and eat with him, and he with me on my throne.
+
+306
+00:50:53,894 --> 00:51:01,972
+Hence the Lord also says in John 14:
+If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him.
+
+307
+00:51:01,972 --> 00:51:08,526
+To the one who conquers, I will grant to sit with me on my throne, as I also conquered and sat down with my Father on his throne.
+
+308
+00:51:08,526 --> 00:51:12,997
+He calls the one who sits with him a sharer in power and judgment, of which John speaks.
+
+309
+00:51:14,063 --> 00:51:22,740
+He gave them the power to become children of God, to those who believe in His name:
+who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+310
+00:51:22,740 --> 00:51:28,818
+And in the Gospel of Matthew, chapter nineteen:
+You will sit with Me on twelve thrones, judging the twelve tribes of Israel.
+
+311
+00:51:28,818 --> 00:51:32,201
+Whoever has ears, let them hear what the Spirit says to the churches.
+
+312
+00:51:32,201 --> 00:51:50,828
+Here, "ears of the heart" are understood to mean obedience to the commandments.
+He shows, however, that what He individually admonished the church about, He now generally addresses to the churches to be proclaimed.
+After describing the works of the church, what it was, and what it was to become, and summarizing the nativity of Christ,
+He will say the same things in another way.
+
+313
+00:51:50,975 --> 00:51:52,319
+Chapter Four
+
+314
+00:51:52,319 --> 00:52:43,652
+After this, he says, "I saw."
+He mentions seeing another vision after the previous one.
+It's not a different time of events, but different visions; just like if someone narrates the same thing in different ways, the narrations will have different times, but not the event that happened at one time.
+Thus, he repeats the whole time of the Church to be explained with different figures.
+Behold, he says, an open door in heaven.
+The open door means Christ, who was born, suffered, and was resurrected, who is the door, as He Himself says: "I am the door."
+Heaven means the Church, because it is the dwelling place of God, where heavenly things happen.
+This is why we pray for God's will to be done on earth as it is in heaven.
+Matthew 6.
+Sometimes, however, he calls heaven and earth and the Church (Luke 11), because of the earth which also consists of heaven, whether when unbelievers are acquired through the right preaching of the faithful, or when the flesh is subjected to the spirit, or when earthly things are reconciled with heavenly.
+
+315
+00:52:43,652 --> 00:53:42,142
+Behold, the first voice I heard speaking to me like a trumpet: "Come up here," it says, "and I will show you what must happen after this."
+The voice is preaching; thus it is said in Isaiah 58: "Lift up your voice like a trumpet."
+The ascent is when someone is compelled or deserves to come to the Church with disdain for the world.
+From the valley of weeping, one ascends to the peak of this dignity; hence we read in Isaiah 2: "Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, and He will teach us His ways."
+But the faithful are also invited to ascend to heaven when they are commanded to desire and seek heavenly things, not those on earth.
+For when a novice in the Church is taught that Christ suffered, rose again, and ascended to the Father, and when someone is spiritually educated and a teacher, contemplating Him in the form of God, he is said to ascend just like the just, to see the believed secrets of mysteries.
+Hence the Lord says in John 20: "Do not touch me, for I have not yet ascended to my Father," meaning by touch, belief.
+Immediately I was in the spirit, and behold I saw a throne set in heaven, and someone sitting on the throne.
+
+316
+00:53:42,191 --> 00:53:45,118
+The one who was sitting there had an appearance like jasper.
+
+317
+00:53:45,118 --> 00:53:49,265
+These comparisons apply to the Church, which the Lord clothed in the color of jasper.
+
+318
+00:53:49,265 --> 00:53:56,875
+I believe the water of sardius signifies fire, symbolizing judgment celebrated in two ways: first through the flood, and at the end of the age through fire.
+
+319
+00:53:56,875 --> 00:54:00,241
+The rainbow, he said, was around the throne, looking like an emerald.
+
+320
+00:54:00,241 --> 00:54:05,119
+The rainbow, a sign of security after the flood, now fittingly shows God's favor towards the Church.
+
+321
+00:54:05,119 --> 00:54:14,534
+When rain clouds are illuminated by the splendor of the sun, they form the appearance of a rainbow, just as the souls of the saints are illuminated by the sun of righteousness, which is Christ.
+
+322
+00:54:14,534 --> 00:54:17,119
+By their intercession, God is pleased to be merciful.
+
+323
+00:54:17,119 --> 00:54:24,680
+Around the throne were twenty-four seats, and upon the seats were twenty-four elders sitting, clothed in white garments, with golden crowns on their heads.
+
+324
+00:54:24,680 --> 00:54:27,851
+The elders represent the entire Church, as stated through Isaiah.
+
+325
+00:54:27,851 --> 00:55:11,656
+"The Lord reigns in Zion and in Jerusalem, and will be glorified in the presence of his elders."
+The twenty-four encompass both leaders and people, doubling the twelve tribes of Israel to represent the dual Testament, because the Church is formed in the same way in both the Old and New Testaments.
+This is shown by the twelve apostles representing the entire body of leaders, as described in the heavenly city, Jerusalem descending from heaven.
+These twenty-four thrones, aside from the distribution of duties, are twelve, because leaders are advanced from the twelve tribes.
+But the twelve thrones, aside from the mystical number, are one throne, which is the Church.
+Only the Lord Christ will sit to judge; He will sit on the throne, which is the Church, judging the twelve tribes.
+But in Christ, in whom the whole is united, the members will also sit and judge, but as one and through one head.
+
+326
+00:55:12,095 --> 00:55:22,597
+In another way, the twenty-four elders can be understood as those who achieve perfection, which is represented by the number six, through the clear preaching of the Gospel; for four times six makes twenty-four.
+
+327
+00:55:22,597 --> 00:55:25,848
+From their throne come flashes of lightning, voices, and thunder.
+
+328
+00:55:25,848 --> 00:55:32,949
+The thunder and voices symbolize the preaching of the truth, while the flashes of lightning represent the signs of miracles, as in the Gospel.
+
+329
+00:55:32,949 --> 00:57:00,065
+In the Book of Mark, Chapter 16, verse 20: "And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs." Likewise, in Psalm 77, verse 18: "The thunder of your voice was in the whirlwind; your lightning lit up the world." The world, struck with fear and trembling at these commands like thunder and miracles like lightning, believed. And seven burning bowls of fire were in front of the throne. These seven bowls are the seven Spirits of God. If He had not explained it Himself, it would make sense to understand the Holy Spirit in these seven burning bowls, either because He was poured out upon the apostles in the form of fiery tongues, or because of His remarkable sevenfold operation. How much more now, when He Himself added: "These are," He said, "the seven Spirits of God!" But where would it be more appropriate for the Holy Spirit to be present than at the time of baptism, when we believe that each of the faithful properly receives Him, which now seems to be indicated by the mention of waters? For it follows, saying: "And in front of the throne was a sea of glass, like crystal." In the sea of glass, baptism is understood, where one believes with the heart for righteousness, and with the mouth, confession is made for salvation, as stated in Romans 10:10. Because of faith, it is referred to as glass; for nothing else is seen outwardly in glass than what it bears inwardly. Nor does he commend this baptism in front of the throne in vain, except because heretics can also have or give this outwardly. Thus, he says in Exodus 33:21: "In front of the throne," as we read it was said to Moses: "There is a place by me." Or he himself warns in Deuteronomy, saying...
+
+330
+00:57:00,215 --> 00:57:09,196
+In the place that the Lord your God chooses for His name to dwell, we know that the unique unity of the Church is declared, where baptism in the Trinity can be received for salvation.
+
+331
+00:57:09,196 --> 00:57:15,379
+If received outside, it leads to ruin: not because what is given is bad, but because it is misused by the one who receives it.
+
+332
+00:57:15,379 --> 00:57:20,875
+Just like the morsel handed to Judas by the hand of the Lord, as stated in the Gospel of John, chapter thirteen.
+
+333
+00:57:20,875 --> 00:57:27,353
+Another edition translates that the sea of glass is before the throne, and it can signify the seat of future judgment on the throne.
+
+334
+00:57:27,353 --> 00:57:36,087
+Therefore, we see that the remedy of saving baptism is granted before the time of judgment, so that future judgment can find us not guilty and naked, but justified and fortified.
+
+335
+00:57:36,087 --> 00:57:40,111
+For who would be saved if God wanted to precede judgment without granting baptism?
+
+336
+00:57:40,111 --> 00:57:47,816
+Water as crystal symbolizes pure and stable faith, which is not swayed by every wind of doctrine, as mentioned in the Epistle to the Ephesians, chapter four.
+
+337
+00:57:47,816 --> 00:57:53,116
+Having its foundations in Christ, who established the earth upon the waters, as stated in Psalm twenty-four.
+
+338
+00:57:53,116 --> 00:57:58,023
+In the midst of the throne and around it are four living creatures full of eyes in front and behind.
+
+339
+00:57:58,023 --> 00:58:08,573
+The four creatures are the four evangelists, to whom, due to the suitability of their individual narratives, a special attribute seems to be assigned: Matthew the man, Mark the lion, Luke the ox, and John the eagle.
+
+340
+00:58:08,573 --> 00:58:19,222
+Since there is one Gospel among all, they are demonstrated as four because of the four rivers of Paradise, believed to irrigate the whole world, just as the whole world is believed to be instructed by their preaching.
+
+341
+00:58:19,222 --> 00:58:21,332
+The Church is often understood as Paradise.
+
+342
+00:58:21,332 --> 00:58:30,705
+The creatures are said to have eyes in front and behind because they are full of the light of knowledge, or because they perfectly encompass the sacraments of both the New and Old Testaments.
+
+343
+00:58:30,705 --> 00:58:35,122
+For the faith professed in the double Testament is completed with the vision of all times.
+
+344
+00:58:35,759 --> 00:58:47,683
+When what was fitting in the Old Testament alone, what was revealed with the coming of the New Testament, and what is known from these teachings to be hoped for in the future, animals are shown to shine like lightning, with lights.
+
+345
+00:58:47,683 --> 00:59:00,898
+The past represents promises made earlier, the dispensation of Christ our Lord, foretold by the prophets and fulfilled; the present signifies the growth of faith and the increase of the Churches; and for the future, the separation of the good and the evil.
+
+346
+00:59:00,898 --> 00:59:05,027
+We believe the righteous will be assigned to life, and the wicked to punishment.
+
+347
+00:59:05,027 --> 00:59:05,595
+Matthew 25.
+
+348
+00:59:05,595 --> 00:59:11,892
+In this way, we know the agreement of both Testaments is foretold, since the New Testament is proven by the Old Testament.
+
+349
+00:59:11,892 --> 00:59:16,848
+They are seen with the same eyes, both shining together and harmonizing with the truth of faith.
+
+350
+00:59:16,848 --> 00:59:25,158
+For example, in the Old Testament, a lamb was sacrificed, and fifty days later, the law was given to instill fear, written by the finger of God on stone tablets.
+
+351
+00:59:25,158 --> 00:59:26,087
+Exodus 21, 19, 20.
+
+352
+00:59:26,087 --> 00:59:36,514
+Now, when Christ, our Passover, has been sacrificed, as John says, the Lamb of God who takes away the sins of the world, fifty days later, He sends the Holy Spirit promised from heaven to the disciples.
+
+353
+00:59:36,514 --> 00:59:37,547
+First Corinthians 5.
+
+354
+00:59:37,547 --> 00:59:37,908
+John 1.
+
+355
+00:59:37,908 --> 00:59:38,269
+Acts 1.
+
+356
+00:59:38,269 --> 00:59:41,728
+Whom we often read in the sacred pages is called the finger of God.
+
+357
+00:59:41,728 --> 00:59:42,347
+Exodus 8:13.
+
+358
+00:59:42,347 --> 00:59:45,444
+Through whom the old hardness of the stony heart is removed.
+
+359
+00:59:45,444 --> 00:59:45,857
+Luke 11.
+
+360
+00:59:45,857 --> 00:59:48,696
+Love is given, by which fear is immediately driven out.
+
+361
+00:59:48,696 --> 00:59:49,367
+First John 4.
+
+362
+00:59:49,367 --> 00:59:53,136
+So that the law which was previously difficult for the weak is fulfilled.
+
+363
+00:59:53,136 --> 00:59:58,401
+For the love of God has been poured into our hearts through the Holy Spirit, who has been given to us.
+
+364
+00:59:58,401 --> 00:59:58,865
+Romans 5.
+
+365
+00:59:58,865 --> 01:00:04,492
+By whose working, God is worshipped freely, not out of fear of punishment, but out of love for righteousness.
+
+366
+01:00:04,492 --> 01:00:11,357
+We also solemnly proclaim that our head, having suffered, risen, and now sitting at the right hand of the Father, will come as judge.
+
+367
+01:00:11,357 --> 01:00:15,228
+By these lights, as it were of the four animals, the Church is illuminated.
+
+368
+01:00:16,415 --> 01:00:20,227
+Those who listen to the preaching of the evangelists understand all these things.
+
+369
+01:00:20,227 --> 01:00:31,427
+They teach and advise the attentive reader to remember the animals in the middle of the throne and around the throne, as if to say: In the midst of the Church is the Gospel, and around the world is the fruitful Church, meaning the Gospel.
+
+370
+01:00:31,427 --> 01:00:36,509
+Even if the number of preachers increases, the truth of the one Gospel never changes with any new diversity.
+
+371
+01:00:36,509 --> 01:00:42,814
+It remains the same as it grows in the world, just as it was pure at the beginning, in the middle of the throne and around the throne.
+
+372
+01:00:42,814 --> 01:00:55,096
+Moreover, when he previously said he saw someone sitting on the throne and twenty-four seats around the throne with twenty-four elders sitting on them, clothed in white garments, he then says, in the middle of the throne and around the throne were four animals.
+
+373
+01:00:55,096 --> 01:01:10,013
+Although he wants us to recognize the one sitting, the elders, and the four animals with different names, he seems to combine everything in one place with the name of the one throne, where it is understood that the Gospels are in the elders and the elders in the Gospels, for they cannot be separated from each other.
+
+374
+01:01:10,013 --> 01:01:18,201
+This is why the animals could be around the seat, where he had already said the elders were, and also in the middle of the throne, in the body of Christ, which is the Church.
+
+375
+01:01:18,201 --> 01:01:23,330
+Here, neither the elders can be without the Gospel, nor the Gospel without the elders, as is rightly allowed.
+
+376
+01:01:23,330 --> 01:01:24,836
+The first animal is like a lion.
+
+377
+01:01:24,836 --> 01:01:33,542
+Although earlier I preferred to present the interpretation of many Fathers regarding the animals, I now aim to follow the order in the narrative, saying the first animal is like a lion.
+
+378
+01:01:33,542 --> 01:01:41,965
+I assert that the face of the lion fits Matthew more, who first wrote the Gospel in Judea and narrates the royal dignity and lineage of Christ and proclaims His glory prominently.
+
+379
+01:01:41,965 --> 01:01:50,576
+Blessed Augustine also recommends this order, assigning the figure of the lion to Matthew and that of a man to Mark, who seems to have specifically narrated the human deeds of Christ.
+
+380
+01:01:50,576 --> 01:01:55,235
+The third animal is like a calf, fitting Luke because of the unique sacrifice of the fattened calf.
+
+381
+01:01:55,799 --> 01:02:04,343
+Moreover, the significance of the eagle is more fittingly attributed to John, who was worthy to see and proclaim the height of the Word of God clearly and truthfully.
+
+382
+01:02:04,343 --> 01:02:11,702
+Therefore, from this point, the Church acts with the strength and majesty of royal power, because the lion of the tribe of Judah has triumphed.
+
+383
+01:02:11,702 --> 01:02:16,385
+For the lion's cub Judah, from whose tribe kings used to rule over the people (Genesis 49).
+
+384
+01:02:16,385 --> 01:02:18,186
+The second creature is like a calf.
+
+385
+01:02:18,186 --> 01:02:27,141
+The strength of this Church is also symbolized by the calf, which is the first sacrifice, through which each of the faithful still triumphs when they are martyred for Christ.
+
+386
+01:02:27,141 --> 01:02:38,000
+"Present," he says, "your bodies as a living sacrifice, holy and pleasing to God, which is your reasonable service" (Romans 12), so that what the head fulfills for the body, the body may accomplish for the head.
+
+387
+01:02:38,000 --> 01:02:41,088
+Therefore, it also began with the priest Zechariah (Luke 1).
+
+388
+01:02:41,088 --> 01:02:43,301
+The third creature has a face like a human.
+
+389
+01:02:43,301 --> 01:03:07,746
+I believe this humility of the Church is highlighted here, where, having received the spirit of adoption as children of God (Romans 8), and possessing this treasure in earthen vessels (Second Corinthians 4), it chose to glory humbly in its weaknesses (Second Corinthians 12) rather than be exalted by acquired virtues, following the path of the master, who became obedient unto death (Philippians 2), saying: "Learn from me, for I am gentle and humble in heart" (Matthew 11).
+
+390
+01:03:07,746 --> 01:03:09,959
+The fourth creature is like a flying eagle.
+
+391
+01:03:09,959 --> 01:03:20,458
+The Church is depicted as soaring with spiritual members, meditating on heavenly things, and not being tempted by earthly desires, guided by the wisdom of the two Testaments to be elevated more sublimely.
+
+392
+01:03:20,458 --> 01:03:44,337
+For Christ's persona is fittingly represented by these likenesses of faces: the man, whom He truly and properly assumed, not imaginatively; the lion of the tribe of Judah, the conqueror of inflicted death, because the lion, the strongest of beasts, fears no encounter; the calf, slaughtered for the salvation of the world, commended as a notable sacrifice; and the eagle, which descended into our mortality from above, and then ascended again to the heavenly seat.
+
+393
+01:03:44,903 --> 01:03:47,743
+The four living creatures each had six wings all around.
+
+394
+01:03:47,743 --> 01:03:53,575
+Among the creatures, he showed twenty-four elders; six wings on each of the four creatures total twenty-four wings.
+
+395
+01:03:53,575 --> 01:03:57,277
+Around the throne, he saw creatures where he mentioned seeing the elders.
+
+396
+01:03:57,277 --> 01:04:02,956
+But how can a creature with six wings resemble an eagle, which has two wings, unless the four creatures are one?
+
+397
+01:04:02,956 --> 01:04:08,585
+They have twenty-four wings, which we understand to represent the twenty-four elders, who symbolize the Church.
+
+398
+01:04:08,585 --> 01:04:11,425
+He compared the Church to an eagle, which has two wings.
+
+399
+01:04:11,425 --> 01:04:17,764
+That is, the two Testaments, which elevate it, raising it high and preventing it from being held back by earthly attachments.
+
+400
+01:04:17,764 --> 01:04:26,942
+Additionally, I think six wings symbolize the perfection of the number six, because in the sixth age, with the fullness of time, the Apostle recalls these things being accomplished.
+
+401
+01:04:26,942 --> 01:04:27,551
+Galatians 4.
+
+402
+01:04:27,551 --> 01:04:31,912
+In the last creature, he concluded all, for there are four, just like the evangelists.
+
+403
+01:04:31,912 --> 01:04:38,504
+Each creature holds its own form and the form of the other three, as described by Ezekiel with these seats and the same creatures.
+
+404
+01:04:38,504 --> 01:04:44,133
+He said each had four forms, and those forms here in the Apocalypse are of a lion, a calf, a man, and an eagle.
+
+405
+01:04:44,133 --> 01:04:48,393
+Each creature had these four forms, so if anyone saw one of them, they saw all four.
+
+406
+01:04:48,393 --> 01:04:57,166
+Hence, it is understood that each one is whole, and he describes the wheels of the same throne so that one wheel looks at the four parts of the world, which is like a wheel.
+
+407
+01:04:57,166 --> 01:05:08,829
+All four are of the same construction, so it is one and four, meaning there is no place where the throne is not perfect, nor does it turn away from any part of the world, thus surrounding the entire globe and possessing the lands.
+
+408
+01:05:08,829 --> 01:05:11,009
+They were full of eyes in front and behind.
+
+409
+01:05:11,009 --> 01:05:13,646
+Or, as another translation says, inside and outside.
+
+410
+01:05:13,646 --> 01:05:16,182
+Inside, because the light of the Gospel is hidden.
+
+411
+01:05:16,182 --> 01:05:20,289
+For if it is hidden, he says, our Gospel is hidden among those who are perishing.
+
+412
+01:05:20,289 --> 01:05:21,354
+Second Corinthians 4.
+
+413
+01:05:21,354 --> 01:05:29,417
+Otherwise, front and back, so that wherever the Church spreads fruitfully, it walks in the light of God's face and sees the glory of God with an unveiled face.
+
+414
+01:05:30,431 --> 01:05:43,439
+Alternatively, the six wings, front and back, which add up to twenty-four, symbolize the books of the Old Testament, which we recognize with canonical authority as being twenty-four in number, like the twenty-four elders presiding over the courts.
+
+415
+01:05:43,439 --> 01:05:50,180
+The preaching of the New Testament is fruitful because it is supported and strengthened by the testimonies of the Old Testament.
+
+416
+01:05:50,180 --> 01:05:55,499
+The Church has held this view both in the past and present, under the law before and under grace now.
+
+417
+01:05:55,499 --> 01:06:01,187
+They had no rest day or night, saying: Holy, Holy, Holy, Lord God Almighty, who was, and is, and is to come.
+
+418
+01:06:01,187 --> 01:06:01,766
+Isaiah six.
+
+419
+01:06:01,766 --> 01:06:15,669
+With the Church spread everywhere among its individual members, professions, cities, regions, provinces, languages, and various nations, it continuously praises God in word and deed, in both adversity and prosperity, never ceasing to praise the Lord day and night.
+
+420
+01:06:15,669 --> 01:06:23,516
+It maintains the perpetual praise of intellectual creatures in the heavens, above Jerusalem, in whose image the pilgrim Church rejoices to be formed.
+
+421
+01:06:23,516 --> 01:06:37,577
+And when those creatures gave glory, honor, and thanks to Him who sits on the throne, who lives forever and ever, the twenty-four elders immediately fell face down before the throne and worshiped Him who lives forever and ever, casting their crowns before the throne.
+
+422
+01:06:37,577 --> 01:06:42,317
+According to this understanding, the entire Church seems to be built from various members.
+
+423
+01:06:42,317 --> 01:06:57,800
+For when the creatures sound praise, that is, when the evangelists preach Christ's dispensation, which consists of the sum of three ages, the twenty-four elders, representing the whole Church, made up of leaders and people, immediately fall face down and worship Him who lives forever and ever.
+
+424
+01:06:57,800 --> 01:07:16,969
+To this meaning, the apostle Paul testifies and says:
+First Corinthians fourteen:
+If the whole Church comes together in one place, and all prophesy, and an unbeliever or uninformed person enters, he is convinced by all, judged by all, and the secrets of his heart are revealed; and so, falling face down, he will worship God, declaring that truly God is among you.
+
+425
+01:07:17,495 --> 01:07:22,933
+Throwing their crowns before the throne symbolizes giving to God whatever power and honor they possess.
+
+426
+01:07:22,933 --> 01:07:27,894
+All good achievements are rightfully attributed to Him, from whom the overcomer receives help.
+
+427
+01:07:27,894 --> 01:07:38,663
+This act was foreshadowed in the Gospel when people laid their clothes on the road for the Lord and took palm branches to meet Him, saying:
+Blessed is He who comes in the name of the Lord, King of Israel.
+
+428
+01:07:38,663 --> 01:07:42,569
+Matthew, chapter 21; Mark, chapter 11; Luke, chapter 19; John, chapter 12.
+
+429
+01:07:42,569 --> 01:07:54,182
+The victory is more fittingly compared to the symbol of palm crowns, saying:
+You are worthy, our Lord and God, to receive glory, honor, and power, because you created everything, and by your power, they were established.
+
+430
+01:07:54,182 --> 01:08:00,253
+Or, as another translation states, because you created everything, and by your will, they existed and were created.
+
+431
+01:08:00,253 --> 01:08:03,156
+They existed in design before they were formed in work.
+
+432
+01:08:03,156 --> 01:08:10,229
+They were created so that in their respective natures, according to the boundaries set in God's wisdom, they would also visibly exist.
+
+433
+01:08:10,229 --> 01:08:13,713
+What follows should be discussed at the beginning of another book.
+
