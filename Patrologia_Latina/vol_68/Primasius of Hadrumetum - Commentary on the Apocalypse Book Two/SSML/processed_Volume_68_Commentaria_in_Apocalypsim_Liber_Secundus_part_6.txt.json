@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. VIII.",
+      "cleaned_english_translation": "<speak>\nChapter Eight\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    \n        <p>\n            <s>When he opened the seventh seal, there was silence in heaven for about half an hour.</s>\n            <s>In heaven, which means in the Church, this half-hour of silence signifies the beginning of eternal peace.</s>\n            <s>He experienced part of this silence because there was still more to come.</s>\n            <s>Even with the seventh seal, he couldn't see everything that was to come, allowing many things to be revealed more clearly.</s>\n            <s>The silence was interrupted; if it had been continuous, it would have marked the end of the narrative.</s>\n            <s>But the silence needed to occur again, and so the narrative fittingly resumes after my own silence, continuing in the following book.</s>\n       </p> \n    </speak>",
+      "original_latin": " Et cum aperuisset signum septimum,\nfactum est silentium in coelo fere semihora. In coelo,\nid est in Ecclesia silentium semihorae, initium ostendit\nquietis aeternae et partem silentii vidit, quia eadem\nadhuc visurus erat. Quod septimo signo non\n quantum futurum sit vidit, ut apertius ei multa ostenderentur. Et interruptum est silentium, quod si\nesset juge, hic narrandi finis fuisset. Verum adhuc\nfuerat iterandum, idcirco series narrationis ordiendae\nconvenienter post silentium pariter meum, sequenti\nlibro resumptum, sortietur exordium.",
+      "voice": "Matthew"
+    }
+  ]
+}
