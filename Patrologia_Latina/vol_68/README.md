@@ -6,3 +6,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Commentary on the Apocalypse Book Two by Primasius of Hadrumetum - Archive.org](https://archive.org/details/commentary-on-the-apocalypse-book-two)
 * [Commentary on the Apocalypse Book Three by Primasius of Hadrumetum - Archive.org](https://archive.org/details/commentary-on-the-apocalypse-book-three)
 * [Commentary on the Apocalypse Book Four by Primasius of Hadrumetum - Archive.org](https://archive.org/details/commentary-on-the-apocalypse-book-four)
+* [Commentary on the Apocalypse Book Five by Primasius of Hadrumetum - Archive.org](https://archive.org/details/commentary-on-the-apocalypse-book-five)
