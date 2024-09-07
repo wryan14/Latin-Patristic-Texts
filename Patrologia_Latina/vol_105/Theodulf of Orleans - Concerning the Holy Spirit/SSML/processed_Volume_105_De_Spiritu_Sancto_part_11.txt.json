@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem (In Symbolo), quod Spiritus sanctus procedat\na Patre et Filio. Pater a nullo est factus, nec creatus, nec genitus. Filius a Patre solo est, non factus, nec creatus,\nsed genitus. Spiritus sanctus a Patre et Filio non\nfactus, nec creatus, nec genitus, sed procedens. Unus ergo Pater non tres patres, unus Filius non\ntres filii, unus Spiritus sanctus non tres spiritus sancti. Et in hac Trinitate nihil prius aut posterius,\nnihil majus aut minus, sed totae tres personae coaeternae\nsibi sunt et coaequales. Ita ut per omnia, sicut\njam supra dictum est, et Trinitas in unitate, et\nunitas in Trinitate veneranda sit. Qui vult ergo salvus\nesse, ita de Trinitate sentiat.",
+      "cleaned_english_translation": "<speak>\n    Similarly, in the Creed, it is stated that the Holy Spirit proceeds from the Father and the Son. <break time=\"500ms\"/> The Father is made by no one, neither created nor begotten. <break time=\"500ms\"/> The Son comes from the Father alone, not made, not created, but begotten. <break time=\"500ms\"/> The Holy Spirit is from the Father and the Son, not made, not created, nor begotten, but proceeding. <break time=\"500ms\"/> Therefore, there is one Father, not three fathers; one Son, not three sons; one Holy Spirit, not three holy spirits. <break time=\"500ms\"/> And in this Trinity, there is nothing before or after, nothing greater or lesser, but all three persons are co-eternal and co-equal with each other. <break time=\"500ms\"/> So, in all things, as mentioned before, the Trinity in unity and the unity in Trinity is to be worshipped. <break time=\"500ms\"/> Therefore, whoever wants to be saved must think this way about the Trinity.\n</speak>"
+    }
+  ]
+}

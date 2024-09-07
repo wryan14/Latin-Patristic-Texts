@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in libro Sententiarum (Lib I cap 17) Spiritus sanctus creator est, sicut Pater et Verbum,\ntestante propheta, Spiritus Domini fecit me, et\ninspiraculum  omnipotentis vivificavit\nme (Job XXXVIII 4). Spiritus sanctus Patris et Filii\nest, et inde unum sunt Pater et Filius, quia nihil\nhabet Pater quod non habeat Filius. Non enim res\nuna et duorum consubstantialis poterit simul ab eis\nprocedere et simul inesse, nisi unum fuerint  a quibus procedit.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        Also, in the book of Sentences (Book 1, Chapter 17): The Holy Spirit is the creator, just like the Father and the Word. This is testified by the prophet, \"The Spirit of the Lord made me, and the breath of the Almighty gave me life\" (Job 33:4).\n    </p>\n    <p>\n        The Holy Spirit belongs to both the Father and the Son. Therefore, the Father and the Son are one, because the Father has nothing that the Son does not have. Something cannot proceed from and exist in two consubstantial beings at the same time unless they are one from whom it proceeds.\n    </p>\n</speak>"
+        }
+    ]
+}

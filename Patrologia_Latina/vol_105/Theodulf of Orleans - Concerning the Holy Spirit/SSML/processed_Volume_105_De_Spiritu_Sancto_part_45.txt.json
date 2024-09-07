@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Fulgentius, quod solus Pater genuerit Filium, solus\nFilius a Patre genitus sit, solus Spiritus sanctus a\nPatre Filioque procedat, in libro tertio quem scripsit\ncontra Fabianum sic dicit. Veraciter quippe profitemur solum Patrem genuisse,\nsolum Filium de Patre natum esse, veraciter\netiam dicimus solum Spiritum sanctum de Patre\nFilioque procedere.",
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Fulgentius explains that only the Father begot the Son, only the Son was begotten by the Father, and only the Holy Spirit proceeds from both the Father and the Son. He details this in the third book he wrote against Fabian.\n    </s>\n    <s>\n      Indeed, we truly profess that only the Father begot the Son, only the Son was born of the Father, and we also affirm that only the Holy Spirit proceeds from both the Father and the Son.\n    </s>\n  </p>\n</speak>"
+    }
+  ]
+}

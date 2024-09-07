@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem de missione Spiritus sancti a Filio, in libro\n(de synodis) quem scripsit in Germaniam, Galliam\nBelgicam, Lugdunensem, Narbonensem, Novempopulanam,\nTolosam, et Britanniam. Credimus in Spiritum sanctum, hoc est paraclitum,\nquem promittens apostolis suis post reditum\nin coelos misit, docere eos ac memorari omnia, per\nquem sanctificantur sincere in eum credentium\nanimae.",
+      "cleaned_english_translation": "<speak>\n    \n        Similarly, in the book about synods that he wrote to Germany, Gaul, Belgica, Lyon, Narbonne, Novempopulana, Toulouse, and Britain, it discusses the sending of the Holy Spirit from the Son. <break time=\"500ms\"/> We believe in the Holy Spirit, the Advocate, whom Jesus promised to his apostles and sent after his return to heaven to teach them and remind them of everything. Through him, the souls of those who sincerely believe are sanctified.\n    \n</speak>"
+    }
+  ]
+}

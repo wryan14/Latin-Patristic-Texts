@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem similiter in eodem opere (cap. 2 in\nprincip.). Neque enim in illa Trinitate proprium esset solius\nPatris, quod non est natus ipse, sed unum Filium\ngenuit: neque proprium solius Filii, quod non\n genuit ipse, sed solus de Patris essentia natus est:\nneque proprium Spiritus sancti, quod nec natus est\nipse, nec genuit, sed solus de Patre Filioque incommutabili\naeternitate procedit.",
+      "cleaned_english_translation": "<speak>\n    Similarly, in the same work, at the beginning of chapter two. In that Trinity, it is not unique to the Father alone that He was not born, but rather that He begot the one Son. Nor is it unique to the Son alone that He did not beget, but that He alone was born from the essence of the Father. Nor is it unique to the Holy Spirit that He was neither born nor begot, but that He alone proceeds from the Father and the Son in unchangeable eternity.\n</speak>"
+    }
+  ]
+}

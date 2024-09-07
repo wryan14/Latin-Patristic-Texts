@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem, in disceptatione (118 inter epistolas Augustini)\nquam habuit contra Pascentium comitem\nArianorum, praesente Laurentio judice ab utrisque\npartibus electo. Ecce quid est ομουσιον, quod exprobratur injuste. Non enim verbum solum, sed et res in verbo est:\nnec solus sermo sonans auribus, sed substantia una\nest Dei credenda in mentibus. Si enim in hominibus\ncredentibus in se totus Deus credendus est habitare,\nquomodo Filium totum in se Pater, aut Filius Patrem\nnon credatur excipere? ac per hoc ipse in Patre, et\nPater in eo manet, et ex Patre vel Filio  sanctus credendus est Spiritus non\nsolum processisse, sed semper ad peragenda opera\nTrinitatis omnino procedere.",
+            "cleaned_english_translation": "<speak>\n  <s>Similarly, in the dispute among the letters of Augustine, he had against Pascentius, count of the Arians, with Lawrence presiding as the judge chosen by both parties.</s>\n  <break time=\"500ms\"/>\n  <s>Behold what \"homoousion\" (of the same substance) is, which is unjustly reproached.</s>\n  <break time=\"500ms\"/>\n  <s>For it is not just a word, but the meaning within the word: not just a sound heard by the ears, but the belief in the one substance of God in our minds.</s>\n  <break time=\"500ms\"/>\n  <s>If God is believed to dwell entirely in those who believe in Him, how can it be that the Father does not also fully encompass the Son, or the Son the Father?</s>\n  <break time=\"500ms\"/>\n  <s>Therefore, the Son remains in the Father, and the Father in Him, and the Holy Spirit is believed to have proceeded not only from the Father or the Son but also to always proceed to accomplish the works of the Trinity.</s>\n</speak>"
+        }
+    ]
+}

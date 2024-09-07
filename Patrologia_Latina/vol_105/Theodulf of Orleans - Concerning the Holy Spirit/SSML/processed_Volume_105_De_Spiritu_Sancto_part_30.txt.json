@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in eodem opere, post pauca (cap 1 in fine). In illa igitur sancta Trinitate, quod ideo a nobis\nrepetitur toties, ut vestro cordi tenacius infigatur,\n unus est Deus Pater, qui solus essentialiter de se\nipso unum Filium genuit, et unus Filius, qui de uno\nPatre solus est essentialiter genitus, et unus Spiritus\nsanctus, qui solus essentialiter de Patre Filioque\nprocedit: hoc autem totum una persona non posset,\nid est et gignere se, et nasci de se, et procedere\nde se. Quia igitur aliud est genuisse quam\nnatum esse, aliudque est procedere quam genuisse,\nvel natum esse, manifestum est quoniam alius est\nPater, alius Filius, alius Spiritus sanctus.",
+            "cleaned_english_translation": "<speak>\n  <p>\n    Also, in the same work, shortly after, at the end of chapter one.\n  </p>\n  <p>\n    In that holy Trinity, which we repeat so often to deeply impress it on your heart, there is one God the Father, who alone essentially begot one Son from Himself, and one Son, who alone is essentially begotten from one Father, and one Holy Spirit, who alone essentially proceeds from the Father and the Son.\n  </p>\n  <p>\n    However, a single person could not do all of this-beget Himself, be born from Himself, and proceed from Himself.\n  </p>\n  <p>\n    Since to beget is different from being born, and to proceed is different from begetting or being born, it is clear that the Father is one, the Son is another, and the Holy Spirit is another.\n  </p>\n</speak>"
+        }
+    ]
+}

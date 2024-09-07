@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "\n<speak>\n  <p>\n    <s>Here is a list of authors who are cited:</s>\n    <break time=\"500ms\"/>\n    <s>Athanasius.</s>\n    <break time=\"300ms\"/>\n    <s>Cyril.</s>\n    <break time=\"300ms\"/>\n    <s>Hilary.</s>\n    <break time=\"300ms\"/>\n    <s>Ambrose.</s>\n    <break time=\"300ms\"/>\n    <s>Didymus.</s>\n    <break time=\"300ms\"/>\n    <s>Augustine.</s>\n    <break time=\"300ms\"/>\n    <s>Vigilius the African.</s>\n    <break time=\"300ms\"/>\n    <s>Proclus.</s>\n    <break time=\"300ms\"/>\n    <s>Agnellus.</s>\n    <break time=\"300ms\"/>\n    <s>Gregory.</s>\n    <break time=\"300ms\"/>\n    <s>Isidore.</s>\n    <break time=\"300ms\"/>\n    <s>Prosper.</s>\n    <break time=\"300ms\"/>\n    <s>Fulgentius.</s>\n    <break time=\"300ms\"/>\n    <s>Hormisdas.</s>\n    <break time=\"300ms\"/>\n    <s>Leo.</s>\n    <break time=\"300ms\"/>\n    <s>Cassiodorus.</s>\n    <break time=\"300ms\"/>\n    <s>Prudentius.</s>\n  </p>\n</speak>\n",
+      "original_latin": "INDICULUS AUCTORUM QUI CITANTUR. Athanasius. Cyrillus. Hilarius. Ambrosius. Didymus. Augustinus. Vigilius Afer. Proclus. Agnellus\nGregorius. Isidorius. Prosper. Fulgentius. Hormisda. Leo. Cassiodorus. Prudentius.",
+      "voice": "Ruth"
+    }
+  ]
+}

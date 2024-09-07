@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Leo Romanus episcopus, quod Spiritus sanctus a Patre\nFilioque procedit, sic dicit in epistola, quam misit\nad Turibium Asturicensem episcopum. Primo itaque capitulo demonstratur, quam impie\nsentiant de Trinitate divina, qui Patris et Filii et\nSpiritus sancti unam atque eamdem asserunt esse\npersonam: tanquam idem nunc Pater, nunc Filius,\nnunc Spiritus sanctus nominetur: nec alius sit qui\ngenuit, alius qui genitus est, alius qui de utroque\nprocedit, sed singularis unitas in tribus quidem vocabulis,\n sed non in tribus sit accipienda personis,\nquod blasphemiae genus de Sabellii opinione sumpserunt.",
+      "cleaned_english_translation": "<speak>\n    Leo, the Roman bishop, says in his letter to Turibius, the bishop of Astorga, that the Holy Spirit proceeds from the Father and the Son.\n    <break time=\"500ms\"/>\n    <p>\n        In the first chapter, it is shown how wrongly those who assert that the Father, Son, and Holy Spirit are one and the same person view the divine Trinity.\n        <break time=\"500ms\"/>\n        As if the same one is sometimes called Father, sometimes Son, and sometimes Holy Spirit.\n    </p>\n    <p>\n        They do not believe that one is the Father who begets, another is the Son who is begotten, and another is the Spirit who proceeds from both.\n        <break time=\"500ms\"/>\n        Instead, they claim a singular unity in three names, but not in three persons, which is a type of blasphemy taken from the opinion of Sabellius.\n    </p>\n</speak>"
+    }
+  ]
+}

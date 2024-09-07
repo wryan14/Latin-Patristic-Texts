@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in libro sexto (Cap 10), quod Spiritus\nsanctus Filii Patrisque suavitas: unde qui negat\neum ab utroque procedere, consequens est ut neget\n suavitatem a Patre et Filio procedere. Illa ergo dilectio, delectatio, felicitas vel beatitudo,\nita si tamen aliqua humana voce digne dicitur, usus\nab illo appellatus est breviter, et est in Trinitate\nSpiritus sanctus, non genitus, sed genitoris genitique\nsuavitas, ingenti largitate atque ubertate perfundens\nomnes creaturas pro captu earum, ut ordinem suum\nteneant, et locis suis acquiescant. Haec igitur omnia\nquae arte divina facta sunt, et unitatem quamdam in\nse ostendunt, et speciem, et ordinem. Quidquid enim\nhorum est, et unum aliquid est.",
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Also, in the same book six (Chapter 10), it is said that the Holy Spirit is the sweetness of the Father and the Son.\n    </s>\n    <s>\n      Therefore, whoever denies that the Holy Spirit proceeds from both must also deny that sweetness proceeds from the Father and the Son.\n    </s>\n  </p>\n  <p>\n    <s>\n      So that love, delight, happiness, or blessedness-if it can indeed be expressed worthily in any human words-has been briefly called \"use\" by him.\n    </s>\n    <s>\n      In the Trinity, it is the Holy Spirit, not begotten, but the sweetness of the begetter and the begotten, abundantly and generously pouring over all creatures according to their capacity.\n    </s>\n    <s>\n      This allows them to maintain their order and rest in their places.\n    </s>\n  </p>\n  <p>\n    <s>\n      Therefore, all these things that are made by divine art show a certain unity within themselves, as well as beauty and order.\n    </s>\n    <s>\n      For whatever of these things exists, is also one thing.\n    </s>\n  </p>\n</speak>"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem in libro octavo ejusaem operis. Filius est igitur a Patre missus, non Pater a Filio,\nquia Filius est a Patre natus, non Pater a Filio. Similiter\netiam Spiritus sanctus a Patre et Filio legitur\nmissus, quia a Patre Filioque procedit. Sed quia\nnon uno modo in Scripturis sanctis dicitur missio,\npropterea in sacramento Incarnationis non solum a\nPatre, verum etiam ab Spiritu sancto missus est\nFilius, quia mediator Dei et hominum homo Christus\nJesus totius est Trinitatis operatione plasmatus:\nalio autem modo mittitur a Patre et Filio Spiritus\nsanctus, qui naturaliter a Patre Filioque procedit. Mittitur enim a Patre et Filio Spiritus sanctus, cum\nab ipsa Trinitate uno Deo gratiae spiritalis donatur\neffectus.",
+      "cleaned_english_translation": "<speak>\n    In the same work, Book Eight. The Son is sent by the Father, not the Father by the Son, because the Son is born of the Father, not the Father of the Son. Similarly, the Holy Spirit is also read to be sent by the Father and the Son, because He proceeds from the Father and the Son.\n\n    <break time=\"500ms\"/>\n\n    But since the term \"sending\" is not used in just one way in the Holy Scriptures, the Son is sent in the mystery of the Incarnation not only by the Father but also by the Holy Spirit, because the mediator between God and humans, the man Christ Jesus, is formed by the work of the entire Trinity. However, the Holy Spirit is sent in another way by the Father and the Son, as He naturally proceeds from the Father and the Son.\n\n    <break time=\"500ms\"/>\n\n    The Holy Spirit is sent by the Father and the Son when the effect of spiritual grace is given by the Trinity, the one God.\n</speak>"
+    }
+  ]
+}

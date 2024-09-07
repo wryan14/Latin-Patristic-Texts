@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Athanasius, in his book against the Arian heretics, discusses the Holy Spirit proceeding from both the Father and the Son:</s><break time=\"1s\"/>\n    <s>\n      \"I believe the Son is in the Father, and the Father is in the Son, and also the Holy Spirit, who proceeds from the Father and is of both the Son and the Father because he also proceeds from the Son. As it is written in the Gospel, by his breath, he gave the Holy Spirit to his disciples, saying: 'Receive the Holy Spirit. If you forgive anyone's sins, they are forgiven; if you do not forgive them, they are not forgiven.'\"\n      <break time=\"500ms\"/> \n      (John 20:22)\n    </s>\n    <s>Therefore, I confess the inseparable Trinity, neither excluding the Son nor the Holy Spirit, contrary to what the heretics claim.</s>\n    <s>I say from God the Father, because the Son, who is the wisdom of the Father, is also the will of the Father, which has always been in Him, and He is the angel of great counsel.</s>\n  </p>\n</speak>",
+            "original_latin": "ATHANASIUS, quod Spiritus sanctus a Patre Filioque\nprocedat, in libro quem scripsit contra Arianos haereticos\nsic dicit (Lib VIII): \nEgo credo Filium in Patre et Patrem in Filio, Spiritum\nquoque paraclitum, qui procedit a Patre, et\nFilii esse et Patris, quia et a Filio procedit, sicut in\nEvangelio scriptum est quod per insufflationem suam\ndederit discipulis suis Spiritum sanctum, dicens: Accipite\nSpiritum sanctum: cujus remiseritis peccata remissa\nsunt, et cujus retinueritis retenta sunt (Joan XX 22). Et ideo inseparabilem confiteor Trinitatem,\nnec extorrem Filium aut Spiritum sanctum, sicut haeretici\nloquuntur: a Deo Patre dico, quoniam Filius,\n qui est Dei sapientia Patris, ipse est et voluntas Patris,\nquae semper in ipso fuit, et ipse est magni consilii\nangelus.",
+            "voice": "Matthew"
+        }
+    ]
+}
