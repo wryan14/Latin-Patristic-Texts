@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "DE AIUS ANTE EVANGELIUM. ",
+            "cleaned_english_translation": "<speak>\n     <p>On AIUS BEFORE THE GOSPEL.</p>\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Matthew",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n   \n    <p>Then, at the arrival of the holy Gospel, with a clear melody, the clergy once again sings AIUS in the form of angels before the face of Christ, crying out at the gates of hell:</p>\n    <s>\"Lift up your heads, O gates, and be lifted up, O ancient doors, and the King of glory shall come in.\"</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"sɑm\">Psalm</phoneme> 24:7</s>\n</speak>",
+            "original_latin": "Tunc in adventu sancti Evangelii claro modulamine\ndenuo psallet clerus Aius in specie angelorum ante\nfaciem Christi ad portas inferi clamantium: Tollite\nportas principes vestras, et elevamini portae aeternales,\net introibit Dominus virtutum rex gloriae (Ps XXIII 7).",
+            "voice": "Matthew"
+        }
+    ]
+}

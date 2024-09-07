@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n      <s>\n      On Silence\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "DE SILENTIO. ",
+      "voice": "Matthew"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      The deacon calls for silence for two reasons: first, so that everyone can hear the word of God more clearly, and second, to free our hearts from impure thoughts, allowing us to better receive God's word.\n    </s>\n  </p>\n  <p>\n    <s>\n      The priest addresses the congregation with, \"The Lord be with you always,\" and the response, \"And with your spirit,\" makes him more worthy to bless the people, as he receives the blessing from the entire congregation, with God's favor.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Silentium autem diaconus pro duobus rebus annunciat,\nscilicet ut tacens populus melius audiat\nverbum Dei, et sileat cor nostrum ab omni cogitatione\nsordida, quo melius recipiatur verbum Dei. Sacerdos ideo datur populo, ut dum ille benedicit\nplebe dicens: Dominus sit semper vobiscum, ab omnibus\nbenedicatur dicentibus: Et cum spiritu tuo:\nut tanto magis ille dignus sit populo benedicere,\nquantum, favente Deo, de ore totius populi recipit\n benedictionem.",
+      "voice": "Matthew"
+    }
+  ]
+}

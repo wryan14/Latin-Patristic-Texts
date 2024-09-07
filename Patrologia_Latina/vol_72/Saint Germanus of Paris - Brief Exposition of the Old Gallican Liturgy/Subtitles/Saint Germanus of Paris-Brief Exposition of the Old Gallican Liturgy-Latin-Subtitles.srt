@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:08,496
+SANCTI GERMANI PARISIENSIS EPISCOPI EXPOSITIO BREVIS ANTIQUAE LITURGIAE GALLICANAE
+
+2
+00:00:08,496 --> 00:00:25,458
+Post abrogatam apud patres nostros antiquam Ecclesiae Gallicanae Liturgiam, quae ei suffecta est missa
+Romana, brevi tempore adeo praevaluit, ut paucis post annis omnis illius memoria apud universos pene
+oblitterata videretur, vixque ipsius nomen apud aliquos audiri contingeret.
+
+3
+00:00:25,458 --> 00:00:37,435
+Quapropter qui nostra aetate
+de rebus liturgicis tractaverunt scriptores accurati, hanc in se provinciam in primis susceperunt, ut eam
+jacentem ac pene sepultam in tenebris, ex pulvere suscitarent.
+
+4
+00:00:37,435 --> 00:00:52,208
+Primus nec sine digna laude id tentavit
+piae memoriae cardinalis Bona in libro I Rerum liturgicarum, cap. 12, ubi antiqui ritus Gallicani vestigia
+ex veteribus scriptoribus ob oculos ponit. Sed haec pro rei dignitate et magnitudine levia sunt.
+
+5
+00:00:52,208 --> 00:01:10,204
+Multo felicius rem exsecutus est vir multae eruditionis Josephus Thomasius, qui Romae tres veteres Codices Liturgiae Gallicanae ex bibliotheca reginae Sueciae typis mandavit, rursum Parisiis recusos a Mabillonio cum veteri Lectionario Gallicano ab eo in Luxoviensi monasterio reperto, et eruditis
+
+6
+00:01:10,204 --> 00:01:19,263
+observationibus illustrato: qui et ipse quartum Liturgiae Gallicanae Codicem ex bibliotheca Bobiensi publici juris fecit in Musei Italici tomo primo.
+
+7
+00:01:19,263 --> 00:01:36,225
+Verum his omnibus in libris, id unum duntaxat, quod tamen praecipuum est, habemus, ut eas
+sciamus preces, quas ad altare celebrans sacerdos recitaret, cum lectionibus quas sacri ministri populo
+pronuntiabant. At quid interim chorus decantaret, quove ordine, nos hactenus latebat.
+
+8
+00:01:36,225 --> 00:01:46,135
+Id quidem auctoritate
+veterum demonstrare quidam tentaverunt; verum omnino fere incassum. Nam praeterquam quod in
+multis defecerunt, in aliquibus etiam erraverunt.
+
+9
+00:01:46,135 --> 00:02:02,975
+Illud autem emolumenti ex sequenti Expositione antiquae Gallicanae Liturgiae accidit, ut integrum illius
+ordinem, quidve in choro cantaretur, penitus resciamus. Nam primo Liturgia incipiebat ab antiphona, quam cum versu psalmi et gloria Trinitatis chorus
+praecinebat. 2.
+
+10
+00:02:02,975 --> 00:02:20,531
+Antiphonam sequebatur praefatio, seu admonitio ad populum, quam sacerdos praelegebat ad hortandam
+plebem, ut ad quam convenerat solemnitatem debita cum veneratione celebraret. Non me latet quosdam
+inter antiphonam et praefationem constituere hymnum angelicum a choro decantandum.
+
+11
+00:02:20,531 --> 00:02:35,004
+Verum id absque
+ullo auctoritatis fundamento. Nam duo ex Gregorio Turonensi loca, quae ad id probandum proferunt, nihil
+prorsus evincunt, sed hymnum illum in quibusdam aliis supplicationibus publicis decantatum fuisse demonstrant.
+
+12
+00:02:35,004 --> 00:02:45,890
+Imo in Liturgia Gallicana, quam ex Codice Bobiensi vulgavit Mabillonius, hymnus Gloria in
+excelsis Deo pro gratiarum actionibus post missam privatim recitandus constituitur.
+
+13
+00:02:45,890 --> 00:02:58,663
+Itaque antiphonam sequebatur
+praefatio seu praelectio, unde in nostra sequenti Expositione dicitur Antiphona ad praelegendo, id
+est ante praefationem quam per modum exhortationis praelegebat sacerdos. 3.
+
+14
+00:02:58,663 --> 00:03:14,835
+Post praefationem diaconus alta voce silentium indicebat, cujus ritus meminit Gregorius Turonensis
+lib. VII Hist. Franc. cap. 8, his verbis: Unde factum est, ut quadam die dominica postquam diaconus
+silentium populis, ut missae auscultarentur, indixit, etc.
+
+15
+00:03:14,835 --> 00:03:29,244
+Quo loco missae pro orationes sumi non dubito. 4. Indicto silentio, sacerdos populum salutabat, ac populi responsioni collectam subjiciebat a cunctis
+flexis genibus devote audiendam, ut probant sancti Caesarii quidam sermones. 5.
+
+16
+00:03:29,244 --> 00:03:45,793
+Post collectam chorus cantabat trisagium, et quidem graece et latine, quod sequebatur canticum
+Zachariae Benedictus Dominus Deus Israel. Hoc tamen canticum in Quadragesima cum aliis laetitiae hymnis
+supprimebatur. 6. Sequebatur lectio ex prophetis et ex apostolo.
+
+17
+00:03:45,793 --> 00:03:57,812
+Nam praeter Evangelii lectionem, duas, unam ex
+veteri, alteram ex Novo Testamento, lectiones cantabant, quem ritum videre est apud Gregorium Turonensem
+lib. I de Miraculis sancti Martini cap.
+
+18
+00:03:57,812 --> 00:04:06,935
+5, ubi haec habet: Factum est ut illa Dominica, prophetica
+lectione jam lecta, ante altarium staret, qui lectionem beati Pauli proferret.
+
+19
+00:04:06,935 --> 00:04:23,835
+In sanctorum festivitatibus
+sive martyrum sive confessorum acta eorum etiam publice legebantur, ut auditis eorum virtutibus populi
+ad similia perpetranda accenderentur. Ita Gregorius Turonensis, lib. I de Gloria martyrum cap. 86, lectam
+fuisse sancti Polycarpi passionem narrat. 7.
+
+20
+00:04:23,835 --> 00:04:37,246
+Lectionibus pronuntiatis, chorus hymnum trium puerorum decantabat, et quidem, ut reor, per
+modum responsorii, quem sane hymnum a Gregorio Turonensi, Historiae Francorum lib. VIII, cap. 3,
+psalmum responsorium dici conjicio.
+
+21
+00:04:37,246 --> 00:04:53,845
+Nam quaelibet ex Scripturis cantica psalmorum nomine donare consueverant
+veteres. Porro ad hunc ritum spectare existimo canonem 13 concilii Toletani IV, Ut per omnes
+Hispaniae Ecclesias vel Galliae in omnium missarum solemnitate decantetur hymnus trium puerorum in
+pulpito. 8.
+
+22
+00:04:53,845 --> 00:05:02,325
+Dum diaconus ad analogium Evangelium cantaturus procederet, chorus interim trisagium praecinebat,
+quod cantato Evangelio iterum repetebat. 9.
+
+23
+00:05:02,325 --> 00:05:18,743
+Post Evangelium, episcopus verbum e suggestu habebat ad populum; aut si per infirmam valetudinem
+id sibi non liceret, vel forte tardioris esset linguae, homilias proprias aut ab aliis compositas, maxime
+sanctorum Patrum, pronuntiari a sacerdotibus aut diaconis jubebat. 10.
+
+24
+00:05:18,743 --> 00:05:28,065
+Deinde diaconus super audientes et catechumenos preces constitutas effundebat, de quibus ritibus
+satis egimus in libro I de antiquis Ecclesiae ritibus. 11.
+
+25
+00:05:28,065 --> 00:05:42,559
+Ejectis catechumenis, diaconus silentium indicebat; tum corpus Domini in turri conservatum ex
+praecedenti sacrificio deferebat ad altare, ut constat tum ex hac nostra Expositione, tum ex Gregorii Turonensis
+libro de Gloria martyrum, cap, 85.
+
+26
+00:05:42,559 --> 00:05:49,655
+Romani non in turri, sed in capsa illud deferebant, idque in
+nonnullis etiam Gallicanis Ecclesiis observabatur.
+
+27
+00:05:49,655 --> 00:06:08,538
+Porro ex hoc ritu lucem aliquam afferre possumus canoni 17 concilii Arausicani I, ad quem omnes fere eruditi hactenus caecutiunt: Cum capsa et calix offerendus est et admixtione Eucharistiae consecrandus, ut scilicet capsa dominicum corpus continens afferatur ad altare, cum facienda est in missa
+
+28
+00:06:08,538 --> 00:06:13,067
+oblatio calicis cum admixtione seu praesentia Eucharistiae consecrandi.
+
+29
+00:06:13,067 --> 00:06:29,589
+12. Allata ad altare Eucharistia, fiebat panis et vini consecrandi oblatio, atque interim chorus canebat
+Sonum, id est antiphonam quae nostro offertorio respondebat, aut quid simile. Forte Sonus aliud nihil erat
+quam quod Expositio nostra mox Laudes appellat.
+
+30
+00:06:29,589 --> 00:06:45,983
+Laus autem in Missali Mozarabum constat ex Alleluia et
+uno versiculo, sed in Gallicana Liturgia ter repetitum fuisse Alleluia ad significanda tria tempora, ante
+legem, sub lege, et sub gratia, docet nostra Expositio, idque forsan cum triplici versiculo. 13.
+
+31
+00:06:45,983 --> 00:07:03,972
+Facta oblatione, sacra recitabantur diptycha, hoc est nomina episcoporum et aliorum scripta in
+tabella altari superposita. Hujusmodi tabellam eburneam vidi in ecclesia Bituricensi, in qua archiepiscoporum
+nomina continentur, sed hodie nullus illius usus superest apud Biturigas. 14.
+
+32
+00:07:03,972 --> 00:07:20,877
+Recitatis diptychis, sacerdos Collectionem post nomina dicebat, postea pacis osculum fideles sibi invicem
+impertiebant; tum sacerdos recitabat Collectionem ad pacem, quam sequebantur contestatio (ita praefationem
+illi appellabant) et canon qui brevissimus erat. 15.
+
+33
+00:07:20,877 --> 00:07:34,528
+Post consecrationem sacerdos recitabat orationem Post secreta, quae verba demonstrant consecrationis
+verba secreto ac sub silentio a sacerdote fuisse prolata. Postea fiebat confractio et commixtio corporis Christi.
+
+34
+00:07:34,528 --> 00:07:46,967
+Atque interim chorus antiphonam concinebat, eaque finita, sacerdos collectam ante orationem Dominicam
+recitabat, orationem Dominicam sequebatur altera collecta a sacerdote pronuntiata. 16.
+
+35
+00:07:46,967 --> 00:08:06,054
+Ante communionem, benedictio populo impertiebatur, et quidem tribus orationibus ab epicopo,
+unica eaque brevi a simplici sacerdote, hoc modo: Pax, fides, et charitas, et communicatio corporis et sanguinis
+Domini sit semper vobiscum. 17. Dum fiebat communio, aut ea peracta, chorus psallebat Trecanum.
+
+36
+00:08:06,054 --> 00:08:17,314
+Quid autem esset Trecanum non
+satis capio. Triplicem cantum vocis etymologia significare videtur. In regula autem sancti Aureliani praescribitur,
+ut psallendo omnes communicent.
+
+37
+00:08:17,314 --> 00:08:33,156
+Erit forte qui Trecanum interpretetur symbolum apostolorum sanctae
+Trinitatis fidem explicans, quod in Missali quidem Mozarabum post consecrationem ante communionem
+dicendum praescribitur, in Gallicana vero Liturgia post communionem recitaretur. 18.
+
+38
+00:08:33,156 --> 00:08:38,436
+Tandem sacerdos dicebat orationem Post Eucharistiam, quam sequebatur alia collecta.
+
+39
+00:08:38,436 --> 00:08:57,141
+Hae sunt fere omnes antiquae Gallicanae Liturgiae partes, quas hic breviter ob oculos ponere et illustrare libuit, ad promptiorem sequentis operis intelligentiam; in cujus parte seu epistola secunda multa alia notatu dignissima occurrunt, ea maxime quae de Quadragesima et de traditione symboli
+
+40
+00:08:57,141 --> 00:09:01,340
+competentibus narrat, in quibus ritus hactenus ignoti expenduntur.
+
+41
+00:09:01,340 --> 00:09:15,018
+Verum ad antiquorum rituum cognitionem, quam ex sequenti opere accipimus, illud accedit, et quidem
+longe majoris momenti, quod duo praecipua Ecclesiae catholicae dogmata de Eucharistia in ea clare omnino
+asseruntur.
+
+42
+00:09:15,018 --> 00:09:23,543
+Transsubstantiationem dico, et realem Christi sub speciebus panis et vini praesentiam: quae
+duo praesertim impugnant hodie heterodoxi.
+
+43
+00:09:23,543 --> 00:09:35,567
+Primum clare enuntiatur his verbis: Panis vero in corpore et
+vinum transformatur in sanguine, dicente Domino de corpore suo: Caro mea vere est cibus, et sanguis meus
+vere est potus.
+
+44
+00:09:35,567 --> 00:09:55,058
+Alterum cum ait: Antiquitus sanctis Patribus fuit, ut dum sacerdos oblationem frangeret, videbatur
+quasi angelus Dei membra fulgentis pueri cultro concidere, et sanguinem ejus in calicem excipiendo
+colligere, ut veracius diceret verbum dicente Domino, carnem ejus esse cibum et sanguinem esse potum.
+
+45
+00:09:55,058 --> 00:10:12,005
+Reliquum est ut de auctore hujus operis et de tempore quo scriptum sit breviter inquiramus. De auctore,
+cum nomen ejus non praeferat vetus Codex sancti Martini Augustodunensis, ex quo illud descripsimus, nihil
+certo definire possumus; conjecturas tantum damus.
+
+46
+00:10:12,005 --> 00:10:16,438
+Initio haec leguntur: Germanus episcopus Parisius
+scripsit de missa.
+
+47
+00:10:16,438 --> 00:10:33,842
+Igitur aut Germani fetum hic esse existimamus, aut prolixioris ejus operis epitomen, ab
+aliquo ejus discipulo conscriptam, et forte in Aeduensi sancti Symphoriani coenobio, ubi ille vitam monasticam
+profitebatur, priusquam ad infulas ecclesiae Parisiensis eveheretur.
+
+48
+00:10:33,842 --> 00:10:52,876
+De tempore quo scripta fuerit sequens missae Gallicanae Expositio, duo mihi certo constare videntur, primum post assumptum ad sedem Parisiensem Germanum; alterum ante abrogatam in Gallicanis Ecclesiis antiquam patrum nostrorum Liturgiam, quae statim post inductam ejus loco missam Romanam non
+
+49
+00:10:52,876 --> 00:11:03,827
+comparuit, scriptam fuisse: id autem factum a Carolo Magno, hortante Adriano papa, vulgo docent qui de his rebus accuratius scripserunt, hoc est sub finem saeculi VIII.
+
+50
+00:11:03,827 --> 00:11:20,709
+Verum ut ad Germani episcopi tempora hanc
+scriptionem referam, illud facit, quod post lectas sanctorum Patrum homilias, declarat preces a diacono
+super catechumenos factas ante eorum et infidelium de ecclesia ejectionem, qui ritus vix Germani tempora
+attigit.
+
+51
+00:11:20,709 --> 00:11:34,919
+Quapropter saltem medio saeculo VI opus sequens scriptum fuisse existimamus, cujus vel inconditus
+scribendi modus et barbarae voces antiquitatem demonstrant; unde et religio nobis fuit quidquam in eis
+corrigere.
+
+52
+00:11:34,919 --> 00:11:39,887
+EXPOSITIO BREVIS
+ANTIQUAE LITURGIAE GALLICANAE
+IN DUAS EPISTOLAS DIGESTA.
+
+53
+00:11:39,887 --> 00:11:48,143
+EPISTOLA PRIMA,
+QUOMODO SOLEMNIS ORDO ECCLESIAE AGITUR, QUIBUSVE INSTRUCTIONIBUS CANON ECCLESIASTICUS
+DECORATUR.
+
+54
+00:11:48,143 --> 00:12:10,223
+Germanus episcopus Parisius scripsit de missa:
+---Prima igitur ac summa omnium carismatum missa
+canetur, in commemoratione mortis Domini, quia
+mors Christi facta est vita mundi, ut offerendo proficerit
+in salute viventium et requiem defunctorum.
+
+55
+00:12:10,223 --> 00:12:11,303
+DE PRAELEGERE.
+
+56
+00:12:11,303 --> 00:12:28,092
+Antiphona ad praelegendo canetur, in specie patriarcharum
+illorum qui ante diluvium, adventum
+Christi mysticis vocibus tonuerunt, sicut
+Enoc septimus ab Adam, qui translatus est a Deo,
+prophetavit dicens: Ecce venit Dominus in sanctis
+mirabilibus suis facere judicium (Judae 14), et reliqua.
+
+57
+00:12:28,092 --> 00:12:32,419
+Quod testimonium Judas apostolus frater Jacobo,
+in Epistola sua commemorat.
+
+58
+00:12:32,419 --> 00:12:49,554
+Sicut enim prophetantibus venit manus Domini super arcam, ut in damnatis daret reliquias terrae; ita psallentibus clericis procedit sacerdos in specie Christi de sacrario tanquam de coelo in arca Domini, quae est Ecclesia, ut tam monendum quam exhortandum nutriat in plebe bona opera, et extinguat
+
+59
+00:12:49,554 --> 00:12:49,842
+mala.
+
+60
+00:12:50,015 --> 00:12:52,247
+DE SILENTIO.
+
+61
+00:12:52,247 --> 00:13:01,378
+Silentium autem diaconus pro duobus rebus annunciat,
+scilicet ut tacens populus melius audiat
+verbum Dei, et sileat cor nostrum ab omni cogitatione
+sordida, quo melius recipiatur verbum Dei.
+
+62
+00:13:01,378 --> 00:13:14,063
+Sacerdos ideo datur populo, ut dum ille benedicit
+plebe dicens: Dominus sit semper vobiscum, ab omnibus
+benedicatur dicentibus: Et cum spiritu tuo:
+ut tanto magis ille dignus sit populo benedicere,
+quantum, favente Deo, de ore totius populi recipit
+benedictionem.
+
+63
+00:13:14,063 --> 00:13:16,343
+DE AIUS .
+
+64
+00:13:16,343 --> 00:13:27,975
+Aius vero ante prophetia pro hoc cantatur in
+Graeca lingua, quia praedicatio Novi Testamenti in
+mundo per Graeca lingua processit, excepto Mathaeo
+apostolo, qui primus in Judaea Evangelium
+Christi Hebraeis litteris edidit.
+
+65
+00:13:27,975 --> 00:13:40,602
+Servate ergo honorem
+linguae, quae prima Evangelium Christi vel suo senio
+recipit, vel suis litteris docuit primum canticum. Incipiente
+praesule Ecclesiae Aius psallet dicens Latino
+cum Graeco, ut ostendat junctum Testamentum
+Vetus et Novum.
+
+66
+00:13:40,602 --> 00:13:49,771
+Dictum Amen ex Hebraeo instar tituli
+quod in trinitate linguarum instigante Deo Pilatus
+posuit super crucem confitens quamvis ignarus
+Jesus Nazarenus, id est Sanctum et Regem.
+
+67
+00:13:49,771 --> 00:13:58,415
+Tres
+autem parvoli qui ore uno sequentes Khyrie eleison
+Hebraea scilicet Graeca et Latina, vel trium temporum
+saeculi, ante legem scilicet sub lege et sub gratia,
+
+68
+00:13:58,415 --> 00:14:00,335
+DE PROPHETIA.
+
+69
+00:14:00,335 --> 00:14:15,203
+Canticum autem Zachariae pontificis in honorem sancti Johannis Baptistae cantatur, pro eo quod primordium salutis in baptismi sacramenta consistit, quod in ministerium Johannis Deo donante suscipit et deficiente umbra veteris, et oriente nova Evangelii claritate Johannes medius est prophetarum
+
+70
+00:14:15,203 --> 00:14:23,901
+novissimus et evangelistarum primus ante faciem verae Lucis radians lucerna fulsit: ideo prophetia quam pater ejus ipso nascente cecinit, alternis vocibus ecclesia psallet.
+
+71
+00:14:23,951 --> 00:14:25,799
+DE PROPHETA ET APOSTOLO.
+
+72
+00:14:25,799 --> 00:14:37,631
+Lectio vero prophetica suum tenet ordinem, veteris
+videlicet testamenti corripiens mala et adnuncians
+futura, ut intelligamus ipsum Deum esse, qui in prophetia
+tonuit, quam qui et in Apostolo docuit, et in
+Evangelico splendore refulsit.
+
+73
+00:14:37,631 --> 00:14:38,711
+DE APOSTOLO.
+
+74
+00:14:38,711 --> 00:14:41,862
+Quod enim propheta clamat futurum, apostolus
+docet factum.
+
+75
+00:14:41,862 --> 00:14:58,051
+Actus autem apostolorum vel Apocalypsis Johannis pro novitate gaudii Paschalis leguntur, servantes ordinem temporum sicut historia Testamenti Veteris in Quinquagesimo, vel gesta sanctorum confessorum ac martyrum in solemnitatibus eorum, ut populus intellegit quantum Christus amaverit famulum, dans
+
+76
+00:14:58,051 --> 00:15:01,691
+ei virtutis indicium, quem devota plebicula suum postolat patronum.
+
+77
+00:15:01,799 --> 00:15:02,615
+DE HYMNUM.
+
+78
+00:15:02,615 --> 00:15:10,139
+Hymnum autem trium puerorum, quod post lectionis
+canetur in figura sanctorum veterum, qui sedentes
+in tenebris adventum Domini expectabant.
+
+79
+00:15:10,139 --> 00:15:25,458
+Sicut
+enim illis silentibus quartus angelus adfuit in nubem
+roris, inferens ignis incendia vicit: ita et istis Christo
+praestolantibus ipse Dei Filius magni consilii Angelus
+adfuit, qui tartaria frangens imperia, gaudium
+resurrectionis illos liberans intulit, quod Evangelista
+docet.
+
+80
+00:15:25,458 --> 00:15:41,372
+Secundum hoc etiam ecclesia servat ordinem, ut inter benedictionem et Evangelium lectio intercedat nisi tantum modo responsorium, quod a parvolis canetur, instar innocentum qui pressi in Evangelium consortis Christi nativitatem leguntur, vel eorum parvolorum qui properante ad passionem Domini,
+
+81
+00:15:41,372 --> 00:15:47,813
+clamabant in templum Osanna Fili David, Psalmista canente ex ore infantium et lactentium perfecisti laudem (Ps VIII 3).
+
+82
+00:15:47,975 --> 00:15:49,823
+DE AIUS ANTE EVANGELIUM.
+
+83
+00:15:49,823 --> 00:16:06,263
+Tunc in adventu sancti Evangelii claro modulamine
+denuo psallet clerus Aius in specie angelorum ante
+faciem Christi ad portas inferi clamantium: Tollite
+portas principes vestras, et elevamini portae aeternales,
+et introibit Dominus virtutum rex gloriae (Ps XXIII 7).
+
+84
+00:16:06,263 --> 00:16:07,343
+DE EVANGELIO.
+
+85
+00:16:07,343 --> 00:16:18,687
+Egreditur processio sancti Evangelii velud potentia
+Christi triumphantis de morte, cum praedictis armoniis,
+et cum septem candelabris luminis quae sunt
+septem dona Spiritus sancti vel v.
+
+86
+00:16:18,687 --> 00:16:36,311
+legis lumina mysterio
+crucis confixa, ascendens in tribunal analogii ,
+velud Christus sedem regni paternae, ut inde intonit
+dona vitae, clamantibus clericis Gloria tibi, Domine, in
+specie angelorum qui nascente Domino Gloria in excelsis
+Deo (Luc II 14) pastoribus apparentibus cecinerunt.
+
+87
+00:16:36,311 --> 00:16:38,159
+DE SANCTUS POST EVANGELIUM.
+
+88
+00:16:38,159 --> 00:16:53,659
+Sanctus autem quod redeunte sancto Evangelio clerus cantat, in specie sanctorum, qui redeunte Domino Jesu Christo de inferis canticum laudis Dominum sequentis cantaverunt, vel septuaginta quatuor seniorum quos in Apocalypsin Johannes commemorat, qui mittentes coronas suas ante Agnum dulce canticum
+
+89
+00:16:53,659 --> 00:16:54,283
+cantaverunt.
+
+90
+00:16:54,335 --> 00:16:55,415
+DE OMELIAS.
+
+91
+00:16:55,415 --> 00:17:12,624
+Homelias autem sanctorum quae leguntur pro
+sola praedicatione ponuntur, ut quicquid propheta,
+Apostolus, vel Evangelium mandavit, hoc doctor vel
+pastor Ecclesiae apertiori sermone populo praedicet:
+ita arte temperans, ut nec rusticitas sapientes offendat,
+nec onesta loquacitas obscura rusticis fiat.
+
+92
+00:17:12,624 --> 00:17:14,759
+DE PRECE.
+
+93
+00:17:14,759 --> 00:17:32,212
+Preces vero psallere levitas pro populo ab origine libris Moysacis ducit exordium, ut audita apostolis praedicatione, levitae pro populo deprecentur, et sacerdotes prostrati ante Dominum pro peccata populi intercedant, dicente Domino ad Aaron: Tu et filii tui vel omnis tribus Levi portabitis peccata
+
+94
+00:17:32,212 --> 00:17:36,517
+populi mei, utique non paenaliter sustinendo; suissed precibus sublevando.
+
+95
+00:17:36,576 --> 00:17:37,920
+DE CATICUMINO.
+
+96
+00:17:37,920 --> 00:17:53,895
+Caticuminum ergo diaconus ideo clamat juxta anticum ecclesiae ritum, ut tam Judaei, quam haeretici, vel pagani instructi, qui grandis ad baptismum veniebant, et ante baptismum probantur starent in ecclesia, et audirent consilium Veteris et Novi Testamenti, postea deprecarent pro illos levitae,
+
+97
+00:17:53,895 --> 00:18:10,087
+diceret sacerdos collecta, post prece exirent postea foris, qui digni non erant stare, dum inferebatur oblatio, et foras ante ostium abscultarent prostrati ad terram magnalia: quae cura ad diaconum vel ad ostiarium pertinebat, ut illis admoneret exire, iste provideret ne quis indignus retardaretur
+
+98
+00:18:10,087 --> 00:18:15,140
+in templo dicendo nolite dare Sanctum canibus, neque mittatis margaritas vestras ante porcos.
+
+99
+00:18:15,140 --> 00:18:26,388
+Quid enim in terra sanctius confectione
+corporis et sanguinis Christi? et quid plus
+immundum canis et porci? Similitudine comparandum
+eo, vel qui non est purgatus baptismo, vel non
+monitus crucis signaculum.
+
+100
+00:18:26,388 --> 00:18:42,744
+Spiritaliter jubemur silentium facere observantes
+ad ostium, id est ut tacentis a tumultu verborum vel
+vitiorum signum crucis ponamus ante faciem nostram,
+ne intret concupiscentia per oculis, ira per
+aurem, ne prodeat sermo turpis ex labiis, et hoc
+solum cor intendat, ut in se Christum suscipiat.
+
+101
+00:18:42,744 --> 00:18:44,496
+DE SONO.
+
+102
+00:18:44,496 --> 00:18:48,238
+Sonum autem, quod canetur quando procedit
+oblatio, hinc traxit exordium.
+
+103
+00:18:48,238 --> 00:19:03,312
+Praecepit Dominus
+Moysi, ut faceret tubas argenteas, quas levitae clangerent
+quando offerebatur hostia, et hoc esset signum,
+per quod intellegeret populus qua hora inferebatur
+oblatio, et omnes incurvati adorarent Dominum,
+donec veniret columna ignis aut nubes, qui benediceret
+sacrificium.
+
+104
+00:19:03,312 --> 00:19:12,096
+Nunc autem procedentem ad altarium
+corpus Christi non jam tubis inrepraehensibilibus,
+sed spiritalibus vocibus praeclara Christi
+magnalia dulci modilia psallet Ecclesia.
+
+105
+00:19:12,096 --> 00:19:22,596
+Corpus vero
+Domini ideo defertur in turribus, quia monumentum
+Domini in similitudinem turris fuit scissum in petra,
+et intus lectum ubi pausavit corpus dominicum,
+unde surrexit Rex gloriae in triumphum.
+
+106
+00:19:22,596 --> 00:19:36,786
+Sanguis
+vero Christi ideo specialiter offertur in calice, quia
+in tale vasum consecratum fuit mysterium Eucharistiae
+pridie quam pateretur Dominus ipso dicente,
+Hic est calix sanguinis mei mysterium fidei qui pro
+multis effundetur in remissionem peccatorum (Matth XXVI 28).
+
+107
+00:19:36,786 --> 00:19:49,417
+Panis vero in corpore et vinum transformatur
+in sanguine, dicente Domino de corpore suo:
+Caro enim mea vere est cibus, et sanguis meus vere est
+potus (Joan VI 55). De pane dixit hoc est corpus
+meum, et de vino hic sanguis meus (Matth XXVI 26).
+
+108
+00:19:49,417 --> 00:19:59,916
+Aqua autem ideo miscitur, vel quia decet populo
+unitum esse cum Domino, vel quia de latere Christi
+in cruce sanguis manavit et aqua, et unum mundemur
+a labe culparum, alio praeparemur ad regna
+caelorum.
+
+109
+00:19:59,916 --> 00:20:12,911
+Patena autem vocatur ubi consecratur oblatio,
+quia mysterium Eucharistiae in commemoratione
+offertur passionis Domini. Palla vero linostima in
+illius indumenti tenet figuram, quia in gyro contexta
+a militibus non fuit divisa, tonica scilicet Christi.
+
+110
+00:20:12,911 --> 00:20:21,072
+Corporalis vero palla ideo pura linia est super quam
+oblatio ponitur, quia corpus Domini puris linteaminibus
+cum aromatibus fuit obvolutum in tumulo.
+
+111
+00:20:21,072 --> 00:20:29,649
+Coopertum vero sacramentorum ideo exornatur,
+quia omnia ornamenta praecellit resurrectio Christi,
+vel camara caeli quae nunc Dominum teget ab oculis
+nostris.
+
+112
+00:20:29,649 --> 00:20:42,214
+Siricum autem ornatur, aut auro, vel gemmis,
+quia Dominus Moysae in tabernaculo fieri velamina
+jussit ex auro, iacincto, et purpura, coccoque
+bis tincto et bysso retorta: quia omnia illa mysteria
+in Christi praecesserunt stigmata.
+
+113
+00:20:42,214 --> 00:20:58,494
+Laudes autem, hoc est Alleluia, Johannes in Apocalypsi
+post resurrectionem audivit psallere. Ideo
+hora illa Domini palleo quasi Christus tegitur caelo,
+Ecclesia solet angelicum canticum : quod autem
+habet ipsa Alleluia prima et secunda et tertia signat
+tria tempora ante lege, sub lege, sub gratia.
+
+114
+00:20:58,494 --> 00:21:07,235
+Nomina defunctorum ideo hora illa recitantur qua
+palleo tolletur, quia tunc erit resurrectio mortuorum,
+quando adveniente Christo caelum sicut libet
+plicabitur.
+
+115
+00:21:07,235 --> 00:21:23,514
+Pacem autem ideo Christi mutuo proferunt, ut per mutuo osculo teneant in se caritatis affectum, et qui aliqua fuscatur discordia, cito recurrat ad gratiam, vel petat proximo veniam, ne pacem falsam dando incurrat proditoris consortium, et tantum melius proficiat Eucharistia suscepta vel benedictio
+
+116
+00:21:23,514 --> 00:21:36,790
+tradita, quantum Christus conspicerit pacifica esse corda, quia ipse mandavit discipulis caelos ascendens, pacem reliquo vobis, pacem meam do vobis (Joan XIV 27), et in hoc cognoscent omnes quod discipuli mei estis, si vos invicem dilexeritis.
+
+117
+00:21:36,790 --> 00:21:48,699
+Sursum corda ideo sacerdos habere admonet, ut
+nulla cogitatio terrena maneat in pectoribus nostris
+in hora sacrae oblationis, et tanto melius recipiatur
+Christus in mente, quanto sola cogitatio ipsum conatur
+adtendere.
+
+118
+00:21:48,699 --> 00:22:04,815
+Confractio vero et commixtio corporis Domini tantis mysteriis declarata antiquitus Sanctis Patribus fuit, ut dum sacerdos oblationem confrangeret, videbatur quasi Angelus Dei membra fulgentis pueri cultro concaedere, et sanguinem ejus in calicem excipiendo colligere, ut veracius dicerent verbum
+
+119
+00:22:04,815 --> 00:22:08,202
+dicente Domino carnem ejus esse cibum et sanguinem esse potum.
+
+120
+00:22:08,640 --> 00:22:21,056
+In hac confractione sacerdos
+vult augere, ibidem debet addere, quia tunc caelestia
+terrenis mixcentur, et ad orationem sacerdotis caeli
+aperiuntur. Sacerdote autem frangente, supplex
+clerus psallet antiphona, quia patiente dolore mortis
+omnia trementis testata sunt elementa.
+
+121
+00:22:21,056 --> 00:22:25,526
+Oratio vero Dominica pro hoc ibidem ponitur, ut
+omnis oratio nostra in Dominica oratione claudatur.
+
+122
+00:22:25,526 --> 00:22:38,394
+Benedictionem vero populi sacerdotibus fundere
+Dominus per Moysem mandavit dicens: Loquere ad
+Aaron et ad filios ejus; sic benedicetis populo: Benedicat
+tibi et custodiat te (Num VI 23), et caetera quae
+sequuntur. Aaron igitur locum Christi, filii ejus
+locum presbyterorum portaverunt.
+
+123
+00:22:38,394 --> 00:22:51,533
+Ambobus igitur mandavit Dominus benedicere populum; sed tamen propter servandam honorem pontificis, sacrae constituerunt canones, ut longiorem benedictionem episcopus proferret, breviorem presbyter funderet, dicit: Pax fides et caritas et communicatio corporis et sanguinis Domini sit semper
+
+124
+00:22:51,533 --> 00:22:51,939
+vobiscum.
+
+125
+00:22:51,939 --> 00:23:02,505
+Nam licet illam
+benedictionem quam Moysi Deus dictavit et nullus
+contradicere presbytero potest; quia caelum et terra
+transibunt. Hoc ergo ante communionem benedictio
+traditur, ut in vas benedictum benedictionis mysterium
+ingrediatur.
+
+126
+00:23:02,505 --> 00:23:12,709
+Jam vero quam dulcis sit animae
+et corporis sacra communio, Christus verbis evangelicis
+ostendit dicens: Si manseritis in me, et verba
+mea in vobis manserint, quodcumque petieritis Patrem
+in nomine meo, fiet vobis (Joan XV 7).
+
+127
+00:23:12,709 --> 00:23:23,906
+Trecanum vero quod psalletur signum est catholicae
+fidei de Trinitatis credulitate procedere. Sic enim
+prima in secunda, secunda in tertia et rursum tertia
+in secunda et secunda rotatur in prima. Ita pater in
+Filio, mysterium Trinitatis complectet.
+
+128
+00:23:23,906 --> 00:23:36,504
+Pater in
+Filio, Filius in Spiritu sancto, Spiritus sanctus in
+Filio, et Filius rursum in Patre. Sed jam epistola
+finem accipiat in qua sollemnis Ordo brevi declaratus
+ostenditur quatenus in sequutura epistola de commune
+officio donante Domino auribus pandatur. Qui vivit.
+
+129
+00:23:36,504 --> 00:23:39,624
+INCIPIT EPISTOLA SECUNDA DE COMMUNI OFFICIO
+
+130
+00:23:39,624 --> 00:23:51,908
+Quia favente Domino ordinem sacrae oblationis in
+priore epistola breviter explananda perstrinximus,
+nunc diversa Ecclesiae carismata qua ratione subsistant,
+juxta quod Dominus nobis intelligere tribuit,
+brevi paginola commendemus.
+
+131
+00:23:51,908 --> 00:23:56,075
+Antiphonas vero quas dulci cerimonia psallet Ecclesia
+hinc traxerunt exordium.
+
+132
+00:23:56,075 --> 00:24:11,831
+Rex Salomon cum domum celeberrimum instruxisset, ibidem cantores instituit, qui cum diversis organis Dei magnalia decantarent, ut inter reliqua ornamenta quae fulgebant in templo, etiam divina eloquia dulci proferrentur eloquio, ut toto plus delectaretur Dei verbum, quanto elegantius volvebatur
+
+133
+00:24:11,831 --> 00:24:12,526
+vocis ornatu.
+
+134
+00:24:12,526 --> 00:24:27,909
+Propter carnalis namque in ecclesia non propter
+spiritualis consuetudo est constituta cantandi, ut qui
+verbis non compunguntur, suavitate modolaminis
+moveantur, pensantes quanta sit dulcedo caelestis
+cantici, quando in incolatu hujus saeculi tam eleganter
+resonat Ecclesia laudes Christi.
+
+135
+00:24:27,909 --> 00:24:43,826
+Antiphona autem dicta, quia prius ipsa anteponitur, et sic ponetur psalmi versiculum, cum gloria Trinitatis adnectetur, quarum quaterna sunt genera, organo ex prophetico, tympano ex evangelii sacro tonitruo, vel compassione catholicorum Patrum pro ordine temporum, vel deprecando, vel narrando, vel
+
+136
+00:24:43,826 --> 00:24:45,909
+laudes divinas tympanizando compositae.
+
+137
+00:24:45,909 --> 00:24:58,247
+Responsoria vero quae in divinis officiis die aut
+nocte cantantur, de Pentateucho Moysi duxerunt originem,
+quando Pharaone submerso, Maria prophetissa
+sumens tympanum, praecinebat canticum, et
+respondebat populus adunatus in choro.
+
+138
+00:24:58,247 --> 00:25:10,853
+Horum vero
+quaterna ratio constat, sicut de Antiphonabus superius
+continetur. Consuetudo praecinendi et respondendi
+non solum ad mare Rubrum, sed in multis
+Ebraeorum gentibus comprobatur, quod plenius
+Veteris Testamenti narrat historia.
+
+139
+00:25:10,853 --> 00:25:20,039
+Sanctus Deus archangelorum in quadragesimo
+concinetur et non canticum Zachariae, quia ista
+modulatio deprecabilis est populo, sicut verba texti
+ipsius continentur.
+
+140
+00:25:20,039 --> 00:25:27,947
+Et propter hoc non canetur prophetia,
+propter quod et baptisterium claudetur; scilicet
+quia canonis praecipiunt, vel baptismum quadragesimae
+non est.
+
+141
+00:25:27,947 --> 00:25:42,913
+Oleum autem quod cum chrisma benedicitur,
+voce psalmi ostenditur, qui de Christo profertur
+(Psal XLIV 8): Unxit te Deus de oleo laetitiae prae
+consortibus tuis, vel illud: Oleo sancto meo linui eum
+(Psal LXXXVIII 21), prius ergo ungebantur veteris
+oleo, sic perfundebantur unguento.
+
+142
+00:25:42,913 --> 00:25:55,915
+Specialiter autem
+oleum Graece Latine misericordia dicitur, et per
+oleum Sancti Spiritus gratia designatur. Hunc enim
+liquorem consecravit Deus in Ecclesia ad mystica
+conficienda unguenta, vel praeparanda lucerna, vel
+fovenda peccaminum vulnera.
+
+143
+00:25:55,915 --> 00:26:03,875
+Symbulum quoque pro hoc competentibus supra
+scripto die tradetur, ut sicut quando dixit Deus Fiat
+lux, quod signat illuminatio credulitatis, appareat.
+
+144
+00:26:03,875 --> 00:26:17,090
+Septima Die benedixit et sanctificavit in requie: ideo
+hac die fides populi firmatur, symbolum et lacte
+chrismatis enutritur, quia in die septima requies
+Christi in sepulcro coletur, et declinante jam die
+triumphum resurrectionis illius consecratur.
+
+145
+00:26:17,090 --> 00:26:32,108
+Ideo
+autem venientem sacerdotem symbolum tradere, expandetur
+super cancellum molliciis plumarum, vel
+candida sabana, et defertur in calicis vascula chrismatis
+et olei benedicenda, vel codix sacri Evangelii
+rubro tectus velamine, quia populus ad fidem
+veniens infantiae figuram tenet.
+
+146
+00:26:32,108 --> 00:26:43,731
+Sicut enim infans
+est tener et novus in corpore: ita caticuminus tener
+et novus in fidem, infantis membra super plumacia
+ponuntur, ut melius nutriatur. Caticumino blanda
+verba Domini proferuntur, quo amplius delectetur.
+
+147
+00:26:43,731 --> 00:26:59,439
+Non enim potest sustinere fortiora praecepta ante
+quam per baptismum Spiritus sancti confirmetur in
+gratia. Membra parvoli sabana, id est candido ac vilati
+linteo exterguntur, ne corium ei laedatur. Ita
+caticumino subtilitas fidei aperitur in symbulo, ut per
+credulitate tergatur ab omni peccato.
+
+148
+00:26:59,439 --> 00:27:04,799
+Prius liniter
+per blanda praecepta, ne exasperetur tener in intelligentia,
+post modum . . . .
+
+149
+00:27:04,799 --> 00:27:20,182
+per fortiora mandata ut
+convalescat per opera. Infans lacte nutritur, et caticumenis
+chrismate unguetur. Lac ex matris ubera
+suggetur, et chrisma in sinu sanctae matris Ecclesiae
+consecratur. Liber autem Evangelii in specie corporis Christi
+rubro tegitur velamine, sanguinis signo monstrante.
+
+150
+00:27:20,182 --> 00:27:31,930
+In calicis autem chrismae vascula deferuntur, quia
+omnia sacramenta baptismatis in Christi passione
+firmantur. Vitrea autem vel cristallina vasa chrismatis,
+claritatem signant baptismatis. Balsamum autem
+chrisma conficitur.
+
+151
+00:27:31,930 --> 00:27:47,260
+Lentiscus genus ligni dicitur,
+unde risina balsamae tolletur, de hoc lentisco in
+cruce dominica illa pars fuisse traditur, ubi sanctas
+manus Domini clavo confixit impius, perficitur. Ideo
+et risina ligni ipsius dispensante . . . etiam ab antiquis
+temporibus imprimatis . . . . transfundetur.
+
+152
+00:27:47,260 --> 00:27:56,058
+Angelus
+enim Dei ad secreta super altare tamquam super monumentum
+descendit, et ipsam hostiam benedicit,
+instar illius angeli qui Christi resurrectionem evangelizavit.
+
+153
+00:27:56,058 --> 00:28:06,594
+Tunc libera lingua, et voce clara omnia
+cantica quae in quadragesima fuerunt sub silentio
+clausa recipiuntur, et submersio Pharaonis et Sanctus
+de caelis et alleluia cum gaudiis quia surrexit
+Dominus.
+
+154
+00:28:06,594 --> 00:28:22,346
+Media autem nocte in officio consummatur, quia media nocte fregit infernum Salvator, tunc ab ore fidelis populi Agni caro comeditur, et sanguis dulciter bibetur, per quod omnis mundus pretio praeclaro redimitur, atque ilico discitur ut auroris tentae diluculo laus resurrectioni Domini claro cantico
+
+155
+00:28:22,346 --> 00:28:23,979
+cum benedictionibus celebretur.
+
+156
+00:28:23,979 --> 00:28:32,935
+Palleum vero in pascha cum tintinnabulis Eucharistia
+velatus instar veteris testamenti, ubi tonica
+sacerdotis plena tintinnabulis signans verba praedicationis
+ostenditur.
+
+157
+00:28:32,935 --> 00:28:48,791
+Praecinctio autem vestimenti
+candidi quod sacerdos baptizaturus praecingitur in
+signa sancti Joannis agetur, qui praecinctus baptizavit
+Dominum. Albis autem vestibus in Pascha induetur
+secundum quod angelus ad monumentum
+albis vestibus cerneretur. Albae etenim vestis exultationem
+significant.
+
+158
+00:28:48,791 --> 00:29:03,643
+Casula quam amphibalum vocant, quod sacerdos
+induetur, tota unita per Moysem legiferum instituta
+primitus demonstratur. Jussit ergo Dominus fieri
+dissimilatum vestimentum, ut talem sacerdos induerit,
+quale indui populus non auderetur. Ideo sine
+manicas, quia sacerdus potius benedicit quam ministrat.
+
+159
+00:29:03,643 --> 00:29:14,781
+Ideo unita prinsecus, non scissa, non aperta;
+quia multae sunt Scripturae sacrae secreta mysteria,
+quae quasi sub sigillo sacerdoti doctus debet abscondere,
+et unitatem fidei custodire, non in haerese
+vel schismata declinare.
+
+160
+00:29:14,781 --> 00:29:25,078
+Palleum vero quod circa collo usque ad pectus
+venit, rationale vocabatur in vetere testamento, scilicet
+signum sanctitatis super memoriam pectoris,
+dicente propheta ex persona Domini Spiritus Domini
+super me.
+
+161
+00:29:25,078 --> 00:29:39,979
+Et post pauca, ut ponerem gloriam lugentibus
+Sion, et darem eis coronam pro cinere, oleum
+gaudii pro luctu (Isai LXI 3). Palleum laudes pro
+spiritu maeroris. Quod autem collo cingit, antiquae
+consuetudinis est, quia reges et sacerdotes circumdati
+erant palleo veste fulgente, quod gratia praesignabat.
+
+162
+00:29:39,979 --> 00:29:52,108
+Quod autem fimbriis vestimenta sacerdotalia
+adnectuntur, Dominus Moysi praecepit in Numeris,
+ut per quatuor angulos palleorum filii Israel fimbrias
+facerent, ut populus Domini non solum opere, sed
+etiam et vestitu mandatorum Dei signum portaret.
+
+163
+00:29:52,108 --> 00:30:06,415
+Manualia vero, idest manicas induere sacerdotibus
+mos est instar armillarum, quas regum vel sacerdotum
+brachia constringebantur. Ideo autem ex quolibet
+pretioso vellere, non metalli duritia extant, vel
+ut omnes communiter sacerdotes, etiam minoris dignitatis
+in saeculo facilius inveniant.
+
+164
+00:30:06,415 --> 00:30:16,365
+Vestimentum parvolum, quod non sit in alio uso,
+nisi ad frequentandum sacrificium, vel significat quod
+non graventur manus nostrae honoribus saeculi, sed
+circumdentur subtilia exercitia mandatorum Dei.
+
+165
+00:30:16,365 --> 00:30:24,336
+Prohibet autem manica tonica ne appareat vile vestimentum,
+aut quocumque indignum tactum sordium
+super divina sacrificia, quo manus immolantes discurrunt.
+
+166
+00:30:24,336 --> 00:30:39,476
+Albas vero, quas levitae utuntur, ideo statuerunt patres, quia in vestimento tincto non sic apparet cito macula quomodo in albo: et minister altaris ideo utitur, ut observet et caveat omnem maculam, et nullatenus vestimenta ministrantium vel leviore tactu appareant sordida; sed candida sint exterius
+
+167
+00:30:39,476 --> 00:30:40,586
+veste, interius mente.
+
+168
+00:30:40,586 --> 00:30:49,569
+Sirico aut vellere fictur, quia Dominus
+sacerdotibus ideo exinde habere indumenta mandavit,
+ut eorum vestis spem resurrectionis ostenderet. Sirico enim de ligno per verme fictur.
+
+169
+00:30:49,569 --> 00:31:03,901
+Vermis
+post mortem procedit in alate, et post occasum et
+volatum figurans Christum, qui ex ligno crucis
+quiescens in sepulchro tamquam vermis clausus in
+sacculo angusto, surrexit de tumulo, et ad caelos
+sumsit volatum. Alterius vero velleris alba innocentiam
+tantum vitae demonstrant.
+
+170
+00:31:03,901 --> 00:31:14,802
+Alba autem non
+constringitur cingulo, sed suspensa tegit levitae corpusculum,
+quia omnis conversatio Levitica in desiderio
+caelestis patriae a terrenis operibus debet esse
+suspensa, nec cingulo peccatorum constricta.
+
+171
+00:31:14,802 --> 00:31:23,684
+Stola autem quam super alba diaconus induit,
+significat subtilitatis intelligentiam in divina mysteria,
+licet veteri stola induentes gaudium solemnitatis
+se habere monstrabant.
+
+172
+00:31:23,684 --> 00:31:33,677
+Et pro hac causa in quadragesima
+pro humiliatione non utetur, sicut nec alleluia
+in nostra Ecclesia, Sanctus, vel prophetia,
+hymnum trium puerorum, vel canticum Rubri maris
+illis diebus decantantur.
+
+173
+00:31:33,677 --> 00:31:44,124
+Stola alba namque angelus
+praecinctus apparuit quando sedens in monumento
+Domini, solemnitatem resurrectionis illius nunciavit. Ideo in Quadragesima prohibendum haec cantica,
+quia caelestia et angelica sunt.
+
+174
+00:31:44,124 --> 00:31:58,607
+De caelis enim
+columna ignis in nocte, et columna nubis in die, angelus
+in camino flammae in caelis audita est. Alleluia
+vel Sancti tacentur ergo in poenitentia, ut nova
+fiant in Resurrectione dominica quando reserantur
+et baptisma. Oportet ergo levita caelestem cantet
+canticum.
+

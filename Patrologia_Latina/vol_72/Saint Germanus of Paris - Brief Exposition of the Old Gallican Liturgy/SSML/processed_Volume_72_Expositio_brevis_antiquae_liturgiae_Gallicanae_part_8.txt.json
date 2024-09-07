@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n        <s>\n      On the Prophet and the Apostle.\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "DE PROPHETA ET APOSTOLO.",
+      "voice": "Matthew"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      The prophetic readings, especially from the Old Testament, reprove wrongs and announce the future.\n    </s>\n    <s>\n      This helps us understand that the same God who thundered in prophecy also taught through the Apostle and shone in the splendor of the Gospel.\n    </s>\n  </p>\n</speak>",
+      "original_latin": " Lectio vero prophetica suum tenet ordinem, veteris\nvidelicet testamenti corripiens mala et adnuncians\nfutura, ut intelligamus ipsum Deum esse, qui in prophetia\ntonuit, quam qui et in Apostolo docuit, et in\nEvangelico splendore refulsit.",
+      "voice": "Matthew"
+    }
+  ]
+}

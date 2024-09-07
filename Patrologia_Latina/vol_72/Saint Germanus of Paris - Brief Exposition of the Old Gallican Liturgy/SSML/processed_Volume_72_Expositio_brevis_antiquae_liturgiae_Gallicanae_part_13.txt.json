@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE SANCTUS POST EVANGELIUM. ",
+      "cleaned_english_translation": "<speak>\n        <p>\n            <s>On the Holy Hymn after the Gospel</s>\n        </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    \n\n        <p>\n            <s>The holy hymn that the clergy sing when the holy gospel returns is reminiscent of the saints, who sang a song of praise to the Lord when Jesus Christ returned from the dead.</s>\n        </p>\n        <p>\n            <s>It also brings to mind the seventy-four elders mentioned by John in the Book of Revelation, who, throwing their crowns before the Lamb, sang a sweet song.</s>\n        </p>\n    \n</speak>",
+      "original_latin": "Sanctus autem quod redeunte sancto Evangelio\nclerus cantat, in specie sanctorum, qui redeunte\nDomino Jesu Christo de inferis canticum laudis Dominum\nsequentis cantaverunt, vel septuaginta quatuor\nseniorum quos in Apocalypsin Johannes commemorat,\n qui mittentes coronas suas ante Agnum\ndulce canticum cantaverunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

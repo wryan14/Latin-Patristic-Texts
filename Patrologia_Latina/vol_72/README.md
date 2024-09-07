@@ -6,3 +6,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Privilege of the Monastery of Saint Germanus by Germain of Paris - Archive.org](https://archive.org/details/privilege-of-the-monastery-of-saint-germanus)
 * [Privilege of the Monastery of Saint Germanus by Germain of Paris - Archive.org](https://archive.org/details/privilege-of-the-monastery-of-saint-germanus)
 * [Letter to Saint Nicetius by Abbot Florianus - Archive.org](https://archive.org/details/letter-to-saint-nicetius)
+* [Brief Exposition of the Old Gallican Liturgy by Saint Germanus of Paris - Archive.org](https://archive.org/details/brief-exposition-of-the-old-gallican-liturgy)

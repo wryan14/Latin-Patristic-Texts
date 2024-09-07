@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n   On the Hymn\n<break time=\"1s\"/>\n</speak>",
+            "original_latin": "DE HYMNUM. ",
+            "voice": "Matthew"
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>The hymn of the three young men, sung after the reading, symbolizes the holy ones of old who sat in darkness awaiting the coming of the Lord.</s>\n    <s>Just as the fourth angel came to them in a cloud of dew, overcoming the fires while they were silent, so too did the Son of God, the Angel of Great Counsel, appear to those awaiting Christ.</s>\n    <s>He shattered the powers of hell, bringing them the joy of resurrection, as the Evangelist teaches.</s>\n  </p>\n  <p>\n    <s>In this way, the church also maintains the order: between the blessing and the Gospel, a reading intercedes, unless only a responsory is sung by the little ones.</s>\n    <s>This resembles the innocent ones mentioned in the Gospel who are read about at the birth of Christ, or those little ones who, as the Lord hastened to His passion, cried out in the temple, \"Hosanna to the Son of David.\"</s>\n    <s>As the Psalmist sings, \"Out of the mouths of infants and nursing babies you have perfected praise\" (Psalm 8:3).</s>\n  </p>\n</speak>",
+            "original_latin": "Hymnum autem trium puerorum, quod post lectionis\ncanetur in figura sanctorum veterum, qui sedentes\nin tenebris adventum Domini expectabant. Sicut\nenim illis silentibus quartus angelus adfuit in nubem\nroris, inferens ignis incendia vicit: ita et istis Christo\npraestolantibus ipse Dei Filius magni consilii Angelus\nadfuit, qui tartaria frangens imperia, gaudium\nresurrectionis illos liberans intulit, quod Evangelista\ndocet. Secundum hoc etiam ecclesia servat ordinem,\nut inter benedictionem et Evangelium lectio intercedat\n nisi tantum modo responsorium, quod a parvolis\ncanetur, instar innocentum qui pressi in Evangelium\nconsortis Christi nativitatem leguntur, vel eorum\nparvolorum qui properante ad passionem Domini,\nclamabant in templum Osanna Fili David, Psalmista\ncanente ex ore infantium et lactentium perfecisti laudem\n(Ps VIII 3).",
+            "voice": "Matthew"
+        }
+    ]
+}

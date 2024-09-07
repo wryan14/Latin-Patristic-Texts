@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE CATICUMINO. ",
+      "cleaned_english_translation": "<speak>\n  On the Catechumen. \n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n  The deacon calls out the catechumen according to the ancient rite of the church. Jews, heretics, or pagans who were being instructed and came for baptism were tested before being baptized. They would stand in the church and listen to the teachings of the Old and New Testament.\n  </p>\n  <p>\n    Afterwards, the deacons would pray for them, the priest would say the collect, and after the prayer, they would leave. They were not deemed worthy to stay while the offering was being brought in, so they would listen outside the door, prostrated on the ground. It was the responsibility of the deacon or the doorkeeper to remind them to leave and to ensure that no one unworthy remained in the temple, saying, \"Do not give what is holy to dogs, nor cast your pearls before swine.\"\n  </p>\n  <p>\n    For what on earth is holier than the making of the body and blood of Christ? And what is more unclean than a dog and a pig? This refers to those who have not been cleansed by baptism or have not been marked by the sign of the cross.\n  </p>\n  <p>\n    We are spiritually commanded to maintain silence, watching at the door. This means placing the sign of the cross before our face, refraining from the tumult of words or sins. In this way, desire does not enter through the eyes, anger through the ears, and no foul word comes out of the lips. The heart should intend solely to receive Christ within itself.\n  </p>\n</speak>",
+      "original_latin": "Caticuminum ergo diaconus ideo clamat juxta\nanticum ecclesiae ritum, ut tam Judaei, quam haeretici,\nvel pagani instructi, qui grandis ad baptismum\nveniebant, et ante baptismum probantur starent in\necclesia, et audirent consilium Veteris et Novi Testamenti,\npostea deprecarent pro illos levitae, diceret\nsacerdos collecta, post prece exirent postea foris,\nqui digni non erant stare, dum inferebatur oblatio,\net foras ante ostium abscultarent prostrati ad terram\nmagnalia: quae cura ad diaconum vel ad ostiarium\npertinebat, ut illis admoneret exire, iste provideret\nne quis indignus retardaretur in templo dicendo nolite\ndare Sanctum canibus, neque mittatis margaritas\nvestras ante porcos. Quid enim in terra sanctius confectione\ncorporis et sanguinis Christi? et quid plus\n immundum canis et porci? Similitudine comparandum\neo, vel qui non est purgatus baptismo, vel non\nmonitus crucis signaculum. Spiritaliter jubemur silentium facere observantes\nad ostium, id est ut tacentis a tumultu verborum vel\nvitiorum signum crucis ponamus ante faciem nostram,\nne intret concupiscentia per oculis, ira per\naurem, ne prodeat sermo turpis ex labiis, et hoc\nsolum cor intendat, ut in se Christum suscipiat.",
+      "voice": "Matthew"
+    }
+  ]
+}

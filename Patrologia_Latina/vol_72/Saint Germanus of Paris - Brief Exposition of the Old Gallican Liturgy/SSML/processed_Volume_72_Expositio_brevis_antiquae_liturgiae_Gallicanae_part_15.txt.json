@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n<s>On prayer.</s>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "DE PRECE. ",
+      "voice": "Matthew"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>About prayer.</s>\n    <s>The practice of deacons praying for the people originates from the books of Moses.</s>\n    <break time=\"500ms\"/>\n    <s>When they hear the apostles' preaching, the deacons pray for the people, and the priests, prostrated before the Lord, intercede for the sins of the people.</s>\n    <break time=\"500ms\"/>\n    <s>As the Lord said to Aaron:</s>\n    <break time=\"500ms\"/>\n    <s>\"You and your sons or the entire tribe of Levi will bear the sins of my people, not by enduring punishment, but by alleviating them through prayers.\"</s>\n  </p>\n</speak>",
+      "original_latin": "Preces vero psallere levitas pro populo ab origine\nlibris Moysacis ducit exordium, ut audita apostolis\npraedicatione, levitae pro populo deprecentur, et sacerdotes\nprostrati ante Dominum pro peccata populi\nintercedant, dicente Domino ad Aaron: Tu et filii tui\nvel omnis tribus Levi portabitis peccata populi mei, utique\nnon paenaliter sustinendo; suissed precibus sublevando.",
+      "voice": "Matthew"
+    }
+  ]
+}
