@@ -16,3 +16,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Against Greed in four books Book Four by Salvian of Marseille - Archive.org](https://archive.org/details/against-greed-in-four-books-book-four)
 * [History of Predestinarianism by Jacques Sirmond - Archive.org](https://archive.org/details/history-of-predestinarianism)
 * [Letter on the Death of Paulinus by Uranus - Archive.org](https://archive.org/details/letter-on-the-death-of-paulinus)
+* [Predestined or the Heresy of the Predestinators three books by Anonymous - Archive.org](https://archive.org/details/predestined-or-the-heresy-of-the-predestinators-three-books)
