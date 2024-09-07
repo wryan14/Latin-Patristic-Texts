@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem in libro de Incarnatione Domini . Spiritum quoque sanctum, non ingenitum, neque\ngenitum, sed ex Patre Filioque procedentem, eo\nquod Patris et Filii sit spiritus, et ipse consubstantialis\net coaeternus ambobus; nec alium fuisse Spiritum\n sanctum quem insufflans dedit, et alium quem\npost ascensionem suam misit. Unus enim spiritus\nDei spiritus Patris et Filii Spiritus sanctus, idem\nDeus qui operatur omnia in omnibus, ita ut perfecta\ncredatur Trinitas propter proprietatem personarum,\net unus Deus propter inseparabilem Trinitatem.",
+      "cleaned_english_translation": "<speak>\n\t<p>\n\t\t<s>Also, in the same book about the Incarnation of the Lord:</s>\n\t\t<s>The Holy Spirit is neither unbegotten nor begotten, but proceeds from the Father and the Son, as He is the Spirit of both the Father and the Son.</s>\n\t\t<s>He is consubstantial and coeternal with both.</s>\n\t</p>\n\t<p>\n\t\t<s>The Holy Spirit given when He breathed is the same Spirit sent after His ascension.</s>\n\t\t<s>There is one Spirit of God, the Spirit of the Father and the Son, the Holy Spirit.</s>\n\t</p>\n\t<p>\n\t\t<s>The same God works all things in all people, making the Trinity perfect due to the distinctness of the persons, and one God because of the inseparable Trinity.</s>\n\t</p>\n</speak>"
+    }
+  ]
+}

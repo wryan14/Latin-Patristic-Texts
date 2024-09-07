@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in eodem opere (Lib III in fine), post pauca. Cum igitur sancta Scriptura amplius de Trinitate\n non dicat, nisi Deum Patrem esse Salvatoris, et Filium\ngeneratum esse a Patre, hoc tantummodo debemus\nsentire quod scriptum est, et ostenso quod Spiritus\nsanctus increatus sit, consequenter intelligere\nquod cujus non est creata substantia, recte Patri\nFilioque societur. Haec juxta eloquii nostri paupertatem\nin praesenti dicta sufficiant.",
+            "cleaned_english_translation": "<speak>\n    <s>Also, in the same work, Book Three at the end, shortly after, we see that since the Holy Scripture does not say more about the Trinity except that God the Father is the Savior and the Son is begotten by the Father, we should only believe what is written.</s>\n    <s>It has also been shown that the Holy Spirit is uncreated, so it follows that what is not created rightly belongs with the Father and the Son.</s>\n    <s>Let these words, in light of our humble expression, be sufficient for the present.</s>\n</speak>"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    Similarly, in the book of Hymns <phoneme alphabet=\"ipa\" ph=\"hɪmn\">hymn</phoneme> 5, verse 5, in the choriambic meter, which is called Asclepiadean:\n  </p>\n  <p>\n    O kind leader, inventor of the radiant light,\n    <break time=\"500ms\"/>\n    Who divides time into certain intervals,\n    <break time=\"500ms\"/>\n    When the sun is submerged, horrid chaos looms,\n    <break time=\"500ms\"/>\n    Christ, return light to your faithful.\n  </p>\n  <p>\n    In the same book, verse 157:\n  </p>\n  <p>\n    Through Christ, your Son, Highest Father,\n    <break time=\"500ms\"/>\n    In whom visible glory stands before you,\n    <break time=\"500ms\"/>\n    Who is our Lord, your Only Son,\n    <break time=\"500ms\"/>\n    Breathes the Paraclete from the Father's heart.\n  </p>\n  <p>\n    Through whom splendor, honor, praise, and wisdom,\n    <break time=\"500ms\"/>\n    Majesty, goodness, and your piety\n    <break time=\"500ms\"/>\n    Continue the kingdom in the triple name,\n    <break time=\"500ms\"/>\n    Weaving ages through eternal ages.\n  </p>\n<break time=\"2s\"/>\n</speak>",
+            "original_latin": "Item idem in libro Hymnorum (hymno 5 v 5), metro\nchoriambico, quod Asclepiadeum nominatur. Inventor rutili dux bone luminis,\nQui certis vicibus tempora dividis,\nMerso sole chaos ingruit horridum,\nLumen redde tuis, Christe, fidelibus. (Ibid v 157) Per Christum genitum, summe Pater, tuum,\nIn quo visibilis stat tibi gloria,\nQui noster Dominus, qui tuus Unicus,\nSpirat de patrio corde Paraclitum. Per quem splendor, honor, laus, sapientia,\nMajestas, bonitas, et pietas tua\n Regnum continuat nomine triplici,\nTexens perpetuis saecula saeculis.",
+            "voice": "Matthew"
+        }
+    ]
+}

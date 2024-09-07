@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in libro Moralium secundo (cap 28). Si prophetiae spiritus prophetis semper adesset,\nDavid regi de constructione templi consulenti nequaquam\nNathan propheta concederet quod post\n paululum negaret. Unde bene in Evangelio scriptum\nest: Super quem videris Spiritum descendentem et\nmanentem super eum, hic est qui baptizat (Joan I 33). In cunctos namque fideles  spiritus venit, sed in solo mediatore semper\nsingulariter permanet: quia ejus humanitatem\nnunquam deseruit, ex cujus divinitate procedit. In\nillo igitur manet, qui solus et omnia et semper potest.",
+            "cleaned_english_translation": "<speak>\n  <p>\n    Also, in the same book of Moralia, chapter 28: If the spirit of prophecy were always present to the prophets, Nathan the prophet would not have given permission for something he would later deny to King David when asked about building the temple.\n  </p>\n  <p>\n    Hence, it is well written in the Gospel: <break time=\"500ms\"/> \"Upon whom you see the Spirit descending and remaining on him, this is he who baptizes\" <break time=\"500ms\"/> (John 1:33).\n  </p>\n  <p>\n    For the spirit comes to all the faithful, but it remains singularly and always in the mediator alone, because it never left his humanity, from whose divinity it proceeds. Therefore, it remains in him, who alone can do all things always.\n  </p>\n</speak>"
+        }
+    ]
+}

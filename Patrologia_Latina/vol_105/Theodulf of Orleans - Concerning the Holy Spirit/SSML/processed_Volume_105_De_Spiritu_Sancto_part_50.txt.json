@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem in libro nono ejusdem operis. Deum itaque Patrem, non totius Trinitatis, sed\nFilii et Spiritus sancti fatemur auctorem: de quo\nhabet unigenitus Filius aeternae nativitatis, et Spiritus\nsanctus aeternae processionis originem. Unitas\nautem naturalis, creatorem Filium de creatore Patre\nnaturali nativitate insinuat exstitisse et creatorem\nSpiritum sanctum de Patre Filioque procedere.",
+      "cleaned_english_translation": "<speak>\n  <p>\n    Also, in the ninth book of the same work, we recognize God the Father as the source, not of the entire Trinity, but specifically of the Son and the Holy Spirit.\n  </p>\n  <p>\n    The only-begotten Son originates from the Father through eternal birth, and the Holy Spirit originates from the Father through eternal procession.\n  </p>\n  <p>\n    However, natural unity implies that the Son, the creator, comes from the Father, the creator, by natural birth, and that the Holy Spirit, the creator, proceeds from both the Father and the Son.\n  </p>\n</speak>"
+    }
+  ]
+}

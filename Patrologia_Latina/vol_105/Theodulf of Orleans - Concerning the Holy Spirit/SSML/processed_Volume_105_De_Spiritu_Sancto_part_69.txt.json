@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem in libro Hymonorum (Cathemerinon, hymno\n6, v. 5), metro iambico. O Trinitatis hujus\n Vis una, lumen unum,\nDeus ex Deo perennis,\nDeus ex utroque missus.",
+      "cleaned_english_translation": "<speak>\n    \n        Similarly, in the Book of Hymns, Cathemerinon, hymn 6, verse 5, written in iambic meter: \n        O power of this Trinity, one light, eternal God from God, God sent from both.\n    \n</speak>"
+    }
+  ]
+}

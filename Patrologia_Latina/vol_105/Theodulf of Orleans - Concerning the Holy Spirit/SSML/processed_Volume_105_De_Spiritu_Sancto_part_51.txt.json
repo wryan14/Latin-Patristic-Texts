@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Item idem in libro decimo ejusdem operis. Expleta vero confessione verae divinitatis veraeque\nhumanitatis unici Filii Dei, confitemur nos credere\nin Spiritum sanctum, qui est unus spiritus Patris\net Filii, de Patre Filioque procedens, in Patre Filioque\nnaturaliter manens, de Patre ac Filio unius divinitatis\nhabens naturaliter veritatem.",
+      "cleaned_english_translation": "<speak>\n  \n    <p>\n      Also, in the tenth book of the same work, after affirming the true divinity and humanity of the only Son of God, we declare our belief in the Holy Spirit.\n    </p>\n    <p>\n      The Holy Spirit is one spirit with the Father and the Son, proceeding from both, naturally remaining in both, and sharing the same divine truth as the Father and the Son.\n    </p>\n  \n</speak>"
+    }
+  ]
+}

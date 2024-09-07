@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item idem in libro tertio (In prooemio), quod Spiritus\nsanctus a Patre Filioque missus sit. Cum enim ad id ventum esset, ut vellemus ostendere,\n non ideo minorem Patre Filium, quia ille misit\nhic missus est, nec ideo minorem utroque Spiritum\nsanctum, quia et ab illo et ab illo missus in Evangelio\nlegitur, suscepimus hoc quaerere, cum illuc\nmissus sit Filius ubi erat, quia in hunc mundum\nvenit, et in hoc mundo erat, cum illuc etiam Spiritus\nsanctus ubi et ipse erat, quoniam spiritus Domini\nreplevit orbem terrarum, et hoc quod continet omnia\nscientiam habet vocis (Sap I 7).",
+            "cleaned_english_translation": "<speak>\n    <p>\n        Similarly, in the third book <break time=\"500ms\"/> in the preface, it is stated that the Holy Spirit was sent by the Father and the Son. When it was time to show that the Son is not lesser than the Father because the Father sent Him <break time=\"500ms\"/> and that the Holy Spirit is not lesser than either because He is sent by both <break time=\"500ms\"/> as it is read in the Gospel, we undertook this inquiry: The Son was sent to where He was because He came into this world <break time=\"500ms\"/> and He was in this world <break time=\"500ms\"/> and likewise, the Holy Spirit was sent to where He was because the Spirit of the Lord filled the whole world. \n    </p>\n    <p>\n        And what contains all things has knowledge of the voice <break time=\"500ms\"/> as stated in <phoneme alphabet=\"ipa\" ph=\"ˈwɪzdəm\">Wisdom</phoneme> Chapter 1, Verse 7.\n    </p>\n</speak>"
+        }
+    ]
+}

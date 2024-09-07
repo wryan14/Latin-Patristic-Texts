@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Prudentius in libro contra Marcionistra (Harmartigenia,\nv. 931), metro heroico. O Dee cunctiparens, animae dator, o Dee Christe,\nCujus ab ore Deus subsistit Spiritus unus.",
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>Prudentius, in his book against the Marcionists, Harmartigenia, verse 931, written in heroic meter.</s>\n    <break time=\"500ms\"/>\n    <s>O God, creator of all, giver of the soul,</s>\n    <break time=\"500ms\"/>\n    <s>O God Christ, from whose mouth proceeds the one Spirit of God.</s>\n  </p>\n</speak>"
+        }
+    ]
+}
