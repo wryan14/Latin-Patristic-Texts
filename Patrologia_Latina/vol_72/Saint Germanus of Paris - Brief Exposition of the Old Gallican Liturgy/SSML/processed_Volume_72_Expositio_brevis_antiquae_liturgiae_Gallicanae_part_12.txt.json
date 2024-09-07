@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "DE EVANGELIO. ",
+            "cleaned_english_translation": "<speak>\n    <s>On the Gospel.</s>\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Matthew",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>The procession of the Holy Gospel goes forth like the power of Christ triumphing over death.</s>\n    <s>With the aforementioned harmonies, and with seven candleholders of light, which are the seven gifts of the Holy Spirit, or the five lights of the law fixed to the mystery of the cross, ascending to the platform of the pulpit, like Christ to the throne of the Father's kingdom.</s>\n    <s>From there, the gifts of life resound, with the clerics shouting \"Glory to you, Lord,\" in the manner of the angels who, at the birth of the Lord, sang \"Glory to God in the highest\" <break time=\"500ms\"/> (Luke 2:14) to the shepherds appearing.</s>\n  </p>\n</speak>",
+            "original_latin": "Egreditur processio sancti Evangelii velud potentia\n Christi triumphantis de morte, cum praedictis armoniis,\net cum septem candelabris luminis quae sunt\nseptem dona Spiritus sancti vel v. legis lumina mysterio\ncrucis confixa, ascendens in tribunal analogii ,\nvelud Christus sedem regni paternae, ut inde intonit\ndona vitae, clamantibus clericis Gloria tibi, Domine, in\nspecie angelorum qui nascente Domino Gloria in excelsis\nDeo (Luc II 14) pastoribus apparentibus cecinerunt.",
+            "voice": "Matthew"
+        }
+    ]
+}

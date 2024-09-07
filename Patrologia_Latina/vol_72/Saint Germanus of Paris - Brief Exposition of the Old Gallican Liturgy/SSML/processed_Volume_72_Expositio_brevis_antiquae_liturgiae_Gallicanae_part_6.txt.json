@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    On Aius<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "DE AIUS . ",
+      "voice": "Matthew"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  Aius is sung in Greek before the prophecy because the New Testament was spread throughout the world in Greek, except for the Apostle Matthew, who first published the Gospel of Christ in Hebrew in Judea. \n  <break time=\"500ms\"/> \n  Therefore, respect the language that first received the Gospel of Christ in its old age or taught the first hymn in its letters. \n  <break time=\"500ms\"/> \n  When the leader of the Church begins, Aius sings in both Latin and Greek to show the union of the Old and New Testaments. \n  <break time=\"500ms\"/> \n  The word \"Amen\" is said in Hebrew, just like the title that Pilate placed above the cross, inspired by God, confessing, although unknowingly, \"Jesus of Nazareth,\" which means \"Holy and King.\" \n  <break time=\"500ms\"/> \n  The three little ones who follow, saying \"Kyrie eleison\" in Hebrew, Greek, and Latin, represent the three ages of the world: before the law, under the law, and under grace.\n</speak>",
+      "original_latin": "Aius vero ante prophetia pro hoc cantatur in\nGraeca lingua, quia praedicatio Novi Testamenti in\nmundo per Graeca lingua processit, excepto Mathaeo\napostolo, qui primus in Judaea Evangelium\n Christi Hebraeis litteris edidit. Servate ergo honorem\nlinguae, quae prima Evangelium Christi vel suo senio\nrecipit, vel suis litteris docuit primum canticum. Incipiente\npraesule Ecclesiae Aius  psallet dicens Latino\ncum Graeco, ut ostendat junctum Testamentum\nVetus et Novum. Dictum Amen ex Hebraeo instar tituli\nquod in trinitate linguarum instigante Deo Pilatus\nposuit super crucem confitens quamvis ignarus\nJesus Nazarenus, id est Sanctum et Regem. Tres\nautem parvoli qui ore uno sequentes Khyrie eleison\nHebraea scilicet Graeca et Latina, vel trium temporum\nsaeculi, ante legem scilicet sub lege et sub gratia,",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE PROPHETIA. ",
+      "cleaned_english_translation": "<speak>\n        On Prophecy.\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>The song of Zechariah, the high priest, honors Saint John the Baptist because the beginning of salvation starts with the sacrament of baptism, which John administers through God's gift.</s>\n        <s>As the shadow of the old fades and the brightness of the new Gospel rises, John is the last of the prophets and the first of the evangelists.</s>\n        <s>He shone like a lamp before the true Light.</s>\n        <s>Therefore, the prophecy his father sang at his birth is sung by the church with alternating voices.</s>\n    </p>\n</speak>",
+      "original_latin": "Canticum  autem Zachariae pontificis in honorem\nsancti Johannis Baptistae cantatur, pro eo quod primordium\n salutis in baptismi sacramenta consistit,\nquod in ministerium Johannis Deo donante suscipit\net deficiente umbra veteris, et oriente nova Evangelii\nclaritate Johannes medius est prophetarum novissimus\net evangelistarum primus ante faciem verae\nLucis radians lucerna fulsit: ideo prophetia quam\npater ejus ipso nascente cecinit, alternis vocibus ecclesia\npsallet.",
+      "voice": "Matthew"
+    }
+  ]
+}

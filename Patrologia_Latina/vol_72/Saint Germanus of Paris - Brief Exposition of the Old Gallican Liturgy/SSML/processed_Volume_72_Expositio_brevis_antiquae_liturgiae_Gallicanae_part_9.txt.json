@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE APOSTOLO. ",
+      "cleaned_english_translation": "<speak>\n     <p>\n    On the Apostle\n  </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    What the prophet foretells will happen, the apostle teaches has already occurred. The Acts of the Apostles or the Revelation of John are read during the joyous celebration of Easter. This follows the sequence of events, similar to the Old Testament history during Pentecost, or the stories of holy confessors and martyrs on their feast days. This helps people understand how much Christ loved his servant, showing a sign of virtue, whom the devout faithful ask to be their patron.\n  </p>\n</speak>",
+      "original_latin": "Quod enim propheta clamat futurum, apostolus\ndocet factum. Actus autem apostolorum vel Apocalypsis\nJohannis pro novitate gaudii Paschalis leguntur,\nservantes ordinem temporum sicut historia Testamenti\nVeteris in Quinquagesimo, vel gesta sanctorum\n confessorum ac martyrum in solemnitatibus\n eorum, ut populus intellegit quantum Christus\namaverit famulum, dans ei virtutis indicium, quem\ndevota plebicula suum postolat patronum.",
+      "voice": "Matthew"
+    }
+  ]
+}

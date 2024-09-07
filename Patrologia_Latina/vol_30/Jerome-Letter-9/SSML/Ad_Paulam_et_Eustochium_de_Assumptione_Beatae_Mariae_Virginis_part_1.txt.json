@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>Letter Nine, traditionally attributed to Jerome.<break time=\"500ms\"/>\nTo Paula and Eustochium on the Assumption of the Blessed Virgin Mary.<break time=\"2s\"/>\n</speak>",
+      "original_latin": "S. HIERONYMI\nEPISTOLA IX. AD PAULAM ET EUSTOCHIUM\nDe assumptione beatae Mariae Virginis.",
+      "voice": "Ruth"
+    }
+  ]
+}

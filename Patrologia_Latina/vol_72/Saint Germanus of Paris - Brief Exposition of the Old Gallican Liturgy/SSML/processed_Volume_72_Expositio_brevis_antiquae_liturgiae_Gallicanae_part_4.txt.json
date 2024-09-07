@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "DE PRAELEGERE. ",
+            "cleaned_english_translation": "<speak>\n  <p>\n    On Reading Aloud.\n  </p>\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Matthew",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n\n  <p>\n    An antiphon will be sung before the reading, just as the patriarchs who lived before the flood foretold the coming of Christ with mystical voices. Like Enoch, the seventh from Adam, who was taken by God and prophesied, saying:\n  </p>\n  <p>\n    <s>\"Behold, the Lord comes with His holy ones to execute judgment\" (Jude, 14).</s>\n  </p>\n  <p>\n    This testimony is recalled by Jude the apostle, brother of James, in his letter. Just as the hand of the Lord came upon the prophets, so that they would leave remnants of the earth in the condemned; so, as the clerics chant, the priest proceeds in the likeness of Christ from the sanctuary as if from heaven into the ark of the Lord, which is the Church, to both admonish and encourage the people to cultivate good works and extinguish evil ones.\n  </p>\n</speak>",
+            "original_latin": "Antiphona ad praelegendo canetur, in specie patriarcharum\nillorum qui ante diluvium, adventum\nChristi mysticis vocibus tonuerunt, sicut\nEnoc septimus ab Adam, qui translatus est a Deo,\nprophetavit dicens: Ecce venit Dominus in sanctis\nmirabilibus suis facere judicium (Judae 14), et reliqua. Quod testimonium Judas apostolus frater Jacobo,\nin Epistola sua commemorat. Sicut enim prophetantibus\nvenit manus Domini super arcam, ut in\n damnatis daret reliquias terrae; ita psallentibus clericis\nprocedit sacerdos in specie Christi de sacrario\ntanquam de coelo in arca Domini, quae est Ecclesia,\nut tam monendum  quam exhortandum nutriat\nin plebe bona opera, et extinguat mala.",
+            "voice": "Matthew"
+        }
+    ]
+}

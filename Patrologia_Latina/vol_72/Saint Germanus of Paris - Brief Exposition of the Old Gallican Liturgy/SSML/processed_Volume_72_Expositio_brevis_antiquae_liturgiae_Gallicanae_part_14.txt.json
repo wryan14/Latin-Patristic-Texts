@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE OMELIAS. ",
+      "cleaned_english_translation": "<speak>\n    On the Homilies\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            The homilies of the saints that are read are provided specifically for preaching. This way, whatever the prophet, Apostle, or Gospel commanded, the teacher or pastor of the Church can convey to the people in clearer language.\n        </s>\n        <s>\n            It's about balancing the art so that the simplicity doesn't offend the wise, and the refined speech doesn't become obscure to the simple.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Homelias autem sanctorum quae leguntur  pro\n sola praedicatione ponuntur, ut quicquid propheta,\nApostolus, vel Evangelium mandavit, hoc doctor vel\npastor Ecclesiae apertiori sermone populo praedicet:\nita arte temperans, ut nec rusticitas sapientes offendat,\nnec onesta loquacitas obscura rusticis fiat.",
+      "voice": "Matthew"
+    }
+  ]
+}
