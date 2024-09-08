@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  \nOn the Birth of the Virgin\n<break time=\"500ms\"/>\nby Paschasius Radbertus, the Abbot of Corbie\n   <break time=\"2s\"/>\n</speak>",
+      "original_latin": "S. PASCHASII RADBERTI\nABBATIS CORBEIENSIS\nOPUSCULUM DE PARTU VIRGINIS.",
+      "voice": "Ruth"
+    }
+  ]
+}
