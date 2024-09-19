@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN AMOS PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Amos<break time=\"500ms\"/>\nby Haymo of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      The Prophet Amos, whose name means \"good,\" prophesied in Samaria and Jerusalem. He described the sins of the nations using the image of the whole world.\n    </s>\n    <s>\n      He foretold the coming of Christ with the voice of the Lord, saying: \n    </s>\n    <s>\n      \"I make thunder, and create the Spirit, and announce Christ among humans.\"\n    </s>\n    <s>\n      The rest of what he says about Amaziah and Jeroboam, or Israel, should be understood as referring to heretics.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Amos, qui interpretatur bonus, vaticinavit in\nSamaria et Hierusalem, tria et quatuor scelera gentium\nsub totius mundi imagine describens. Hic\nadventum Christi sub Dominica voce ita praedicat:\n Ego firmans tonitruum, et creans Spiritum, et annuntians\nin hominibus Christum. Reliqua autem quae\nde Amasia et Hieroboam, sive Israel loquitur, tropologice\nad haereticos referenda sunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

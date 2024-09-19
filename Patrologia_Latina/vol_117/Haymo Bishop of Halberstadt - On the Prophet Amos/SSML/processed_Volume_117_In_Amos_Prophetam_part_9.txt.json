@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VIII. ",
+      "cleaned_english_translation": "<speak>\nChapter Eight\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      The Lord God showed me this: a basket of summer fruit.\n    </s>\n    <s>\n      And the Lord said, \"What do you see, Amos?\"\n    </s>\n    <s>\n      And I replied, \"A basket of summer fruit.\"\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      (At this point, all the copies we had access to are missing Haymo's words in chapters 8 and 9.)\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Haec ostendit mihi Dominus Deus, et ecce uncinus\npomorum. Et dixit Dominus, Quid tu vides,\nAmos? et dixi, Uncinum pomorum. (Hoc in loco exemplaria omnia, quorum nobis quidem\ncopia fuit, desiderant verba Haymonis, in capp. VIII et IX.)",
+      "voice": "Matthew"
+    }
+  ]
+}
