@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "CAPUT PRIMUM. ",
+            "cleaned_english_translation": "<speak>\n    Chapter One\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>At the beginning of the previous book, I mentioned that we embarked on discussing the forgiveness of sins with the guidance and help of God, breaking it down into three parts.</s>\n    <s>We established that our Lord, the true God, is full of both mercy and justice, and we supported this with clear references from the holy Scriptures.</s>\n    <s>We explained that understanding to whom, where, and when God forgives sins would be easier for those seeking the truth.</s>\n    <s>Having covered two parts of this threefold division, I now need to explain the third part.</s>\n    <s>As for to whom and where God forgives sins, these were clearly demonstrated in the previous book, with the help of God's mercy.</s>\n    <s>It is evident that forgiveness of sins is granted only to those who have converted and are within the Catholic Church.</s>\n    <s>True conversion happens where true faith is paired with a holy way of life, and the pursuit of good living is not disturbed by any false belief.</s>\n    <s>A good life cannot truly be called good if it is corrupted by false beliefs, and the faith of someone who believes rightly is not enough for salvation if their actions are marred by immoral behavior.</s>\n    <s>Thus, just as the blessed James declares that faith without works is dead (James 2:17), Paul also confirms in his preaching that everything not from faith is sin (Romans 14:23).</s>\n  </p>\n</speak>",
+            "original_latin": "Non ignoro libri superioris initio sic nos quaestionem\nde remissione peccatorum tractandam in Dei\nnomine atque adjutorio suscepisse, ut trina fieret\ndisputationis inchoatae partitio. Etenim cum Domino\nnostro, hoc est Deo vero, nec misericordiam\ndeesse, nec justitiam diceremus (quod etiam Scripturarum\ndivinarum manifestissima curavimus attestatione\nmonstrare), hinc diximus facilius veritatem\nposse quaerentibus apparere, qualibus Deus peccata\ndimittat, ubi dimittat, quando dimittat. Hujus tripartitae\ndivisionis cum jam geminam persolverim\npartem, tertiae me non nescio debitorem. Qualibus\netenim Deus peccata dimittat, et ubi dimittat, quantum\nnobis Deus suae pietatis condonavit auxilium,\n arbitror superiore libro competenter ostensum. Constat  namque peccatorum remissionem non tribui\nnisi conversis intra Ecclesiam catholicam constitutis. Ibi enim potest conversio esse vera, ubi fides\nvera comitatu sanctae conversationis ornatur, et\nbene vivendi studium nulla pravae credulitatis maculatione\npolluitur. Vita enim bona non veraciter\ndicitur, quae perversae credulitatis vitio depravatur;\nneque sufficit ad salutem fides recte credentis, si\nconversatio moribus atque operibus turbatur obscenis. Propter quod sicut mortuam sine operibus fidem\nbeatus Jacobus praedicat (Jac II 17), sic omne\nquod non est ex fide peccatum esse Paulus sua\npraedicatione confirmat (Rom XIV 23).",
+            "voice": "Matthew"
+        }
+    ]
+}

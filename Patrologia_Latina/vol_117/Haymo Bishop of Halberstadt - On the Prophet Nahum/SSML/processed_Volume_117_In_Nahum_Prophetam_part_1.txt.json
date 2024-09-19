@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN NAHUM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Nahum<break time=\"500ms\"/>\nby Haymo of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  \n    <p>Nahum the prophet, like Jonah, foretold the destruction of the great city Nineveh. True to his name, which means \"comforter,\" he brings comfort to the captives of the ten tribes taken to Nineveh by the Assyrians during the reign of King Hezekiah in Judah.</p>\n    <p>It was a great comfort to those already serving the Assyrians and to those besieged in Judah under Hezekiah, to hear that their Assyrian enemies would be captured by the Chaldeans.</p>\n  \n</speak>",
+      "original_latin": "Nahum propheta, sicut et Jonas, interitum Ninivae\ncivitatis magnae vaticinatus est, et secundum suum\nvocabulum, qui Nahum consolator interpretatur,\nconsolatur captivitatem decem tribuum, quas jam\ntranstulerant Assyrii in Niniven, regnante in Judaea\nEzechia rege. Non enim erat parva consolatio tam\nhis qui jam Assyriis serviebant, quam illis qui in\nJudaea sub Ezechia obsidebantur, ut audirent Assyrios\ninimicos suos a Chaldaeis capiendos.",
+      "voice": "Matthew"
+    }
+  ]
+}

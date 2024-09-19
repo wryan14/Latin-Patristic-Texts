@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN JOEL PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Joel<break time=\"500ms\"/>\nby Haymo of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>Joel's name means \"beginning.\" He delivers a prophecy to Judea and Jerusalem.</p>\n    <p>At the start of his book, he describes sorrowful feasts and calls Jerusalem to mourning, foretelling its destruction.</p>\n    <p>Joel also prophesies the calling of the nations and the coming of the Holy Spirit upon the gathered believers.</p>\n  \n</speak>",
+      "original_latin": "Joel interpretatur incipiens. Iste ad Judaeam et\nHierusalem vaticinium proferens, in principio sui\nvoluminis post luctuosa convivia ad luctum provocat\nHierusalem, excidiumque ejus praenuntiat. Prophetat\nquoque vocationem gentium, et super congregatos\ncredentes superventurum Spiritum sanctum.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN AGGAEUM PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Haggai<break time=\"500ms\"/>\nby Haymo of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    The prophet Haggai, whose name means festive or solemn, foretold the restoration of the Lord's temple, the downfall of nations, the shaking of the world, and, using Zerubbabel as a figure, predicted the coming of Christ.\n  </p>\n  <p>\n    He was among those who had recently returned from the Babylonian captivity under Zerubbabel, the priest Joshua, and Ezra. Jerusalem was not yet rebuilt, nor was the temple of the Lord. The people were living in low and humble houses, and because of this, the word of the Lord was not directed to them. They were deemed unworthy to receive it, as they had no concern for rebuilding the temple, being content with their modest dwellings.\n  </p>\n  <p>\n    They were under Darius, king of Persia, whose name means \"generation not made,\" or refers to those who serve the works of the flesh and lust. Such a king was fitting for a people who were without the temple of God and who lived not on Mount Zion, but below.\n  </p>\n</speak>",
+      "original_latin": "Aggaeus propheta, festivus vel solemnis interpretatur;\n vaticinatus est restaurationem templi Domini,\net contritionem gentium, et mundi commotionem,\net sub figura Zorobabel, Christi praedicit adventum. Fuit autem unus ex illis qui nuper reversi fuerant\nde captivitate Babylonis sub Zorobabel et Jesu sacerdote\net Esdra, nondum reaedificata Hierusalem\nnec templo Domini. Habitabat autem populus in\ndomibus concavis et humilibus, quapropter ad eos\nnon fit sermo Domini. Indigni enim erant ut ad eos\nfieret, qui nullam habebant curam templi reaedificandi,\nhumili et campestri habitatione contenti, et\nerant sub Dario Persarum rege, qui interpretatur\ngeneratio non facta, sive, qui fuerint, eos designans\nqui carnis operibus et libidini serviunt. Talem regem\nmerebatur habere populus qui sine templo\n Dei erat, et non in monte Sion, sed deorsum habitabat.",
+      "voice": "Matthew"
+    }
+  ]
+}

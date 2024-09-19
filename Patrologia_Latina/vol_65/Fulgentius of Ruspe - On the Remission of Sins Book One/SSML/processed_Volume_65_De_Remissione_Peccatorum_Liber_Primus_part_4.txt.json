@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT II. ",
+      "cleaned_english_translation": "<speak>\nChapter Two\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      The letter you sent me, although it didn't reveal anything new from your heart, brought a great increase of joy in the Lord to our hearts.\n    </s>\n    <s>\n      We know that divine grace is mercifully at work in you, and that you often and deeply think about the forgiveness of sins. However, the reason I said our joy increased is because you desire to obtain the forgiveness of sins in such a way that you frequently and diligently seek its effect.\n    </s>\n  </p>\n  \n  <p>\n    <s>\n      You mention a question has come up among you. Although you might recall it yourself, I preferred to include the exact words from your letter so that not only you may recognize them from your own dictation, but also anyone else who reads it can be more easily informed and instructed for understanding the answer.\n    </s>\n  </p>\n  \n  <p>\n    <s>\n      So you ask whether the Creator Lord in this world forgives the sins of those He wills, allowing them to leave here forgiven; or whether by His omnipotence He forgives the sins of those He did not forgive in the present world, when they depart from the body before the Day of Judgment, or on that same future day.\n    </s>\n    <s>\n      You certainly remember these words, which, as I mentioned before, were contained in your letter.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Epistola itaque quam mihi misisti, licet de corde\ntuo non aliquid nobis intimarit incognitum, cordi\ntamen nostro magnum incrementum laetitiae in Domino\nsubrogavit. Cognitum quippe nobis est, divinam\nin te gratiam misericorditer operari, te saepe ac multum\nde remissione peccatorum cogitare. Verumtamen\nideo nostram dixi crevisse laetitiam, quia sic adipisci\nremissionem peccatorum desideras, ut ejusdem remissionis\neffectum frequenter ac vigilanter inquiras. Dicis igitur inter vos natam esse quaestionem, quam\nlicet ipse recolas, malui tamen verba quae in tua\ncontinentur epistola, ipso quo a te sunt tenore posita\nhuic opusculo inserere: ut non solum tu ex propria\n dictatione recognoscas, sed etiam quisquis alius legerit,\ndum cognitionis percunctatione imbuitur, ad\nintelligentiam responsionis commodius instruatur. Quaeris itaque utrum rerum conditor Dominus in hoc\nsaeculo tantummodo quibus voluerit peccata dimittit, et\nsic  hinc quisquam solutus exeat; an per omnipotentiam\nsuam quibus in saeculo praesenti non dimisit,\nexeuntibus de corpore ante diem judicii peccata dimittat,\nvel in eodem die futuri saeculi. Haec nempe verba\nquae posui recordaris profecto tuis, ut jam dixi,\ncontineri",
+      "voice": "Matthew"
+    }
+  ]
+}
