@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "CAPUT XIV. ",
+            "cleaned_english_translation": "<speak>\nChapter Fourteen\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>In every sinner who is already using their free will, the benefit of divine grace begins through the conversion of the heart.</s>\n    <s>However, we know that infants are saved not by their own will, but by the righteous faith of the faithful who confess on their behalf.</s>\n  </p>\n  <p>\n    <s>It is fitting, according to the judgment of truth, that infants are absolved through the ministry of another's confession, as they are bound by the tie of another's sin.</s>\n    <s>So, through the spiritual confession of others, they receive the benefit of justification, just as they bear original sin through the carnal generation of others.</s>\n    <s>As the carnal union of parents harmed those not yet born and doing nothing, the spiritual affection of the faithful confessing on their behalf may benefit them in their second birth.</s>\n  </p>\n  <p>\n    <s>Therefore, as far as those who can already account for their own actions are concerned, no one will be made blessed unless they renounce their evil deeds and turn to God with total humility of heart.</s>\n    <s>Blessed are those whose iniquities are forgiven, and whose sins are covered.</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"sɑːlmz\">Psalms</phoneme> 32:1.</s>\n  </p>\n  <p>\n    <s>Therefore, anyone who bears the iniquity of their own will and actions cannot receive any blessing unless they turn to the very giver of blessings.</s>\n  </p>\n</speak>",
+            "original_latin": "In omni ergo peccatore qui arbitrio jam propriae\nvoluntatis utitur, per conversionem cordis beneficium\ndivini muneris inchoatur. Caeterum parvulos\nnovimus non propria voluntate, sed fidelium pro eis\nconfitentium recta credulitate salvari. Convenit enim\njudicio veritatis parvulos ministerio alienae confessionis\nabsolvi, quos vinculo constat alienae iniquitatis\nobstringi: ut, aliis spiritaliter confitentibus, accipiant\njustificationis beneficium, qui, aliis carnaliter\ngenerantibus, portant originale peccatum; et sicut\nad primam nativitatem obfuit nondum natis nec\naliquid agentibus parentum carnalis concubitus, sic\neis nescientibus prosit ad secundam nativitatem fidelium\npro eis confitentium spiritalis affectus. Quantum\n ergo ad illos attinet qui propriorum jam possunt actuum\nreddere rationem, nullus efficietur beatus,\nnisi qui malis actibus renuntians, ad Deum fuerit\ntota cordis humilitate conversus. Beati enim quorum\nremissae sunt iniquitates, et quorum tecta sunt peccata\n(Psal XXXI 1). Quisquis igitur propriae voluntatis et\noperationis iniquitatem portat, non potest aliquam\naccipere beatitudinem, nisi fuerit ad ipsum conversus\nbeatitudinis largitorem.",
+            "voice": "Matthew"
+        }
+    ]
+}

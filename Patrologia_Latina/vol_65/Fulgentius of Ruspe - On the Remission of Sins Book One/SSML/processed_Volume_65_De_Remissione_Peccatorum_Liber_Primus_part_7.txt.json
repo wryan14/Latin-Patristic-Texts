@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "CAPUT V. ",
+            "cleaned_english_translation": "<speak>\nChapter Five\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    The main benefit of this call to repentance is the free forgiveness of sins. For this reason, our Redeemer, after completing the Passover supper, announced that His blood would be poured out.\n  </p>\n  <p>\n    <s>\"Drink from it, all of you,\" He said.</s> \n    <s>\"For this is my blood of the new covenant, which is poured out for many for the forgiveness of sins\" (Matthew 26:28).</s>\n  </p>\n  <p>\n    Therefore, as I believe, almost everyone who is called by the Christian name in any way desires this. <break time=\"500ms\"/> But it matters where, when, and how one seeks it. \n  </p>\n  <p>\n    For one cannot achieve the forgiveness of sins if one does not hold true faith, neglects the duty of good works, or scorns the divinely granted time for good works with deadly vanity.\n  </p>\n  <p>\n    These three things-faith, works, and time-are so necessary for people in this life that if anyone lacks one of these three in the present age, they cannot partake in eternal life. And thus, will not obtain the forgiveness of sins, through which one reaches the reward of eternal life.\n  </p>\n  <p>\n    This must be demonstrated with the help of the Lord and the testimony of divine scriptures.\n  </p>\n</speak>",
+            "original_latin": "Vocationis autem hujus ad poenitentiam principale\nest beneficium, gratuita remissio peccatorum. Pro\nqua idem Redemptor noster, peracto paschalis coenae\nconvivio, sanguinem suum enuntiat effundendum. Bibite, inquit, ex hoc omnes. Hic est enim sanguis\nmeus novi Testamenti, qui pro multis effundetur in remissionem\npeccatorum (Matth XXVI 28). 363 Hanc\nigitur, sicut arbitror, aut omnes, aut pene omnis qui\nquolibet modo appellatur Christiano nomine, invenire\ndesiderat; sed interest ubi quisque, vel quando,\nvel qualiter quaerat. Neque enim ad remissionem\npeccatorum poterit pervenire, si quis aut veram non\n teneat fidem, aut negligat bonae operationis officium,\naut rectae credulitatis bonae operationi concessum\ndivinitus tempus mortifera praeoccupatus vanitate\ncontemnat. Haec namque tria, id est, fides, opus et\ntempus, ita sunt simul hominibus in hac vita necessaria,\nut si cui unum ex his tribus in praesenti saeculo\ndefuerit, aeternae vitae particeps esse non possit; ac\nper hoc nec remissionem peccatorum consequetur,\nper quam ad aeternae vitae praemium pervenitur. Quod\nnecesse est, Domino adjuvante, divinorum testimoniorum\nattestatione monstremus.",
+            "voice": "Matthew"
+        }
+    ]
+}

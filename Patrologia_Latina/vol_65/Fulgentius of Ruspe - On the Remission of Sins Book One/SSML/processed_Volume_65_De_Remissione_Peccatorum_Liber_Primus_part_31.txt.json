@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "CAPUT XXIX. ",
+            "cleaned_english_translation": "<speak>\nChapter Twenty-Nine\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      These things will be beneficial in the future if they are possessed in the present life.\n    </s>\n    <s>\n      The blessed Apostle knew and taught this, instructing us to live soberly, justly, and devoutly in this world. He emphasized that those who will receive mercy in the judgment are those who have led a just life before the judgment.\n    </s>\n    <s>\n      This is why divine Scripture advises us in the book of Ecclesiasticus:\n      <break time=\"500ms\"/>\n      <lang xml:lang=\"en-US\">\n        \"Prepare justice for yourself before the judgment, and you will find mercy in the sight of God\" (Ecclesiasticus 18:19).\n      </lang>\n    </s>\n    <s>\n      Therefore, anyone who desires to find mercy in the sight of God should prepare justice for themselves now.\n    </s>\n    <s>\n      What a person does not store up in this present world, they will not have at the time of future retribution.\n    </s>\n    <s>\n      To demonstrate this sufficiently with testimonies from divine Scriptures, let us first conclude this book so we can then appropriately begin the remaining part of the question.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "Haec autem tunc in futura vita proderunt, si in\nvita saeculi praesentis habeantur. Hoc enim beatus\net sciebat et docebat Apostolus, qui praecipiebat ut\nsobrie et juste et pie vivamus in hoc saeculo (Ibid ):\ndocens scilicet illos adepturos in judicio misericordiam,\nqui ante judicium in hoc saeculo justam gesserint\n vitam. Propter quod nos in libro Ecclesiastico\ndivina praemonet Scriptura, dicens: Ante judicium\npara justitiam tibi, et in conspectu Dei invenies propitiationem\n(Eccli XVIII 19). Debet itaque hic sibi\njustitiam praeparare, quisquis in conspectu Dei propitiationem\ndesiderat invenire. Quod enim in praesenti\nsaeculo sibi homo non thesaurizaverit, futurae\nretributionis tempore non habebit. Quod ut divinarum\ntestimoniis Scripturarum quantum sat est possit\nostendi, primum terminemus librum, ut consequenter\nparti residuae quaestionis congruum dare possimus\nexordium.",
+            "voice": "Matthew"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            From the Great Library of the Fathers.\n        </s>\n        <s>\n            In the name of our Lord Jesus Christ, we begin the little book by FLORI against the nonsense and errors of a very vain man named John, concerning predestination, divine foreknowledge, and the true freedom of human will.\n        </s>\n    </p>\n</speak>",
+            "original_latin": "(Ex Bibliotheca Patrum maxima) In nomine Domini nostri Jesu Christi incipit libellus FLORI adversus cujusdam vanissimi\nhominis, qui cognominatur Joannes, ineptias et errores de praedestinatione et praescientia\ndivina et de vera humani arbitrii libertate.",
+            "voice": "Ruth"
+        }
+    ]
+}

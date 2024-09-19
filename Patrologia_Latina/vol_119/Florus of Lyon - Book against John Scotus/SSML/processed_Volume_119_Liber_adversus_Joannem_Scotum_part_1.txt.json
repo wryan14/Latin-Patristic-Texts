@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nBook Against the Erroneous Definitions of John Scotus Eriugena\n<break time=\"500ms\"/>\nby Florus of Lyon\n<break time=\"2s\"/>\n</speak>",
+      "original_latin": "FLORUS DIACONUS LUGDUNENSIS\nADVERSUS JOANNIS SCOTI ERIGENAE ERRONEAS DEFINITIONES LIBER",
+      "voice": "Ruth"
+    }
+  ]
+}

@@ -13,3 +13,6 @@ An audio version of this work is available on Archive.org for free download:
 * [On the Prophet Joel by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-joel)
 
 * [On the Prophet Amos by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-amos)
+* [On the Prophet Haggai by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-haggai)
+* [On the Prophet Habakkuk by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-habakkuk)
+* [On the Prophet Nahum by Haymo Bishop of Halberstadt - Archive.org](https://archive.org/details/on-the-prophet-nahum)

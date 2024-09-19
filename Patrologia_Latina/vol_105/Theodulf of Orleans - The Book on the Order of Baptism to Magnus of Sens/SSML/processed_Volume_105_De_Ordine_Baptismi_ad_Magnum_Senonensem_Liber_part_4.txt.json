@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            3. Why is it exorcised?\n        </s>\n<break time=\"1s\"/>\n        <s>\n            A priest makes the sign of the cross on their faces during exorcism to drive away the devil and prepare a path for Christ.\n        </s>\n        <s>\n            This is because, through his deceitful persuasion, the devil had inhabited the human race since it first received the breath of life.\n        </s>\n        <s>\n            By the power and sacred sign of the priest's ministry, the devil is forced to leave.\n        </s>\n        <s>\n            This is similar to how Christ breathed on his disciples and rebuked unclean spirits.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "III. Cur exsufflatur. In quorum etiam facie a sacerdote per exsufflationem\nsignum crucis fit, ut et diabolus fugetur, et\nChristo via praeparetur: ut qui illecebrosa persuasione\nsua generis humani, quod in primordio sui\nspiraculum vitae acceperat, habitator erat, ejus virtute\net sacratissimo signo per ministerium sacerdotum\nexire cogatur, qui et in discipulos suos insufflasse,\net spiritus immundos increpasse legitur.",
+      "voice": "Matthew"
+    }
+  ]
+}

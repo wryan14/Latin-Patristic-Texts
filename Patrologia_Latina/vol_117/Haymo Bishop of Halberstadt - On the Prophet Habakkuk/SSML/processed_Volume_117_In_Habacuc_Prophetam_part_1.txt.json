@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "HAYMO HALBERSTATISCHEN EPISCOPUS\nIN HABACUC PROPHETAM. ",
+      "cleaned_english_translation": "<speak>\n    On the Prophet Habakkuk<break time=\"500ms\"/>\nby Haymo of Halberstadt\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>The prophet Habakkuk, known as <phoneme alphabet=\"ipa\" ph=\"ˈxɑ.bɑ.kuk\">Chabacuk</phoneme> in Hebrew, prophesied after Judah, which is the two tribes, had been taken into captivity by Nebuchadnezzar.</s>\n    <s>We know this from the Book of Daniel, who was one of the captives from Judah.</s>\n    <s>When Daniel was placed in the pit, an angel brought this prophet with a meal from Judea.</s>\n    <s>The name <phoneme alphabet=\"ipa\" ph=\"ˈxɑ.bɑ.kuk\">Chabacuk</phoneme> means \"embracing\" or \"embrace,\" because he was beloved by the Lord, or because he wrestled with the Lord and embraced Him in a kind of struggle.</s>\n    <s>For none of the prophets dared to challenge the Lord to a debate so boldly and say: \"How long, Lord, shall I cry for help,\" etc.</s>\n  </p>\n</speak>",
+      "original_latin": "Habacuc propheta, qui apud Hebraeos Chabacuk\ndicitur, prophetavit jam Juda, id est duabus tribubus\na Nabuchodonosor in captivitatem ductis. Quod\n scire possumus ex libro Danielis, qui fuit unus ex\ncaptivitate Judae, ad quem cum in lacu positus esset,\nhic propheta cum prandio de Judaea per angelum\ndeportatus est. Interpretatur autem Chabacuk\namplexans, sive amplexatio, quia amabilis Domini\nfuerit, vel quia luctatus est cum Domino, et quasi\nquodam certamine eum amplexus sit. Nullus enim\nprophetarum tam audacter ad disceptationem praesumpsit\nDominum provocare et dicere: Usquequo,\nDomine, clamabo, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}
