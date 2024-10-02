@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Confessors <break time=\"500ms\"/>\n  <p>\n    <s>The perfect confession to their King granted them companionship in heavenly rest.</s>\n    <s>Through their examples and words, we find peace.</s>\n    <s>They teach us to love the path of supreme peace.</s>\n  </p>\n</speak>",
+      "original_latin": "De confessoribus. Hos perfecta suo servans confessio Regi\nFecit in aetheria consocios requie. Exemplis quorum dictisque in pace manentes,\nInstruimur summae pacis amare viam.",
+      "voice": "Matthew"
+    }
+  ]
+}

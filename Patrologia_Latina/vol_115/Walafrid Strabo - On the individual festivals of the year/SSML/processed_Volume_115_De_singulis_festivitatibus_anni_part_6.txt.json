@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\nOn Septuagesima.\n        <break time=\"1s\"/>\n        <s>We are getting ready to celebrate the upcoming feasts.</s>\n        <break time=\"1s\"/>\n        <s>This time helps us prepare our hearts in holy ways.</s>\n    </p>\n</speak>",
+      "original_latin": "In Septuagesima. Ecce paramur enim ventura ad festa colenda,\nMoribus in sanctis corda parare juvat.",
+      "voice": "Matthew"
+    }
+  ]
+}

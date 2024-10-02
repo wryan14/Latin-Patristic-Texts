@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  On the Resurrection <break time=\"500ms\"/><break time=\"500ms\"/>\n   Plundering the underworld, conquering death, and rising again to give life to those who have fallen. He died so that we might be freed from sin. He rises to bring us to the threshold of life.\n  \n</speak>",
+      "original_latin": "De Resurrectione. Tartara despolians, devicta morte resurgens,\nUt te vivificet, quam jacuisse videt,\nMortuus est ut peccatis moriamur ademptis,\nSurgit ut in vitae limine constituat.",
+      "voice": "Matthew"
+    }
+  ]
+}

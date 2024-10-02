@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\nOn Palm Sunday <break time=\"500ms\"/>\n    <s>\n       The crowd laid down their cloaks for the pious Christ,\n    </s>\n    <s>\n      so that He could sit on them. We offer our bodies in a similar way.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "In Palmis. Obvia turba pio stravit sua tegmina Christo,\nNos ut in his sedeat, corpora nostra damus.",
+      "voice": "Matthew"
+    }
+  ]
+}

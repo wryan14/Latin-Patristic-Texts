@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "RETRACTATIO GUNTHARII\nADRIANO II DATA. ",
+      "cleaned_english_translation": "<speak>\n        <p>\n            <s>RETRACTION OF GUNTHAR</s>\n            <s>GIVEN TO ADRIAN the Second</s>\n        </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n        <p>\n            <s>I, Gunthar, declare before God and His saints, to you, my Lord Adrian, supreme pontiff and universal pope, and to your venerable subordinate bishops and the rest of the assembly, that I do not entirely reject the judgment of my deposition made canonically by Lord Nicholas, but I accept it humbly.</s>\n        </p>\n        <p>\n            <s>Therefore, I do not presume to touch the sacred ministry further unless you wish to help me through mercy, nor do I ever intend to cause any scandal or opposition against the holy Roman Church or its pontiff.</s>\n        </p>\n        <p>\n            <s>But I declare that I will present myself as devoted and obedient to the same holy mother Church and its prelate.</s>\n        </p>\n        <p>\n            <s>I, Gunthar, have signed this profession made by me with my own hand.</s>\n        </p>\n        <p>\n            <s>Given on the Kalends of July, in the second indiction, in the Church of the Holy Savior, which is in the Monastery of Saint Benedict in Cassino.</s>\n        </p>\n    <break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Profiteor ego Guntharius coram Deo et sanctis\nejus, vobis, Domino meo Adriano summo pontifici et\nuniversali papae, ac venerandis tibi subditis episcopis\nreliquoque conventu, quoniam judicium depositionis\nin me a domno Nicolao canonice totum non\nreprehendo, sed humiliter porto. Unde nec ulterius\nsacrum ministerium contingere praesumo, nisi per\nmisericordiam mihi subvenire volueritis, nec aliquando\ncontra sanctam romanam Ecclesiam aut ejus\n pontificem aliquod scandalum vel quidquam adversi\nmovere volo, sed devotum me eidem sanctae matri\nEcclesiae ejusque praesuli exhibere atque obedientem\npermanere protestor. Ego Guntharius huic professioni\na me factae manu propria subscripsi. Data Kalendas\nJulii, indictione II, in ecclesia Sancti Salvatoris,\nquae est in monasterio Sancti Benedicti in\nCassino.",
+      "voice": "Matthew"
+    }
+  ]
+}

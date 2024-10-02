@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  On the Passion.<break time=\"500ms\"/>\n  <p>\n    He endured the cross, wounds, slaps, and harsh spitting, demonstrating how much we should be willing to endure.\n  </p>\n</speak>",
+      "original_latin": "De passione. Ille crucem, plagas, alapas, sputa aspera passus,\nOstendit quanta te tolerare decet.",
+      "voice": "Matthew"
+    }
+  ]
+}

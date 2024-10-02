@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n   <break time=\"500ms\"/>\nThe Letters of Charles the Bald\n<break time=\"500ms\"/><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "CAROLI CALVI EPISTOLAE.",
+      "voice": "Ruth"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>On the martyrs</p><break time=\"500ms\"/>\n    <p>Through their own blood, they earned heavenly rewards, which God has given them.</p>\n    <p>They remind us to endure hardships with ease and to bear reproaches for Christ, preparing us for the holy kingdoms.</p>\n</speak>",
+      "original_latin": "De martyribus. Sanguine qui proprio coelestia praemia adepti\nQuae sibi retribuit retribuente Deo. Nos tolerando monent facile pretiosa subire,\nPro Christo opprobria, quae sacra regna parent.",
+      "voice": "Matthew"
+    }
+  ]
+}
