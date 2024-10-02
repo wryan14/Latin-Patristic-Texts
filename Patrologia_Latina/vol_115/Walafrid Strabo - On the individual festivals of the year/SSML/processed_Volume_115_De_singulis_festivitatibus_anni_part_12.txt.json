@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n<p>\n<s>On Pentecost</s><break time=\"500ms\"/>\n<s>The Spirit of the Lord descended to the earth in fire,</s>\n<s>giving the apostles fiery hearts.</s>\n<s>He comforts them with His presence,</s>\n<s>seeing their souls burning with pure love.</s>\n</p>\n</speak>",
+      "original_latin": "In Pentecoste. Spiritus ad terras Domini descendit in igne,\nQui dat apostolicis ignea corda viris. Illos quippe suo refovet tutamine praesens,\nQuorum ardere videt, casto in amore animos.",
+      "voice": "Matthew"
+    }
+  ]
+}

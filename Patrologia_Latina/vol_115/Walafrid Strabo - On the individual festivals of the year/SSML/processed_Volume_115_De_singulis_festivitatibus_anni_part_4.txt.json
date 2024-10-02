@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>On Epiphany</p><break time=\"500ms\"/>\n    <p>He appeared, accepting gifts from those deemed worthy.</p>\n    <p>Now, coming to us in mercy, he sees our offerings.</p>\n</speak>",
+      "original_latin": "In Epiphania. Munera suscipiens dignis apparuit ipse,\nSic pius adveniens munera nostra videt.",
+      "voice": "Matthew"
+    }
+  ]
+}

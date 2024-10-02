@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n<break time=\"500ms\"/>\n  <p>\n    <s>\n      Gunthar's Diabolical Chapters Against Pope Nicholas.\n    </s>\n  </p>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "GUNTHARII DIABOLICA IN NICOLAUM PAPAM CAPITULA .",
+      "voice": "Ruth"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>On the birth of Christ.</p>\n<break time=\"500ms\"/><break time=\"500ms\"/>\n    <p>Today, the Creator and Redeemer is born,</p>\n    <p>Christ, made human from the Virgin Mary.</p>\n    <p>He came so that we might partake in the holy Divinity,</p>\n    <p>cleansed from sins and pleasing in merits.</p>\n</speak>",
+      "original_latin": "In Nativitate Christi. Natus enim est hodie sator atque redemptor,\nChristus de Maria Virgine factus homo:\nUt nos consortes sanctae Deitatis haberet,\nMundatos vitiis et placitos meritis.",
+      "voice": "Matthew"
+    }
+  ]
+}

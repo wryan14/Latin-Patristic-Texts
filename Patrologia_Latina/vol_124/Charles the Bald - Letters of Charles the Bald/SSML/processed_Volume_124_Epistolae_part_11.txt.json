@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EPISTOLA IX\nAD EUMDEM,\nEodem tempore missa quo superior",
+      "cleaned_english_translation": "<speak>\n    Letter Nine<break time=\"500ms\"/>\n  <p>TO THE SAME,</p>\n  <p>Sent at the same time as the previous one</p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>  \n  <p>\n    <s>To the most holy and reverend Father Adrian, supreme pontiff and universal pope, CHARLES, by the grace of God king and your spiritual son.</s>\n    <s>Because letters in the name of your holy fatherhood were brought to us by the venerable Archbishop Actard, we felt it necessary to respond at length.</s>\n    <s>Contrary to our usual practice, we found it essential to write our response on a sheet signed with our seal, so it can be more clearly read, and the reasons that compelled us to respond to you can be fully understood by the reader.</s>\n  </p>\n  \n  <p>\n    <s>May your holy fatherhood receive this response kindly and not with disdain, as it is written by us not with defiance but with a peaceful mind, as you will find in the same sheet.</s>\n    <s>We beseech you, in honor of Almighty God and in veneration of the holy apostles, not to send us and the bishops and nobles of our kingdom such letters of dishonor and commands as we have received in your name up to now.</s>\n    <s>Rather, may we be permitted to humbly and devoutly submit our necks and hearts to your apostolic pontificate, in veneration of God and the holy apostles, as we desire.</s>\n  </p>\n  \n  <p>\n    <s>May Almighty God deign to preserve you through the course of years for the honor, salvation, and exaltation of His holy Church, O most holy and reverend father in the Lord.</s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Sanctissimo ac reverentissimo Patri Adriano summo\npontifici, et universali papae, CAROLUS Dei gratia\nrex et spiritualis filius vester. Quia litteris ex nomine sanctae paternitatis vestrae\nab Actardo venerabili archiepiscopo nobis delatis,\nnecessitate cogente, prolixius respondere compulsi\nsumus, contra morem nostrum in quaterniunculo\nannulo nostro signato responsionem nostram scribere\nnecessarium duximus, quatenus legi planius\nvaleat, et quae vobis ratio respondere coegit, legenti\nplenius innotescant. Quam responsionem sancta\npaternitas vestra non aspernanter, sed benigne suscipiat,\nquae a nobis non est contumaciter, sed mente\n pacifica, ut in eodem quaterniunculo invenietis, contexta. Deprecamur autem vos in omnipotentis Dei\nhonore, et sanctorum apostolorum veneratione, ut\ntales inhonorationis nostrae epistolas, taliaque mandata,\nsicut hactenus ex nomine vestro suscepimus,\nnobis et regni nostri episcopis ac primoribus de\ncaetero non mandetis. Sed liceat nobis apostolico\npontificio vestro, in veneratione Dei, et sanctorum\napostolorum, humiliter ac devote, ut cupimus, colla\net corda submittere. Deus omnipotens ad honorem\net salvationem atque exaltationem sanctae suae Ecclesiae\nvos per annorum curricula conservare dignetur,\nDomine sanctissime atque reverentissime\npater in Domino.",
+      "voice": "Matthew"
+    }
+  ]
+}

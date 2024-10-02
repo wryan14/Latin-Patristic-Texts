@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>On the Ascension <break time=\"1s\"/>\n    <s>\n    He ascended to the heavens, triumphing over the ages,\n    </s>\n    <s>\n      So that He may call us, as victors, to the highest stars.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "In Ascensione. Ascendit coelos sumpto per saecla triumpho,\nUt nos victores sidera ad alta vocet.",
+      "voice": "Matthew"
+    }
+  ]
+}

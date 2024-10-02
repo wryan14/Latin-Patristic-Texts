@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <s>On Lent,</s><break time=\"500ms\"/>\n    <s>following the Lord's example, we begin fasting with our bodies.</s>\n    <s>Let our minds also abstain from sins.</s>\n</speak>",
+      "original_latin": "In Quadragesima. Exemplo Domini jejunia corporis extra\nIncipimus, mentes abstineant vitiis.",
+      "voice": "Matthew"
+    }
+  ]
+}

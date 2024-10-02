@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      On the Feast of Saint Martin<break time=\"500ms\"/>\n    </s>\n    <s>\n      This holy teacher of God, revered by the world, set examples of life and assists with prayers.\n    </s>\n    <s>\n      Whoever reads this, seek forgiveness, remember Strabo, and call upon all these for help.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "In natale sancti Martini episcopi. Iste Dei sanctus doctor venerabilis orbi\nVitae exempla dedit, adjuvat et precibus. Haec quicunque legas, veniam deposcere Strabo\nSis memor, et cunctos hos voca in auxilium.",
+      "voice": "Matthew"
+    }
+  ]
+}

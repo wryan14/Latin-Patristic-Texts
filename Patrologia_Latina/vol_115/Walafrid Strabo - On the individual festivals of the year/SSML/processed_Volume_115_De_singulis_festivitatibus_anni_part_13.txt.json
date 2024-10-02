@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Nativity of Saint John the Baptist<break time=\"500ms\"/>\n    <p>\n        <s>The holy Baptist John is born today,</s>\n        <s>May the Lord's right hand help us through his prayers.</s>\n    </p>\n</speak>",
+      "original_latin": "In Natale sancti Joannis Baptistae. Est hodie natus sanctus Baptista Joannes,\nCujus nos precibus dextra juvet Domini.",
+      "voice": "Matthew"
+    }
+  ]
+}

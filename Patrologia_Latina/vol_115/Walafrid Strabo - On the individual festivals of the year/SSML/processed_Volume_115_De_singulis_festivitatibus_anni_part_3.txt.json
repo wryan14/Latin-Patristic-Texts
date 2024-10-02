@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  On the Octave of the Lord<break time=\"500ms\"/>\n    On the eighth day, he was named Jesus after being circumcised, marking the moment a cleansed man became a child of the Lord.\n  \n</speak>",
+      "original_latin": "In Octava Domini. Accepit et nomen jam circumcisus Iesus,\nUt mundatus homo sit soboles Domini.",
+      "voice": "Matthew"
+    }
+  ]
+}

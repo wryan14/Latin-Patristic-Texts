@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nOn the Feast of the Presentation (of the Lord)<break time=\"500ms\"/>\n  <p>\n    <s>\n      During Jesus's presentation at the temple, the sinless one presented at the altar calls us sinners to his home.\n    </s>\n    <s>\n      His mother is there, an everlasting virgin, glorified by her son.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "In Yppapanti . Qui sine peccato in templo est oblatus ad aram,\nNos peccatores ad sua tecta vocat. Cujus mater adest, mater sed Virgo perennis\nPermanet a nato glorificata suo.",
+      "voice": "Matthew"
+    }
+  ]
+}
