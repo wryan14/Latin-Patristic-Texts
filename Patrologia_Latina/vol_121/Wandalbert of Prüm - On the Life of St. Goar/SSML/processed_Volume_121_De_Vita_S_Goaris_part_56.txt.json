@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Speaking of another blind woman.\n    </s><break time=\"500ms\"/>\n    <s>\n      Around the same time, another blind woman regained her sight in the presence of Abbot Tancred, and she continued to live there for many more years.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "De alia caeca. 22. Per idem tempus et alia mulier caeca sub abbatis\nTancradi praesentia visum recepit, pluresque\nibi postea vixit annos.",
+      "voice": "Matthew"
+    }
+  ]
+}

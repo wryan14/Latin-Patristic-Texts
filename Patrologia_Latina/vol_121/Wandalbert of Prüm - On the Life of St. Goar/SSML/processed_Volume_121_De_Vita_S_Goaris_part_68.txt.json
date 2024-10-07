@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>On the divine light kindled in the church lamps.</p><break time=\"500ms\"/>\n  <p>\n    <s>Furthermore, Heriradus the monk, who, as often mentioned, was the most reliable and truthful narrator of these miracles for me, asserts twice that, without any external warning, the lamp which hangs before the venerable memory shone with divine light.</s>\n    <s>He confirms that this happened both in the current year when we wrote this and the previous year, as witnessed by those present.</s>\n    <s>But that will be discussed in its own place.</s>\n  </p>\n  <p>\n    <s>So far, I have described the events reported to have occurred while Abbot Tancrad was still alive.</s>\n    <s>Now, with Christ's help, I will proceed, as I proposed, to the times of the most illustrious Father Marcuvardus, who assigned me this very task.</s>\n  </p>\n</speak>",
+      "original_latin": "De lumine divinitus in lucernis ecclesiae succenso. 34. Praeterea Heriradus monachus, qui, ut saepe\n dictum est, horum mihi miraculorum certissimus\nrelator exstitit et verissimus, bis se affirmat nullo\nadmonente extrinsecus igne lampadem, quae coram\nmemoria veneranda dependet, infuso divinitus lumine\nsplenduisse: quod ipsum praesenti anno quo ista descripsimus\net superiori contigisse qui interfuerunt\naffirmant. Sed id suo loco erit dicendum. 35. Hactenus ea descripserim quae abbate Tancrado\nin hac vita superstite facta inter alia referuntur. Nunc adjutore Christo ad clarissimi Patris\nMarcuvardi tempora qui hoc ipsum mihi opus imposuit,\nservato ut proposui ordine veniam.",
+      "voice": "Matthew"
+    }
+  ]
+}

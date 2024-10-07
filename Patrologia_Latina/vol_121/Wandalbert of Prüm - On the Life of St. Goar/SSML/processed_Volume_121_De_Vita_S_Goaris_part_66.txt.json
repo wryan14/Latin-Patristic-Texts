@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            On a certain Frisian who was similarly endangered.\n        </s><break time=\"500ms\"/>\n        <s>\n            A merchant from the Frisian people was sailing his ship near the farther shore and did not intend to approach the shore where the monastery is located. However, the ship came near those rocks we mentioned earlier.\n        </s>\n        <s>\n            Suddenly, it was seized and dragged by the force of the waves into a whirlpool, putting everyone in immediate danger.\n        </s>\n        <s>\n            But when the master of the ship repeatedly called upon the name and merit of Saint Goar for help, the ship was immediately carried safely into the harbor.\n        </s>\n        <s>\n            As soon as he reached the land, he went to pray and, in gratitude for their safety, gave a silk garment in memory of the venerable saint.\n        </s>\n        <s>\n            This garment was later brought to Prum Monastery by Theodradus, the cleric who told me this story.\n        </s>\n    </p>\n</speak>",
+            "original_latin": "De quodam Fresone similiter prope periclitato. 32. Consimili prope eventu cum quidam ex Fresonum\ngente negotiator navem circa ripam ulteriorem\nageret, neque littori in quo monasterium situm est\npropinquare disponeret, ubi ad scopulos illos, de quibus\nsupra diximus, navis acta pervenit, subito rapta\net in gurgitem undarum violentia tracta, praesenti\ncunctos discrimine perculit. Sed cum dominus navis\nGoaris saepe nomen et meritum iterans subsidium\nexpetiisset, in portum continuo navis illaesa devehitur;\nille ut continentem attigit, oratum perrexit,\nac pro salutis munere vestem holosericam venerandae\n memoriae tribuit, quae etiam vestis postea ab eo qui\nhaec mihi retulit Theodrado clerico ad Prumiam monasterium\nest delata.",
+            "voice": "Matthew"
+        }
+    ]
+}

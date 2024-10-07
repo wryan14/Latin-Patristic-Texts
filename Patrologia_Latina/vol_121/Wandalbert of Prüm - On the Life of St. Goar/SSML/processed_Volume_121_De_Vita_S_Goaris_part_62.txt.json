@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>On a certain priest named Wolvo.</p><break time=\"500ms\"/>\n  <p>Wolvo, who was raised by his mother from a young age, became a priest later in life.</p>\n  <p>For a long time, he deceitfully took the tithes that rightfully belonged to the church of Blessed Goar for his own use.</p>\n  <p>Not long after, he became blind and mute.</p>\n  <p>His people brought him to the basilica of the most holy man.</p>\n  <p>There, he handed over his property along with the restored tithes. After appeasing the one he had offended, he regained his health.</p>\n</speak>",
+      "original_latin": "De quodam Wolvone presbytero. 28. Wolvo quidam ab ineunte aetate ibi a matre\nnutritus, cum postea presbyter esset, decimas quae ex\nmulto jam tempore ecclesiae B. Goaris agrorum jure\n competerent, suis usibus dolo malo conduxit. Nec\nmagna subsequente mora caecus et mutus effectus,\nad basilicam viri sanctissimi a suis perducitur; ibi\nres patrimonii sui cum restitutis decimis tradidit,\net sanitatem, placato eo quem offenderat, meruit.",
+      "voice": "Matthew"
+    }
+  ]
+}

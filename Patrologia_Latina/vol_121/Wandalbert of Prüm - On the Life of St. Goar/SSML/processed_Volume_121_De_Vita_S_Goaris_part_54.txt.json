@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>On the story of a Scottish woman who was healed there.</s><break time=\"500ms\"/>\n        <s>A Scottish woman named Brigida, who had difficulty walking, was left there by her parents and fellow citizens who were returning from the city.</s>\n        <s>After spending some time there, on the day of the annual celebration, in front of a large crowd, she was healed and stood up.</s>\n    </p>\n</speak>",
+      "original_latin": "De muliere quadam Scoticae nationis ibi sanata. 20. Mulier quaedam de natione Scotorum nomine\nBrigida, debilis gressu a parentibus suis et civibus ab\nurbe redeuntibus aegra ibi relicta est. Et cum aliquantulum\nibi temporis transegisset, sub die solemnitatis\nannuae, astante plebis multitudine, sanata est\net erecta.",
+      "voice": "Matthew"
+    }
+  ]
+}

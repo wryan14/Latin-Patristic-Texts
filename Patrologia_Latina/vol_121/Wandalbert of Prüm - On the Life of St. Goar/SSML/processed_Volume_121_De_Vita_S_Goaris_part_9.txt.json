@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    In his prayers, he was persistent and showed charity to the poor. Every day, during the solemnities of the Mass, he had a dedicated custom of offering the sacrifice of the body and blood of Christ for the state of the Church. He would complete the entire psalter with intense prayer.\n  </p>\n  <p>\n    Afterward, he would share food out of charity with pilgrims and the poor, whom he was almost never without. He would commend them to God in prayer while also providing them with physical nourishment. Thus, any traveler who arrived would receive both the word of salvation and the aid of intercession, along with food for the body.\n  </p>\n  <p>\n    He did this, mindful of the apostolic teaching that God loves a cheerful giver Second Corinthians Chapter Nine, and desiring to receive Christ in the poor and pilgrims, so that he might be worthy of hearing from Him: <break time=\"500ms\"/> \"What you did for one of the least of these my brothers and sisters, you did for me\" Matthew Chapter Twenty-Five.\n  </p>\n</speak>",
+            "original_latin": "Ejus in oratione instantiae, et in pauperes charitas. 7. Erat ei solemnis consuetudo, ut omni die missarum\nsolemnia celebrans, sacrificium corporis et\nsanguinis Christi pro statu Ecclesiae offerret, psalteriumque\nex integro  orando intente compleret, tum\n deinde cum peregrinis et pauperibus quibus sine\npene nunquam erat cibum officio charitatis acciperet,\nquos oratione Deo commendabat, corporeo nihilominus\nalimento reficiens, ut ab eo peregrinus qui\ncasu advenisset cum verbo salutis et ope intercessionis\ncibum quoque perciperet carnis. Haec autem\n agebat apostolicae sententiae memor, quoniam hilarem\ndatorem diligit Deus (II Cor IX): et Christum\nin pauperibus et peregrinis suscipere cupiens, ut\nab eo mereretur audire: Quod uni ex minimis meis\nfecistis mihi fecistis (Matth XXV).",
+            "voice": "Matthew"
+        }
+    ]
+}

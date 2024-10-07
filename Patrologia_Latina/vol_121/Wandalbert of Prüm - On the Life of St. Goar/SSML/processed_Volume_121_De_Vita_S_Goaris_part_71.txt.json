@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            A Scottish woman was healed from lameness there.\n        </s><break time=\"500ms\"/>\n        <s>\n            To give some background, citizens returning from the city left behind this Scottish woman who was sick and unable to walk properly.\n        </s>\n        <s>\n            After spending six months in that place, on the day of the annual festival held on July 6, she regained her ability to walk during the evening Psalms.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "De muliere Scotica ibi a claudicatione sanata. 37. Sed ut huic rei gestae tempore paulo superiorem\n subjiciam, mulierem Scoticae nationis cives ab\nurbe redeuntes aegram et gressu debilem ibi reliquerunt. Ea postquam sex in loco menses egit, sub die\nsolemnitatis annuae quae agitur pridie nonas Julii inter\nvespertinos Psalmos gressus sanitatem recepit.",
+      "voice": "Matthew"
+    }
+  ]
+}

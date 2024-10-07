@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        The devil stirs up envy.\n        <break time=\"500ms\"/>\n        The ancient enemy, always envious of the progress of the chosen ones, strives in many ways to oppose their efforts. All who desire to live piously in Christ suffer persecution. The devil was deeply grieved by the works of charity and preaching done by this holy man. He began to set traps of temptation for him, sometimes secretly, sometimes openly, working in various ways to turn him away from his purpose. Nevertheless, he endured all these things with equanimity, knowing that it is necessary to enter the kingdom of God through many tribulations.\n        <break time=\"500ms\"/>\n        Therefore, he could not be restrained from preaching, always dedicating himself to winning souls for God. Nor was he hindered in any way from works of charity, which he knew were very pleasing to God. So much so, that daily many people came to him, either fleeing from pagan vanity to the sincerity of faith, or desiring by his example to offer voluntary servitude to Christ.\n    </p>\n</speak>",
+      "original_latin": "Diabolo invidiam facessit. 8. Sed quia antiquus hostis electorum semper profectibus\ninvidens, eorum studiis multipliciter nititur\noccursare, et omnes qui pie volunt vivere in Christo\npersecutionem patiuntur; haec a viro sancto charitatis\net praedicationis opera fieri diabolus acriter\ndoluit, coepitque illi nunc occulte, nunc etiam manifeste\ntentationum fraudes intendere, ejusque propositum\nut averteret modis variis laborare: quae\ntamen ille cuncta aequanimiter tolerabat, qui nosset\n per multas tribulationes oportere ingredi regnum\nDei. Quare neque a praedicatione potuit cohiberi,\nquin lucrandis Deo animabus operam semper impenderet;\nneque ab operibus charitatis, quae permaxime\nDeo accepta noverat, ullatenus valuit impediri:\nita ut quotidie concursus ad illum multorum\nfieret, qui aut a gentili vanitate ad fidei sinceritatem\nconfugerent, aut ejus exemplo cuperent voluntariam\nChristo dependere servitutem.",
+      "voice": "Matthew"
+    }
+  ]
+}

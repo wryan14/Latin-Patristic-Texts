@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        The booklet detailing the life and deeds of the holy and blessed confessor, Goar, written by the deacon Wandalbert, concludes happily.\n    </p>\n</speak>",
+      "original_latin": "Libellus de Vita et actibus sancti ac beatissimi GOARIS confessoris, editus a WANDALBERTO diacono, explici\nfeliciter.",
+      "voice": "Ruth"
+    }
+  ]
+}

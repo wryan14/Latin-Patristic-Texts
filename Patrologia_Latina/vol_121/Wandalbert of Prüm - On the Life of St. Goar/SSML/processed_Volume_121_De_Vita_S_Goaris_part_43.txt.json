@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About Waltarius, a nobleman possessed by a demon.</s>\n    </p><break time=\"500ms\"/>\n    <p>\n        <s>Waltarius, a man noble by worldly standards, is still alive today and was suffering from a very severe affliction, undoubtedly possessed by a demonic spirit.</s>\n        <s>He was sewn into a hide and taken to the venerable tomb, where he lay for a while.</s>\n        <s>With his hands outstretched, he dedicated himself and all his possessions to Saint Goar with a loud declaration and even gave a very fine vineyard, which remains in the possession of the same Cell to this day.</s>\n        <s>Immediately, he was freed from the madness he had suffered for so long.</s>\n        <s>Although he remains free and is sometimes accused by many of being driven by greed and stealing others' property, he still freely declares himself to be a servant of Saint Goar and testifies that he was healed by him.</s>\n    </p>\n</speak>",
+      "original_latin": "De Waltario homine nobili daemoniaco. 10. Waltarius quidam, homo secundum saeculum\nnobilis, qui nunc usque superest, cum vexationem\ngravissimam pateretur, et indubie spiritu daemonico\nageretur, insutus corio ad venerabilem tumulum est\ndeportatus; ubi cum aliquandiu jacuisset, protensis\nmanibus, seipsum suaque omnia sancto Goari magnae\nvocis professione subjecit, et optimam insuper\nvineam dedit, quae nunc usque in ejusdem Cellae\npossessione perdurat; continuoque ea quam diutissime\npassus fuerat amentia caruit. Is hodieque licet\nin libertate propria maneat, et interdum avaritiae\n aestu succensus (ut a multis incusatur) aliena quoque\ndiripiat, servum se tamen sancti Goaris, et ab\neo sanatum esse voce liberrima protestatur.",
+      "voice": "Matthew"
+    }
+  ]
+}

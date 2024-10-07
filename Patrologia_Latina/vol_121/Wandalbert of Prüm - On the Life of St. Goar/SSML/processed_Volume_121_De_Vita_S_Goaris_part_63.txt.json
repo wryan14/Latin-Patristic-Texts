@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    On the merchant named Badoard who died because of a killed slave.\n  </p><break time=\"500ms\"/>\n  <p>\n    A merchant named Badoard was about to board a ship on the Rhine. One of his slaves, who had accidentally offended him and feared punishment, jumped off the ship and quickly ran to a church for sanctuary. Badoard chased after the runaway and began to drag him out of the church. A monk named Herirad, who was present by chance, tried to stop him and pleaded with Badoard in the name of Goar, both requesting and threatening him. I learned this from Herirad himself.\n  </p>\n  <p>\n    However, the merchant, driven by rage, ignored the monk's pleas and threats. He dragged the slave from the altar and struck him right outside the church as an additional sign of contempt. Not long after, the merchant realized whom he had obeyed and whom he had scorned. Possessed by an evil spirit, he soon died after suffering extreme agony.\n  </p>\n</speak>",
+      "original_latin": "De negotiatore nomine Badoardo propter caesum servum\nmortuo. 29. Negotiator quidam Badoart dictus cum Rhenum\nnavi ascenderet, unus servorum qui illum forte\noffenderat supplicium metuens de navi prosiliit, et\nconcitus ad ecclesiam fugit. Tum ille fugitivum secutus\nab ecclesia trahere coepit, prohibente fieri et\nnomine Goaris rogante simul et comminante monacho\nHerirado qui praesens forte residebat, quo haec\n ipsa referente cognovi. Sed negotiator furore succensus\ncum monachum rogantem aeque minantemque\ncontemneret, pro foribus ecclesiae ad contemptus\naugmentum tractum ab altari servum cecidit. Nec\nmultum spatii intercessit, ut cujus arbitrio paruisset\nquemve contempsisset agnosceret, immundo spiritui\ntraditus, brevi vitam nimiis cruciatibus extortam\nfinivit.",
+      "voice": "Matthew"
+    }
+  ]
+}

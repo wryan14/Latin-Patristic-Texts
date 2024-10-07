@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      On the story of a lame woman from the city of Mainz.\n      <break time=\"1s\"/>\n      She came to the festival of Blessed Goar.\n    </s>\n    <s>\n      Placed before Abbot Tancred, she was healed while the clergy completed the evening psalms.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "De muliere clauda ex urbe Mogontiaco. 24. Ex urbe Mogontiaco ad festivitatem B. Goaris\nmulier clauda posito coram abbate Tancrado venit,\net cum in vigiliarum de vespertini psalmi a clero\ncomplerentur, sanata est.",
+      "voice": "Matthew"
+    }
+  ]
+}

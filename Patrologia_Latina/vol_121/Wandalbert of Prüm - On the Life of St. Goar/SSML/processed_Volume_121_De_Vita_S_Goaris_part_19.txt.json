@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        He is seized by the bishop under accusation.<break time=\"500ms\"/>\n    </p>\n    <p>\n        <s>\n            Those who had brought him quickly approached the bishop and reported everything that had happened on the journey and what they had observed in the man of God.\n        </s>\n        <s>\n            Instead of being amazed by the divine works and praising God in His saint, the bishop, consumed with fury, began to tell those around him that the things Goar had done were not by divine power, but by magical arts and sorcery.\n        </s>\n        <s>\n            He insisted there was no sign of true virtue in him, claiming he was a slave to the flesh and stomach, eating and drinking in the morning, and unable to endure fasting and abstinence.\n        </s>\n    </p>\n    <p>\n        <s>\n            He claimed that the holy and righteous of old pleased God through fasting, abstinence, and almsgiving.\n        </s>\n        <s>\n            These things were being proclaimed as if one could be holy through abstinence alone, and not through charity and sincere love for God.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Ab episcopo in calumniam rapitur. 17. Qui autem illum deduxerant, ad episcopum\nquantocius venientes, cuncta quae in itinere contigissent,\nquaeque in Dei homine conspexissent ex ordine\nretulerunt. Ille cum debuerit in admirationem divinorum\noperum converti, et Deum in sancto ejus laudare,\nin furorem accensus coepit sibi astantibus dicere,\nea quae Goar egerit, non tam ope divina, quam\nmagica arte et maleficiis ab eo esse patrata: nec in\nillo aliquod verae virtutis indicium posse existere,\nqui carni et ventri subditus mane comedat ac bibat,\net jejunii inediaeque sit impatiens: cum antiqui sancti\n et justi per jejunium et abstinentiam atque\neleemosynas Deo placuerint. Haec ita jactabantur,\ntanquam sola abstinentia quis aliquando, et non\ncharitate sinceroque in Deum amore sanctus exstiterit.",
+      "voice": "Matthew"
+    }
+  ]
+}
