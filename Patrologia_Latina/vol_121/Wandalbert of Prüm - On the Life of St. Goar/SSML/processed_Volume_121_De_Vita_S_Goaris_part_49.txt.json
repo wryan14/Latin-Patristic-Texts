@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>About Queen Fastrada being healed there.</p><break time=\"500ms\"/>\n  <p>The same prince's wife, Fastrada, was suffering from a very severe toothache.</p>\n  <p>She came to the place to pray for relief from her pain.</p>\n  <p>As soon as she prayed humbly, she was freed from her discomfort.</p>\n  <p>Because of this, the emperor gave a villa called Nasonia, and it remains under the jurisdiction of that place to this day.</p>\n</speak>",
+      "original_latin": "De regina Fastrada ibi sanata. 16. Ejusdem principis conjux Fastrada cum vehementissimo\n dentium dolore torqueretur, et ad\nlocum ob remedium ejus doloris oratum venisset,\ncontinuo ut supplex facta est, incommodo caruit; ob\nquam rem data est ab imperatore villa quae Nasonia\nnuncupatur, et in jure loci hactenus retinetur.",
+      "voice": "Matthew"
+    }
+  ]
+}

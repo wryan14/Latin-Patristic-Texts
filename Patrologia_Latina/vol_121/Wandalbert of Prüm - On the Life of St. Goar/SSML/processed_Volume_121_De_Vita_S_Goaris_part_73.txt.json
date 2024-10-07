@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    On the light twice kindled in the lamp by divine intervention.\n  </p><break time=\"500ms\"/>\n  <p>\n    To elaborate on what I briefly mentioned earlier, last year on Easter, when Provost Ekkibaldus wanted to perform Mass at dawn, and again this year during Lent, the same man was performing Masses, and the light in the church was missing. The custodian, after putting down the lamp and finding it without fire, hurried to bring it. Suddenly, in the sight of many, the light spontaneously shone in the lamp, which many faithful men who were present frequently testify to have happened.\n  </p>\n</speak>",
+      "original_latin": "De lumine bis in lampade succenso divinitus. 39. Et ut illud inferam quod supra leviter tetigi,\nanno praeterito in die sanctissimo Paschae, cum praepositus\nEkkibaldus sub ipso lucis exortu missas\nagere vellet, itemque hoc eodem anno quo ista conscripsimus\ncum idem in Quadragesima missas ageret,\n et lumen ecclesiae deesse quaereretur, custosque\ndeposita lampade ac sine igne reperta, pro eo deferendo\nfestinaret; subito cernentibus multis sponte in\nlampade lumen accensum enituit, quod ibi crebro\nfactum plures viri fideles qui interfuere testantur.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            About Count Heriwin Warned by Divine Scourge.\n        </s>\n    </p><break time=\"500ms\"/>\n    <p>\n        <s>\n            A certain count named Heriwin was traveling through an area and decided to stop.\n        </s>\n        <s>\n            Although his men advised him to pray, he postponed it due to the urgency of the journey.\n        </s>\n        <s>\n            Not long after, he fell from his horse and was seriously injured.\n        </s>\n        <s>\n            His men carried him back to the church.\n        </s>\n        <s>\n            While lying there briefly, he received a blessing of health at the revered memorial.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "De Heriwino comite flagello divino commonito. 13. Comes quidam nomine Heriwinus, cum per\nlocum transiens declinasset, et licet a suis ut oraret\nadmonitus pro festinantia itineris distulisset, non\nlonge profectus de equo cecidit, gravissimoque lapsu\ncontritus ad ecclesiam suorum manibus reportatur:\nibi brevi decumbens, apud memoriam venerandam\nsanitatis est beneficium assecutus.",
+      "voice": "Matthew"
+    }
+  ]
+}

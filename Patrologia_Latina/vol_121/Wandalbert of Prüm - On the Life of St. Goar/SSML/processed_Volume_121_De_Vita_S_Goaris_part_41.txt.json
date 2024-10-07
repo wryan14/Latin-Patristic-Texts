@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About the slave of a nobleman named Wido, who was lame and then healed.</s><break time=\"500ms\"/>\n    </p>\n    <p>\n        <s>Around the same time, a slave of a nobleman named Wido, who was limping, came to the place and was healed through the merits of the holy man.</s>\n        <s>With his master's permission, he dedicated himself to church service and, before long, became a priest.</s>\n        <s>When these events were recorded, he was still alive.</s>\n    </p>\n</speak>",
+      "original_latin": "De servo Widonis cujusdam claudo et sanato. 8. Per idem tempus cum ad locum Widonis cujusdam\nde nobilibus servus claudicans advenisset et meritis\nsancti viri sanatus, ecclesiastico se servitio\npermittente suo domino mancipavit, ac non post\nmultum temporis presbyter factus adhuc cum haec\nscribebantur in hac vita supererat.",
+      "voice": "Matthew"
+    }
+  ]
+}

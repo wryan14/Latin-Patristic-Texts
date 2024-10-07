@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n<p>\n<s>On the wine that stayed in the open barrel.</s><break time=\"500ms\"/>\n<s>Here's another miraculous tale:</s>\n<s>One evening, as night approached, Horduinus, the cellarer, drew some wine from a barrel.</s>\n<s>Lost in thought, he didn't secure the barrel properly and left it slightly open.</s>\n<s>The next day, when he returned to the barrel, he found the opening still open, with a spider's web spun across it.</s>\n<s>Remarkably, not a single drop of wine had spilled onto the floor.</s>\n</p>\n</speak>",
+      "original_latin": "De vino quod aperto cupae cuniculo mansit. 7. Et ut miraculum simile subdam: quodam tempore\ncum cellerarius loci nomine Horduinus imminente\njam noctis quiete, vinum de cupa quadam hausisset,\ncontigit ut cupae cuniculum aliud forte meditans\ninfirme clauderet et abiret. Cumque sequenti\n die regressus ad eamdem cupam venisset, cuniculum\nquidem apertum invenit, et ante illum ductam aranei\ntelam; sed ita vinum in cupa steterat, ut ne unius\nquidem guttae de ea lapsae indicium in pavimento reperiri\nvaleret.",
+      "voice": "Matthew"
+    }
+  ]
+}

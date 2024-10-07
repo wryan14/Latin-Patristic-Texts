@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    About a certain Freculfus who lost his mind.\n  </p><break time=\"500ms\"/>\n  <p>\n    During the reign of Asuero, a chief of the royal estate named Freculfus, from a place not far called Wasalia, lost his mind. <break time=\"500ms\"/> When his people took him to the venerable memorial, he regained his sanity.\n  </p>\n</speak>",
+      "original_latin": "De quodam Freculfo mente capto. 9. Sub eodem Asuero quidam major regiae villae\n quae non longe posita Wasalia dicitur, Frecholfus,\nnomine mente captus, cum esset a suis ad venerandam\nmemoriam deductus, mentis sanitatem recepit.",
+      "voice": "Matthew"
+    }
+  ]
+}

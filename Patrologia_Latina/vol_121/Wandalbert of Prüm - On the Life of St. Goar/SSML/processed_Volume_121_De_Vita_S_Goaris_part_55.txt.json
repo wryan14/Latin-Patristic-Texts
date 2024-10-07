@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>On the slave girl of a certain Hadebald who was healed twice.</s>\n    <break time=\"500ms\"/>\n    <s>The slave girl of a well-known man named Hadebald, who was both blind and mute, was healed in front of the people at the revered memorial.</s>\n    <break time=\"500ms\"/>\n    <s>When this became known, her master, who had sent the sick girl, brought her back to his service now healthy.</s>\n    <break time=\"500ms\"/>\n    <s>Soon after, her previous infirmity returned.</s>\n    <break time=\"500ms\"/>\n    <s>Compelled by the evident miracle, her master sent her back to the place where she had been healed.</s>\n    <break time=\"500ms\"/>\n    <s>Not long after, the health that had been granted to her was restored once the master had repented for his recklessness.</s>\n    <break time=\"500ms\"/>\n    <s>She spent the rest of her life in that same place.</s>\n    <break time=\"500ms\"/>\n    <s>Finally, her sister still lives there and is a very reliable witness to the event.</s>\n  </p>\n</speak>",
+      "original_latin": "De ancilla cujusdam Hadebaldi bis sanata. 21. Item Hadebaldi cujusdam noti hominis ancilla,\nquae et caeca esset et muta, ad memoriam venerandam\npopulo teste sanata est. Sed cum his agnitis,\ndominus qui infirmam miserat, ad suum servitium\njam incolumem revocasset, mox in illam prior debilitas\nrediit. Coactus itaque evidenti miraculo ejus\ndominus manumissam ad locum reverti fecit; nec\n multo post sanitas quae collata ante fuerat, sed temeritate\nhominis praepedita, correcto domino ancillae\nest restituta; quae et reliquum vitae suae in eodem\nloco peregit. Denique adhuc ibi soror ejus degit, et\ncertissima rei geste testis assistit.",
+      "voice": "Matthew"
+    }
+  ]
+}

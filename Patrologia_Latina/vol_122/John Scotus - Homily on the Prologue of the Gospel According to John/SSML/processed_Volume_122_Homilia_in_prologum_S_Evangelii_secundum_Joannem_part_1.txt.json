@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "original_latin": "JOANNIS SCOTI\nHOMILIA\nIN PROLOGUM S. EVANGELII SECUNDUM JOANNEM. ",
+      "cleaned_english_translation": "<speak>\n    Homily on the Prologue of the Gospel According to John<break time=\"500ms\"/>\nby John Scotus\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    }
+  ]
+}

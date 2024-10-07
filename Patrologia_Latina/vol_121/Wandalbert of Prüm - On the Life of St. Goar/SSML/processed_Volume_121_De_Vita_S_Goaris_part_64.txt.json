@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>On the miraculous release of a certain Humphrey's servant from chains.</p>\n  <break time=\"500ms\"/>\n  <p>A servant of Humphrey, a cleric of the church, was being dragged with his arms tied behind his back for an offense against his master. Terrified by the punishment he faced, he looked towards the church and silently prayed, as he had no other way to escape.</p>\n  \n  <p>What a remarkable event! Immediately, the chains binding him loosened and fell off faster than you could say. Freed from the chains, the servant rushed to the church. His master did not pursue him, allowing him to avoid the punishment for his offense.</p>\n  \n  <p>Such was the power of the silent prayer offered by the holy man to almighty God. Christ did not allow him to remain bound, as he sought refuge at the holy altar out of necessity and faith. This event also demonstrated the strength of the holy man's intercession in freeing souls from their bonds, as his prayer so effortlessly released the physical chains.</p>\n</speak>",
+      "original_latin": "De cujusdam Humfridi servo a vinculis mirabiliter\nsoluto. 30. Item Humfridi cujusdam clerici ecclesiae servus\ncum pro culpa in dominum commissa a tergo vinctus\nbrachia traheretur, et supplicia quae sibi inferenda\nsciret, animo perhorresceret, quoniam aliter\n Domini praesentiam subterfugere non valebat, ecclesiam\nrespexit, et ad eam secum prece tacitus inclinavit. Res digna miraculo! confestim vincula quibus\nligatus ducebatur, dicto citius laxata sunt et soluta;\nexutusque vinculis servus ad ecclesiam sese proripuit,\nnec repetitus a domino offensam suppliciumque\nvitavit. Tantum apud omnipotentem Deum supplicatio\ntacite viro sancto fusa convaluit, nec passus est\nChristus eum manere ligatum, qui necessitate et animo\nad sancti altaris auxilium confugisset, ut hinc\nquoque daretur intelligi, quantum intercessio illius\nad animarum solvenda vincula praevaleret, cujus\ninvocatio tanta facilitate ligamenta corporis dissolvisset.",
+      "voice": "Matthew"
+    }
+  ]
+}

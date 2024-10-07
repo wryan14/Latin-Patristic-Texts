@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\nThe Life of Saint Goar\n<break time=\"500ms\"/>\n by Wandalbert of Prum\n<break time=\"2s\"/>\n</speak>",
+            "original_latin": "VITA SANCTI GOARIS\nAUCTORE WANDALBERTO. ",
+            "voice": "Ruth"
+        }
+    ]
+}

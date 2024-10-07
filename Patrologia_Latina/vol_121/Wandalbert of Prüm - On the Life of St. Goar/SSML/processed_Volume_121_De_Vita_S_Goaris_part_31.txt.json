@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n    <p>\n        Here's what I have to share about the life of the holy man Goar. I've based this on ancient and very old sources, aiming to follow the truth faithfully in recounting these events.\n    </p>\n    <p>\n        I've made an effort to refine the simplicity of the speech, which might have offended the learned, as per your wishes, most distinguished and revered father. I hope that both I and everyone who reads this will always be helped by the intercession and merits of this great man before the divine mercy.\n    </p>\n    <p>\n        We, who daily falter against divine laws due to human weakness and mortal life, may, through the intervention of the one who faithfully served the law of Christ, be relieved of our sins and deserve assistance in living well, by the grace of our Lord Jesus Christ.\n    </p>\n    <p>\n        To whom, with the Father and the Holy Spirit, is honor and glory forever and ever, Amen.\n    </p><break time=\"500ms\"/><break time=\"500ms\"/>\n</speak>",
+            "original_latin": "Auctoris fides et peroratio. 29. Haec habui de Vita sancti viri Goaris quae scripturae\nmandarem, accepta ex vetustis et perantiquis\nexemplaribus, quorum rerum gestarum narratione\nveritatem fide integra subsequens, solam sermonis quae\neruditos non parum offendere poterat simplicitatem\n pro vestra voluntate, vir clarissime paterque venerande,\ncorrigere studui, optans et meipsum et omnes\nqui haec lecturi sunt, tanti viri intercessione et meritis\napud divinam semper adjuvari clementiam, ut\nqui ex infirmitate carnis humanae et conditione mortalis\nvitae multa quotidie contra leges divinas agimus,\nejus qui quoad vixit integre legi Christi servivit\ninterventu, et peccatorum pondere sublevari\net ad bene vivendum mereamur opitulari, praestante\nDomino Jesu Christo, cui est cum Patre et Spiritu\nsancto honor et gloria in saecula saeculorum, Amen.",
+            "voice": "Matthew"
+        }
+    ]
+}

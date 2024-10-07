@@ -12,3 +12,7 @@ An audio version of this work is available on Archive.org for free download:
 * [Letter of Gottschalk to Ratramnus by Gottschalk of Orbais - Archive.org](https://archive.org/details/letter-of-gottschalk-to-ratramnus)
 * [On the Body and Blood of the Lord by Haymo of Halberstadt - Archive.org](https://archive.org/details/on-the-body-and-blood-of-the-lord)
 * [Diabolical Chapters of Gunthar Against Pope Nicholas by Gunthar, Bishop of Cologne - Archive.org](https://archive.org/details/diabolical-chapters-of-gunthar-against-pope-nicholas)
+* [Diabolical Chapters of Gunthar Against Pope Nicholas by Gunthar, Bishop of Cologne - Archive.org](https://archive.org/details/diabolical-chapters-of-gunthar-against-pope-nicholas)
+* [On the Life of St. Goar by Wandalbert of Prüm - Archive.org](https://archive.org/details/on-the-life-of-st.-goar)
+* [Little Book on Waldrada by Adventius, Bishop of Metz - Archive.org](https://archive.org/details/little-book-on-waldrada)
+* [Book against John Scotus by Florus of Lyon - Archive.org](https://archive.org/details/book-against-john-scotus)

@@ -1,0 +1,10 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "cleaned_english_translation": "<speak>\n  <p>\n    He hung his cloak on a sunbeam.<break time=\"500ms\"/>\n  </p>\n  <p>\n    While this was happening with the bishop, in the presence of the church clergy, a venerable priest entered the house where the bishop was sitting with his countrymen. He began to look around to see where his disciple, with whom he had come, might sit, or where he could hang his cowl. Then he saw in the corner of the house what looked like a wooden beam attached to the wall-it was actually a sunbeam coming through a small window. Approaching it, thinking it was a beam, he hung his cloak on it and instructed his disciple to stand nearby.\n  </p>\n  <p>\n    It is not surprising that a sunbeam took on the hardness of wood to serve a holy man, since all creation is subject to the will of the Creator who is devoutly served.\n  </p>\n</speak>",
+            "original_latin": "Cappam ad solis radium suspendit. 18. Dum haec apud episcopum geruntur, praesente\nclero ecclesiae, venerabilis sacerdos domum in qua\ncum suis rusticis episcopus consederat ingressus est,\ncoepitque prospicere quam in partem vel discipulus\nquo comite venerat concederet, vel ipse cucullum\nsuum posset appendere: cum ecce videt in angulo\ndomus tanquam vectem ligneum parieti haerentem,\n(erat autem solis radius per modicam fenestram ingrediens)\nad quem accedens, quoniam ut dictum est,\n vectem putabat, in eo cappam suam appendit, juxtaque\ndiscipulum stare praecepit. Neque mirandum est\nsolis radium ad obsequium viri sancti ligni duritiam\npraebuisse, cum qui Creatori devote famulatur, ei sit\netiam creatura ex Creatoris voluntate subjecta.",
+            "voice": "Matthew"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "V.---COMMEMORATIO quemadmodum et a quo cella\nsancti Goaris fuerit monasterio Prumiae sociata incipit\nfeliciter.",
+            "cleaned_english_translation": "<speak>\n    The commemoration begins joyfully here, discussing how and by whom Saint Goar's cell was incorporated into the monastery of Prum.\n<break time=\"1s\"/>\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    Having now completed my account of the holy man's miracles, I find it necessary to briefly explain, as an addition to the two previously published booklets, how and why Blessed Goar's cell became part of the monastery of Prum. This way, it should always remain under the governance and authority of the abbot, who, by God's grace, leads that monastery.\n  </p>\n</speak>",
+            "original_latin": " 43. Decursis jam quae de miraculis viri sancti\nscribenda susceperam, videtur mihi necessario paucis\n esse monstrandum et post editos libellos duos\nquodam extraliminio memorandum, quemadmodum\net qua ex causa cella B. Goaris monasterio Prumiae\nfuerit sociata, ut omni tempore sub regimine et potestate\nabbatis qui ei monasterio auctore Deo praefuerit,\nipsa quoque esse deberet.",
+            "voice": "Matthew"
+        }
+    ]
+}
