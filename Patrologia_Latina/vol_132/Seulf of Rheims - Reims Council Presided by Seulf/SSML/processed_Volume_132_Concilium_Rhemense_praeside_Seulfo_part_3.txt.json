@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            THE COUNCIL OF RHEIMS PRESIDED OVER BY SEULFUS.\n        </s>\n    </p>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "CONCILIUM RHEMENSE\nPRAESIDE SEULFO.",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>\n            In the year 923, during the second year of Seulfus's episcopate, the holy Fathers gathered: Seulfus, Archbishop of Rheims, Abbo, Bishop of Soissons, Adelelmus of Laon, Stephanus of Cambrai, Adelelmus of Senlis, Airardus, the newly ordained Bishop of Noyon, and delegates from other bishops of the Rheims diocese.\n        </s>\n        <s>\n            They decreed penance for those who participated in the Battle of Soissons between Robert and Charles: three Lents over three years, with the first Lent spent outside the church, and reconciliation on Maundy Thursday.\n        </s>\n    </p>\n    <p>\n        <s>\n            During these three Lents, on Mondays, Wednesdays, and Fridays, they should abstain from bread, salt, and water, or redeem it.\n        </s>\n        <s>\n            Similarly, for fifteen days before the Nativity of Saint John the Baptist, fifteen days before the Nativity of our Lord, and on every Friday throughout the year, unless they redeem it, a notable festival falls on that day, or they are detained by illness or military service.\n        </s>\n    </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": " In quo poenitentia indicta est iis qui bello Suessionico inter Robertum et Carolum reges interfuerunt\nanno 923 . (Apud Labbeum Conciliorum tom IX col 381) Anno Dominicae incarnationis 923, episcopatus autem\ndomini Seulfi secundo, convenientes sancti Patres,\nSeulfus scilicet Rhemorum archiepiscopus, Abbo\nSuessionicae urbis episcopus, Adelelmus Laudunensis,\nStephanus Cameracensis, item Adelelmus\nSilvanectensis, Airardus tunc inibi ordinatus Noviomagensis,\ncum caeterorum ejusdem Rhemensis\ndioeceseos episcoporum legatis, decreverunt hanc\npoenitentiam his qui bello Suessionis inter Robertum\nac Carolum acto interfuerant injungendam: videlicet,\nut tribus quadragesimis per tres annos agant\n poenitentiam, ita ut prima quadragesima sint extra\necclesiam, et Coena Domini reconcilientur. Omnibus\nvero his tribus quadragesimis, secunda, quarta et\nsexta feria, in pane, sale et aqua abstineant, aut\nredimant. Similiter quindecim diebus ante nativitatem\nsancti Joannis Baptistae, et quindecim\ndiebus ante nativitatem Domini Salvatoris, omni\nquoque sexta feria per totum annum, nisi redemerint,\naut festivitas celebris ipsa die acciderit,\nvel eum infirmitate sive militia detentum esse contigerit.",
+      "voice": "Matthew"
+    }
+  ]
+}
