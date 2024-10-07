@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        In the year of Our Lord 877, Charles the Bald was the King of the Franks.\n    </p>\n</speak>",
+      "original_latin": "br>ANNO DOMINI DCCCLXXVII.CAROLUS CALVUS\nFRANCORUM REX.",
+      "voice": "Ruth"
+    }
+  ]
+}
