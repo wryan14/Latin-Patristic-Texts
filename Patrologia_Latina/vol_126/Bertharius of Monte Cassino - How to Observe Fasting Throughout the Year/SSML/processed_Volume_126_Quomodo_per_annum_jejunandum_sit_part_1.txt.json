@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "S BERTARIUS ABBAS CASSINENSIS\nQUOMODO PER ANNUM JEJUNANDUM SIT.",
+      "cleaned_english_translation": "<speak>\n\nHow to Observe Fasting Throughout the Year\n<break time=\"500ms\"/>\nby \nBertharius of Monte Cassino\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>Each of the four seasons has its own designated fasting periods.</s>\n    <s>In the first month, during the first week, you should fast on Wednesday, Friday, and Saturday, with twelve readings, until evening.</s>\n    <break time=\"500ms\"/>\n    <s>In the fourth month, which is June, during the second week, you should fast on Wednesday, Friday, and Saturday, with twelve readings, until the ninth hour.</s>\n    <break time=\"500ms\"/>\n    <s>In September, the seventh month, during the third week, you should fast on Wednesday, Friday, and Saturday, with twelve readings, until the ninth hour.</s>\n    <break time=\"500ms\"/>\n    <s>In the tenth month, during the fourth week, you should fast on Wednesday, Friday, and Saturday, with twelve readings, until evening.</s>\n    <break time=\"500ms\"/>\n  </p>\n  <p>\n    <s>Observing these twelve legitimate fasts throughout the year compensates for sins equivalent to one hundred gold coins.</s>\n    <break time=\"500ms\"/>\n    <s>If diligently observed, these fasts will free the soul.</s>\n  </p>\n  <p>\n    <s>Additionally, the Prior may declare fasts for any tribulation.</s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Quatuor tempora, quatuor sunt legitima jejunia\nin anno, scilicet mensis primi hebdomada prima,\nferia quarta et sexta et sabbato in duodecim lectiones\njejunandum usque ad vesperum. Mensis quarti, id\nest Junii, hebdomada secunda, feria quarta et sexta\net sabbato in duodecim lectiones jejunandum usque\nad nonam. Mense Septembrio, id est mensis septimi\nhebdomada tertia, feria quarta et sexta et sabbato\nin duodecim lectiones jejunandum usque ad nonam. Mense decimo hebdomada quarta, feria quarta et\nsexta et sabbato in duodecim lectiones jejunandum\nest usque ad vesperum. Ista duodecim legitima jejunia\nper annum excusant pro peccatis centum solidos\nin auro cocto. Cumque studiose haec duo . . . . . . no pellit . . . liberabit . . . . animam. Extra ea\njejunia, quae Prior indixerit pro quacunque tribulatione.",
+      "voice": "Matthew"
+    }
+  ]
+}
