@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        Saint Eugenius was the Bishop of Carthage.\n    </p>\n</speak>",
+      "original_latin": "EODEM TEMPORE. S. EUGENIUS\nCARTHAGINENSIS EPISCOPUS.",
+      "voice": "Ruth"
+    }
+  ]
+}
