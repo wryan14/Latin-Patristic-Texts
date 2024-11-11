@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    The year is 923 AD. <break time=\"500ms\"/>\n    Radbod of Dol. <break time=\"500ms\"/>\n  </p>\n</speak>",
+      "original_latin": "ANNO DOMINI DCCCCXXIII. RADBODUS DOLENSIS.",
+      "voice": "Ruth"
+    }
+  ]
+}

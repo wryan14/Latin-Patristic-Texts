@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Section eight: About Saint Remigius the Bishop.</s>\n        <s>In the book of the Life of Blessed Remigius, Apostle of the Franks, written by Hincmar, it describes the conversion of King Louis and his people, among other things.</s>\n        <s>Saint Remigius, filled with great joy, instructed the king and the people in clear and simple words on how they should renounce the devil, his works, and his displays, and believe in God.</s>\n        <s>As the day of Holy Easter was approaching, he prescribed fasting for them according to Christian custom.</s>\n    </p>\n</speak>",
+      "original_latin": "VIII. De S. Remigio episcopo. Legitur et ad locum in libro Vitae beati Remigii\nFrancorum apostoli (HINCMAR. Vita S. Remig.) inter\ncaetera quibus refertur conversio Ludovici regis et\n populi ejus. Ille (quin sanctus Remigius) gaudio\nmagno repletus, regem et populum, qualiter diabolo\net operibus ac pompis ejus abrenuntiare, et in Deum\ncredere deberent, apertis et brevibus verbis instruxit:\net quia dies sancti Paschae imminebat, jejunium\nsecundum Christianorum consuetudinem eis indixit.",
+      "voice": "Matthew"
+    }
+  ]
+}

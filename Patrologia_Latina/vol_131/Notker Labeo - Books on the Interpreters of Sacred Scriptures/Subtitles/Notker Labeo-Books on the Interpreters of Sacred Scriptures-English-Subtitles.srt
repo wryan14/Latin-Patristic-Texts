@@ -1,0 +1,706 @@
+1
+00:00:00,000 --> 00:00:03,298
+Blessed Notker the Stammerer was a monk from Saint Gall.
+
+2
+00:00:03,298 --> 00:00:07,069
+He is renowned for his work on interpreting the Holy Scriptures.
+
+3
+00:00:07,069 --> 00:00:13,490
+This information comes from the book titled Book, found in Pez's Treasury of Anecdotes, volume one, part one.
+
+4
+00:00:13,608 --> 00:00:28,847
+Notation by Notker on the renowned men who interpreted the Holy Scriptures with purpose or clarified certain passages of divine authority, written to Solomon, his disciple, who later became the Bishop of the Church of Constance.
+
+5
+00:00:28,847 --> 00:00:34,580
+Given your wisdom and the reputation that comes with it, I am surprised you're inquiring about trivial matters.
+
+6
+00:00:34,580 --> 00:00:39,745
+Since I can't dissuade you from your pursuit, I will proceed, but first, I must offer some reproach.
+
+7
+00:00:39,745 --> 00:00:43,774
+If you had listened to me, you would already know all our most famous authors.
+
+8
+00:00:43,774 --> 00:00:55,704
+In this, I thought it wise to consider both my own foolishness and your humility, so that while I write useful things and you are deserving of receiving the best, such nonsense would remain unspoken to protect both our reputations.
+
+9
+00:00:55,704 --> 00:00:58,545
+Be careful not to disgrace us in the most shameful way.
+
+10
+00:00:58,751 --> 00:01:03,700
+CHAPTER 1—About those who wrote on Genesis, Exodus, Leviticus, Numbers, Deuteronomy, etc.
+
+11
+00:01:03,700 --> 00:01:12,708
+If you're curious about the Hebrew perspective on Genesis, check out Jerome's book titled: Hebrew Questions, based on the translation of the Seventy Interpreters.
+
+12
+00:01:12,708 --> 00:01:14,988
+For insights on morality, turn to Origen.
+
+13
+00:01:14,988 --> 00:01:19,659
+If you're interested in Augustine's discussions, you won't tire of his twelve books.
+
+14
+00:01:19,659 --> 00:01:33,171
+For a defense of the Creator and the ancient Fathers against critics, read Augustine's two books against the Manichaeans, two more against Faustus, and the eleventh through fourteenth books of his City of God, inspired by the prophetic Spirit.
+
+15
+00:01:33,171 --> 00:01:39,009
+If you appreciate the beauty of creation, you might enjoy Ambrose's Hexameron as a form of entertainment.
+
+16
+00:01:39,009 --> 00:01:45,738
+If you want to savor the essence of the same book and find delight in the truth, try to remember Bede with a keen memory.
+
+17
+00:01:45,738 --> 00:01:54,301
+If you come across the excerpts by Paterius, compiled from the works of the blessed Gregory, you'll find them sufficient for gaining comprehensive wisdom.
+
+18
+00:01:54,301 --> 00:02:04,532
+Delve into the wonderfully argued homilies of Origen on Exodus and Leviticus; Augustine’s seven books of Questions on the entire Pentateuch, and another six on various interpretations.
+
+19
+00:02:04,532 --> 00:02:19,768
+What I find most useful is Eugippius's compilation of Augustine's profound works, providing a valuable volume for understanding all of Scripture, revealing many mysteries from Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Samuel, Kings, and the prophets.
+
+20
+00:02:19,768 --> 00:02:33,780
+Although Jerome is thorough and diligent with all the prophets, and sufficient for the dedicated reader, if you wish to be his disciple, you must overcome the weariness from the tedium of books, so that your fervent reading matches your fervent spirit.
+
+21
+00:02:33,780 --> 00:02:36,060
+These are about the law and the prophets.
+
+22
+00:02:36,671 --> 00:02:37,213
+CHAPTER 2.
+
+23
+00:02:37,213 --> 00:02:41,817
+About those who have explained the Psalms, Proverbs, Ecclesiastes, and Song of Songs.
+
+24
+00:02:41,817 --> 00:02:48,262
+In this chapter, you'll learn about the sacred writers, starting with the Psalms, which are linked to the circumcision.
+
+25
+00:02:48,262 --> 00:02:53,679
+For us, because Christ was born from this tradition, David stands as the leader of all the prophets.
+
+26
+00:02:53,679 --> 00:02:56,062
+Many have shared their insights on his book.
+
+27
+00:02:56,062 --> 00:02:59,962
+Among them, Origen is foremost among the Greeks, and Augustine among us.
+
+28
+00:02:59,962 --> 00:03:05,107
+From their works, Prosper, a bishop from Aquitaine, compiled a very useful volume for scholars.
+
+29
+00:03:05,107 --> 00:03:10,686
+He integrated many works from others and included a preface from Saint Basil's homily at the beginning.
+
+30
+00:03:10,686 --> 00:03:15,073
+Arnobius the rhetorician also left us a testament of his own genius in this book.
+
+31
+00:03:15,073 --> 00:03:18,215
+Similarly, Hilary, the bishop of Poitiers, wrote about it.
+
+32
+00:03:18,215 --> 00:03:29,806
+In Cassiodorus the senator’s explanation, although he discussed many things, he is particularly useful: he shows that all secular wisdom, including the delightful variety of figures and tropes, is hidden within it.
+
+33
+00:03:29,806 --> 00:03:36,847
+Above all, to understand this prophecy, it's helpful to memorize the Psalms that blessed Jerome translated from Hebrew into Latin.
+
+34
+00:03:36,847 --> 00:03:44,809
+Regarding the Proverbs of Solomon, Jerome left brief statements, which were like seeds leading to the great harvest that Bede reaped and collected.
+
+35
+00:03:44,809 --> 00:03:51,471
+Jerome wrote about Ecclesiastes according to the tradition of the Seventy Translators, known as the Vulgate Interpretation.
+
+36
+00:03:51,471 --> 00:03:54,775
+The Hebrews say they translated only the five books of Moses.
+
+37
+00:03:54,775 --> 00:04:00,679
+Therefore, pay careful attention to this exposition so you can interpret it in the context of modern reading.
+
+38
+00:04:00,679 --> 00:04:08,587
+Since you will find little else on this book among the Latins, except a few testimonies placed in the books of blessed Gregory with an exposition.
+
+39
+00:04:08,587 --> 00:04:12,541
+In the Song of Songs, Saint Jerome interprets two homilies of Adamantius.
+
+40
+00:04:12,541 --> 00:04:19,041
+In the preface, he stated that Origen, while surpassing others in his works, exceeded even himself in the Song of Songs.
+
+41
+00:04:20,015 --> 00:04:24,400
+Because he was stopped by death, he couldn't translate this interpretation for us.
+
+42
+00:04:24,400 --> 00:04:28,251
+I am entrusting this task to you as part of our work and varied service.
+
+43
+00:04:28,251 --> 00:04:39,534
+If you ever have the resources and know someone skilled in both Latin and Greek, persuade them to translate these explanations into Latin and even into other languages as a wonderful gift or distinguished prize.
+
+44
+00:04:39,534 --> 00:04:43,491
+In the meantime, read the book by Justus, the bishop of Lyon, on marriage.
+
+45
+00:04:43,491 --> 00:04:46,218
+It's brief in words but full of spiritual insights.
+
+46
+00:04:46,218 --> 00:04:53,277
+If Roman eloquence dismisses the writings of foreign people, Bede's explanation of the same book should be enough for us foreigners.
+
+47
+00:04:53,277 --> 00:05:03,277
+God, the arranger of natures, who made the sun rise in the east on the fourth day of creation, directed a new sun from the west in the sixth age of the world to enlighten the whole world.
+
+48
+00:05:03,277 --> 00:05:12,849
+If you enjoy a lavish feast of Roman delights, whatever sweet insights Pope Gregory left widely scattered on this matter, Bede has prepared in a concise way for eager consumption.
+
+49
+00:05:13,223 --> 00:05:20,628
+CHAPTER 3: About the interpreters of the books of Wisdom, Jesus son of Sirach, Job, Tobit, Ezra, Judith, Esther, Chronicles, and Maccabees.
+
+50
+00:05:20,628 --> 00:06:54,810
+Regarding the book titled "The Wisdom of Solomon," I've not come across any author's explanation except for a few interpretations occasionally found in other books.
+It's completely rejected by the Hebrews and is considered uncertain among our people.
+However, because our predecessors read it for its useful teachings and since the Jews do not have it, it is also called Ecclesiasticus among us.
+The same can be said for the book of Jesus son of Sirach, except that it is both accepted and read by the Hebrews.
+Our apostolic Gregory explained the very difficult book of the blessed prophet Job, which had been untouched by previous teachers, in such a way that he built a moral framework upon its historical foundation and reached the highest point of anagogy.
+He intertwined numerous testimonies from all divine writings, unraveling them in a way that, on this occasion, it seems he explained both the Old and New Testaments.
+But if, due to a lack of resources, involvement in worldly matters, or the demands of military service, you don't have the time or ability to delve into it, seek the excerpt by the Irishman Ladken. After examining the presented testimonies, you'll find nothing lacking for full understanding.
+In various places, you may also come across different collections and excerpts from this and other writings, which will be discussed later if you inquire.
+The presbyter Bede wrote something more entertaining than necessary on the books of Tobit and Ezra, as he tried to turn simple history into allegory.
+As for the books of Judith, Esther, and Chronicles, what can I say about who explains them or how, when even the text itself is held not for authority but only for memory and admiration?
+You might suspect the same about the Books of Maccabees.
+
+51
+00:06:54,863 --> 00:06:59,192
+CHAPTER 4 - Who Has Specifically Interpreted the Books of the New Testament.
+
+52
+00:06:59,192 --> 00:07:11,325
+When it comes to the New Testament, while it might seem straightforward once the more obvious layers are stripped away, it's in these texts that mistakes can be most perilous unless approached with great humility.
+
+53
+00:07:11,325 --> 00:07:14,685
+So, for understanding Matthew, Jerome should be your guide.
+
+54
+00:07:14,685 --> 00:07:18,331
+For Mark, who follows Matthew, look to Bede, who follows Jerome.
+
+55
+00:07:18,331 --> 00:07:23,457
+Regarding Luke, Bede's thorough work serves as a comprehensive guide to the entire Gospel.
+
+56
+00:07:23,457 --> 00:07:29,609
+Augustine, who dwells among the clouds, follows John, the seeker of the heavens, with equally matched wings.
+
+57
+00:07:29,609 --> 00:07:34,564
+Additionally, there's Augustine's book on the Sermon on the Mount according to Matthew.
+
+58
+00:07:34,564 --> 00:07:37,127
+He also wrote Questions on the Entire Gospel.
+
+59
+00:07:37,127 --> 00:07:40,089
+Eugippius's Collection is another valuable resource.
+
+60
+00:07:40,089 --> 00:07:49,601
+Furthermore, there are the Homilies of John Chrysostom, Origen, Augustine, Gregory, Maximus, Leo, Bede, and Jerome's responses to the questions of Algasia and Denobia.
+
+61
+00:07:49,601 --> 00:07:55,981
+If, however, as a soon-to-be priest, you choose to read books aimed at educating women, that's your prerogative.
+
+62
+00:07:55,981 --> 00:08:00,879
+But you, young man, should not disregard what the elder Jerome deemed worthy to write.
+
+63
+00:08:00,879 --> 00:08:12,214
+Origen wrote many remarkable things on the Epistle to the Romans, though his opponents inserted some corruptions, one of which he strongly condemns in the same volume, as I recently mentioned to you.
+
+64
+00:08:12,214 --> 00:08:18,764
+Ambrose, the Bishop of Milan, left concise commentaries on the Gospel according to Luke and all of Paul's Epistles.
+
+65
+00:08:18,764 --> 00:08:27,479
+However, many believe that the explanation of the Epistle to the Hebrews included in his volume wasn't actually written by him, which has been confirmed.
+
+66
+00:08:27,479 --> 00:08:30,840
+Similarly, Pelagius wrote brief notes on the same epistles.
+
+67
+00:08:30,840 --> 00:08:34,827
+Jerome left extensive treatises on the Galatians, Titus, and Philemon.
+
+68
+00:08:34,827 --> 00:08:41,719
+Both Jerome and Bishop Augustine, when asked, penned very insightful letters on various questions concerning the Apostle.
+
+69
+00:08:41,719 --> 00:08:44,510
+Read Bede the Priest on the Acts of the Apostles.
+
+70
+00:08:44,510 --> 00:08:51,117
+And for the Epistle of John, Augustine's explanation will help you understand what it truly means to be a Christian.
+
+71
+00:08:52,199 --> 00:09:02,207
+In the seven letters known as the canonical ones, you'll find Bede the priest's interpretation, along with his explanation of the very obscure vision—rather than revelation—of Blessed John.
+
+72
+00:09:02,207 --> 00:09:07,608
+It's important to know that Augustine, Jerome, and Gregory serve as the foundations of his exposition.
+
+73
+00:09:07,608 --> 00:09:16,398
+While Bede often mentions that he included the explanations of Tyconius the Donatist, he also incorporated many sayings from Primasius, a disciple of Saint Augustine.
+
+74
+00:09:16,398 --> 00:09:20,052
+Anyone who takes the time to read these works can easily notice this.
+
+75
+00:09:20,052 --> 00:09:25,612
+If you're looking for brief notes on the entire Holy Scripture, Archbishop Rabanus of Mainz will suffice.
+
+76
+00:09:25,823 --> 00:09:31,284
+CHAPTER 5 - About those who, during their discussions, explained certain sentences of divine authority.
+
+77
+00:09:31,284 --> 00:09:36,215
+So far, we've talked about writers who intentionally sought to clarify the sacred Scriptures.
+
+78
+00:09:36,215 --> 00:09:41,888
+Now, let's delve into those who, during their discussions, explained certain sentences of divine authority.
+
+79
+00:09:41,888 --> 00:09:49,522
+Augustine, in the countless books he wrote, took the opportunity to explain almost, indeed truly, all of the holy Scripture as situations arose.
+
+80
+00:09:49,522 --> 00:09:52,915
+Proof of this can be found in his thirteen books of Confessions.
+
+81
+00:09:52,915 --> 00:09:57,581
+Also, in his excellent works like On the Good of Nature and On the Benefit of Believing.
+
+82
+00:09:57,581 --> 00:10:09,934
+He tackled Questions on the Proverbs of Solomon and other Scriptures, as well as topics like Grace, Free Will, and the Enchiridion, which focuses on faith, hope, and charity, where his understanding of the Scriptures shines brightly.
+
+83
+00:10:09,934 --> 00:10:58,020
+In his numerous other books, as was said before us, "If Augustine is present, he alone is enough for you."
+Seek his Mirror.
+What can I say about Cassian?
+If you can overlook the monks, who in the twenty-four books of Conferences, which he likens to as many elders from the Apocalypse of John, also discuss the law and the prophets due to the occasion of eight principal vices, you wouldn't doubt that he covered everything.
+But how he discussed the Gospels and the writings of the apostles is something no one would believe unless they thoroughly read those conferences.
+Yet, mindful of the doctrine of his profession, he writes to the holiness of the Fathers, not solely by his own efforts.
+The books of Isidore of Seville, titled Etymologies, perfect you with all kinds of knowledge.
+His most useful book of Sentences also stands out.
+Additionally, he wrote about the Fathers of the Old and New Testament.
+
+84
+00:10:58,391 --> 00:11:06,056
+Another important topic is the duties and orders of the Church, which, by the grace of God, will soon be essential for you as a future priest.
+
+85
+00:11:06,056 --> 00:11:14,909
+These documents contain all the details, including the names of specific festivals and fasts, so you can announce upcoming events to the congregation like a herald.
+
+86
+00:11:14,909 --> 00:11:25,650
+If you fail to announce to the people, who expect the diligence of a watchman, and the sword comes and takes someone away, they will perish in their wrongdoing, but their blood will be on your hands.
+
+87
+00:11:25,650 --> 00:11:26,838
+(Ezekiel, Chapter 33).
+
+88
+00:11:26,999 --> 00:11:31,216
+Chapter 6 - On Books Necessary for Adorning the Priesthood, Letter Writers, etc.
+
+89
+00:11:31,216 --> 00:11:36,434
+Since we're discussing the ministry, which you are about to embark on, I must admit my limitations.
+
+90
+00:11:36,434 --> 00:11:40,124
+I can't even manage my own life or clearly express what little I know.
+
+91
+00:11:40,124 --> 00:12:50,121
+So, I recommend the book by the blessed Pope Gregory, known as the "Pastoral Rule."
+In my view, and I believe in the opinion of many wise people, it could more accurately be called the "Mirror," where everyone, especially bishops and priests, can see themselves portrayed.
+It's so detailed that everyone can recognize not only their words and actions but also their thoughts and feelings, as if they were alive and walking.
+This book contains so much from both the New and Old Testament that, if you memorize it, you might seem to possess the knowledge of all books.
+So, you must consider whether, for the salvation of your soul, you should avoid the priesthood to escape the danger of those you can't correct, or whether you should pursue it for the benefit of those you can guide.
+Although ambition is dangerous and disgraceful, it shouldn't exist among Christians, especially priests.
+You have Eucherius, and I am not sure if he's the one the blessed Augustine mentions in "The City of God," who was healed of an ailment by the holy Stephen, or another bishop or teacher who offered many useful interpretations, tropologies, and anagogies of the Scriptures.
+What about Alcuin, the teacher of Emperor Charlemagne?
+As you often acknowledge, he aimed to be second to none and sought to excel in both secular and sacred writings.
+
+92
+00:12:50,279 --> 00:12:57,843
+He created a grammar so impressive that Donatus, Nicomachus, Domisitheus, and even our own Priscian seem insignificant in comparison.
+
+93
+00:12:57,843 --> 00:13:05,237
+Yet, to you, a fool, he delved deeply into topics like logic, faith, hope, and charity, even daring to explore the Gospel of John.
+
+94
+00:13:05,237 --> 00:13:08,421
+He wrote extensively to his friends, especially to Wito.
+
+95
+00:13:08,421 --> 00:13:14,620
+However, I hesitate to recommend his letters to you because, to your childish eyes, they might seem arrogant.
+
+96
+00:13:14,620 --> 00:13:23,379
+I don't share that view because, through his remarkable authority, by which he surpassed everyone after the greatest of kings, he spoke, lived, and wrote.
+
+97
+00:13:23,379 --> 00:13:29,464
+I recommend the letters of Jerome; not the Greek pagan idolater, but our devout worshipper of the true God.
+
+98
+00:13:29,464 --> 00:13:43,397
+In them, you will find seriousness, wonderful humor, explanations of the holy Scriptures, encouragement of virginity and widowhood, support for those who have fallen, and a strong reproach of clerics, monks, virgins, and even modern prostitutes.
+
+99
+00:13:43,397 --> 00:13:49,539
+It's so intense that if you remember yourself as a cleric, there's nothing you can accuse monks and nuns of.
+
+100
+00:13:49,539 --> 00:13:56,989
+But I particularly commend to you one letter that perfectly suits your age, your ancestors and relatives, your nature and ministry.
+
+101
+00:13:56,989 --> 00:14:05,350
+It's addressed to Nepotian, the relative of Bishop Heliodorus, who was expected to become a bishop after his uncle but was suddenly taken by death.
+
+102
+00:14:05,350 --> 00:14:18,487
+Following this guidance, strive to live as he did, without yearning for the bishopric after your mother's cousin, but rather prepare yourself for the presence of God, because, like everyone, the hour of your departure is uncertain.
+
+103
+00:14:19,055 --> 00:14:22,492
+Chapter Seven: On the Composers of Meters, Hymns, and Epigrams.
+
+104
+00:14:22,492 --> 00:14:29,202
+If you're curious about meters, you don't need the pagan myths, because in Christianity, you have the very wise Prudentius.
+
+105
+00:14:29,202 --> 00:14:36,731
+He beautifully sings about the creation of the world, the martyrs, the praises of God, and the Fathers of both the New and Old Testaments.
+
+106
+00:14:36,731 --> 00:14:44,095
+He vividly describes the conflicts between virtues and vices with sweet allegorical style and passionately opposes heretics and pagans.
+
+107
+00:14:44,095 --> 00:14:51,514
+Alcwin, also known as Avitus, although he mainly focused on the story of Genesis, still expressed all our themes in the sweetest poetry.
+
+108
+00:14:51,514 --> 00:14:58,879
+He wrote a beautiful book on Virginity for his sister and another on the Instruction of Mortals, which you read instead of Cato's work.
+
+109
+00:14:58,879 --> 00:15:00,843
+Make it your own as soon as you can.
+
+110
+00:15:00,843 --> 00:15:06,189
+I know you've already memorized Juvencus and Sedulius the orator, along with the hymns of Ambrose.
+
+111
+00:15:06,189 --> 00:15:15,299
+If you're seeking ecclesiastical writers, your efforts might be in vain, as even today and until the end of time, there are always those who can write valuable things.
+
+112
+00:15:15,299 --> 00:15:26,646
+However, if you want to know about the ancient authors, read the book by the blessed Jerome on Illustrious Men from Saint Peter up to himself, and Gennadius of Toledo's work from Ambrose to Gennadius himself.
+
+113
+00:15:26,646 --> 00:15:30,138
+Farewell, and let what I've shared be enough for you eventually.
+
+114
+00:15:30,138 --> 00:15:34,338
+But why should I criticize your eagerness when I am aware of my own laziness?
+
+115
+00:15:34,338 --> 00:15:41,103
+Now, God, who makes everything prosper for you, reminded me of Prosper, whose epigrams you've memorized, albeit reluctantly.
+
+116
+00:15:41,103 --> 00:15:45,740
+As for his books on the Active and Contemplative Life, you haven't yet explored them.
+
+117
+00:15:45,740 --> 00:15:53,977
+If you learn and follow them, then I might finally reveal what I truly mean by the name of priesthood, and you will be most deserving of the bishopric.
+
+118
+00:15:53,977 --> 00:15:56,323
+Oh, how peacefully my bones will rest then!
+
+119
+00:15:56,323 --> 00:15:57,687
+Farewell again and again.
+
+120
+00:15:58,559 --> 00:17:47,039
+CHAPTER 8 - About the Book "Harmony of the Evangelists," and "Faith to Peter" by Saint Augustine.
+I might compare you to the Lernaean swamp, the many-headed Hydra, or even a blazing pyre.
+Each part, once blocked, bursts out again more frequently.
+When one head is cut off, a thousand more sprout; the more wood the pyre consumes, the more it desires.
+Similarly, when I satisfy you on one point, you don't hesitate, worry, or even mercifully stop imposing new and impossible burdens on my already weak shoulders.
+I therefore bear this heavy load with my weak shoulders, and it is the duty of my devoted caretaker to relieve me of it whenever possible.
+However, know that this is said before God, so if you wish to impose anything on me as a brother and not as a commander, I am more than willing to comply with your wishes as long as I live.
+By God's arrangement, I believe, and not by human will, it happened that I left Augustine's holy books on Harmony, as he named them, or the concordance of the evangelists, without mention, so that I might now have the opportunity to teach you more about them.
+The first among them received its name not from its subject, but from what follows; for whatever name you give it, it surpasses all.
+Even if you call it the helmet or breastplate of the Old and New Testaments, you will find this name less fitting.
+Learn that it is a bronze shield adorned with golden nails and covered with the purest silver against heretics and all idolaters, and even false brethren, or exceedingly heated against dry wood, hay, and stubble, as mentioned in First Corinthians chapter three.
+Or when you see and experience it as an armory of all kinds of weapons against the gathering of human and spiritual wickedness, as stated in Ephesians chapter six.
+But what shall I say about the following works?
+They are so supported by the very reason of truth that if you commit them to memory, you will be able to counter all opponents of the Gospel always and everywhere.
+You will also find many statements placed with the clearest explanations.
+
+121
+00:17:47,039 --> 00:17:51,957
+There's another book by the same Augustine, about faith, and it's addressed to Peter the deacon.
+
+122
+00:17:51,957 --> 00:18:00,051
+The book is structured in a way that, if you understand it well, you'll be unbeatable against all heresies that have arisen so far or may arise in the future.
+
+123
+00:18:00,051 --> 00:18:01,793
+It will establish you as a victor.
+
+124
+00:18:01,895 --> 00:18:05,275
+Chapter Nine - About the Books of Saint Prosper of Aquitaine.
+
+125
+00:18:05,275 --> 00:18:13,419
+Take a moment to appreciate the beautiful work of Prosper on the Promises and Predictions of God, which serves as a guide to all divine Scriptures.
+
+126
+00:18:13,419 --> 00:18:23,335
+Understand what in these texts was done purely as history, what was historical yet also moral or allegorical, what concerns only the future, and what pertains to the present time.
+
+127
+00:18:23,335 --> 00:18:34,083
+Reflect on what relates to the Antichrist or events after his destruction, what is foretold for both the wicked and the elect in the future world, and what is promised specifically to the elect.
+
+128
+00:18:34,083 --> 00:18:42,670
+In this volume, you'll also find many truths beneficially included from pagan books about the end of the world and the transformation of changeable things.
+
+129
+00:18:42,670 --> 00:18:51,035
+Also, pay close attention to his books on Grace and Free Will, skillfully compiled from the numerous works of Saint Augustine and other Church Fathers.
+
+130
+00:18:51,035 --> 00:19:02,835
+He created a very concise table, or rather a true cosmography, because clearly, man, according to philosophers, is not a lesser world but a greater one, since the world was made not for man, but man for the world.
+
+131
+00:19:03,167 --> 00:19:07,943
+CHAPTER 10: About those who wrote the lives and passions of the apostles and martyrs.
+
+132
+00:19:07,943 --> 00:19:12,943
+Moreover, you should diligently seek out the struggles and victories of the holy martyrs.
+
+133
+00:19:12,943 --> 00:19:20,921
+By following their example, you may learn not only to reject the temptations of the world but also to be willing to give your life for Christ.
+
+134
+00:19:20,921 --> 00:19:27,551
+Consider bodily suffering as insignificant, thanks to the grace of God and the presence of the Holy Spirit within you.
+
+135
+00:19:27,551 --> 00:19:35,473
+Start with the stories of the main apostles: Peter and Paul, Andrew, and James the brother of John, as well as James the brother of the Lord.
+
+136
+00:19:35,473 --> 00:19:42,608
+The Church, however, does not accept the authority of the stories about Andrew and John and the passions of the other apostles.
+
+137
+00:19:42,608 --> 00:19:48,226
+Yet, it is important to know that the passion of Bartholomew is very likely, or certainly most true.
+
+138
+00:19:48,226 --> 00:20:03,171
+The story about Peter and Paul and their disciples, Processo and Martiniano the jailers, Nicomede the presbyter, Nereo and Achilleo, Maro, Victorino, Euticetus, Marcellus, Petronella, Felicula, Domitilla, Potentia, and Euphrosyna, is read for the edification of all.
+
+139
+00:20:03,171 --> 00:20:18,846
+Also, the book of Hermas, known as "The Shepherd," is accepted, but the book attributed to Clement is rejected.
+After the apostles, comes the passion of Saint Clement.
+Then follows an extraordinary book about Saint Alexander, Eventius and Theodulus, Hermes, Quirinus, and others.
+
+140
+00:20:19,295 --> 00:20:22,614
+Chapter 11: On Ecclesiastical Chronographers and Librarians.
+
+141
+00:20:22,614 --> 00:20:30,468
+There's a work called the Ecclesiastical History by Eusebius, the Bishop of Caesarea, and our Jerome, which starts from the birth of the Lord.
+
+142
+00:20:30,468 --> 00:20:37,326
+It contains various accounts of the sufferings of saints worldwide and includes other noteworthy events up to Jerome's time.
+
+143
+00:20:37,326 --> 00:20:45,788
+Jerome, as you requested, wrote a book about Illustrious Men, listing everyone from himself back to Saint Peter, noting what each left behind in writing.
+
+144
+00:20:45,788 --> 00:20:50,876
+After him, Gennadius, the Bishop of Toledo, compiled another similar work up to his own era.
+
+145
+00:20:50,876 --> 00:21:02,657
+There's also another history known as the Tripartite History, named because Cassiodorus, a Roman senator, compiled the most important sections from three writers; Socrates, Sozomen, and Theodoret; into one volume.
+
+146
+00:21:02,657 --> 00:21:10,179
+If you can find the complete Passion of Saint Lawrence rather than just in parts, you'll discover many battles and victories of martyrs.
+
+147
+00:21:10,179 --> 00:21:21,683
+For instance, Polychronius, the Bishop of Babylon, along with priests and deacons from Persia, and rulers Abdon and Sennen faced persecution and devastation by Decius, who tried to abolish Christianity there.
+
+148
+00:21:21,683 --> 00:21:26,108
+Returning to Rome, he executed all the Christians he could find in various ways.
+
+149
+00:21:26,108 --> 00:21:31,141
+However, despite his efforts, he couldn't eliminate the Christian name with such slaughter.
+
+150
+00:21:31,141 --> 00:21:44,636
+Moreover, Christianity was later restored in Persia through Cyriacus, a Roman deacon, during the times of Emperor Diocletian and his sons, Maximinus in the East and Maximinianus in the West, who were among the greatest persecutors of our faith.
+
+151
+00:21:44,636 --> 00:21:53,319
+But although they attempted to shake the Church, founded on solid rock, they couldn't destroy it, just as the detestable apostate Julian couldn't after them.
+
+152
+00:21:53,927 --> 00:22:04,077
+Once he was killed by divine intervention, much like the arrival of spring flowers after a harsh winter, those who had been hidden, like in a shell or husk, began to appear in our land.
+
+153
+00:22:04,077 --> 00:22:13,239
+Among them were Basil, the bishop of Cappadocia, and his remarkable brothers, Gregory and Athanasius, the bishop of Alexandria, and John, the bishop of Constantinople.
+
+154
+00:22:13,239 --> 00:22:24,322
+All the deserted places also produced new fruits, such as Paul and Anthony, as well as Macarius and Serapion, along with the twenty-four elders and an endless multitude flourishing under their guidance.
+
+155
+00:22:24,431 --> 00:22:31,964
+Chapter 12 teaches that the Western Church is in no way inferior to the Eastern Church regarding the multitude of saints.
+
+156
+00:22:31,964 --> 00:22:35,512
+It recommends reading Priscian, Josephus, and Hegesippus.
+
+157
+00:22:35,512 --> 00:22:49,394
+The West, though late, eventually flourished with Martin, born in Pannonia, who not only illuminated Germany, Italy, and Gaul with his presence, but also surpassed all Easterners in brilliance, as they themselves testified.
+
+158
+00:22:49,394 --> 00:22:53,316
+His teacher, Hilary, also visited to enlighten them personally.
+
+159
+00:22:53,316 --> 00:22:54,374
+Thanks be to God.
+
+160
+00:22:54,374 --> 00:23:05,828
+I believe our delay has matched their early start when I think of Ambrose, Jerome, and Augustine, both living and deceased, ensuring that barren Africa cannot boast of such prosperity.
+
+161
+00:23:05,828 --> 00:23:31,724
+Maximus, Clarus, Simplicianus, Eusebius, Aurelius, Severus, Severinus, Brictius, and Paulinus of Trier and of Nola, like stars rising together, and as night draws to a close, many more whose very names signify their virtues; namely, Congellos, meaning favorable; Columba, Columbanus, Gallus, Gregory the Fifth, taking the name Chrysostom from the Greeks; Benedict, Honoratus, Libertinus, Othmar, ours and of Belgium.
+
+162
+00:23:31,724 --> 00:23:36,206
+Furthermore, if you wish to know authors of the Gentiles, read Priscian.
+
+163
+00:23:36,206 --> 00:23:41,124
+Indeed, the histories of the Jewish Josephus and our Hegesippus should be read.
+
+164
+00:23:41,124 --> 00:23:43,116
+And I conclude this little book.
+
+165
+00:23:43,116 --> 00:23:43,427
+Amen.
+
+166
+00:23:43,427 --> 00:23:43,739
+Ends.
+

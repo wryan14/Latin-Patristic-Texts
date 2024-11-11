@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            From the Council of Nicaea, concerning laypeople who denied God and those who renounced and then returned to worldly ways, as stated in canon 11:\n        </s>\n        <s>\n            Regarding those who lapsed without necessity, whether due to loss of property, danger, or similar circumstances under the tyranny of Licinius: the synod decided that, although they may be deemed unworthy of kindness, they should still be shown goodwill.\n        </s>\n        <s>\n            Therefore, anyone who shows genuine repentance should be placed among the faithful listeners for three years.\n        </s>\n        <s>\n            For six years, they should humble themselves in every way.\n        </s>\n        <s>\n            And for two years, they may join the people in prayer during the offering.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "XVI. Ex concilio Nicaeno. De laicis qui Deum negaverunt, et de his qui\nabrenuntiaverunt, et iterum ad saeculum sunt reversi,\nex concilio Nicaeno (conc. Nic., can. 11):\nDe his qui praeter necessitatem praevaricati sunt,\naut propter ablationem facultatum, aut propter periculum,\nvel aliquid hujusmodi quod factum est sub\ntyrannide Licinii: placuit synodo, quamvis humanitate\nprobentur indigni, tamen eis benevolentiam\ncommodari. Quicunque ergo veracem poenitudinem\ngerunt, tribus annis fideles inter audientes habeantur,\net sex annis omni se contritione dejiciant, duobus\nautem annis sive oblatione populo in oratione\ncommunicent.",
+      "voice": "Matthew"
+    }
+  ]
+}

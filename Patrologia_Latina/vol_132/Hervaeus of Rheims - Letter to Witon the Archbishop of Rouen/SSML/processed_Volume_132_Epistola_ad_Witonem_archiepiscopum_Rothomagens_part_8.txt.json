@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <break time=\"500ms\"/>  <p>From the same letter to Abbot Mellitus:</p>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "V. Ejusdem ad Mellitum abbatem. Et alibi ad Mellitum abbatem:",
+      "voice": "Matthew"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <s>And elsewhere to Abbot Mellitus, Book Nine, Letter Seventy-One:</s>\n  <p>\n    <s>The English people have a tradition of sacrificing many oxen to demons, so we should adapt part of this custom.</s>\n    <s>On the day of dedication or the birthday of the holy martyrs whose relics are placed there, they should build tents around these churches—converted from pagan temples—using tree branches, and celebrate with religious feasts.</s>\n    <s>Instead of sacrificing animals to the devil, they should prepare the animals for their meals in praise of God and give thanks to the giver of all things for their abundance.</s>\n    <s>This way, while enjoying some external pleasures, they may more easily come to embrace inner joys.</s>\n  </p>\n  <p>\n    <s>It's undoubtedly impossible to immediately eliminate everything from stubborn minds.</s>\n    <s>Just as someone trying to reach a high place climbs using steps or stairs, not by jumping.</s>\n    <s>Similarly, the Lord revealed Himself to the people of Israel in Egypt, but He reserved for His own worship the practice of sacrifices they used to offer to the devil, instructing them to sacrifice animals in His service.</s>\n    <s>Thus, by changing their hearts, they would abandon some aspects of sacrifice while retaining others.</s>\n    <s>Even if they offered the same animals they were used to, by sacrificing them to the true God and not to idols, those sacrifices would no longer be the same.</s>\n  </p>\n</speak>",
+      "original_latin": "\nQuia gens Anglorum boves solent in sacrificio\ndaemonum multos occidere, debet etiam hac de re\naliqua solemnitas immutari, ut die dedicationis, vel\nnatalis sanctorum martyrum, quorum illic reliquiae\nponuntur, tabernacula sibi circa easdem ecclesias,\nquae ex fanis commutatae sunt, de ramis arborum faciant,\net religiosis conviviis solemnitatem celebrent. Nec diabolo jam animalia immolent, sed ad laudem\nDei in esu suo animalia occidant: et donatori omnium\nde satietate sua gratias referant, ut dum eis\naliqua exterius gaudia referuntur, ad interiora gaudia\nconsentire facilius valeant. Nam duris mentibus\nsimul omnia abscidere, impossibile esse non dubium\nest. Quia enim qui summum locum ascendere nititur,\ngradibus vel passibus, non autem saltibus elevatur. Sic Israelitico populo in Egypto Dominus se quidem\ninnotuit: sed tamen eis sacrificiorum usum, quem\ndiabolo solebant exhibire, in cultum proprium reservavit,\nut eis in suo sacrificio animalia immolare praeciperet:\nquatenus cor mutantes, aliud de sacrificio\nomitterent, aliud retinerent; ut etsi ipsa essent animalia\nquae offerre consueverant, vero tamen Deo haec\n et non idolis immolantes, jam sacrificia ipsa non\nessent.",
+      "voice": "Matthew"
+    }
+  ]
+}

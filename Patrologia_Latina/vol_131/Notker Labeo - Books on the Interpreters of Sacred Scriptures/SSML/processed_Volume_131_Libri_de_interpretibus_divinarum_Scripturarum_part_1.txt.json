@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Blessed Notker the Stammerer was a monk from Saint Gall.</s>\n        <s>He is renowned for his work on interpreting the Holy Scriptures.</s>\n        <s>This information comes from the book titled Book, found in Pez's Treasury of Anecdotes, volume one, part one.</s>\n    </p>\n</speak>",
+      "original_latin": "B. NOTKERI BALBULI\nSANCTI GALLI MONACHI\nDE INTERPRETIBUS DIVINARUM SCRIPTURARUM\nLIBER. (Apud Pezium, Thes. Anecd., tom. I, part. I.)",
+      "voice": "Ruth"
+    }
+  ]
+}

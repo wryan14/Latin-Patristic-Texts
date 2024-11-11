@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <break time=\"500ms\"/>    <p>\n        <s>Short Chronicle of Radbod</s>\n    </p>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "RADBODI BREVE CHRONICUM. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>In the year nine hundred after the incarnation of the Lord, a miraculous sign appeared in the sky.</s>\n        <s>Stars were seen everywhere, flowing down from above towards the horizon around the pole's axis, almost all converging with one another.</s>\n        <break time=\"500ms\"/>\n        <s>This omen was followed by severe disasters: extreme weather conditions, frequent windstorms, and rivers overflowing their banks—like a terrible flood.</s>\n        <break time=\"500ms\"/>\n        <s>Even more disastrously, there were fierce storms of people rising against God.</s>\n    </p>\n    <p>\n        <s>In this same year, before the Epacts were changed, Fulk, the metropolitan bishop of Reims, and King Zwentibold were killed.</s>\n        <break time=\"500ms\"/>\n        <s>Not many days before, I, the sinner Radbod, was deemed worthy to be enrolled among the servants of the Church of Saint Traiectum.</s>\n        <s>Oh, if only I may be worthy to gain eternal life with them!</s>\n    </p>\n</speak>",
+      "original_latin": "Anno ab incarnatione Domini 900 apparuit in coelo\nmirabile signum. Stellae enim visae sunt undique\ntanquam ex alto in horizontis imum profluere circa\npoli cardinem, omnes fere inter se concurrere:\nquod prodigium secutae sunt tristes rerum calamitates,\naeris videlicet maxima intemperies, crebrique\nventorum turbines, fluminum quoque terminos suos\ntransgredientium, terribilis quaedam quasi cataclysmi\nimago; et, quod his pestilentius est, dirae hominum\n adversus Deum se extollentium tempestates. Hoc eodem anno, priusquam tamen Epactae mutarentur,\nFolco Remorum episcopus metropolitanus,\net Zuentiboldus rex interfecti sunt: ac non multis\nantea diebus ego peccator Radbodus inter famulos\nsanctae Trajectensis Ecclesiae conscribi merui. Atque\no utinam! cum eisdem aeternae vitae consortium merear\nadipisci.",
+      "voice": "Matthew"
+    }
+  ]
+}

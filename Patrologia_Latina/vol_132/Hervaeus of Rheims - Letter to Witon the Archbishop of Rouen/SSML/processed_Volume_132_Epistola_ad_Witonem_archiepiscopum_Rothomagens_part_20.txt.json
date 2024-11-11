@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Bishop Gratus said: \n      <break time=\"500ms\"/>\n      If it pleases you, let's first consider the topic of rebaptism. \n    </s>\n    <s>\n      Therefore, I ask your holiness to share your thoughts about someone descending into water, \n      <break time=\"250ms\"/>\n      being asked about the Trinity according to the faith of the Gospel and the teaching of the apostles, \n      <break time=\"250ms\"/>\n      and who has confessed a good conscience toward God regarding the resurrection of Jesus Christ: \n    </s>\n    <s>\n      <break time=\"500ms\"/>\n      Is it permissible to be questioned again in the same faith and to be baptized again in water? \n    </s>\n  </p>\n  <p>\n    <s>\n      All the bishops said: No, no, we declare rebaptism to be forbidden, \n      <break time=\"250ms\"/>\n      and it is quite contrary to sincere faith and Catholic discipline. \n    </s>\n  </p>\n</speak>",
+      "original_latin": "XVII. Ex concilio Carthaginensi. (Conc. Carthag., an. 348, can. 1.) Gratus episcopus\n dixit: Si vobis placet, consideremus primum\ntitulum rebaptizationis. Unde sanctitatem vestram\npostulo, ut mentis vestrae placita producatis, ad descendentem\nin aquam, et interrogatum in Trinitate\nsecundum Evangelii fidem et apostolorum doctrinam,\net confessum bonam conscientiam in Deum de\nresurrectione Jesu Christi: si liceat iterum interrogari\nin eadem fide et in aquam iterum tingi. Universi\nepiscopi dixerunt: Absit, absit: illicitas esse\nsancimus rebaptizationes, et satis est alienum a sincera\nfide et catholica disciplina.",
+      "voice": "Matthew"
+    }
+  ]
+}

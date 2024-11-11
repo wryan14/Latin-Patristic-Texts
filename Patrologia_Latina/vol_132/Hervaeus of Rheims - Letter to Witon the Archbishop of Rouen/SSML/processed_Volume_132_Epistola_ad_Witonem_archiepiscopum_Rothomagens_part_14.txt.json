@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      In the story of Blessed Lawrence, the archdeacon and martyr of Christ, there's a remarkable account.\n    </s>\n    <s>\n      A man, who had been imprisoned for a long time, had lost his sight from crying after losing his eyes. He was a non-believer.\n    </s>\n    <s>\n      Blessed Lawrence spoke to him, \"<break time=\"500ms\"/> If you believe in the Son of God, the Lord Jesus Christ, I will baptize you, and He will enlighten you.\"\n    </s>\n    <s>\n      Immediately after his confession and baptism, his eyes were opened, and he began to shout, \"<break time=\"500ms\"/> Blessed is the eternal Lord God, who has enlightened me through Blessed Lawrence, because I was once blind and now I see.\"\n    </s>\n    <s>\n      Following this, he also catechized the blessed Hippolytus in the usual way, then took water, blessed it, and baptized him.\n    </s>\n    <s>\n      In a similar fashion, he baptized the soldier Romanus, who, after being baptized, was soon crowned with martyrdom.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "XI. De sancto Laurentio. Inter alia scriptum habetur in passione B. Laurentii\n archilevitae, et martyris Christi. Erat homo\nin carcerali custodia multo jam tempore gentilis,\nqui plorando amissis oculis caecus factus fuerat,\ndixit ad eum B. Laurentius: Si credis in Filium\nDei Dominum Jesum Christum, baptizare, et illuminabit\nte. Et continuo post ipsius confessionem baptizato,\naperti sunt oculi ejus, et coepit clamare\ndicens: Benedictus Dominus Deus aeternus, qui me\nilluminavit per B. Laurentium, quia semper fui\ncaecus et modo video. Post haec et beatum Hippolytum\nmore solito catechizavit, et, accepta aqua, benedixit\net baptizavit illum. Deinde simili modo\nmilitem baptizavit Romanum, qui et baptizatus,\nmox martyrio coronatus est.",
+      "voice": "Matthew"
+    }
+  ]
+}

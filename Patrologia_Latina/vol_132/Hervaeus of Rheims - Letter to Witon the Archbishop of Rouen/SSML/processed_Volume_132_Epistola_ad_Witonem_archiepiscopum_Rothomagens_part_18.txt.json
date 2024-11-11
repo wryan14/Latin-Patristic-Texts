@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Fifteenth: Also Leo.</s>\n    <s>For captives who eat sacrificial foods out of necessity, penance should be granted according to the decrees of Pope Leo, as mentioned in his letter to Nicetas.</s>\n    <s>Regarding those Christians who, while captured, are reported to have been defiled by consuming sacrificial foods:</s>\n    <s>We believe the answer to your charitable inquiry should be that they are cleansed through the satisfaction of penance, which should be guided not so much by the duration, but by the sincerity of their contrition.</s>\n    <s>And whether this was done out of fear or driven by hunger, there should be no doubt about abolishing it, since such consumption is out of fear or need, not out of respect for the religion.</s>\n  </p>\n</speak>",
+      "original_latin": "XV. Item Leo. Captivis cibos immolatitios necessitate comedentibus\npoenitentia concedenda ex decretis ejusdem\npapae Leonis (epist. ad Nicet.). De his Christianis,\nqui inter eos a quibus fuerant captivati, immolatitiis\ncibis asseruntur esse polluti: consultationi charitatis\ntuae hoc etiam respondendum esse credimus, ut poenitentiae\nsatisfactione purgentur, quae non tam temporis\nlongitudine, quam cordis compunctione pensanda\nest. Et, sive hoc terror extorserit, sive fames\nsuaserit, non dubitetur abolendum: cum hujusmodi\ncibus pro metu, aut indigentia, non pro religionis\nveneratione sit sumptus.",
+      "voice": "Matthew"
+    }
+  ]
+}

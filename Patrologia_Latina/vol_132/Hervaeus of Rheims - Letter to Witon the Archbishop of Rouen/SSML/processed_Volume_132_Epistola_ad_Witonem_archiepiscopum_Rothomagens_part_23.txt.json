@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            From the same source, Canon 7, concerning those who were forced to sacrifice to idols from the same council:\n        </s>\n        <s>\n            Those who sacrificed a second or third time under coercion should undergo penance for four years.\n        </s>\n        <s>\n            For the following two years, they should participate in communion without offering, and in the seventh year, they will receive full communion.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "XX. Ex eodem. (Ibid., can. 7.) De his qui coacti idolis immolaverunt,\n ex eodem concilio: Hi qui secundo, aut tertio\nsacrificaverunt vi coacti, quatuor annis sese ad\npoenitentiam submittant: duobus autem aliis sine\noblatione communicent, septimo anno perfectionem\nrecepturi communionis.",
+      "voice": "Matthew"
+    }
+  ]
+}

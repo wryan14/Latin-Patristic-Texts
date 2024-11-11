@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>From the same source, in the same place, Canon 6.</s>\n        <s>This concerns those who frequently sacrificed to idols, as discussed at the Council of Ancyra:</s>\n    </p>\n    <p>\n        <s>For those who participated in feasts during pagan festival days in remote areas and even brought and ate their own meals there:</s>\n        <s>It has been decided that after two years of penance, they may be allowed back.</s>\n    </p>\n    <p>\n        <s>However, whether they should be received with an offering or only admitted to communion should be decided by each bishop, who should assess their lives and consider both their past and present conduct.</s>\n    </p>\n</speak>",
+      "original_latin": "XIX. Ex eodem. (Ibid., can. 6.) De his qui frequenter idolis immolaverunt,\nex concilio Ancyrano: De his qui festis\ndiebus paganorum, in remotis eorum locis conviviis\ninterfuerunt, et suas nihilominus epulas ibidem portaverunt,\natque comederunt: placuit ut post biennii\npoenitentiam suscipiantur: ita tamen, utrum aut\ncum oblatione recipiendi sint, an ad solam communionem\nadmitti debeant, unusquisque episcoporum\nexaminet vitam eorum, et praeterita ac praesentia\nhabita consideratione perpendat.",
+      "voice": "Matthew"
+    }
+  ]
+}
