@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Thirteen. Words of Lord Bede in <phoneme alphabet=\"ipa\" ph=\"dʒɒn\">John</phoneme> chapter 3.</s>\n        <s>According to the life-giving and firm doctrine of the Catholic faith, which must be observed unanimously and faithfully by everyone around the world:</s>\n        <s>What is true of physical birth must also be understood about spiritual birth:</s>\n        <s>Namely, that it cannot be repeated once it has been completed.</s>\n    </p>\n    <p>\n        <s>Whether it is a heretic, a schismatic, or a criminal, anyone who baptizes in the confession of the Holy Trinity:</s>\n        <s>The person who is baptized this way cannot be rebaptized by good Catholics,</s>\n        <s>So that the confession or the invocation of such a great name does not appear to be annulled.</s>\n    </p>\n</speak>",
+      "original_latin": "XIII. Verba domni Bedae (in Joan. cap. III). Juxta salutiferam, et firmissimam fidei catholicae\ndoctrinam, in toto terrarum orbe unanimiter ac\nfideliter ab omnibus observandam: quod de carnali,\nhoc etiam de spiritali est generatione sentiendum:\nnequaquam videlicet eam, postquam semel expleta\nfuerit, posse repeti. Sive enim haereticus, sive schismaticus,\nsive facinorosus, quisque in confessione\nsanctae Trinitatis baptizat: non valet ille qui ita\nbaptizatus est, a bonis catholicis rebaptizari, ne\nconfessio, vel exhibitio tanti nominis videatur annullari.",
+      "voice": "Matthew"
+    }
+  ]
+}

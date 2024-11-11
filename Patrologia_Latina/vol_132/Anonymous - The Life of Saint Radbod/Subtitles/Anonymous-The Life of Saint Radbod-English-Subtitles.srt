@@ -1,0 +1,722 @@
+1
+00:00:00,000 --> 00:00:04,968
+The life of Saint Radbod as documented by an anonymous contemporary author.
+
+2
+00:00:04,968 --> 00:00:06,299
+PRELIMINARY OBSERVATIONS.
+
+3
+00:00:06,299 --> 00:00:13,223
+Radbod, also known as Radbodo, was the fourteenth bishop of Utrecht following Egilbold, and he stood out for his remarkable piety.
+
+4
+00:00:13,223 --> 00:00:19,934
+An anonymous writer, who lived during Radbod's time, documented his life based on accounts from those who knew him personally.
+
+5
+00:00:19,934 --> 00:00:30,906
+This writer's version, found in a manuscript obtained by Surius, would have been more useful to us if it had retained its original style, which barely deviates without errors and loss of rightful authority.
+
+6
+00:00:30,906 --> 00:01:58,202
+The words of the anonymous writer appear in section five: "We will recount a few things received from those who participated in the events."
+The same sentiment is echoed towards the end of section ten.
+Lower Utrecht, once known as Wiltaburg, was established as a bishopric by Willebrord, who, along with monks and preachers of the word of God, led the Frisians to Christ.
+Various documents from that era show that the monks, first instituted in the cathedral church by Willebrord and later by the martyr Boniface, remained there at least until the Carolingian era.
+Whenever the monks transitioned into canons, the more religious bishops of Utrecht tended to assume this role only after adopting monastic garb and professing the rule, as seen in the example of Bishop Radbod.
+Educated at the court of King Charles, Radbod went to Guntarius in Cologne; after leaving there, he was soon called to be bishop by the people of Utrecht.
+Without delay, as the author of his Life writes in section four, he changed his attire and became a true regular monk; he abstained not only from eating meat but from all indulgence in food.
+This seems to be implied by the same writer in section seven, referring to the practice of Willebrord and his predecessor Boniface, and it is consistent with the custom accepted among the bishops of the Church of Canterbury, as noted by the writers of English history in several places.
+Before we discuss the achievements of Bishop Radbod, we should consider some details about his studies at the court of King Charles and his companions Stephen and Mancion, as well as Mannon or Nannon, the head of the palace school.
+
+7
+00:01:58,415 --> 00:02:02,534
+Most writers agree that this King Charles of Germany is Emperor Charles the Fat.
+
+8
+00:02:02,534 --> 00:02:08,506
+However, this can be disproved because the author of the included Life attributes a son named Louis to King Charles.
+
+9
+00:02:08,506 --> 00:02:13,551
+Louis was actually the son and heir of Charles the Bald, not Charles the Fat, who had no children.
+
+10
+00:02:13,551 --> 00:02:27,812
+We've already shown how diligently Charles the Bald worked to revive the study of literature, which had greatly declined due to internal wars and the incursions of the Danes, both in the preface of the previous century and in the praises of Paschasius Radbertus and Abbot John.
+
+11
+00:02:27,812 --> 00:02:42,073
+Now, let's listen to our author from numbers one and two:
+First, Radbod went to the court of King Charles of the Franks, then to his son Louis's court, not because he sought courtly honors but because the liberal arts were being excellently cultivated within the king’s palace.
+
+12
+00:02:42,073 --> 00:02:48,560
+The school was led by Manno, or Nanno according to others, a philosopher whom the eager-to-learn holy boy diligently followed.
+
+13
+00:02:48,560 --> 00:02:51,494
+His classmates included Stephen and Mancio, among others.
+
+14
+00:02:51,494 --> 00:03:01,327
+I won't focus on modern Belgian or German writers who imagine Nanno as an advocate of Charles the Fat, a Frisian by birth, and the supposed author of several works they claim were circulated.
+
+15
+00:03:01,327 --> 00:03:15,536
+The more accurate reading by Surius convinces us that his name was Mannoni, and I believe he is the same Manno who led the monastery of Saint Augendus in the Jura region and, in the year eight hundred seventy, claimed a certain church for his monastery at the Synod of Vienna.
+
+16
+00:03:15,536 --> 00:03:49,000
+The Petavian manuscript, which contains the poems of Florus, published in the first volume of the Analects, bears this title, as do other manuscripts we've seen in the Boherian library: "Book Offered to the Tomb of Saint Augendus in Memory of the Vow of Mannonis."
+Therefore, it is very likely that Manno retired from the palace schools to the monastery of Saint Augendus before the year eight hundred seventy, where he dedicated a rich collection of books to God.
+We'll discuss Stephen, Radbod’s classmate, later, who became the bishop of Tongeren.
+Surius incorrectly stated that Mancio was the bishop of Chalon, whereas he should have said Châlons.
+
+17
+00:03:49,463 --> 00:03:53,434
+He is Mancio, mentioned several times by Frodoard in Book 4 of Historiae.
+
+18
+00:03:53,434 --> 00:04:00,070
+His letter to Archbishop Fulk of Reims about a priest intending to marry was recently published in the volume of Analecta.
+
+19
+00:04:00,070 --> 00:04:06,761
+Radbod made significant progress in the palace schools, and as William of Heda notes, he excelled in both poetry and prose.
+
+20
+00:04:06,761 --> 00:05:42,004
+This is evidenced by the list of his works recorded by Trithemius as follows:
+He wrote several notable works, including: "Praises of Saint Martin," Book 1; "Praises of Saint Boniface, Bishop," Book 1; "On Saint Amalberga," Book 1; "Homilies and Sermons," Book 1; "Flowers on Saint Willibrord," as well as a complete office on the translation of Saint Martin, and various songs in honor of the saints.
+What Trithemius calls the "Praises of Saints Martin and Boniface," our anonymous source describes as hymns and encomia with these words: "He wove hymns and encomia about them, which would be recited during their festivities." And lest anyone think we speak anything untrue, there exists a complete office of the blessed Martin, composed by him.
+The book on the virgin Amalberga mentioned by Trithemius was once included in the Bigotian manuscript under this title: "Small Book of Lord Radbod, Bishop of the Church of Utrecht, on the Life and Merits of the Virgin Amalberga." This small book is nothing more than the homily praised by Trithemius, which, from the same Bigotian manuscript, we published earlier where we discussed the virgin Amalberga.
+In Part 1 of the third century, we presented a sermon given on the feast day of Saint Willibrord, which I am unsure if it is the same one Trithemius attributes to our Radbod. Besides those works Trithemius assigns to Radbod, William of Heda described several of his poems, which, for the time, demonstrate the author's elegant style.
+The same William also mentioned Radbod's brief Chronicle, from which we learn the year he began his bishopric and other events of his time. Finally, Surius in volume 6 references an Eclogue on Saint Lebuin, which he also attributes to Radbod. These are his writings.
+
+21
+00:05:42,168 --> 00:05:47,069
+In the year just before nine hundred ended, Radbod was appointed to lead the Utrecht see.
+
+22
+00:05:47,069 --> 00:05:54,009
+He swapped his clerical attire for monastic robes and soon diligently cared for his flock, both through his words and example.
+
+23
+00:05:54,009 --> 00:06:05,795
+He also provided for their temporal needs, securing from King Arnulf and his son King Zwentibold the lands of Deventer and its surrounding estates, to which he relocated after Utrecht was destroyed by the Norsemen.
+
+24
+00:06:05,795 --> 00:06:15,378
+Additionally, in the year nine fourteen, he received a privilege from King Conrad, as noted by Heda, which granted protection and security to his church's estates and rights.
+
+25
+00:06:15,378 --> 00:06:23,309
+Eventually, after frequently traveling to protect his flock amidst pagan threats, he died at Homersum or Othemarshem and was buried at Deventer.
+
+26
+00:06:23,309 --> 00:06:34,434
+His death is noted by everyone on November twenty-ninth, though authors differ on the year, with some citing nine sixteen or nine seventeen, others the following year, and some suggesting nine nineteen.
+
+27
+00:06:34,434 --> 00:06:37,849
+The year nine eighteen seems to us to have been Radbod's last.
+
+28
+00:06:37,849 --> 00:06:47,046
+Our anonymous source highly praises Radbod's sanctity, but I find no one who attributed the title of saint to him before Adam of Bremen in History, chapter twenty-one.
+
+29
+00:06:47,046 --> 00:06:52,884
+Regino, in his Chronicle, calls Radbod a venerable bishop; John of Beke describes him as a truly holy man.
+
+30
+00:06:52,884 --> 00:06:59,879
+The same is written about him by Willem of Heda, Trithemius, Wion, Miraeus, Molanus, Cratepolius, and many more recent writers.
+
+31
+00:06:59,879 --> 00:07:08,030
+It's better to heed our source, while noting in passing that those who imagine our Radbod as the archchancellor of the kingdom are largely mistaken.
+
+32
+00:07:08,030 --> 00:07:15,906
+This role was given to Radbod, the Archbishop of Trier, not the one from Utrecht, as can be easily gathered from various documents of that era.
+
+33
+00:07:16,512 --> 00:07:17,713
+BEGINNING OF THE LIFE.
+
+34
+00:07:17,713 --> 00:07:21,647
+The meaning of the name Radbod; maternal lineage; studies in literature.
+
+35
+00:07:21,647 --> 00:07:23,286
+He attended the palace school.
+
+36
+00:07:23,286 --> 00:07:31,263
+Blessed Radbod, born into a noble Frankish family, had very Christian parents, and he himself was a great ornament to the world due to his merits.
+
+37
+00:07:31,263 --> 00:07:34,596
+From his very cradle, he was already inclined towards heaven.
+
+38
+00:07:34,596 --> 00:07:39,896
+His name holds a significant mystery, as it can be translated into Latin as messenger of counsel.
+
+39
+00:07:39,896 --> 00:07:49,074
+He was sent by Christ as an ambassador of the best counsel to the Frisians, from whom he inherited his maternal lineage, and to whom he certainly gave excellent advice.
+
+40
+00:07:49,074 --> 00:07:54,538
+Radbod, Duke of the Frisians, whom some call king, was his mother's ancestor; she gave him his name.
+
+41
+00:07:54,538 --> 00:07:58,854
+As soon as he was seen to be capable of learning, he was introduced to letters.
+
+42
+00:07:58,854 --> 00:08:05,847
+He spent the early years of his life with Gunther, the Archbishop of Cologne, his uncle, diligently applying himself to studies.
+
+43
+00:08:05,847 --> 00:08:21,856
+When adverse events happened to that bishop, the boy of remarkable talent, encouraged by his family and supported by many others—for the grace of God with which he was endowed made him dear to everyone—first went to the court of Charles, King of the Franks, and then to that of Louis, his son.
+
+44
+00:08:21,856 --> 00:08:28,412
+Not because he sought courtly honors, but because within the king's palace the liberal arts were excellently cultivated.
+
+45
+00:08:28,412 --> 00:08:34,859
+Manno, the philosopher, was in charge of that school, and the holy boy, eager for learning, diligently adhered to him.
+
+46
+00:08:34,859 --> 00:08:35,952
+Radbod's companions.
+
+47
+00:08:35,952 --> 00:08:41,197
+He had fellow students, Stephen and Mancio, who were indeed older in age, but not in enthusiasm.
+
+48
+00:08:41,197 --> 00:08:50,703
+Thus, a certain pious rivalry arose among them, and each tried to excel the other, not out of ambition for honor, but out of humility, with diligence in reading and learning.
+
+49
+00:08:50,703 --> 00:08:58,298
+Their virtue progressed to the point that not long after, each was made a bishop: Stephen of the Church of Tongeren, and Mancio of Châlons.
+
+50
+00:08:58,298 --> 00:09:08,023
+But Radbod, the venerable youth, like a diligent bee gathering the flowers of knowledge, accumulated a great deal of learning until he was considered by all to be highly learned.
+
+51
+00:09:08,951 --> 00:09:19,909
+In the meantime, he used his strength of mind to suppress youthful impulses, controlled bodily desires through moderation, and turned away from worldly things out of love for heavenly pursuits.
+
+52
+00:09:19,909 --> 00:09:24,677
+He yearned for spiritual joys and firmly decided to let go of all temporary matters.
+
+53
+00:09:24,677 --> 00:09:31,377
+Although he was young in years, he was mature and wise in his actions, rejecting temptations and aiming to please God.
+
+54
+00:09:31,377 --> 00:09:39,098
+Day and night, he dedicated himself to spiritual enrichment, pursuing with affection and desire what he would later achieve in practice.
+
+55
+00:09:39,098 --> 00:09:40,120
+Radbod's homeland.
+
+56
+00:09:40,120 --> 00:09:41,198
+Follows Abbot Hugh.
+
+57
+00:09:41,198 --> 00:09:42,958
+The king recognized his virtue.
+
+58
+00:09:42,958 --> 00:09:48,919
+The more he tried to remain unnoticed, the more his fame spread among the people, despite his reluctance.
+
+59
+00:09:48,919 --> 00:09:57,208
+He became dear to the king for his integrity, respected by the kingdom's nobles, and admired by the people, appearing pleasing and lovable to God.
+
+60
+00:09:57,208 --> 00:10:03,567
+After Charles, under whom he spent his youth, passed away, he wished to visit his homeland, known as Lomaganium.
+
+61
+00:10:03,567 --> 00:10:13,615
+Additionally, he joined Hugh, a highly esteemed abbot, and excelled in learning above others, continuously climbing the ladder of virtues, shining brightly like a heavenly lamp.
+
+62
+00:10:13,615 --> 00:10:14,751
+He becomes a bishop.
+
+63
+00:10:14,751 --> 00:10:16,113
+Takes on monastic habit.
+
+64
+00:10:16,113 --> 00:10:16,965
+His abstinence.
+
+65
+00:10:16,965 --> 00:10:18,214
+Turns water into wine.
+
+66
+00:10:18,214 --> 00:10:22,188
+Meanwhile, Egilbert, the bishop of the Church of Utrecht, passed away.
+
+67
+00:10:22,188 --> 00:10:31,839
+The appointment of a suitable successor was discussed, and with notable agreement among the clergy and the people, and with God's will, Radbod was deemed the most worthy.
+
+68
+00:10:31,839 --> 00:10:36,892
+This view was shared by Arnulf, who was governing the kingdom, as well as by the princes.
+
+69
+00:10:36,892 --> 00:10:45,124
+Thus, through the zeal and will of the clergy, king, princes, and people, the holy man, initially unaware and later resistant, was made a bishop.
+
+70
+00:10:45,124 --> 00:10:49,325
+Troubled in spirit by this, he hesitated for a long time about what to do.
+
+71
+00:10:49,325 --> 00:10:54,832
+Finally, while trying to avoid the honor, he was, albeit unwillingly, drawn to the seat of honor.
+
+72
+00:10:55,967 --> 00:11:03,231
+After receiving the blessing, the soldier of the eternal king prepares for battle with spiritual weapons and courageously equips himself.
+
+73
+00:11:03,231 --> 00:11:07,261
+He transforms his appearance and adds even greater virtues to his character.
+
+74
+00:11:07,261 --> 00:11:12,722
+By following Christ's teachings, he embraces the very narrow path and becomes a perfectly regular monk.
+
+75
+00:11:12,722 --> 00:11:16,699
+He abstains not only from eating meat but also from all indulgence in food.
+
+76
+00:11:16,699 --> 00:11:26,720
+He nourishes his spirit with fasts lasting two or three days and sustains his weakened body, barely clinging to his bones, with only the bare necessities of life, which are of little value.
+
+77
+00:11:26,720 --> 00:11:31,227
+Despite this, he maintains a cheerful appearance, as if he were dining on fine foods.
+
+78
+00:11:31,227 --> 00:11:36,953
+He wished, as much as possible, to keep his fasting hidden from everyone, with only a few being aware of it.
+
+79
+00:11:36,953 --> 00:11:50,262
+When a certain layman, familiar with the bishop and often visiting him, wanted to test this by sitting at his table and speaking with him in the usual manner, he finally asked to be allowed to drink from the cup that was customarily placed before him.
+
+80
+00:11:50,262 --> 00:11:54,451
+It was made of onyx and appropriately adorned with gold, but filled with water.
+
+81
+00:11:54,451 --> 00:11:59,594
+Then, what God, who works wonders in his saints, did through his servant could not remain hidden.
+
+82
+00:11:59,594 --> 00:12:05,267
+The bishop would not allow the man to drink from the cup, as he did not want others to know what was in it.
+
+83
+00:12:05,267 --> 00:12:12,849
+However, when the opportunity arose, the man secretly took the cup, and although the bishop noticed it, he could not prevent him from drinking.
+
+84
+00:12:12,849 --> 00:12:14,387
+He sighed to God and groaned.
+
+85
+00:12:14,387 --> 00:12:19,053
+And behold, with the ancient miracle renewed, the water was changed into excellent wine.
+
+86
+00:12:19,053 --> 00:12:26,953
+Realizing this, the investigator fell at the feet of the most holy bishop, asked for forgiveness, and promised not to attempt anything like it again.
+
+87
+00:12:26,953 --> 00:12:41,852
+Although the most holy bishop wished to conceal it, it was not right to hide the work of God, in accordance with the words of the angel Raphael to Tobias: "It is good to keep the secret of a king hidden, but honorable to reveal and confess the works of God."
+His love for the poor.
+
+88
+00:12:42,647 --> 00:12:48,639
+His everyday life, as long as he lived in the body, was so pleasing to God and so desired and pleasant to people.
+
+89
+00:12:48,639 --> 00:12:57,441
+Although his virtues continued to grow, we can't fully explain them, but we'll share a few insights from those close to him, so you can more easily trust our account.
+
+90
+00:12:57,441 --> 00:13:01,153
+Whatever he had from this world, he carefully distributed to the poor.
+
+91
+00:13:01,153 --> 00:13:05,660
+He excelled in all good works, and in his kindness towards the poor, he had no equal.
+
+92
+00:13:05,660 --> 00:13:15,417
+Every day, except for a few feast days, he personally washed the feet of the poor, provided them with food, clothed the naked, visited the sick, and cared for the disabled and orphans.
+
+93
+00:13:15,417 --> 00:13:26,764
+He dedicated himself tirelessly to acts of humanity and mercy with incredible vigilance and care, both day and night, never tiring of these labors, considering all he gave for the comfort of the needy as pure gain.
+
+94
+00:13:26,764 --> 00:13:30,582
+He had no interest in adornments or worldly pomp, nor did he crave gold.
+
+95
+00:13:30,582 --> 00:13:33,605
+He believed it was wrong to find pleasure in such things.
+
+96
+00:13:33,605 --> 00:13:41,028
+Thus, having turned away from the world and all it could offer, he burned with love for heavenly things while living on earth in body alone.
+
+97
+00:13:41,028 --> 00:13:43,255
+He honored Saints Willibrord and Boniface.
+
+98
+00:13:43,255 --> 00:13:49,565
+When the Danes devastated the Church of Utrecht, he often stayed in Deventer, yet his spirit always resided in Utrecht.
+
+99
+00:13:49,565 --> 00:13:58,049
+Even though he frequently returned when peace was restored, both he and others regretted that circumstances and time didn't allow him to stay there permanently.
+
+100
+00:13:58,049 --> 00:14:08,972
+He set many holy Fathers as examples to follow, especially those who first laid the Church's foundations on the firm rock of Christ, like Willibrord and Boniface, who were outstanding in merit and holiness.
+
+101
+00:14:08,972 --> 00:14:19,206
+He chose them as guides for the arduous journey they pioneered and adopted them as models to imitate, even engraving them on the doorposts of his heart and always contemplating them with focus.
+
+102
+00:14:19,895 --> 00:14:34,937
+Those who uplift the family of the highest King through their holiness, exemplary lives, and advocacy of their merits—whether by confessing their faith in peace or through the shedding of their blood—both triumph over the enemy and enjoy the fellowship of the heavenly army.
+
+103
+00:14:34,937 --> 00:14:49,211
+Following in their footsteps, he spread the seeds of faith to his entrusted flock, offered himself as a living sacrifice to God every day, longed wholeheartedly for the heavenly homeland, died to the world, lived for Christ, and was entirely devoted to heaven.
+
+104
+00:14:49,211 --> 00:14:55,908
+He was a light of Christ set on a lampstand, shining for all who were in the house of God, yet remained humble before God.
+
+105
+00:14:55,908 --> 00:14:58,818
+He predicts the future through his series of virtues.
+
+106
+00:14:58,818 --> 00:15:01,508
+He composed hymns and the office of Saint Martin.
+
+107
+00:15:01,508 --> 00:15:04,088
+The spirit of prophecy was not absent from him.
+
+108
+00:15:04,088 --> 00:15:08,645
+Many of his predictions came to pass quickly, while others happened not long after.
+
+109
+00:15:08,645 --> 00:15:15,726
+He constantly meditated on the law of the Lord in his mind and was not content with that alone; he also carried it out in action.
+
+110
+00:15:15,726 --> 00:15:35,544
+He became a conqueror of the soul, a teacher of love, a cultivator of chastity, a supporter of the poor, a consoler of the grieving, an unwavering hope of solace for the clergy, an indefatigable relief for the people, a tower of strength against the enemy for all his people, so firm in righteousness that neither prosperity nor adversity could lead him astray.
+
+111
+00:15:35,544 --> 00:15:40,211
+Christ was never absent from his lips; whatever he did, Christ was fixed in his mind.
+
+112
+00:15:40,211 --> 00:15:48,610
+He was never tired of studying, reading, or prayer; he was never satisfied with acts of mercy and charitable works, always devoted to fasting and vigils.
+
+113
+00:15:48,610 --> 00:15:55,033
+His lips always dripped sweetness, sowed peace and remedies of salvation, and his words always resounded with Christ.
+
+114
+00:15:55,033 --> 00:16:06,122
+As we mentioned, he eagerly followed the examples of the Fathers before him; he absorbed their memory with incredible eagerness through reading, listening, conversing, or composing something about them.
+
+115
+00:16:06,122 --> 00:16:10,185
+He crafted hymns and praises about them to be recited on their feast days.
+
+116
+00:16:10,185 --> 00:16:15,455
+And, to dispel any doubts, the complete office of blessed Martin, composed by him, still exists.
+
+117
+00:16:16,223 --> 00:16:22,770
+He had chosen him as his special patron above all others, with absolute confidence that he would be supported by his patronage.
+
+118
+00:16:22,770 --> 00:16:30,502
+He was never broken by challenging circumstances, nor was he caught in the traps of the roaring enemy, always fortified by God's steadfast protection.
+
+119
+00:16:30,502 --> 00:16:34,059
+He feared neither anyone's hostile weapons nor any harsh misfortunes.
+
+120
+00:16:34,059 --> 00:16:39,111
+He cursed the Danes who were troubling Frisia, and as a result, they were afflicted with a plague.
+
+121
+00:16:39,111 --> 00:16:49,575
+At one point, he traveled to Frisia to visit the flock entrusted to him, intending to root out any lingering errors with spiritual guidance and to nurture the believers' minds with the doctrine of faith.
+
+122
+00:16:49,575 --> 00:16:52,719
+However, the Danes confronted him and obstructed his efforts.
+
+123
+00:16:52,719 --> 00:16:59,369
+Yet, undeterred by the threat of death, he offered them encouraging words to renounce their errors and embrace the path of truth.
+
+124
+00:16:59,369 --> 00:17:04,523
+But when they stubbornly persisted in wickedness and even threatened him with death, he cursed them.
+
+125
+00:17:04,523 --> 00:17:12,256
+Then divine vengeance swiftly followed, as they were struck down by a dreadful plague, almost as if hit by lightning, and nearly all of them perished.
+
+126
+00:17:12,256 --> 00:17:21,431
+They were never left unpunished whenever they troubled him at Maastricht, as God's judgment swiftly followed, evidenced by the very few who were fortunate enough to escape alive.
+
+127
+00:17:21,431 --> 00:17:26,225
+He predicted that Baldric would be his successor and even foretold the time of his own death.
+
+128
+00:17:26,225 --> 00:17:31,998
+During that period, Baldric, an excellent young man and the son of Count Ricfrid, often visited the blessed man.
+
+129
+00:17:31,998 --> 00:17:56,741
+So, when Baldric was present, he once called Nitger the priest and Richard the knight to him and said, with a prophetic spirit,
+"This young man you see will succeed me in the bishopric, and through him, God will restore this seat, greatly enhance the affairs of the Church, and repair what has been destroyed and ruined."
+He made this prediction frequently about that young man.
+And the truth of his words was confirmed by the events themselves, with the whole world as a witness.
+
+130
+00:17:57,359 --> 00:19:16,476
+Once, during a Mass when the Epistle was being read, a blessed man summoned Eliolf and Rotguit, the priests of the monastery of Embrici, and said:
+"I will not live much longer. So, make sure to honor this young man, Balderic. In three years and six months, I will leave this life, and without a doubt, he will take my place."
+Hearing this, they stood amazed, greatly admiring his prophecy.
+Not long after, the same young man brought two clerics from his domain, Benno and Saxon, to the man of God at the time when sacred orders are usually conferred, asking that they receive holy orders from him.
+The holy man, always with a cheerful face, smiled and said:
+"Do not ask me in vain, my son. What you want me to do is your duty to perform, for they will be ordained not by my hands but by yours, and that will be in two years and six months."
+But young Balderic, distressed, shed tears, fearing everything, even things that seemed safe, and not believing what the holy man was saying.
+Seeing that the blessed bishop was troubled, he began to gently console him.
+"Do not fear, Balderic," he said, "nor let your noble spirit be broken by faint-heartedness. The church's affairs, which now seem poor and needy, will be enriched by you with countless gifts from God, and the situation will change unexpectedly."
+"You will restore the bishop's buildings, which have been ruined for many years by the ravages of the Danes, to their former dignity at Traiectum [Utrecht].
+
+131
+00:19:16,476 --> 00:19:44,399
+"
+The holy man predicted these and other similar events, which happened just as he said, as everyone can now see, making it seem pointless to prove faith in words for things everyone can verify with their own eyes.
+The bishop should be free from secular duties.
+When invited by the king to perform some service, he would usually respond courteously:
+"It is right to obey higher powers, but who doubts that it is not fitting for bishops to be involved in secular affairs, in whose camps the soldiers of Christ serve?"
+
+132
+00:19:44,399 --> 00:19:51,861
+They should be spiritually equipped with the Church's arms to pray to the Lord for the king's and the people's safety, peace, and stability.
+
+133
+00:19:51,861 --> 00:19:56,444
+They should seek the gain of souls with continuous prayers, not pursue earthly things.
+
+134
+00:19:56,444 --> 00:20:01,188
+Soldiers of the royal army, girded with belts and showered with benefits, should do this.
+
+135
+00:20:01,188 --> 00:20:09,608
+Having examined the law of perfect freedom, he could not be swayed from his opinion by flattery or threats, preferring to please God alone rather than humans.
+
+136
+00:20:09,608 --> 00:20:11,207
+He prepares himself for death.
+
+137
+00:20:11,207 --> 00:20:18,509
+Knowing his death long in advance, no one can doubt that he prepared himself with a burning lamp for the Lord returning from the wedding.
+
+138
+00:20:18,509 --> 00:20:29,168
+He was vigilant so he could immediately answer the one knocking, and he distributed his Lord's measure of wheat to his family with even more care, knowing he would soon have to give an account to Him.
+
+139
+00:20:29,168 --> 00:20:33,165
+He did not fear death, as for him, to die was gain, and to live was Christ.
+
+140
+00:20:33,165 --> 00:20:38,281
+He encouraged his people in the pursuit of peace, harmony, and love, as he was accustomed to do.
+
+141
+00:20:38,281 --> 00:20:46,382
+He, poor in spirit, rich in merits, detached from earthly things, familiar with heavenly ones, strove to achieve this as much as human weakness allowed.
+
+142
+00:20:46,382 --> 00:20:52,938
+Through fasting, the joys of psalms, vigils, and almsgiving, he diligently fortified his death with great spiritual effort.
+
+143
+00:20:52,938 --> 00:20:56,615
+He is comforted by a vision of the Blessed Virgin and her companions.
+
+144
+00:20:56,615 --> 00:21:01,252
+This sublime vision, which he shared with some of his people, should not be overlooked.
+
+145
+00:21:01,252 --> 00:21:14,202
+When he was once seriously ill, so much so that he abandoned all hope of life, the most blessed Mother of God and ever-virgin Mary appeared to him, accompanied by the holy virgins Thecla and Agnes, filling the entire dwelling with great light.
+
+146
+00:21:14,202 --> 00:21:19,265
+He was greatly terrified by such a vision and could speak nothing out of fear, almost fainting.
+
+147
+00:21:19,265 --> 00:21:32,536
+Then the Gate of Salvation, the Lady of the world, administered the medicine of consolation to him, dispelling not only all fear but also his illness, saying, "Do not fear, Radbod, for you are surely seeing her to whom you frequently offer prayers."
+
+148
+00:21:33,335 --> 00:21:38,865
+So, I won't hesitate to offer you comfort with my presence, as you always keep me in your prayers to God.
+
+149
+00:21:38,865 --> 00:21:46,185
+Rest assured, there's nothing threatening about this illness; you will recover, even though your time in the flesh won't be long afterward.
+
+150
+00:21:46,185 --> 00:21:51,873
+Have confidence in yourself: don't stop being vigilant and working hard, but keep going as you have started.
+
+151
+00:21:51,873 --> 00:22:00,141
+With these words, the radiance suddenly vanished, but a very pleasant fragrance lingered for a long time, and all traces of the illness were completely gone.
+
+152
+00:22:00,141 --> 00:22:12,991
+When he quietly shared this with some of his people, not wanting anyone to know while he was alive, he also described the form, appearance, and attire of the most holy mother of God to them, adding that no one could fully appreciate her beauty.
+
+153
+00:22:12,991 --> 00:22:18,363
+However, the holy virgins Thecla and Agnes could be recognized both by their faces and their clothing.
+
+154
+00:22:18,363 --> 00:22:22,787
+On February 14th, he was struck with a fever and devoted himself to constant prayer.
+
+155
+00:22:22,787 --> 00:22:24,999
+He passed away and was buried in Deventer.
+
+156
+00:22:24,999 --> 00:22:30,528
+Furthermore, after three years and six months, he was again struck with a fever in the village of Trente.
+
+157
+00:22:30,528 --> 00:22:36,585
+He quickly instructed his people to leave with him from there, to avoid being forced to stay as the fever worsened.
+
+158
+00:22:36,585 --> 00:22:39,639
+In winter, it's not easy for anyone to leave that village.
+
+159
+00:22:39,639 --> 00:22:42,167
+He knew that the time of his departure was near.
+
+160
+00:22:42,167 --> 00:22:51,172
+Although everyone was distressed by his illness, they respected his wishes and began the journey to Ootmarsum, where he had chosen a burial place for himself, if possible.
+
+161
+00:22:51,172 --> 00:22:56,070
+There was a small oratory there, where he often stayed because it was in a pleasant location.
+
+162
+00:22:56,070 --> 00:23:05,760
+Thus, with his affairs in order as he wished, not weary from serving God, not broken by illness, but with a cheerful face, fearing nothing of death, he was invited to Christ's banquet.
+
+163
+00:23:05,760 --> 00:23:09,657
+Although his body was dying, his spirit was being enlivened more and more.
+
+164
+00:23:09,657 --> 00:23:16,293
+His lips did not rest during his final hours, and he sang psalms in such a way that he brought forth tears from those present.
+
+165
+00:23:17,135 --> 00:23:30,298
+Seeming quite joyful, as long as he could still speak and had some breath left, he kept repeating the antiphon from the Psalms, Behold the joyful, which is the first in the responsories composed by the blessed Martin, chief among confessors.
+
+166
+00:23:30,298 --> 00:23:36,251
+There was no doubt that, surrounded by the most blessed angelic spirits, he had no fear of the dark monsters.
+
+167
+00:23:36,251 --> 00:23:44,443
+We also believe that Martin, the outstanding bishop and his special patron, whom he seemed to greet so often with a melodious voice, was not far away.
+
+168
+00:23:44,443 --> 00:23:49,631
+Finally, as November was drawing to a close, he too passed away, happily departing to the Lord.
+
+169
+00:23:49,631 --> 00:23:57,332
+The holy body was soon placed on a bier, and the clergy and all the people led it reverently and honorably with hymns and psalms to Deventer.
+
+170
+00:23:57,332 --> 00:24:10,494
+As they approached the town, all its inhabitants came out to meet them with heavy hearts, and so, with the mingled voices of mourners and singers, the sacred body was brought into the church on the side that faces north and was buried there.
+
+171
+00:24:10,494 --> 00:24:18,304
+His spirit rejoiced and delighted in the joy of his Lord, whom he had served in this life; to whom be honor, power, and glory forever and ever.
+
+172
+00:24:18,304 --> 00:24:18,577
+Amen.
+

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            In the name of the Lord,\n        </s>\n        <s>\n            begins the martyrology for the year by our holy father Notker, known as the Stammerer, a monk of Saint Gall.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "IN NOMINE DOMINI\nINCIPIT\nMARTYROLOGIUM\nPER ANNI CIRCULUM\nS. P. N. NOTKERI, COGNOMENTO BALBULI, MONACHI SANCTI GALLI.",
+      "voice": "Ruth"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  \n    <p>\n      <s>Pope Leo.</s>\n      <s>For those who are unsure if they have been baptized, they need to be reborn, as stated in the decrees of Pope Leo in his letter to Rusticus.</s>\n      <s>If there's no evidence from family, laypeople, clergy, or neighbors showing that someone has been baptized, they should be reborn.</s>\n      <s>This ensures they do not visibly perish, as reason does not allow assuming something has been repeated if it cannot be shown to have been done.</s>\n      <s>However, those who remember going to church with their parents might recall if they received what their parents gave them.</s>\n      <s>If even this is beyond their memory, it seems appropriate to bestow upon them what is unknown to have been given.</s>\n      <s>There is no rash presumption where there is careful devotion.</s>\n    </p>\n  \n</speak>",
+      "original_latin": "XIV. Leo papa. De his quibus dubium est utrum baptismum perceperint,\nnecesse est ut renascantur, ex decretis\npapae Leonis (epist. ad Rustic.). Si nulla exstant\ninter propinquos aut seculares indicia, nulla inter\nclericos aut vicinos, quibus hi, de quibus quaeritur,\nbaptizati fuisse doceantur, agendum est ut renascantur,\nne manifeste pereant, in quibus quod non\nostenditur gestum, ratio non sinit, ut videatur iteratum. Qui autem possunt meminisse quod ad ecclesiam\nveniebant cum parentibus suis, possunt recordare,\nan quod ab eorum parentibus dabatur,\nacceperint. Sed si hoc etiam ab eorum memoria alienum\nest, conferendum eis videtur, quod collatum\nesse nescitur: quia non temeritas intervenit praesumptionis,\n ubi est diligentia pietatis.",
+      "voice": "Matthew"
+    }
+  ]
+}

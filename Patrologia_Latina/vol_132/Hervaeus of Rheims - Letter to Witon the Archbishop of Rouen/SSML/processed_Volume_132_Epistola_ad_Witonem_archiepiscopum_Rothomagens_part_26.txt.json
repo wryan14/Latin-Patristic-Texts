@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    \n        <p>\n            <s>From the Acts of the Apostles.</s>\n            <s>\n                In the Acts of the Apostles, it mentions that some people who came down from Judea were teaching the believers that they needed to be circumcised and adhere to the law of Moses.\n            </s>\n            <s>\n                However, the apostles and elders, along with the entire Church, decided not to place any additional burden on them, except for abstaining from food offered to idols, from blood, from what is strangled, and from sexual immorality.\n            </s>\n            <s>(Acts chapter fifteen).</s>\n        </p>\n    \n</speak>",
+      "original_latin": "XXIII. Ex Actibus apostolorum. Legitur in Actibus apostolorum quod quidam\ndescendentes de Judaea docerent fratres oportere\ncircumcidi, et servare legem Moysi. Apostoli tamen,\net seniores cum omni Ecclesia jusserint, nihil oneris\nultra imponentes eis, ut abstinerent se ab immolatis\nsimulacrorum, et sanguine et suffocatis, et fornicatione\n(Act. XV).",
+      "voice": "Matthew"
+    }
+  ]
+}

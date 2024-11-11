@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Pope Leo the Twenty-first.</s>\n    <s>Regarding those who have joined in feasts with pagans and eaten food offered to idols, and the decrees of Pope Leo in his letter to Rustic.</s>\n    <s>If they have only joined in these feasts and eaten such food, they can be cleansed through fasting and the laying on of hands.</s>\n    <s>This allows them, by avoiding idol offerings, to partake in the sacraments of Christ.</s>\n    <s>However, if they have worshiped idols, or have been involved in murder or fornication, they should only be admitted to communion through public penance.</s>\n  </p>\n</speak>",
+      "original_latin": "XXI. Leo papa. De his qui convivio gentilium, et escis immolatitiis\nusi sunt, et decretis papae Leonis (epist. ad Rustic.). Si convivio solo gentilium, et escis immolatitiis\nusi sunt, possunt jejuniis et manus impositione purgari,\nut deinceps ab idolothytis abstinentes, sacramentorum\nChristi possint esse participes. Si autem\nidola adoraverunt, aut homicidiis vel fornicationibus\ncontaminati sunt, ad communionem eos nisi per\npoenitentiam publicam non oportet admitti.",
+      "voice": "Matthew"
+    }
+  ]
+}

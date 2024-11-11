@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IV. Ejusdem ad Petrum episcopum. Qui rursus Petro episcopo Corsicae scribens,\nait (lib. VII, epist. 2):",
+      "cleaned_english_translation": "<speak>\n    <break time=\"500ms\"/>    <p>\n        From the same author to Bishop Peter. Writing again to Bishop Peter of Corsica, he states in Book Seven, Letter Two:\n    </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>\n            Your brotherhood should diligently strive, with the Lord's help, to complete the work you have begun.\n        </s>\n        <s>\n            Hurry to bring back to the faith those who once believed but have returned to idol worship out of negligence or necessity.\n        </s>\n        <s>\n            Assign them a penance for several days, so they may mourn their wrongdoing and hold more firmly to what they return to with the Lord’s help, fully grieving what they leave behind.\n        </s>\n    </p>\n    <p>\n        <s>\n            For those who are not yet baptized, urge them, beg them, frighten them with the coming judgment, and explain why they should not worship wood and stone.\n        </s>\n        <s>\n            May your brotherhood hurry to gather them for the Almighty Lord, so that when He comes and the solemn day of judgment arrives, your holiness may be found among the saints.\n        </s>\n    </p>\n    <p>\n        <s>\n            For what could be more useful and noble than focusing on the revival and gathering of souls, bringing eternal gain to your Lord, who has given you the place to preach?\n        </s>\n    </p>\n</speak>",
+      "original_latin": " Fraternitas vestra sollicite\nstudeat, opus quod coepit, auxiliante Domino, ad perfectionem\ndeducere; et sive eos qui aliquando fideles\nfuerunt, sed ad cultum idolorum, negligentia aut necessitate\nfaciente, reversi sunt, festinet cum indicta\npoenitentia aliquantorum dierum ad fidem reducere,\nut reatum suum plangere debeant, et tanto firmius\nteneant hoc ad quod adjuvante Domino revertuntur,\nquanto illud perfecte defleverint, unde discedunt; sive\neos qui necdum baptizati sunt, admonendo, rogando,\nde venturo judicio terrendo, rationem quoque reddendo\nquod ligna et lapides colere non debent. Festinet\nfraternitas tua omnipotenti Domino congregare,\n ut in adventu ejus, cum districtus dies judicii venerit,\nin numero sanctorum possit tua sanctitas inveniri. Quodcunque enim utilius et sublimius acturus es,\nquam ut de animarum vivificatione, et collectione\ncogitans, et tuo Domino, qui tibi locum praedicandi\ndedit, immortale lucrum reportes? Et reliqua.",
+      "voice": "Matthew"
+    }
+  ]
+}
