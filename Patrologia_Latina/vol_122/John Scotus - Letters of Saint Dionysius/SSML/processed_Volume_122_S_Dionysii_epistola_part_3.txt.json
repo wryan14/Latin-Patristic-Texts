@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "II. Eidem. ",
+      "cleaned_english_translation": "<speak>\n   Two <break time=\"500ms\"/>To the Same\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        How can we comprehend the pinnacle of everything beyond divinity and goodness? Consider divinity and goodness as the essence of the act of benefiting and deifying, rather than something that can be mimicked by a super-god and super-good, through which we become divine and good.\n    </p>\n    <p>\n        If this principle becomes the cause of deification, and the best is done for those who are deified and made excellent, then for every principal cause beyond the principalities, the essence of divinity and goodness reaches its peak. As much as it is inimitable and immeasurable, it surpasses all imitations and participations, as well as those who imitate and participate.\n    </p>\n</speak>",
+      "original_latin": "Quomodo omnium summitas et super divinitatem\nest et super bonitatem? Si deitatem et bonitatem\nintelligas ipsam rem benefici et deifici muneris, et\nnon imitabilem superdei et superoptimi, secundum\nquam deificamur et bonificamur. Etenim si hoc\nprincipium fit deificandi, et optime agitur deificatis\net optime factis, omnis principii superprincipalis, et\nsic dictae deitatis et bonitatis, ut divinitatis et bonitatis\nest summitas, quantum inimitabilis et immensurabilis,\n superat imitationes et participationes, et\nimitantes et participantes.",
+      "voice": "Matthew"
+    }
+  ]
+}

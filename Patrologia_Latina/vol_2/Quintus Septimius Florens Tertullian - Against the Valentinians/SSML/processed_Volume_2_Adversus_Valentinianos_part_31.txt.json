@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXIV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twenty-Four<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>What kinds of stories about God or gods are similar to those about humans!</s>\n    <s>The creator, after making the world, focuses on humans but doesn't fully understand their essence.</s>\n    <s>It's said that humans didn't originate from the dry earth we know, even though it became dry later, once the waters receded, leaving mud to dry.</s>\n  </p>\n  <p>\n    <s>Instead, humans came from an invisible form of that material, specifically philosophical, in its liquid and molten state.</s>\n    <s>I can't determine where this material originated because it exists nowhere.</s>\n    <s>If the molten and liquid state is characteristic of a liquid, and all liquid flowed from the tears of Sophia, then we might believe that the mud was formed from the mucus and phlegm of Sophia, which are the sediment of tears, much like mud is the residue of water.</s>\n  </p>\n  <p>\n    <s>The creator shapes man and brings him to life with his breath.</s>\n    <s>This makes man both earthly and living, created in the image and likeness: a fourfold being.</s>\n    <s>The image is considered earthly, meaning material, although the creator is not made of material.</s>\n    <s>The likeness, however, is living, and the creator is living too.</s>\n    <s>So you have two aspects.</s>\n  </p>\n  <p>\n    <s>Meanwhile, they say a fleshly surface was added to the earthly being later, which is the leather tunic subject to sensation.</s>\n  </p>\n</speak>",
+      "original_latin": "Cum talia de Deo vel de deis, qualia de homine\nfigmenta! Molitus enim  mundum demiurgus, ad\nhominem manus confert, et substantiam non ei capit,\nnon ex ista, inquiunt, arida quam nos unicam novimus\nterram  quasi non etsi arida postmodum,\nadhuc tamen  tunc aquis ante segregatis, superstite\nlimo siccaverit, sed ex invisibili corpore materiae\nillius, scilicet philosophicae, de fluxili et fusili\nejus: quod unde fuerit, haud queo aestimare, quia\n nusquam est. Si enim fusile et fluxile liquoris est qualitas,\nliquor autem omnis de Sophiae fletibus fluxit\nsequitur ut limum ex pituitis et gramis Sophiae\nconstitisse credamus, quae lacrymarum proinde sunt\nfaeces, sicut aquarum quod desidet, limus est. Figulat\nita hominem demiurgus, et de afflatu suo animat:\nsic erit et choicus et animalis, ad imaginem et similitudinem\nfactus: quadruplex res: ut imago quidem\nchoicus deputetur, materialis  scilicet; etsi non\nex materia demiurgus: similitudo autem animalis;\nhoc enim et demiurgus. Habes duos. Interim carnalem\nsuperficiem postea aiunt choico supertextam, et\nhanc esse  pelliceam tunicam obnoxiam sensui\n.",
+      "voice": "Matthew"
+    }
+  ]
+}

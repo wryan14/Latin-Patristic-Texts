@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Six<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      In this little book, where we aim to demonstrate that secret, don't be confused by names that are foreign, forced, or ambiguous.\n    </s>\n    <s>\n      Let me first explain how we'll be using them.\n    </s>\n    <s>\n      Some Greek interpretations don't easily translate into recognizable names, and some don't match in gender, while others are more commonly known in Greek.\n    </s>\n  </p>\n  <p>\n    <s>\n      So, we'll often use Greek; meanings will be provided in the margins.\n    </s>\n    <s>\n      Even for the Latin, Greek references will appear above the lines, especially for personal names, due to overlapping meanings.\n    </s>\n  </p>\n  <p>\n    <s>\n      Although I've held back from fully diving in, focusing on the narrative for now, if any unworthiness deserves criticism, it won't be a brief attack.\n    </s>\n    <s>\n      Think of it as a prelude to the real battle, dear Reader.\n    </s>\n    <s>\n      I'll show wounds but not inflict them.\n    </s>\n  </p>\n  <p>\n    <s>\n      If there's laughter to be found, it will come from the material itself; many things are too unworthy to be taken seriously.\n    </s>\n    <s>\n      Vanity naturally gives way to amusement.\n    </s>\n    <s>\n      Truth finds joy in laughter and mocks its rivals with confidence.\n    </s>\n  </p>\n  <p>\n    <s>\n      We must ensure that its laughter doesn't become laughable if it's unworthy.\n    </s>\n    <s>\n      However, when laughter is justified, it is fitting.\n    </s>\n    <s>\n      And with that, I will begin.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Igitur hoc libello,  quo demonstrationem solum\npromittimus illius  arcani, ne quem ex nominibus\ntam peregrinis, et coactis, et compactis, et ambiguis,\ncaligo  suffundat, quomodo eis usuri simus, prius demandabo. Quorumdam enim de graeco interpretatio\nnon occurrit ad expeditam proinde nominis formam,\n quorumdam nec de sexu genera conveniunt, quorumdam\nusitatior in graeco notitia est. Itaque plurimum\ngraeca ponemus; significantiae per paginarum limites\naderunt , nec latinis quidem deerunt graeca, sed in\nlineis desuper notabuntur, ut signum hoc sit personalium\nnominum, propter ambiguitates  eorum quae\ncum alia significatione communicant. Quamquam autem\ndistulerim congressionem, solam interim professus\nnarrationem, sicubi tamen indignitas meruerit\nsuggillari, non erit delibatione transpunctoria  expugnatio\n  . Congressionis lusionem deputa , Lector,\nante pugnam . Ostendam, sed non imprimam\nvulnera. Si et ridebitur alicubi, materiis ipsis satisfiet:\nmulta sunt sic indigna revinci, ne gravitate\nadorentur . Vanitati proprie festivitas cedit. Congruit\net veritati ridere, quia laetans; de aemulis suis\nludere, quia secura est. Curandum plane ne risus\nejus rideatur, si fuerit indignus. Caeterum ubicumque\ndignus risus, officium est. Denique hoc modo incipiam.",
+      "voice": "Matthew"
+    }
+  ]
+}

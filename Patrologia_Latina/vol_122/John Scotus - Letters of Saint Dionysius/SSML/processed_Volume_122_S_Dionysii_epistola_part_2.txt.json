@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "I.\nEpistola sancti Dionysii Areopagitae Gajo monacho\nmissa. ",
+      "cleaned_english_translation": "<speak>\n    One<break time=\"500ms\"/>    <s>\n      This is a letter from Saint Dionysius the Areopagite to the monk Gaius.\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      Darkness becomes even more obscure in the presence of light, especially with a lot of light.\n    </s>\n    <s>\n      Similarly, ignorance hides knowledge, and even more so with abundant knowledge.\n    </s>\n  </p>\n  <p>\n    <s>\n      These concepts are incredibly profound, but should not be seen as a lack; appreciate them deeply, for they are hidden within those who possess the light.\n    </s>\n    <s>\n      True knowledge, according to God, is ignorance, and the darkness surrounding Him is cloaked by all light, concealing all knowledge.\n    </s>\n  </p>\n  <p>\n    <s>\n      If someone thinks they understand God by seeing Him, they haven't truly contemplated Him, but instead have perceived something else that exists and is known through Him.\n    </s>\n    <s>\n      He, however, exists beyond mind and essence, not known or seen in the usual sense, and is recognized beyond essence and beyond mind.\n    </s>\n    <s>\n      This superior state is perfect ignorance, which is the knowledge of Him beyond all known things.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Tenebrae quidem obscurae fiunt lumine, et magis\nmulto lumine. Ignorantiam occultant scientiae, et\nmagis multae scientiae. Haec supereminenter, sed\nnon secundum privationem accipiens, approba supervere,\nquia latet habentes ὂν lumen, et vere scientia\nsecundum Deum ignorantia, et superpositae\nipsius tenebrae velantur ab omni lumine, et abscondunt\nomnem scientiam. Et si quis videns Deum\nintellexit quod vidit, non ipsum contemplatus est,\nsed quid eorum ab ipso existentium et cognitorum. Ipse autem super animum et essentiam supercollocatus,\nuniversaliter non cognoscendo neque videndo,\n et est superessentialiter, et super animum cognoscitur. Et ipsa secundum quod melius perfectissima\nignorantia scientia est ejus super omnia cognita.",
+      "voice": "Matthew"
+    }
+  ]
+}

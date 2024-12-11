@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirteen<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>This order, therefore, includes the initial procession of both the emerging and the marrying, as well as the generating Aeons.</s>\n    <s>Sophia's perilous fall, driven by her longing for the Father, Horus's timely help, the purification of Enthymesis and the related Passion, the guidance of Christ and the Holy Spirit, the reformation under the Aeons' protection, Soter's peacock-like adornment, and the angelic authority comparison.</s>\n  </p>\n  <p>\n    <s>You might wonder what's left for you to do—be well and applaud, perhaps?</s>\n    <s>Instead, I suggest you listen and let go of the rest.</s>\n  </p>\n  <p>\n    <s>These events are said to have taken place within the assembly of the Pleroma, marking the first scene of the tragedy.</s>\n  </p>\n  <p>\n    <s>But if someone else is to step forward, it happens outside the Pleroma, I say:</s>\n    <s>And yet, if such things occur under the Father's protection within Horus's domain, what might happen outside in freedom, where God was not present?</s>\n  </p>\n</speak>",
+      "original_latin": "Continet hic igitur ordo primam processionem pariter\net nascentium, et nubentium, et generantium\nAeonum: Sophiae ex desiderio patris, periculosissimum\ncasum, Hori opportunissimum auxilium, Enthymeseos\net conjunctae Passionis expiatum, Christi\net Spiritus Sancti paedagogatum, Aeonum tutelarem\n reformatum, Soteris pavoninum ornatum,  angelorum\ncomparatitium antistatum. Quod superest, inquis,\nvos valete et plaudite. Imo quod superest,\ninquam, vos audite et projicite. Caeterum, haec intra\ncoetum Pleromatis decucurrisse dicuntur; prima tragoediae\nscena. Alia autem trans si parium cothurnatio\nest, extra Pleroma dico: et tamen si talis sub sinu\npatris intra ambitum Hori custodis, qualis extra jam\nin libero, ubi Deus non erat?",
+      "voice": "Matthew"
+    }
+  ]
+}

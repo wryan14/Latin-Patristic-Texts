@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "RESPONSIO. Nunquam Ratramnus dixit num. 5, 49, 96, nec\nalibi, corpus Jesu Christi quod ore fidelium sumitur\nesse verum Christi corpus tantum in mysterio seu\nfigura. Haec propositio, ut scholae loquuntur, implicaret\nin terminis: Incogitabile est verum corpus\nquod sit in figura et mysterio tantum, esset enim\nverum et non verum corpus. XLI. Et vero Erigerus, sive Anonymus Cellotianus,\nduas solummodo factiones exstitisse; similiter et\nPaschasius et Ratramnus ait: Dicentibus quibusdam,\ninquit, idem esse quod sumitur de altari quod\net illud quod natum est ex Virgine: aliis autem negantibus\net dicentibus aliud esse.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            Ratramnus never claimed in Numbers five, forty-nine, ninety-six, or anywhere else, that the body of Jesus Christ, received by the faithful, is the true body of Christ only in mystery or symbol.\n        </s>\n        <s>\n            As the schools would argue, this proposition is contradictory: It's unthinkable for the true body to be only in symbol and mystery, because it would imply that the body is both true and not true.\n        </s>\n    </p>\n    <p>\n        <s>\n            In fact, Erigerus, or the Anonymous Cellotian, stated that there were only two factions; similarly, Paschasius and Ratramnus mentioned: Some people, he said, claim that what is received from the altar is the same as what was born of the Virgin, while others deny this and say it is different.\n        </s>\n    </p>\n</speak>"
+        }
+    ]
+}

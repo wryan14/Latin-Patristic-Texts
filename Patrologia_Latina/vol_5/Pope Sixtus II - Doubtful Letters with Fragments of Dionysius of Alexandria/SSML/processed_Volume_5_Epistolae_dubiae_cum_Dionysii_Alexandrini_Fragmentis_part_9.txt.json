@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Letters Two<break time=\"500ms\"/>\n    <s>\nBishop Dionysius of Alexandria to Philemon Priest of Sixtus, Fragments\n\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "EPISTOLAE II DIONYSII ALEXANDRINI EPISCOPI\nAD PHILEMONEM SIXTI PRESBYTERUM FRAGMENTA.",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      I was deeply engaged in reading the books and learning the traditions of heretics. Though my mind was temporarily tainted by their detestable ideas, I gained the ability to refute them to myself, growing to detest them even more.\n    </s>\n  </p>\n  <p>\n    <s>\n      When a certain brother from the order of priests tried to dissuade me, fearing I might be drawn into the same wickedness—he truly believed my mind would be contaminated—I was strengthened by a vision sent by God.\n    </s>\n    <s>\n      A clear message came to me, instructing: \"Read everything that comes into your hands, for you are capable of correcting and testing each thing: and from this, you first found a reason and opportunity to believe.\"\n    </s>\n  </p>\n  <p>\n    <s>\n      I accepted this vision as it aligned with the apostolic voice, addressing those more powerful: \"Be skilled money changers\" (First Thessalonians 5:21).\n    </s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": " Ego vero haereticorum libris legendis ac traditionibus\nediscendis operam dabam, ad horam quidem\nexsecrandis illorum sententiis animum meum coinquinans,\nhanc tamen ex iis utilitatem percipiens,\nut eos apud me refutarem, et multo amplius detestarer. Et cum frater quidam ex ordine presbyterorum\nme deterreret, ac vereretur ne eidem nequitiae\ncoeno commiscerer; quippe animum meum contaminatum\niri, aiebat et quidem vere, ut ipse sentiebam:\nvisione divinitus missa confirmatus sum,\net sermo ad me factus diserte mihi praecepit dicens:\nLege omnia quaecumque in manus venerint: idoneus\nenim es qui singula corrigas ac probes: et hinc\ntibi primum credendi causa et occasio exstitit. Visionem\nhanc suscepi, ut quae apostolicae voci consentiret,\n quosque majori virtute praeditos ita compellanti:\nEstote periti numularii (I Thes., XXI, 21). Ἐγὼ δὲ καὶ τοῖς συντάγμασι καὶ ταῖς παραδόσεσι τῶν αἱρετικῶν ἐνέτυχον, χραίνων μέν μου πρὸς ὀλίγον τὴν ψυχὴν ταῖς παμμίαροις αὐτῶν ἐνθυμήσεσιν ὄνησιν δ` οὖν ἀπ` αὐτῶν ταύτην λαμβάνων, τὸ ἐξελέγχειν αὐτοὺς παρ` ἑμαυτῷ, καὶ πολὺ πλέον βδελύττεσθαι. καὶ δή τινος ἀδελφοῦ τῶν πρεσβυτέρων με ἀπείργοντος καὶ δεδιττομένου συμφύρεσθαι (al. συμφέρεσθαι) τῷ τῆς πονηρίας αὐτῷ βορβόρῳ· λυμανεῖσθαι γὰρ τὴν ψυχὴν τὴν ἑμαυτοῦ, καὶ ἀληθῆ γε λέγοντος, ὡς ἠσθόμην, ὅραμα θείπεμπτον προσελθὸν ἐπέῤῥωσέ με. καὶ λόγος πρός με γενόμενος προσέταξε διαῤῥήδην λέγων, πᾶσιν ἐντύγχανε οἷς ἂν εἰς χεῖρας λάβοις. διευθύνειν γὰρ ἕκαστα καὶ δοκιμάζειν ἱκανὸς εἶ. καί σοι γέγονε τοῦτο ἐξαρχῆς καὶ τῆς πίστεως αἴτιον. ἀπεδεξάμην τὸ ὅραμα, ὡς ἀποστολικῇ φωνῇ συντρέχον τῇ λεγούσῃ πρὸς τοὺς δυνατωτέρους,  γίνεσθε δόκιμοι τραπεζῖται.",
+      "voice": "Matthew"
+    }
+  ]
+}

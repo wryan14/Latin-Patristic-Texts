@@ -1,0 +1,4353 @@
+1
+00:00:00,000 --> 00:00:07,919
+SANCTI EUCHERII
+LUGDUNENSIS EPISCOPI
+FORMULARUM SPIRITALIS INTELLIGENTIAE
+AD URANIUM. LIBER UNUS (C)
+
+2
+00:00:07,919 --> 00:00:22,916
+Praefatio. Formulas spiritalis intelligentiae Latinorum nominum
+componendas, tibique mittendas pro studio
+paternae erga te sollicitudinis existimavi, quibus
+perceptis, in omnia scripta divina facillime ac intellectum
+reliquorum sensus intenderetur.
+
+3
+00:00:22,916 --> 00:00:31,927
+Nam cum
+littera occidat, spiritus autem vivificet (II Cor. III, 6),
+necesse est ad illa spiritalium interiora sermonum
+spiritu vivificante penetrari.
+
+4
+00:00:31,927 --> 00:00:46,138
+Universam porro Scripturam
+tam veteris Instrumenti quam novi, ad intellectum
+allegoricum esse sumendum, admonet nos vel
+illud quod in veteri Testamento legimus: Aperiam
+in parabolis os meum, loquar in aenigmate antiqua
+(Ps. LXXVII, 2).
+
+5
+00:00:46,138 --> 00:00:55,511
+Vel illud quod item in novo Testamento
+scribitur: Haec omnia locutus est Jesus in parabolis
+ad turbas, et sine parabolis non loquebatur
+eis (Marc. IV, 16).
+
+6
+00:00:55,511 --> 00:01:13,531
+Nec mirandum quod sermo divinus, prophetarum apostolorumque ore prolatus, ab usitato illo hominibus scribendi modo multum recesserit, facilia in promptu habens, magna in interioribus suis continens; quia et revera fuit congruum ut sacra Deo dicta a caeteris scripturis, sicut merito, ita et specie,
+
+7
+00:01:13,531 --> 00:01:31,673
+discernerentur, ne illa coelestium arcanorum dignitas passim atque indiscrete cunctis patesceret, sanctumque canibus, et margaritas porcis exponeret (Matth. VII, 6); et consecrata vasa templi involuta promiscuus populus ferret nec videret (Num. IV, 15, 20), et ut vere ad illius columbae deargentatae
+
+8
+00:01:31,673 --> 00:01:41,348
+(Ps. LXVII, 14) modum, cujus posteriora in specie auri splendentis irradiant, scripturae divinae prima quaeque argento fulgerent, et auro occultiora rutilarent.
+
+9
+00:01:41,348 --> 00:01:59,006
+Recte itaque procuratum est ut eloquiorum illa castitas a promiscuis cunctorum oculis abdito suo quasi quodam velamine pudicitiae contegeretur; ac divina optime dispensatione provisum est ut scripta ipsa ita contegerentur, coelestibus obumbrata mysteriis, sicut secreto ipsa sua suo divinitas
+
+10
+00:01:59,006 --> 00:01:59,732
+operiebatur.
+
+11
+00:02:00,216 --> 00:02:17,530
+Igitur cum in libris sanctis oculi Domini, os Domini, uterus Domini, manus, pedes Domini, arma etiam Domini scripta reperiantur, longeque absit a catholica Ecclesiarum fide Deum corpore determinari, qui sit invisibilis, incomprehensibilis, incommutabilis et infinitus, requirendum est qualiter ista
+
+12
+00:02:17,530 --> 00:02:20,609
+per Spiritum sanctum figurali expositione reserentur.
+
+13
+00:02:20,609 --> 00:02:27,756
+Hic enim inveniuntur illa Dominici interiora
+templi (Ezech. XL); hic illa sancta sanctorum
+mysteria, aenigmatibus retectis.
+
+14
+00:02:27,756 --> 00:02:38,156
+Corpus ergo Scripturae
+sacrae, sicut traditur, in littera sive historia:
+est anima in morali sensu, qui tropicus dicitur; spiritus
+in superiore intellectu, qui anagoge appellatur.
+
+15
+00:02:38,156 --> 00:02:52,856
+Quam triplicem Scripturarum regulam convenienter
+observat confessio sanctae Trinitatis, sanctificans nos
+per omnia, ut integer spiritus noster, et anima et corpus
+sine querela in adventum Domini nostri Jesu
+Christi judiciumque servetur (I Thess. V, 24).
+
+16
+00:02:52,856 --> 00:03:00,816
+Sapientia
+autem mundi hujus philosophiam suam in tres
+partes divisit, physicam, ethicam, logicam, id est,
+naturalem, moralem, rationalem.
+
+17
+00:03:00,816 --> 00:03:11,972
+Sed naturalem
+illam pertinentem ad causas naturae, quae universa
+continet; moralem, quae respiciat ad mores; rationalem
+vero quae de sublimioribus disputans, Deum
+omnium patrem esse confirmet.
+
+18
+00:03:11,972 --> 00:03:25,975
+Quam tripartitam
+doctrinae disputationem non adeo abhorret illa nostrorum
+in disputatione distinctio, qua docti quique
+hanc coelestem Scripturarum philosophiam secundum
+historiam, secundum tropologiam, secundum
+anagogen disserendam putarunt.
+
+19
+00:03:25,975 --> 00:03:37,421
+Quapropter historia
+veritatem nobis factorum ac fidem relationis inculcat. Tropologia ad vitae emendationem mysticos intellectus
+refert. Anagoge ad sacratiora coelestium
+figurarum secreta perducit.
+
+20
+00:03:37,421 --> 00:03:46,776
+Sunt etiam qui allegoriam
+in hoc scientiae genere quarto in loco adjiciendam
+putent, quam gestorum narrationem, futurorum umbram
+praetulisse confirment.
+
+21
+00:03:46,776 --> 00:04:02,436
+Haec vero ipsa ut subjectis
+plenius manifestentur exemplis, coelum est
+secundum historiam hoc quod intuemur, secundum
+tropologiam vita coelestis; aquae secundum allegoriam
+baptismus, secundum anagogen angeli, unde
+est illud: Et aquae quae super coelos sunt laudent nomen
+Domini (Ps. CXLVIII, 4).
+
+22
+00:04:02,436 --> 00:04:11,673
+Omnis autem disciplina
+nostrae religionis ex illo duplicis scientiae fonte manavit:
+cujus primam practicen, secundam theoricen
+vocaverunt, id est actualem, et contemplativam.
+
+23
+00:04:11,673 --> 00:04:19,318
+Unam, quae actualem vitam morum emendatione
+consummet; aliam, quae in contemplatione coelestium
+et divinarum Scripturarum disputatione versetur.
+
+24
+00:04:19,318 --> 00:04:29,032
+Ergo actualis scientia in diversa studia diffunditur,
+contemplativa in duas derivatur partes, id est
+in historica disputatione, et spiritalis intelligentiae
+interpretatione consistit.
+
+25
+00:04:29,032 --> 00:04:39,331
+Sed his nunc remotis, formulas
+intelligentiae spiritalis quas spopondimus proponamus,
+currentes per singulorum nominum figuras,
+quibus ista in illo divinae lectionis inserta textu
+accipi solent.
+
+26
+00:04:39,331 --> 00:04:54,726
+Oremus itaque Dominum ut revelet
+abscondita Scripturarum suarum, et proferamus
+quomodo secretiora intellectu sentiendum sit. I. De divinis nominibus. II. De his quae appellantur membra Domini, vel
+quae de eo significantur. III. De supernis creaturis. IV. De terrenis. V. De animantibus. VI.
+
+27
+00:04:54,726 --> 00:05:09,219
+De variis nominum et rerum appellationibus. VII. De interiori homine. VIII. De his quae in usu atque in medio habentur. IX. De variis verborum vel nominum significationibus. X. De Jerusalem, vel adversis ejus. XI. De numeris, quorum significationes in allegoriam
+trahuntur.
+
+28
+00:05:09,219 --> 00:05:17,447
+Ergo ipsas jam nunc nominum atque verborum
+significantias, secundum quas vel maxime in allegoriam
+trahuntur, prout donum Dei suggesserit, explicemus.
+
+29
+00:05:17,447 --> 00:05:21,935
+CAPUT I. De divinis nominibus.
+
+30
+00:05:21,935 --> 00:05:41,797
+Omnipotens Deus Pater et Filius et Spiritus sanctus
+unus atque trinus. Unus videlicet exstat in natura,
+trinus in personis. Solus invisibilis, immensus
+atque incomprehensibilis. Solus incircumscriptus,
+immutabilis, incorporeus et immortalis; ubique praesens
+et latens; ubique totus et immensus.
+
+31
+00:05:41,797 --> 00:06:01,929
+Invisibilis est, quia in essentia sua omnino videri
+non potest, Apostolo testante, qui ait: Quem nullus
+hominum vidit, sed nec videri potest (I Tim. VI, 16). Et in Evangelio: Deum nemo vidit umquam (Joan. I, 18). Incorporeus est, quia nullis membrorum lineamentis
+compositus sive compactus existit.
+
+32
+00:06:01,929 --> 00:06:16,319
+Sic veritas
+in Evangelio dicit: Spiritus est Deus, et eos qui
+adorant eum, in spiritu et veritate oportet adorare
+(Joan. IV, 24). Immensus est, quia quantitas ejus, vel qualitas a
+nullo ex creaturis metiri potest.
+
+33
+00:06:16,319 --> 00:06:30,168
+Cui Salomon in
+suis orationibus supplicans ait: Si coelum et coeli
+coelorum non te capiunt, quanto magis domus ista,
+quam aedificavi (III Reg. VIII, 27). Incircumscriptus est, quia circumscribi non potest.
+
+34
+00:06:30,168 --> 00:06:45,369
+Inlocalis est, quia de loco ad locum nequaquam
+transit, sed neque in loco quolibet retinetur, ipso
+de se per Isaiam testimonium perhibente ac dicente:
+Coelum mihi sedes est, terra autem scabellum
+pedum meorum (Isai. LXVI, 1).
+
+35
+00:06:45,369 --> 00:07:00,501
+Et per Jeremiam:
+Nonne coelum et terram ego impleo (Jer. XXIII, 24)? Cujus immensitatem propheta in psalmo confitens
+ad ipsum Dominum ait: Si ascendero in coelum tu
+illic es, si descendero ad infernum ades (Ps. CXXXVIII,
+8).
+
+36
+00:07:00,501 --> 00:07:19,079
+De ejus immensitate in libro Job scriptum est:
+Excelsior coelo est, et quid facies? profundior abysso,
+et unde cognoscis? longior est terra mensura ejus, et
+latior mari (Job XI, 8): qui enim coelum et terram
+implet, proculdubio nullus est locus ab ejus essentia
+absens.
+
+37
+00:07:19,079 --> 00:07:36,010
+Super omnia quippe est regendo atque
+imperando; subtus omnia est sustinendo atque portando,
+non pondere laboris, sed infatigabili virtute:
+quoniam nulla creatura ab eo condita per se subsistere
+valet, nisi ab eo sustentetur, qui eam creavit. Extra omnia, sed non exclusus.
+
+38
+00:07:36,010 --> 00:07:52,940
+Immutabilis est, quia ab eo quod est mutari omnino
+non potest, ipso dicente per Malachiam prophetam,
+Ego Dominus et non mutor (Malach. III, 6). Ideo Deus immutabilis dicitur, quia animae ejus,
+ira, furor, poenitentia, oblivio, recordatio, et alia
+his similia non accidunt.
+
+39
+00:07:52,940 --> 00:08:01,405
+Simplex enim natura est,
+et immutabilis et imperturbata. Neque aliud est
+ipse et aliud quod habet, sed ipsum est quod habet
+et quod est.
+
+40
+00:08:01,405 --> 00:08:13,543
+Immortalis, quia mori nullo modo potest, Apostolo
+testante ac dicente: Qui solus habet immortalitatem,
+lucem habitans inaccessibilem, quem nullus
+hominum vidit, nec videri potest (I Tim. VI, 16).
+
+41
+00:08:13,543 --> 00:08:32,216
+Ubicumque autem sacra Scriptura sparsim per divinos libros in Deo motus animae seu humana membra describit, id est, caput, capillos, oculos, palpebras, aures et caetera membra sive motus animae, id est, iram, furorem, oblivionem, poenitentiam, recordationem, et alia his similia, non carnaliter juxta
+
+42
+00:08:32,216 --> 00:08:45,661
+historiam a recte intelligentibus scienda sunt, sicut a Judaeis et plerisque haereticis carnaliter sapientibus, qui Deum corporeum atque localem opinantur, sed spiritualia omnia de eo intelligenda et confitenda sunt.
+
+43
+00:08:45,661 --> 00:09:03,400
+Si quis Deo humana membra seu
+motus animae more humano inesse credit, proculdubio
+idola fabricat in corde suo. Igitur, ut dictum est, figuraliter in Deo caput esse
+legimus, ipsam essentiam divinitatis ejus, quae praecedit,
+et cui omnia sunt subjecta intelligere debemus
+(I Cor. XI, 3).
+
+44
+00:09:03,400 --> 00:09:21,576
+Capillos vero capitis ejus sanctos angelos, seu
+virtuosos electos typice accipi oportet; de quo in
+sacramento libri Danielis scriptum est: Aspiciebam
+donec throni positi sunt, et Antiquus dierum sedit. Vestimentum ejus quasi nix candidum, et capilli capitis
+ejus quasi lana munda (Dan.
+
+45
+00:09:21,576 --> 00:09:41,285
+VII, 9): hoc enim significat per vestimenta candida Dei, quod et per capillos capitis ejus, sanctos videlicet angelos et multitudinem sanctorum dealbatorum. Vel certe ideo capilli lanae mundae comparantur, ut per hoc Antiquus dierum credatur esse. Oculos dicitur Deus habere, pro eo quod omnia videt,
+
+46
+00:09:41,285 --> 00:09:50,351
+et nihil eum latet, in cujus conspectu, ut ait Apostolus, nulla creatura invisibilis est: omnia enim nuda et aperta sunt oculis ejus (Heb.
+
+47
+00:09:50,351 --> 00:10:10,127
+IV, 13). Aliter
+vero respectus gratiae ejus intelliguntur: ut est
+illud in psalmo, Oculi Domini super justos (Ps. XXXIII, 16). Item aliter, Oculi Domini praecepta ejus,
+per quae nobis lumen scientiae subministratur, accipiuntur:
+ut est illud in psalmo, Praeceptum Domini
+lucidum illuminans oculos (Ps.
+
+48
+00:10:10,127 --> 00:10:27,011
+XVIII, 9). Palpebrae Domini occulta et incomprehensibilia
+judicia ejus, sive spiritualis in divinis libris ejus locutio
+innuitur. De quibus occultis et incomprehensibilibus
+sacramentis atque judiciis in psalmo: Palpebrae
+ejus interrogant filios hominum (Ps.
+
+49
+00:10:27,011 --> 00:10:41,465
+X, 5), id
+est, probant. Aures habere dicitur Deus, propterea quod omnia
+audit, et nihil eum in silentio latet: de quo in libro
+Sapientiae scriptum, Auris coeli audit omnia, et tumultus
+murmurationum non abscondetur (Sap.
+
+50
+00:10:41,465 --> 00:10:49,414
+I, 10). Nares Dei est inspiratio ejus in corda fidelium:
+ut illud in libro Regum: Ascendit fumus de naribus
+ejus (II Reg.
+
+51
+00:10:49,414 --> 00:11:03,211
+XXII, 9), id est, lacrymosa compunctio
+poenitentium inspiratio ejus. Facies Dei cognitio est divinitatis ejus ad omnes:
+de qua cognitione in psalmis scriptum est: Ostende
+nobis faciem tuam, et salvi erimus (Ps.
+
+52
+00:11:03,211 --> 00:11:16,482
+LXXIX, 4), hoc
+est, dona nobis cognitionem tuam, quam cognitionem
+per Filium hominis hominibus innotuit: ipso
+dicente in Evangelio, Nemo novit Patrem nisi Filius,
+et cui voluerit Filius revelare (Matth.
+
+53
+00:11:16,482 --> 00:11:30,936
+XI, 27). Aliter
+vero facies Dei significat invisibilem essentiam divinitatis
+Filii Dei; de qua ipse Dominus ad Mosen
+per angelum respondens ait: Posteriora mea videbis,
+faciem autem meam videre non poteris (Exod.
+
+54
+00:11:30,936 --> 00:11:46,484
+XXXIII,
+23); ac si diceret, divinitatem autem meam videre
+non poteris. Os Dei Filius Patris, id est, Christus Dominus;
+pro quo Isaias propheta ex persona Judaeorum effatus
+est: Quia os ejus ad iracundiam provocavimus
+(Isai.
+
+55
+00:11:46,484 --> 00:12:03,705
+I, 20). Aliter vero os ejus sermo ejus sive
+jussio accipitur; de quo sermone Domini praedictus
+propheta ait: Os Domini locutum est hoc. Verbum Dei Filius Dei Patris, per quem omnia
+facta sunt; de quo in psalmo, Verbo Domini coeli firmati
+sunt (Ps.
+
+56
+00:12:03,705 --> 00:12:16,395
+XXXII, 6). Et alibi: Misit Verbum
+suum, et sanavit eos (Ps. CVI, 26). Et in Evangelio
+secundum Joannem, In principio erat Verbum, et
+Verbum erat apud Deum, et Deus erat Verbum
+(Joan.
+
+57
+00:12:16,395 --> 00:12:27,759
+I, 1). Lingua Dei mystice significat Spiritum sanctum,
+per quem Deus Pater secretum suum manifestavit
+hominibus; unde in psalmo: Lingua mea calamus
+scribentis (Ps.
+
+58
+00:12:27,759 --> 00:12:39,612
+XLIV, 2). Labia Dei mystice utriusque testamenti consonantia
+intelliguntur: de quibus duobus testamentis in
+Proverbiis scriptum est: In judicio non erravit os
+ejus (Prov.
+
+59
+00:12:39,612 --> 00:12:49,513
+XVI, 10). Brachia Dei Patris Filius ejus et Spiritus sanctus
+intelliguntur; sicut est illud in Isaia: Et brachia mea
+populos judicabunt (Isai.
+
+60
+00:12:49,513 --> 00:13:02,411
+LI, 5). Brachium Dei singulariter
+Filius accipitur: de quo Jeremias ad ipsum
+ait: Et nunc Dominus Deus qui eduxisti populum
+tuum de terra Aegypti in manu forti, in brachio extento
+(Jer.
+
+61
+00:13:02,411 --> 00:13:19,145
+XXXII, 21). Idcirco autem Filius Dei Patris
+brachium dicitur, quia creatura electa ab ipso
+continetur. Dextera Dei Patris unigenitus Filius accipitur; de
+quo in psalmo ex persona hominis assumpti: Dextera,
+inquit, Domini fecit virtutem (Ps.
+
+62
+00:13:19,145 --> 00:13:30,300
+CXVII, 16). Aliter vero Domini dextera gloriam signat Patris et
+aeternam beatitudinem; de quo in psalmo ex persona
+Patris ad Filium. Sede a dextris meis (Psalm.
+
+63
+00:13:30,300 --> 00:13:47,592
+CIX, 1). Dicitur autem et dextera Dei omnis electa
+creatura in coelo et in terra; sicut per sinistram ejus
+intelligitur reproba creatura, id est, daemones et
+impii omnes, qui ad laevam positi aeterna supplicia
+sustinebunt (Matth. XXV, 33).
+
+64
+00:13:47,592 --> 00:13:58,494
+Manus Dei Patris Filius ejus accipitur, pro eo
+quod per ipsum facta sunt omnia: sicut est illud in
+Isaia. Omnia haec manus mea fecit, et facta sunt omnia
+(Isai. LXVI, 2).
+
+65
+00:13:58,494 --> 00:14:09,589
+Aliter vero manus Dei ejus potestas
+intelligitur de qua potestate in Jeremiae libro
+prophetae: Sicut lutum in manu figuli, sic vos in manu
+mea, domus Israel (Jer. XVIII, 6).
+
+66
+00:14:09,589 --> 00:14:23,250
+Item manus
+Domini flagellum accipitur; de cujus percussione in
+Sophonia propheta scriptum est: Extendam manum
+meam super Judam et super habitantes Israel, et disperdam
+de loco hoc reliquias Baal (Soph. I, 4), etc.
+
+67
+00:14:23,250 --> 00:14:39,539
+,
+pro qua Domini percussione beatus Job de semetipso
+ait: Manus Domini tetigit me (Job. XIX, 21). Digitus Dei singulariter Spiritus sanctus accipitur,
+a quo Spiritu sancto, lex duabus in tabulis lapideis
+in monte Sinai scripta narratur (Exod. XXXII. 16).
+
+68
+00:14:39,539 --> 00:14:49,288
+Ipse scripsit qui scribenda dictavit, id est Spiritus
+sanctus. De quo Dominus in Evangelio: Si ego, inquit,
+in digito Dei ejicio daemonia (Luc. XI, 20).
+
+69
+00:14:49,288 --> 00:15:02,114
+Sicut
+enim digitus cum manu vel brachio, manus vero
+vel brachium cum corpore unum sunt in natura, ita
+Pater, et Filius, et Spiritus sanctus tres quidem
+personae sunt, una autem substantia divinitatis.
+
+70
+00:15:02,114 --> 00:15:21,034
+Digiti Dei pluraliter sancti intelliguntur prophetae, per quos Spiritus sanctus libros legis ac prophetarum sua inspiratione describit; de quibus in psalmo scriptum est: Videbo coelos opera digitorum tuorum (Ps. VIII, 4): per coelos enim libros legis ac prophetarum, per digitos vero sanctos, ut
+
+71
+00:15:21,034 --> 00:15:24,368
+dictum est, prophetas, mystice insinuari certum est.
+
+72
+00:15:24,368 --> 00:15:41,428
+Imago Dei Patris invisibilis, unigenitus Filius ejus
+est: de quo Apostolus: Imago Dei invisibilis (Col. I,
+15). Aliter namque est imago Dei Patris in Filio
+suo, quem non aliunde, sed ex semetipso, hoc est,
+ex substantia sua per omnia sibi similem genuit et
+aequalem.
+
+73
+00:15:41,428 --> 00:15:50,856
+Aliter vero anima hominis, quam non
+ex se, id est, de sua substantia, sicut plerique haeretici
+opinati sunt, genuit, sed ex nihilo creavit.
+
+74
+00:15:50,856 --> 00:16:06,740
+Sicut
+aliter imago est cujuslibet regis in filio ejus
+quem ex semetipso sibi similem genuit, id est, homo
+hominem. Aliter vero in annullo ejus, sicut in cera
+imago ejus impressa, quae non est quod et ipsa:
+sicut filius qui naturaliter hoc est quod et pater.
+
+75
+00:16:06,740 --> 00:16:19,040
+Cor Dei Patris arcanum sapientiae ejus mystice
+innuit, ex quo Verbum, id est, Filium suum impassibiliter
+genuit sine initio; ipso dicente per prophetam:
+Eructavit cor meum verbum bonum (Ps. XLIV,
+2).
+
+76
+00:16:19,040 --> 00:16:32,267
+Alas habere dicitur Deus, pro eo quod more avis
+electos suos tamquam pullos sub se colligit et fovet,
+et ab insidiis diaboli et malorum hominum protegit. Unde propheta ait, Sub umbra alarum protege
+me (Ps. XVI, 8).
+
+77
+00:16:32,267 --> 00:16:48,338
+Scapulas habere dicitur Deus, quia infirma membra
+Ecclesiae, quasi in scapulis suis portat. De quo
+in psalmo: Scapulis suis obumbrabit tibi (Ps. XC, 4). Venter secreta origo substantiae ejus accipitur. Unde in psalmo: Ex utero ante lucem genui te (Ps. CIX, 3).
+
+78
+00:16:48,338 --> 00:17:06,262
+Aliter: Uterus ejus incomprehensibilia judicia ejus, quae rimari nequeunt, mystice insinuantur; de quo occulto judicio ejus in libro beati Job scriptum est: De cujus utero egressa est glacies, et gelu de coelo quis genuit (Job XXXVIII, 29)? Posteriora Filii Dei incarnatio accipitur; de qua
+
+79
+00:17:06,262 --> 00:17:15,657
+posteriori parte Filius in monte Sinai ad Mosen, per angelum loquens ait: Posteriora mea videbis, faciem autem meam videre non potes (Exod. XXXIII, 23).
+
+80
+00:17:15,657 --> 00:17:33,829
+Pedes Dei stabilimentum virtutis ejus, eo quod
+ubique praesens, et universa illi sunt subjecta; ipso
+dicente per Isaiam: Coelum mihi sedes est, terra autem
+scabellum pedum meorum (Isai. LXVI, 1). Aliter
+pedes Filii Dei incarnatio intelligitur, quae divinitati
+subjecta est tamquam capiti pedes.
+
+81
+00:17:33,829 --> 00:17:51,816
+Sicut per caput
+divinitas, ita per pedes humanitas ejus exprimitur:
+de qua humanitate in Exodo scriptum est: Videre
+Dominum Jesum: hic est Moses et Aaron, Nadab et
+Abiu, et septuaginta de senioribus sub pedibus quasi
+lapides sapphiri, et quasi coelum cum serenum est
+(Exod. XXIV, 10).
+
+82
+00:17:51,816 --> 00:18:11,209
+Sicut autem per lapidem sapphirum coelestes creaturas, vel sanctos angelos, ita per coelum serenum, sanctam Ecclesiam electorum ex hominibus assumptam signaliter demonstrare voluit, super quas duas creaturas homo assumptus Filius Dei in perpetuum regnat: de quo in psalmo, omnia, inquit, subjecisti
+
+83
+00:18:11,209 --> 00:18:13,292
+sub pedibus eorum (Ps. VIII, 8).
+
+84
+00:18:13,292 --> 00:18:26,307
+Aliter autem pedes Domini, id est, Jesu Christi
+significant sanctos praedicatores, de quibus in Deuteronomio
+scriptum est: Qui appropinquant pedibus
+ejus, accipient de doctrina ejus (Deut. XXXIII, 3).
+
+85
+00:18:26,307 --> 00:18:45,701
+Vestimentum Filii Dei aliquando caro ejus quae a divinitate assumpta est a divinis libris figuraliter accipitur, de quo indumento carnis Isaias vaticinans ait: Quis est iste, qui venit de Edom, tinctis vestibus de Bosra (Isai. LXIII, 1)? Rursus vestimentum ejusdem Domini sancta accipitur Ecclesia,
+
+86
+00:18:45,701 --> 00:18:53,901
+quae per fidem et dilectionem ei conjuncta est: de quo in psalmo scriptum est: Dominus regnavit, decorem induit (Ps. XCII, 1).
+
+87
+00:18:53,901 --> 00:19:01,450
+Et in alio psalmo ad ipsum Dominum: Confessionem
+et decorem induisti, amictus lumine sicut
+vestimento (Ps. CIII, 2).
+
+88
+00:19:01,450 --> 00:19:16,419
+Pallium Christi jam dicta Ecclesia intelligitur, de
+quo in libro Genesi scriptum est: Lavit in vino stolam
+suam (Gen. XLIX, 11), hoc est, in sanguine passionis
+carnem suam, et in sanguine uvae pallium
+suum, id est, Ecclesiam suam.
+
+89
+00:19:16,419 --> 00:19:35,422
+Calciamenta Domini Jesu Christi mystice signant
+incarnationem ejus, quam ex mortalitate humani
+generis assumere dignatus est. De qua incarnatione
+sua ipse per prophetam in psalmo ait: In Idumaeam
+extendam calceum meum (Ps. LIX, 10), id est, in
+plebem gentilium manifestabo incarnationem meam.
+
+90
+00:19:35,422 --> 00:19:53,188
+Gressus adventus Filii Dei in mundum, et regressio
+ejus ad Patrem: de quibus psalmus ait: Visi
+sunt gressus tui, Deus, gressus Dei mei, Regis mei
+qui est in sancto (Ps. LXVII, 25). De coelo venit in
+uterum Virginis, de utero vero nascendo positus in
+praesepio (Luc. II, 7).
+
+91
+00:19:53,188 --> 00:20:01,584
+Postquam omnia implevit, pro
+quibus a Patre missus venerat, appensus est in ligno
+crucis; de cruce autem depositus (Act.
+
+92
+00:20:01,584 --> 00:20:20,806
+XIII, 29),
+secundum corpus sepultus est, secundum vero animam
+ad inferna descendit; tertia autem die per potentiam
+suae divinitatis carnem suam de sepulcro
+suscitavit, et post diem resurrectionis suae quadragesimam
+videntibus Apostolis ascendit in coelum, et
+sedet ad dexteram Patris (Act. I, 9; Marc.
+
+93
+00:20:20,806 --> 00:20:37,027
+XVI, 19),
+id est, in gloria sua: sunt enim gressus Filii Dei,
+iste est descensus et ascensus ejus, qui frequenter
+in Scripturis sacris legitur. Ascendere dicitur Deus, cum Filius carnem ex
+nobis assumptam in coelum veluti captivam duxit captivitatem
+(Ps.
+
+94
+00:20:37,027 --> 00:20:49,927
+LXVII, 19), quia naturam humani generis,
+quae diabolo in mundo captivo retinebatur,
+assumens secum in coelum, ubi numquam antea fuerat,
+tamquam captivam deportavit. Abscondere Deus faciem legitur (Deut.
+
+95
+00:20:49,927 --> 00:21:08,447
+XXXII, 20),
+cum quibusdam eorum ex gentibus culpis, cognitionem
+suam abscondit, sicut in populo Judaeorum
+nunc impletum esse videmus, quia negantes Filium
+Dei, scientiam veri Dei ita perdiderunt, ut similes
+forent gentibus, quae Dominum non noverunt. Ostendere dicitur Deus faciem suam (Ps.
+
+96
+00:21:08,447 --> 00:21:27,350
+LXXIX, 4), cum respectu gratiae suae, quibus vult, scilicet electis suis seipsum in corda eorum occulta inspiratione insinuat, et ad diligendum se amorem suum infundit. Sedere dicitur non corporaliter humano more, sed potentialiter super omnem creaturam rationabiliter praesidere: ut est illud in
+
+97
+00:21:27,350 --> 00:21:32,778
+psalmo: Regnavit Dominus super omnes gentes, Deus sedet super sedem sanctam suam (Ps.
+
+98
+00:21:32,778 --> 00:21:36,290
+XLVI, 9). Sedere etiam Deus dicitur
+super Cherubin (Ps.
+
+99
+00:21:36,290 --> 00:21:55,449
+XCVIII, 1). qui interpretatur multitudo seu plenitudo scientiae, per quod significantur sancti angeli sive mentes spiritualium virorum, in quibus Deus invisibiliter praesidet et regnat. In illis enim sedet qui scientia ejus et dilectione pleni sunt. In Proverbiis quippe Salomonis scriptum est, Anima
+
+100
+00:21:55,449 --> 00:21:59,855
+ejus sedes sapientiae; sapientia vero Dei Patris Christus est (I Cor.
+
+101
+00:21:59,855 --> 00:22:03,432
+I, 24), qui in animis sanctorum
+dicitur sedere.
+
+102
+00:22:03,432 --> 00:22:20,500
+Descendere Deus in mundum dicitur quando aliquid novum quod antea non fuerat in creatura humana operatur, sicut Filius Dei descendisse narratur, quando veram carnem ex Maria virgine propter redemptionem nostram suscepit, et verus homo fieri dignatus est, non amittendo quod erat, sed assumendo quod
+
+103
+00:22:20,500 --> 00:22:21,015
+non erat.
+
+104
+00:22:21,015 --> 00:22:36,537
+De cujus descensione, id est,
+incarnatione in psalmo scriptum est: Et inclinavit
+coelos et descendit, et caligo sub pedibus ejus (Ps. XVII,
+10). Coelos inclinavit, qui ante adventum suum praenuntios
+angelos sive prophetas misit, quod ejus adventum
+hominibus annuntiarent.
+
+105
+00:22:36,537 --> 00:22:44,212
+Caligo sub pedibus
+ejus fuit, quia impii homines ob suam malitiam
+incarnationem ejus agnoscere non potuerunt, sed
+neque adhuc possunt.
+
+106
+00:22:44,212 --> 00:23:00,822
+Stare dicitur Deus cum nos infirmos, id est, suam
+creaturam ad poenitentiam et conversionem patienter
+sustinet, ut est illud in Habacuc propheta: Stetit
+et mensus est terram, et dissolvit (Habac. III, 6): id
+est, stetit ad superveniendum, et dissolvit credentes
+in se a vinculis peccatorum.
+
+107
+00:23:00,822 --> 00:23:17,432
+Transire dicitur Deus, cum de cordibus quorumdam
+hominum, in quibus ante per fidem credebatur,
+postea subrepente perfidia, vel quolibet delicto ab
+eis recedit, et ad alios transit, quemadmodum de
+Judaeis ad gentes, de haereticis ad catholicos, seu
+de quibuslibet irreligiosis ad religiosos.
+
+108
+00:23:17,432 --> 00:23:26,081
+Recedere dicitur Deus et ad alios transire, quod
+non localiter aut visibiliter, sed invisibiliter occultoque
+judicio ac justo facere aliquid consuevit.
+
+109
+00:23:26,081 --> 00:23:39,254
+Ambulare dicitur Deus, non de loco ad locum
+transeundo, quia impium est ita credere, sed ambulatio
+ejus in cordibus sanctorum delectatio, sicut
+scriptum est: Et inhabitabo in eis, et ambulabo, et ero
+illorum Deus (II Cor. VI, 16).
+
+110
+00:23:39,254 --> 00:23:55,463
+Vel certe ambulare
+Dei est in sanctis praedicatoribus suis de loco ad
+locum transire. Loqui Dei invisibiliter sine sono vocis vel quolibet
+strepitu occulte mentibus sanctorum voluntatem
+suam atque rectum intellectum inspirare, seu futura,
+sicut in sanctis prophetis revelare.
+
+111
+00:23:55,463 --> 00:24:12,215
+Quae locutio Dei,
+ut quidam volunt, tribus modis accipitur. Primo
+namque modo per subjectam creaturam, sicut ad
+Mosen in rubo apparuit (Exod. III, 2). Vel sicut ad
+Abraham (Gen. XVIII) atque Jacob (Gen. XXXII, 24),
+et caeteris sanctis, quibus in angelis apparere dignatus
+est.
+
+112
+00:24:12,215 --> 00:24:23,747
+Secundo vero modo in somnis, sicut Jacob
+(Gen. XXVIII, 12) et Zachariae prophetae (Zach. IV, 1)
+et Joseph sponso Mariae (Matt. I, 20), et sanctis aliis,
+quibus secretum suum revelare voluit.
+
+113
+00:24:23,747 --> 00:24:41,592
+Tertio autem
+modo neque per creaturam visibilem neque hominem,
+sed occulta tantum inspiratione invisibiliter
+corda suorum tangendo loquentes efficit, quemadmodum
+in libris prophetarum scriptum est, cum ipsi
+prophetae subito afflati spiritu divino exclamabant,
+haec dicit Dominus (Isai. VII, 7).
+
+114
+00:24:41,592 --> 00:24:51,910
+Videre Dei est acta bona approbare, sicut est illud
+in Genesi: Vidit Deus cuncta quae fecerat et erant
+valde bona (Gen. I, 31), id est, intelligentibus bona
+demonstravit.
+
+115
+00:24:51,910 --> 00:25:01,257
+Aliter, Videre Dei est mala hominum
+sciendo reprobare, sicut est illud in Isaia propheta,
+Et vidit Deus, et malum apparuit in oculis ejus (Isai. LIX, 15).
+
+116
+00:25:01,257 --> 00:25:14,367
+Item aliter videre Dei est, nos videntes
+facere, ut est illud in psalmo, Proba me, Deus, et
+scito cor meum (Ps. CXXXVIII, 23), et caetera: et vide
+si via iniquitatis in me est. Modus iste locutionis
+etiam in libro B.
+
+117
+00:25:14,367 --> 00:25:30,815
+Job similiter reperitur, ubi de
+sapientia Dei Patris per quam plurima insignia
+locutus est, de Patre adjecit, Tunc vidit illam et enarravit,
+et investigavit, et praeparavit (Job XX, 27); id
+est, videntes fecit, et praedicantes, et investigantes,
+atque aliis annuntiantes.
+
+118
+00:25:30,815 --> 00:25:41,255
+Cognoscere Dei, est cognoscentes facere, sicut ait
+ad Abraham, Nunc cognovi quod timeas Dominum
+(Gen. XXII, 12). Neque enim in tempore novit, qui
+omnia scit antequam fiant.
+
+119
+00:25:41,255 --> 00:25:51,816
+Sed cognoscere dicitur
+Deus cognoscentes facere; ut quod prius de se quales
+essent incogniti erant, per ejus interrogationem probatione
+sibimetipsi manifesti fierent.
+
+120
+00:25:51,816 --> 00:26:09,599
+Tale est illud
+in lege Moysi de populo Israelitico, Ut tentem, inquit,
+eos, utrum custodiant mandata mea, an non (Exod. XVI, 4). Nescire Dei, est quosdam reprobos reprobare,
+sicut est illud in Evangelio, Nescio vos unde sitis;
+recedite a me qui operaris iniquitatem (Luc. XIII, 27).
+
+121
+00:26:09,599 --> 00:26:22,589
+Zelare dicitur Deus, cum creaturam suam quam
+non vult perire, saepe castigat, corripit, atque flagellat,
+et flagellando ad se reducit. Vel zelare dicitur
+Deus, cum nullum peccatum impunitum vult relinquere.
+
+122
+00:26:22,589 --> 00:26:29,842
+Justus est enim, et ideo omnis injustitia exsecrabilis
+est illi, quam, ut dictum est, nullo modo impunitam
+patitur.
+
+123
+00:26:29,842 --> 00:26:48,571
+Irasci dicitur Deus, non animi motu, vel qualibet
+perturbatione, quae illi omnino accidere non potest:
+sed creaturae delinquenti, id est, hominibus impiis,
+et peccatoribus, justam dicitur inferre ultionem, hoc
+est, reddere illis quod merentur: et haec ultio divina,
+furor ejus dicitur (Ps. VI, 1).
+
+124
+00:26:48,571 --> 00:27:07,426
+Poenitere dicitur Deus, non quod more hominum pro transactis operibus scilicet poeniteat; qui enim novit antequam fiant, pro perpetratis actibus poenitere non potest, sed poenitentia Dei, statuta mutare, et quod prius aliter fuerat, in aliud mutare, id est, aut de bonis exigentibus culpis in malum,
+
+125
+00:27:07,426 --> 00:27:21,741
+sicut de Saul legitur poenituisse Dominum, quod constituisset eum regem (I Reg. XV, 12); vel sicut nunc videmus in populo Judaeorum actum, qui cum esset populus Dei, ob impietatem suam facti sunt synagoga Satanae (Apoc. II, 9).
+
+126
+00:27:21,741 --> 00:27:39,083
+De malo vero in bonum, sicut accidit
+in populo gentium, qui ante non populus Dei, nunc
+autem per Christi gratiam, populus Dei factus est
+(Rom. IX, 26). Hoc quippe modo occulto Dei judicio,
+Judas proditor de apostolatus gradu lapsus (Act. I, 18),
+inferni baratro demersus est.
+
+127
+00:27:39,083 --> 00:27:45,768
+Latro vero prius crimen
+rapacitatis operans, de cruce ad paradisum translatus
+est (Luc. XXIII, 43).
+
+128
+00:27:45,768 --> 00:28:04,098
+Hanc quoque mutationem
+de bono ad melius, ut dictum est; sive de bono ad
+malum, seu de malo ad bonum, quae occulto Dei
+judicio, ac justo, per severitatem justitiae suae, sive
+per misericordiam ejus fiat, poenitentiam Dei dicimus:
+quod expressius in libro Jeremiae scriptum est
+(Jer. XVIII, 8).
+
+129
+00:28:04,098 --> 00:28:16,736
+Non poenitere Dei, statuta nullo modo mutare, ut
+est illud in psalmo: Juravit Deus, et non poenituit eum;
+id est, Pater ad Filium: Tu es Sacerdos in aeternum,
+secundum ordinem Melchisedech (Ps. CIX, 4).
+
+130
+00:28:16,736 --> 00:28:31,125
+Sacerdos
+tamen Patris dictus est Filius Dei, non secundum
+divinitatem, sed secundum humanitatem, in qua se
+pro nobis per passionem et mortem suam, acceptabile
+sacrificium Deo Patri obtulit, ut ipse esset sacrificium,
+qui sacerdos.
+
+131
+00:28:31,125 --> 00:28:42,199
+Oblivisci Deus dicitur, cum quibusdam impiis et
+peccatoribus non miseretur. Quod utique non facit
+per crudelitatem quae in Deo non est, sed per occultum
+justumque judicium suum.
+
+132
+00:28:42,199 --> 00:29:00,780
+Indurare Deus dicitur quorumdam malorum corda, sicut de Pharaone rege Aegypti scriptum est (Exod. VII, 3); non quod omnipotens Deus per potentiam suam eorum corda induret, quod impium est ita credere, sed exigentibus eorum culpis, cum duritiam cordis qua ipsi omnia mala perpetrando invertunt, non
+
+133
+00:29:00,780 --> 00:29:04,721
+aufert: quasi illos induret, quos justo judicio indurari sinit.
+
+134
+00:29:04,721 --> 00:29:21,488
+Dormire Dei est, cum unigenitus Filius Patris in
+assumpta carne mori pro nobis dignatus est: cui
+mors recte dulcis praedictus est somnus, ipso dicente
+per Jeremiam prophetam, Ideo quasi de somno excitatus
+sum, et vidi, et somnus meus dulcis est mihi
+(Jerem. XXXI, 26).
+
+135
+00:29:21,488 --> 00:29:36,065
+Aliter dormire dicitur Deus, cum
+fides ejus inter prosperitates hujus mundi et inter
+quorumdam corda fidelium non vigilat, sed dormit. Hanc dormitionem ipse Jesus significavit, cum in
+mari inter fluctus maris dormivit (Marc. IV, 38).
+
+136
+00:29:36,065 --> 00:29:49,703
+Vel
+certe, dormire Dei, est anxiis tardius subvenire,
+sicut est illud in psalmo: Exsurge, quare obdormis,
+Domine (Ps. XLIII, 23), etc. Vigilare Dei, est in defensione electorum suorum
+se manifestum demonstrare.
+
+137
+00:29:49,703 --> 00:29:57,023
+CAPUT II. De his quae appellantur membra Domini, vel quae de
+eo significantur.
+
+138
+00:29:57,023 --> 00:30:19,064
+Oculi Domini intelliguntur inspectio divina. In psal. :
+Oculi Domini super justos (Ps. XXXIII, 16). Palpebrae
+Dei, sunt judicia ejus quae probant filios hominum;
+qui neque fatigantur rerum obscuritatibus, sed exercentur;
+neque inflantur cognitione, sed confirmantur.
+
+139
+00:30:19,064 --> 00:30:39,447
+Aures Domini, cum exaudire dignatur. In psal. :
+Et aures ejus in preces eorum (Ibid.). Os Domini, sermo ad homines. In propheta: Os
+Domini locutum est (Isai. I, 20). Verbum Domini, Filius. In psalmo: Eructavit cor
+meum verbum bonum (Ps. XLIV, 2).
+
+140
+00:30:39,447 --> 00:30:57,759
+Brachium Domini, vel manus, Filius, per quem
+omnia operatus est. In propheta: Et brachium Domini
+cui revelatum est (Isai. LIII, 1). Dextera Domini,
+idem quod supra in psalmo: Dextera Domini fecit
+virtutem (Ps. CXVII, 16).
+
+141
+00:30:57,759 --> 00:31:20,462
+Digitus Dei; dicitur Spiritus
+sanctus, propter partitionem bonorum quae ab eo
+dantur unicuique propria, sive hominum, sive angelorum. In nullis enim membris nostris sic apparet
+partitio quam in digitis. Nec te scandalizet membrorum
+diversitas, cum aedificet corporis unitas.
+
+142
+00:31:20,462 --> 00:31:45,403
+Uterus
+Domini, secretum, ex quo Filium protulit. In psalm. Ex utero ante luciferum genui te (Ps. CIX, 3). Pedes
+Domini, stabilitas aeternitatis. In psalmo: Et caligo
+sub pedibus ejus (Ps. XVII, 10). Vestigia Domini,
+operum secretorum signa. In psalmo: Et vestigia tua
+non cognoscentur (Ps. LXXVI, 20).
+
+143
+00:31:45,403 --> 00:32:04,046
+Gressus Domini,
+adventus, vel visitatio Domini. In psalmo: Visi sunt
+ingressus tui, Deus (Ps. LXVII, 25). Arma Domini, adjutorium ejus in sanctos. In psalmo:
+Apprehende arma et scutum (Ps. XXXIV, 2). Scutum,
+protectio Domini.
+
+144
+00:32:04,046 --> 00:32:26,170
+In psalmo: Domine, ut scuto
+bonae voluntatis tuae coronasti nos (Ps. V, 13). Framea,
+ultio divina in impios. In psalmo: Effunde frameam,
+et conclude (Ps. XXXIV, 3). Arcus, intentio comminationis
+divinae. In psalmo: Arcum suum tetendit, et
+paravit illum (Ps. VII, 13).
+
+145
+00:32:26,170 --> 00:32:35,615
+Sagittae, praecepta divina,
+apostoli, vel prophetae. In psalmo: Misit sagittas
+suas, et dissipavit eos (Ps.
+
+146
+00:32:35,615 --> 00:32:50,199
+XVII, 15). Item: Sagittae in
+manu potentis (Ps. CXXVI, 4; CXIX, 4). Gladius, vindicta,
+vel sermo Domini. In Apostolo: Vivus est enim
+sermo Dei, et efficax, et penetrabilior omni gladio ancipiti
+(Hebr.
+
+147
+00:32:50,199 --> 00:33:08,720
+IV, 12). Romphea, idem quod supra. Tuba
+Domini, vox manifesta Domini. In Apostolo: In
+jussu, et in voce archangeli, et tuba Dei (I Thess. IV, 15). Currus Dei, sedes Dei, vel quadriformitas Evangeliorum. In psalmo: Currus Dei decem millibus multiplex
+(Ps.
+
+148
+00:33:08,720 --> 00:33:29,721
+LXVII, 18). Virga Domini, regni significatio, vel
+correptio disciplinae. In psalmo: Virga aequitatis,
+virga regni tui (Ps. XLIV, 7). Manus Domini, minae,
+vel vindictae ejus. Baculus Domini, sustentatio consolationis
+Domini. In psalmo: Virga tua et baculus
+tuus ipsa me consolata sunt (Ps.
+
+149
+00:33:29,721 --> 00:33:44,231
+XXII, 4). Alias, baculus
+Domini, sanctam crucem, vel disciplinam
+sanctae Ecclesiae designat. Item baculus, sustentaculum
+est quodlibet, ut in libro Tobiae: Baculum senectutis
+nostrae (Tob. V, 23).
+
+150
+00:33:44,231 --> 00:33:49,440
+CAPUT III. De supernis creaturis.
+
+151
+00:33:49,440 --> 00:34:09,989
+Carbones, ignis charitatis, aut exemplorum, aut
+poenitentiae. In psalmo: Cum carbonibus desolatoriis
+(Ps. CXIX, 4). Fumus, initia compunctionis futurae,
+vel ipsius comminationis Dei. In psalmo: Ascendit
+fumus in ira ejus (Ps. XVII, 9). Item in aliam partem,
+sicut fumus oculis noxius, id est vanitas.
+
+152
+00:34:09,989 --> 00:34:30,332
+Ignis, Spiritus
+sanctus. In Actibus Apostolorum: Et apparuerunt
+illis dispertitae linguae, tamquam ignis, seditque
+supra singulos eorum, et repleti sunt omnes Spiritu
+sancto (Act. II, 3). Coelum, apostoli, sive sancti, ideo
+quod Dominus inhabitet in eis. Coeli enarrant gloriam
+Dei (Ps. XVIII, 2).
+
+153
+00:34:30,332 --> 00:34:50,676
+Coeli in sancta Scriptura designant aliquando superiora mundi corpora, ignota nobis quibus modis distincta sint, et de queis satis difficile est disputare, sed non impossibile, cui dat Deus intelligere; ut dedit Apostolo, rapto usque ad tertium coelum (II Cor. XII, 2); exceptis illis materialibus
+
+154
+00:34:50,676 --> 00:34:51,155
+coelis.
+
+155
+00:34:51,155 --> 00:35:09,033
+Dicuntur coeli sancti apostoli, praedicatores
+verbi veritatis; per quos coelos tamquam pluvia
+irrigati sumus, ut per totum mundum seges Ecclesiae
+pullularet. Sunt etiam coeli omnes animae sanctae
+et justae, in quibus Deus habitat in templo fidei et
+operationis.
+
+156
+00:35:09,033 --> 00:35:29,034
+Item coelum, sancta Scriptura; de qua nobis et sol sapientiae, et luna scientiae, et ex antiquis patribus stellae exemplorum et virtutum lucent: quod coelum sicut pellis extenditur (Ps. CIII, 2), quia per scriptores suos carnis lingua formatum ante oculos nostros per verba doctorum exponendo
+
+157
+00:35:29,034 --> 00:35:29,788
+disputatur.
+
+158
+00:35:29,788 --> 00:35:50,063
+Nubes, prophetae, sive sancti, qui pluant verbum
+Domini. In Isaia: Mandabo nubibus desuper ne pluant
+(Isai. V, 6). Nubes etiam in malam partem, tempora
+iniquorum significat: ut, Velut nubes pertransivit
+salus mea (Job. XXX, 15). Tonitrua, voces Evangelii:
+eo quod de coelo ex dictis Dei intonent.
+
+159
+00:35:50,063 --> 00:36:02,255
+In
+Psalmo, Vox tonitrui tui in rota (Ps. LXXVI, 19);
+hoc est, in toto. Coruscationes, splendores Evangelii. In psalm. : Illuxerunt coruscationes tuae orbi terrae
+(Ibid.).
+
+160
+00:36:02,255 --> 00:36:18,589
+Fulgura, virtutes, vel verba Jesu Christi. In psalm. : Et fulgura multiplicavit, et conturbavit eos:
+id est, inimicos, vel Judaeos. Angelorum nomine in sancta Scriptura Dominus
+designatur, ut Isaias testatur: Et vocabitur nomen
+ejus magni consilii angelus.
+
+161
+00:36:18,589 --> 00:36:29,371
+Aliquando ipse angelicus
+chorus: ut Petro Christus, An putas quia non
+possum rogare Patrem meum, et exhibebit mihi plusquam
+duodecim legiones angelorum (Matt. XXVI, 53).
+
+162
+00:36:29,371 --> 00:36:41,366
+Aliquando cives coelestis Jerusalem ex hominibus
+assumpti, ut Dominus in Evangelio, In resurrectione
+enim neque nubent, neque nubentur, sed sunt sicut angeli
+Dei in coelo (Matt. XXII, 30).
+
+163
+00:36:41,366 --> 00:36:58,911
+Aliquando fidelium
+populus, ut est illud, Statuit terminos gentium, secundum
+numerum filiorum Israel (Deut. XXXII, 8), vel
+angelorum Dei. Hoc nomine quilibet etiam justus
+designatur, ut de Joanne Baptista Dominus, Ecce ego
+mitto angelum meum ante faciem tuam (Matth. XI, 10).
+
+164
+00:36:58,911 --> 00:37:10,396
+Aliquando praedicatores, vel sacerdotes, ut scriptum
+est, Labia sacerdotis custodiunt scientiam, et legem
+requirunt ex ore ejus, quia angelus Domini exercituum
+est (Malach. II, 7).
+
+165
+00:37:10,396 --> 00:37:22,582
+Et Apostolus: Mulier debet velare
+caput in ecclesia, propter angelos (I Cor. XI, 10); id
+est episcopos; et unusquisque fidelis, quod bona annuntiat,
+angeli nomen sibi vindicat, si bene vivat.
+
+166
+00:37:22,582 --> 00:37:41,148
+Ad ultimum, diabolus et coapostatae ejus angeli mali
+nuncupantur; quo licet angelicam dignitatem amiserint,
+subtilitatem tamen angelicae naturae non amiserunt;
+per quos Angelos malos, immissiones (Ps. LXXVII,
+49) adversitatum vel aegritudinum, permissione Dei
+fiunt, quando, et ubi voluerit.
+
+167
+00:37:41,148 --> 00:37:53,972
+Throni, angeli, vel
+sancti, vel ipsa regnandi potestas. In psalmo, Thronus
+tuus Deus in saeculum saeculi (Ps. XLIV, 7). Item in
+aliam partem de diabolo: Ponam thronum meum ad
+aquilonem (Isai. XIV, 13).
+
+168
+00:37:53,972 --> 00:38:08,327
+Sedes, idem quod supra,
+angeli vel sancti, eo quod in his Dominus sedeat, et
+per eos sua judicia decernat. In psalmo, Deus sedet
+super sedem sanctam suam (Ps. XLVI, 9). Sol, Dominus
+Jesus Christus, qui fulgeat terris.
+
+169
+00:38:08,327 --> 00:38:27,606
+In Salomone quod
+dicturi sunt reprobi in fine: Ergo sol justitiae non
+luxit nobis (Sap. V, 6). Alias persecutio, ut illud,
+Orto sole aruerunt (Matth. III, 6). Luna Ecclesia, eo
+quod in hac mundi nocte resplendeat. In psalmo:
+Fecit lunam in tempore (Ps. CIII, 19).
+
+170
+00:38:27,606 --> 00:38:49,597
+Pro defectu
+etiam nostrae carnis ponitur, quia dum menstruis
+momentis decrescit, defectum nostrae mortalitatis
+designat. Stellae, sancti, sive docti, vel qui ad justitiam
+erudiunt. In Daniele: Docti tamquam stellae fulgebunt
+(Dan. XII, 3). Nebulae, velamentum mysteriorum
+Dei; interdum et angeli Dei.
+
+171
+00:38:49,597 --> 00:39:09,462
+In propheta: Et
+nebulae pulvis pedum ejus (Nahum. I, 3). Alias abolitio
+peccatorum, ut Isaias, Delevi ut nubem iniquitatem
+tuam, et quasi nebulam peccata tua (Isai. XLIV, 22). Caligo, divinorum secretorum operimentum. In psal. :
+Et caligo sub pedibus ejus (Ps. XVII, 10).
+
+172
+00:39:09,462 --> 00:39:26,028
+Abyssus
+profunditas Scripturarum. In psalm. : Abyssus abyssum
+invocat (Ps. XLI, 8). Item abyssus nomine profunditas
+veteris et novi Testamenti intelligitur; unde. Abyssus
+abyssum invocat; dum vetus Testamentum novum
+annuntiat.
+
+173
+00:39:26,028 --> 00:39:47,579
+Sive abyssus est mens humana, quae semetipsam non potest comprehendere; unde propheta, Dedit abyssus vocem suam ab altitudine (Habac. III, 10) phantasiae suae: quia dum semetipsam mens humana non penetrat, ex comparatione sui, divinae naturae potentiam quam comprehendere non sufficit, humilius
+
+174
+00:39:47,579 --> 00:39:48,092
+laudat.
+
+175
+00:39:48,092 --> 00:40:03,999
+Vel certe, abyssus judicia Dei sunt;
+et abyssus abyssum invocat (Ps. XXXV, 7; XLI. 8),
+quando occulto Dei judicio de praesentibus malis
+transit peccator ad aeterna mala, et de ardore cupiditatum
+in flammas gehennarum.
+
+176
+00:40:03,999 --> 00:40:25,697
+Ros, verbum Domini;
+ideo quod madefaciat hominum corda, ut,
+Rorate, coeli, desuper (Isai. XLV, 8). Et in psalm. :
+Sicut ros Hermon, qui descendit in montem Sion (Ps. CXXXII, 3). Pluvia praecepta vel mandata Domini;
+vel verba sanctorum apostolorum; eo quod terram,
+id est homines irriget. In psal.
+
+177
+00:40:25,697 --> 00:40:31,487
+: Pluviam voluntariam
+segregabit Deus haereditati tuae (Ps. LXVII, 10).
+
+178
+00:40:31,487 --> 00:40:54,895
+Nives,
+pro candore justitiae, et pro baptismo. In psalm. :
+Lavabis me, et super nivem dealbabor (Ps. L, 9). Grando, comminationes Domini, quibus contumaces
+everberat. In psalm. : Grando et carbones ignis (Ps. XVII, 13). Item in aliam partem: Et occidit in grandine
+vineas eorum (Ps. LXXVII, 46).
+
+179
+00:40:54,895 --> 00:41:15,207
+In frigore vero
+nivis, et in duritia grandinis vita accipitur pravorum,
+quae et torpore frigescit, et per duritiae malitiam
+perit. Pruina, abstinentia, eo quod per hanc frigescat
+calor corporis. In psalm. : Factus sum sicut uter in
+pruina (Ps. CXVIII, 83).
+
+180
+00:41:15,207 --> 00:41:37,742
+Tempestas, persecutionum
+vel tribulationum impetus. In psalm. : Qui salvum
+me fecit a pusillanimitate spiritus et tempestate (Ps. LIV, 9). Glacies, durities peccatorum. In Salomone:
+Sicut in sereno glacies, ita solventur peccata tua (Eccl. III, 17). Venti, animae sanctorum. In psalm.
+
+181
+00:41:37,742 --> 00:42:01,307
+: Volavit
+super pinnas ventorum (Ps. XVII, 11). Item in malam
+partem. In Matthaeo: Flaverunt venti (Matt. VII, 2). Aquilo, diabolus, vel homines infideles, aut mali, vel
+frigus peccatorum. In propheta: Ab aquilone exardescent
+mala super terram. Et alibi: Ab aquilone
+pandetur malum (Jerem. I, 14).
+
+182
+00:42:01,307 --> 00:42:24,000
+Et alibi: Surge, aquilo
+(Cant. IV, 16); id est, recede. Dexter, idem quod
+supra. In Salomone: Aquilo durus ventus (Prov. XXV,
+23). Nomine autem dexter vocatur, eo quod diabolus
+nomen sibi dextri praesumat, tamquam boni; sive
+quod occidentem, id est peccatum, respicientibus
+dexter fiat.
+
+183
+00:42:24,000 --> 00:42:41,853
+Auster, calor fidei. In psal. : Sicut torrens
+in austro (Ps. CXXV, 4). Est et Spiritus sanctus, ut
+ibi, Surge, aquilo, et veni auster (Cant. IV, 6): id est,
+Recede, diabole, et veni, spiritus alme. Aer, inanitatis
+enuntiatio.
+
+184
+00:42:41,853 --> 00:43:02,642
+In Apostolo: Sic pugno, non quasi
+aerem verberans (I Cor. IX, 26); id est, non inania
+consectans. Tempora, opportuna distributio voluntatis divinae. In Psalmo: Fecit lunam in tempora (Ps. CIII, 19). Ver vitae renovatio, vel per baptismum, vel per resurrectionem.
+
+185
+00:43:02,642 --> 00:43:07,799
+In psalmo: Aestatem et ver tu fecisti
+ea (Ps. LXXIII, 17).
+
+186
+00:43:07,799 --> 00:43:27,073
+Aestas venturae jucunditatis praefiguratio. In psalmo, ut supra. Hiems, praesens vita,
+persecutio, vel tribulatio. In Evangelio: Ut non fiat
+vestra fuga hieme, vel sabbato (Matt. XXIV, 20). Anni,
+aliquando pro aeternitate accipiuntur, ut ibi: Et anni
+tui non deficient (Ps. CI, 28).
+
+187
+00:43:27,073 --> 00:43:34,113
+Interdum et pro brevitate
+hujus vitae, ut hic: Anni nostri tamquam aranea
+meditabuntur (Ps. LXXXIX, 3).
+
+188
+00:43:34,113 --> 00:43:54,139
+Mensium nomine qui
+diebus coadunantur, collectiones animarum designantur,
+vel perfectio sanctorum, ut ibi: Erit mensis
+ex mense (Isai. LXVI, 23): videlicet eis in requie,
+quibus nunc perfectio fuerit in operatione. Dies et
+nox, justitia et iniquitas, fides et infidelitas, prospera
+et adversa.
+
+189
+00:43:54,139 --> 00:44:13,754
+In psal. : In die mandavit Dominus
+misericordiam suam, et in nocte declaravit (Ps. XLI, 9). Dierum nomine intelligitur etiam illuminatio divinae
+gratiae per diversa dona virtutum. Item dies designat
+angelum apostatam: dum Job ita loquitur: Maledicant
+ei qui maledicunt diei (Job III, 8).
+
+190
+00:44:13,754 --> 00:44:32,140
+Noctis autem
+nomine, vel error ignorantiae caecitas, vel etiam
+mortis acerbitas accipitur. Lumen et tenebrae, ita
+maxime accipiuntur ut dies et nox. In ep. Joan. :
+Qui diligit fratrem suum, in lumine manet: qui autem
+odit fratrem suum, in tenebris est (I Joan. II, 10).
+
+191
+00:44:32,140 --> 00:44:46,971
+Per
+lumen etiam intentio cordis declaratur. Umbra, protectio
+divina. In ps. : Sub umbra alarum tuarum protege
+me (Ps. XVI, 8). Alias oblivio, vel peccata, ut
+ibi: Sedentes in tenebris et in umbra mortis (Ps. CVI,
+10).
+
+192
+00:44:46,971 --> 00:45:04,194
+Umbra est aliquando delectatio peccatorum, ut
+in Job: Sub umbra dormit in secreto (Job XL, 16). Rursus umbra oblivionem mentis, vel mortem carnis,
+vel imitationem diaboli significat. Lucis nomine,
+Dominus, vel quilibet justus intelligitur, ut in
+Evang.
+
+193
+00:45:04,194 --> 00:45:19,367
+: Erat lux vera quae illuminat omnem hominem
+venientem in hunc mundum (Joan. I, 9). Et Apostolus:
+Fuistis aliquando tenebrae, nunc autem lux in
+Domino (Eph. V, 8). Ponitur etiam pro illuminatione
+fidei, et pro vita.
+
+194
+00:45:19,367 --> 00:45:37,228
+Hora, quingenti (ut putant quidam)
+anni: si quando dies pro toto mundi istius saeculo
+accipitur: in Epistola Jo. : Filioli mei, novissima hora
+est (I Joan. II, 18). Oriens, quia ab illa parte lux
+oritur, Salvator: maxime in Luca: Visitavit nos
+Oriens ex alto. Et in Zach.
+
+195
+00:45:37,228 --> 00:45:56,868
+: Ecce vir Oriens nomen
+ejus (Luc. I, 78). Occidens, vitae melioris defectus. In propheta: Occidet vobis sol in meridie (Zach. VI,
+12). Aquilonaris pars semper in adverso ponitur,
+ut proph. de diabolo: Ponam sedem meam ad Aquilonem
+(Amos VIII, 9); et alibi: Ab Aquilone pandetur
+malum (Jer. I, 14).
+
+196
+00:45:56,868 --> 00:46:16,046
+Mane, lux actuum bonorum, vel
+baptismum, vel resurrectio Dominica. In psal. : Mane
+astabo tibi, et videbo (Ps. V, 5); et alibi: A custodia
+matutina usque ad noctem speret Israel in Domino
+(Ps. CXXIX, 6), id est a resurrectione Domini spes
+nostra, usque in finem saeculi, id est diem judicii.
+
+197
+00:46:16,046 --> 00:46:35,489
+Per mane etiam vel matutinum, praesentis vitae prosperitas significatur, ut illud: Vae tibi, terra, cujus rex juvenis est, et cujus principes mane comedunt (Eccl. X, 16); mane autem comedunt, qui de hujus mundi prosperitatibus extolluntur, dum in extremo ejus deberent praestolari, frui aeternis
+
+198
+00:46:35,489 --> 00:46:36,411
+felicitatibus.
+
+199
+00:46:36,411 --> 00:46:51,636
+Meridies, plana doctrinarum factorumque claritas. In Salom. : Ubi cubas in meridie (Cant. I, 6). Et in
+malam partem in psal. : A daemonio meridiano (Ps. XC, 6), id est manifesto. Vespere, finis vitae, vel
+saeculi, vel poena; in ps.
+
+200
+00:46:51,636 --> 00:47:05,476
+: Ad vesperum demorabitur
+fletus, et ad matutinum laetitiae (Ps. XXIX, 6). Aurorae
+nomine mens justorum accipitur, quae peccati sui
+tenebras relinquens, ad lucem erupit, sole justitiae
+illuminata (Cant. VI, 9).
+
+201
+00:47:05,476 --> 00:47:17,734
+Arcturi nomine, qui in coeli
+axe constitutus VII stellarum radiis fulget, Ecclesiae
+universalis exprimitur, quae in Apoc. Jo. per VII
+Eccles. et VII candelabra figuratur (Apocal. I, 20).
+
+202
+00:47:17,734 --> 00:47:29,400
+Oriones in pondere hiemis orientes, sanctos designant
+martyres, quod pondus persequentium et hanc
+vitam amantium pertulerunt, et ad coeli faciem quasi
+in hieme venerunt.
+
+203
+00:47:29,400 --> 00:47:45,192
+Hyades a Graeca littera υ nuncupatae,
+a cujus forma non discrepant visione, et
+ortae pluvias afferunt: sanctos praedicatores, quod
+verbis pluunt et corda hominum salubriter irrigant,
+significant: ὑετὸς namque Graece, imber Latine dicitur.
+
+204
+00:47:45,192 --> 00:47:49,847
+CAPUT IV. De Terrenis.
+
+205
+00:47:49,847 --> 00:48:09,308
+Terra, homo ipse. In Evang. : Aliud cecidit in terram
+bonam (Marc. IV, 8). Item: Terra es, et in terram
+ibis (Gen. III, 19). Item in malam partem, de peccatore:
+Terram edes omnibus diebus vitae tuae (Gen. III,
+14).
+
+206
+00:48:09,308 --> 00:48:36,589
+Aliter, terra intelliguntur qui terrenis actibus
+occupati, per eleemosynas et lacrymas ad vitam
+aeternam perveniunt: unde psal. : Advocavit coelum desursum,
+et terram discernere populum suum (Ps. XLIX, 4). Arida, infructuosi homines: in Salo: Cooperire aridam
+malitia et dolositate (Eccl. XXXVII, 3).
+
+207
+00:48:36,589 --> 00:49:01,051
+Pulvis,
+peccatores, vel carnis vanitas: in psalm. : Sicut pulvis
+quem projicit ventus (Ps. I, 4). Lutum, peccatorum
+glutinum: in ps. : Eripe me de luto ut non infigar
+(Ps. LXVIII, 15). Item in aliam partem. In Joan. : Lutum
+fecit, et linivit oculos meos (Joan. IX, 11).
+
+208
+00:49:01,051 --> 00:49:21,602
+Montes
+Dominus, Ecclesia, apostoli, sive sancti, a celsitudine
+virtutum: in ps. : Qui descendit super montem Sion
+(Ps. CXXXII, 3). Item propheta: Erit mons domus Domini
+super verticem montium (Isa. II, 2). Item in
+aliam proph.
+
+209
+00:49:21,602 --> 00:49:45,609
+: Ne quando offendant pedes vestri ad
+montes caliginosos (Jer. XIII, 16), id est, haereticos. Colles, sancti, sed minoris meriti: in psal. : Montes
+et omnes colles (Ps. CXLVIII, 9). Item in aliam partem:
+in Evang. : Omnis mons et collis humiliabitur (Luc. III,
+5).
+
+210
+00:49:45,609 --> 00:50:12,981
+Valles, contritiones cordis humilis: in psalm. :
+Et convalles abundabunt frumento (Ps. LXIV, 14). Item
+in aliam partem: in proph. : Vallem filiorum Ennon
+(Jer. XIX, 2). Petra, Christus, a firmitate: in
+apostolo: Petra autem erat Christus (I Cor. X, 4). Lapides, interdum Christus, aut sancti: in psal.
+
+211
+00:50:12,981 --> 00:50:32,805
+:
+Lapis quem reprobaverunt aedificantes (Ps. CXVII, 22). Item: Abscissus est de monte lapis sine manibus et implevit
+universam terram (Dan. II, 35). Item: Et vos
+tamquam lapides vivi superaedificamini (II Petr. II, 5).
+
+212
+00:50:32,805 --> 00:50:45,264
+Item in aliam partem, de insipientibus et duro corde:
+Potens est Deus de lapidibus istis suscitare filios Abrahae
+(Matth. III, 9).
+
+213
+00:50:45,264 --> 00:51:06,190
+Et alibi: Auferam cor lapideum
+de carne vestra (Ezech. XXXVI, 26). Ager, hic mundus:
+in Evangel. : Ager est hic mundus (Matt. XIII, 38). Alias ager est disciplina coelestis studii, in quo thesaurus
+absconditur (Ibid., 44), id est coeleste desiderium.
+
+214
+00:51:06,190 --> 00:51:30,045
+Campi, sancti, sive Scripturae divinae: eo quod
+pastum animarum praebeant: in psalm. : Et campi
+tui replebuntur ubertate (Ps. LXIV, 12). Item in malam
+partem: In campo Taneos (Ps. LXXVII, 43). Item
+campi propter aequalitatem dicuntur populi justi. Pascua, refectio Spiritalis: in psal.
+
+215
+00:51:30,045 --> 00:51:54,906
+: In loco pascuae
+ibi me collocavit (Ps. XXII, 2). Cultura, sancti qui excoluntur
+a Deo: in Apostolo: Dei cultura estis
+(I Cor. III, 8). Agricola, Deus: in Evang. : Ego sum
+vitis vera, et Pater meus agricola est (Joan. XV, 1). Sulci, corda sanctorum: in ps. : Sulcos ejus inebrians
+(Ps. LXIV, 11).
+
+216
+00:51:54,906 --> 00:52:06,457
+Semen divina praedicatio: in Evang. :
+Exiit qui seminat seminare semen suum (Luc. VIII, 5). Messis, ubertas, vel copia fidelium: in Evang.
+
+217
+00:52:06,457 --> 00:52:26,881
+: Levate
+oculos vestros, et videte regiones, quia albae sunt
+ad messem (Joan. IV, 35); et aliter: Messis consummatio
+saeculi, sicut messores angeli (Matth. XIII, 39). Manipuli, fructus justitiae: in ps. : Portantes manipulos
+suos (Ps. CXXV, 6).
+
+218
+00:52:26,881 --> 00:52:51,323
+Stipula, aridi ad fidem, vel inanes:
+in Apostolo: Ligna, fenum, stipulam (I Cor. III,
+13); et in proph. : Hei mei, quia factus sum, sicut qui
+colligit stipulam in messe (Mich. VII, 1): hoc est,
+nullos boni operis fructus inveni. Et alibi: Stipula
+collecta synagoga peccantium (Eccl. XXI, 10).
+
+219
+00:52:51,323 --> 00:53:16,016
+Area,
+Ecclesia: in Evang. : Et permundabit aream suam
+(Matth. III, 12). Ventilabrum, examen justitiae Dei:
+in Evang. : Cujus ventilabrum, in manu sua (Ibid.). Triticum, Dei verbum, sancti vel electi Dei: in
+Evang. : Congregabit triticum suum in horreum (Ibid.). Hordeum, legis littera: in Evang.
+
+220
+00:53:16,016 --> 00:53:31,920
+: Est puer unus hic,
+qui habet V panes hordeaceos (Joan. III, 10), id est
+litteram, V libros Moysi. Palea, peccatores: in Evangel. :
+Paleas autem comburet igni inexstinguibili
+(Matth.
+
+221
+00:53:31,920 --> 00:53:52,680
+III, 10); et Hier. : Quid paleas ad triticum,
+dicit Dominus (Jer. XXIII, 28). Zizania, scandala, vel
+male viventes: in Evang. : Venit inimicus, et superseminavit
+zizania in medio tritici (Matth. XIII, 25). Vinea, Ecclesia. vel populus Israel: in ps. : Vineam
+de Aegypto transtulisti (Ps.
+
+222
+00:53:52,680 --> 00:54:03,025
+LXXXIX, 9). Item in malam
+partem: Ex vinea enim Sodomorum vitis eorum
+(Deut. XXXII, 52). Vitis, Christus: in Evang. : Ego
+sum vitis vera (Joan.
+
+223
+00:54:03,025 --> 00:54:22,773
+XV, 1). Item in aliam partem:
+in Cantico Deuteron., hoc quod supra. Palmites,
+apostoli, vel sancti: in Evang. : Ego sum vitis vera,
+vos palmites. Et in malam partem: ubi supra: Et
+palmes eorum ex Gomorrha. Uvae; fructus justitiae:
+in Esa. : Exspectavi ut faceret uvam (Isa.
+
+224
+00:54:22,773 --> 00:54:35,649
+V, 4). Item
+in malam partem: ubi supra: Uva eorum, uva fellis
+(Deut. XXXII, 32). Botrus, Ecclesia, sive corpus Domini. In Num. : Eo quod botrum inde portassent filii
+Israel (Num.
+
+225
+00:54:35,649 --> 00:54:52,431
+XIII, 24). Vindemia, consummatio saeculi,
+vel vindicta in populum: in psalm. : Vindemiant
+eam omnes qui transgrediuntur viam (Ps. LXXIX,
+13); et Joel. : Mittite falces, et vindemiate vineam
+terrae, quia maturae sunt uvae ejus (Joel.
+
+226
+00:54:52,431 --> 00:55:12,179
+III, 13). Torcular, altare, ab eo quod ibi oblationes tamquam
+fructus conferantur: ut in Isaia, Et torcular fodi in
+ea (Isai. V, 2). Et aliter, torcular, tribulationum
+pressura in Ecclesia sancta, in qua fideles probantur. In titulo psalmi. In finem pro torcularibus
+(Psal.
+
+227
+00:55:12,179 --> 00:55:33,663
+VIII, 1). Fenum, populus, caro, vel vana gloria. In Esa. : Omnis caro fenum, et omnis gloria ejus
+sicut flos feni (Isai. XL, 6). Herba, jucunditas, vel
+quaedam rudimenta proficientis animae. In Gen.:
+Producat terra herbam virentem (Gen. I, 11). Item in
+malam partem: Mane sicut herba transeat (Ps.
+
+228
+00:55:33,663 --> 00:55:51,965
+LXXXIX, 6). Flores Christus, vel specimen justitiae
+aut inchoatio bene operantium: ut in Cantico canticorum
+sponsus: Fulcite me floribus (Cant. II, 1). Lilium
+Christus, vel angeli candore justitiae. In Salom. :
+Ego flos campi et lilium convallium (Ibid.
+
+229
+00:55:51,965 --> 00:55:56,016
+). Rosae,
+martyres, a rubore sanguinis: in Salom.
+
+230
+00:55:56,016 --> 00:56:15,059
+: Sicut rosa
+germinat super humida fluenta. Violae confessores,
+ob similitudinem lividorum corporum. In Cantico
+cant. : Flores in terra visi sunt (Cant. II, 12). Silvae,
+gentes. In psal. : Invenimus eam in campis sylvae
+(Ps. CXXXI, 6).
+
+231
+00:56:15,059 --> 00:56:36,776
+De his silvis egressi sunt duo ursi,
+Vespasianus scilicet, et Titus, reges Romanorum, ad
+praeceptum figurati Helisaei, et post XLII annos ascensionis
+ejus ad coelos Judaicos pueros comederunt
+(IV Reg. II, 24). Condensa, opaca, vel contecta Scripturae
+divinae. In psal.
+
+232
+00:56:36,776 --> 00:56:54,523
+: Et revelavit condensa (Ps
+XXVIII, 9). Ligna, peccatores igni deputandi In Ecclesiaste:
+Qui scindit ligna, periclitabitur in eis
+(Eccl. X, 9). Item in bonam partem: Et erit tamquam
+lignum quod plantatum est (Ps. I, 3).
+
+233
+00:56:54,523 --> 00:57:14,538
+Alias ligni nomine
+sancta crux designatur: ut propheta: Mittamus
+lignum in pane ejus (Jer. XI, 19); id est, in carne
+Christum cruce suspendamus. Item: En colligo duo
+ligna (III Reg. XVII, 12). Item lignum significat justos
+ac peccatores: ut Salom.
+
+234
+00:57:14,538 --> 00:57:38,282
+: Si ceciderit lignum ad austrum aut ad aquilonem, ubicumque conciderit, ibi erit (Eccl. XI, 3): quia in die mortis, justus ad austrum cadit, peccator ad Aquilonem: qui justus per fervorem spiritus ad gaudium ducitur: peccator ad Aquilonem: qui justus per fervorem spiritus ad gaudium ducitur:
+
+235
+00:57:38,282 --> 00:57:42,900
+peccator cum apostata angelo in frigido corde reprobatur.
+
+236
+00:57:42,900 --> 00:57:58,540
+Radix, origo: in Apostolo:
+Quod si radix sancta et rami (Rom. XI, 6); et in malam
+partem, in psal. : Evellet radicem tuam de terra
+viventium (Ps. LI, 7). Arbor, homo, a fructu operum:
+in Evang.
+
+237
+00:57:58,540 --> 00:58:17,989
+: Aut facite arborem bonam, et fructum ejus
+bonum (Matth. XII, 33); et in malam partem: Aut
+facite arborem malam, et fructum ejus malum. Quidam
+in hoc testimonio, arborem hanc, voluntatem hominis
+magis quam ipsum hominem accipiendum putant.
+
+238
+00:58:17,989 --> 00:58:36,384
+Arbor etiam fuit Christus cum resurrexit, qui
+cum moreretur granum fuit. Ramus, successio: in
+Apostolo: Quod si radix sancta, et rami (Rom. XI, 6). Item in aliam partem: in Daniel. : Praecidite ramos
+ejus (Dan. IV, 11).
+
+239
+00:58:36,384 --> 00:58:47,080
+Item rami sunt sententiae sanctorum
+Patrum: in Evang. : Alii caedebant ramos de arboribus
+(Matt. XXI, 8). Folium, sermo doctrinae: in
+psal. : Et folium ejus non defluet (Ps. I, 3).
+
+240
+00:58:47,080 --> 00:59:03,302
+Et aliter,
+folium, vestitus et decor cum protectione divinae
+gratiae; et in malam partem: Non invenit in ea
+fructum propter folia (Matt. XXI, 19), id est, verba
+sine fructu: unde monet Apostolus, ut diligamus non
+verbo neque lingua, sed opere et veritate (I Joan. III, 18).
+
+241
+00:59:03,302 --> 00:59:18,276
+Comparatur etiam homo folio, qui ab arbore cecidit
+in paradiso. Poma, sanctorum in virtutibus fructus:
+in Cantico cant. : Et manducet fructum pomorum suorum
+(Cant. V, 1). Palma, perfectio vel victoria: in
+psal. : Justus ut palma florebit (Ps. XCI, 13).
+
+242
+00:59:18,276 --> 00:59:30,755
+Palma
+enim tarde proficit, sed diu in viriditate persistit:
+ita sancta Ecclesia cum multis difficultatibus ad fidei
+statum venit, et pro collectione plurimorum in ejusdem
+fidei gloria diutius stare concupiscit.
+
+243
+00:59:30,755 --> 00:59:41,392
+Palma
+inferius corticum suarum involutionibus angustatur,
+sed superius amplitudine pulchrae viriditatis expanditur:
+sic electorum vita inferius est despecta, sed
+superius pulchra.
+
+244
+00:59:41,392 --> 00:59:59,100
+Habet quiddam et aliud palma, quo a cunctis arborum generibus differt: omnis enim arbor quae in suo robore juxta terram vaste subsistit, crescendo superius angustatur; et quantum paulisper sublimior, tantum in altum redditur subtilior: palma vero ab imis inchoat, et juxta ramos ac fructus ampliori
+
+245
+00:59:59,100 --> 01:00:03,794
+robore exsurgit: et quae tenuis ab imis proficit, vastior ad summam succrescit.
+
+246
+01:00:03,794 --> 01:00:21,443
+Quibus itaque talia arbusta, nisi terrenis mentibus inveniuntur esse similia, inferius vasta, superius angusta: quia nimirum omnes hujus saeculi dilectiones, in terrenis rebus sunt fortes, in coelestibus debiles: pro temporali gloria usque ad mortem desudare appetunt, et pro spe perpetua ne parum
+
+247
+01:00:21,443 --> 01:00:30,772
+quidem in labore subsistunt: pro terrenis lucris quaslibet injurias tolerant, et pro coelesti mercede vel tenuissimas unius verbi contumelias ferre recusant.
+
+248
+01:00:31,248 --> 01:00:47,690
+Nam ut terreno
+judici totos dies assistant, fortes sunt: in oratione
+vero coram Domino, vel unius horae momento lassantur. Saepe nuditatem, vigilias, famem, pro acquirendis
+divitiis et honoribus tolerant, et multa se
+abstinentia cruciant.
+
+249
+01:00:47,690 --> 01:01:03,717
+At contra ex aequalitate palmarum
+designatur proficiens vita justorum, qui nequaquam
+in terrenis studiis sunt fortes, et in coelestibus
+debiles; sed longius atque distantius studiosos
+se Deo exhibent, quam saeculo fuisse meminerunt.
+
+250
+01:01:03,717 --> 01:01:22,439
+Scriptum est itaque recte, ut admonui: Justus
+ut palma florebit; et caetera. Cedri, excelsioris potentiae
+viri: In ps. : Ut cedrus Libani multiplicabitur
+(Ps. XCI, 15); et in malam partem, superbi, elati:
+ut in psal. : Et confringet Dominus cedros Libani
+(Ps. XXVIII, 5).
+
+251
+01:01:22,439 --> 01:01:40,954
+Olea, sanctus misericordiae abundans
+fructibus: in ps. : Ego autem sicut oliva fructifera in
+domo Domini (Ps. LI, 10). Oleaster, homo sine fructu,
+vel gentilis: in Apostolo: Si autem tu ex naturali
+excisus es oleastro (Rom. XI, 24). Ficus, synagoga
+interdum: in Evang.
+
+252
+01:01:40,954 --> 01:01:48,484
+: Et arefacta est continuo ficulnea
+(Matt. XXI, 19); et in Habacuc: Ficus non afferet
+fructum (Hab. III, 17).
+
+253
+01:01:48,484 --> 01:02:04,097
+Ficus et in bono et in malo
+accipitur: ut Esaias: Et ostendit mihi ficus bonas
+valde, et malas valde (Jer. XXIV, 3); et Dominus Nathanaeli:
+Cum esses sub ficu (id est, sub peccato
+originali), vidi te redempturus (Joan. I, 48).
+
+254
+01:02:04,097 --> 01:02:24,408
+Ficus etiam intelligitur humana natura, vel incredula synagoga; quae bene condita propria sponte est lapsa, et fructum praecepti Dei, vel bonae operationis non protulit: unde in ea fructum Dominus tribus annis exquisivit, nec invenit: quia eam sub tribus temporibus (Luc. XIII, 7), id est, ante
+
+255
+01:02:24,408 --> 01:02:28,553
+legem, sub lege, sub gratia admonendo, visitando requisivit.
+
+256
+01:02:28,553 --> 01:02:48,311
+Ante legem
+parcendo sustinuit; sub gratia, quia incarnationis
+suae praesentiam exhibendo monstravit; in lege, quia
+praecipiendo docuit: quibus tamen tribus temporibus
+infructuosa remansit, et a radicibus aruit. Sycomorus,
+ficus fatua dicitur: quam pusillus Zachaeus subiit
+(Luc.
+
+257
+01:02:48,311 --> 01:03:06,670
+XIX, 4), et Dominum vidit: quia qui mundi sapientiam humiliter eligunt, ipsi Dei sapientiam subtiliter aspiciunt. Prudenter sycomorum ascendimus, si provide eam quae divinitus praecipitur, laudabilem et sapientem fatuitatem tenemus. Quid enim in hoc mundo insipientius quam amissa non quaerere:
+
+258
+01:03:06,670 --> 01:03:25,278
+possessa largiri, rapientibus relaxare, nullam pro acceptis injuriis injuriam reddere: sed juxta praeceptum Dominicum, in omnibus patientiam praebere? Hyssopus, herba humilis, et lapidi in quo nascitur astricta, cujus radices saxum penetrare dicuntur: ipsa vero praecipue pulmones curat. In pulmone
+
+259
+01:03:25,278 --> 01:03:43,949
+notatur superbia: illic inflatio, illic anhelitus. In hyssopo igitur designatur humilitas et patientia. Rhamnus, urticae, cardui, sentes, paliuri, herbae aculeis refertae: significant immites, dolosos, superbos, et omnes improbos, quos nullus bonorum vel mansuetorum potest contingere, vel castigare
+
+260
+01:03:43,949 --> 01:03:52,317
+sine doloris compunctione. Item significant vitia, et tentationum inflictiones: ut in Genesi: Spinas et tribulos germinabit tibi (Gen.
+
+261
+01:03:52,317 --> 01:04:02,995
+III, 18). Malagranata, Ecclesia de
+multis gentibus sive diversas gratias habens: in Canticis
+canticorum: Emissiones tuae paradisus malagranatorum
+cum fructu pomorum (Cant.
+
+262
+01:04:02,995 --> 01:04:18,293
+IV, 3). Alias mala
+intelliguntur fructus bonae operationis cum bono
+odore, id est, gratia bonae famae, et morum fructibus. Arundo, peccator, vel fragilis in fide, vel in aliqua
+tentatione: in Evangelio: Arundinem quassatam non
+confringet (Matth.
+
+263
+01:04:18,293 --> 01:04:29,408
+XII, 20). Item arundo, infirmum
+auxilium: in Esaia: Quid confidis in baculo isto arundineo
+Aegyptio? cui si quis incubuerit, conquassabitur,
+et perforabit manum ejus . . . (Isai.
+
+264
+01:04:29,408 --> 01:04:47,704
+XXXVI, 6). Rubus, ut quidam opinantur, Mariae virginis praefiguratio: eo quod quasi de humani corporis rubo, Salvatorem tamquam rosam emiserit; aut quod vim divini fulgoris, sine viri assumptione pertulerit. In Exodo: Apparuitque ei Dominus in flamma ignis de medio rubi, et videbat quod rubus
+
+265
+01:04:47,704 --> 01:04:49,890
+arderet, et non combureretur (Exod.
+
+266
+01:04:49,890 --> 01:04:50,951
+III, 2).
+
+267
+01:04:50,951 --> 01:05:02,724
+Alias rubus ardens nec consumptus
+Judaicum populum signavit, quod et legis Dei
+flammam praecepit, et tamen peccati poenam nequaquam
+vitavit.
+
+268
+01:05:02,724 --> 01:05:22,316
+Spinae, interdum noxiae divitiarum
+curae, animum suffocantes, et hujus mundi sollicitudines:
+in Evangelio: Aliud cecidit in spinas (Luc. VIII, 6); et iterum: Qui a sollicitudinibus et divitiis et
+voluptatibus suffocantur (Ibid., 14).
+
+269
+01:05:22,316 --> 01:05:38,208
+Tribuli, aculei
+vitiorum vel tentationum: in Genesi: Spinas et tribulos
+germinabit tibi (Gen. XIII, 18). Fontes, baptismum:
+in psalmo: Sicut cervus desiderat ad fontes
+aquarum (Ps. XLI, 2).
+
+270
+01:05:38,208 --> 01:06:00,576
+Fons etiam est Christus, ut
+psalmo: Sitivit anima mea ad Deum fontem vivum
+(Ibid. ); et Esaias: In die illa erit fons patens
+domus David (Zach. XIII, 1), et caetera. Item in malam
+partem: ut Apostolus: Fontes sine aqua (II
+Petr. II, 17). Aquae, tentationes: in psal.
+
+271
+01:06:00,576 --> 01:06:23,784
+: Forsitan
+ut aqua absorbuisset nos (Ps. XXIII, 4). Item:
+Intraverunt aquae usque ad animam meam (Ps. LXVIII, 2). Item in bonam partem: in Jeremia:
+Me dereliquerunt fontem aquae vivae (Jerem. II, 13); et in
+Esaia: Qui sititis, ite ad aquam (Isai. LV, 1), id est,
+ad doctrinam.
+
+272
+01:06:23,784 --> 01:06:41,610
+Aquae nomine in Scriptura sancta
+aliquando Spiritus sanctus significatur. Sic enim
+Spiritus sancti infusio designatur: ut in Evangel. :
+Qui credit in me, flumina de ventre ejus fluent aquae
+vivae (Joan. VII, 38).
+
+273
+01:06:41,610 --> 01:07:04,902
+Item per aquam angelicus chorus
+exprimitur: ut in psalmo; Et aquae quae super
+coelos sunt laudent nomen Domini (Ps. CXLVIII, 4). Item
+scientia sacra: ut in libro Sapientiae: Aqua sapientiae
+potabit eos (Eccl. XV, 3). Et iterum: Aqua profunda
+verba ex ore viri (Prov. XVIII, 4).
+
+274
+01:07:04,902 --> 01:07:20,627
+Prava quoque scientia
+per aquam appellatur. Sicut per Salomonem,
+mulier quae typum haereseos tenet, callidis persuasionibus
+blanditur dicens; Aquae furtivae dulciores
+sunt (Prov. IX, 17).
+
+275
+01:07:20,627 --> 01:07:33,071
+Aqua etiam hujus mundi prosperitatem
+significat: ut in psalmo: Transivimus per
+ignem et aquam, et eduxisti nos in refrigerium (Ps. LXV, 12).
+
+276
+01:07:33,071 --> 01:07:54,305
+Ignis et aqua utrumque periculosum: ut in
+Evangelio: Frequenter eum et in ignem et in aquam
+misit, ut eum perderet (Marc. IX, 21). Quando res
+sunt angustae, et aliquae infelicitates sunt in hoc
+mundo, quasi ignis est. Quando res sunt prosperae, et
+abundantia saeculi circumfluit, quasi jam aqua est.
+
+277
+01:07:54,305 --> 01:08:01,691
+Per aquam etiam populi designantur, ut in Apocalypsi:
+Aquae multae populi sunt multi (Apocal. XVII,
+15).
+
+278
+01:08:01,691 --> 01:08:16,391
+Per aquam quoque non solum cursus discurrentium
+populorum, sed etiam bonorum mentes, fidei
+praedicamenta sequentes ostenduntur: sicut apud
+Esaiam est: Beati qui seminatis super omnes aquas
+(Isai. XXXII, 20).
+
+279
+01:08:16,391 --> 01:08:34,287
+Aqua etiam baptismum indicat: ut
+ait Joannes Evangelista: Tres sunt, qui testimonium
+dant in terra, spiritus, aqua, et sanguis (I Joan. V, 8). Spiritus enim, nos per adoptionem filios Dei fecit. Sacri fontis unda nos abluit. Sanguis Domini nos
+redemit.
+
+280
+01:08:34,287 --> 01:08:50,904
+Torrens, persecutionis incursus, vel mortis
+dilapsus. In psalmo: De torrente in via bibit (Ps. CIX,
+7). Item: Torrentem pertransivit anima mea (Ps. CXXIII, 5). Et in bonam partem: Et torrente voluptatis
+tuae potabis eos (Ps. XXXV, 9).
+
+281
+01:08:50,904 --> 01:09:11,854
+Torrentes etiam
+sancti appellantur praedicatores, qui dum in praesenti
+vita divinis nobis eloquiis influunt, aquarum
+multitudine, quasi in hieme colliguntur: quia et
+aestivo sole adveniente se subtrahunt, quia cum
+aeternae patriae lux emicuerit, praedicare cessabunt. Flumina, infidelium populi.
+
+282
+01:09:11,854 --> 01:09:29,963
+In psalmo: Super flumina
+Babylonis (Ps. CXXXVI, 1). Item in bonam partem:
+Flumina de ventre ejus fluent aquae vivae (Joan. VII, 38); id est, diversae gratiae spiritus. Sic in psalmo:
+Fluminis impetus laetificat civitatem Dei (Ps. XLV, 5). Lacus, infernum.
+
+283
+01:09:29,963 --> 01:09:45,728
+In psalmo: Posuerunt me
+in lacu inferiore (Ps. LXXXVII, 7): id est, illo inferni
+loco, in quo peccatores soli poenali custodia detinentur. Mare, saeculum, sive populi. In psalmo: Hoc
+mare magnum et spatiosum (Ps. CII, 25).
+
+284
+01:09:45,728 --> 01:09:55,031
+Per mare
+etiam intelliguntur sacrae Scripturae, ut in Ezechiele:
+Aspectus rotarum, et opus earum, quasi visio maris
+(Ezech.
+
+285
+01:09:55,031 --> 01:10:13,673
+I, 16). Recte itaque sacra eloquia visioni maris
+conferuntur, quia sententiae locutionis sacramento
+baptismatis confirmantur. Pisces, sancti, interdum
+peccatores. In Evangelio: Et traxerunt plenum
+rete piscibus magnis (Joan. XXI, 11). Item in malam
+partem: Malos autem foras miserunt (Matth.
+
+286
+01:10:13,673 --> 01:10:32,570
+XIII, 48). Rursus piscium nomine, fides non ficta exprimitur; quemadmodum enim piscis sub tegumento aquarum nascitur, vivit, et alitur: sic et fides quae in Deum est, quae alterius vitae gaudia, per lamenta praesentia, fletusque irrequietos, in corde gignit; invisibili gratia spiritus per aquam
+
+287
+01:10:32,570 --> 01:10:48,905
+baptismatis consecratur; invisibili auxilio divinae protectionis, ne deficiat, nutritur; invisibili praemiorum intuitu, quaecumque valet, bona operatur: memor illius Apostolici: Quia quae videntur temporalia sunt, quae autem non videntur, aeterna (II Cor.
+
+288
+01:10:48,905 --> 01:10:58,065
+IV, 18). Piscis autem assus, passionem
+significat; fluctus, tentationes. In psal. : Omnia
+excelsa tua, et fluctus tui super me transierunt (Ps.
+
+289
+01:10:58,065 --> 01:11:11,454
+XLI, 8). Significant etiam fluctus, timorem Dei ut in
+libro Job: Sicut tumentes fluctus super me sic semper
+timui Dominum (Job XXXI, 23). Unde, idem quod
+supra in Cantico: Gelaverunt undae in medio mari
+(Exod.
+
+290
+01:11:11,454 --> 01:11:26,507
+XV, 8). Insulae, animae, vel Ecclesiae Dei, quae
+diversis tentationum tunduntur fluctibus. In psal. :
+Laetentur insulae multae (Ps. XCVI, 1). Littus, finis
+saeculi. In Evangel. : Et secus littus sedentes elegerunt
+bonos in vasa (Matth.
+
+291
+01:11:26,507 --> 01:11:39,767
+XIII, 48). Arena maris, innumerae
+gentium multitudines. In Genesi: Et multiplicabo
+semen tuum (id est, sanctos) sicut stellas coeli, et
+sicut arenam (peccatores) quae est ad oram maris (Gen. XXII, 17).
+
+292
+01:11:39,767 --> 01:11:44,639
+CAPUT V. De Animantibus.
+
+293
+01:11:44,639 --> 01:11:55,172
+Aves, sancti, quod ad superiora corde evolent. In
+Evangel. : Et fecit ramos magnos, ita ut possent sub
+umbra ejus aves coeli habitare (Marc. IV, 32).
+
+294
+01:11:55,172 --> 01:12:16,237
+Intelliguntur etiam per aves superfluae cogitationes, quod monstratur per Abraham, qui cum sacrificium Deo offerret, insistentes aves perferebat, quas abigebat (Gen. XV, 11): quod enim in orationis sacrificio se importunae cogitationes ingerunt, et subortae, corda justorum polluunt: sed dum citius
+
+295
+01:12:16,237 --> 01:12:25,992
+manu discretionis abiguntur, festive agitur, ne cordis faciem caligo tentationis operiat, quae ante jam ex illicita delectatione tangebat.
+
+296
+01:12:25,992 --> 01:12:42,038
+Volatus, sanctorum excessus in
+Deum, vel in Scripturis intellectus. In Psal. : Et volabo
+et requiescam (Ps. LIV, 7). Volucres, in bono
+accipiuntur, ut de avibus diximus. In malo autem,
+superba daemonia designant, ut in Evangel.
+
+297
+01:12:42,038 --> 01:12:58,225
+Dominus:
+Aliud semen cecidit secus viam, et volucres coeli
+comederunt illud (Luc. VIII, 5): quia maligni spiritus
+humanas mentes obsidentes, dum cogitationes noxias
+ingerunt, verbum vitae e memoria evellunt. Alae, duo
+Testamenta.
+
+298
+01:12:58,225 --> 01:13:16,604
+In Ezechiele: Unumquodque duabus alis
+velabat corpus suum (Ezech. I, 23). Sunt etiam alae,
+virtutes sanctorum, per quas ad contemplationem
+vel ad coelestia evolant: vel protectio divina. Pennae
+Scripturae. In psalmo: Pennae columbae argentatae
+(Ps. LXVII, 14).
+
+299
+01:13:16,604 --> 01:13:34,629
+Nidus, Ecclesia, aut requies excelsa
+sanctis. In psal. : Et turtur nidum sibi, ubi reponat
+pullos suos (Ps. LXXXIII, 4). Et aliter, nidus, bona
+conscientia, in qua bonarum cogitationum fetus foventur,
+atque in opere pariuntur, ut postea filii appellentur.
+
+300
+01:13:34,629 --> 01:13:54,280
+In psalmo: Filii tui, sicut novellae olivarum
+in circuitu mensae tuae (Ps. CXXVII, 3). Pulli,
+sancti. In psal. ut supra. Sicut in libro Job: Pulli
+ejus lambent sanguinem (Job XXXIX, 30): quod de
+filiis sanctae Ecclesiae dicitur, qui sanguinem Christi
+bibunt. Et in malam partem.
+
+301
+01:13:54,280 --> 01:14:00,359
+In Salomone: Et pulli
+aquilarum devorent eum (Prov. XXX, 17). Aquilae,
+sancti.
+
+302
+01:14:00,359 --> 01:14:16,410
+In Evangelio: Ubi fuerit corpus, illic congregabuntur
+aquilae (Matth. XXIV, 28): quia egredientes
+sanctae animae de corpore ad Christum, qui pro illis
+moriendo cadaver factus est, aggregantur.
+
+303
+01:14:16,410 --> 01:14:38,479
+Aquila,
+Christum etiam significat, ut Salomon: Via aquilae
+in coelo (Prov. XXX, 19), id est, Christi ascensio. Et
+in malam partem: Pulli aquilarum devorent eum. Ut in Hieremia, de malignis spiritibus: Velociores
+fuerunt persecutores nostri aquilis (Thren. IV, 19).
+
+304
+01:14:38,479 --> 01:14:58,291
+Per
+aquilam designatur etiam terrena tempestas. Struthio,
+quilibet haereticus, vel philosophus, vel hypocrita,
+qui quasi cum pennis sapientiae est, tamen
+non evolat. In Isaia: Erit cubile draconum, et pascua
+struthionum (Isa. XXXIV, 13).
+
+305
+01:14:58,291 --> 01:15:19,524
+Et struthio ova parit,
+sed pullos inde non nutrit: quia hypocrita quamvis
+recte praedicet, tamen per exemplum bonae vitae nullos
+filios generat, ut in libro Job: Struthio in terra relinquit
+ova sua, et obliviscitur quod pes conculcet ea
+(Job. XXXIX, 14).
+
+306
+01:15:19,524 --> 01:15:43,015
+Pelicanus, Dominus Christus in
+Passione, aut vir sanctus solitudini deditus. In psal. :
+Similis factus sum pelicano solitudinis (Ps. CI, 7). Corvus, nigredo peccatorum, vel daemones. In Salomone:
+Effodiant eum corvi de torrente vel de rupibus
+(Prov. XXX, 17). Item in bonam partem.
+
+307
+01:15:43,015 --> 01:16:07,174
+In Canticis
+canticorum de sponso: Crines ejus ut abietes, nigri
+sicut corvi (Cant. V, 11). Perdix, diabolus. In propheta:
+Clamavit perdix, congregavit quae non peperit
+(Jer. XVII, 11). Columba, Spiritus sanctus. In Evangelio:
+Et vidi Spiritum Dei descendentem sicut columbam
+(Joan. I, 32).
+
+308
+01:16:07,174 --> 01:16:29,494
+Item in malam partem, ut in
+propheta: Et factus Ephraim quasi columba sine sensu,
+non habens cor (Ezech. VII, 11). Turtur, Spiritus sanctus,
+aut vir sanctus, aut intelligentia spiritalis. In
+Canticis canticorum: Vox turturis audita est in terra
+nostra (Cant. II, 12).
+
+309
+01:16:29,494 --> 01:16:46,463
+Sed tunc columba Spiritus sanctus
+dicitur quando Scripturae sacrae manifesta dissertio
+est. Tunc vero turtur Spiritus sanctus intelligitur,
+cum Scripturae altis atque obscuris mysteriis
+elevantur.
+
+310
+01:16:46,463 --> 01:17:00,304
+Columba etiam simplicitatem, turtur indicat
+castitatem, quia, amisso primo conjuge, ultra
+socium non requirit. Milvus significat, ut puto, rapacem,
+vel elatum. In psalmo, secundum Hebraeos:
+Milvi abies domus est.
+
+311
+01:17:00,304 --> 01:17:19,693
+Accipiter, interdum sanctus,
+ut puto, rapiens regnum Dei: qui mutata veteri penna
+renovatur, et projiciens inveterata studia dolosae actionis,
+simplices actus assumit bene vivendi. In Job:
+Numquid in sapientia tua plumescit accipiter? Nycticorax
+Christus, vel vir sanctus infidelibus despicabilis.
+
+312
+01:17:19,693 --> 01:17:30,857
+In psalmo: Factus sum sicut nycticorax in domicilio
+(Ps. CI, 7). Passer, nonnumquam Dominus,
+aut vir sanctus. In psalmo: Etenim passer invenit sibi
+domum (Ps. LXXXIII, 4).
+
+313
+01:17:30,857 --> 01:17:49,789
+Et alibi, quilibet Christianus,
+cui ab haereticis dicitur, qui Christum, qui in Scripturis
+mons nominatur, sese solummodo putant habere:
+Transmigra in montem sicut passer (Ps. X, 2). Gallus, Dominus,
+ut puto, aut sanctus. In Salomone: Et gallus ambulans
+inter gallinas laetus (Pr. XXX, 31).
+
+314
+01:17:49,789 --> 01:18:00,169
+Et in Job: Quis
+dedit gallo intelligentiam (Job XXXVIII, 36). Et in alteram
+partem: Et asportari te faciam sicut asportatur gallus
+gallinaceus (Isa. XXII, 17).
+
+315
+01:18:00,169 --> 01:18:13,160
+Galli nomine designantur
+praedicatores sancti qui, inter tenebras vitae praesentis,
+student venturam lucem praedicando quasi cantando
+nuntiare: dicunt enim: Nox praecessit, dies
+autem appropinquabit.
+
+316
+01:18:13,160 --> 01:18:30,265
+Gallus etiam succinctis lumbis
+incedere scribitur (Prov. XXX, 31), quia ipsi praedicatores
+sancti inter hujus noctis tenebras verum mane
+nuntiantes, in membris suis luxuriae fluxa restringunt,
+quibus a Domino dicitur, Sint lumbi vestri praecincti
+(Luc. XII, 35).
+
+317
+01:18:30,265 --> 01:18:47,630
+Gallo etiam intelligentia desuper
+tribuitur, quia doctori veritatis discretionis
+virtus, ut noverit, quibus, quid, quando, vel quomodo
+inserat, divinitus ministratur. Non enim una
+eademque cunctis exhortatio convenit, quia nec
+cunctos par morum qualitas constringit.
+
+318
+01:18:47,630 --> 01:18:56,640
+Gallina, sapientia,
+sive Ecclesia, sive anima. In Evangelio:
+Sicut gallina congregat pullos suos sub alis suis (Matth. XXIII, 37).
+
+319
+01:18:56,640 --> 01:19:15,733
+Vespertiliones, idolorum monstra tenebris
+dedita. In propheta: Ut adoretis talpas et vespertiliones
+(Isai. II, 20). Sunt etiam cogitationes immundae,
+quae per daemones intrant. Scarabaeus, propheta:
+Et scarabaeus de ligno clamabit, ut putant
+quidam, de Domino. Locustae, populi.
+
+320
+01:19:15,733 --> 01:19:34,277
+In Evangelio:
+Esca autem ejus erat locusta (Matth. III, 4). Locustarum
+nomine aliquando Judaeorum populus, aliquando
+conversa gentilitas, aliquando adulantium lingua,
+aliquando per comparationem resurrectio Dominica
+designatur, aliquando vita praedicatorum significatur.
+
+321
+01:19:34,277 --> 01:19:52,546
+Apis forma virginitatis, sive sapientiae. In Salomone:
+Vade ad apem et disce quam operatrix sit (Prov. VI, 6). Et in malam partem: in propheta: Et apis quae est in
+Assur (Isai. VII, 18). Et circumdederunt me sicut apes
+(Ps. CXVII, 12), id est, malitiosi et iracundi.
+
+322
+01:19:52,546 --> 01:20:07,793
+Apes
+etiam quae mel in ore habent, et in occulto caudae
+vulnus, suo nomine significant omnes qui lingua
+blandiuntur, sed latenter ex malitia feriunt: quia
+loquendo dulcedinem mellis propinant, sed feriendo
+vulnus inferunt.
+
+323
+01:20:07,793 --> 01:20:27,162
+Possunt etiam hoc nomine prudentium
+dicta signari, ut est illud: Favus mellis sermones
+boni (Prov. XVI, 24). Musca, diabolus, vel minister
+ejus, vel spurcitiae idololatriae. In Salomone:
+Muscae moriturae exterminant olei suavitatem (Eccl. X, 1). Bestiae, diabolus, vel homines feri.
+
+324
+01:20:27,162 --> 01:20:46,118
+In psalmo:
+Ne tradas bestiis animas confitentes tibi (Ps. LXXIII,
+19). Leo, Dominus, ut Apostolus: Vicit leo de tribu
+Juda (Apoc. V, 5). Item in malam partem: Ne quando
+rapiat ut leo animam meam (Ps. VII, 3). Item: Adversarius
+noster diabolus quasi leo circuit (I Petr. V, 8).
+
+325
+01:20:46,118 --> 01:21:05,211
+Leaena significat superbos vel praecipites. Pardus,
+diabolus, vel peccator moribus variis: in propheta:
+Sicut Aethiops non mutabit pellem, et pardus varietatem
+(Jer. XIII, 23). Elephas peccator immanis. In
+Regum: Et adducebant ad Salomonem simias et elephantos
+(III Reg. X, 22).
+
+326
+01:21:05,211 --> 01:21:13,728
+Ursus, diabolus, aut duces
+saevi, vel insidiatores. In Regnorum: Et egressi sunt
+duo ursi, et comederunt eos (IV Reg.
+
+327
+01:21:13,728 --> 01:21:33,331
+II, 24), quia
+Vespasianus et Titus Romani imperatores Judaeos
+deleverunt. Cervus, Christus, vel sancti. In psalmo:
+Sicut cervus desiderat ad fontes aquarum (Ps. XLI, 2). Et rursus in psalm. : Montes excelsi cervis, petra refugium
+erinaceis (Ps.
+
+328
+01:21:33,331 --> 01:21:50,202
+CIII, 18): nam hic vitae contemplativae
+dediti significantur. Lupus, diabolus vel
+haereticus. In Evangelio: Intrinsecus autem sunt lupi
+rapaces (Matth. VII, 15). Item in bonam partem:
+Benjamin lupus rapax (Gen.
+
+329
+01:21:50,202 --> 01:21:58,477
+XLIX, 27), apostolum
+Paulum significans. Aper, diabolus. In psalmo:
+Exterminabit eam aper de silva (Ps.
+
+330
+01:21:58,477 --> 01:22:16,634
+LXXIX, 14). Tigris,
+feminea interdum arrogantia. In libro Job secundum
+Hebraeum: Tigris periit, eo quod non habuerit
+praedam (Job IV, 11). Monoceron, hoc est unicornis. In psalmo: Et dilectus quemadmodum filius unicornium
+(Ps.
+
+331
+01:22:16,634 --> 01:22:29,167
+XXVIII, 6), id est, singularis potentiae, vel
+sanctorum qui teneant unicum Dei verbum. Et in
+aliam partem: Et a cornibus unicornium humilitatem
+meam (Psalm.
+
+332
+01:22:29,167 --> 01:22:52,868
+XXI, 22). In malam partem ponitur pro quolibet superbo violento, vel unum testamentum tenente, ut Psalmista in persona passuri Domini: Libera me, Domine, a cornibus unicornium. Rhinoceron, fortis quique: vel in bonam vel in malam partem. In libro Job, secundum Hebraeum: Numquid volet rhinoceros
+
+333
+01:22:52,868 --> 01:23:16,890
+servire tibi (Job XXXIX, 9). Onager, eremita, vel qui remoti a turbis popularibus versantur. In Job: Quis dimittet onagrum liberum (Job XXXIX, 5)? Potest et populus ille Judaeorum onager dici, quia sequitur in eodem libro: Et vincula ejus quis solvit vincula utique praeceptorum. Hinnulus, Christus,
+
+334
+01:23:16,890 --> 01:23:26,370
+aut sancti, pro gratiarum varietate. In Salomone: Similis es tu, fratruelis meus, damulae, aut hinnulo cervorum (Cant.
+
+335
+01:23:26,370 --> 01:23:34,725
+II, 9). Dama, idem
+quod supra. Lepus, timens Deum. In psalmo: Petra
+refugium leporibus et erinaciis (Ps.
+
+336
+01:23:34,725 --> 01:23:54,167
+CIII, 18). Erinacius,
+idem quod supra: et erinacii gens invalida, qui fecerunt
+in petris domos sibi. Vulpes, haereticus vel diabolus, vel peccator callidus. In Evangelio: Ite, dicite vulpi illi (Luc. XIII, 32). Animal, homo carnalis.
+
+337
+01:23:54,167 --> 01:24:15,199
+In Apostolo: Animalis autem
+homo non percipit ea quae sunt spiritus Dei (I Cor. II,
+14). Jumentum, intellectu vel eloquio carens, interdum
+obedientes. In psalmo: Ut jumentum factus sum
+apud te (Ps. LXXII, 73), interdum luxuriosi, ut illud:
+Computruerunt jumenta in stercore suo (Joel. IV, 17).
+
+338
+01:24:15,199 --> 01:24:36,302
+Equus, vir sanctus. In Abacuc: Qui ascendens super
+equos tuos (Abac. III, 8). Et in malam partem: Fallax
+equus ad salutem (Ps. XXXII, 1), irrationalis quisque. In psalmo: Nolite fieri sicut equus et mulus, quibus
+non est intellectus (Ps. XXXI, 9). Asinus, corpus humanum,
+vel populus gentilium.
+
+339
+01:24:36,302 --> 01:24:49,007
+In Evangelio: Et
+adduxerunt ad Jesum asinam et pullum ejus, et eum
+desuper sedere fecerunt (Matth. XXI, 7). Asinorum
+nomine stultorum pigritia significatur, dum Moyses
+testatur.
+
+340
+01:24:49,007 --> 01:25:06,593
+Non arabis in bove simul et asino (Deut. XXII,
+10), hoc est, in praedicatione non conjungas prudentem
+cum fatuo: simplicitas enim fidelium hoc nomine
+exprimitur, quam Christus regendo et praesidendo
+ad Hierusalem, id est, visionem pacis deducit.
+
+341
+01:25:06,593 --> 01:25:25,615
+Unde dicitur: Agnovit et asinus praesepe domini sui
+(Isai. I, 3): rursus asino designatur immoderata petulantium
+luxuria, ut propheta: Quorum carnes sunt
+ut carnes asinorum (Ezech. XXIII, 20). Asina, caro vel plebs carens Dei notitia. In Evangelio,
+idem quod supra.
+
+342
+01:25:25,615 --> 01:25:38,463
+Camelus, divites rebus
+saeculi onusti, vel moribus distorti. In Evangelio:
+Facilius est camelum per foramen acus transire, quam
+divitem intrare in regna coelorum (Matth. XIX, 24).
+
+343
+01:25:38,463 --> 01:25:59,279
+Cameli nomine etiam ipse Dominus significatur, ut:
+Liquantes culicem: camelum autem deglutientes (Matth. XXIII, 24): hoc in loco Dominus aperte designatur,
+qui sponte humiliatus, infirmitatis nostrae onera sustulit,
+et acum punctionis, angustiasque foraminis in
+dolore suae passionis.
+
+344
+01:25:59,279 --> 01:26:20,189
+Culex susurrando vulnerat,
+camelus autem sponte se ad suscipienda onera inclinat:
+liquaverunt ergo Judaei culicem, quia seditiosum
+latronem dimitti petierunt: camelum autem
+glutierunt, quia eum qui ad suscipienda nostrae mortalitatis
+onera sponte descenderat, exstinguere clamando
+conati sunt.
+
+345
+01:26:20,189 --> 01:26:35,746
+Tauri, principes populorum. In
+psalmo: Tauri pingues obsederunt me (Ps. XXI, 13). Boves, apostoli, qui suscepto jugo Christi, Evangelii
+vomere mundum exaraverunt. In psalmo:
+Offeram tibi boves cum hircis (Ps. LXV, 15).
+
+346
+01:26:35,746 --> 01:26:56,655
+Boves etiam stultorum vecordiam significant, ut recte per Salomonem dicitur: Statimque eam sequitur, quasi bos ductus ad victimam (Prov. VII, 22): boum nomine etiam vita uniuscujusque operantis exprimitur, ut per Moysen: Non alligabis bos bovi trituranti (Deut. XXV, 4): et Dominus: Dignus est
+
+347
+01:26:56,655 --> 01:26:59,082
+operarius cibo suo (Matth. I, 10).
+
+348
+01:26:59,082 --> 01:27:01,365
+Vaccae, carnalibus vitiis pleni.
+
+349
+01:27:01,365 --> 01:27:22,774
+In psalmo: Inter vaccas populorum (Ps. LXVII, 31): Vaccae etiam fideles omnes in Ecclesia designant, qui dum sacri eloquii praecepta considerant: quasi superimpositam sibi Domini arcam portant: quorum plerique foris carnalibus affectibus ligantur, sed non declinant a recto itinere: quia arcam Domini
+
+350
+01:27:22,774 --> 01:27:25,129
+portant in mente (I Reg. VI, 12).
+
+351
+01:27:25,129 --> 01:27:44,968
+Vitulus, Christus, sive sancti. In psalmo: Tunc
+imponent super altare tuum vitulos (Ps. L, 21). Et in
+aliam partem: Circumdederunt me vituli multi (Ps. XXI, 13), hoc est, lascivientes. Sues, peccatores
+immundi. In Epistola Petri: Et sus lota in volutabro
+luti (II Petr. II, 22).
+
+352
+01:27:44,968 --> 01:28:03,023
+Arietes, apostoli, vel Ecclesiarum
+principes. In psalmo: Afferte Domino filios arietum
+(Ps. XXVIII, 1). Oves, populi fideles. In Evangel. :
+Oves meae vocem meam audiunt (Joan. X, 27): Pecora,
+simpliciores quique, minus praediti ratiocinandi
+subtilitate.
+
+353
+01:28:03,023 --> 01:28:21,791
+In Salomone: Pasce animas pecorum
+tuorum (Prov. XXVII, 23). Hirci, peccatores, sive
+gentiles. In Daniele: Ecce autem hircus caprarum veniebat
+ab Occidente super faciem totius terrae (Dan. VIII, 5). Item in bonam partem: Offeram tibi boves
+cum hircis (Ps.
+
+354
+01:28:21,791 --> 01:28:31,910
+LXV, 15). Caprae, justi interdum ex
+gentibus venientes. In Salomone: Capillatura tua
+sicut grex caprarum, quae revelatae sunt de Galaad (Cant.
+
+355
+01:28:31,910 --> 01:28:46,019
+VI, 4). Quemadmodum autem caprae praecipue pastum
+in alto quaerunt, sic et sancti mundi baptismo et
+poenitentia in supernis pastum desiderant; unde
+apostolus: Nostra conversatio in coelis est (Phil.
+
+356
+01:28:46,019 --> 01:29:01,625
+III, 20). Capreae sunt animae efferatiores factae per vanam doctrinam
+philosophorum, sed jam intra Ecclesiam
+sanctam per sanctum Evangelium. Agni Christus,
+vel apostoli, aut sancti. In Evangelio: Pasce agnos
+meos (Joan.
+
+357
+01:29:01,625 --> 01:29:16,446
+I, 15). Haedi peccatores, vel motus carnis. In Evang. : Haedos autem a sinistris (Matth. XXV, 33). Talpae, idola, vel haeretici, qui non vident veritatem. In Isaia: Ut adoretis talpas et vespertiliones
+(Isai.
+
+358
+01:29:16,446 --> 01:29:29,700
+II, 20). Canis, diabolus, vel Judaeus, vel gentilis. In psal. : Et de manu canis unicam meam (Ps. XX, 21). Et in aliam partem, in Ecclesiaste: Melior
+est canis vivus leone mortuo (Eccle.
+
+359
+01:29:29,700 --> 01:29:47,871
+IX, 4). Hic leonem
+diabolum, canem vero gentilem, vel hominem
+peccatorem accipiendum putant: quod ille ad fidem
+vel poenitentiam possit venire, ille autem non veniat. Canis item segnes praedicatores designat, ut
+ibi: Canes muti non valentes latrare (Isai.
+
+360
+01:29:47,871 --> 01:29:58,061
+LVI, 10). Ranae, daemones. In Apoc. : Et vidi de ore draconis
+spiritus tres immundos in modum ranarum. Sunt autem
+spiritus daemoniorum (Apocal.
+
+361
+01:29:58,061 --> 01:30:12,241
+XVI, 13). Item ranae,
+haeretici, qui in coeno vilissimorum sensuum
+commorantes, vana garrulitate oblatrare non desinant. Formica, providus, vel operarius. In Salom. :
+Vade ad formicam, o piger (Prov.
+
+362
+01:30:12,241 --> 01:30:25,067
+VI, 6)
+Vermis, Christus pro humilitate assumpti hominis. In psalm. : Ego autem sum vermis et non homo (Ps. XXI, 7). Item in aliam partem. In Isaia: Vermis eorum
+non morietur (Isai.
+
+363
+01:30:25,067 --> 01:30:40,031
+LXVI, 24), id est, sive ipse
+vermis, sive peccati conscientia, vel inquietudo pravae
+cogitationis. Aranea, humana fragilitas. In psal. :
+Et tabescere fecisti velut araneam animam meam (Ps. XXXVIII, 2).
+
+364
+01:30:40,031 --> 01:30:55,418
+Telae aranearum, sunt opera temporalis
+concupiscentiae, quae nulla solidantur subtilitate,
+quae ventus rapit mortalis. Serpens, diabolus, vel
+maligni homines. In Evangelio: Serpentes genimina
+viperarum (Matth. XXIII, 33).
+
+365
+01:30:55,418 --> 01:31:08,437
+Item in aliam partem,
+in Evangelio: Sicut Moyses exaltavit serpentem in
+deserto (Joan. III, 14); serpens significat etiam prudentes,
+ut ibi: Estote prudentes sicut serpentes (Mat. X, 16).
+
+366
+01:31:08,437 --> 01:31:26,887
+Draco, diabolus, vel apertus persecutor; in
+psalmo: Tu confregisti caput draconis, dedisti eum in
+escam populo Aethiopum (Ps. LXXIII, 14). Scorpio,
+diabolus, vel ministri ejus; in Evangelio: Dedi vobis
+potestatem calcandi super serpentes et scorpiones
+(Luc. X, 19).
+
+367
+01:31:26,887 --> 01:31:32,039
+Vipera idem quod supra; in Evangelio:
+Genimina viperarum (Luc. III, 7).
+
+368
+01:31:32,039 --> 01:31:37,127
+CAPUT VI. De variis nominum appellationibus.
+
+369
+01:31:37,127 --> 01:31:50,296
+Homo, aut homo totus, aut mens. In Genesi: Fecit
+Deus hominem ad imaginem et similitudinem suam
+(Gen. I, 26). Et in malam partem; in psalmo: Exsurge,
+Domine, non confortetur homo (Ps. IX, 20),
+hoc est caro, vel diabolus.
+
+370
+01:31:50,296 --> 01:32:04,482
+Nonne hominis etiam reprehensio
+designatur, ut in hoc Apostoli: Cum enim
+sint inter vos zelus et contentio, nonne carnales estis,
+nonne homines estis (I Cor. III, 4)? et alibi: Inimicus
+homo hoc fecit (Matth. XIII, 28), id est, diabolus.
+
+371
+01:32:04,482 --> 01:32:16,454
+Item ab Apostolo dicitur homo peccati et filius perditionis
+(II Th. II, 3), id est Antichristus; sed et carnis
+nomine homines significantur, inde est: Et videbit
+omnis caro salutare Dei (Luc. III, 6).
+
+372
+01:32:16,454 --> 01:32:33,333
+Anima tam
+hominum quam jumentorum dicitur; ita in Job: Anima
+omnis vivens et spiritus universae carnis in potestate
+est Omnipotentis (Job XII, 10): animam rationalem
+hominum usque ad spiritualem intellectum
+sublevat, animam autem irrationabilium usque ad
+corporeos sensus vivificat.
+
+373
+01:32:33,333 --> 01:32:49,615
+Vir, spiritus, id est mens. In Apostolo: Caput
+mulieris vir (I Cor. XI, 3). Item vir, in malam partem. In Genesi: Bona facie valde virgo, quam vir non
+cognoverat (Gen. XXIV, 16), id est diabolus, qui plerumque
+mentem cogitatione corrumpit. Mulier, anima,
+sive caro humana.
+
+374
+01:32:49,615 --> 01:33:05,477
+In Apostolo: Caput mulieris
+vir. Mulier pro sexu, ut: Misit Deus Filium suum natum
+ex muliere, factum sub lege (Gal. IV, 4). Pro infirmitate,
+ut apud Sapientem: Melior est iniquitas
+viri quam mulier benefaciens (Eccl. XLII, 14). Virgo, Ecclesia, vel sanctae animae.
+
+375
+01:33:05,477 --> 01:33:21,818
+In Apostolo:
+Despondi enim vos uni viro virginem castam exhibere
+Christo (II Cor. XI, 12). Et in malam partem: Descende,
+sede in pulvere, virgo filia Babylonis (Isai. XLVII, 1),
+id est anima bonitate sterilis, quae hypocrisi vel malitia
+fit confusionis filia. Rex, Dominus.
+
+376
+01:33:21,818 --> 01:33:32,831
+In Apostolo:
+Rex regum, et Dominus dominantium (I Tim. VI, 15). Et in malam partem, ut de diabolo: Ipse est
+rex super universos filios superbiae (Job XLI, 25). Regina, Ecclesia.
+
+377
+01:33:32,831 --> 01:33:40,974
+In psalmo: Astitit regina a dextris
+tuis (Ps. XLIV, 10). Et iterum regina, anima imperans
+corpori. Pater, Dominus.
+
+378
+01:33:40,974 --> 01:33:55,186
+In propheta: Et ero
+vobis in patrem, et vos eritis mihi in filios et filias,
+dicit Dominus omnipotens (Jerem. XXXI, 9); et in Evangelio:
+Unus est enim Pater vester, qui in coelis est
+(II Cor. V, 18).
+
+379
+01:33:55,186 --> 01:34:14,542
+Item de diabolo: Quia mendax est et
+pater ejus (Matth. XXIII, 9), Pater mendacii et omnium
+qui in veritate non permanserint. Mater, Ecclesia, vel Hierusalem coelestis. In Apostolo:
+Illa autem quae sursum est Hierusalem, libera
+est, quae est mater nostra (Joan. VIII, 44).
+
+380
+01:34:14,542 --> 01:34:34,682
+Item qui
+bene loquendo fideles Christo generant et educant,
+matres in utroque sexu, ipso Christo teste, existunt
+(Gal, IV, 26). Frater, Christus, vel proximus. In psalmo:
+Narrabo nomen tuum fratribus meis (Ps. XXI,
+23); et ipse ait: Ite, nuntiate fratribus meis (Matth. XXVIII, 10).
+
+381
+01:34:34,682 --> 01:34:54,895
+Soror, Ecclesia, Synagoga, vel Christi anima. In
+Canticis canticorum: Soror mea sponsa (Cant. IV, 9). Vir et uxor, Christus et Ecclesia, intellectus spiritalis
+et historia Scripturarum. In Apostolo, Viri, diligite
+uxores vestras, sicut et Christus dilexit Ecclesiam
+(Ephes. III, 25).
+
+382
+01:34:54,895 --> 01:35:13,893
+Sponsus, Christus, ideo quod a Patre
+ab initio sit promissus. In psalmo: Et ipse tamquam
+sponsus procedens de thalamo suo (Ps. XVIII, 9). Et in Evangelio: Qui habet sponsam sponsus est
+(Joan. III, 29). Sponsa, Ecclesia, quae utique divinis sponsionibus
+sit promissa.
+
+383
+01:35:13,893 --> 01:35:33,819
+In Canticis canticorum: Veni a Libano,
+sponsa, veni a Libano (Cant. IV, 8). Filius: populus
+credentium. In Apostolo: Jam non est servus, sed filius;
+quod si filius, et haeres per Deum (Gal. IV, 7):
+filius, id est, Dominus; ut ibi: quod si Filius vos
+liberaverit (Joan. VIII, 36).
+
+384
+01:35:33,819 --> 01:35:52,031
+Filia, anima fidelis? sive Ecclesia. In psalmo:
+Audi, filia, et vide (Ps. XLIV, 11); et in malam partem:
+Super filiam vagam dispone custodiam (Eccl. XLII, 11), id est, animae levitatem. Proximi, fide propinqui,
+et qui misericordiam impendunt inopi.
+
+385
+01:35:52,031 --> 01:36:07,021
+In Salomone:
+Venite, manducate, et bibite, et inebriamini,
+proximi (Cant. V, 1). Amici, concordes in Deum. In Evangelio: Vos
+amici mei estis (Joan. XV, 14). Senes, consummatae
+justitiae. In Genesi: Et mortuus est Abraham senex et
+plenus dierum (Gen. XXV, 8).
+
+386
+01:36:07,021 --> 01:36:19,629
+In Salomone: Cani sunt
+hominis sensus, et aetas senectutis vita immaculata
+(Sap. IV, 9). Et in sinistram partem, de Salomone:
+Cumque jam senex esset, depravatum est cor ejus (III
+Reg. XI, 4). Juvenes, alacres in Deum.
+
+387
+01:36:19,629 --> 01:36:35,200
+In Epistola
+Joannis: Scribo vobis, juvenes, quia fortes estis; et
+verbum Dei in vobis manet, et vicistis Malignum (I Joan. II, 14). Et in malam partem, in Regnorum libro de
+Roboam: Derelicto consilio seniorum, locutus est secundum
+consilium juvenum (III Reg. XII, 14).
+
+388
+01:36:35,200 --> 01:36:46,820
+Item
+ibi: Vae tibi, terra, cujus rex juvenis est (Eccl. X, 16). Parvulus, mente humilis et simplex. In Evangelio:
+Abscondisti haec a sapientibus et prudentibus et revelasti
+ea parvulis (Marc. XI, 25).
+
+389
+01:36:46,820 --> 01:37:03,378
+Et in Evangelio: Nisi efficiamini
+sicut parvuli, non intrabitis in regnum coelorum
+(Matth. XVIII, 3). Et Apostolus: Malitia parvuli
+estote, sensibus autem perfecti estote (I Cor. XIV,
+20). Item in alteram partem; in Apostolo: Cum essem
+parvulus, loquebar ut parvulus (I Cor. XIII, 11).
+
+390
+01:37:03,378 --> 01:37:19,879
+Parvulus etiam Christus intelligitur, qui se humiliavit
+usque ad mortem (Phil. II, 8). Meretrix, anima peccatrix, quae, relicto coelesti viro
+suo, id est Christo, adulterinos de diabolo iniquitatis
+fructus concepit. In Jeremia: Facies mulieris meretricis
+facta est tibi (Jer. III, 3).
+
+391
+01:37:19,879 --> 01:37:31,325
+Operarii, apostoli,
+vel praedicatores Evangelii. In Evangelio: Messis
+quidem multa, operarii autem pauci (Matth. IX, 37). Pastor, Dominus: Ego sum Pastor bonus (Joan. X,
+11). Item pastor Apostolus.
+
+392
+01:37:31,325 --> 01:37:45,791
+In Evangelio: Pasce oves
+meas (Joan. XXI, 17); et in malam partem: Et abiit
+ut pasceret porcos (Luc. XV, 15), id est, qui sunt immundis
+cogitationibus. Mercenarii, servientes Domino
+non pro amore tantum divino, sed pro temporali
+retributione.
+
+393
+01:37:45,791 --> 01:38:06,291
+In Evangelio: Quanti mercenarii
+patris mei abundant panibus (Luc. XV, 17)? Piscatores,
+apostoli, vel doctores. In Evangelio: Et faciam
+vos fieri piscatores hominum (Matth. IV, 15). Medicus,
+Christus, vel doctus. In Salomone: Mansuetus vir
+cordis est medicus.
+
+394
+01:38:06,291 --> 01:38:28,619
+Item, Non egent sani medico, sed
+male habentes (Luc. V, 31). Dives, fidelis abundans
+spiritalibus bonis. In Apostolo: Quia divites facti estis
+in illo in omni scientia et in omni verbo (I Cor. I,
+5); dives etiam Christus, ut illud: Dives in omnibus
+qui invocant illum (Rom. X, 10).
+
+395
+01:38:28,619 --> 01:38:44,034
+Et in aliam partem:
+in Evangelio: Vae vobis divitibus (Luc. VI, 24). Pauper,
+humilis: in Evangelio: Et erat quidem Lazarus
+pauper (Luc. XVI, 24). Et iterum: Beati pauperes spiritu
+(Matth. V, 3).
+
+396
+01:38:44,034 --> 01:39:05,487
+Pauper etiam est Christus, ut
+Apostolus: Christus egenus pro nobis factus est,
+cum esset dives (II Cor. VIII, 9). Et in malam partem. In psalmo: Quia pauperes facti sumus nimis (Ps. LXXVIII, 8). Vestitus, habens baptismi vel fidei integritatem,
+aut justitiae indumentum.
+
+397
+01:39:05,487 --> 01:39:29,245
+In Evangelio: Et vidit ibi
+hominem non vestitum veste nuptiali (Matth. XXII, 11);
+et Apostolus: Omnes qui Christo baptizati estis, Christum
+induistis (Gal. III, 27). Nudus, carens Baptismi
+sacramento , vel divino adjutorio,
+vel bonis operibus. In Apocalypsi: Tu autem nudus
+et miser (Apoc. III, 17).
+
+398
+01:39:29,245 --> 01:39:52,605
+Et in bonam partem. In Evangelio:
+Et rejecta, inquit, sindone nudus profugit ab
+eis (Marc. XIV, 52), id est nudus terrena facultate. Vivi, justi. In psalmo, Placebo Domino in regione
+vivorum (Ps. CXIV, 9). Et in alteram partem; in Salomone:
+Et laudavi magis mortuos quam viventes (Eccl. IV, 2).
+
+399
+01:39:52,605 --> 01:40:16,045
+Mortui, peccatores, vel infideles. In Evangelio:
+Sine mortuos sepelire suos mortuos (Matth. VIII,
+22). Et in bonam partem: Beati mortui qui in Domino
+moriuntur (Apocal. XIV, 13). Item: Mortui estis,
+et vita vestra abscondita est cum Christo in Deo (Coloss. III, 3). Cadavera, infidelium corpora.
+
+400
+01:40:16,045 --> 01:40:21,527
+In propheta: Et
+impleam vallem Josaphat cadaveribus mortuorum.
+
+401
+01:40:21,527 --> 01:40:37,359
+Item in aliam partem: Posuerunt cadavera servorum
+tuorum (Ps. LXXVIII, 2). Item, illud: Videbunt cadavera
+virorum, qui increduli fuerunt projecta (Isai. LXVI, 24). Sepulcrum, corpus peccatoris, mortuam
+vitiis animam intrinsecus retinens.
+
+402
+01:40:37,359 --> 01:40:53,591
+In Evangelio:
+Similes estis sepulcris dealbatis, quae a foris parent
+hominibus speciosa, intus vero plena sunt ossibus mortuorum
+(Matth. XXIII, 27). E diverso dicit propheta
+de sepulcro Domini: Et erit sepulcrum ejus gloriosum
+(Isai. XI, 10).
+
+403
+01:40:53,591 --> 01:40:57,959
+CAPUT VII. In interiori homine.
+
+404
+01:40:57,959 --> 01:41:20,181
+Interior homo, anima rationalis. In Apostolo: In
+interiori homine habitare Christum per fidem in cordibus
+vestris (Eph. III, 16). Caput ejus, Christus. In Aposto o: Caput viri
+Christus (I Cor. XI, 3). Vertex, summitas justitiae. In Salomone: Coronam
+enim gratiarum accipiet tuus vertex (Prov. IV, 9).
+
+405
+01:41:20,181 --> 01:41:37,365
+Item in aliam partem: Verticem capilli perambulantium
+in delictis suis (Ps. LXVII, 22), id est, summa
+nequitia. Capilli, ornatus justitiae vel sensus. In
+Evangelio: Vestri autem et capilli capitis omnes numerati
+sunt (Matth. X, 30).
+
+406
+01:41:37,365 --> 01:41:56,475
+Collum, sancta Scriptura, ut in Canticis: Collum
+tuum sicut turris Libani, ex quo pendent mille clypei
+omnis armatura fortium (Cant. IV, 4), id est, testimonia
+sanctarum Scripturarum, alias superbia: Ut filiae
+Sion ambulaverunt extento collo (Isai. III, 16).
+
+407
+01:41:56,475 --> 01:42:15,363
+Cervix, superbia, ut: Dura cervice (Act. VII, 51). Oculi, intellectus fidelis et simplex. In Evangelio:
+Vestri autem beati oculi qui vident (Matth. XIII, 16);
+et alibi: Oculi sapientis in capite ejus, id est, intellectus
+in corde prudentis (Eccl. II, 14).
+
+408
+01:42:15,363 --> 01:42:35,659
+Et in malam
+partem; in Evangelio: Si oculus tuus nequam fuerit
+(Matth. VI, 23). Aures obedientia fidelis. In Evangelio:
+Et aures vestrae quae audiunt (Matth. XIII, 16). Nares, spiraculum fidei, bonarumque virtutum. In
+Job: Et spiritus Divinus in naribus meis (Job XXVII,
+3).
+
+409
+01:42:35,659 --> 01:42:48,769
+Item: Nasus tuus sicut turris quae est in clibano
+(Cant. VII, 4). Et in malam partem: De naribus ejus
+procedit fumus (Job XLI, 11), id est, diaboli. Fauces
+judicium intellectus.
+
+410
+01:42:48,769 --> 01:43:05,509
+In libro Job: Et fauces meae
+nonne sapientiam meditantur? Et in malam partem:
+Raucae factae funt fauces meae (Ps. LXVIII, 4). Os,
+sermo ipse. In psalmo: Os justi meditabitur sapientiam
+(Ps. XXXVI, 30). Lingua, idem quod supra.
+
+411
+01:43:05,509 --> 01:43:14,471
+In psalmo: Et lingua
+ejus loquetur judicium (Ibid. ), vel Scriptura, ut: Lingua
+mea calamus scribae (Ps. XLIV, 2).
+
+412
+01:43:14,471 --> 01:43:33,758
+Dentes, sancti
+praedicatores, qui recte praecipiunt, et quemadmodum
+praecipiunt, ita vivunt ut hoc sponsae dictum:
+Dentes tui sicut greges tonsarum ovium, quae ascenderunt
+de lavacro, quae omnes pariunt geminos, et sterilis
+non est in eis (Cant. IV, 2).
+
+413
+01:43:33,758 --> 01:43:48,318
+Item interiores sensus
+ut per Jeremiam (Thren. III, 16): Fregit ad numerum
+dentes meos; dentes enim, singula quae cogitant
+quasi manducant, et comminuunt, et ad ventrem
+memoriae transmittunt.
+
+414
+01:43:48,318 --> 01:44:11,035
+A xillae quae sunt initia brachiorum,
+significant bonorum operum exordium,
+quas non movisse pigro, sic imputat Scriptura: Abscondit
+piger manum suam sub axilla (Prov. XIX, 24). Humeri, fortitudo portantis; propheta de Domino
+crucem portaturo: Potestas super humerum ejus (Isai. IX, 6). Manus, opus.
+
+415
+01:44:11,035 --> 01:44:30,017
+In psalmo: Et lavi inter innocentes
+manus meas (Ps. XXV, 6); et potestas, ut: Manus
+tuae fecerunt me (Ps. CXVIII, 73). Dextera, opera bona. In Evangelio: Nesciat sinistra tua quid faciat dextra
+tua (Matth. VI, 3). Sinistra, opera non bona, ut supra.
+
+416
+01:44:30,017 --> 01:44:51,133
+Dextra etiam vita aeterna, sinistra autem praesens,
+ut illud: Laeva ejus sub capite meo, et dextra
+illius amplexabitur me (Cant. II, 6). Pectus, arcanum intelligentiae. In Evangelio: Discumbebat
+autem super pectus Domini discipulus, quem
+Jesus amabat plurimum (Joan. XIII, 23).
+
+417
+01:44:51,133 --> 01:45:10,496
+Venter, capacitas
+rationis. In Habacuc: Venter meus turbatus
+est in me (Hab. III, 16). Venter etiam, mens, ut Jeremias:
+Ventrem meum doleo (Jer. IV. 19), quod de
+spiritali et non corporeo ventre dixit, adjungit:
+Sensus cordis mei conturbati sunt (Ibid.).
+
+418
+01:45:10,496 --> 01:45:25,971
+Et Dominus
+in Evangelio: Qui credit in me, flumina de ventre
+ejus fluent aquae vivae (Joan. VII, 38). Renes, interiora
+sensus. In psalmo: Insuper et usque ad noctem
+increpuerunt me renes mei (Ps. XV, 7).
+
+419
+01:45:25,971 --> 01:45:45,791
+Nihil occultius
+in homine quam cor et renes; unde Scriptura:
+Scrutans corda et renes Deus (Ps. VII, 10). Lumbi, fortitudo animi. In Apostolo: Accingite lumbos
+mentis vestrae (Eccl. VI, 14), et luxuria, ut in Evangelio:
+Sint lumbi vestri praecincti (Luc.
+
+420
+01:45:45,791 --> 01:45:57,416
+XII, 35), et in Job:
+Accinge sicut vir lumbos tuos (Job. XXXVIII, 3). Umbilicus,
+appetitus concupiscentiae. In Job: Et virtus
+ejus sub umbilico ventris (Job.
+
+421
+01:45:57,416 --> 01:46:12,816
+XL, 11); id est, quod
+feminae genitalia per hoc significet, sic in lumbis
+virorum. Adeps, pinguedo gratiae divinae, vel saturitas
+supernae sapientiae. In psalmo: Sicut adipe et
+pinguedine repleatur anima (Ps.
+
+422
+01:46:12,816 --> 01:46:27,476
+XXVI, 6). Item in malam
+partem, adeps, crassitudo malitiae. In psal. :
+Adipem suum concluserunt (Ps. XVI, 10). Ossa, firmitas animi. In psalm. : Omnia ossa mea
+dicent, Domine, quis similis tibi (Ps.
+
+423
+01:46:27,476 --> 01:46:42,654
+XXXIV, 10)? Et
+in malam partem; in Job: Ossa ejus velut fistula aeris
+(Job XL, 13). Item, fraudulenta consilia ministrorum
+Antichristi, ut in psal. : Deus dissipavit ossa illorum
+qui hominibus placent (Ps.
+
+424
+01:46:42,654 --> 01:46:58,647
+LII, 6). Medullae, infusio
+charitatis et aliarum virtutum, ut in psal. : Holocausta
+medullata offeram tibi (Psal. LXV, 15). Viscera,
+affectus pietatis et misericordiae. In Apostolo: Si qua
+viscera miserationis (Phil.
+
+425
+01:46:58,647 --> 01:47:12,418
+II, 1). Et in alteram partem;
+in Actibus apostolorum de Juda: Et diffusa sunt
+omnia viscera ejus (Act. I, 18). Pellis signum mortalitatis. In Genesi: Et fecit eis tunicas pelliceas
+(Gen.
+
+426
+01:47:12,418 --> 01:47:27,300
+II, 21). Cutis, illi qui solis exterioribus
+intenti,
+interius marcescunt. Pili, vitae veteris cogitationes, qui sunt incidendi, unde per Moysen praecipitur:
+Levitae radant omnes pilos carnis suae (Num.
+
+427
+01:47:27,300 --> 01:47:43,959
+VIII, 7). Sanguis, operatio carnalis; in psal. : Libera
+me de sanguinibus, Deus, Deus salutis meae (Psal. L,
+16). Et item: Caro et sanguis regnum Dei non possidebunt
+(I Cor. XV, 50). Et Isaias: Sanguis sanguinem
+tetigit (Ose.
+
+428
+01:47:43,959 --> 01:48:00,100
+IV, 2). Item in bonam partem, ut
+Apostolus: Et sanguis Jesu Christi emundat nos ab
+omni peccato (Heb. IX); caro, homo exterior. In Apostolo:
+Caro enim concupiscit adversus spiritum, spiritus
+autem adversus carnem (Gal.
+
+429
+01:48:00,100 --> 01:48:11,279
+V, 17). Caro juxta
+naturam, ut: Hoc nunc os ex ossibus meis, et caro de
+carne mea (Gen. II, 23), et ibi: Verbum caro factum
+est (Joan. I, 14).
+
+430
+01:48:11,279 --> 01:48:29,675
+Unde Apostolus: Vos autem in
+carne non estis, sed in spiritu (Rom. VIII, 9). Item
+caro juxta culpam, ut: Non permanebit spiritus meus
+in hominibus istis, quia caro sunt (Gen. VI, 3). Genua
+confessio humilitatis. In Cantic.
+
+431
+01:48:29,675 --> 01:48:54,617
+, Et nunc flecto genua
+cordis mei (Eph. III, 14), et in psalmo: Genua
+mea infirmata sunt a jejunio (Ps. CVIII, 24). Aliquando
+virtus fidei: in propheta: Reliqui mihi septem
+millia virorum, qui non curvaverunt genua ante Baal
+(III Reg. XXXIX, 18). Pedes, cursus vitae, vel stabilitas
+mentis, vel fidei.
+
+432
+01:48:54,617 --> 01:49:13,427
+In psalmo: Stantes erant pedes
+nostri (Ps. CXXI, 2). Et in malam partem; in
+propheta: Cur claudicatis utroque pede (III Reg. 21). Et, Veloces pedes eorum ad effundendum sanguinem
+(Ps. XIII, 3). Calcaneum, supplantatio vitiorum.
+
+433
+01:49:13,427 --> 01:49:36,297
+In
+Genesi: Ipse tuum observavit caput, et tu illius calcaneum
+(Gen. III, 15). Item, terminus actionis, ut in
+psalmo: Ipsi calcaneum meum observabunt (Ps. LV,
+7). Gressus, profectus operum. In psal. : Perfice
+gressus meos in semitis tuis (Ps. XVI, 5). Vestigia, signa
+virtutum.
+
+434
+01:49:36,297 --> 01:49:58,670
+In psalmo: Ut non moveantur vestigia
+mea. Et in alteram partem, in Salomone: Et transiet
+vita (impiorum) tamquam vestigium maris. Stola,
+indumentum baptismi vel fidei. In Evangelio:
+Cito proferte stolam primam (Luc. XV, 22). Cilicium,
+poenitentiae testimonium. In Evang.
+
+435
+01:49:58,670 --> 01:50:21,457
+Olim in cinere
+et cilicio poenitentiam egissent (Matt. XI, 21). Cingulum,
+spiritalis operis accinctus. In psalmo: Et praecinxisti
+me laetitia (Ps. XXIX, 12). Zona, cordis munditia. Apostolus: Praecincti circa lumbos zonis aureis
+(Apoc. XV, 6). Calciamenta, praeparatio pacis.
+
+436
+01:50:21,457 --> 01:50:39,935
+In Apostolo: Calciati pedes in praeparationem Evangelii
+pacis. Arma interioris hominis, in Apostolo:
+Induti loricam justitiae, et scutum fidei, et galeam
+salutis, et gladium spiritus, quod est Verbum Dei
+(Eph. VI, 15).
+
+437
+01:50:39,935 --> 01:50:45,407
+CAPUT VIII. De his quae in usu atque in medio habentur.
+
+438
+01:50:45,407 --> 01:51:06,773
+Panis, Christus, vel sermo Dei. In Evangelio:
+Ego sum panis vivus (Joan. VI, 41); et alibi: Mittamus
+lignum in panem ejus (Jer. XI, 19): id est, crucem
+in corpus ejus, et panis quemadmodum doctrinam,
+ita et malam significat, ut ibi: Panis absconditus
+suavior (Prov. IX, 17). Vinum idem quod supra.
+
+439
+01:51:06,773 --> 01:51:25,333
+in Salom. : Et bibite vinum quod miscui vobis (Prov. IX, 5). Vinum etiam securitatem rectitudinis significat,
+ut: Infundens oleum et vinum (Luc. X, 34); ut
+per vinum mordeantur vulnera, per oleum foveantur. Oleum, misericordia, vel Spiritus sanctus. In
+psal.
+
+440
+01:51:25,333 --> 01:51:43,390
+, In oleo sancto meo linivieum (Ps. LXXXVIII, 21). In aliam partem: Oleum autem peccatoris non impinguet
+caput meum (Ps. CXL, 5), id est, adulatio. Porcina,
+peccata. In psalm. , Saturatus sum porcina. Azymum,
+sinceritas cordis, sine fermento malitiae.
+
+441
+01:51:43,390 --> 01:52:00,943
+In
+Apostolo: In azymis sinceritatis et veritatis (I Cor. V,
+8). Ovum, spes certa fidelium. Item in malam partem:
+Qui comederit de ovis eorum morietur (Isai. LIX, 5), de improbis et male doctis. Similago, puritas
+mentis, et fortitudo charitatis.
+
+442
+01:52:00,943 --> 01:52:22,380
+In Levitico: Si autem
+anima offert munus sacrificium Deo, similago sit munus
+ejus (Lev. II, 1). Subcineritium humilitatis
+oblatio. In Genesi: Festinanter consperge tres mensuras
+similaginis, et fac subcineritios (Gen. XVIII, 6). Et in malam partem: Factus est Ephraim subcineritius
+(Ose. XVIII, 6).
+
+443
+01:52:22,380 --> 01:52:42,955
+Lac, mentis sinceritas. In Epistola
+Petri: Rationabiles sine dolo lac concupiscite
+(I Petr. II, 2). Item in aliam partem, de rudibus in
+Ecclesia: Lac vobis potum dedi, non escam; nondum
+enim poteratis (I Cor. III, 2). Hic lac exiguitas sensus. Lac coagulatum, vitiis concretum. In psal.
+
+444
+01:52:42,955 --> 01:52:58,062
+:
+Coagulatum est sicut lac cor eorum (Ps. CXVIII, 70). Sal, condimentum sapientiae. In Evang. : Vos estis
+sal terrae (Matth. V, 13), et habete sal in vobis (Mar. IX,
+49). Mel, dulcedo praeceptorum Dei. In psal.
+
+445
+01:52:58,062 --> 01:53:05,111
+: Quam
+dulcia faucibus meis eloquia tua, Domine, super mel et
+favum ori meo (Ps. CVIII, 103).
+
+446
+01:53:05,111 --> 01:53:27,481
+Item aliter, in Salomone:
+Inveniens mel, manduca quod satis est, ne
+forte satiatus evomas (Prov. XXV, 18), id est, altiora
+te ne quaesieris (Eccli. III, 22). Fel, amaritudo malitiae. In psalmo: Dederunt in escam meam fel (Ps. LXVIII, 22). Acetum, asperitas corruptae mentis.
+
+447
+01:53:27,481 --> 01:53:50,750
+In psalmo:
+Et in siti mea potaverunt me aceto (Ps. LXVIII, 22). Item acetum, correptio doctorum, unde Salomon:
+Acetum in nitro qui cantat carmina corde pessimo
+(Prov. XXV, 20). Pix, inquinamentum et nigredo delictorum. In Salomone: Qui tangit picem, inquinabitur
+ab ea (Eccl. XIII, 1).
+
+448
+01:53:50,750 --> 01:54:10,752
+Sicera, confectio quaedam
+malitiae et nequitiae. In Evangelio: Vinum et siceram
+non bibet (Luc. I, 15). Calix, Domini passio. In psalmo:
+Calicem salutaris accipiam (Ps. CXV, 13). Et ipse
+Dominus: Pater, transfer calicem hunc a me (Mar. XIV,
+36).
+
+449
+01:54:10,752 --> 01:54:30,183
+Et in malam partem: Calix aureus Babylonis
+(Jerem. LI, 7). Merum, sinceritas judicii aut veritatis,
+vel calor fidei. In psalmo: Vini meri plenus
+mixto (Ps. LXXIV, 9). Fex, ultimum judicii. In psalmo:
+Verumtamen fex ejus non est exinanita.
+
+450
+01:54:30,183 --> 01:54:51,002
+Item, illi
+qui secure in peccatis quiescunt; unde propheta:
+Requievit in fecibus suis (Jerem. XLVIII, 11). Cibus,
+sermo vel voluntas Domini. In Evangelio: Meus cibus
+est ut faciam voluntatem ejus qui me misit Patris
+(Joan. IV, 34). Potus, idem quod supra.
+
+451
+01:54:51,002 --> 01:55:12,800
+In psalmo:
+Et torrente voluptatis tuae potabis eos (Ps. XXXV, 9),
+id est Spiritu sancto. Et Psalmista: In compungendo
+potum meum cum fletu temperabam (Ps. CI, 10). Item
+in aliam partem: Non est regnum Dei esca et potus
+(Rom. XIV, 17). Promptuaria, cordis receptacula.
+
+452
+01:55:12,800 --> 01:55:33,374
+In
+cantico Deuteronomii: In promptuariis eorum timor. Pera, victus sollicitudo, et impedimenta saeculi. In
+Evangelio: Non peram in via (Matt. 10, 9). Sacculus
+thesaurizatio in Deo. In Evangelio: Facite vobis sacculos
+qui non veterascant (Luc. XII, 33).
+
+453
+01:55:33,374 --> 01:55:42,599
+Et in aliam
+partem: Sacculum communem possideamus (Prov. I,
+14), id est, avaritiam. Pecunia, verba divina.
+
+454
+01:55:42,599 --> 01:56:02,363
+In
+Evangelio: Oportuit ergo te mittere pecuniam meam
+numulariis (Mat. XXV, 27). Et sapientia, unde Salomon:
+Sapientia occulta et thesaurus invisus, quae utilitas
+in utrisque (Eccl. XX, 32). Vellus, populus. In
+psalmo: Et descendit tamquam pluvia in vellus (Ps. LXXI, 6).
+
+455
+01:56:02,363 --> 01:56:20,955
+Linum, spiritalis fortitudo, vel candor, vel
+subtilitas Scripturarum. In Exodo: Porro filiis Aaron
+tunicas lineas parabis (Exod. XXVIII, 30). Item in malam
+partem: Non indues vestem ex lana linoque contextam
+(Deut. XXII, 11). Utres, vasa humani corporis.
+
+456
+01:56:20,955 --> 01:56:42,475
+In Evangelio: Vinum novum in utres novos mitti
+debet (Luc. V, 38). Farina, opus bonum, vel scientia. In Evangelio: Abscondit mulier in farinae sata tria
+(Luc. XIII, 21). Item in malam partem: vanas cogitationes,
+ut propheta: Tolle molam et mole farinam
+(Isa. XLVII, 2). Mola, vitae conversatio.
+
+457
+01:56:42,475 --> 01:56:57,041
+In Evangelio:
+Duae molentes in mola (Matth. XXIV, 41). Possunt et
+duo testamenta lapides molae significare, per quos
+labore disserentium triticum veteris Instrumenti in
+farinam Evangelii convertatur.
+
+458
+01:56:57,041 --> 01:57:18,415
+Haec igitur nomina cum in textu sacrae lectionis
+occurrunt, ita vel maxime ut exprimuntur apertioribus
+accipienda traduntur, licet in diversas plerumque
+significationes pro persona vel tempore vel loco
+exeant, atque in figuras locis congruas pro ratione
+allegoricae interpretationis erumpant.
+
+459
+01:57:18,415 --> 01:57:36,788
+Nam et abyssus
+intelligitur, sicut supra diximus, profunditas
+Scripturarum, et item abyssus aquae immensitas: Et
+rupti sunt fontes abyssi magnae (Gen. VII, 11). Item
+abyssus, ineffabilia judicia Dei. In psalmo: Judicia
+tua abyssus multa (Ps. XXXV, 7).
+
+460
+01:57:36,788 --> 01:57:52,891
+Item abyssus, infernus:
+Aut quis descendit in abyssum (Rom. X, 7)? id est, Christum de mortuis revocat. Item abyssus,
+corda hominum facinoribus tenebrosa: Abyssus dixit:
+Non est mecum (Job XXVIII, 14), id est, sapientia.
+
+461
+01:57:52,891 --> 01:58:07,823
+Ignis, sicut superius memoravimus, accipitur Spiritus
+sanctus, ut Paulus: Deus noster ignis consumens
+est
+(Heb. XII, 29). Et iterum, ignis charitas circumsepta
+ejus, circumsepta ignis flammae ejus.
+
+462
+01:58:07,823 --> 01:58:27,022
+Ignis,
+tribulatio. In Psalterio: Igne nos examinasti, sicut
+igne examinatur argentum (Ps. LXV, 10, 11). Item:
+transivimus per ignem et aquam. Ignis, ira: Et consumam
+eos in igne irae meae, ait Dominus. Ignis, voluptas:
+Omnes adulterantur sicut clibanus corda
+eorum.
+
+463
+01:58:27,022 --> 01:58:43,322
+Item ignis, mentis malitia; ut: Tunc ignis adversarios
+consumit (Heb. X, 27). Item virtus charitatis,
+ut: Currus Dei flamma ignis, rotae ejus ignis accensus
+(Dan. VII, 9). Umbra, ut indicavimus, significatur
+protectio divina.
+
+464
+01:58:43,322 --> 01:59:02,737
+Item umbra aliquando, peccata:
+Sedentes in tenebris et in umbra mortis (Ps. CVIII, 10). Umbra aliquando poena, in Job: Umbra mortis et
+nullus ordo (Job. X, 22). Et quia umbra non longe
+est ab ea re cujus est umbra, ita et mors non longe
+est a poena quae infert mortem.
+
+465
+01:59:02,737 --> 01:59:22,877
+Umbra aliquando est
+delectatio peccatorum; in Job de diabolo: Sub umbra
+dormit in secreto calami in locis humentibus (Job
+XL, 16). Et rursus species aliquae specie una res multas
+significant. Duo testamenta, eo quod hic duo illi lapides molares
+possint significare, memoravimus.
+
+466
+01:59:22,877 --> 01:59:44,466
+Et item duo testamenta, duo Cherubin, in Exodo (Exod. XXV, 20); duo animalia, in Habacuc; duae petrae, in Exodo (Exod. XVII, 6) et in Canticis canticorum (Cant. II, 14), quarum velamento, sponsa et Moyses proteguntur; duo montes aenei, in Zacharia, de quorum frutetis myrtinis, et obscura opacitate
+
+467
+01:59:44,466 --> 01:59:50,044
+egrediuntur quadrigae cum equis rufis, nigris, albis et variis (Zach. VI, 1).
+
+468
+01:59:50,044 --> 02:00:11,125
+Sed has tam multimodas significationes in singulis
+prosequi nominibus, non solum laboris immensi,
+verum etiam impossibile arbitrati sumus. Nunc ergo
+ad eum interpretationis modum atque ordinem, quem
+paululum pro necessitate disputandi interrupimus,
+revertamur. Cophini, apostoli. In Evangel.
+
+469
+02:00:11,125 --> 02:00:32,279
+: Et tulerunt reliquias
+duodecim cophinos fragmentorum plenos (Mat. XIV, 20). Item in aliam partem: Manus ejus in cophino
+servierunt (Ps. LXXX, 7), id est, in servitute,
+vel tribulatione, quam Aegyptii intulerunt. Cathedra, doctrina. In psalmo: et in cathedra seniorum
+laudent eum (Ps.
+
+470
+02:00:32,279 --> 02:00:56,432
+CVI, 32). Item in aliam partem:
+Et in cathedra pestilentiae non sedit (Ps. I, 1),
+id est, in doctrina haereticorum. Scabellum, humiliatorum
+subjectio. In psalmo: Donec ponam inimicos
+tuos scabellum pedum tuorum (Ps. CIX, 1). Item, humanitas
+Christi, ut in psalmo: Adorate scabellum pedum
+ejus (Ps.
+
+471
+02:00:56,432 --> 02:01:20,015
+XCVIII, 5). Statera, aequitas, vel divinae
+gubernationis potentia. In Isaia: Et libravit in
+pondere montes, et colles in statera (Isa. XL, 12). Cinis, humanae fragilitatis inanitas. In Salomone:
+Quid superbis, terra et cinis (Eccl. X, 9)? Olla, prosapia. In psalmo: Moab olla spei meae (Ps.
+
+472
+02:01:20,015 --> 02:01:44,004
+LIX, 10),
+id est, quod de Ruth Moabitide Christi secundum
+carnem prosapia descenderit. Item in aliam partem,
+olla, tribulationis excoctio; in propheta: Et vidi ollam
+succensam a facie aquilonis (Jerem. I, 13). Lampades,
+animae justitia fulgentes. In Evangelio: Et
+paraverunt lampades suas (Matt.
+
+473
+02:01:44,004 --> 02:02:03,033
+XXV, 7). Item, claritas
+miraculorum, vel verba praedicatorum, quae stulti
+contemnunt, ut Job: Lampas contempta apud cogitationes
+stulti (Job XII, 5). Tenebrae delectationes
+vel doctrinae pravae, ut in psalmo: In tenebris ambulant
+(Ps.
+
+474
+02:02:03,033 --> 02:02:27,511
+LXXXI, 5). Item, occulta judicia Dei, ut in
+psal. : Posuit tenebras latibulum suum (Ps. XVII, 12). Item, castigatio vel adversitas, ut Isaias: Ego Dominus
+formans lucem, et creans tenebras (Isa. XLV, 7). Lucerna, Ecclesia, vel anima. In Evangelio: Sint
+lumbi vestri accincti et lucernae ardentes (Luc.
+
+475
+02:02:27,511 --> 02:02:47,678
+XII, 55). Aliquoties lucernae, opera bona: Sic luceat lumen vestrum,
+ut videant opera vestra bona (Matth. V, 16). Modius,
+corpus humanum, vel legis littera, vel populus
+Judaeorum. In Evangelio: Nemo accendit lucernam,
+et ponit eam sub modio (Matth.
+
+476
+02:02:47,678 --> 02:03:09,716
+V, 15). Item, justum
+judicium vel mentis libratio in Dei et proximi aequa
+libratione. Unde Moyses: Justus sit tibi modius (Lev. XIX, 36). Candelabrum, Ecclesia, vel corpus Domini,
+aut sancta Scriptura. In propheta: Et vidi a dextris
+altaris candelabra duo ardentia (Zach.
+
+477
+02:03:09,716 --> 02:03:14,351
+IV, 2, 3). Mensa,
+altare, vel refectio spiritalis.
+
+478
+02:03:14,351 --> 02:03:37,210
+In psalmo: Parasti in
+conspectu meo mensam (Ps. XXII, 5). Clavis, adapertio
+scientiae spiritalis. In Luca: Vae vobis, legis peritis,
+quia tollitis clavem scientiae: ipsi non introistis, et eos
+qui introibant, prohibuistis (Luc. XI, 12)! Item claves,
+justitiae, misericordiae, pietatisque virtutes.
+
+479
+02:03:37,210 --> 02:03:57,606
+In Evangelio:
+Tibi dabo claves regni coelorum (Matth. XVI, 19). Clavi, timor Dei, ut in psalmo: Confige timore tuo
+carnes meas (Ps. CXVIII, 120). Item clavi, scientiae fortis
+doctores, ut Salomon: Verba sapientum ut stimuli
+et clavi in altum defixi (Eccl. XII, 11).
+
+480
+02:03:57,606 --> 02:04:19,233
+Serae, repagula
+adversus impios divinorum praeceptorum. In
+psalmo: Quoniam confortavit seras portarum tuarum
+(Ps. CXLVII, 12). Ascia vel dolabrum, pravorum persecutio. In psalmo: In bipenne et ascia dejecerunt
+eam (Ps. LXXIII, 6). Bipennis, geminata afflictio, in
+psalmo, ut supra.
+
+481
+02:04:19,233 --> 02:04:36,782
+Framea, anima justi, ut abundent
+ergo justi et effundetur framea. Item mors, ut in
+psalmo: Erue a framea, Deus, animam meam (Ps. XXI, 21). Gladius, verbum Dei. Apostolus enim: Gladius
+spiritus, quod est verbum Dei (Eph. VI, 17).
+
+482
+02:04:36,782 --> 02:04:59,871
+Item
+lingua falsi testis, ut in psalmo: Dentes eorum arma
+et sagittae, et lingua eorum gladius acutus (Ps. LVI, 5). Navis, Ecclesia. In Evangelio: Navicula multis in
+medio mari jactabatur fluctibus (Matth. XIV, 24). Solet
+et homo navicula dici, ut nautae cogitationes hominum
+gubernantes advertantur.
+
+483
+02:04:59,871 --> 02:05:20,960
+Retia, praedicatio. In
+Evangel. : Et mitte retia in capturam (Luc. V, 4). Trabes,
+peccatum gravius. In Evangel. : Ejice primum
+trabem de oculo tuo (Matth. VII, 5). Festuca, peccatum
+levius. In Evangel. : Et videbis tunc ejicere festucam
+de oculo fratris tui. Laquens, dolus.
+
+484
+02:05:20,960 --> 02:05:43,357
+In psalmo: Laqueum paraverunt
+pedibus meis (Ps. LVI, 7). Funes, sors, vel haereditas. In psalmo: Funes ceciderunt mihi in praeclaris (Ps. XV, 6). Item funes, peccata: Vae qui trahitis peccata
+velut funem longum (Isai. V, 18). Et iterum: Funes
+peccatorum circumplexi sunt me (Ps. CXVIII, 61).
+
+485
+02:05:43,357 --> 02:05:46,127
+Rota,
+orbis, aut vita humana.
+
+486
+02:05:46,127 --> 02:06:08,457
+In psalmo: Vox tonitrui tui
+in rota (Ps. LXXVI, 19). Item: Deus meus pone illos
+ut rotam (Ps. LXXXII, 14), id est, volubiles, vel instabiles
+effice in malitia sua. Item, utrumque testamentum,
+ut est apud Ezechielem (Ezech. I, 16). Spongia,
+cava infidelitas Judaeorum. In Evangel.
+
+487
+02:06:08,457 --> 02:06:31,826
+: Illi autem
+spongiam plenam aceto, hyssopo circumponentes obtulerunt
+ori ejus (Joan. XIX, 29). Scala, sanctorum profectus. In Genesi: Viditque in somnis scalam stantem
+super terram, et cacumen illius tangens coelos, angelos
+quoque Dei ascendentes et descendentes super eam
+(Gen. XXVIII, 12).
+
+488
+02:06:31,826 --> 02:06:51,994
+Scopae, cura superstitionis per vanam
+gloriam. In Evangel. : Et veniens invenit vacantem,
+scopis mundatam et ornatam (Matth. XII, 4). Stuppae, coetus malignantium per vitia et peccata, ut
+propheta: Stuppae collectae synagoga peccantium
+(Eccl. XXI, 10).
+
+489
+02:06:51,994 --> 02:07:12,883
+Margarita, doctrina evangelica, vel
+spes regni coelorum. In Evangel. : Inventa autem una
+pretiosa margarita, abiit, et vendidit omnia quae habuit,
+et emit eam (Matth. XIII, 46). Annulus, signaculum fidei. In Evang. : Et date annulum
+in manum ejus (Luc. XV, 22).
+
+490
+02:07:12,883 --> 02:07:36,732
+Item de hoc in
+psalmo: Signatum est super nos lumen vultus tui, Domine. Chlamys, laudis ornatus. In Salomone: Chlamydes
+fecit viro suo (Ps. IV, 7), id est, vestimentum,
+quod de duobus coloribus, tamquam de duobus testamentis
+confectum sit (Prov. XXXI, 22). Aurum,
+interior Scripturarum intellectus.
+
+491
+02:07:36,732 --> 02:07:59,862
+In psalmo: Et posteriora
+dorsi ejus in specie auri (Ps. LXVII, 14). Item,
+Christi divinitas, ut in Canticis sponso dicitur: Caput
+ejus aurum optimum (Cant. V, 11). Item splendor
+supernae civitatis Jerusalem, quam Joannes se vidisse
+testatur: Ipsa vero civitas aurum mundum (Apoc. XXI,
+18).
+
+492
+02:07:59,862 --> 02:08:23,471
+Item, sapientia, ut Salomon, Thesaurus desiderabilis
+requiescit in ore sapientis. Item, splendor sanctitatis,
+quem subito commutatum Jeremias deplorat:
+Quomodo obscuratum est aurum, mutatus est color
+optimus (Thr. IV, 1). Argentum, eloquia divina, sive intellectus litterae,
+vel historiae.
+
+493
+02:08:23,471 --> 02:08:44,185
+In psalmo: Eloquia Domini, eloquia
+casta, argentum igne examinatum (Ps. XI, 7). Item in
+malam partem: Aurum et argentum eorum aeruginavit
+(Jac. V, 3). Scotia, spuma, vel rubigo, quam in
+fornace deponit argentum, tales erunt peccatores,
+cum eos gehennae caminus acceperit.
+
+494
+02:08:44,185 --> 02:09:07,116
+Lapides pretiosi,
+apostoli, vel sancti, sive opera ipsa virtutum. In Apocalypsi: Fundamenta muri civitatis omnia lapide
+pretioso ornata (Apoc. XI). Aes, vanitas, vel inanitas
+fidei. In Apostolo: Factus sum velut aes sonans
+(I Cor. XIII, 1). Item in aliam partem: Posuisti ut
+arcum aereum brachia mea.
+
+495
+02:09:07,116 --> 02:09:25,155
+Hic aereum, fortem, vel
+firmum. Ferrum, tribulatio, vel homo ipse. In psalmo:
+Ferrum pertransiit animam ejus (Ps. CIV, 18). Plumbum, pondera peccatorum. In propheta: Et vidi
+iniquitatem super talentum plumbi. Fictile, fragilitas
+carnis.
+
+496
+02:09:25,155 --> 02:09:30,887
+In Apostolo: Habemus thesaurum hunc in vasis
+fictilibus (II Cor. IV, 7).
+
+497
+02:09:30,887 --> 02:09:37,847
+CAPUT IX. De variis verborum significationibus, quae per Infinitivum
+dicuntur.
+
+498
+02:09:37,847 --> 02:09:57,342
+Aedificare, bona opera facere, vel bene docere. In
+Apostolo: Si quis autem aedificat supra fundamentum
+hoc, aurum, argentum, lapides pretiosos (I Cor. III, 12),
+id est, opera diversarum virtutum. Destruere, mala opera exercere, vel male docere.
+
+499
+02:09:57,342 --> 02:10:21,231
+In Salomone: Unus aedificans, et unus destruens (Eccl. XXXIV, 28). Mundare, vitiis expurgare. In Evangelio:
+Tetigit eum Jesus, dicens, volo, mundare, et confestim
+mundata est lepra ejus (Matth. VIII, 3). Stare, fide
+consistere. In Apostolo: State in fide (I Cor. XVI, 13). Ambulare, ad Deum tendere.
+
+500
+02:10:21,231 --> 02:10:42,403
+In psalmo: Et ambulabam
+in latitudine (Ps. CXVIII, 45). Sedere, in Deo
+humiliter quiescere. In Evangelio: Vos autem sedete
+in civitate (Luc. XXIV, 49). Jacere, aut vitiis, aut tentationibus
+succumbere. In Evangel. : Et invenit eam jacentem
+in lecto (Marc. VII, 30).
+
+501
+02:10:42,403 --> 02:11:05,173
+Currere, in operibus
+bonis properare. In Apostolo. Sic currite ut comprehendatis
+(I Cor. IX, 24). Vigilare, custodiam cordis adhibere, vel in Deum
+resurgere. In psalmo: A vigilia matutina usque ad
+noctem (Ps. CXXIX, 6). Et Apostolus: Evigitate juste,
+et nolite peccare (I Cor. XV, 34).
+
+502
+02:11:05,173 --> 02:11:27,624
+Item alibi: Vigilate,
+state in fide, viriliter agite (I Cor. XVI, 13). Dormire,
+post transitum apud Deum requiescere. In psalmo:
+Numquid qui dormit, non adjiciet ut resurgat (Ps. XL,
+9)? Et aliter, dormire, peccatorum sopore torpescere. In Apostolo: Surge, qui dormis (Eph. V, 14).
+
+503
+02:11:27,624 --> 02:11:47,917
+Erubescere in malo optimum, in bono pessimum;
+unde dicitur: Est confusio adducens peccatum, et confusio
+adducens gloriam (Eccl. IV, 25). Ascensus, profectus in Deum: In psalmo: Ascensus
+in corde ejus (Ps. LXXXIII, 6). Descensus, defectus
+a Deo. In Evang.
+
+504
+02:11:47,917 --> 02:12:10,847
+: Homo quidam descendebat ab Hierusalem
+in Jericho (Luc. X, 30). Via, Christus. In
+Evang. : Ego sum via, veritas et vita (Joan. XIV, 6). Et aliter, via vita hominis. In psalmo: Vias meas
+enuntiavi, et exaudisti me (Ps. CXVIII, 26). Et Salomon:
+Comedent fructum viarum suarum (Prov.
+
+505
+02:12:10,847 --> 02:12:32,447
+I, 3). Speciosa, vitiorum illecebris dilata. In Evangelio:
+Lata porta et spatiosa via, quae ducit ad perditionem
+(Matth. VII, 13). Arcta, districta, vel tribulationibus
+pressa, quae ducit ad vitam. In Evangelio: Quam angusta
+porta et arcta via quae ducit ad vitam (Ibid.
+
+506
+02:12:32,447 --> 02:12:47,487
+). Directa, praeceptis Dei ordinata. In Isaia: Rectas
+facite semitas ejus (Isai. XL, 3). Prava, a Dei praeceptis
+devia. In Isaia: Et erunt prava in directa, et
+aspera in vias planas (Ibid.
+
+507
+02:12:47,487 --> 02:13:05,327
+). Plana, obedientia praeceptorum
+exaequata. In Isaia, ut supra. Aspera, inobedientiae
+asperitate horrida, ut supra. A dextris, a
+parte justitiae. In Evangelio: Statuet quidem oves a
+dextris, haedos autem a sinistris (Marc.
+
+508
+02:13:05,327 --> 02:13:25,167
+XXV, 33). A sinistris,
+a parte injustitiae. In Evangelio, ut supra. Fovea, dolus, vel lapsus in mortem. In psalmo: Foderunt
+ante faciem meam foveam (Ps. LVI, 17). Puteus,
+diabolus, vel infernus. In psalm. : Neque urgeat super
+me puteus os suum (Ps.
+
+509
+02:13:25,167 --> 02:13:46,768
+LXVIII, 16). Et in bonam partem;
+in Genesi: Ad puteum juramenti (Gen. XLVI, 1),
+id est, ad aquam fidei. Item, initium fidei, ut in Canticis:
+Fons hortorum fons aquarum viventium (Cant. IV, 15). Fons, Christus, ut in psalmo: Sitivit anima
+mea ad Dominum fontem vivum (Ps.
+
+510
+02:13:46,768 --> 02:14:02,927
+XLI, 3). Item,
+dona Dei, ut in psalmo: Et apparuerunt fontes aquarum
+(Ps. XVII, 16). Item in malam partem, perversorum
+dogmatum doctores, et iniqua agentes, ut Petrus:
+Hi sunt fontes sine aqua (II Petr.
+
+511
+02:14:02,927 --> 02:14:22,847
+II, 17). Torrens, tentationum
+vis mentem impellens, ut in psalmo: Torrentem
+pertransivit anima nostra (Ps. CXXIII, 5). Item,
+frigus peccatorum, a quo David liberari desiderans
+ait: Converte, Domine, captivitatem nostram, sicut torrens
+in austro (Ps.
+
+512
+02:14:22,847 --> 02:14:41,007
+CXXV, 6). Sanitas, mentis integritas;
+in psalmo: Clamavi ad te, et sanasti me (Ps. XXIX, 3). Languor, vitiorum morbus; in psalmo: Qui
+sanat omnes languores tuos (Ps. CII, 3). Et in Evangelio:
+Ipse languores nostros tulit (Isai.
+
+513
+02:14:41,007 --> 02:14:50,207
+LIII, 4). Lepra,
+peccatorum contaminatio. In Evangelio: Et confestim
+mundata est lepra ejus (Matth. VIII, 3).
+
+514
+02:14:50,207 --> 02:14:55,943
+CAPUT X. De Hierusalem, vel adversis ejus.
+
+515
+02:14:55,943 --> 02:15:18,152
+Hierusalem, Ecclesia vel anima. In psalmo: Lauda,
+Hierusalem (Ps. CXLVII, 12). Et notandum, quod
+quaecumque in Ecclesia generaliter conveniunt, haec
+ad animam referri possunt. Sion, idem quod supra. In psalmo: Lauda Deum tuum, Sion (Ibid.). Filii
+Sion, filii Ecclesiae.
+
+516
+02:15:18,152 --> 02:15:39,535
+In psalmo: Et filii Sion exsultaverunt
+super regem suum (Ps. CXLIX, 2). Filiae Hierusalem,
+idem ut supra: id est, animae coelesti vitae
+deditae. Alias filiae sunt infernae animae, ut in libro
+Sapientiae: Filiae tibi sunt, serva corpus illarum (Eccl. VII, 26).
+
+517
+02:15:39,535 --> 02:16:04,055
+Tabernaculum, corpus Domini, vel Ecclesia. In psalmo: In sole posuit tabernaculum suum (Ps. XVIII, 6). Item, coelestis patria, ut in psalmo: Ingrediar
+in locum tabernaculi (Ps. XLI, 5). Arca, caro Dominica, vel corda sanctorum Deo
+plena. In psalmo: Tu et arca sanctificationis tuae
+(Ps. CXXXI, 8).
+
+518
+02:16:04,055 --> 02:16:24,199
+Item, arca, Ecclesia, intra quam salvanda
+clauduntur. In Genesi: Remansit autem solus
+Noe, et qui cum eo erant in arca (Gen. VII, 23). Tabulae lapideae duae, ut puto, propter testamenta
+duo, vel propter duo praecepta dilectionis Dei et
+proximi.
+
+519
+02:16:24,199 --> 02:16:43,353
+In Exodo: Et dixit Dominus ad Moysen:
+Excide tibi duas tabulas (Exod. XXXIV, 1). Lex, praecepta
+divina. In psalmo: Lex Domini immaculata
+(Ps. XVIII, 8). Chirographum, conscriptio hominis peccatoris
+cum diabolo per manum iniquitatis.
+
+520
+02:16:43,353 --> 02:17:07,130
+In Apostolo:
+Chirographum peccati quod erat contrarium nobis
+(Coloss. II, 14). Pactum, confoederatio gratiae divinae cum homine. In psalmo: Vidi non servantes pactum. Testamentum,
+confirmatio voluntatis divinae. In propheta: Et
+confirmabo testamentum meum super domum Juda
+(Heb. VIII, 8).
+
+521
+02:17:07,130 --> 02:17:31,319
+Stylus ferreus (Job. XIX, 24), fortis
+sententia divini verbi. Praeputium, vita gentilis. In Apostolo: In praeputio
+aliquis vocatus est, non circumcidatur (I Cor. VII,
+18), id est, etiam qui ex gentibus ad fidem Christi
+venit, corpore non circumcidatur. Circumcisio, exspoliatio vitiorum.
+
+522
+02:17:31,319 --> 02:17:47,165
+In Apostolo:
+Circumcisi estis circumcisione non manu facta, in exspoliatione
+corporis carnis (Coloss. II, 11). Cornu, fortitudo,
+vel regnum. In I Regnorum: Et exaltavit
+cornu Christi sui (I Reg. II, 10). Purpura, martyrii
+species per cruorem.
+
+523
+02:17:47,165 --> 02:18:05,107
+In Exodo: Omnis qui percipit
+corde, afferet initia Domino, aurum, argentum, aeramentum,
+hyacinthum, purpuram, coccum netum et
+byssum (Exod. XXXV, 5). Fimbriae, verba fidei diligenter retinenda, ut in
+psalm. : Omnis gloria ejus filiae regis ab intus in fimbria
+(Ps XLIV, 14).
+
+524
+02:18:05,107 --> 02:18:21,608
+Coccus, idem quod supra; vel
+charitatis ardor, vel crucis mentio. In Exodo, sicut
+supra. Byssus, castitatis vel continentiae candor. In
+Exodo, ut supra. Hyacinthus, confessorum livores. In Exodo, ut supra. Superhumerale, operum ab humeris
+significatio.
+
+525
+02:18:21,608 --> 02:18:38,960
+In Exodo: Et fecerunt superhumerale
+de auro et hyacintho, et purpura, et cocco neto, et
+bysso torta (Exod. XXXIX, 2). Rationale, doctrinae, vel rationis a pectore declaratio. In Exodo: Et fecerunt rationale opere textili
+secundum opus superhumeralis (Exod. XXX, 8).
+
+526
+02:18:38,960 --> 02:18:51,662
+Poderis
+doctrina secretior atque perfectior. In Exodo:
+Et fecerunt vestimentum poderem sub umbone opus
+textile totum hyacinthinum (Exod. XXXIX, 20). Lamina aurea in fronte, crucis praefiguratio.
+
+527
+02:18:51,662 --> 02:19:08,949
+In
+Exodo: Et fecerunt laminam auream, et inscripserunt
+in ea litteras deformatas signaculum sanctitatis Domini
+(Exod. XXXIX, 29), id est, nomen tetragrammaton
+Domini. Templum, corpus Domini, vel sancti. In
+Apost. ; Vos enim estis templum Dei vivi (II Cor. VI,
+16).
+
+528
+02:19:08,949 --> 02:19:23,682
+Et ipse ait: Solvite templum hoc (Joan. II, 19). Altare fidei altitudo. In psalmo: Tunc imponent super
+altare tuum vitulos (Ps. L, 21). Sacrificium, oblatio
+justitiae. In psalmo: Sacrificate sacrificium justitiae
+(Ps. IV, 6).
+
+529
+02:19:23,682 --> 02:19:38,807
+Item laus Dei, ut in psalmo: Sacrificium
+laudis honorificabit me (Ps. XLIX, 23). Holocaustum, totus fide accensus. In psalmo:
+Holocausta medullata offeram tibi (Ps. LXV, 15). Hostia,
+Christus, vel anima dicata Deo. In Apost.
+
+530
+02:19:38,807 --> 02:19:58,902
+:
+Oblationem et hostiam Deo, in odorem suavitatis (Eph. V, 2). Myrrha, mortalitatis indicium. In psal. : Myrrha,
+et gutta, et casia a vestimentis tuis (Ps. XLIV, 9). Thus, virtus orationis, ut in psalmo: Dirigatur
+oratio mea sicut incensum in conspectu tuo (Ps. CXL,
+2).
+
+531
+02:19:58,902 --> 02:20:11,703
+Unguentum, diffusa nominis Christi gratia. In
+Salomone: Unguentum diffusum nomen tuum (Cant. I, 3). Sancta sanctorum, interiora quaeque mysteria
+Domini, vel regna coelorum.
+
+532
+02:20:11,703 --> 02:20:31,499
+In Epistola ad Hebraeos:
+Non enim in manufactis sanctis Jesus introivit exemplaria
+virorum, sed in ipsum coelum, ut appareat nunc
+vultui Dei pro nobis (Heb. IX, 24). Sabbatum, requies
+spiritalis. In Genesi: Et requievit Dominus ab omnibus
+operibus suis (Gen. II, 2).
+
+533
+02:20:31,499 --> 02:20:47,277
+Item Isaias: Si averteris
+a sabbato pedem tuum (Isa. LVIII, 12). Item, in
+malam partem: Viderunt eam hostes, et deriserunt
+sabbata ejus (Thren. I, 7), et caetera. Quadragesima,
+figura praesentis vitae ac laboris.
+
+534
+02:20:47,277 --> 02:21:06,925
+In Evangelio: Et
+cum jejunasset quadraginta diebus et quadraginta noctibus
+(Matth. IV, 2). Pascha, praenuntiatio Dominici
+transitus. In Evangelio: Ante diem autem festum
+Paschae sciens Jesus quia venit ejus hora, ut transeat
+ex hoc mundo ad Patrem (Joan. XIII, 1).
+
+535
+02:21:06,925 --> 02:21:25,456
+Quinquagesima,
+manifestatio futurae beatitudinis vel remissionis. In Levit. : Numerabilis ergo septem hebdomadas
+plenas usque ad alteram diem (Levit. XXIII, 15), et
+infra, id est, quinquaginta dies. Jubilaeus venturae
+quietis significatio. In Levit.
+
+536
+02:21:25,456 --> 02:21:43,466
+: Annus remissionis est,
+signum sanctum erit vobis (Levit. XXV, 10). Civitas
+Dei, Ecclesia, vel anima. In psalmo: In civitate Dei
+nostri (Ps. XLVIII, 2). Cives, fideles. In Apost. : Sed estis cives sanctorum,
+et domestici Dei (Ephes. II, 19).
+
+537
+02:21:43,466 --> 02:22:04,751
+Muri, munimenta
+Scripturae divinae, vel prophetae, aut sancti. In psalmo: Aedificentur muri Hierusalem (Ps. L, 20);
+item in aliam partem: In Deo meo transgrediar murum
+(Ps. XVII, 30). Turres, apostoli, vel perfecti quique. In Psalmo:
+Et abundantia in turribus tuis (Ps. CXXI, 7).
+
+538
+02:22:04,751 --> 02:22:26,771
+Portae,
+Scripturae sanctae, vel justitiae, vel apostoli, aut angeli. In psalmo: Et elevamini, portae aeternales (Ps. XXIII, 7). Item in aliam partem: Quia lata porta et
+spatiosa via quae ducit ad mortem (Matth. VII, 13). Plateae, latitudo dilatata sanctorum.
+
+539
+02:22:26,771 --> 02:22:50,072
+In Apocalypsi: Et plateae civitatis aurum mundum,
+tamquam vitrum perlucidum (Apoc. XXI, 21). Fundamentum,
+Christus, vel fides in Apostolo: Fundamentum
+aliud nemo potest ponere, quam id quod positum
+est, Christus Jesus (I Cor. III, 11). Maceria, lex, vel Angelorum custodia.
+
+540
+02:22:50,072 --> 02:23:10,555
+In Cantico
+Isaiae: Et maceria circumdedi, et calamos affixi, et
+plantavi vineam (Isa. V, 2). Domus, anima in qua Christus
+habitat, vel Ecclesia. In psalmo: In domum
+Domini ibimus (Ps. CXXI, 1). Coenaculum, altitudo
+meritorum, vel scientiae.
+
+541
+02:23:10,555 --> 02:23:32,575
+In Evangelio: Et ipse vobis
+ostendet coenaculum magnum (Luc. XXII, 12). Ostium, adapertio fidei. In Apostolo: Ostium enim
+mihi apertum est, magnum et evidens (I Cor. XVI, 9). Ostiarius, Christus, qui dicit: Per me si quis introierit,
+salvabitur (Joan. X, 9).
+
+542
+02:23:32,575 --> 02:23:55,363
+Columna, firmamentum, vel stabilitas spiritalis. In
+Apost. : Jacobus et Joannes et Cephas, qui videbantur
+columnae esse (Gal. II, 9). Paries, interdum structura bonorum operum. In
+Cantic. : Ecce hic retro post parietem nostrum prospiciens
+per fenestras (Cant. II, 9).
+
+543
+02:23:55,363 --> 02:24:20,029
+Fenestrae, visus et
+auditus, vel caeteri sensus, ut supra: Prospiciens
+per fenestras. Item in malam partem: Mors introivit
+per fenestras (Jerem. IX, 12). Gradus, spiritalis ascensus. In psalmorum titulo: Canticum graduum (Ps. CXIX, 1). Ibunt sancti de virtute in virtutem (Ps. LXXXIII, 8).
+
+544
+02:24:20,029 --> 02:24:45,633
+Pavimentum, humiliatio, vel afflictio
+animae, sive in terrena declinatio. In psalmo: Adhaesit
+pavimento anima mea (Ps. CXVIII, 25). Psalterium,
+opera bona. In psalmo: Psalterium jucundum cum
+cithara (Ps. LXXX, 3). Cithara, pectus devotum, in
+quo tamquam nervi sunt virtutes, hoc est, spiritalia
+bona.
+
+545
+02:24:45,633 --> 02:24:50,327
+In psalm. : Exsurge, psalterium cum cithara
+(Ps.
+
+546
+02:24:50,327 --> 02:25:10,008
+XCVI, 9), id est, opera cum fide; vel de ipso
+Domino, resurrectio carnis cum divina virtute. Decachordum,
+praecepta decem, vel geminati, quinque
+sensus hominis exterioris cum interiore. In psalmo:
+In decachordo psalterio, cum cantico et cithara (Ps.
+
+547
+02:25:10,008 --> 02:25:26,369
+XCI, 4). Organum, homo, vel ille qui est assumptus
+a Domino. In psalmo: Laudate eum in chordis et
+organo (Ps. CL, 4). Tympanum, attenuatum corpus
+jejunio. In psalterio: Laudate eum in tympano et
+choro (Ibid.
+
+548
+02:25:26,369 --> 02:25:47,472
+). Chorus, concordia. In psalmo, ut supra. Tuba, vocis exaltatio in praedicatione divina. In propheta:
+Exalta ut tuba vocem tuam (Isai. LVIII, 1). Cymbala, labia Dominum confitentia, vel dilectio
+Dei et proximi. In psalmo: Laudate eum in cymbalis
+bene sonantibus (Ps.
+
+549
+02:25:47,472 --> 02:26:11,105
+CL, 5). Jubilatio, clamor spiritali
+fervore expressior. In psalm. : Laudate eum in
+cymbalis jubilationis (Ibid. ). Aegyptus, mundus hic, vel gentilium populus. In
+psalmo: Venient legati ex Aegypto (Ps. LXVII, 32). Aethiopia, Ecclesia ex gentibus. In psalmo: Aethiopia
+perveniet manus ejus Deo (Ibid.
+
+550
+02:26:11,105 --> 02:26:29,125
+). Item aliam partem,
+in psalmo: Dedisti eum escam populo Aethiopum
+(Ps. LXXIII, 14). Babylon, aut mundus, aut Roma. In Apocalypsi: Et Babylon magna venit in memoriam
+ante Deum dare ei calicem vini indignationis
+irae ejus (Apoc.
+
+551
+02:26:29,125 --> 02:26:47,778
+XVI, 19). Inimici, diabolus, vel vitia. In psalm. : Non confundetur cum loquetur inimicis
+suis in porta (Ps. CXXVI, 5). Fures, haeretici et pseudoprophetae; in Evangelio:
+Omnes quotquot venerunt ante me, fures fuerunt et latrones
+(Joan.
+
+552
+02:26:47,778 --> 02:27:05,167
+X, 8). Gentes, vitia. In Pentateucho:
+Cum introduxerit te Dominus Deus in terram quam
+possessurus ingredieris, et deleverit gentes multas coram
+te (Deut. VII, 1). Item in aliam partem: Omnes
+gentes, plaudite manibus (Ps.
+
+553
+02:27:05,167 --> 02:27:27,455
+XLVI, 2). Pugna, certamen
+adversus nequitias spiritales, vel adversus vitia
+conflictus. In Apostolo: Sic pugno non quasi aerem
+verberans (I Cor. IX, 26). Pax, carnis, in bonum et
+spiritus concordia. In psalmo: Rogate quae pacis sunt
+Hierusalem (Ps. CXXI, 6). Item pax, Christus.
+
+554
+02:27:27,455 --> 02:27:43,792
+In
+Apostolo: Ipse enim est pax nostra (Eph. II, 14). Victoria, de diabolo, vel de adversis triumphus. In
+Apostol. : Deo autem gratia, qui dedit nobis victoriam
+per Dominum nostrum Jesum Christum (I Cor. XV,
+57). Bravium, consummatorum praemium meritorum. In Apost.
+
+555
+02:27:43,792 --> 02:27:56,168
+: Ad destinatum persequor, ad bravium supernae
+vocationis Dei (Phil. III, 14). Corona, aeternae
+gloriae pro justitia merces. In Apostolo: De reliquo
+reposita est mihi corona justitiae (II Tim. IV, 8).
+
+556
+02:27:56,168 --> 02:28:14,423
+Quoniam
+spiritalium profectuum consummatio provehit
+ad coronam, recte horum quoque spiritalem nominum
+interpretationem corona consummat. Quae tamen
+nomina universa complecti arduum duximus,
+sicut etiam illud, ut depromerentur cuncta quae se
+in utramque partem gemina significatione diffundunt.
+
+557
+02:28:14,423 --> 02:28:18,143
+CAPUT XI. De numeris.
+
+558
+02:28:18,143 --> 02:28:36,441
+Sane tandem his nominibus absolutis, numeros
+quoque breviter digeramus, quos mystica exemplorum
+ratio inter sacros celebriores fecit. I. Hic numerus ad unitatem Deitatis refertur: in
+Pentateucho: Audi, Israel, Dominus Deus tuus unus
+est (Deut. VI, 4).
+
+559
+02:28:36,441 --> 02:28:55,832
+Et Apostolus: Unus Deus, una fides,
+unum baptisma (Ephes. IV, 5). Et arca Noe, qua
+sancta Ecclesia designatur, in uno cubito consummatur
+(Gen. VI, 16), quia in unius Dei contemplatione
+quies aeterna perficitur. II. Ad duo testamenta divinae legis referuntur, in
+Reg.
+
+560
+02:28:55,832 --> 02:29:12,817
+: Et fecit in Dabir duo Cherubin decem cubitorum
+magnitudine (III Reg. VI, 23). Duo praecepta charitatis,
+amoris videlicet Dei et proximi. Duo in agro,
+duo in molendino, duo in lecto (Luc. XVII, 34) leguntur
+in sancto Evangelio. III.
+
+561
+02:29:12,817 --> 02:29:30,751
+Ad Trinitatem; in Joannis Epistola: Tres sunt
+qui testimonium dant in coelo, Pater, Verbum, et Spiritus
+sanctus, et tres sunt qui testimonium dant in terra,
+spiritus, aqua et sanguis (I Joan. V, 7). Et in
+Gen. : Tres propagines (Gen. XL, 10). IV.
+
+562
+02:29:30,751 --> 02:29:52,620
+Ad quatuor Evangelia, in Ezechiele: Et ex
+medio eorum, similitudo quatuor animalium (Ezech. I,
+5). Sicut et quatuor flumina paradisi (Gen. II, 10). Nomen tetragrammaton quatuor litteris Hebraicis
+scribitur. Quatuor cornibus sancta crux insignitur,
+ut Habacuc: Cornua in manibus ejus (Hab. III, 4). V.
+
+563
+02:29:52,620 --> 02:30:14,198
+Ad quinque libros Moysi, ad quinque porticus
+(Joan. V, 2), ad quinque panes (Joan. VI, 9), ad quinque
+plagas (Joan. XX, 25) in corpore Dominico. Apostolus:
+In Ecclesia volo quinque verba sensu meo loqui
+(I Cor. XIV). VI. Ad diem sextum, quo Dominus hominem cum
+universis terrae animantibus fecit.
+
+564
+02:30:14,198 --> 02:30:26,008
+In Genesi: Faciamus
+hominem ad imaginem et similitudinem nostram
+(Gen. I, 26). Item paulo post: Et factum est vespere,
+et factum est mane dies sextus (Ibid., 31).
+
+565
+02:30:26,008 --> 02:30:38,327
+Senario
+numero perfectio comprehenditur: propterea Deus
+sex diebus mundum perfecisse describitur, et ipsis
+quinque unus adjicitur, ut lex per Evangelium impleatur.
+
+566
+02:30:38,327 --> 02:30:58,135
+Sex sunt aetates saeculi: quinque transierunt,
+sexta a Joanne Baptista et inhumanato Christo
+decurrit ad finem saeculi; unde et sexta die fecit
+Deus hominem ad imaginem suam, quia sexta ista
+aetate manifestatur per Evangelium reformatio mentis
+nostrae, secundum imaginem ejus qui creavit
+nos.
+
+567
+02:30:58,135 --> 02:31:11,430
+Sex has aetates illae sex hydriae significant, quas
+Dominus impleri jussit aqua, et in iis aqua conversa
+est in vinum (Joan. II, 6), ut jam manifestatum Christum
+in lege et prophetis intelligamus.
+
+568
+02:31:11,430 --> 02:31:30,627
+Illa ergo tempora
+sex, quasi per articulos distributa atque distincta,
+quasi vasa essent inania, nisi a Christo implerentur. Tempora utique inaniter praeterirent, nisi in
+eis Dominus Jesus Christus praedicaretur. Impletae
+sunt igitur hydriae, id est, adimpletae sunt prophetiae. VII.
+
+569
+02:31:30,627 --> 02:31:40,463
+Ad diem septimum, in quo perfectis omnibus
+Dominus requievit. In Genes. : Et requievit Deus die
+septimo ab omni opere quod patrarat (Gen. II, 2).
+
+570
+02:31:40,463 --> 02:31:58,099
+Numerus
+is humanae rationis causa summam perfectionem
+significat, quia ex primo pari et ex primo impari
+constat: ex primo siquidem qui dividi potest,
+et ex primo qui dividi non potest. Hinc jubilaeus, qui
+perfecta requies exprimitur, septem hebdomadis
+constat.
+
+571
+02:31:58,099 --> 02:32:15,193
+Hinc septem spiritus, qui sunt ante thronum
+Dei (Apoc. I, 4). Et septiformem gratiam Spiritus
+sancti significaverunt septem panes, quibus Christus
+quatuor hominum millia satiavit (Matth. XV, 34). VIII. Ad diem Dominicum resurrectionis, id est,
+octavum.
+
+572
+02:32:15,193 --> 02:32:33,508
+In titulo psalmi, In finem pro octava (Ps. VI, 1). IX. Ad sacramentum horae nonae, qua Dominus
+spiritum emisit. In Evangelio: Et circa horam nonam
+clamavit Jesus voce magna (Matth. XXVII, 46). Sunt et
+novem nomina pretiosorum lapidum, et novem sunt
+ordines angelorum. X.
+
+573
+02:32:33,508 --> 02:32:49,991
+Ad decalogum, id est, decem verba, quae in
+tabulis duabus scripta sunt. In psalm. : In psalterio
+decachordo psallam tibi (Ps. CXLIII, 9). XI. Ad apostolos. In Evangelio: Undecim autem
+discipuli abierunt in Galilaeam (Matth. XXVIII, 16).
+
+574
+02:32:49,991 --> 02:33:05,208
+Undenarius etiam numerus, quando denarium monade
+excedit, pro transgressione et reprehensione
+ponitur; unde et Petrus apostolus non passus est
+numerum apostolorum in undenario consistere, sed
+elegit Matthiam (Act. I, 26) duodecimum in ordine.
+
+575
+02:33:05,208 --> 02:33:19,167
+Hinc undecim saga cilicina in veteri lege fieri praecipiuntur
+(Exod. XXVI, 7), quae significant poenitentium
+actus pro commissis peccatis. Ad undecimam tandem
+horam (Matth. XX, 6), gentiles et aetas decrepita vocatur. XII.
+
+576
+02:33:19,167 --> 02:33:24,512
+Ad apostolos in Evangelio: Duodecim autem
+apostolorum nomina sunt haec (Matth. X, 2).
+
+577
+02:33:24,512 --> 02:33:42,747
+Hoc numero
+significatur universa judicantium multitudo
+(Matth. XIX, 28), propter duas partes septenarii, qua
+plerumque significatur universitas: quae duae partes,
+id est, tria et quatuor, altera per alteram partem
+multiplicatae, duodecim faciunt. XIV. Ad sacramentum Dominicae generationis.
+
+578
+02:33:42,747 --> 02:33:48,469
+In
+Evangelio, Ab Abraham usque ad David, generationes
+sunt quatuordecim (Matth. I, 17). XV.
+
+579
+02:33:48,469 --> 02:34:04,817
+Ad quindecim gradus templi, quos fecit Salomon,
+ad quorum numerum, quindecim psalmi qui
+inscribuntur Canticum graduum, compositi sunt;
+id est, a psalmo, Ad Dominum cum tribularer (Ps. CXIX, 1), usque ad, Laudate nomen Domini. XVI. Ad numerum prophetarum. XXII.
+
+580
+02:34:04,817 --> 02:34:23,052
+Ad sacramentum divinorum voluminum,
+secundum litteras Hebraeorum. XXIV. Ad mysterium numeri seniorum. In Apocalypsi:
+Et super thronos viginti et quatuor seniores
+(Apoc. IV, 4). Et vigintiquatuor sortibus in ministerio
+templi distributi fuerunt sacerdotes a rege David
+(I Par. XXIV, 7). XXX.
+
+581
+02:34:23,052 --> 02:34:36,759
+Ad fructus fidelium conjugiorum. In Evangelio:
+Et dabunt fructum aliud centesimum, aliud
+sexagesimum, aliud tricesimum (Matth. XIII, 8), quod
+ad conjuges, sexagesimum ad viduas, centesimum
+ad virgines pertinet. XXXIII.
+
+582
+02:34:36,759 --> 02:34:54,239
+Ad mysterium aetatis, qua Dominus in
+carne versatus est; in Apostolo, sicut quibusdam ex
+hoc videtur, Donec occurramus in unitate fidei et
+agnitionis filii Dei, in virum perfectum, in mensuram
+aetatis plenitudinis Christi (Eph. IV, 13). XL. Ad quadragesimae sacramentum.
+
+583
+02:34:54,239 --> 02:34:59,082
+In Evangelio:
+Et agebatur a spiritu in deserto diebus quadraginta
+(Luc. IV, 2).
+
+584
+02:34:59,082 --> 02:35:17,043
+Et virtus Decalogi, per quatuor libros Evangelii impletur, Decalogi autem mandata perficimus, si quatuor sancti Evangelii libros perfecte custodimus: sic per continentiam, vigilias, et orationes, et caetera, quae Apostolus commemorat, arma justitiae (II Cor. VI, 7) ad immortalis vitae praemia
+
+585
+02:35:17,043 --> 02:35:17,717
+pervenimus.
+
+586
+02:35:17,717 --> 02:35:34,758
+XLII. Ad numerum in eremo mansionum, vel ad
+numerum generationum, quae ab Abraham sunt
+usque ad Dominum Jesum Christum (Matth. I). XLVI. Quadraginta et sex annis aedificatum est templum
+(Joan. II, 20), a transmigratione redeuntibus
+Judaeis, secunda aedificatione post Salomonem.
+
+587
+02:35:34,758 --> 02:35:52,535
+Hic
+annorum numerus perfectioni Dominici corporis
+aptissime convenit. L. Ad Pentecosten; in Actibus Apostolorum: Et
+cum complerentur dies Pentecostes (Act. II, 1). LX. Ad fructum viduis, sive continentibus debitum. In Evangelio: Et dabunt fructum, aliud sexagesimum
+(Matth. XIII, 8). LXXII.
+
+588
+02:35:52,535 --> 02:36:08,902
+Ad numerum presbyterorum Moysi (Num. XI, 24), vel discipulorum quos Dominus elegit, in
+Evangelio: Post haec autem designavit Dominus et
+alios septuaginta duos, et misit illos binos ante faciem
+suam in omnem civitatem (Luc. X, 1). C. Ad martyrum fructum sive virginum.
+
+589
+02:36:08,902 --> 02:36:25,882
+In Evangelio:
+Dabunt fructum aliud centesimum (Matth. XV. 8). Numerus ille absolutam perfectionem significat, sicut
+de electis dicitur: Qui reliquerit domum, aut fratres,
+aut sorores; et caetera quae sequuntur: centuplum
+accipiet, et vitam aeternam possidebit (Matth. XIX, 29).
+
+590
+02:36:25,882 --> 02:36:40,288
+Centum etiam quantitatem temporis indicat, ut
+Isaias, Centum annorum puer morietur; et caetera
+(Isa. LXV, 20). Est et in Evangelio centesima ovis
+(Luc. XV, 4), quam Christus sacris suis humeris imponens
+ad coelestem patriam detulit. M.
+
+591
+02:36:40,288 --> 02:36:54,815
+Millenarius numerus pro perfectione omnium
+numerorum ponitur, et pro perfecta bonorum omnium
+actione. Sic Petrus in Epistola: Unum vero
+hoc non lateat vos, charissimi, quia unus dies apud
+Deum, sicut mille anni (II Petr. III, 8).
+
+592
+02:36:54,815 --> 02:37:08,882
+Nam in cognitione
+Dei, praeterita, praesentia et futura sunt
+aequaliter praesentia; et quae longa, sive brevia nobis
+videntur temporum curricula, aequalis spatii sunt
+apud Deum. Hos igitur certos sacratosque numeros
+exempli tantum causa protulimus.
+
+593
+02:37:08,882 --> 02:37:15,575
+Sunt vero praeter
+eos plurimi, vel pene omnes sacrati, qui quo modo
+fiant, ipse divinae lectionis scrutator invenies.
+

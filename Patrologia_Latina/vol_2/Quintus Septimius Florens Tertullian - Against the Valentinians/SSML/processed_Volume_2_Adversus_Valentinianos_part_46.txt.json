@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXXIX. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirty-Nine<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>How much disagreement exists about the Lord Jesus Himself?</s>\n        <s>Some believe He is formed from the essence of all Aeons, while others argue that He consists only of the ten brought forth by Word and Life.</s>\n        <s>Thus, the focus of Word and Life is directed toward Him.</s>\n        <s>Some suggest He is rather made from twelve, descended from Man and Church.</s>\n        <s>This is why they say He is called the Son of Man.</s>\n        <s>Others claim He was created by Christ and the Holy Spirit to establish the universe, justifiably as the heir to the Father's name.</s>\n        <s>There are those who believe the Son of Man should be understood differently, even though they assume the Father referred to humans with this profound name.</s>\n        <s>What more can you expect from the faith of a God with whom you now compare yourself?</s>\n        <s>Such notions thrive among them from the abundance of maternal seed.</s>\n        <s>And so, the expanding teachings of the Valentinians have now become entangled in the complexities of the Gnostics.</s>\n    </p>\n</speak>",
+      "original_latin": "De ipso jam Domino Jesu , quanta diversitas\nscinditur? Hi ex omnium Aeonum flosculis eum\nconstruunt, illi ex solis decem constitisse contendunt,\nquos Sermo et Vita protulerunt; inde et in ipsum\nSermonis et Vitae concurrerunt oculi: isti \nex duodecim  potius, ex Hominis et Ecclesiae\nfoetu: ideoque Filium hominis aiunt  pronuntiatum;\nalii a  Christo et Spiritu Sancto constabiliendae\n universitati  provisis, confictum: et jure ,\npaternae appellationis haeredem. Sunt qui filium hominis\naliunde conceperint dicendum: quamquam  ipsum\nPatrem pro magno nominis sacramento Homines\nappellasse praesumpserint , ut quid amplius speres\nde ejus Dei fide cui nunc adaequaris? Talia ingenia superfruticant\napud illos ex materni seminis redundantia. Atque ita inolescentes  doctrinae Valentinianorum,\nin silvas jam exoleverunt Gnosticorum .",
+      "voice": "Matthew"
+    }
+  ]
+}

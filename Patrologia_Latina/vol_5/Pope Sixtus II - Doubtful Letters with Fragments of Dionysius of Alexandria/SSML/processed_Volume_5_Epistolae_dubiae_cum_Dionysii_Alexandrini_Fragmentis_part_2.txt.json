@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            From Gratian,\n        </s>\n        <s>\n            If anyone feels wronged by their metropolitan, they should seek judgment from the diocese's primate or the pope of the universal apostolic Church.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "EX GRATIANO (2 q. 6 et 3 q. 6). Si quis putaverit se a proprio metropolitano gravari\napud primatem dioeceseos, aut penes universalis\napostolicae Ecclesiae papam judicetur.",
+      "voice": "Matthew"
+    }
+  ]
+}

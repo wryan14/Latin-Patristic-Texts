@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Chapter Nineteen<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "CAPUT XIX. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      The specific meanings of names don't align with the meanings of the works from which all these names originate. Ideally, they should be named after the one who carries out the actions, but that's not the case here.\n    </s>\n    <s>\n      When they say Achamoth created images in honor of the Aeons, they actually credit this to the author Soter, who worked through her.\n    </s>\n    <s>\n      This means she was intended to represent the image of the invisible and unknown Father—naturally unknown and invisible to the Demiurge. The Demiurge would then depict the son Nun, while the Archangels would illustrate the work of the Demiurge and the remaining Aeons.\n    </s>\n  </p>\n  <p>\n    <s>\n      When I hear about these grand images of the three, how can I not laugh at the images created by such a twisted artist?\n    </s>\n    <s>\n      A woman, Achamoth, as an image of the Father?\n    </s>\n    <s>\n      And the Demiurge, unaware of his mother, let alone his father?\n    </s>\n    <s>\n      An image of Nus that's unaware of the Father?\n    </s>\n    <s>\n      And angels, as servants, merely copies of their masters?\n    </s>\n    <s>\n      It's like painting a mule from a donkey and describing Ptolemy from Valentinus.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Sed nec nominum proprietas competit proprietati\noperum, de quibus nomina omnia, cum deberet illa\nhaec omnia vocitari, a qua res agebantur, nisi quod\njam nec ab illa. Cum enim dicant Achamoth in honorem\n Aeonum imagines commentatam, rursus hoc in\nSoterem auctorem detorquent, qui per illam sit operatus:\nut ipsam quidem, imaginem patris invisibilis\net incogniti daret; incognitam scilicet et invisibilem\nDemiurgo, eumdem autem Demiurgum Nun filium\neffingeret, Archangeli vero Demiurgi opus, reliquos\nAeonas exprimerent. Cum imagines audio tantas trium,\nquaero, non vis nunc ut imagines rideam perversissimi\n pictoris illorum? Foeminam Achamoth, imaginem patris? et ignarum matris Demiurgum, multo magis\npatris ? Imaginem Nus ignorantis patrem? et angelos\nfamulos simulacra dominorum? Hoc est\nmulum de asino pingere, et Ptolomaeum describere\nde Valentino .",
+      "voice": "Matthew"
+    }
+  ]
+}

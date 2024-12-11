@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXX. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Thirty <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>They don't consider necessary tasks important for themselves, nor do they follow any duties of discipline.</s>\n        <s>They also avoid the need for martyrdom with whatever interpretation they prefer.</s>\n    </p>\n    <p>\n        <s>They believe this rule is meant for the natural order, that we must work for salvation, which we don't have by privilege of status, but through the support of action.</s>\n        <s>For us, who are the imperfect essence, this seed is inscribed because we are seen, due to the loves of Philetus, and indeed destined for incomplete development, as their mother.</s>\n        <s>But woe to us if we have in any way exceeded the yoke of discipline.</s>\n        <s>If we have become inactive in works of holiness and justice.</s>\n        <s>If we wish to confess elsewhere, I don't know where, and not under the authorities of this age, in the courts of governors.</s>\n    </p>\n    <p>\n        <s>They claim their nobility both from accepting life's passivity and from the diligence of sins, with Achamoth flattering them, for she herself also progressed by sinning.</s>\n        <s>For in honor of the unions of the higher realms, it is said among them that it is always a mystery to be meditated upon and celebrated by attaching to a companion, that is, a woman.</s>\n        <s>Otherwise, he is considered degenerate and not legitimate in truth, who has not loved a woman, nor joined with her while wandering in the world.</s>\n    </p>\n    <p>\n        <s>And what will the eunuchs, whom we see among them, do?</s>\n    </p>\n</speak>",
+      "original_latin": "Ideoque nec operationes necessarias sibi existimant,\nnec ulla disciplinae munia observant;  martyrii\nquoque eludentes necessitatem qua volunt interpretatione. Hanc enim regulam animali semini praestitutam,\nut salutem quam non de privilegio status possidemus,\nde suffragio actus elaboremus. Nobis enim\ninscriptura  hujus seminis , qui imperfectae essentiae\nsumus, quia amoribus Phileti, et utique abortui\ndeputamur, quod mater illorum. Sed nobis quidem\nvae, si excesserimus in aliquo disciplinae jugum: si\nobtorpuerimus in operibus sanctitatis atque justitiae:\n si confitendum alibi, nescio ubi, et non sub potestatibus\nistius saeculi, apud tribunalia praesidum \noptaverimus. Illi vero et  de passivitate vitae,\n et  diligentia delictorum, generositatem suam vindicent,\nblandiente suis Achamoth, quoniam et ipsa\ndelinquendo  profecit. Nam et honorandorum\nconjugiorum supernorum gratia  dicitur apud illos,\nmeditandum atque celebrandum semper sacramentum,\n comiti, id est foeminae adhaerendo; alioquin degenerem,\nnec legitimum veritatis, qui diversatus in mundo non\namaverit foeminam, nec se ei junxerit. Et quid facient\nspadones, quos videmus apud illos?",
+      "voice": "Matthew"
+    }
+  ]
+}

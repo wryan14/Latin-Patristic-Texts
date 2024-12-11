@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Sixteen<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>She indeed turns to prayers in a motherly manner.</s>\n        <s>But Christ, who was already hesitant to leave the Pleroma again, appointed the Paraclete as a representative.</s>\n        <s>The Savior, granted by the Father of all Aeons the supreme power to subject them all, sends him with the duty and company of coeval angels; you might even believe with twelve groups.</s>\n    </p>\n    <p>\n        <s>There, at last, with his grand arrival, Achamoth was shaken and immediately covered herself with a veil as her first act of reverence and modesty.</s>\n        <s>Then she looks at him, a fruitful suggestion.</s>\n        <s>With the strength she gained from this, she approaches him, saying, \"Lord, Hail.\"</s>\n        <s>Presumably, he acknowledges and confirms her, cleansing her from all injuries of the Passion, not with the same negligence that had occurred in the mother's downfall.</s>\n        <s>However, he confounded the vices that had been practiced and perfected through use; and thus, solidly united, he fixed them separately in the material preparation of the body.</s>\n        <s>He transformed the innate incorporeal passion into the ability and nature by which he could soon reach rival equivalencies of bodies, arranging a dual condition of substances: from vices, the worst; from conversion, passionate.</s>\n    </p>\n    <p>\n        <s>This will be the matter that brought us into contention with Hermogenes and others who assume that God created all things from matter, not from nothing.</s>\n    </p>\n</speak>",
+      "original_latin": "Convertitur enim ad preces et ipsa more materno. Sed Christus, quem jam pigebat rursus  extra Pleroma\nproficisci, vicarium praefecit  Paracletum. Soterem (hic erit Jesus, largito ei patre universorum\nAeonum summam potestatem , subjiciendis eis \n omnibus; uti in ipso secundum Apostolum omnia conderentur)\n ad eam emittit   cum officio atque\ncomitatu coaetaneorum angelorum;  credas et cum\nduodecim fascibus. Ibi demum  adventu pompatico\nejus concussa Achamoth, protinus velamentum sibi\nobduxit, ex officio primo venerationis et verecundiae:\ndehinc contemplatur eum,  fructiferumque  suggestum. Quibus inde conceperat viribus occurrit illi,\nΚύριε. Χαῖρε. Hic opinor susceptam ille confirmat,\natque conformat  agnitione jam , et ab omnibus\n injuriis Passionis expumicat, non eadem \nnegligentia in exterminium  discretis, quae acciderat\nin casibus matris. Sedenim exercitata vitia, et\nusu  viriosa  confudit: atque ita massaliter solidata,\ndefixit  seorsum in materiae corporalem \n paraturam, commutans ex incorporali passione indita\nhabilitatem atque naturam , qua pervenire mox\nposset in aemulas aequiparantias corpulentiarum, ut\nduplex substantiarum conditio ordinaretur: de vitiis,\npessima; de conversione, passionalis. Haec erit materia\nquae nos commisit cum Hermogene, caeterisque\n qui Deum ex materia, non ex nihilo operatum cuncta,\npraesumunt .",
+      "voice": "Matthew"
+    }
+  ]
+}

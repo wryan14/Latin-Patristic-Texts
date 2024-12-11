@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXIII.",
+      "cleaned_english_translation": "<speak>\n    Chapter Twenty-Three<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>They place the strongholds of unique powers within these boundaries. At the highest peaks resides the group of thirty, with Horos marking the outer boundary. Below, Achamoth marks the middle, trampling on the son. Beneath lies the creator in his realm, and even more so, the devil in this common world we share. They are mingled and embodied, as previously mentioned, originating from the significant fall of Sophia.</p>\n    <p>Without Sophia's sorrow refining it, she wouldn't even have the space to breathe. The delicate garment of all bodies, the indicator of all colors, the instrument of times, all depend on this refinement—like the fear of creatures and even her transformation, including the creator himself.</p>\n    <p>Among all these elements and bodies, fire is ignited. The original passion of Sophia, which they have not yet revealed, I will argue, is shaken by her minor disturbances. You might even believe she created amidst such great troubles.</p>\n</speak>",
+      "original_latin": " Singularium autem potestatum arces his finibus\ncollocant. In summis summitatibus praesidet tricenarius\nPleroma, Horo signante lineam extremam. Inferius\nillum metatur medietatem Achamoth, filium\ncalcans: subest enim demiurgus in hebdomade sua,\nmagis diabolus, in isto nobiscum communi mundo\ncoelementato et concorporificato, ut supra editum est,\nex Sophiae utilissimis casibus, qua nec aerem haberet\nreciprocandi spiritus spatium, teneram omnium corporum\nvestem, colorum omnium indicem , organum\ntemporum, si non et istum Sophiae moestitia colasset;\nsicut animalia metus, sicut conversio\nejus, ipsum demiurgum. His omnibus elementis\natque corporibus ignis inflabellatus est: cujus\n originalem Sophiae passionem, quia nondum ediderunt,\nego interim argumentabor motiunculis ejus excussum. Credas enim illam in tantis vexationibus\netiam fabricitasse .",
+      "voice": "Matthew"
+    }
+  ]
+}

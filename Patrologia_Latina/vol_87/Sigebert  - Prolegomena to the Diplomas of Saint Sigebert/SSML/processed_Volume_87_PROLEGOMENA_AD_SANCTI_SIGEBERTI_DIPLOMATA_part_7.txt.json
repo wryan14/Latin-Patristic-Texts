@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Letter Two</s><break time=\"500ms\"/>\n    <s>To Saint Desiderius.</s>\n\n  </p>\n</speak>",
+      "original_latin": "EPISTOLA II. Ad eumdem sanctum Desiderium.",
+      "voice": "Ruth"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>When it comes to appeals, judges from a different province shouldn't hear the case.</s>\n        <s>If a cleric is accused of a crime, the proceedings should take place in the province where the accused resides.</s>\n        <s>The accuser shouldn't consider taking the cleric to a court in a different or more distant location.</s>\n    </p>\n</speak>",
+      "original_latin": "EX EODEM UT SUPRA. Super appellatione, alterius provinciae judices audire\nnon oportet. Si quis clericus super quibuslibet criminibus accusatus\nfuerit, in provincia, in qua consistit ille qui\npulsatur, suas exerceat actiones: nec existimet eum\naccusator suus alibi, aut longius ad judicium protrahendum.",
+      "voice": "Matthew"
+    }
+  ]
+}

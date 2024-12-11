@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    The Decrees of Sixtus the Second\n<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "DECRETA SIXTI SECUNDI",
+      "voice": "Ruth"
+    }
+  ]
+}

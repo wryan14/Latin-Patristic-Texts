@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Chapter Seventeen<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "CAPUT XVII. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>From this point, Achamoth, finally free from all troubles, begins to grow and thrive in greater works.</s>\n        <s>Overjoyed by such success arising from misfortune, and inspired by the contemplation of the angelic lights, she, in a way, absorbed them within herself.</s>\n        <break time=\"500ms\"/>\n        <s>She immediately became spiritually pregnant with the image she had seen and the joyful, eager intention she had embraced and internalized.</s>\n        <s>Eventually, she gave birth, resulting in a trinity of kinds, emerging from a trinity of causes:</s>\n        <s>one material, from passion; another animal, from conversion; and the third spiritual, from imagination.</s>\n    </p>\n</speak>",
+      "original_latin": "Ab hinc Achamoth expedita tandem de malis omnibus,\necce jam proficit, et in opera majora frugescit. Prae gaudio enim tanti ex infelicitate successus concalefacta,\nsimulque contemplatione ipsa angelicorum\nluminum, ut ita dixerim, subfermentata, pudet, sed\naliter exprimere non est,  quodammodo subavit \nintra se ipsa in illos, et conceptu statim intumuit spiritali\n, ad imaginem ipsam, quam vis laetantis et\nlaetitia prurientis intentionis imbiberat, et sibi intimarat. Peperit denique, et facta  exinde trinitas\ngenerum  est, ex trinitate caussarum. Unum materiale,\nquod ex passione: aliud animale, quod ex\n conversione: tertium spiritale, quod ex imaginatione\n.",
+      "voice": "Matthew"
+    }
+  ]
+}

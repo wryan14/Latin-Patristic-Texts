@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>When the emperor requested his opinion on the body and blood of the Lord in the Eucharist, he clearly stated that he didn't want to assert anything from his own perspective, but rather, he wished to follow the teachings of the holy Fathers.</s>\n    <s>He remained true to the paths laid out by the ancients or elders, as described in paragraph five, which require neither commentary nor further explanation.</s>\n  </p>\n  \n  <p>\n    <s>I will try to express my thoughts on this matter, not by relying on my own skills, but by following in the footsteps of the Fathers.</s>\n  </p>\n  \n  <p>\n    <s>And in paragraph one hundred and two, at the end:</s>\n    <s>In my desire to follow your greatness's command, I, though humble, have taken the liberty to discuss significant matters, not out of my own presumption, but guided by the authority of the elders.</s>\n  </p>\n  \n  <p>\n    <s>In paragraph thirty, Ratramnus acknowledges that he opposed many, which the writer argues indicates he was disputing against the Church's doctrine.</s>\n  </p>\n</speak>",
+      "original_latin": "RESPONSIO. Imo vero: nam cum jusserit imperator sententiam\nsuam scribere de corpore et sanguine Domini in Eucharistia,\npalam profitetur se nihil ex proprio praedio\nvelle assumere, sed semper vestigiis sanctorum Patrum\ninhaerere, et antiquorum seu majorum sulcos\ndiductos non declinare, uti intelligitur his verbis\nnum. 5 descriptis, quae nec commentario nec amplificata\nexplicatione indigent: Quid ex hoc sentiam\naperire tentabo, non proprio fretus ingenio, sed vestigia\nPatrum prosequendo. Et num. 102, in calce:\nImperio vestrae magnitudinis parere cupientes,\npraesumpsi parvus de rebus de non minimis disputare,\n non sequentes aestimationis nostrae praesumptionem,\nsed majorum intuentes auctoritatem. II. Ex eo quod num. 30 multis adversari se fateatur\nRatramnus, contendit dissertator contra doctrinam\nEcclesiae disputasse.",
+      "voice": "Matthew"
+    }
+  ]
+}

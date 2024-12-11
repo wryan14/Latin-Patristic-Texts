@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXXVIII. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Thirty-Eight <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            Now more advanced, Secundus succinctly divides the Ogdoad into two Tetrads: right and left, light and darkness.\n        </s>\n        <s>\n            However, he chooses not to derive that leaping and failing power from any of the thirty Aeons, but rather from the fruits that come from their substance.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Humanior jam Secundus, ut brevior, Ogdoadem\nin duas Tetradas dividens, in dextram et sinistram,\nin lumen et tenebras; tantum quod desultricem et\ndefectricem illam virtutem non vult ab aliquo deducere\n triginta  Aeonum, sed a fructibus de substantia\neorum venientibus  .",
+      "voice": "Matthew"
+    }
+  ]
+}
