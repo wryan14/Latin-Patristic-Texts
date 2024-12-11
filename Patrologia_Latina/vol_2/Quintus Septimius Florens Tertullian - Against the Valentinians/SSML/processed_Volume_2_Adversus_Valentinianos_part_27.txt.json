@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XX. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Twenty <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>So, the Demiurge, being outside the boundaries of the Pleroma, created a new realm in the endless void of eternal exile, which is this world.</s>\n    <s>He organized the chaos and differentiated the dual nature of animals and materials, forming bodies from incorporeal elements: heavy, light, ascending, and descending, celestial and terrestrial.</s>\n    <s>He completed the sevenfold structure of the heavens with his throne above.</s>\n    <s>That's why the Sabbath is named, from the week of his seat; and Ogdoad, the mother Achamoth, from the concept of the primordial Ogdoad.</s>\n  </p>\n  <p>\n    <s>They consider the heavens to be intelligent and sometimes equate them to angels, much like the Demiurge himself.</s>\n    <s>Paradise is also seen as the fourth archangel, as it is placed above the third heaven, from whose power Adam took, residing there among clouds and trees.</s>\n  </p>\n  <p>\n    <s>Ptolemy recalled enough of the fanciful notions, like apples growing in the sea and fish on trees.</s>\n    <s>Thus, he assumed there were nuts in the heavens.</s>\n    <s>The Demiurge works in ignorance, which might explain why he doesn't realize trees should only grow on earth.</s>\n  </p>\n  <p>\n    <s>Of course, the mother knew.</s>\n    <s>Why didn't she suggest it?</s>\n    <s>She who also exerted her influence.</s>\n    <s>By elevating her son with works that portray him as father, god, and king, even before the Valentinians' ideas, why she didn't want these things to be known to her, I will question later.</s>\n  </p>\n</speak>",
+      "original_latin": "Igitur Demiurgus extra Pleromatis limites constitutus,\nin ignominiosa aeterni exilii vastitate novam\nprovinciam condidit, hunc mundum: repurgata confusione,\net distincta diversitate duplicis substantiae\nillius,  de strue  animalium et materiarum. Ex\nincorporalibus corpora aedificat, gravia, levia, sublimantia\natque vergentia, coelestia atque terrena; tum\nipsam coelorum semptemplicem scenam solio desuper\n suo finit; unde et sabbatum dictum , ab hebdomade\nsedis suae; et Ogdoas mater Achamoth, ab argumento\nOgdoadis primogenitalis . Coelos autem noeros \ndeputant, et interdum angelos eos faciunt, sicut et\nipsum Demiurgum: sicut et Paradisum, archangelum\nquartum, quoniam  et hunc supra coelum tertium\npangunt, ex cujus virtute sumpserit Adam, diversatus\nillic  inter nubeculas  et arbusculas. Satis\n meminerat Ptolomaeus puerilium dicibulorum, in mari\npoma nasci, et in arbore pisces: sic et in coelestibus\nnuceta  praesumpsit. Operatur Demiurgus ignorans,\net ideo fortasse non scit  arbores in sola terra institui\noportere. Plane mater sciebat. Quidni suggerebat? quae et effectum suum ministrabat. Sed tantum fastigium\nfilio extruens per ea opera quae illum et patrem,\net deum, et regem, ante Valentinianorum ingenia\ntestantur, cur sibi quoque ista noluit esse nota, postea\nquaeram .",
+      "voice": "Matthew"
+    }
+  ]
+}

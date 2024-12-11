@@ -11,3 +11,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Passion of St. Maurice and Companions by Eucherius of Lyons - Archive.org](https://archive.org/details/passion-of-st.-maurice-and-companions)
 * [Summary of the Works of Cassian by Eucherius of Lyons - Archive.org](https://archive.org/details/summary-of-the-works-of-cassian)
 * [Sermon on the Miracle of Saint Genesii by Hilary of Arles - Archive.org](https://archive.org/details/sermon-on-the-miracle-of-saint-genesii)
+* [Book of Spiritual Intelligence Formulas by Eucherius of Lyons - Archive.org](https://archive.org/details/book-of-spiritual-intelligence-formulas)

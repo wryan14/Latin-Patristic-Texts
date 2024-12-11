@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>And a little later, Dionysius continues.</s>\n    <s>To our beloved fellow priests, Dionysius and Philemon, who initially agreed with Stephen and had written to me about these matters, I replied with a few words earlier, but now I have much more to say.</s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Et aliquanto post prosequitur Dionysius. 2. Sed et dilectis compresbyteris nostris Dionysio\net Philemoni, qui prius cum Stephano consentiebant,\ndeque iisdem ad me scripserant, antea quidem\n paucis, nunc vero pluribus rescripsi. Καὶ τοῖς ἀγαπητοῖς δὲ ἡμῶν καὶ συμπρεσβυτέροις Διονυσίῳ καὶ Φιλήμονι, συμψήφοις πρότερον Στεφάνῳ γενομένοις, καὶ περὶ τῶν αὐτῶν μοι γράφουσι, πρότερον  μὲν ὀλίγα, καὶ νῦν δὲ διὰ πλετόνων ἐπέστειλα.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "RESPONSIO. Nunquam censuit omne mysterium peragi fide, nec\nex libris ejus tam pravum dogma intelligi potest. Mysterium, secundum Ratramnum, est objectum\nfidei nostrae, quia interius continet quod sensuum\nexteriorum vires superat. Nusquam etiam dixit corpus\nfigurate dicitur accipi ut sit mysterium: ad id\nprobandum conceptis verbis ex lucubratione Ratramni\nexcerptis, non nisi contemptim dissertator\n provocari potest. XLVIII. (Pag. 295 edit. Amstelod., 189 Paris.). Num. 44, sacramentum sive mysterium constare ait\nex duobus, et pane visibili et verbo Dei. De Christi\ncorpore quod eo pane intimatur, intellectu creditur,\nsic mysterium intellectu et fide peragi.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            He never believed that every mystery is achieved by faith alone, nor can such a distorted view be interpreted from his writings.\n        </s>\n        <s>\n            According to Ratramnus, a mystery is the object of our faith because it contains something beyond the reach of our external senses.\n        </s>\n        <s>\n            He never stated that the body is figuratively received as a mystery.\n        </s>\n        <s>\n            To demonstrate this, only a contemptuous opponent would be provoked by selectively quoting words from Ratramnus's work.\n        </s>\n    </p>\n    <p>\n        <s>\n            In number 44, he explains that the sacrament or mystery consists of two elements: the visible bread and the word of God.\n        </s>\n        <s>\n            Concerning the body of Christ signified by that bread, it is believed through understanding, thus the mystery is fulfilled by understanding and faith.\n        </s>\n    </p>\n</speak>"
+        }
+    ]
+}

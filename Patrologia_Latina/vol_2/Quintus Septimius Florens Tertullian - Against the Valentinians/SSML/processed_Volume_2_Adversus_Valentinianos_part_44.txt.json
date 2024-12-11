@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n   Chapter Thirty-Seven <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "CAPUT XXXVII. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Here are some more ideas from Ennius Curruca, a notable teacher, who shared his thoughts with great authority.</s>\n        <s>He said that first and foremost, there is Proarche, something unimaginable, indescribable, and unnamed, which he refers to as Monoteta.</s>\n    </p>\n    <p>\n        <s>Alongside this was another power, which he also calls Henoteta.</s>\n        <s>Monotes and Henotes, meaning Solitude and Unity, when they were one, brought forth the intellectual beginning of everything, uncreated and invisible, which is referred to as the Monad.</s>\n    </p>\n    <p>\n        <s>Attached to this is a co-essential power, which he calls Union.</s>\n        <s>These powers—Solitude, Singularity, Unity, and Union—led to the creation of the other emanations of Aeons.</s>\n    </p>\n    <p>\n        <s>Oh, the difference!</s>\n        <s>Let Union and Unity, Singularity and Solitude be altered, for even though you have defined them, they are one.</s>\n    </p>\n</speak>",
+      "original_latin": "Accipe  alia ingenia Currucae  Enniani, insignioris\n apud eos magistri, qui et  pontificali\nsua auctoritate in hunc modum censuit. Est, inquit,\n ante omnia Proarche, inexcogitabile, et inenarrabile,\net innominabile , quod  ego nomino Monoteta. Cum hac erat alia virtus, quam et ipsam appello Henoteta. Monotes et Henotes, id est Solitas et Unitas,\ncum unum essent, protulerunt non proferentes initium\nomnium intellectuale, innascibile, invisibile,\nquod sermo Monada  vocavit. Huic adest consubstantiva\nvirtus, quam appellat Unio. Hae igitur virtutes\nSolitas, Singularitas, Unitas , Unio, caeteras\nprolationes Aeonum propagarunt. O differentia! Mutetur\nUnio et Unitas, Singularitas et suum Solitas ,\n quamquam  designaveris, unum est .",
+      "voice": "Matthew"
+    }
+  ]
+}

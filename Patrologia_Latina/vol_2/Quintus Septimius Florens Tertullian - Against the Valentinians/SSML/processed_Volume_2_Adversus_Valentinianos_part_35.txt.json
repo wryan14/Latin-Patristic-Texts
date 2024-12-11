@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXVIII. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Twenty-Eight <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Meanwhile, the Creator of all things remained unaware of what was happening, even though he preached through the Prophets without fully understanding his own work.</s>\n        <s>They also divided prophetic support among Achamoth, the seed, and the Creator.</s>\n    </p>\n    <p>\n        <s>Upon hearing about the arrival of the Savior, he eagerly and joyfully hurried over with all his forces, much like the Centurion from the Gospel.</s>\n        <s>Enlightened about everything, he even learns from the Savior about his hope of succeeding his mother.</s>\n    </p>\n    <p>\n        <s>Reassured from that moment on, he continues to manage this world, especially under the guise of protecting the Church, for as long as it is necessary.</s>\n    </p>\n</speak>",
+      "original_latin": "Interea Demiurgus omnium adhuc nescius, etsi aliquid\net ipse per Prophetas concionabitur, ne hujus\nquidem operis sui intelligens (dividunt enim et prophetiale\n   patrocinium  in Achamoth, in semen,\nin Demiurgum): ubi adveutum Soteris accepit,\n propere et ovanter accurrit , cum omnibus viribus\nsuis, Centurio de Evangelio. Et de omnibus inluminatus,\n ab illo etiam spem suam discit, quod successurus\nsit in locum matris. Ita exinde securus,\ndispensationem  mundi hujus, vel maxime Ecclesiae\nprotegendae nomine, quanto tempore oportuerit,\ninsequitur .",
+      "voice": "Matthew"
+    }
+  ]
+}

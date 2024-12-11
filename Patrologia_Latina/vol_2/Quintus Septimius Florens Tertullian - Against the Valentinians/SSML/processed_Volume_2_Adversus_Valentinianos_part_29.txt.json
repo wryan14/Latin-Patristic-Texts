@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXII. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Twenty-Two <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      The infamy surrounding the devil is somewhat more acceptable to them, perhaps because it originates from a more degrading source.\n    </s>\n    <s>\n      They believe it arises from the evil of that sorrow, which they associate with the origins of angels, demons, and all spiritual evils.\n    </s>\n  </p>\n  <p>\n    <s>\n      Yet, they also claim that the devil is the work of the creator, referring to him as the ruler of the world.\n    </s>\n    <s>\n      They argue that he possesses greater knowledge of the higher realms, being a spiritual entity by nature, more so than the creator, whom they view as possessing an animal nature.\n    </s>\n  </p>\n  <p>\n    <s>\n      He is favored by them, to whom all heresies are attributed.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Tolerabilior infamia est apud illos in diabolum, vel\nquia origo sordidior capit; ex nequitia enim moeroris\nillius deputatur, ex qua angelorum et daemonum\net omnium spiritalium malitiarum genituras notant\nEt tamen diabolum quoque opus demiurgi affirmant,\net munditenentem  appellant, et superiorum magis\ngnarum defendunt, ut spiritalem natura, quam demiurgum,\nut animalem. Meretur ab illis praelationem,\n cui omnes haereses procurantur .",
+      "voice": "Matthew"
+    }
+  ]
+}

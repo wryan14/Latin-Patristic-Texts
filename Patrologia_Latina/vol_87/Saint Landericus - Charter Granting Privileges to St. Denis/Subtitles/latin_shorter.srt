@@ -1,0 +1,323 @@
+1
+00:00:00,000 --> 00:00:06,731
+br&gt;ANNO DOMINI DCLI. SANCTUS LANDERICUS,
+PARISIENSIS EPISCOPUS. &lt;break time='500ms'/&gt;NOTITIA HISTORICA.
+
+2
+00:00:06,731 --> 00:00:21,635
+(Ex Gallia Christiana, tom. VII.) &lt;break time='2s'/&gt;
+Landericus Parisiensis episcopus consensit et
+nomen apposuit suum cum aliis episcopis privilegio
+libertatis et immunitatis a Clodovaeo II rege concessae
+monasterio sancti Dionysii X Kalend.
+
+3
+00:00:21,635 --> 00:00:35,699
+Julii anno 16
+regni sui (Hist. eccles. Paris. t. I, pag. 188). Quin et
+ipsum aliud eidem coenobio anno praecedenti contulisse
+eadem de re privilegium probare videntur bulla
+Stephani II papae data Fulrado abbati sancti Dionysii
+IV Kal.
+
+4
+00:00:35,699 --> 00:00:50,303
+Martii 757, et charta Hilduini abbatis nono
+saeculo de partitione bonorum hujusce monasterii,
+licet vulgatum pro falso, sin minus interpolato a plerisque
+reputetur (Saec. III Bened., part. II, pag. 336;
+Hist. eccles. Paris., tom. I, pag. 180).
+
+5
+00:00:50,303 --> 00:01:08,212
+Et certe in concilio Pistensi habito anno 862, Ludovicus sancti Dionysii abbas privilegium a Landerico Parisiensi episcopo suo monasterio jampridem concessum obtulit confirmandum, cui subscripserunt episcopi, inter quos Aeneas Parisiacae urbis episcopus privilegium domni Landerici antecessoris sui
+
+6
+00:01:08,212 --> 00:01:13,321
+omnino aequitatis tramite servare approbans corroboravit (Spicileg. t. VI, pag. 378).
+
+7
+00:01:13,321 --> 00:01:26,423
+Landerici Parisiensis episcopi meminit
+Chronicon sancti Maxentii apud Labbaeum
+tomo II Bibliothec. , pag. 192: Clodovaei filii Dagoberti
+temporibus exstitit Ansoaldus Pict. Audoenus,
+Landericus Parisiacae praesul, etc.
+
+8
+00:01:26,423 --> 00:01:34,176
+Meminerunt
+et diversa Hagiologia, pervetusta recensque edita
+Breviaria, de quibus vide Bollandistas, tomo I Junii,
+pag. 292.
+
+9
+00:01:34,176 --> 00:01:52,757
+Inde mirum a nonnullis, inter quos Valesius, neminem Audobertum inter et Chrodobertum Parisiensem episcopum recenseri, qui volunt apud auctores, qui temporibus Dagoberti, Clodovaei II et Clotarii III, scripserunt, vel in conciliis quae habita sunt, nullum reperiri Landericum Parisiensem episcopum;
+
+10
+00:01:52,757 --> 00:02:00,488
+illum vero, cui Marculfus suas formulas nuncupat, posse esse alterum Meldensem, de quo Molanus in indiculo sanctorum Belgii.
+
+11
+00:02:00,488 --> 00:02:19,070
+At praeter quam quod illius meminerunt tabularia Parisiensis Ecclesiae, et antiqui ejus episcoporum indices, Marculfus sub Clodovaeo II suas edidit formulas anno circiter 654, quo tempore Faro Meldis sedebat; nec ullus tunc Landericus in tabulariis ecclesiarum praeter Parisiensem ascriptus est, ut
+
+12
+00:02:19,070 --> 00:02:31,977
+optime in praefatione demonstrat vir clarissimus Hieronymus Bignon senatus Parisiensis ornamentum, qui Marculfi formulas primus luce donavit anno 1613, quas edidit postea Baluzius inter Capitularia, tomo II.
+
+13
+00:02:31,977 --> 00:02:40,457
+Ferunt et
+a Landerico primum ad limina matris ecclesiae exstructum
+dotatumque celebre illud nosocomium, quod
+vulgo domus Dei appellatur.
+
+14
+00:02:40,457 --> 00:02:56,668
+Celebratur quidem maxime
+ob incredibilem suam erga pauperes charitatem
+quae grassante fame anno, ut putat Mabillonius, 651,
+eo devenit, ut etiam domesticam supellectilem
+vendiderit. Quin et dicitur sacra ecclesiae vasa destruxisse,
+ut egenis alimoniam pararet.
+
+15
+00:02:56,668 --> 00:03:09,575
+Sepultus est
+sanctus Landericus in ecclesia sancti Germani Antissiodorensis,
+ubi ejus adhuc asservantur reliquiae,
+quas anno 1171 a Mauricio de Soliaco in capsa lignea
+rescratas Petrus de Ordeomonte 17 Sept.
+
+16
+00:03:09,575 --> 00:03:21,984
+1408
+cum nonnullis reperiit schedulis vetustate attritis,
+Landerici Parisiensis episcopi nomine inscriptis, et
+in argenteam capsam rite ac solemniter reposuit super
+columnam pone majus altare.
+
+17
+00:03:21,984 --> 00:03:42,685
+Sancti pontificis
+memoria solemnis est in Ecclesia Parisiensi ad IV
+Idus Junii
+&lt;break time='500ms'/&gt;CHARTA QUA SANCTUS LANDERICUS, EPISCOPUS PARISIENSIS, IMMUNITATES CONCEDIT
+MONASTERIO S. DIONYSII [Note: Vulgavere Dubletus, Hist. abb. S. Dion. , pag. 443; Cointius, Ann. t. III, pag.
+
+18
+00:03:42,685 --> 00:04:02,029
+339; Sirmondus,
+Concil. Gall. Sirm. t. I, pag. 495; Hard. t. III, col. 985, et alii conciliorum collectores. Exstat in historia
+Ecclesiae Parisiensis, t. I, pag. 180; et inter Probationes
+libertatum Ecclesiae Gallicanae, part. IV, pag. 197. Mabillonius, Annal. t. I, pag.
+
+19
+00:04:02,029 --> 00:04:22,659
+427, dum hujus
+chartae sinceritatem expendit, et rem in medio se
+relinquere profitetur, in severiorem tamen partem
+videtur propendere. Launoius, Assert. inquisit. in
+immun. Sancti Germani a Pratis, part. IV, cap. X,
+sect. I, 3, pluribus argumentis hoc instrumentum de
+falso criminatus est.
+
+20
+00:04:22,659 --> 00:04:34,937
+Horum quaedam diluerunt Cointius
+et historiae Ecclesiae Parisiensis scriptor. Sunt
+qui chartam hanc non omni ex parte falsam, sed aliqua
+interpolatione vitiatam contendant.
+
+21
+00:04:34,937 --> 00:04:51,855
+Nos quidem
+non negaverimus exstitisse immunitatis chartam a
+Landerico Ecclesiae Parisiensi concessam, quam
+confirmavit Clodoveus II, diplomate, sed ea deperdita,
+novam fabricatam fuisse circa nonum saeculum
+judicamus. Vide infra, not. d.
+
+22
+00:04:51,855 --> 00:05:05,204
+Certe, si cum diplomate
+Clodovei conferatur Landerici charta quam hic exhibemus,
+alia omnino videbitur quam ea quae hoc diplomate
+confirmata est. Sequimur lectionem Dubleti. ] (ANN. 652).
+
+23
+00:05:05,204 --> 00:05:26,547
+(Ex Brequigny Diplom., Chart., Leg., tom. II.) &lt;break time='2s'/&gt;
+Divina largiente gratia, Landericus, Parisiorum
+Ecclesiae episcopus [Note: Launoius, ubi supra, negat hac aetate exstitisse
+Parisiensem episcopum nomine Landericum; perperam,
+ut videre est in Nova Gall. Christ. t. VII,
+col. 24.
+
+24
+00:05:26,547 --> 00:05:26,975
+].
+
+25
+00:05:26,975 --> 00:05:39,226
+Quoniam quidem inter ea quae, Dei disponente providentia, cursu temporis agimus, si quid recte actum est, ad illius, qui et dando praemonuit et posse contulit, gloriam et nostram prosperitatem non est dubium adtinere, decet etiam praesertim eos qui in sacris ordinibus eminere videntur, privatae et
+
+26
+00:05:39,226 --> 00:05:47,325
+publicae rei ita curam agere, ut et sua peccamina annullare, et, si quid est virtutis, hoc semper ad altiora studeant provehere, et aliorum vel benefacta commendare, vel vitia invigilent corrigere.
+
+27
+00:05:47,325 --> 00:05:57,725
+Debet etiam
+esse grata omnium Dei fidelium inter se familiaritas
+et in expectandis dandisque beneficiis adeo opportuna
+propinquitas, ut nulli prorsus digna petenti, non
+modo non abnuat, verum etiam ut amplius quod dignum
+est ab altero petere postuletur.
+
+28
+00:05:57,725 --> 00:06:09,688
+Quapropter noverit omnium catholicae Ecclesiae cultorum generalis universitas quod domnus gloriosissimus Clodoveus, Francorum rex, divino irradiatus lumine, religiosa petitione humilitatis nostrae extremitatem poposcit, ut et nos, et canonicorum nostrorum [Note: Scriptor historiae Ecclesiae
+
+29
+00:06:09,688 --> 00:06:13,923
+Parisiensis, ubi supra, probare nititur canonicos non ante saeculum nonum in Francia fuisse institutos.
+
+30
+00:06:13,923 --> 00:06:22,103
+In hoc vero videtur
+frustra esse; legitur enim apud Gregorium Turonensem,
+Hist. lib. X, cap. 31, n. 6, a Balduino,
+Turonensi episcopo, institutam fuisse mensam canonicorum,
+regnante Clotario II.
+
+31
+00:06:22,103 --> 00:06:37,552
+] communis fraternitas, securitatis et incommutabilitatis privilegium ederemus, pro reverentia sancti Dionysii, sociorumque ejus Rustici et Eleutherii, qui cum eo laurea martyrii sunt redimiti, ad basilicam ipsorum, ubi ipsi corpore requiescunt, et in virtutum miraculis coruscant, et ubi Dagobertus,
+
+32
+00:06:37,552 --> 00:06:52,589
+genitor suus, quondam rex, vel genitrix sua Nanthildis regina, sepulturas habere videntur; quanquam sancta Carthaginensis synodus, facta a domino bonae memoriae Bonifacio ejusque coepiscopis, non prohibeat monachos sub privilegio proprio residere, vel sancti Augustini libri de ecclesiasticis
+
+33
+00:06:52,589 --> 00:07:04,793
+gradibus doceant monachos sub quiete regulariter viventes sua singulari lege debere quiescere, et ab omni infestatione clericorum intrepidos permanere, ne saecularis strepitus eos laedat quos districta regula servitutis Domini moderatur.
+
+34
+00:07:04,793 --> 00:07:19,984
+Quod nos considerantes, dum et canonica institutio nos hac de re non praejudicat, vel ideo quia supradicti domni Clodovei regis petitio quasi nobis jussio est, cui difficillimum est resisti, vel pro reverentia tantorum martyrum, quorum patrocinio se ipse commisit, seu ut ipsis monachis secundum
+
+35
+00:07:19,984 --> 00:07:30,490
+sanctum ordinem vivere liceat, et ut tam pro nobis quam pro omnibus nostrae Ecclesiae fratribus Deum orent, ipsum privilegium plena voluntate, una cum consensu fratrum meorum, ipsis concessisse visus sum.
+
+36
+00:07:30,695 --> 00:07:40,398
+Per quod decerno, atque ob testificationem divini nominis interdico, ut nec ego deinceps, nec ullus successorum meorum hoc audeat infringere, vel temerario ausu aliquatenus violare, videlicet, ut omnis presbyter vel clericus, ex his qui in ipso castro praefati beatissimi Dionysii martyris, vel
+
+37
+00:07:40,398 --> 00:07:50,068
+extra, ex loco qui dicitur fons sancti Remigii, sicut via distinguit quae praebet iter juxta pratum quod dicitur Formosum, usque ad ecclesiam sancti Quintini martyris, et illinc per regalem stratam, donec veniatur ad vivarium in capite Tricini pontis, sicut prata fratrum distinguunt, usque ad
+
+38
+00:07:50,068 --> 00:07:59,770
+praefatum locum fontis sancti Remigii, omnes illi qui in hoc circumscripto spatio ecclesiis serviunt, sint liberi et absoluti ab omni debito et redditione circadarum [Note: Circadarum jura (id est census qui solvebantur episcopis vel archidiaconis ab ecclesiis pro visitatione) prorsus ignorata
+
+39
+00:07:59,770 --> 00:08:01,783
+fuerunt saeculo VI; imo vix saeculo IX in usu esse coeperunt.
+
+40
+00:08:01,783 --> 00:08:09,143
+Hincmarus, Opera,
+t. II, pag. 179, in epistola sua ad Ludovicum Balbum,
+instat ne in regno ejus, per occasionabiles
+circadas, et per indebitas consuetudinarias exactiones
+ante viginti annos impositas, ecclesiae affligantur.
+
+41
+00:08:09,143 --> 00:08:17,591
+Et, ne quis credat anterioribus temporibus
+has exactiones fuisse introductas, addit tempore Pipini,
+Caroli et Ludovici eas in usu non fuisse. Ergo
+circa nonum saeculum conflata haec charta censeri
+potest, ut supra diximus, col. 299, not. a. ] et synodorum.
+
+42
+00:08:17,591 --> 00:08:23,927
+Tamen volumus, et pro reverentia sancti martyris
+Dionysii concedimus ut, si necessitas eis fuerit,
+ex nostro vel successorum nostrorum episcopatu, sine
+precio crisma et oleum suscipiant.
+
+43
+00:08:23,927 --> 00:08:40,938
+Et si quis eorum presbyterorum vel clericorum forte aut occisus (quod absit) aut vulneratus fuerit, aut ex eis omnibus alicujus injuriae acclamatio surrexerit, quicquid ex hiis omnibus nos adtinere videtur, hoc totum abbati qui in ipso sancto loco praefuerit, caeterisque fratribus, habendum et
+
+44
+00:08:40,938 --> 00:08:42,268
+disponendum concedimus.
+
+45
+00:08:42,268 --> 00:08:59,336
+Quod si aliquis calliditate aut cupiditate praeventus fuerit, et ea quae sunt superius comprehensa temerario spiritu violaverit, tribus annis poenitentiam agat a communione fratrum sequestratus, et nihilominus hoc privilegium, Christo protegente, qui et adjuvet illud conservantibus, et dissipet
+
+46
+00:08:59,336 --> 00:09:02,692
+illud destruere cupientibus, perpetuum maneat incorruptum.
+
+47
+00:09:02,692 --> 00:09:16,057
+Quam diffinitionem constitutionis nostrae, ut nostris
+et futuris temporibus valitura sit, manus nostrae
+subscriptionibus roboravimus, et coepiscopis domnis
+et fratribus nostris rogando supplicamus, ut ipsam
+insuper firmare debeant.
+
+48
+00:09:16,057 --> 00:09:33,009
+In Christi nomine Landericus,
+ac si peccator, episcopus urbis Parisiacae, hoc
+privilegium consensi et subscripsi. Munemundus episcopus
+consensi et subscripsi. Gonualdus episcopus
+consensi et subscripsi. Vulfolenus episcopus consensi
+et subscripsi. Armentarius episcopus consensi et
+subscripsi.
+
+49
+00:09:33,009 --> 00:09:47,936
+Runicus episcopus consensi et subscripsi. Malchardus episcopus consensi et subscripsi. Eligius
+episcopus consensi et subscripsi. Grator episcopus
+consensi et subscripsi. Joannes episcopus consensi
+et subscripsi. Burgundofart episcopus consensi et
+subscripsi.
+
+50
+00:09:47,936 --> 00:10:03,211
+Richoaldus episcopus consensi et subscripsi. Baldomerus episcopus consensi et subscripsi. Audoenus episcopus consensi et subscripsi. Taurinus
+episcopus consensi et subscripsi. Eustogius episcopus
+consensi et subscripsi. Laridandus episcopus
+consensi et subscripsi.
+
+51
+00:10:03,211 --> 00:10:15,072
+Bertefredus episcopus consensi
+et subscripsi. Audobertus episcopus consensi
+et subscripsi. Clarus episcopus consensi et subscripsi. Lastardus episcopus cons. et subs. Litterius epis. cons. et subs.
+
+52
+00:10:15,072 --> 00:10:29,484
+Palladius epis. cons. et subs. Aetherius
+e is. cons. et subs. Ingildus epis. cons. et subs. Audebertus
+epis. cons. et subs. Facto privilegio sub
+die Kalendarum Julii, in anno quinto decimo, regnante
+Clodoveo, gloriosissimo rege.
+
+53
+00:10:29,484 --> 00:10:35,615
+Ego Austrolenus
+tutor, jubente domno Landerico, episcopo, hoc
+privilegium scripsi et subscripsi.
+

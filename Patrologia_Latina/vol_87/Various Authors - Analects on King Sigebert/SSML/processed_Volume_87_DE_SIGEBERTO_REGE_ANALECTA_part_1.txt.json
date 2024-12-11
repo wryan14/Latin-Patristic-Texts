@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nAnalects on King Sigebert \n<break time=\"500ms\"/>\nby Various Authors<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "DE SIGEBERTO REGE\nANALECTA EX VARIIS AUCTORIBUS. ",
+      "voice": "Ruth"
+    }
+  ]
+}

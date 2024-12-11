@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Saint Sigebert, the King.</s>\n    </p>\n    <p>\n        <s>His life,</s>\n    </p>\n    <p>\n        <s>written by Sigebert, a monk from Gembloux.</s>\n    </p>\n    <p>\n        <s>(As found in Bollandus, volume one.)</s>\n    </p>\n</speak>",
+      "original_latin": "S. SIGEBERTI REGIS\nVITA,\nAUCTORE SIGEBERTO MONACHO GEMBLACENSI. (Ex Bolland., tom. I.)",
+      "voice": "Ruth"
+    }
+  ]
+}

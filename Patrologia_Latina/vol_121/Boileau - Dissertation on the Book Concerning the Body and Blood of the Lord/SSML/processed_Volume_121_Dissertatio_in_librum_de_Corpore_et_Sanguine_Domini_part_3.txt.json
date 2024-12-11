@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>It will soon be noted that he was condemned and committed to the fire by plenary synods and the entire Church long ago.</s>\n        <s>Recently, in the previous era, the most illustrious and learned bishops, Sanctesius of Evreux and Cardinal Perronius, Archbishop of Sens, found him to be openly teaching heresy.</s>\n    </p>\n</speak>",
+      "original_latin": "VERBA DISSERTATORIS. Verum etiam mox dicetur jampridem a plenariis synodis\nuniversaque Ecclesia damnatus et igni addictus,\nproxime vero superiore aetate ab illustrissimis doctissimisque\nantistitibus Sanctesio Ebroicensi, et Perronio\ncardinali, archiepiscopo Senonensi, apertam docere\nhaeresim deprehensus.",
+      "voice": "Matthew"
+    }
+  ]
+}

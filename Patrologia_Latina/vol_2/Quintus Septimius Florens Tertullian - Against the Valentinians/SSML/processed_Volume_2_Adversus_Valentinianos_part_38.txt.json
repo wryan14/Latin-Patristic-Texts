@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXXI. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Thirty-One <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Now, we reach the conclusion and the distribution of rewards.</s>\n        <s>When Achamoth has fully harvested her crop and begins gathering it into the barn, or when it's taken to the mills, ground into flour, and hidden in the kneading troughs until it's all leavened, then the completion will be near.</s>\n    </p>\n    <p>\n        <s>First, Achamoth herself is transferred from the middle region, from the second floor to the highest, restored to the Pleroma.</s>\n        <break time=\"500ms\"/>\n        <s>She is immediately received by the more compact Soter, the bridegroom, and together they form a new union.</s>\n        <s>This is what the scriptures refer to as the bridegroom and the bride, and the bridal Pleroma.</s>\n    </p>\n    <p>\n        <s>You might think that, when moving from place to place, the Julian laws also apply, as well as the supper.</s>\n        <break time=\"500ms\"/>\n        <s>Then, the Demiurge will move from the realm under heaven to higher places, into the now empty upper room of the mother, knowing and no longer seeing her.</s>\n        <s>If this were the case, he would have always preferred to remain unaware.</s>\n    </p>\n</speak>",
+      "original_latin": "Superest de consummatione, et dispensatione mercedis. Ubi totam messem Achamoth  seminis\nsui presserit, dein colligere in horreum coeperit, vel\ncum ad molas delatum, et defarinatum, in conspersionis\nalvearia  absconderit, donec totum confermentetur\n, tunc consummatio urgebit. Igitur\nin primis ipsa Achamoth, de regione medietatis, de\ntabulato secundo in summum transfertur, restituta\nPleromati: et statim excipit  compactitius \nille Soter, sponsus scilicet: ambo conjugium novum. Et  hic erit in scripturis sponsus et sponsa,\net sponsale Pleroma. Credas  enim, ubi de loco in\nlocum transmigratur,  leges quoque Julias intervenire,\n sicut et coenam . Et Demiurgus tunc\nde hebdomade sub coelesti  in superiora mutabit,\n in vacuum jam coenaculum matris,  sciens jam\nnec videns illam. Nam si ita erat, semper \nignorare maluisset .",
+      "voice": "Matthew"
+    }
+  ]
+}

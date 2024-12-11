@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>Two<break time=\"500ms\"/>\n    <s>\n      Diplomas. \n      <break time=\"500ms\"/>\n      \n        From Brequigny Diplomatics, Charters, and Laws, volume two.\n      \n    </s>\n  </p>\n</speak>",
+      "original_latin": "II. DIPLOMATA. (Ex Brequigny Diplom., Chart., Leg., t. II.)",
+      "voice": "Matthew"
+    }
+  ]
+}

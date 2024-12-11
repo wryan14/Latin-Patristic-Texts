@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nLetter One <break time=\"500ms\"/>\n    <p>\n        <s>To the holy Desiderius, <phoneme alphabet=\"ipa\" ph=\"ˈbɪʃ.əp\">Bishop</phoneme> of Cahors.</s>\n        \n    </p>\n</speak>",
+      "original_latin": "EPISTOLA PRIMA. Ad sanctum desiderium Cadurcensem episcopum. ",
+      "voice": "Ruth"
+    }
+  ]
+}

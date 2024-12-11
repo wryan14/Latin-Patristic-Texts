@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "§ II. Diploma spurium unicum.",
+      "cleaned_english_translation": "<speak>\n    Two<break time=\"500ms\"/>    <s>\n      A Single Forged Document.\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      The only remaining document of Sigebert's is a forgery.\n    </s>\n    <s>\n      It claims to restore the properties of the churches of Saint Peter in Trier, which had been taken away, to the cells of Saint Hilary and Saint Eucharius.\n    </s>\n    <s>\n      This document was crafted by Roserius solely to lend authority to the genealogical claims of the House of Lorraine.\n    </s>\n    <s>\n      He tried to trace it back to the Merovingian kings using several other documents that were ultimately condemned as forgeries.\n    </s>\n    <s>\n      We have highlighted the clear signs of forgery, which are abundant throughout this document, in our notes.\n    </s>\n    <s>\n      Brower, in \"History of Trier,\" volume one, page three hundred fifty-four, considered the document interpolated.\n    </s>\n    <s>\n      After removing what he believed were additions by the forger, he published it as if it were genuine.\n    </s>\n    <s>\n      However, he warned readers about the interpolation.\n    </s>\n    <s>\n      The authors of \"New Christian Gaul,\" volume thirteen, column two hundred ninety-one, ignored this warning.\n    </s>\n    <s>\n      They copied nearly the entire pseudo-diploma without any note of suspicion, leaving themselves open to naive credulity.\n    </s>\n    <s>\n      Since Roserius’s fraud is confirmed by a formal judgment, we would be ashamed to mix forged documents with legitimate ones, just because they share some common elements.\n    </s>\n  </p>\n</speak>",
+      "original_latin": " 1. Unicum restat Sigeberti diploma quod spurium\nest. Ibi ecclesiae sancti Petri Trevirensis ablatae restituuntur\nsancti Hilarii et sancti Eucharii cellae. Non alia mente a Roserio fabricatum fuit instrumentum\nhoc, nisi ut auctoritatem conciliaret systemati\n gentilitio domus Lotharingicae, quam a Merovingicis\nregibus deducere conatus est pluribus aliis instrumentis,\ncausa judicata, falsi nomine damnatis. Manifesta\nfalsi indicia, quibus totum hoc instrumentum\nscatet, in notis nostris reteximus. Browerus, Hist\nTrev. t. I, pag. 354, illud pro interpolato habuit, et,\nexpunctis quae a falsario inserta judicabat, quasi\ngenuinum edidit. Verum de interpolatione lectorem\nmonuit, quod neglexerunt auctores Novae Galliae\nChristianae, t. XIII, col. 291, qui fere totum pseudodiploma\nexscripserunt, nulla suspicionis nota incautae\ncredulitati praecaventes. Cum fraudes Roserii\ntestetur judicium solemne, puderet nos spurios fetus\nlegitimis miscuisse, eo quod aliquid deprehenderetur\napud ipsos cum legitimis commune.",
+      "voice": "Matthew"
+    }
+  ]
+}

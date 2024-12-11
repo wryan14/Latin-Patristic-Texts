@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IV. Eidem. ",
+      "cleaned_english_translation": "<speak>\n    Four<break time=\"500ms\"/>To the Same\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        You wonder how Jesus, who transcends all things, is fundamentally connected to all human beings. He isn't called a human just because he causes humanity, but because he is genuinely human in his entire essence. We don't separate Jesus from humanity.\n    </p>\n    <p>\n        He is not just a human, nor is he merely beyond essence as a human. Rather, he is truly human, distinct from, above, and among humans, and yet essentially beyond essence. Still, there is always an abundance of superessentiality.\n    </p>\n    <p>\n        With such greatness, he truly enters essence, rises above it, and performs human actions beyond typical human ability. This is shown by the virgin giving birth in a supernatural way, and water supporting the weight of material and earthly feet, not imagined, but established by unbreakable supernatural power.\n    </p>\n    <p>\n        What if someone navigates through the many existing things, and through divine insight, they come to know beyond the mind and recognize the intentions of Jesus' humanity, possessing the power of superior repulsion?\n    </p>\n    <p>\n        In summary, he wasn't human in the sense of being beyond humanity, but truly became above-human while remaining truly human. Furthermore, he didn't perform divine actions simply as God, nor human actions merely as a human. In becoming human, he participated in a new divine-human operation with us.\n    </p>\n</speak>",
+      "original_latin": "Quomodo, inquis, Jesus omnium επεκεινα, omnibus\n est hominibus essentialiter coordinatus Non? enim ut causalis hominum, hic dicitur homo, sed\nut hoc secundum essentiam totam vere homo ὤν. Nos autem Jesum non humanitus segregamus. Neque\nenim homo tantum, neque superessentialis sit\nhomo tantum, sed homo vere, differenter humanus,\nsuper homines, et secundum homines, ex hominibus\nex essentia superessentialis essentiatus. Est autem\nnihil minus superessentialitatis superplenitudo semper\nsuperessentialis. Itaque tali magnitudine et in\nessentiam vere veniens, et super essentiam essentiatus\nest, et super hominem operatur quae sunt\nhominis . Et declarat virgo supernaturaliter parturiens,\net aqua instabilis, materialium et terrenorum\npedum sustinens gravitatem, et non imaginatam, sed\n supernaturali virtute ad insolubile constitutam. Quid\nsi quis cetera plurima existentia pertranseat, per\nquae divinitus videns super animum cognoscet, et\nin humanitate Jesu intentiones virtutem supereminentis\ndepulsionis habentes? Etenim ut colligentes\ndicamus, neque homo erat, non ut non homine,\nsed ut ex hominibus hominum ἐπέκεινα, et super\nhominem vere homo factus. Et ceterum non secundum\nDeum divina operatus est, neque humana secundum\nhominem, sed humanato Deo novam quandam\ndeihumanam operationem nobis conversatus\nest.",
+      "voice": "Matthew"
+    }
+  ]
+}

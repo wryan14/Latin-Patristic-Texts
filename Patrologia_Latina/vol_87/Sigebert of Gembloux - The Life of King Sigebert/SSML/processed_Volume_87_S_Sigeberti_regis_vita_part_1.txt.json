@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        In the year 656 AD, Saint Sigebert was King of the Franks.\n    </p>\n</speak>",
+      "original_latin": "br>ANNO DOMINI DCLVI.SANCTUS SIGEBERTUS,\nREX FRANCORUM.",
+      "voice": "Ruth"
+    }
+  ]
+}

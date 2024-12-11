@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVIII. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Eighteen <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Having three children gave her the authority and experience to manage things, leading her to create different types of beings.</s>\n        <s>However, she struggled to understand the spiritual realm because she herself wasn't spiritual.</s>\n        <s>Their nature, being nearly equal and of the same essence, didn't allow for such a union.</s>\n    </p>\n    <p>\n        <s>With this in mind, she turned to the animal kingdom, following the teachings of the Savior.</s>\n        <s>First, though it must be spoken, read, and heard with great horror for its blasphemy, she envisions God, our God and the Father of all, except the heretics, as the Creator and King of everything that came after Him.</s>\n        <s>For everything originates from Him, if indeed it does, and not rather from Achamoth herself, who, without His knowledge, set everything in motion as if guided externally by a seal.</s>\n    </p>\n    <p>\n        <s>Finally, due to this ambiguity among the people and their works, they mixed the name of Metropator, using different names for others based on their roles and positions in the works.</s>\n        <s>They refer to the father of the animal substances on the right side, and the Creator for the material substances on the left side, while commonly calling Him the King of the universe.</s>\n    </p>\n</speak>",
+      "original_latin": "Hac auctoritate  trium scilicet liberorum agendis\nrebus exercitior  facta, formare singula genera\nconstituit. Sed spiritale quidem non ita potuit attingere\n, ut et ipsa spiritalis. Fere enim paria et consubstantiva,\nin alterutrum valere societas naturae\nnegavit. Eo animo,  unum ad animale convertit;\nprolatis Soteris disciplinis. Et primum (quod cum\nmagno horrore blasphemiae et pronuntiandum, et\nlegendum est et audiendum) Deum fingit  hunc\nnostrum et omnium, praeter haereticorum, patrem,\net  Demiurgum, et regem universorum quae post\nillum. Ab illo enim omnia , si tamen ab illo, et non\n ab ipsa potius Achamoth, a qua occulto nihil sentiens\nejus, et velut  sigillario  extrinsecus ductu, in\nomnem operationem movebatur. Denique ex hac personarum\nin operibus ambiguitate, nomen illi Metropatoris\nmiscuerunt, distinctis appellationibus caeteris\nsecundum status et situs operum: ut animalium quidem\nsubstantiarum quas ad dexteram commendant,\npatrem nuncupent: materialium  vero quas ad\nlaevam delegant, Demiurgum nominent: Regem autem\ncommuniter in universitatem .",
+      "voice": "Matthew"
+    }
+  ]
+}

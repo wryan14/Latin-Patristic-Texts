@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "V.\nDorotheo ministro.",
+      "cleaned_english_translation": "<speak>\n    Five<break time=\"500ms\"/><s>To Dorotheus the minister.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        \n        <s>The divine darkness is described as an unapproachable light where God is said to dwell.</s>\n        <s>It's invisible due to its overwhelming brightness and inaccessible because of its exceptional brilliance.</s>\n        <break time=\"500ms\"/>\n        <s>In this state, those who are worthy of knowing and seeing God achieve this by not seeing or knowing, truly understanding beyond vision and knowledge.</s>\n        <s>They realize it transcends all things visible and intelligible.</s>\n        <s>Prophetically, the sentiment is, \"Your knowledge is wonderful to me, strengthened, and I cannot reach it.\"</s>\n        <break time=\"500ms\"/>\n        <s>Thus, the divine Paul is said to have known God, recognizing Him beyond all existing understanding and knowledge.</s>\n        <s>Because of this, he declared that His ways are unsearchable, His judgments inscrutable, His gifts indescribable, and His peace surpasses all understanding.</s>\n        <break time=\"500ms\"/>\n        <s>Thus, understanding Him beyond all comprehension, knowing that He is the source of everything, beyond all.</s>\n    </p>\n</speak>",
+      "original_latin": " Divina caligo est inaccessibile lumen, in quo habitare\nDeus dicitur, et invisibili existente, propter\nsupereminentem  claritatem, et inaccessibili eodem\nper superexcellentiam superessentialis luminum\nmanationis. In hoc fit omnis Deum scire et videre\ndignus, eo non videndo neque cognoscendo, vere\nin quo super visionem et cognitionem factus, hoc\nipsum cognoscens, quia super omnia est sensibilia\net intelligibilia, et prophetice videns: Mirabilis\nfacta est scientia tua ex me, confortata est, et non\npotero ad eam . Sic ergo divinus Paulus cognovisse\nDeum dicitur, cognoscens eum super omnem existentem\nintellectum et scientiam  . Propter quod et investigabiles\nesse vias ejus ait, et inscrutabilia judicia\nejus, et inenarrabiles donationes ejus , et pacem\n ejus superantem omnem intellectum, sic inveniens\nsuper omnia, et hoc super intelligentiam cogno\nscens, quia omnium est ἐπέκεινα, omnium causalis\nens.",
+      "voice": "Matthew"
+    }
+  ]
+}

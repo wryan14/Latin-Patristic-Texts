@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>Saint Gall, Abbot and Confessor.<break time=\"500ms\"/>In the year of our Lord 646, </speak>",
+      "original_latin": "br>ANNO DOMINI DCXLVI.SANCTUS GALLUS,\nABBAS ET CONFESSOR.",
+      "voice": "Ruth"
+    }
+  ]
+}

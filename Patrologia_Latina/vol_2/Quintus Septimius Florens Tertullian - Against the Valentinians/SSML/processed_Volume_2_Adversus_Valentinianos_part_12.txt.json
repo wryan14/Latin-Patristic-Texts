@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT V. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Five<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        For me, the distinction lies with the original teachings of the main instructors, not with the imitation leaders followed by passive students. We can't claim to have invented these subjects ourselves, as so many people, distinguished by holiness and excellence—not only our predecessors but also contemporaries of these heresiarchs—have both revealed and refuted them in the most informed writings.\n    </p>\n    <p>\n        Think of figures like Justin, the philosopher and martyr, or Miltiades, the sophist of the Churches, or Irenaeus, the most thorough investigator of all doctrines, or our Proculus, known for the dignity of virgin old age and Christian eloquence. I aspire to follow them in every work of faith, including this one.\n    </p>\n    <p>\n        If heresies did not exist, as some claim those who oppose them have invented them, then the Apostle who spoke of them would be lying—<phoneme alphabet=\"ipa\" ph=\"ˈfɝst kəˌrɪnθiənz\">First Corinthians</phoneme> 2:19.\n    </p>\n    <p>\n        Furthermore, if heresies do exist, they are precisely those being reconsidered. No one would be idle enough with a pen to invent subjects when there are already so many to address.\n    </p>\n</speak>",
+      "original_latin": "Mihi autem cum archetypis erit limes principalium\nmagistrorum , non cum affectatis ducibus\npassivorum discipulorum . Nec undique dicemur\nipsi nobis finxisse materias, quas tot jam viri\nsanctitate et praestantia insignes, nec solum nostri\nantecessores, sed ipsorum haeresiarcharum contemporales,\ninstructissimis voluminibus, et prodiderunt,\net retuderunt: ut Justinus philosophus et martyr ,\nut Miltiades Ecclesiarum sophista , ut Irenaeus\nomnium doctrinarum curiosissimus explorator , ut\n Proculus noster , virginis senectae, et christianae\neloquentiae dignitas: quos in omni opere fidei, quemadmodum\nin isto, optaverim assequi. Aut si in totum\nhaereses non sunt, ut qui eas pellunt, finxisse credantur,\nmentietur Apostolus praedicator illarum\n(I Cor., II, 19). Porro si sunt, non aliae erunt quam\nquae retractantur. Nemo tam otiosus fertur stylo, ut\nmaterias habens, fingat.",
+      "voice": "Matthew"
+    }
+  ]
+}

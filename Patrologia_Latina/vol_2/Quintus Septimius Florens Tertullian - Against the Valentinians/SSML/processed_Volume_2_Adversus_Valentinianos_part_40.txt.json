@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXXIII.",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirty-Three<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Finally, like an epilogue to this story, I'll share some insights that I chose to place here so they wouldn't disrupt the narrative or distract the reader with interruptions.</s>\n    <s>The editors of Ptolemy suggested presenting these differently.</s>\n    <s>His students, who even surpassed him, claimed that Bythos had a dual nature: Thought and Will.</s>\n    <break time=\"500ms\"/>\n    <s>One wasn't enough, as Thought alone couldn't create anything; but with both, it was easy.</s>\n    <s>The first union was between Only-Begotten and Truth; reflecting Thought, Truth is female, while reflecting Will, Only-Begotten is male.</s>\n    <s>The power of Will, which allows Thought to be effective, is seen as male.</s>\n  </p>\n</speak>",
+      "original_latin": " Producam denique velut epicitharisma post fabulam\ntantam, etiam illa quae ne ordini obstreperent,\net lectoris intentionem interjectione dispargerent,\nhunc malui in locum distulisse, aliter atque aliter\ncommendata ab emendatoribus Ptolomaei. Extiterunt\nenim de schola ipsius discipuli super magistrum,\nqui duplex conjugium Bytho suo adfingerent,\nCogitationem et Voluntatem. Una enim satis non\nerat Cogitatio, qua nihil producere potuisset, ex\nduabus facillimo prolatu . Primum conjugium,\nMonogenem et  Veritatem; ad imaginem quidem\nCogitationis, foeminam Veritatem; ad imaginem\n Voluntatis, marem Monogenem. Voluntatis enim vis,\nuti quae  effectum praestat Cogitationi, maris\nobtinet censum .",
+      "voice": "Matthew"
+    }
+  ]
+}

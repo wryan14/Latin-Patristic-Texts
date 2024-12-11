@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXI. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Twenty-One <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Interestingly, they referred to Sophia as Earth and Mother, almost like she was Mother Earth, and amusingly, even the Holy Spirit.</s>\n        <s>They seemed to give every honor to a woman, and perhaps even imagined her with a beard, among other things.</s>\n    </p>\n    <p>\n        <s>On the other hand, the Demiurge wasn't really in control, as spiritual matters were becoming involved with the census of animals regarding health.</s>\n        <s>He proclaimed, <break time=\"500ms\"/> \"I am God, and there is no one besides me\" <break time=\"500ms\"/> <phoneme alphabet=\"ipa\" ph=\"aɪˈzeɪə\">Isaiah</phoneme> Forty-five verse six.</s>\n        <s>Yet, he clearly understood that he wasn't alone in the past.</s>\n    </p>\n    <p>\n        <s>Therefore, he realized that something had been created, and there was indeed a creator of the creation.</s>\n        <s>So, how could he see himself as the only one?</s>\n        <s>Even if he wasn't completely sure, he at least suspected there was some creator.</s>\n    </p>\n</speak>",
+      "original_latin": "Interim tenendum, Sophiam cognominari et Terram\net Matrem, quasi Matrem terram, et quod magis\nrideas, etiam Spiritum Sanctum. Ita omnem illi honorem\ncontulerunt foeminae, puto et barbam, ne\ndixerim caetera. Alioquin Demiurgus adeo rerum non\n erat compos,  de animalibus scilicet censu  invaletudinis\n spiritalia accedere, ut se solum, ratus, concionaretur:\nEgo Deus, et absque me non est (Esa. XLV,\n6): certe tamen non fuisse se retro sciebat. Ergo et\nfactum intelligebat, et factitatorem facti esse quemcumque. Quomodo ergo solus sibi videbatur, etsi non\ncertus, saltem suspectus de aliquo factitatore ?",
+      "voice": "Matthew"
+    }
+  ]
+}

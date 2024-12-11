@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Chapter Thirty-Four<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "CAPUT XXXIV. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      Some, with a greater sense of modesty and respect for the honor of divinity, preferred not to assign any gender to Bythos, so as to avoid the disgrace of even a single marriage being associated with it.\n    </s>\n    <s>\n      Perhaps they use the neuter form to say \"This God,\" rather than the masculine.\n    </s>\n    <s>\n      Others, however, describe it as both male and female, suggesting that the chronicler Fenestella does not believe hermaphrodites exist solely among the people of Luna.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Pudiciores alii honorem divinitatis recordati, ut\netiam unius conjugii dedecus ab eo avellerent, maluerunt\nnullum Bytho sexum deputare: et  fortasse\n Hoc Deum , non Hic Deus, neutro genere\npronuntiant. Alii contra magis, et masculum et foeminam\ndicunt, ne  apud solos Lunenses Hermaproditum\nexistimet Annalium commentator Fenestella.",
+      "voice": "Matthew"
+    }
+  ]
+}

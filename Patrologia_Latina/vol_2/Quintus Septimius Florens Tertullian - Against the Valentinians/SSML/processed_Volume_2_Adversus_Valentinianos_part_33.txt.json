@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXVI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twenty-Six<break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>They also divide the outcome for each one.</s>\n    <s>For the material, which they refer to as the carnal, is called left, and they predict certain destruction for it.</s>\n    <s>But for the animal, which they call right, the outcome is uncertain, as it wavers between the material and the spiritual, going where it is most inclined.</s>\n  </p>\n  <p>\n    <s>However, they say the spiritual can join with the animal and can be educated and trained through interactions.</s>\n    <s>They claim the animal needed instruction even in the sensible disciplines.</s>\n    <s>In this, the preparation of the world was foreseen, and in this, the Savior was represented in the world as an animal, for the salvation of the animal.</s>\n  </p>\n  <p>\n    <s>In another complex composition, they wish that he would take on the properties of the substances he would bring to salvation.</s>\n    <s>That he received the spiritual from Achamoth, and the animal, which he soon took from the demiurge, Christ.</s>\n    <s>However, the bodily aspect, from the animal substance, was crafted with a marvelous and indescribable skill.</s>\n    <s>For the purpose of administration, he brought power, to be subject to engagement, and sight, and touch, and even death, though it was unwelcome.</s>\n  </p>\n  <p>\n    <s>Yet, there was nothing material in him, as he was foreign to salvation, except for those needing salvation.</s>\n    <s>And all of this was to separate the nature of our flesh from Christ and to remove even the hope of salvation.</s>\n  </p>\n</speak>",
+      "original_latin": "Sic et exitum singulis dividunt. Materiali quidem,\nid est carnali, quem et sinistrum vocant, indubitatum\ninteritum; animali vero, quem et dextrum\nappellant, dubitatum eventum, utpote inter materialem\nspiritalemque nutanti, et illac debito qua plurimum\nadnuerit. Caeterum spiritalem emitti in animalis\n comparationem,  et erudiri cum eo et exerceri in\nconversationibus possit . Indiguisse enim animalem\n etiam sensibilium disciplinarum; in hoc et paraturam\nmundi prospectam; in hoc et Soterem animalem\n in mundo repraesentatum, in salutem scilicet\nanimalis. Alia adhuc compositione monstruosum,\nvolunt illum  proficias  earum substantiarum\ninduisse, quarum summam saluti esset redacturus;\nut spiritalem quidem susceperit ab Achamoth, animalem\nvero, quem mox a demiurgo induit , Christum:\ncaeterum corporalem, ex animali substantia,\nsed miro et inenarrabili rationis ingenio constructum\n, administrationis caussa  vim  contulisse\n, quo congressui, et conspectui, et contactui\n, et  defunctui  ingratis subjaceret. Materiale autem nihil in illo fuisse, utpote salutis\nalienum, quasi aliis? fuerit necessarius, quam egentibus\n salute. Et totum hoc, ut carnis nostrae habitum\nalienando a Christo, a spe etiam salutis expellant .",
+      "voice": "Matthew"
+    }
+  ]
+}

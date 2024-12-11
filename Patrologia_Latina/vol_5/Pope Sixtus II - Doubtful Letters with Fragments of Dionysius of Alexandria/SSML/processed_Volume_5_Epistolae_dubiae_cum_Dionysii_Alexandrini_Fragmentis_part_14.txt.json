@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Letters Four<break time=\"500ms\"/> A Fragment from Bishop Dionysius of Alexandria to Pope Sixtus II.<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "EPISTOLAE IV, DIONYSII ALEXANDRINI EPISCOPI\nAD SIXTUM II. PAPAM FRAGMENTUM.",
+      "voice": "Ruth"
+    }
+  ]
+}

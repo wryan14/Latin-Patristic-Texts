@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Then, Eusebius mentions that after discussing all the heresies, some additional points are added.</s>\n        <s>He says, \"I received this rule and form from our blessed Pope Heraclas.\"</s>\n    </p>\n    <p>\n        <s>For those coming from the heresies, whether they had defected from the Church or not, even if they appeared to be attending gatherings of the faithful but were accused of listening to false teachings, he would not allow them back into the Church until, after many prayers, they publicly and openly recounted everything they had heard from their opponents.</s>\n        <break time=\"500ms\"/>\n        <s>Only then were they admitted into gatherings of the faithful, and he never asked them to be baptized again.</s>\n        <s>For they had already received the Holy Spirit from him previously.</s>\n    </p>\n</speak>",
+      "original_latin": "Deinde, inquit Eusebius, nonnulla de omnibus haeresibus interlocutus subdit. Hanc ego regulam et formam a beato papa nostro\nHeracla accepi. Eos enim qui ab haeresibus veniebant,\n etiamsi ab Ecclesia defecissent, immo nec defecissent,\nsed cum coetus fidelium frequentare viderentur,\ninsimulati essent quod perversae doctrinae magistros\naudituri adirent, ejectos ab Ecclesia, post multas\npreces non prius admisit, quam quaecumque ab adversariis\naudierant, palam publiceque enarrassent. Tum\ndemum ad coetus fidelium eos admisit, nequaquam ab\neis petens ut baptismum iterato susciperent. Quippe\njam antea Spiritum sanctum ab ipso acceperant. Τούτον ἐγὼ τὸν κανὸνα καὶ τὸν τύπον παρὰ τοῦ μακαρίου πάπα ἡμῶν Ἡρακλᾶ παρέλαβον. τοὺς γὰρ προσιὸντας  ἀπὸ τῶν αἱρέσεων, καί τοι τῆς ἐκκλησίας ἀποστάντας, μᾶλλον δὲ οὐδὲ ἀποστάντας, ἀλλὰ συνάγεσθαι μὲν δοκοῦντας, καταμηνυθέντας δὲ ὡς προσφοιτῶντας τινι τῶν ἑτεροδιδασκαλούντων, ἀπελάσας τῆς ἐκκλησίας, δεομένους οὐ προσήκατο, ἕως δημοσίᾳ πάντα ὅσα ἀκηκόασι παρὰ τοῖς ἀντιδιατιθεμένοις, ἐξέφραταν· καὶ τότε συνήγαγεν αὐτῶν ἑτέρου βαπτίσματος· τοῦ γὰρ ἁγίου πνεύματος πρότερον παρ` αὐτοῦ τετυχήκεσαν.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXXVI. ",
+      "cleaned_english_translation": "<speak>\n   Chapter Thirty-Six <break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>How much better are those who have removed all this burden from the equation, not wanting any Aeon to be produced one from another in truly grim steps.</s>\n        <s>Instead, as they say, \"throwing in the towel,\" they brought forth this team of eight all at once from the Father and his Thought.</s>\n        <s>They carry names based on his very movement.</s>\n    </p>\n    <p>\n        <s>When, they say, he thought to bring them forth, he was called Father.</s>\n        <s>When he brought them forth, because he brought forth truth, this was called Truth.</s>\n        <s>When he wanted to test himself, he was proclaimed Man.</s>\n        <s>Those he had pre-thought and then brought forth were then called the Church.</s>\n        <s>Man uttered the Word, and this is the firstborn Son.</s>\n        <s>With the Word came Life, and the first Ogdoad was completed.</s>\n        <s>But this burden is not small.</s>\n    </p>\n</speak>",
+      "original_latin": "Quanto meliores qui totum hoc taedium de medio\namoliti, nullum Aeonem voluerunt alium ex alio per\n gradus revera Gemonios structum, sed mappa\n (quod aiunt) missa, semel octojugem istam ex Patre\net  Ennoea ejus exclusam. Ex ipso denique ejus\nmotu nomina gerunt. Cum, inquiunt, cogitavit proferre,\nhoc Pater dictus est. Cum protulit, quia vera\nprotulit, hic Veritas appellata est. Cum semetipsum\nvoluit probari, hoc homo pronuntiatus est. Quos autem\npraecogitavit cum protulit, tunc Ecclesia nuncupata\nest. Sonuit homo sermonem, et hic est primogenitus\nfilius: et sermoni accessit vita, et Ogdoas\nprima conclusa est. Sed hoc taedium non  pusillum\n.",
+      "voice": "Matthew"
+    }
+  ]
+}
