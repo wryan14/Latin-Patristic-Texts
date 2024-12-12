@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n          <s>IN THE SIXTH SESSION.</s>\n        <s>CHAPTER 3</s>  <break time=\"500ms\"/>Critique\n<break time=\"1s\"/>\n</speak>",
+      "original_latin": "IN SEXTA ACTIONE. CAP. III.---Reprehensio. ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Tarasius made a mistake when he said that the Holy Spirit is a companion to the Father and the Son.</s>\n        <s>It would have sufficed to say co-eternal, consubstantial, and of the same essence and nature.</s>\n    </p>\n    <p>\n        <s>Response from Saint Sophronius himself:</s>\n        <s>Since he has sworn falsely, he should have sworn regarding the liar.</s>\n        <s>Among the choices of evils, it was better to choose the more beneficial one.</s>\n    </p>\n    <p>\n        <s>Also, from Saint Augustine in the preface to Psalm 31, among other things:</s>\n        <s>We should propose no works before faith, meaning no one should claim to have done good works before having faith.</s>\n        <s>For those works, said to be before faith, even if they seem praiseworthy to people, are empty.</s>\n        <s>To me, they seem like great strength and a very swift course off the path.</s>\n        <s>Therefore, no one should count their good works before faith.</s>\n    </p>\n</speak>",
+      "original_latin": "Quod idem Tarasius non\nrecte Spiritum sanctum contribulem Patri et Filio\ndixerit, cum sufficeret dicere coaeternum, consubstantialem,\nejusdemque essentiae et naturae. Responsio. Item ipse sanctus Sophronius: Et\nquoniam perjuravit. Oportebat enim illi mentientem\nperjurare eum. Ex malorum electione melius erat\nutiliora eligere, etc. Item ex divo Augustino in praefatione in psalmum\n XXXI, inter caetera: Debemus nulla opera\nproponere fidei, id est, ut ante fidem quisquam\ndicatur bene operatus. Ea enim ipsa opera quae\ndicuntur ante fidem, quamvis videantur hominibus\nlaudabilia, inania sunt: et ita mihi videntur esse,\nut magnae vires et cursus celerrimus praeter viam. Nemo ergo computet bona opera sua ante fidem etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

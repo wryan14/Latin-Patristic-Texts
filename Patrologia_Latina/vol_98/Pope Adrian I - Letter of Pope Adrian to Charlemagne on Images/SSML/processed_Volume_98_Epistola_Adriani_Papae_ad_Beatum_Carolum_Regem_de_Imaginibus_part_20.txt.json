@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XXX.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Fourth Action<break time=\"500ms\"/>\nChapter 30 Critique\n<break time=\"1s\"/>\n</speak>  ",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>This isn't about worshiping images, as some suggest, when it is written: Exalt the Lord our God; and worship at His footstool, for it is holy (Psalm 99).</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>In explaining this psalm, Blessed Augustine, about midway through, mentions:</s>\n        <s>I am not afraid to worship the footstool of my Lord, because the psalm instructs: Worship at His footstool;</s>\n        <s>and soon after, he adds: I turn to Christ, because I seek Him here, and I understand how the earth can be worshiped without wrongdoing, how the footstool of His feet can be revered without sin.</s>\n    </p>\n    <p>\n        <s>He took earth from the earth, as flesh comes from the earth, and He took flesh from Mary's flesh.</s>\n        <s>Since He walked here in that flesh and gave us that flesh to eat for our salvation:</s>\n        <s>no one eats that flesh without first worshiping it;</s>\n        <s>this shows how such a footstool of the Lord can be worshiped, and not only do we not sin by worshiping, but we actually sin by not worshiping.</s>\n    </p>\n    <p>\n        <s>And a little later.</s>\n        <s>Thus, any earth, when you bow and prostrate yourself, you do not regard it as just earth, but as Him who is holy, whose footstool you worship;</s>\n        <s>you worship because of Him.</s>\n    </p>\n    <p>\n        <s>So, he also adds here: Worship at His footstool, for it is holy (Psalm 99).</s>\n        <s>Who is holy, in whose honor you worship the footstool of His feet?</s>\n    </p>\n</speak>",
+      "original_latin": "Quod non ad adorationem\nimaginum pertineat, ut illi dicunt, quod scriptum est:\nExaltate Dominum Deum nostrum; et adorate scabellum\npedum ejus, quoniam sanctum est (Psal. XCVIII). Responsio. Beati Augustini in ejusdem psalmi explanatione\n(circa med.) ubi inter caetera inquit:\nTimeo non adorare scabellum pedum Domini mei,\nquia psalmus mihi dicit: Adorate scabellum pedum\nejus (Ibid. ); et post pauca: Converto me ad Christum,\n quia ipsum quaero hic, et invenio quomodo\nsine impietate adoretur terra, sine impietate adoretur\nscabellum pedum ejus. Suscepit enim de terra terram,\nquia caro de terra est, et de carne Mariae carnem accepit. Et quia in ipsa carne hic ambulavit, et ipsam\ncarnem nobis manducandam ad salutem dedit: nemo\nautem illam carnem manducat, nisi prius adoraverit;\ninventum est quemadmodum adoretur tale scabellum\nDomini, et non solum non peccemus adorando, sed peccemus\nnon adorando. Et post pauca. Ideo et terram\nquamlibet, cum te inclinas atque prosternis, non\nquasi terram intuearis, sed illum sanctum, cujus\npedum scabellum est quod adoras; propter ipsum\nenim adoras. Ideo et hic subjecit: Adorate scabellum\npedum ejus, quoniam sanctum est (Ibid.). Quis\nsanctus est, in cujus honore adoras scabellum pedum\nejus? etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SECUNDA. CAP. II.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Secon Action.<break time=\"500ms\"/>Chapter 2 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Agapius, the bishop of Caesarea in Cappadocia, is criticized for making a statement considered useless, foolish, and worthy of ridicule because he said: <break time=\"500ms\"/> It is written in our divine Scriptures.</s>\n  </p>\n  <p>\n    <s>Response.</s>\n    <s>It seems that the divine Scripture is preached by the faithful for the salvation of people.</s>\n    <s>Therefore, we believe he intended to say: In our divine Scriptures, seeking to gain glory and honor from them, and simultaneously, to express what is taught by the same sacred Scripture, as is written in the works of the holy Fathers, and so on.</s>\n  </p>\n  <p>\n    <s>Saint Augustine, in his treatise on the proverb of Solomon, stated among other things:</s>\n    <s>They also have our sacraments, they have our Scriptures, they have our Amen and Alleluia, many have our creed, and so on.</s>\n  </p>\n</speak>",
+      "original_latin": "Inutile et dementia prolatum\net risu dignum dictum Agapii Caesareae Cappadociae\nepiscopi reprehenditur in eo quod dixit:\nScriptum est in nostris divinis Scripturis. Responsio. Divina Scriptura pro salute hominum\npraedicari a fidelibus videtur. Et ideo existimamus\nquod dixisset: In nostris divinis Scripturis, gloriam\net decorem fideliter ex ipsis se habere desiderans,\nsimulque ab eadem sacra Scriptura se docente\ndicere, quemadmodum in sanctorum Patrum opusculis\nscriptum est, etc. Sancti Augustini de proverbio\nSalomonis tractatu, inter caetera: Habent et ipsi\nsacramenta nostra, habent Scripturas nostras, habent\nAmen et Alleluia nostrum, habent plerique\nsymbolum nostrum, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

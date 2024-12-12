@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE TERTIA. CAP. VIII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n         <s>In the Third Action, Chapter Eight: Critique.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n   \n        <s>This section addresses those who claim that the honor given to an image is transferred to the original form.</s>\n        <s>Response: Anyone arguing against this is contradicting Saint Basil's explanation in his Book on the Holy Spirit, Chapter Seventy-Five.</s>\n        <s>We believe no faithful person would oppose him regarding his orthodox faith.</s>\n    </p>\n    <p>\n        <s>Saint Basil explained this in his very sacred letter to Amphilochius, among other points in this chapter.</s>\n        <s>Additionally, Saint Severian, the bishop of Gabala, in a homily where he elucidated the Scriptures as explained by the Lord, said:</s>\n        <s>\"If you insult the imperial garment, do you harm the one who wears it?</s>\n        <s>Don't you know that insulting the image of the emperor harms the dignity of the original form?</s>\n        <s>Don't you realize that if someone tears down an image from wood, they are judged not merely as one acting against lifeless matter, but as one who, by extending their hand against the emperor, defiles the material, separated from the emperor, without the emperor's soul?</s>\n        <s>For if an image is harmed, the injury reaches the emperor.\"</s>\n    </p>\n</speak>",
+      "original_latin": "Contra eos qui dicunt\n quod imaginis honor in primam formam transit. Responsio. Qui huic contradicere voluerit, sancti\nBasilii contradicet expositioni (Lib. de Spiritu sancto,\ncap. LXXV), quem nullum ex fidelibus credimus adversus\nejus orthodoxam fidem expugnare. Quia ipse\nin sacratissima epistola sua, quam misit ad Amphilochium,\ninter caetera istud explanavit capitulum. Item sancti Severiani episcopi Gabalanensis, alias\nGavalensis, in homilia in qua demonstravit Scripturas\nper Dominum explanatas, inter caetera: Vestem\nimperialem si injuriaveris, nunquid qui eam induit\ninjuria afficis? Nescis quoniam si quis imaginem imperatoris\ninjuriaverit, primae formae dignitati affert injuriam? Nescis quoniam si quis imaginem quae a ligno\ndetrahit, non sicut in inanimatam materiam audens\nsic judicatur, sed sicut qui adversus imperatorem\nmanus extendens foedat materiam, sine anima imperatoris,\nsegregatam ab imperatore? Imago enim omnino\nsi feriatur, ejus injuria imperatorem attingit,\netc.",
+      "voice": "Matthew"
+    }
+  ]
+}

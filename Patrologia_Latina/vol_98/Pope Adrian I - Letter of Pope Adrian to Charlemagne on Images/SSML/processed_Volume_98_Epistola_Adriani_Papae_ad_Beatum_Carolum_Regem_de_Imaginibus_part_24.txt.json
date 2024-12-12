@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XXXIV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the Same Action <break time=\"500ms\"/>Chapter 34 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        \n        <s>The statement by the blessed Athanasius, bishop of the city of Alexandria, should not be interpreted as those who try to apply it to the worship of images might think.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>Many statements by the blessed Athanasius are mentioned in the same council, but they did not specify which statement they were referring to in this chapter.</s>\n        <s>However, just as the statements of the holy Athanasius are included among other things in the holy councils of our most holy predecessors, we faithfully present them here.</s>\n    </p>\n    <p>\n        <s>Question of Antiochus to Saint Athanasius regarding images:</s>\n        <s>The law from the prophets says, \"You shall not worship statues and likenesses,\" so how do you justify making images and worshiping them?</s>\n    </p>\n    <p>\n        <s>He replied:</s>\n        <s>We believers do not worship images as gods; far from it, pagans do that.</s>\n        <s>Instead, we approach them with affection and love in our souls toward the appearance of the image's face.</s>\n        <s>Therefore, many times we discard the face, treating it as plain and ordinary wood, and burn what was once an image.</s>\n        <s>Just as Jacob, near death, worshiped the top of Joseph’s staff—not honoring the staff, but the one who held it, as mentioned in the book of Genesis chapter forty-seven according to the Septuagint—so too do we believers venerate images, driven by our desire for the person depicted.</s>\n        <s>And many other similar explanations follow.</s>\n    </p>\n</speak>",
+      "original_latin": "Quod non ita intelligenda\nsit sententia beati Athanasii Alexandrinae urbis\nepiscopi ut illi eam intelligendam putant qui\nhanc ad adorationem imaginum accommodare nituntur. Responsio. Multae quippe sententiae beati Athanasii\nin eadem feruntur synodo, et qualem ex ipsis\nsingulatim sententiam dixerint, minime in hoc capitulari\nexaraverunt: sed sicut in sacris conciliis praedictorum\nnostrorum praedecessorum sanctissimorum\npontificum ejusdem sancti Athanasii sententiae inter\ncaetera scriptae sunt, fideliter proferimus. Interrogatio\nAntiochi ad sanctum Athanasium pro imaginibus:\nCum lex ex prophetae dicant: Statuas et similitudines\nnon adorabitis, quomodo vos facitis imagines\net adoratis eas? Respondit: Non sicut deos\n imagines adoramus nos fideles: absit, pagani:\nsed tantummodo affectu et charitate nostrae animae\nad vultum faciei imaginis apparentis. Unde multoties\nvultu deserto , sicut lignum purum atque\ncommune, eam quae dudum fuerat imago comburimus. Sicut enim Jacob approximans morti, summitatem\nvirgae Joseph adoravit, non virgam honorificans,\nsed qui eam tenebat (Genes. XLVII, juxta\nLXX), sic et fideles non pro aliquo alio modo imagines\nadoramus, nisi pro desiderio effigie declarati;\net alia plura similia, ut sequitur.",
+      "voice": "Matthew"
+    }
+  ]
+}

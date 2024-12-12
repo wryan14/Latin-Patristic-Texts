@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUINTA. Et inventum est in quarta. CAP. XVI.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>In the fifth action, it was found in the fourth.</s>\n        <s>Chapter 16: Critique.</s>\n    </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>The extremely false and utterly ridiculous statement of John the priest, who seems to have been as crazed as the others in the worship of images.</s>\n        <s>For he says: <break time=\"500ms\"/> \"Whoever worships an image and says, 'This is Christ, the Son of God,' does not sin.\"</s>\n    </p>\n    <p>\n        <s>Response from Saint Augustine in his explanation of Psalm 86, after the beginning, among other things:</s>\n        <s>Almost all physical bodies have limitations and cannot be everywhere or always.</s>\n        <s>However, divinity, which is present everywhere, can be approached from all sides by likeness and can be entirely present in likenesses, because none of them are in their own properties.</s>\n    </p>\n    <p>\n        <s>Is Christ a door in the same way we see doors made by a carpenter?</s>\n        <s>Certainly not, and yet he said: <break time=\"500ms\"/> \"I am the door\" (John 10).</s>\n        <s>Or is he a shepherd in the same way we see those who tend sheep, etc.</s>\n    </p>\n</speak>",
+      "original_latin": "Falsissimum et omni\nridiculo dignum dictum Joannis praesbyteri, qui\nnon minus caeteris in imaginum adoratione insanisse\ndignoscitur. Ait enim: Qui adorat imaginem,\net dicit, quoniam hic est Christus Filius\nDei, non peccat. Responsio. Sancti Augustini in psalmi LXXXVI\nexplanatione (post principium), inter caetera: Angustias\nenim omnia pene corpora patiuntur, nec\nubique esse possunt, nec semper. Divinitas autem\nquae ubique praesto est undique ad eam potest\nduci similitudo, et totum potest esse in similitudinibus,\nquia nihil eorum est in proprietatibus. Nunquid Christus est janua, quemadmodum videmus\njanuas factas a fabro? non utique, et tamen\n dixit: Ego sum janua (Joan. X). Aut nunquid sic\nest pastor, quomodo videmus pastores istos praepositos\npecorum, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

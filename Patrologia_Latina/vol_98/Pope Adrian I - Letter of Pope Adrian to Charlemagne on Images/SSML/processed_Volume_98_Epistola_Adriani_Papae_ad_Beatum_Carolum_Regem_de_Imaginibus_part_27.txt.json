@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XXXVII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Same Action <break time=\"500ms\"/>\nChapter 37 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>It's not about the worship of images, as some claim, but rather follows the teachings of Blessed Cyril in his explanation of the Gospel according to Matthew.</s>\n  </p>\n  <p>\n    <s>Response:</s>\n    <s>Saint Cyril of Alexandria and Saint Gregory of Nyssa both supported the veneration of sacred images in the story of Abraham.</s>\n  </p>\n  <p>\n    <s>In the sacred councils of our most revered pontiffs, regarding the sermon of Saint Cyril of Alexandria, bishop:</s>\n    <s>It's noted that if someone gazes at a beautiful image and admires the figure of the king depicted in it:</s>\n    <s>By recognizing this and seeing its portrayal, they are inspired to admire the king himself.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod non ad adorationem\n imaginum pertineat, ut ulli asserunt, sententia\nbeati Cyrilli in expositione Evangelii secundum\nMatthaeum. Responsio. Sanctus Cyrillus Alexandrinus et sanctus\nGregorius Nyssenus uno tenore in historia\nAbrahae pro sacrarum imaginum veneratione dixerunt:\nNam in sacris conciliis praedictorum nostrorum\nsanctissimorum pontificum ita fertur de sermone\nsancti Cyrilli Alexandrini episcopi. Quemadmodum\nimaginem si quis designatam jucundam respexerit,\nmirabitur quidem regis figuram, et quae in illa apparet:\nhanc et ejus noscens conscriptionem pariter\ncernens delectabitur, ut ipsum regem aspiciat,\netc.",
+      "voice": "Matthew"
+    }
+  ]
+}

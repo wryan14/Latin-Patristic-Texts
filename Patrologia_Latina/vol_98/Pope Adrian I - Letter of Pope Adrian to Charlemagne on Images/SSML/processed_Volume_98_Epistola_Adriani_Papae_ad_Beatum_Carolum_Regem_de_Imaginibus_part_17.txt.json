@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUINTA. Et repertum est in quarta. CAP. XXVII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the fifth action <break time=\"500ms\"/>\nChapter 27 Critique\n\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>Leo of Phocaea, the bishop, persistently and nonsensically spoke about the worship of images, using a verse from the Psalmist for himself, saying:</s>\n        <s>\"You have turned my mourning into joy for me; you have torn my sackcloth and clothed me with joy.\" <break time=\"500ms\"/> <phoneme alphabet=\"ipa\" ph=\"sɑːm\">Psalm</phoneme> thirty.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>Every Christian is allowed to pray with the Psalmist, so that when they come from darkness to light through the grace of Christ, they can rightly say:</s>\n        <s>\"You have turned my mourning into joy for me,\" because when they are delivered from heresy, their sackcloth is torn.</s>\n        <s>And when they recognize the truth of the true faith, they are surrounded by the joy of the orthodox of the holy Catholic Church.</s>\n    </p>\n    <p>\n        <s>On this very matter, Saint Augustine similarly states in the explanation of the same psalm:</s>\n        <s>\"You have torn the lament of my sins, the sorrow of my mortality, and clothed me with the first robe, immortal joy.\"</s>\n        <s>And again:</s>\n        <s>\"So that I may not mourn, but sing to you, not in humility, but in my glory; because you have already exalted me from humility, and I am not troubled by the conscience of sin, the fear of death, the fear of judgment, and so forth.\"</s>\n    </p>\n</speak>",
+      "original_latin": "Importuna et deliramento\nplena dictio Leonis Phoceae episcopi, qui in\neo quod ad imaginum adorationem conversus est,\nsibi versiculum Psalmistae accommodat, dicentis:\nConvertisti planctum meum in gaudium mihi;\nconscidisti saccum meum, et circumdedisti me laetitia\n(Psal. XIX). Responsio. Omni homini Christiano licet cum Psalmista\norare, ut quando a tenebris in lucem per gratiam\nvenerit Christi, juste dicat: Convertisti planctum\nmeum in gaudium mihi (Ibid. ); quia quando erutus\nest ab haeresi, tunc scissus est saccus ejus. Quando\nvero rectae fidei cognovit veritatem, tunc ab orthodoxis\nsanctae catholicae Ecclesiae circumdatus est\nlaetitia. De hoc ipso sanctus Augustinus in ejusdem\npsalmi explanatione (in principio) similiter inquit:\nConscidisti lamentum  peccatorum\n meorum, tristitiam mortalitatis meae, et cinxisti me\nstola prima, immortali laetitia. Et iterum: Ut\nnon plangat, sed cantet tibi, non humilitas, sed\ngloria mea: quia jam ex humilitate exaltasti me, et\nnon compungar conscientia peccati, timore mortis,\ntimore judicii, et caetera.",
+      "voice": "Matthew"
+    }
+  ]
+}

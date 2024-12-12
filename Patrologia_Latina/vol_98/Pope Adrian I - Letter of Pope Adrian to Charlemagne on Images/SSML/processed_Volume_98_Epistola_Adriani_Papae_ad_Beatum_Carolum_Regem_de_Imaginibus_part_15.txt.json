@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. Et repertum  est in actione septima. CAP. XXV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the Same Action <break time=\"500ms\"/>\nChapter 25 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>This doesn't relate to the worship of images, even though it is written: Jacob blessed Pharaoh.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>Holy Scripture always instructs us to bless: Bless and do not curse <phoneme alphabet=\"ipa\" ph=\"rəʊˈmænz\">Romans</phoneme> 12.</s>\n        <s>Additionally: Bless all the works of the Lord <phoneme alphabet=\"ipa\" ph=\"ˈdænjəl\">Daniel</phoneme> 3.</s>\n    </p>\n    <p>\n        <s>We are taught: and again, in prayer, spiritually prostrate before the Holy of Holies, we chant: May God, our God, bless us, may God bless us, and may all the ends of the earth fear Him.</s>\n    </p>\n    <p>\n        Therefore, if we aim to discuss the blessings of Divine Scripture, before the discourse concludes on the page, as we presume, we add one more testimony from Saint Augustine about Jacob wrestling with the angel. Among other things, he says: I will not let you go unless you bless me <phoneme alphabet=\"ipa\" ph=\"ˈsɑːm\">Psalm</phoneme> 67.\n    </p>\n    <p>\n        <s>Because the Lord first blesses us through the flesh, the faithful understand what they receive, since they are blessed through the flesh:</s>\n        <s>They know they would not be blessed unless that flesh was crucified for the life of the world.</s>\n    </p>\n</speak>",
+      "original_latin": "Non pertinere ad imaginum\nadorationem, ut illi dicunt, quod scriptum\nest: Jacob Pharaonem benedixit. Responsio. Semper benedicere nos docet sancta\nScriptura: Benedicite, et nolite maledicere (Rom. XII). Item: Benedicite omnia opera Domini Domino\n(Daniel III), docemur: et rursus prostrati in oratione\nspiritaliter ante Sancta sanctorum psalmifice dicimus:\nBenedicat nos Deus Deus noster, benedicat nos\nDeus, et metuant eum omnes fines terrae. Quapropter\nsi de divinae Scripturae benedictionibus exarare volumus,\nantequam sermo, ut opinamur, chartae cessabunt. Tamen unum vobis sancti Augustini addimus\ntestimonium de ipso Jacob luctante cum angelo, ubi\ninter caetera inquit: Non dimittam te, nisi benedixeris\nmihi (Psal. LXVI). Quia per carnem nos prius benedicit\nDominus, norunt fideles, quid accipiunt, quia per\ncarnem benedicuntur: sciunt quia non essent benedicti,\nnisi caro illa crucifixa daretur pro saeculi vita.",
+      "voice": "Matthew"
+    }
+  ]
+}

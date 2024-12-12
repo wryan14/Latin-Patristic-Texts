@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. IV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Same Action<break time=\"500ms\"/>Chapter 4 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Here's what John mistakenly said:</s>\n        <s>\"Through the image, which appears through colors, his strength is worshiped and glorified, and we come to remember his presence on Earth.\"</s>\n    </p>\n    <p>\n        <s>In response,</s>\n        <s>from the letter of Saint Gregory the Pope, Book Seven, Epistle Thirteen, addressed to Secundinus, a servant of God living in seclusion, we find:</s>\n        <s>\"Your request for the image of the one you worship to be sent to you through your deacon Dulcitius greatly pleased us, because you seek with all your heart's intention the one whose image you wish to have before your eyes, so that the daily physical sight always brings the desired one closer.\"</s>\n        <s>\"And while you see the painting, you are inflamed in your mind toward the one whose image you believe you are seeing, et cetera.\"</s>\n    </p>\n</speak>",
+      "original_latin": "De eo quod idem Joannes\nnon recte dixit: Per imaginem, quae per colores\napparet, adoratur fortitudo ejus et glorificatur, et\nad memoriam veniemus de ejus in terra praesentia. Responsio. Item ex epistola sancti Gregorii papae\n(Lib. VII, ep. 13), Secundino servo Dei incluso directa,\ninter caetera: Quod imaginem illius quem colis\ntibi dirigendam per Dulcitium diaconum tuum rogasti,\nvalde nobis tua postulatio placuit, quia illum\nin corde tota intentione quaeris cujus imaginem prae\noculis habere desideras, ut visio corporalis quotidiana\nsemper reddat exoptatum, et dum picturam vides,\n ad illum animo inardescas cujus te imaginem videre\nconsideras, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

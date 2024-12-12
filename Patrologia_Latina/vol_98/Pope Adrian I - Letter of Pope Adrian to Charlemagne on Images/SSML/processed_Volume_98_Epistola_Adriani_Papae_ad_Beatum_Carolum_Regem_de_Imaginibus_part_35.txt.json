@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XLV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the Same Action <break time=\"500ms\"/>Chapter 45 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>There's a statement made by John, priest of the East, which seems quite foolish and irrational. He claims that when the emperor isn't present, his image is still honored, not dishonored.</s>\n        <s>Similarly, even though Jesus Christ, the ruler of all, doesn't appear to us visibly, his image should still be honored.</s>\n        <s>Christ is invisible to our physical eyes, yet, as God, he is present everywhere, just like the emperor is perceived through his image.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>John, priest of the East, didn't make this statement on his own. He was referencing a book by Saint Anastasius, bishop of Theopolis, which was read during the same synod.</s>\n        <s>Therefore, he stated that the Father showed that when the emperor isn't present, his image is honored, not dishonored, and what follows, as mentioned earlier.</s>\n    </p>\n</speak>",
+      "original_latin": "Dementissimum et ratione\ncarens dictum Joannis presbyteri Orientalium,\nin eo quod ait quoniam non assistente imperatore\nimago ejus honoratur: non enim inhonoratur: quatenus\net nunc dominatore omnium Jesu Christo visibiliter\nnobis non apparente (invisibilis enim est carnalibus\nnostris oculis, sicut enim Deus, ubique adest),\nhonorandam ejus imaginem, sicuti et in imperatore,\nPater sensit. Responsio. Non ex se haec dixit Joannes presbyter\nOrientalium, sed de libro sancti Anastasii episcopi\nTheopoleos, qui in eadem synodo lectus est, et ideo\ndixit: Ostendit Pater quod non assistente imperatore\nimago ejus honoratur; non enim inhonoratur, et\nquod sequitur, ut supra.",
+      "voice": "Matthew"
+    }
+  ]
+}

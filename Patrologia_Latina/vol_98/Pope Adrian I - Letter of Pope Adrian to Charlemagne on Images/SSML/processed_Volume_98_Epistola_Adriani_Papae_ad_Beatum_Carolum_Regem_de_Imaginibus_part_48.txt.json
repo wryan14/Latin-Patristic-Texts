@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XIV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n        <s>\n            In the same action. Chapter 14.\n        </s>Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>\n  There's a nonsensical and absurd claim about someone supposedly swearing an oath to a demon and then breaking it. The abbey leader is known to have been quite delirious, suggesting it was better for him to visit every brothel in the city than to deny worshipping the image of the Lord or His holy mother.\n        </s>\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        <s>\n            Response. This testimony comes from the book of the eminent teacher Saint Sophronius, and we believe there is no orthodox Christian who would dare reject his divine teachings or any of his explanatory works.\n        </s>\n        <s>\n            Similarly, Saint John Chrysostom, in discussing the beheading of Saint John the Baptist, among other things, emphasized the necessity of not forbidding the veneration of sacred images.\n        </s>\n        <s>\n            Furthermore, in a letter from Saint Pope Gregory to Januarius, the bishop of Cagliari, as found in Book 7, Indiction 2, Letter 5, we have already addressed this issue in detail.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Deliramentum errore\nplenum quod de retruso quodam dixerunt, qui daemoni\njurasse et ipsum juramentum irritum fecisse\nperhibetur: cujus abbas non mediocriter delirasse\ndignoscitur, dicens ei commodius esse omnia in civitate\nlupanaria ingredi quam abnegare adorationem\n imaginis Domini aut ejus sanctae genitricis. Responsio. Hoc testimonium ex libro praecipui\ndoctoris sancti Sophronii oblatum est, et nullus est,\nut opinamur, inter orthodoxos Christianos qui ejus\ndeiloqua dogmata, vel quodlibet explanationis opusculum\nrespuere auderet. Item sancti Joannis Chrysostomi in amputatione\ncapitis sancti Joannis Baptistae, inter caetera: Oportebat\nenim eum non vetare venerationem sacrarum\nimaginum. Item in epistola sancti Gregorii papae ad Januarium\nepiscopum Calaritanum directa (Lib. VII, ind. 2, ep. 5), vobis demonstrantes jam superius exaravimus.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XXXIX.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Same Action<break time=\"500ms\"/>\nChapter 39 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Tarasius and his followers are boldly and ignorantly equating sacred vessels with something else.</s>\n    </p>\n    <p>\n        <s>Here's the response.</s>\n        <s>At the council, Tarasius, the Patriarch of Constantinople, stated:</s>\n        <s>\"We have various sacred vessels that we kiss and embrace, hoping to receive some sanctification from them.\"</s>\n        <s>The heretics, in their misguided assembly, were speaking nonsense, not consecrating the sacred prayer to sanctify it, leaving it common and dishonored, just as the painter created it.</s>\n        <s>But we, in truth and faithfulness, affirm that the practice of our holy Catholic and Apostolic Roman Church has been and continues to be that when sacred images or stories are painted, they are first anointed with sacred chrism, and then venerated by the faithful.</s>\n        <s>This follows the Lord's command to Moses:</s>\n        <s>\"You shall make the holy anointing oil, a perfumed compound, according to the art of the perfumer, and you shall anoint the tent of meeting with it, the ark of the testimony, the table with its vessels, the lampstand and its utensils, the altar of incense and of burnt offering, and all the furnishings used in worship.\"</s>\n        <s>\"And you shall sanctify them, and they shall be most holy: whoever touches them shall be sanctified.\"</s>\n        <s>(Exodus thirty).</s>\n    </p>\n</speak>",
+      "original_latin": "Quod praesumptive et\nindocte eas Tarasius cum complicibus suis sacratis\nvasibus aequiparare non formidet. Responsio. Pro hoc in synodo dictum est a Tarasio\npatriarcha Constantinopolitano: Quia et sacra\ndiversa vasa habentes, haec osculamur et amplectimur,\net sanctificationem quamdam accipere ab iis\nsperamus, eo quod haeretici in eorum pseudosyllogo\noblatrantes delirabant, neque orationem sacram\nsanctificantem eam, ut ex hoc ad sanctam a communi\ntransferatur, sed manere communem et inhonoratam,\nsicut eam operatus est pictor. Nos vero in\nhis fideliter et veraciter dicimus et probamus, quia\nusus sanctae nostrae catholicae et apostolicae Romanae\nEcclesiae fuit et est, quando sacrae imagines\nvel historiae pinguntur, prius sacro chrismate unguntur,\net tunc a fidelibus venerantur: instar facientes,\nut locutus est Dominus ad Moysen dicens: Faciesque\nunctionis oleum sanctum unguentum, compositum\n opere unguentarii, et unges ex eo tabernaculum testimonii,\net arcam testamenti, mensamque cum vasis\nsuis, candelabrum et utensilia ejus, altaria thymiamatis\net holocausti, et universam supellectilem,\nquae ad cultum eorum pertinet: sanctificabisque\nomnia, et erunt sancta sanctorum: qui tetigerit ea,\nsanctificabitur (Exod. XXX).",
+      "voice": "Matthew"
+    }
+  ]
+}

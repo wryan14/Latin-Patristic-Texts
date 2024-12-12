@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XXXII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the Same Action<break time=\"500ms\"/>\nChapter 32 Critique \n<break time=\"1s\"/>\n</speak>  ",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>It's not because of those who scorn the worship of images, as they irrationally claim, that the prophet says:</s>\n    <s>\"The Lord will lead away those who turn aside to deceit with those who do evil,\" <phoneme alphabet=\"ipa\" ph=\"sɑːm\">Psalm</phoneme> one hundred twenty-five.</s>\n  </p>\n  <p>\n    <s>Response.</s>\n    <s>They spoke about heretics:</s>\n    <s>As the blessed Augustine explained in the same psalm, towards the end, among other points:</s>\n    <s>This refers to those whose deeds they imitated, because they loved present joys and did not believe in future punishments.</s>\n  </p>\n  <p>\n    <s>And shortly after, he adds:</s>\n    <s>Therefore, because Christ, the Son of God, is peace, He came to gather His own and separate them from the wicked.</s>\n    <s>Which wicked ones?</s>\n    <s>Those who hate Jerusalem, who hate peace, who want to disrupt unity, who do not believe in peace, and so on.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod non propter\nillos qui imaginum adorationem spernunt, ut illi\ndelirant, per prophetam dicitur: Declinantes ad\nobligationem adducet Dominus cum operantibus iniquitatem\n(Psal. CXXIV). Responsio. De haereticis dixerunt: Sicut beatus\nAugustinus in eodem psalmo (circa finem) explanavit,\ninter caetera: id est, quorum facta imitati\nsunt: quia eorum praesentes laetitias amaverunt, et\nfutura supplicia non crediderunt. Et post pauca:\n Ergo quia Christus Filius Dei pax est, ideo venit\ncolligere suos et secernere ab iniquis. Quibus\niniquis? Qui oderunt Jerusalem, qui oderunt pacem,\nqui volunt conscendere unitatem, qui non credunt\npaci, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}
