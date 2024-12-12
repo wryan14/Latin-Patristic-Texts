@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SECUNDA. CAP. X.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n        <s>\n            In the second action, Chapter Ten: Critique.\n        </s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>\n            It is noted that Euthymius, the bishop of Sardis, holds views similar to the error of the aforementioned Constantine when he states:\n        </s>\n        <s>\n            I wholeheartedly accept the venerated images, with appropriate honor and affectionate reverence.\n        </s>\n        <s>\n            For I declare and announce as heretics those who think differently or oppose the holy images, considering them alien to the Catholic Church.\n        </s>\n    </p>\n    <p>\n        <s>\n            Response.\n        </s>\n        <s>\n            As mentioned above, according to the definition of the synod, they confess to making the pure confession of the Catholic Church, particularly where he says he wholeheartedly receives the venerated images and embraces them with appropriate honor and reverence.\n        </s>\n        <s>\n            As stated in the synod's definition: Not at all according to our true faith, which is due only to the divine nature, but just like the sign of the precious and life-giving cross, and the holy Gospels, and other sacred ornaments.\n        </s>\n        <s>\n            And so he said, with appropriate honor; and he promised to declare as heretics those contrary to the Catholic Church.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Quod Euthymius Sardensis\nepiscopus a praefati Constantini errore non multum\ndissentit in eo quod ait: Ex toto corde suscipio venerandas\nimagines, cum condecenti honore et amplectibili\nadoratione. Illos enim qui aliter aut contrarie\nsentiunt, aut dogmatizant contra sanctas imagines,\nalienos catholicae Ecclesiae deputans praedico,\net haereticos annuntio. Responsio. Ecce, ut supra diximus, secundum definitionem\nsynodi confitentur se puram facere Ecclesiae\ncatholicae confessionem in eo ubi iste ex toto corde\nse dicit suscipere venerandas imagines, et cum decenti\nhonore et adoratione amplecti, ut superius in\ndefinitione synodi dictum est: Nequaquam secundum\nfidem nostram veram culturam, quae decet solam divinam\nnaturam, sed quemadmodum signo pretiosae et\nvivificae crucis, et sanctis Evangeliis, et caeteris sacris\nornatis. Et ideo dixit, cum condecenti honore;\net promisit se contrarios catholicae Ecclesiae haereticos\nannuntiare.",
+      "voice": "Matthew"
+    }
+  ]
+}

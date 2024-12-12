@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA CAP. IX.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n  <s>In the fourth action, Chapter Nine - Critique.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n      \n        <s>Regarding what John mentioned earlier: He wrestled with him in the form of a man and called him Israel, which means \"a mind seeing God.\"</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>From the book of Saint Gregory the Theologian on divinity, Oration Two on Theology, after the middle, he notes:</s>\n        <s>For Jacob saw a high ladder.</s>\n        <s>And shortly after: And as though with a man, he wrestled with God.</s>\n        <s>And among other things: The struggle of faith was rewarded with a change of name, from Jacob to Israel, etc.</s>\n    </p>\n    <p>\n        <s>Also, from Saint Augustine about Jacob's wrestling with the angel, he states:</s>\n        <s>He held on and wrestled, as if wanting to embrace Jacob in a physical form, he said: Let me go physically, for behold, it is already morning, so that you may be spiritually enlightened, etc.</s>\n        <s><phoneme alphabet=\"ipa\" ph=\"ˈdʒɛnəsɪs\">Genesis</phoneme> Thirty-Two.</s>\n    </p>\n</speak>",
+      "original_latin": "De eo quod praefatus\nJoannes dixit: In hominis forma luctatus est\n cum ipso, et vocavit eum Israel, quod est interpretatum\nmens videns Deum. Responsio. Ex libro sancti Gregorii Theologi de\ndeitate (Orat. 2 de Theolog., post medium), inter\ncaetera: Jacob enim scalam excelsam vidit. Et post pauca: Et quasi cum homine, Deo\ncolluctabatur. Et post caetera: Et certamen\npietatis translationem vocationis accepit, transnominatus\npro Jacob Israel, etc. Item sancti Augustini de luctatione Jacob cum\nangelo, inter caetera. Tenebat ergo et luctabatur,\nquasi cum carnali habitu Jacob amplecti\nvolens, dicebat: Dimitte me carnaliter, quia ecce\njam mane est, ut spiritualiter illumineris, etc. (Gen. XXXII).",
+      "voice": "Matthew"
+    }
+  ]
+}

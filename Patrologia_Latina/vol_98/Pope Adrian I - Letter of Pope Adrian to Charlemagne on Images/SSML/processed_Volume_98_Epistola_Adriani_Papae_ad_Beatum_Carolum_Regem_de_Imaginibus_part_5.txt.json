@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XV.---Reprehensio.",
+      "cleaned_english_translation": "<speak>\n    In the Fourth Action<break time=\"500ms\"/>\nChapter Fifteen Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>This wasn't written for those who reject the worship of images, as those who do worship them claim. As it says in the Psalm:</s>\n    <s>\"How the enemy has acted maliciously against your holy ones?\"</s>\n    <s>(Psalm Seventy-Three)</s>\n  </p>\n  <p>\n    <s>Response.</s>\n    <s>These words were truly spoken against heretics. The blessed Augustine explains in his commentary on the same Psalm:</s>\n    <s>\"How maliciously the enemy has acted against your holy ones, in those things that were your holy things, meaning the temple, the priesthood, and all those sacraments that existed at that time,\"</s>\n    <s>etc.</s>\n  </p>\n  <p>\n    <s>Similarly, even today, the enemy's greater evils have been nullified against the sacred Catholic and Apostolic Church, which maliciously opposes the ancient and orthodox tradition of sacred images.</s>\n  </p>\n  <p>\n    <s>Furthermore, Saint Gregory of Nazianzus, also known as the Theologian, in his sermon about the philosopher Iron (Oration in Praise of Iron, around the middle), says among other things:</s>\n    <s>\"How could they not boast?</s>\n    <s>How indeed did they not defile the holy temple with various intrusions?</s>\n    <s>And in all evils, an impious and unjust man prevailed, not even carrying the name of Christianity,\"</s>\n    <s>etc.</s>\n  </p>\n</speak>",
+      "original_latin": " Quod non propter eos\nscriptum sit qui imagines adorare contemnunt, sicut\nilli dicunt qui eas adorant, quod in psalmo legitur:\nQuanta malignatus est inimicus in sanctis tuis? (Psal. LXXIII.) Responsio. Veraciter propter haereticos haec dixerunt,\nsicut beatus Augustinus in ejusdem psalmi explanatione\ninquit: Quanta maligne operatus est\ninimicus in sanctis tuis, in his quae sancta tua erant,\nid est in templo, in sacerdotio, in illis omnibus sacramentis\nquae illo tempore fuerunt, etc. Similiter\net nunc ampliora mala inimici sanctae catholicae et\napostolicae Ecclesiae malignantes adversus olitanam\northodoxamque traditionem pro sacris imaginibus,\ndepositione ad nihilum redacti sunt. Item sancti Gregorii Nazianzeni, qui et Theologi,\nin sermone de philosopho Irone (Orat. in laudem\nIronis, circa med. ), inter caetera: Quomodo enim\nnon gloriabantur? Quomodo enim, non polluerunt\ntemplum sanctum superventionibus multimodis? Et\nin omnibus malis principabatur quidem vir impius\net iniquus, et neque nomen Christianitatis circumferens,\netc.",
+      "voice": "Matthew"
+    }
+  ]
+}

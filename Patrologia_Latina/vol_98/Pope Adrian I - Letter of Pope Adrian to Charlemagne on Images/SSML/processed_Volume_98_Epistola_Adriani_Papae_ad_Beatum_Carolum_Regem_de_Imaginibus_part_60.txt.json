@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XV---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n        <s>In the same action, Chapter 15: Critique.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>John, the priest and envoy of the Easterners, makes a misleading and worthless statement, claiming that painters do not contradict the Scriptures. Instead, he says, they depict whatever the Scripture conveys, ensuring that their work aligns with the Scriptures.</s>\n    </p>\n    <p>\n        <s>Response: We've already discussed several times above how the holy Gregory, the esteemed teacher and pope, through his sacred letter to Serenus, bishop of Marseille, taught, among other things:</s>\n        <s><phoneme alphabet=\"ipa\" ph=\"bʊk\">Book</phoneme> nine, letter nine:</s>\n        <s>He suggested that paintings of images were created to educate unlearned individuals, so that those who cannot read might understand the stories by viewing the images, and so forth.</s>\n    </p>\n    <p>\n        <s>Additionally, Saint John Chrysostom, in his interpretation of Psalm fifty, says:</s>\n        <s>Painters use art to imitate nature, blending colors to create visible images of bodies.</s>\n        <s>He continues, describing how they portray an emperor seated, a subdued barbarian, a sharp sword, flowing rivers, fields adorned with various colors, and everything visible.</s>\n        <s>Through their artistry, they present a marvelous story to the viewers, and so on.</s>\n    </p>\n</speak>",
+      "original_latin": "Inutile et mendacio\n plenum dictum Joannis presbyteri et legati Orientalium,\ndicentis: Non contraeunt pictores\nScripturis, sed quidquid Scriptura dicit haec demonstrant,\nquatenus concordes sint Scripturis. Responsio. Jam saepius superius exaravimus qualiter\nper sacram epistolam suam, Sereno episcopo\nMassiliensi directam, sanctus Gregorius eximius\ndoctor et papa, inter caetera docuit: (Lib. IX, ep. 9): Ac deinde subjungendum quia picturae imaginum,\nquae ad aedificationem imperiti populi\nfactae fuerant, ut nescientes litteras ipsam historiam\nintendentes, quid dictum sit discerent, etc. Item sancti Joannis Chrysostomi in interpretatione\npsalmi L, cujus initium: Pictores imitantur\narte naturam, et colores coloribus permiscentes,\nvisibiles corporum depingunt imagines. Et post pauca: Et imperatorem sedentem\net barbarum subditum, et gladium acutum, et\nfluvios decurrentes, et campos variis coloribus\nadornatos, et omnia quae videntur per artem imitantes,\n mirabilem historiam videntibus praestant, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

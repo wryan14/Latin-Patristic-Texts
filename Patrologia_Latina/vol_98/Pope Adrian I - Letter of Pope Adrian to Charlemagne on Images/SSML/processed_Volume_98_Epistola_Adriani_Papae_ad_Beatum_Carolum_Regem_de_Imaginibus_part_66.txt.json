@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    It discusses what Constantine and Irene assert in their writings: Through Him, who reigns with us, God.\n  </p>\n  <p>\n    Here's the response from the Proverbs of Solomon, among other insights:\n  </p>\n  <s>\n    Counsel and sound judgment are mine; I have understanding and strength.\n  </s>\n  <s>\n    By me kings reign, and lawmakers decree what is just.\n  </s>\n  <s>\n    By me princes rule, and the powerful decree justice.\n  </s>\n  <s>\n    I love those who love me. \n    <break time=\"500ms\"/> \n    (Proverbs Chapter 8).\n  </s>\n  <p>\n    And after many reflections:\n  </p>\n  <s>\n    Mercy and truth preserve the king, and his throne is upheld by mercy, etc.\n  </s>\n</speak>",
+      "original_latin": "De eo quod Constantinus\net Irene in suis scriptis aiunt: Per eum, qui conregnat\nnobis Deus. Responsio. Ex Proverbiis Salomonis, inter caetera:\nMeum est consilium et aequitas, mea prudentia, mea\nest fortitudo. Per me reges regnant, et legum conditores\njusta decernunt. Per me principes imperant, et\npotentes decernunt justitiam. Ego diligentes me diligo\n(Prov. VIII). Et post plurima: Misericordia et veritas\ncustodiunt regem, et roboratur clementia thronus\nejus, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

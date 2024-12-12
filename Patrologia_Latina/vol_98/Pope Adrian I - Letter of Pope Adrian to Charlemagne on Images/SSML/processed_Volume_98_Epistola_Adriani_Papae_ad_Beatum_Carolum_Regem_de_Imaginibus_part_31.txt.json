@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XLI.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n     <p>\n        <s>In the same action.</s>\n        <s>Chapter Forty-One: Critique.</s>\n    </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>What their ancestors claimed was not fulfilled, as it is written: <break time=\"500ms\"/> \"The enemies have perished, their weapons destroyed, and you have ruined their cities.\"</s>\n    </p>\n    <p>\n        <s>Response: This verse was always spoken prophetically by the prophet in a psalm-like manner.</s>\n        <s>Thus, the blessed Augustine explained in the same psalm, saying (after the beginning): <break time=\"500ms\"/> \"The enemies have perished, the weapons destroyed;\" not enemies in the plural, but this enemy in the singular.</s>\n    </p>\n    <p>\n        <s>But whose enemy, if not the devil's weapons that have perished?</s>\n        <s>These are understood to be various erroneous opinions.</s>\n    </p>\n    <p>\n        <s>And shortly after: <break time=\"500ms\"/> \"And you have ruined their cities.\"</s>\n        <s>These cities are where the devil reigns, where deceitful and fraudulent councils hold the place of courts, and so on.</s>\n    </p>\n    <p>\n        <s>And thus, it was fulfilled in the heretics themselves when they arrogantly removed sacred images.</s>\n    </p>\n</speak>",
+      "original_latin": "Quod non in eorum parentibus,\nut illi dicunt, impletum sit quod scriptum\nest: Inimici defecerunt frameae in finem, et civitates\neorum destruxisti. Responsio. Hunc versum semper cum propheta\nprophetici psalmifice dixerunt. Unde et beatus Augustinus\nin eodem psalmo explanavit, dicens (Post\nprincipium): Inimici defecerunt frameae in finem:\nnon pluraliter inimici, sed singulariter hujus inimici. Cujus autem inimici, nisi diaboli frameae defecerunt? Hae autem intelliguntur diversae opiniones erroris. Et post pauca: Et civitates destruxisti. Civitates\nautem istae sunt in quibus diabolus regnat,\nubi dolosa et fraudulenta concilia tanquam curiae\nlocum obtinent, et caetera. Et ideo adimpletum est in\nipsis haereticis, quando sacras imagines temerantes\n procaciter deposuerunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

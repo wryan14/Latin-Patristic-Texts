@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. III.---Reprehensio.",
+      "cleaned_english_translation": "<speak>\n    In the Fourth Action<break time=\"500ms\"/>Chapter 3 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>\n            It's considered useless and foolish, full of error, to claim that anyone who fears God honors, worships, and venerates Him in the same way as Christ, the Son of God, our Lord, the sign of His cross, and the image of His saints.\n        </s>\n    </p>\n    <p>\n        <s>\n            Response: From the book of Blessed Augustine about the son of Abraham being led to sacrifice, among other things:\n        </s>\n        <s>\n            You were not moved without reason when I mentioned this: The cross has horns.\n        </s>\n        <s>\n            For two pieces of wood are joined in such a way that they form the shape of a cross.\n        </s>\n        <s>\n            So, as we see in many places in the image of the cross, two horns are made, on which the hands are nailed.\n        </s>\n        <s>\n            I see the crucified Lord in the ram caught by its horns, etc.\n        </s>\n    </p>\n</speak>",
+      "original_latin": " Inutile et demens, et\nerrore plenum dictum quod dicunt: Qui Deum\ntimet honorat omnino, adorat et veneratur sicut\nFilium Dei Christum Dominum nostrum, et signum\ncrucis ejus, et figuram sanctorum ejus. Responsio. Ex libro beati Augustini de filio Abraham\nducto ad sacrificium, inter caetera: Non enim\n frustra moti estis, cum hoc dicerem: Crux cornua\nhabet. Sic enim duo ligna compinguntur in se, ut\nspeciem crucis reddant. Sicut ergo in imagine crucis\nmultis locis videmus, ut fiant duo cornua, quibus\ninfigantur manus, cornibus haerentem arietem crucifixum\nDominum video, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

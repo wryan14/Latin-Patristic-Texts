@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XXII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Fourth Action <break time=\"500ms\"/>\nChapter 22 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n<p>\n<s>How to understand what is written.</s>\n<break time=\"500ms\"/>\n<s>Abraham worshipped the people of the land, the sons of Heth, as mentioned in <phoneme alphabet=\"ipa\" ph=\"dʒɛˈnəsɪs\">Genesis</phoneme> 23.</s>\n<break time=\"250ms\"/>\n<s>It is also said that Moses worshipped Jethro.</s>\n<break time=\"250ms\"/>\n<s>These examples are often used by those who hold councils for worshipping images to support their error.</s>\n<break time=\"500ms\"/>\n</p>\n<p>\n<s>However, neither Jacob worshipped Pharaoh, nor did Daniel worship Nebuchadnezzar the king, as they claim.</s>\n<break time=\"500ms\"/>\n<s>These acts are not read anywhere to have happened.</s>\n<break time=\"500ms\"/>\n</p>\n<p>\n<s>Response:</s>\n<break time=\"250ms\"/>\n<s>Blessed Augustine taught us in Psalm 46, saying:</s>\n<break time=\"500ms\"/>\n<s>The Lord our God spreads the faith, in which we live, through His books, the Holy Scriptures, in many and various ways.</s>\n<break time=\"500ms\"/>\n<s>He varies the sacraments of words, yet recommends one faith.</s>\n<break time=\"500ms\"/>\n</p>\n<p>\n<s>The same thing is expressed in many ways to keep the manner of speaking varied and prevent boredom, while maintaining one faith for harmony.</s>\n<break time=\"500ms\"/>\n<s>Also, from the same blessed Augustine about Abraham's son brought to sacrifice, among other things:</s>\n<break time=\"500ms\"/>\n<s>The two servants left behind and not brought to the place of sacrifice signified the Jews.</s>\n<break time=\"500ms\"/>\n<s>That donkey, I don't know what it signified of the Jews.</s>\n<break time=\"500ms\"/>\n<s>Do not be surprised because one thing can be signified in many ways.</s>\n</p>\n</speak>",
+      "original_latin": "Quomodo intelligendum\nsit quod scriptum est: Abraham adoravit populum\nterrae filios Heth (Gen. XXIII), sive quod Moyses Jetro\nlegitur adorasse: quibus exemplis ii qui propter\nadorandas imagines synodos faciunt, suum errorem\nfulcire affectant: et quia nec Jacob Pharaonem, nec\nDaniel Nabuchodonosor regem, ut illi dicunt, uspiam\nleguntur adorasse. Responsio. Beatus Augustinus in psalmum XLVI nos\ndocuit, dicens: Dominus Deus noster fidem, in qua\n vivimus per libros suos , Scripturas\nsanctas, multipliciter nobis varieque diffundit,\nsacramenta quidem verborum varians, fidem tamen\nunam commendans. Una enim eademque res\nideo multis modis dicitur, ut modus ipse dicendi\npropter fastidium varietur, sed propter concordiam\nuna fides teneatur, etc. Item ejusdem beati Augustini\nde filio Abraham ducto ad sacrificium, inter\ncaetera: Duo illi servi dimissi, et non perducti ad\nlocum sacrificii, Judaeos significabant: asina illa nescio\nquid Judaeorum significabat. Nolite mirari, quia\ntoties una res potest multis modis significari, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

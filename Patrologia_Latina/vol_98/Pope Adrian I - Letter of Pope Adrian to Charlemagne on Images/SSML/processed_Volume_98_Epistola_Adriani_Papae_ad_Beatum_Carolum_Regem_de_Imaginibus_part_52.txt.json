@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUINTA. CAP. V.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n In the Fifth Action   <break time=\"500ms\"/>Chapter Five Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>They say:</s>\n    <s>\"He who disdains images is guilty of the same crime as Nebuchadnezzar, who disturbed the bones of the kings of Judah from their tombs, blinded the Jewish king after killing his sons, and removed the cherubim from the temple.\"</s>\n  </p>\n  <p>\n    <s>Response.</s>\n    <s>We have already mentioned in a letter from Pope Saint Gregory that images are not to be disdained, but venerated.</s>\n    <s>Therefore, our predecessors, the frequently mentioned most holy pontiffs, in sacred councils, made the following ruling:</s>\n    <break time=\"500ms\"/>\n    <s>\"If anyone refuses to venerate the holy images of our Lord Jesus Christ, His mother, and all the saints, according to the teaching of the holy Fathers, let them be anathema.\"</s>\n  </p>\n</speak>",
+      "original_latin": "De eo quod dicunt: Ejusdem\ncriminis reus est qui imagines spernit, cujus et\nNabuchodonosor, qui ossa regum Juda protulit e sepulcris,\net Judaici regis oculos occisis filiis eruit, et\ncherubim de templo abstulit. Responsio. Jam per epistolam sancti Gregorii papae\nsuperius exaravimus qualiter imagines non sunt spernendae,\nsed venerandae. Unde praedecessores nostri\nsaepius dicti sanctissimi pontifices in sacris conciliis\ntalem dedere sententiam: Si quis sanctas imagines\nDomini nostri Jesu Christi, et ejus genitricis,\natque omnium sanctorum secundum sanctorum Patrum\ndoctrinam venerari noluerit, anathema sit.",
+      "voice": "Matthew"
+    }
+  ]
+}

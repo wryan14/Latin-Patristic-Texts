@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XLIV.---Reprehensio.",
+      "cleaned_english_translation": "<speak>\n    In the Fourth Action<break time=\"500ms\"/>\nChapter 44 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>\n John the presbyter, while Theodosius, the abbot of the monastery of Saint Andrew, was reciting the words of John Chrysostom, said: \n        </s>\n        <s>\n            I saw an angel in a vision chasing a multitude of barbarians. Who is this angel, if not the one mentioned in the Scriptures, where the angel of the Lord struck down 185,000 Assyrians in one night, <phoneme alphabet=\"ipa\" ph=\"tʊˈkeɪnʃən\">Second Kings</phoneme> Chapter 19, around Jerusalem while they were encamped?\n        </s>\n    </p>\n    <p>\n        <s>\n            Response. We have already explained why Saint John Chrysostom mentioned this vision, but the diverse multitude from which it originated has passed.\n        </s>\n        <s>\n            Therefore, John the presbyter, by his own judgment, believed, according to the divine Scripture, that the angel of the Lord struck down 185,000 Assyrians in one night around Jerusalem while they were encamped.\n        </s>\n        <s>\n            Whether this was accurate or not, he did not confirm, but simply mentioned it in a questioning manner.\n        </s>\n    </p>\n</speak>",
+      "original_latin": " De eo quod Joannes presbyter,\nTheodosio abbate monasterii sancti Andreae,\nrecitante verba Joannis Chrysostomi, et dicente: Vidi\nangelum in imagine persequentem barbarorum multitudinem,\ndixit: Quis est iste angelus, nisi de\nquo scriptum est, quoniam angelus Domini percussit\ncentum octoginta quinque millia Assyriorum\nin una nocte (IV Reg. XIX), in circuitu Jerusalem\nexercitantium? Responsio. Jam superius vobis exaravimus propter\nquod sanctus Joannes Chrysostomus protulit ipsum\naspectum, sed ipsa varia multitudo unde fuisset\ntransiit. Idcirco Joannes presbyter ex proprio arbitrio\ndixit, secundum divinam Scripturam existimans\nesse, quando angelus Domini percussit centum octoginta\nquinque millia Assyriorum in una nocte, in\ncircuitu Jerusalem exercitantium? Nam utrum sic\nesset, an non, minime confirmavit, sed interrogative\n taliter memoravit.",
+      "voice": "Matthew"
+    }
+  ]
+}

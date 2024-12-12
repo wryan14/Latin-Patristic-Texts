@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SEXTA. CAP. XXXV.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Sixth Action<break time=\"500ms\"/>\nChapter 35 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n   \n        <s>The response? They presented testimony from the holy Sixth Council to clearly demonstrate that even during the time of the holy Sixth Council, sacred images and painted histories were venerated since ancient times.</s>\n    </p>\n    <p>\n        <s>Therefore, the holy Sixth Council faithfully established in its orthodox canons, stating: In some paintings of venerable images, the lamb shown by the finger of the forerunner is designated, which was left as a sign of grace.</s>\n        <break time=\"500ms\"/>\n        <s>And shortly after, Canon eighty-one states: We decree that according to the human form and in images, it is now called a new name instead of the old lamb, etc.</s>\n    </p>\n    <p>\n        <s>And thus, blessed Augustine explained in Psalm ninety-three: If you do not worship these earthly things in Christ, although some resemblance is given to signify the saints, from whichever creature the likeness is derived, understand it as the likeness of the creature, and worship the Creator of the creature, etc.</s>\n    </p>\n</speak>",
+      "original_latin": "Quod non ad adorationem\nimaginum pertineat testimonium quod de sexta\nsynodo protulerunt. Responsio. Idcirco testimonium de sancta sexta\nsynodo protulerunt ut clarifice ostenderent quod jam\nquando sancta sexta synodus acta est, a priscis temporibus\nsacras imagines et historias pictas venerabantur. Unde ipsa sancta sexta synodus fideliter per\ncanones orthodoxe statuens, ita constituit dicens:\nIn quibusdam venerabilium imaginum picturis,\nagnus digito praecursoris monstratus designatur, qui\nin signum relictus est gratiae. Et post pauca (Can. 81): Secundum humanam figuram et in imaginibus\na nunc pro veteri agno retitulari decernimus, etc. Unde et beatus Augustinus in psalmo XCIII explanavit:\nSi autem non adoras in Christo ista terrena,\nquamvis de illis similitudo quaedam data est ad significandos\nsanctos, de quacunque creatura ducta\nfuerit similitudo, tu intellige similitudinem creaturae,\net adora artificem creaturae, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

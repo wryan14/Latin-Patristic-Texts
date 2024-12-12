@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SEXTA. In tomi primi fine. CAP. XXVIII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n      <p>\n    <s>In the sixth action, at the end of the first volume, Chapter 28: Critique. </s>\n  </p><break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>This doesn't relate to the worship of images, despite what the Psalmist sang:</s>\n    <s>\"Each one speaks lies to his neighbor; with flattering lips and a double heart they speak\" (Psalm twelve, verse two).</s>\n  </p>\n  <p>\n    <s>Response:</s>\n    <s>It's not that they ignored what the Psalmist sang:</s>\n    <s>\"Each one speaks lies,\" etc.;</s>\n    <s>but rather, in rejecting the nonsense of heretics in their misguided presence, they sang with the Psalmist about them:</s>\n    <s>\"Each one speaks lies to his neighbor,\" and so on.</s>\n  </p>\n  <p>\n    <s>In Saint Augustine's explanation of the same psalm, among other points:</s>\n    <s>There is one truth by which holy souls are enlightened.</s>\n    <s>However, since there are many souls, many truths can be spoken within them, just as many images appear in mirrors from one face.</s>\n  </p>\n  <p>\n    <s>And shortly after:</s>\n    <s>Proud hypocrites are indicated, those who place their hope in their speech to deceive people, yet do not submit to God.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod non pertineat ad\nimaginum adorationem contemnentes illud quod\nPsalmographus cecinit: Vana locuti sunt unusquisque\nad proximum suum, labia dolosa in corde, et corde\nlocuti sunt mala (Psal. XI). Responsio. Non ita est, ut illi contempsissent quod\nPsalmographus cecinit: Vana locuti sunt, etc. ; sed\ncontemnentes deliramenta haereticorum in perversa\nfacie ipsorum, cum Psalmographo cecinerunt de illis:\nVana locuti sunt unusquisque ad proximum suum,\n et quod sequitur. Beati Augustini in ejusdem psalmi\nexplanatione, inter caetera: Veritas una est, qua\nillustrantur anima sanctae. Sed quoniam multae sunt\nanimae, in ipsis multae veritates dici possunt, sicut\nab una facie multae in speculis imagines apparent. Et post pauca: Superbi hypocritae significantur,\nin sermone suo spem ponentes ad decipiendos homines,\nsed Deo non subditi.",
+      "voice": "Matthew"
+    }
+  ]
+}

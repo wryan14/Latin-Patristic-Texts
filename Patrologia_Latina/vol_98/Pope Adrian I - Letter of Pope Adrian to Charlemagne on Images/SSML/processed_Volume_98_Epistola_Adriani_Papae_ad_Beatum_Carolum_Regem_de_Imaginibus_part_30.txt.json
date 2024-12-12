@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SEXTA. In tomo secundo Epiphanius legit. CAP. XL.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n        <s>\n      In the sixth action of the second volume, Epiphanius reads.\n    </s>\n    <s>\n      Chapter 40: Critique.\n    </s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>\n      It does not relate to their parents as they say: May the Lord destroy all deceitful lips and the boastful tongue.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"sɑːm\">Psalm</phoneme> twelve.\n    </s>\n  </p>\n  <p>\n    <s>\n      Response: They spoke prophetically and sang with the Psalmist, as the blessed Augustine explained in this psalm, saying: May the Lord destroy all deceitful lips, etc.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      When he said \"all,\" who would think themselves exempt?\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      As the Apostle says: Upon every soul of man who does evil, Jews first and Greeks.\n    </s>\n    <s>\n      And the proud tongue.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      <phoneme alphabet=\"ipa\" ph=\"roʊˈmænz\">Romans</phoneme> chapter two.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Quod non ad eorum parentes\npertineat, sicut illi dicunt: Disperdat Dominus\nuniversa labia dolosa, et linguam magniloquam\n(Psal. XI). Responsio. Bene prophetice dixerunt, cum Psalmista\ncanentes, sicut beatus Augustinus in eodem\nexplanavit psalmo, dicens: Disperdat Dominus\nuniversa labia dolosa, etc. (Ibid.) Universa dixit,\nquis se exceptum putet? sicut Apostolus dicit: In\n omnem animam hominis operantis malum, Judaei\nprimum et Graeci. Et linguam superbam (Rom. II).",
+      "voice": "Matthew"
+    }
+  ]
+}

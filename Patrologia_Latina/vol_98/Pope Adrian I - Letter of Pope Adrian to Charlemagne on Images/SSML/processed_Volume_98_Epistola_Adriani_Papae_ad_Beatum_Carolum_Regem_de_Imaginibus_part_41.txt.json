@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE PRIMA. CAP. VII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the First Action<break time=\"500ms\"/>\nChapter Seven Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>There is a reproof for those who say, \"With God's help, we decided to gather you,\" or, \"God gathered you, wanting to establish his own council.\"</s>\n        <s>The response can be found at the end of the Gospel of Saint Mark, where it is written, \"But they went forth and preached everywhere, the Lord working with them, and confirming the word with signs following\" <phoneme alphabet=\"ipa\" ph=\"mɑrk\">Mark</phoneme> 16.</s>\n    </p>\n    <p>\n        <s>Also, Saint Cyril, in his sermon about the Holy Mother of God, says, \"Indeed, glory to you from us, holy mystical Trinity, who has called these and all of us to this calling of the Mother of God, Mary,\" and so on.</s>\n    </p>\n    <p>\n        <s>Moreover, from the holy synod in the eighteenth action, after the subscriptions of the bishops and the emperor, Constantine, the most pious emperor, declared, \"We bring forth God as a witness.\"</s>\n        <s>He continued, \"Since it pleased God to grant time, we invited your gathering to consider the holy Scriptures of God and to expel any new voice or assertion added to our undefiled Christian faith in these recent times by some who hold wrong views,\" and so forth.</s>\n    </p>\n</speak>",
+      "original_latin": "Contra eos qui dicunt:\nDeo cooperante nos direximus congregare vos, sive,\nCongregavit vos Deus, concilium proprium statuere\nvolens. Responsio. In fine Evangelii sancti Marci: Illi autem\n profecti praedicaverunt ubique, Domino cooperante,\net sermonem confirmante sequentibus signis\n(Marc. XVI). Item sancti Cyrilli in sermone sanctae\nDei genitricis, inter caetera: Gloria quidem tibi a\nnobis sancta mystica Trinitas, quae hos et nos omnes\nconvocavit in hanc vocationem Dei genitricis\nMariae, etc. Item ex sancta synodo, actione\ndecima octava, post subscriptiones episcoporum et\nimperatoris, Constantinus piissimus imperator dixit:\nDeum testem proferimus. Et post pauca: Cum\nergo Deo complacuit tempus concedere, invitavimus\nfieri collectionem vestram, ad considerandum nobis\nsanctas Dei Scripturas, omnemque vocis sive assertionis\nnovitatem quae adjecta est ad intemeratam nostram\nChristianorum fidem in his vicinis temporibus,\na quibusdam prava sentientibus, expellendam, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

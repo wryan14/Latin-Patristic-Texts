@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XIX.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the same Action<break time=\"500ms\"/> Chapter 19 Critique  \n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n    <p>\n        <s>This might seem unrelated, as it's written:</s>\n        <s>\"There is no longer a prophet, and we will not be recognized anymore\" <phoneme alphabet=\"ipa\" ph=\"ˈsɑːm\">Psalm</phoneme> 74.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>For those heretics who, during the false assembly under Constantine, once a heretic emperor, claimed to know and understand something, but in reality, did not, they themselves mentioned this in the psalm.</s>\n        <s>They are likened to the Jews, about whom the blessed Augustine explained in the same psalm, saying:</s>\n    </p>\n    <p>\n        <s>\"Look, these Jews, who say they are not recognized yet;\"</s>\n        <s>and shortly after:</s>\n        <s>\"You no longer see your signs, there is no longer a prophet, and you say: 'And we will not be recognized anymore,' because you do not recognize yet.</s>\n        <s>There is no longer a prophet, and we will not be recognized anymore: until when, God, has the enemy reproached?\"</s>\n    </p>\n    <p>\n        <s>Similarly, these heretics:</s>\n        <s>\"until when their leader, namely Constantine the heresiarch, was reproached, they did not understand, and therefore they were reduced to nothing.\"</s>\n    </p>\n</speak>",
+      "original_latin": "Quod nec illud ad hanc\npertineat, ut illi dicunt, quod scriptum est: Quoniam\nnon est jam propheta, et nos non cognoscet amplius\n(Psalm. LXXIII). Responsio. Pro haereticis illis, qui in pseudosyllogo\nsub Constantino quondam haeretico imperatore gloriantes\nse aliquid sapere et intelligere, nescientes\ntalia, ipsi psalmifice dixerunt. Coaequantes eos Judaeis,\nde quibus beatus Augustinus in eodem psalmo\nexplanavit, dicens: Ecce isti Judaei, qui se dicunt\nnon agnosci adhuc; et post pauca: Jam signa\ntua non vides, jam non est propheta, et dicis: Et\nnos non cognoscet adhuc, quia vos non agnoscitis\nadhuc. Jam non est propheta, et nos non cognoscet\n adhuc: usquequo Deus, exprobravit inimicus? Similiter\net ipsi haeretici: usquequo princeps eorum,\nvidelicet Constantinus haeresiarcha, exprobratus\nest, non intellexerunt, et ideo redacti sunt ad nihilum.",
+      "voice": "Matthew"
+    }
+  ]
+}

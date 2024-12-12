@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. VII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n  <s>In the same action, Chapter 7 Critique.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n      \n        <s>In this section, Leontius, the keeper of secrets, upon seeing images on silver tablets, claimed he had discovered the oldest and most ingenious benefit of his mistake.</s>\n    </p>\n    <p>\n        <s>Response.</s>\n        <s>Similarly, from the same holy Sixth Council, among other things, in Act 8, after the middle:</s>\n        <s>Constantine, the most pious emperor, and the holy synod said, \"Let Macarius explain why he has removed these necessary things from the testimony of the holy and reputable Father.\"</s>\n    </p>\n    <p>\n        <s>Macarius, the heretic, replied, \"I have taken excerpts according to my own intent.\"</s>\n        <s>And shortly after, the holy synod remarked, \"Look, most gracious lord, he has also removed this testimony.\"</s>\n        <s>For after the testimonies are re-read by the order of your strength, they will show that his excerpts have obscured them, etc.</s>\n    </p>\n</speak>",
+      "original_latin": "De eo quod in eodem libro\nin tabulis argenteis Leontius a secretis imagines cernens,\nantiquissimum et ingeniosissimum sui erroris\nemolumentum se invenisse gloriatus est. Responsio. Item ex eodem sancto sexto concilio\n inter caetera (Act. 8, post medium): Constatinus\npiissimus imperator, et sancta synodus dixerunt:\nEdicat Macarius, ut quid haec necessaria sunt circumrecidit\nde testimonio sancti et probabilis Patris (sic)? Macarius haereticus dixit: Ego testimonia quae defloravi,\nsecundum proprium intentum defloravi. Et\npost pauca: Sancta synodus dixit (Loco cit. ): Ecce,\nbenignissime domine, et hoc testimonium abscidit. Namque post testimonia per jussionem vestrae fortitudinis\nrelegantur, ostendent defloratione ejus obumbrata,\netc.",
+      "voice": "Matthew"
+    }
+  ]
+}

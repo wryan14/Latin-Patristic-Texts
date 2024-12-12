@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN EADEM ACTIONE. CAP. XLIII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n   In the Same Action <break time=\"500ms\"/>\nChapter 43 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n \n        <s>It is not, as they claim, said for those who worship images: \"Because the Lord will not allow the rod of the wicked to rest on the lot of the righteous, so that the righteous will not reach out their hands to do wrong\" <break time=\"500ms\"/> (Psalm One Twenty-Five).</s>\n    </p>\n    <p>\n        <s>Response: They rightly spoke with the prophet because the rod of the wicked refers to the heretics, and the lot of the righteous refers to the orthodox, as Saint Augustine explained in the same psalm, saying: \"The rod of the wicked is felt for a time on the lot of the righteous, but it is not left there; it will not be forever.\"</s>\n        <s>The time will come when Christ, appearing in His glory, will gather all nations before Him and separate them, as a shepherd separates the goats from the sheep.</s>\n        <s>He will place the sheep on His right, and the goats on His left, etcetera.</s>\n        <s>(Matthew Twenty-Five).</s>\n    </p>\n</speak>",
+      "original_latin": "Quod non, ut illi gloriantur,\npropter illos dictum est qui imagines adorant:\nQuoniam non derelinquet Dominus virgam\npeccatorum super sortem justorum, ut non extendant\njusti ad iniquitatem manus suas (Psal. CXXIV). Responsio. Recte cum propheta dixerunt: quia virga\npeccatorum haeretici sunt, et sors justorum orthodoxi,\nquemadmodum sanctus Augustinus in eodem psalmo\nexplanavit, dicens: Sentitur ad tempus virga\npeccatorum super sortem justorum, sed non ibi relinquitur:\nnon erit in aeternum. Veniet tempus,\nquando Christus in claritate sua apparens, congreget\nante se omnes gentes, et dividat eas, sicut dividit\npastor haedos ab ovibus. Oves ponet ad dexteram, haedos\nad sinistram, etc. (Matth. XXV. ).",
+      "voice": "Matthew"
+    }
+  ]
+}

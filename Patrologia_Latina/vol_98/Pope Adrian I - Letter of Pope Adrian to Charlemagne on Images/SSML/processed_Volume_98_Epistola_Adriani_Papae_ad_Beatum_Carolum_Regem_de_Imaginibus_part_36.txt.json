@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE QUARTA. CAP. XLVI.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n  In the Fourth Action  <break time=\"500ms\"/>\nChapter 46 Critique.\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>This concerns John, a priest and envoy of the Easterners, who is said to have carelessly tried to establish the worship of images:</s>\n    </p>\n    <p>\n        <s>Jacob set up a pillar to God, and in doing so, he blessed him.</s>\n        <s>Response:</s>\n        <s>This was said in a symbolic sense because when he woke up, he set up a stone pillar at the place where God had spoken to him. He poured offerings on it, anointed it with oil, and called the place Bethel.</s>\n        <s>Genesis Chapter Thirty-Five.</s>\n        <s>Therefore, it seems to have multiple interpretations.</s>\n    </p>\n    <p>\n        <s>From the book of blessed Augustine, on the Treatise of Esau and Jacob:</s>\n        <s>Your holiness understands, he says, that the Church is represented in many ways.</s>\n        <s>And shortly after:</s>\n        <s>Because one thing is represented in many ways, which is none of these things in reality, but is all of them in figure, etc.</s>\n    </p>\n</speak>",
+      "original_latin": "De eo quod Joannes\n presbyter et legatus Orientalium incaute imaginum\nadorationem stabilire nitens, dixisse legitur:\nErexit Jacob titulum Deo, quatenus et benedixit\neum. Responsio. In similitudine hoc dixit, quia cum evigilasset,\ntunc ille erexit titulum lapideum in loco\nquo locutus fuerat ei Deus, libans super eum libamina,\net effundens oleum, vocansque nomen loci\nBethel (Gen. XXXV). Et ideo plures similitudines\ninterpretationum habere videtur. De libro beati\nAugustini, de Tractatu Esau et Jacob: Intelligit,\ninquit, sanctitas vestra; multis enim modis\nsignificatur una res, id est Ecclesia. Et post\npauca: Quia una res multis modis significatur,\nquae nihil horum est per evidentiam, omnia est per\nfiguram, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

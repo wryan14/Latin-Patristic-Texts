@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "IN ACTIONE SEXTA. CAP. XXXVIII.---Reprehensio. ",
+      "cleaned_english_translation": "<speak>\n    In the Sixth Action <break time=\"500ms\"/>Chapter 38 Critique\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>It's a great rashness and an enormous absurdity to equate the often-mentioned images with the body and blood of the Lord.</s>\n  </p>\n  <p>\n    <s>Response.</s>\n    <s>They did not equate them, but rather spoke more scripturally:</s>\n    <s>For none of the holy apostles or our respected Fathers, who spoke without blood of our offering, which is done in memory of the passion of Christ our God and all His plan, called it an image of His body.</s>\n    <s>Nor did they receive from the Lord to speak or confess so, but they hear Him saying in the Gospel:</s>\n    <s>Unless you eat the flesh of the Son of Man and drink His blood, you shall not enter the kingdom of heaven.</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"dʒɒn\">John</phoneme> 6.</s>\n    <s>And there are many other teachings of the Lord and the blessed Apostle Paul.</s>\n    <s><phoneme alphabet=\"ipa\" ph=\"fɜrst kəˈrɪnθiənz\">First Corinthians</phoneme> 11.</s> \n    <s>We did not wish to write them all down, because it is written in order in the same synod:</s>\n    <s>For to equate, as the Iconoclast heretics say in their false writing, the venerable images with the body and blood of the Lord, they insensibly equated.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod magnae sit temeritatis\ningentisque absurditatis, saepe memoratas\nimagines corpori et sanguini Dominico aequiparare\nvelle. Responsio. Non aequiparaverunt, sed magis scripturaliter\ndixerunt: Nullus enim aliquando tubarum\nspiritus, sanctorum apostolorum aut probabilium\nPatrum nostrorum, quae sine sanguine nostram libationem,\nquae ad memoriam passionis Christi Dei\nnostri et omnis ejus dispensationis facta, dixit imaginem\ncorporis ejus, nec susceperunt a Domino sic\ndicere aut confiteri, sed audiunt dicentem eum evangelice:\nNisi comederitis carnem Filii hominis, et biberitis\nejus sanguinem, non intrabitis in regnum coelorum\n(Joan. VI). Et alia plurima ex Domini doctrina\net beati Pauli apostoli (I Cor. XI), quae exarare\nnoluimus, quia in eadem per ordinem scribitur\nsynodo: nam aequiparare, ut dicunt Iconoclastae\nhaeretici in eorum pseudosyllogo, venerandas imagines\ncorpori et sanguini Dominico, insensabiliter\naequiparaverunt.",
+      "voice": "Matthew"
+    }
+  ]
+}
