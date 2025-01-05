@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EPISTOLA\nB. PAULINI AD PERPETUUM EPISCOPUM. (C)   ",
+      "cleaned_english_translation": "<speak>\n      <p>\n    <s>\n      Letter from B. Paulinus to Perpetuus, Bishop.\n    </s>\n    <s>\n      To the holy and most blessed master, Bishop Perpetuus, from Paulinus.\n    </s>\n  </p><break time=\"500ms\"/>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>\n      You've once again given me the courage to speak, allowing my words to flow where I might have otherwise remained shamefully silent, rather than stumbling over unskilled verbosity.\n    </s>\n    <s>\n      You seek the suggestion of ongoing support: to share my wishes in words, holy and most blessed master, a special patron before the Lord, known for angelic conversation and apostolic dignity.\n    </s>\n  </p>\n  <p>\n    <s>\n      Driven by conscience, I thought even this was too much, feeling it reckless to approach such evident brightness of virtues, as if to be enlightened, fearing I might overshadow such a clear light with my own darkness.\n    </s>\n    <s>\n      But, understanding what I had written, you bolstered my confidence with your command, so those consecrated walls may still bear the marks of my verses, written as a remedy for weakness.\n    </s>\n  </p>\n  <p>\n    <s>\n      I sent the verses through my most esteemed deacon, as per your instructions, so the page displayed on the wall would receive them, also mentioning the visit of my Nepotulus, whose recovery was aided by the virtue-inscribed document and your blessed hand's signature.\n    </s>\n  </p>\n  <p>\n    <s>\n      Your prayer will ensure that belief grows with support, and what we aim to achieve, because we are allowed to write, we pursue.\n    </s>\n  </p>\n</speak>",
+      "original_latin": " Domino sancto ac beatissimo patrono Perpetuo episcopo\nPaulinus. Iterato asinae ora reserastis qui mihi loquendi fiduciam\n praestitistis, cum objecta ore in eo loco verecundius\nsilentio conticescerem quam imperita verbositate\ngarrirem. Sed quaerit de suffragii assidui\n suggestione: votum loquendo prodidere, domine\nsancte ac beatissime, specialis apud Dominum patrono\nconversationis angelicae et apostolicae dignitatis. Ego conscientia perurgente credideram etiam hoc\nfuisse nimium quod potueras notare temerarium, ut\nad illam virtutum tam perspicuam claritatem quasi\nilluminandus accederem, lucemque tam claram tenebrarum\nmearum nube restringerem. Sed benigne de\nhis quae scripseram sentiendo duplicatis audaciam\njussione, ut etiamnum illi parietes consecrati versuum\n meorum ferant lituras, qui ad remedium imbecillitatis\nimbuimur. Versus per dominissimum meum\ndiaconum sicut praecepistis, emisi, quos pagina\nin pariete reserata susciperet, etiam illis de visitatione\nNepotuli mei memor tanti favoris adjectis,\nquem charta inscripta virtutibus, et manu beatitudinis\nvestrae subscripta sanaverat. Vestra praestabit\noratio ut credulitas crescat auxiliis, et quae adipisci\ncupimus, scribere quia permittimur, adeamus.",
+      "voice": "Matthew"
+    }
+  ]
+}
