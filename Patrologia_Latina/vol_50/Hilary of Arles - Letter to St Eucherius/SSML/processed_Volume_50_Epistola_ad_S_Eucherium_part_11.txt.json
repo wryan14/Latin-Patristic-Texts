@@ -1,0 +1,16 @@
+{
+    "chunks": [
+        {
+            "original_latin": "EPISTOLA\nS. HILARII ARELATENSIS EPISCOPI AD S. EUCHERIUM EPISCOPUM LUGDUNENSEM. (CS) ",
+            "cleaned_english_translation": "<speak>\n    Letter of Saint Hilary of Arles, Bishop, to Saint Eucherius, Bishop of Lyon\n</speak>",
+            "voice": "Ruth",
+            "chunk_number": 1
+        },
+        {
+            "chunk_number": 2,
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      To the most blessed lord, justly esteemed and to be esteemed, and in Christ most devotedly bound Pope Eucherius, Bishop, from Hilary, Bishop.\n    </s>\n    <s>\n      Although I mentioned in previous letters that I would bring your little books back with me, I couldn't delay because of the insistence and demand of the boy you sent.\n    </s>\n    <s>\n      So, I returned the delightful works of your blessedness, quite anxious that they, not yet copied, might be ruined by the pouring rain.\n    </s>\n    <s>\n      I only went through them once, marveling at everything.\n    </s>\n    <s>\n      May the Lord grant that I may someday review these splendid works of your glory in Christ, with you guiding me through the pages.\n    </s>\n    <s>\n      I ask only this, that you do not let me be deprived of these teachings for long. Having one of your young men, for whom you arranged this education, please wish for me to have them more eagerly, as the challenges of youth press on me.\n    </s>\n    <s>\n      May the Lord remember you for the advancement of His Church and keep you for a long time, most blessed Pope.\n    </s>\n  </p>\n</speak>",
+            "original_latin": "\n   Domino beatissimo, merito suscepto et suscipiendo et\nin Christo devinctissimo papae Eucherio episcopo Hilarius\nepiscopus. Cum me libellos tuos mecum relaturum praecedentibus\nlitteris indicassem,  instantiam et exactionem\n pueri quem miseras lentare nullatenus potui. Emisi\nitaque florulenta beatitudinis tuae opera, non parum\nanxius ne necdum  descripta tam jugiter, tam graviter,\nruentibus imbribus labefactarentur. Percurri\nea semel tantum, universa miratus. Concedat Dominus\n ut speciosa haec in Christo  Instructionum nostrarum\ngloriae tuae opera, te in paginis tuis duce,\naliquando  percenseam. Hoc unum precor, ne me\ndiu his Instructionibus fraudari feras; sed unum me\nde juvenibus tuis,  quorum haec eruditioni ordinasti,\n habens, eo instantius habere me haec velis,  quo me\nmagis juventutis retia premunt. Memorem te mei\nDominus ad profectum Ecclesiae suae diu servet, beatissime\npapa.<span class=\"text-blue-600 font-bold\"",
+            "voice": "Matthew"
+        }
+    ]
+}
