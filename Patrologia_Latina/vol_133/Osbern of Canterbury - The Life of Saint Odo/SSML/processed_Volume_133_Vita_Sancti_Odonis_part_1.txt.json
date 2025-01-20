@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    The Life of Saint Odo  <break time=\"500ms\"/>\nby Osbern, Monk of Canterbury\n</speak>",
+      "original_latin": "VITA SANCTI ODONIS\nAuctore, ut videtur, OSBERNO monacho Cantuariensi. ",
+      "voice": "Ruth"
+    }
+  ]
+}
