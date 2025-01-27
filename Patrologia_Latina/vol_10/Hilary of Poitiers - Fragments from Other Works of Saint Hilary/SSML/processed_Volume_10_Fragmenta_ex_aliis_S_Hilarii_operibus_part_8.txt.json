@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Here's another point.</s>\n        <s>When Christ came in the likeness of sinful flesh, He did not possess sin, even though He had a human body.</s>\n        <s>Since all flesh is descended from sin, inherited specifically from Adam, He appeared in the likeness of sinful flesh.</s>\n        <s>However, in Him, there was no sin, only the appearance of sinful flesh.</s>\n    </p>\n</speak>",
+      "original_latin": "Item aliud. VIII. Ergo cum missus est (Christus) in similitudine\ncarnis peccati, non sicut carnem habuit, ita habuit\n et peccatum. Sed quia ex peccato omnis caro\nest, a peccato scilicet Adam parente deducta; in\nsimilitudine peccati carnis est missus, exsistente\nin eo, non peccato, sed peccati carnis similitudine.",
+      "voice": "Matthew"
+    }
+  ]
+}

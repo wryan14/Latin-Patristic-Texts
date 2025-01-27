@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item . II. Quas Job litteras legerat, ut abstineret se ab\n omni re maligna, quia Deum sola mente vitiis non\nadmixta venerabatur? Deum autem colere, justitiae\nproprium officium est.",
+            "cleaned_english_translation": "<speak>\n    \n        <p>\n            <s>\n                So, what guidance had Job received that led him to avoid all evil, knowing he worshipped God with a pure mind?\n            </s>\n            <s>\n                Worshiping God, after all, is the true duty of justice.\n            </s>\n        </p>\n    \n</speak>"
+        }
+    ]
+}

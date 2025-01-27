@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            When Scripture mentions Christ, like in <break time=\"100ms\"/> First Timothy 2:5, or when it states Christ died, as in Romans 8:34, and when it says the Word was made flesh, like in John 1:14;\n        </s>\n    </p>\n    <p>\n        <s>\n            The word shouldn't be stripped of its explanations by any reader's deceit. Where it mentions the man Christ, it's preceded by, \"Mediator between God and humans,\" indicating that he embodies both God and man, uniting both natures within himself.\n        </s>\n    </p>\n    <p>\n        <s>\n            But when Christ died, it follows with, \"who was raised, who is at the right hand of God.\" \n        </s>\n        <s>\n            In his death, we see the weakness of our flesh; in the resurrection, his power; and in the presence of God, his dignity.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "De   expositione epistolae ad Timotheum. V. Nam et cum dicit Scriptura, homo Christus,\n (I Tim II 5), et cum dicit, Christus mortuus est\n(Rom VIII 34), et cum dicit, Verbum caro factum\nest (Joan I 14); non est spoliandus per fraudulentiam\nlegentis expositionibus suis sermo. Nam ubi\nhomo Christus est, praecedit, Mediator Dei atque hominum:\nut ex utroque, Deo et homine, unus subsistat;\nsitque inter hominem et Deum medius, confessione\nin se utriusque naturae. Ubi vero Christus mortuus\nest, subjicitur, Qui resurrexit, qui est in dextera Dei. In morte ejus carnis nostrae infirmitas est, in resurrectione\nvirtus ejus, in consessu Dei dignitas.",
+      "voice": "Matthew"
+    }
+  ]
+}

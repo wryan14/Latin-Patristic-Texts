@@ -1,0 +1,681 @@
+1
+00:00:00,000 --> 00:00:04,200
+SIGEHARDI
+DE MIRACULIS SANCTI MAXIMINI.
+
+2
+00:00:04,200 --> 00:00:20,455
+MONITUM AD LECTOREM. S. Maximini Vitae a Lupo episcopo fortasse Catalaunensi , conscriptae ut secundum librum de
+miraculis ejusdem sancti adjiceret, Sigehardo auctor fuit Wikerus, qui a. 957-966, abbas monasterium
+S. Maximini Trevirense regebat .
+
+3
+00:00:20,455 --> 00:00:35,719
+Ille, quamvis viribus diffisus, anno 962 vergente vel 963 incipiente
+opus aggressus, ea tantum se narrare profitetur, quae abbas bene comperta habuerit ipsique tradiderit . Attamen etiam alios coenobii monachos consuluisse videtur.
+
+4
+00:00:35,719 --> 00:00:54,154
+Nam etiamsi quae Gisilbertus dux Ogoni abbati
+retulerat , Wikero narrante, perceperit, alia tamen Thietbertus monachus , Ruotpertus presbyter
+, Wenido custos , Reginerus presbyter , fortasse Adalbertus quoque postea Magdeburgensis
+archiepiscopus aliique cum ipso communicaverunt.
+
+5
+00:00:54,154 --> 00:01:08,889
+Haec omnia Sigehardus, qui certo certius
+monachus habendus est , calamo excepit, et simpliciter quidem temporisque ordine neglecto ,
+sed satis accurate, bona fide, et satis probabili dicendi genere usus , memoriae tradidit.
+
+6
+00:01:08,889 --> 00:01:28,581
+Ex quibus
+capita 8-18, quae res Lotharingicas saeculi IX et X aliquatenus illustrant, hoc loco erant exhibenda, reliquis
+praetermissis, quippe quae ad historiam vix ac ne vix quidem spectent. Codices in bibliotheca urbis Trevirensis ditissima, in cujus libris manuscriptis exscribendis hoc anno
+VV.
+
+7
+00:01:28,581 --> 00:01:42,391
+CII. Wyttenbachio socio nostro et Laven bibliothecae praefectis permittentibus mihique benigno animo
+valde faventibus, integro fere mense occupatus fui, quinque inveni, quorum ope textum non uno
+loco emendavi.
+
+8
+00:01:42,391 --> 00:02:01,818
+1) N. 1151 (963) mbr. s. XIII, ex. fol., olim S. Maximini magnam Vitarum sanctorum collectionem continet, olim 7 voluminibus digestam, quorum 4 adhuc supersunt. In secundo (olim tertio) f. 125 Vita S. Maximini legitur, eique Sigehardi liber secundus subjicitur, qui recentiori manu ex altero ut
+
+9
+00:02:01,818 --> 00:02:11,465
+videtur exemplari saepius est emendatus. Ex hoc codice procul dubio editio fluxit, quae. Henschenio curante, in Actis SS. Vol. VII, p. 25 prodiit.
+
+10
+00:02:11,927 --> 00:02:16,700
+Ex eodem etiam, antequam correcturae
+et additio illa factae sunt.
+
+11
+00:02:16,700 --> 00:02:38,583
+1o) N. 1167 (CCCXCVI) chart. s. XV ex., olim codex beatae Mariae virginis in Clusa Eberhardi, descriptus est. 2) N. 1380 (1141) a. 1514 in membranis albis eleganter exaratus, maximam partem I sequitur , altero tamen codice adhibito, ex quo capitum divisiones et rubras recepisse videtur. 3) N. 1396
+
+12
+00:02:38,583 --> 00:03:00,098
+(1337) chart. s. XVII fol. inter varia historiam Trevirensem illustrantia etiam hunc librum ex codice optimo descriptum continet. Quae in I post correcta et in 2 melius leguntur, hic quoque recte habentur, alia vero ex hoc tantum emendari potuerunt. 4) N. 1381 (1180) chart. s. XVI 4o, quamvis
+
+13
+00:03:00,098 --> 00:03:21,613
+negligentissime scriptus mendisque innumerabilibus depravatus, ex fonte tamen bono haustus est. Alium codicem eumque antiquiorem, scilicet s. XI scriptum, praefatione vero, ut videtur, destitutum, qui olim monasterii S. Gisleni fuit, Bethmannus noster in bibliotheca Montensi invenit, quo sine
+
+14
+00:03:21,613 --> 00:03:34,170
+detrimento editionem nostram carere posse, confido. Adnotationes quasdam Hontheim praebuit, qui libri fragmenta scriptorum Trevirensium collectioni (I p 465-468) inseruit.
+
+15
+00:03:34,463 --> 00:03:40,319
+PRAEFATIO AUCTORIS. Omni in Christo reverentia suscipiendo domino
+abbati WIKERO SIGEHARDUS .
+
+16
+00:03:40,319 --> 00:03:47,570
+Rogas, pater karissime, immo vi quadam auctoritatis
+extorques invito, quatinus arduum omnino
+meisque viribus praeminens explicandum opus assumam.
+
+17
+00:03:47,570 --> 00:04:02,472
+Nam praecipis propriaque potestate compellis, quo ea quae post editum a Lupo episcopo de Vita sancti Maximini librum per eundem gloriosum Christi confessorem sunt gesta miracula, ne prorsus legentium vel audientium utilitati depereant, stilo alligem, ac conpetentis serie narrationis digestis, post
+
+18
+00:04:02,472 --> 00:04:07,073
+illum primum, secundum super illis libellum absolvam, te certe locuturo suggerente materiam.
+
+19
+00:04:07,073 --> 00:04:19,975
+Qua de re coartor e duobus, veritus scilicet, ne aut
+tibi renitendo inobedientiae crimen incurram, aut
+iterum parere conando coepto subcumbam; cum
+nimirum ingenioli mei tenuitatem et eloquii stillulam
+exequendo istiusmodi negotio nullatenus sufficere
+videam.
+
+20
+00:04:19,975 --> 00:04:34,127
+Igitur tanta rerum difficultate , qua nusquam
+illaesus evadere valeam, quasi quodam murorum
+ambitu inclusus et undique circumseptus, hoc
+solum michi agendum utile ratus sum, scilicet hac
+in parte locum evasionis eligere, qua perspicio
+minus ex praecipitio laesionis posse contingere.
+
+21
+00:04:34,127 --> 00:04:48,878
+Nam cum constet contemptum quidem seniorum ad animae periculum, defectum vero in coeptis spectare ad ridiculum, quis sanum sapiens tollerabilius, immo longe salubrius fore non censeat, pro impericia irrisiones hominum sustinere, quam pro superbia semetipsum condempnare? Quapropter diu multumque
+
+22
+00:04:48,878 --> 00:04:50,829
+desideratum opus perge securus aggredi.
+
+23
+00:04:50,829 --> 00:04:55,029
+Ego
+plane tibi pro viribus adero, nequaquam ausus tuae
+sanctitati diutius reluctari.
+
+24
+00:04:55,029 --> 00:05:10,031
+Omnia ergo quae dixeris, vel a te ipso, ut promittis, et ab his qui adhuc vivunt tecum visa, vel ab his qui viderunt tibi probabilibus personis comperta, qualicumque prosequar stilo, non ad hoc propriae possibilitatis fiducia nitens, sed tam operosum michi negotium tuae potius cunctorumque sanctorum
+
+25
+00:05:10,031 --> 00:05:11,981
+fratrum meritis et orationi committens.
+
+26
+00:05:12,432 --> 00:05:27,966
+Aderit etiam, sicut semper in omnibus,
+ita et in hac quoque parte clarus noster forte Maximinus,
+facile, ut confido, apud Christum dominum
+obtenturus , ut, sicut ille a Deo patre in Spiritu
+sancto factus est omnibus salus et justicia, ita quoque
+et michi elingui efficiatur lingua.
+
+27
+00:05:27,966 --> 00:05:32,942
+Quod si dignabitur,
+haud dubium, liquidam veritatem etiam a
+muto luculenter expressum iri.
+
+28
+00:05:32,942 --> 00:05:48,532
+Nec reticendum
+est, quod cum facile confidam, Deo piisque omnibus
+succedentium temporum hoc opusculum gratum fore,
+vereor tamen praesentium aliquos eidem derogaturos
+meque insulsum, falsiloquum, nullius momenti homuncionem,
+omnium reprehensione dignissimum,
+toto orbe adjudicaturos.
+
+29
+00:05:48,532 --> 00:06:01,469
+Nec te, fateor, pater venerabilis,
+etsi voluerint, excipere valebunt, quin tocius
+hujus insectationis peste involvaris, quippe cum et
+me juxta assertionem talium falsa scribere compuleris
+et scribenti falsitatis materiam ministrasses.
+
+30
+00:06:01,469 --> 00:06:17,833
+Qua ex re operae pretium video, praesenti praefaciuncula calumpniandi viam estis obstruere, non magnae defensione arte refragando, sed humiliter suggerendo, quo meminerint, primos ac fortissimos Christi assertores ydiotas fuisse, non sophistas ; neque me expectant Mercuriali lepiditate Tulliique
+
+31
+00:06:17,833 --> 00:06:26,734
+copia in curia declamaturum, sed in cellula monasterii rerum gestarum veritatem, sobrio ac veridico pii patris ore depromptam, puro simplicique sermone dicturum.
+
+32
+00:06:26,734 --> 00:06:40,942
+Deinde vero, etsi merito illis despectui
+habita fuerit vilitas ista elaborantis, honori tamen
+quaeso habeatur praerogativa jubentis; nec statim
+credant, patrem nostrum, virum utique sancta vita
+et conversatione conspicuum, falsa dicere quam silere
+maluisse.
+
+33
+00:06:40,942 --> 00:06:53,160
+His ita praelibatis, Wikere pater,
+quod agendum imminet ineamus, exorata prius dignatione
+divina, quatenus ipsa annuente, quae illa
+sanctisque omnibus digna sint, et tu ore edicere et
+ego scripto persequi valeamus.
+
+34
+00:06:53,160 --> 00:06:54,284
+EXPLICIT PRAEFATIO .
+
+35
+00:06:54,284 --> 00:07:10,594
+8 (890) Temporibus Arnulfi imperatoris,
+cum jam in hoc loco religionis, pro dolor! status
+haut minima ex parte laberetur et monachicae professionis
+rigor paulatim laxari ac dissolvi coepisset,
+defuncto monasterii abbate Herkenberto, monachi
+pro electione abbatis palatium ex more competunt.
+
+36
+00:07:10,594 --> 00:07:25,555
+Quibus cum peccatis exigentibus electio non permitteretur ,
+sequestratis aliquibus monasterii possessiunculis,
+quae vix artam monachis sustentationem
+potuissent praebere, cuidam Megingaudo ,
+regni hujus duci, qui tunc forte aderat , abbatia
+ab imperatore donata est.
+
+37
+00:07:25,555 --> 00:07:35,059
+Qua suscepta cum laetus
+ad propria remeasset, hilarem se ac jucundum pro
+accepto beneficio per totum diem omnibus exhibens,
+adveniente nocte cum conjuge cubiculum adiit.
+
+38
+00:07:35,059 --> 00:07:51,819
+Cumque laeti thoro pariter discubuissent, digressis omnibus, solam mulierem secreto in haec verba alloquitur: Scisne, inquid, quantum michi munus dominus meus imperator largitus sit? Illa vero cum se nescire fateretur: Servum, inquid, praedivitem in beneficium michi indulsit; et si vis scire, ipse
+
+39
+00:07:51,819 --> 00:07:55,587
+est Maximinus cum abbatia sua , quem etiam tibi si volueris tradam.
+
+40
+00:07:55,587 --> 00:08:12,235
+Quibus auditis, sanae mentis mulier virum prope modum insanum, quantum in se fuit, pro temeraria garrulitate vehementer objurgare, seque tanti beneficii indignissimam proclamare ; cum inter haec haut mora fuit, et ecce injuriam dilecti Dei Maximini digna vindicta subsequitur, atque os blasphemum
+
+41
+00:08:12,235 --> 00:08:13,528
+ultio divina corripuit.
+
+42
+00:08:13,528 --> 00:08:27,814
+Nam ille fragilis ac caducus terricola, qui inani jactantia
+ac tumido animo se super coeli consulem
+Maximinum extendisset, subito infra semetipsum
+totus contrahitur, et paulo ante hominis forma, in
+spaeram quadam vel globum pene informem convolvitur. 9 .
+
+43
+00:08:27,814 --> 00:08:41,256
+Tunc Megingaudus, tam acriter diutius
+animadversus, in se rediit, quid et cur pateretur intellexit,
+et ex toto corde, adhortante conjuge, dicti
+poenituit, seque copiis praeparatis magna cum celeritate
+Treverim deportare praecepit.
+
+44
+00:08:41,256 --> 00:08:54,916
+Tandem itaque
+ad monasterium ventum est, ante sanctum altare
+deponitur, xeniis preciosis ipsum altare cumulatur. Et qui prius se dominum superbe proclamavit,
+tunc sancti Maximi servum nutibus ac sibilis potius
+quam verbis humiliter assignavit.
+
+45
+00:08:54,916 --> 00:09:10,938
+Nec fructibus suae
+satisfactionis privatus est homo, postquam ad ejus
+clementiam, quem quasi procaciter laesit, supplex
+confugium fecit. Nam fusa pro eo a fratribus prece,
+meritis Maximini caelestis ira sedatur, virtuteque
+sancti integra sanitas in puncto temporis Megingaudo
+redditur.
+
+46
+00:09:10,938 --> 00:09:20,945
+Sic homo salubri correptione a Deo
+castigatus, ne ulterius blasphemaret in sanctos,
+Maximinum ex tunc vita sua colit ut sanctissimum,
+amplectitur ut patrem, veneratur ut dominum.
+
+47
+00:09:20,945 --> 00:09:33,200
+Remque gestam ad imperatorem protinus referens,
+pro denegata fratribus electione sollicitavit,
+nec prius rogatu et obsecratione circa regem destitit,
+quam regalem fiscum, Ribiniacum nomine,
+fratrum usibus acquisisset .
+
+48
+00:09:33,200 --> 00:09:47,872
+Hujus ergo
+tanti ac talis patroni nostri sanctitatem quis satis
+miretur, quis digne collaudet? Adeo in meritis ac
+virtute Maximini nostri omnia altiora, omnia excellentiora
+sunt, quam ut ne aestimari quidem, nedum
+etiam abs quolibet mortalium valeant explicari.
+
+49
+00:09:47,872 --> 00:09:53,157
+Sed nos unde hac quantulacumque sancti laudatione
+digressi sumus, ad propositum redeamus. 10 .
+
+50
+00:09:53,157 --> 00:10:09,741
+Quamvis, ut superiore capitulo retulimus, ordo ac districtio regularis in hoc loco anteriori tempore negligentia et enervitate praepositorum aliqua claudicasset ex parte, numquam tamen divina meritis Maximini annuente clementia, huic loco sanctos ac religiosos defuisse viros, donec iterum datis
+
+51
+00:10:09,741 --> 00:10:22,221
+abbatibus neglectus regularis observantiae vel in pristinum vel etiam in melius Deo propicio corrigeretur, cum ex multis quae non est temporis hujus explicare, tum etiam ex eo quod in praesentiarum referam, liquido claret.
+
+52
+00:10:22,221 --> 00:10:22,896
+11 .
+
+53
+00:10:22,896 --> 00:10:37,430
+Siquidem post memoratum Megingaudum
+potestatibus et usibus hujus regni ducum haec abbatia
+subjacuit, his tantum exceptis, quae fratrum
+sustentationi dudum sequestrata fuerant; quae tamen
+ipsa, sicut et adhuc, eorum defensioni a regibus
+committebantur.
+
+54
+00:10:37,430 --> 00:10:54,628
+Qua ex causa cum Gisilbertus admodum juvenis dux regno praeficeretur, ut illa se aetas habet, secularibus oblectamentis et pompis ac voluptatum illecebris primo sui principatus tempore, quamvis postea egregius vir factus sit , se potius dedens, quam commoditatibus subditorum prospiciens, monachos
+
+55
+00:10:54,628 --> 00:11:01,924
+hujus monasterii etiam vehementer afflixit, ea scilicet quae in usus eorum cesserant adimens suisque satellitibus disperciens.
+
+56
+00:11:01,924 --> 00:11:19,064
+Ea autem tempestate vir clarissimus Heinricus , genitor serenissimi Ottonis , cujus imperii anno vigesimo septimo haec scripsimus, monarchia regni potitus, subditos quidem justicia, pace et clementia modestissime gubernavit, imperii vero apicem virtutibus et gloria omnique honestate singulariter
+
+57
+00:11:19,064 --> 00:11:19,643
+decoravit.
+
+58
+00:11:19,643 --> 00:11:36,610
+12 . Inito ergo consilio, fratres, ut dictum est,
+intollerabili afflictione a Gisilberto depressi, regiam
+clementiam adierunt, quidque incommodi a duce
+paterentur, conquesti sunt. Nichil tamen tanto labore
+assumpto proficientes, indignationem magis
+praedicti ducis, inmeriti licet, emeruerunt.
+
+59
+00:11:36,610 --> 00:11:50,913
+Quid
+aliud agerent? Defectum tantum a monasterio, necessitatis
+ultimo coacti, meditabantur, cum subito
+vires denuo reparant animorum, consilium in hunc
+modum restaurant, scilicet ad regem regum, Maximino
+patrocinante, suum orando referre negocium.
+
+60
+00:11:50,913 --> 00:12:08,111
+Quod cum aliquandiu haut segniter ageretur , quadam nocte venerabilis Maximinus in visione duci quiescenti supervenit; ac primo quidem, quis sit quorumve causa venerit, pandit; deinde obnoxii culpas arguit; ad ultimum vero---mira dicturus sum et ferme incredibilia, his tantum qui Deum non credunt
+
+61
+00:12:08,111 --> 00:12:13,264
+omnia posse---latera ac scapulas flagellis caedendo liventes reddit, statimque disparuit.
+
+62
+00:12:13,728 --> 00:12:28,967
+Mox autem dux, somno suo simul ac somnio ita graviter excussus, familiaribus paucis, somnium quidem se vidisse, quidque in ipso perpessus sit attestantibus plagis, edixit, sed cur hoc, vel quis egerit, summo studio alicui illorum indicare dissimulavit, quamvis tamen facile tunc ex consequentia
+
+63
+00:12:28,967 --> 00:12:30,678
+gestorum id quoque conici posset.
+
+64
+00:12:30,678 --> 00:12:42,911
+Siquidem
+continuo Treverim versus iter acceleravit, et Maximinum
+sibi prece placans ac munere, monachis
+non solum ablata restituit, verum etiam amissam
+illorum gratiam pecuniarum, quibus fraterna communio
+valde eguit, redemit impendiis.
+
+65
+00:12:42,911 --> 00:12:58,306
+Ex hoc jam tempore a juvenilibus actibus resipiscens, magnificum prorsus evasit in virum, locumque istum et congregationem in tantum dilexit, ut ejus potentissimum studio venerabili Ogone huic abbate intronizato , (934) diu nimis obtenebrata religiosae conversationis claritas vitae nostrae tandem
+
+66
+00:12:58,306 --> 00:12:59,499
+splendidius reluxisset.
+
+67
+00:12:59,499 --> 00:13:11,058
+Haec ergo omnia, ita ut retulimus,
+de se gesta, ipse sancto viro Ogoni confessus
+est. In qua etiam confessione se Deo ac sancto Maximino
+monachum futurum devovit, si uxori superstes
+conjugali vinculo mereretur absolvi. 13 .
+
+68
+00:13:11,058 --> 00:13:21,321
+Referam et aliud, quod huic meo judicio
+haut longe impar decernitur; nisi forte hoc Maximini
+virtutum credi debeat detrimentum, quod in
+illo miraculo facti socium Remigium clarum habuisse
+asseritur.
+
+69
+00:13:21,321 --> 00:13:30,496
+Comes quidam, nomine Ruobertus
+, germanus illius, de quo supra retulimus,
+Megingaudi fuit, cujus praedia in pago Naachgowe
+Maximini ac Remigii conlimitantia
+praediis adjacebant.
+
+70
+00:13:30,496 --> 00:13:39,049
+Quam ob rem servi ejus cum
+familia sanctorum crebro litigio decertabant, illis
+antiqua confinia supergredi cupientibus, istis e contrario
+totis viribus renitentibus.
+
+71
+00:13:39,049 --> 00:13:48,432
+Interea cum crudelitas
+servilium querelarum et rusticae contentionis
+a vicinis conpesci nequivisset, nostris cupidinosam
+injuriam proclamantibus, causa refertur ad
+comitem.
+
+72
+00:13:48,432 --> 00:13:57,620
+Ille mox placitum indicens diemque statuens,
+ad conspectionem ac circumductionem terminorum,
+magna turba circummanentium comitatus
+advenit, suisque praeire jubet duces.
+
+73
+00:13:57,620 --> 00:14:14,028
+Nec mora;
+unus ex illis, qui hujus iniquitatis semper exstitit
+caput, et se ceteris praeripiens fraudulentus circumductor
+efficitur, praecedens et indice praemonstrans,
+ac multa de sanctorum praediis, antiquos
+transgrediens limites, falsa demonstratione in partes
+sui senioris transferre conatus est.
+
+74
+00:14:14,028 --> 00:14:25,678
+Ibat ergo,
+et cirroteca quam rustici wantum vocant,
+manu superducta, sicut voluit demonstravit, nostris
+subsequentibus ac renitentibus et auxilium Maximini
+atque Remigii constantissima inprecatione
+conclamantibus.
+
+75
+00:14:25,678 --> 00:14:41,867
+Interea bonus ille ductor atque
+justus cirrotecam manui detrahit , sed in eadem
+amputatum divinitus digitum reliquid. Tunc
+maliciae suae convictus et a seniore suo, ut dignum
+erat, ignominiose tractatus, gratiam ipsius
+amisit; sicque veritate declarata, omnis illa
+contentio terminum habuit. 14 .
+
+76
+00:14:41,867 --> 00:14:49,415
+Est villa monasterii quae Wimari ecclesia
+dicitur, quam saevissimus quidam, cujus nomen
+memoriae nostrae elapsum est, in beneficio
+habuit.
+
+77
+00:14:49,415 --> 00:15:05,714
+Qui cum sancti familiam gravissime afflictaret, etiam non inveniens, quid eis, unde culpari possent, objceret, uni eorum, qui agrestior ceteris videretur, accipitrem suum custodiendum commisit, sciens rusticum illius artis nullam habere periciam, ut dum ales neglecta deperiret, interitus culpam in
+
+78
+00:15:05,714 --> 00:15:06,862
+rusticum retorqueret.
+
+79
+00:15:06,862 --> 00:15:22,341
+Ille vero
+diu multumque reniti et impericiam excusare artis,
+cum tamen alitem demum conpulsus est custodiendam
+suscipere. Quid autem ageret? Servavit
+interim vivam, sine esu in domo fumica cito morituram. Qua mortua, plumas ei detraxit, ac sale
+conspersam domino servandam suspendit.
+
+80
+00:15:22,341 --> 00:15:30,600
+Putabat
+enim stulta rusticitas, se astuciam callidi hominis
+evasuram, si ei vel cadaver avis tempore exactionis
+incorruptum valuisset exhibere.
+
+81
+00:15:30,600 --> 00:15:39,596
+Cumque jam
+revoluto longi temporis spacio, immitis dominus
+accipitrem suum a rustico exegesset, ille protinus
+cadaver obtulit. Ibi nacta occasione saevit homo.
+
+82
+00:15:39,596 --> 00:15:54,195
+et fera crudelior quasi contumeliam sibi a rustico
+factam sociis omnibus imputat, astruens, communi
+consilio illum ad audaciam facti fuisse animatum:
+cunctosque in crastinum ad placitum vocat, omni
+peculio spoliandos multisque insuper verberibus afficiendos.
+
+83
+00:15:54,195 --> 00:16:10,887
+Territi ergo et aestuantes miseri, nocte illa
+convenerunt, omnique humano prorsus desperato
+auxilio, Maximini opem expetere statuunt, electosque
+ex omnibus duos juvenes, impositis eulogiis
+datisque mandatis, concite ad monasterium mittunt,
+illis cum timore maximo statutum placiti attendentibus.
+
+84
+00:16:10,887 --> 00:16:20,563
+Missi autem juvenes, cum fratres horae nonae
+sinaxim celebrassent, portam monasterii valide
+pulsaverunt; et quia putabatur aliqua potens esse
+persona, mox intromissi sunt.
+
+85
+00:16:20,563 --> 00:16:35,331
+Qui currentes per
+medium chorum, eulogias ante altare tacite deponunt,
+ac primo scopis, quas secum detulerant,
+altare diverberant, deinde prostrati solo, ingenti
+ac miserabili ululatu Maximinum evigilare et in
+suum auxilium adversus tirannum exurgere deposcunt.
+
+86
+00:16:35,331 --> 00:16:47,157
+Eadem ergo hora eodemque momento, quo
+isti hic miserias suas deplorant, ille efferus de loco
+placiti surgens, secessum peciit, ibique cum inenarrabili
+tortura viscera carnis simul et crudelitatis
+effudit. 15 .
+
+87
+00:16:47,157 --> 00:16:55,192
+Bernaker quidam erat vir nobilis et
+opulentus, qui longe postquam hoc accidit, quod
+actenus retulimus, eandem villam precario jure
+acquisivit.
+
+88
+00:16:55,192 --> 00:17:04,471
+Qui facibus avariciae succensus, agris
+illius villae undique contiguos et collimitantes pauperum
+agellos, eo quod fertilis illa terra esset, sibi
+injuste usurpavit.
+
+89
+00:17:04,471 --> 00:17:16,920
+Congregatis autem arantium turbis,
+arare ipsos agros jussit, cum illi, quibus violentiam
+intulit, eum per Deum obsecrare et sanctum
+Maximinum, ut sua sibi sufficerent nec se
+inique suis possessiunculis spoliaret.
+
+90
+00:17:16,920 --> 00:17:31,227
+Quibus cum id responsi redderet, scilicet nec latitudinem nec longitudinem pedis se propter Maximinum de omnibus his terris alicui concessurum, illi ad consuetum recurrunt praesidium, in ipso videlicet loco, quo aratorum multitudo jam tunc ad prandendum consederant , Dei sanctique Maximini
+
+91
+00:17:31,227 --> 00:17:37,247
+subsidium, cum neminem haberent qui eis tuicioni esse posset , cum magnis fletibus et ejulationibus solo strati precantes.
+
+92
+00:17:37,247 --> 00:17:51,999
+Mira dicturus sum; ut affirmant qui viderunt, in nulla caeli parte ne quidem minima caeli nubecula apparuit, cum subito in hoc tantum loco, ubi juga boum cum aratris stabant, tanta tempesta exortas est, ut vi ventorum turbinisque vertigine elevati boves cum aratris in vallem quandam profundissimam,
+
+93
+00:17:51,999 --> 00:17:58,561
+dimidio pene miliario ab hoc sejunctam loco, rotati projicerentur; ac sine mora, sicut undique fuit, ita ibi quoque serenitas affuit.
+
+94
+00:17:58,561 --> 00:18:11,191
+Cumque agricolae quaquaversum dispersi,
+boves suos et aratra disquisissent, venientes ad vallem,
+boves quidem aliquos semineces, aliquos jam
+mortuos, his cornibus evulsis, illis cruribus vel
+cervicibus fractis, aratra vero in frusta comminuta
+reppererant .
+
+95
+00:18:11,191 --> 00:18:25,647
+Tunc agricolae pro dampnis
+suis admodum moestificati, ad Bernachrum sunt
+reversi, et quae acciderant cum gravi luctu nunciaverunt. Ille vero magno timore perculsus, et adhuc
+graviorem se vindictam sensurum suspicatus, virtute
+Maximini territus, ab insectatione pauperum
+cessavit ulterius. 16 .
+
+96
+00:18:25,647 --> 00:18:32,160
+Nec reticendum, quod pro simili crudelitate
+Adalberto , hujus nostri Adalberti genitori ,
+Gisilberti ducatus tempore evenerit.
+
+97
+00:18:32,160 --> 00:18:45,527
+Ipse etenim cum inhumane prorsus familiam sancti tractaret, et a matre juvenis ducis---nam pater jam obierat ---proinde saepius objurgaretur , nec corrigi a nequicia valuisset, quodam tempore sexaginta viri de villa Ramiche ---haec enim beneficium ejus erat---surgentes, omnes huc pariter venerunt;
+
+98
+00:18:45,527 --> 00:18:54,632
+cunctisque pro foribus tota nocte excubantibus, licentia a custode impetrata, duodecim tantum infra ecclesiam missos per tria disponunt altaria, tota nocte suffragia Maximini indefessa prece quaesituros.
+
+99
+00:18:54,632 --> 00:18:57,996
+Nec spes de Maximini pietate
+praesumpta votum supplicum miserorum fefellit.
+
+100
+00:18:57,996 --> 00:19:11,453
+Mane siquidem domina illa---hic enim tunc morabatur---cum ad missam Adalberto multisque aliis satellitibus comitata, procederet, omnes illi viri in ecclesia ejus praestolantes adventum, mox ut ingressa est, cuncti pariter in pavimentum coram sacro altari corruunt , terribilibus ac maximis clamoribus
+
+101
+00:19:11,453 --> 00:19:15,984
+Maximinum in tanta necessitate patrocinari, seque de Adalberti tirannide jam tandem conclamant eripi.
+
+102
+00:19:15,984 --> 00:19:20,200
+Vix illis clamoribus post
+evolutum dimidiae, ut fertur, horae spacium silentium
+est imperatum.
+
+103
+00:19:20,200 --> 00:19:33,522
+Adalbertus vero clementem videns feminam haut modico dolore ex conpassione miserorum attactam, dejerare per Maximini virtutem coepit, omniaque quae dicerent homines illos fuisse mentitos; et ut erat ense accinctus , manum protinus extendens ad capulum, procaciter nimis per spatam suam juravit, se
+
+104
+00:19:33,522 --> 00:19:35,720
+gravissimas poenas pro tanta temeritate luituros.
+
+105
+00:19:35,720 --> 00:19:46,755
+Necdum minarum verba
+finierat , cum subito, videntibus cunctis---pallio
+enim tunc non erat amictus---, soluto divinitus cingulo,
+gladius de ejus femore in terram cecidit. Factumque
+hoc, quod exinde miliciae foret inutilis,
+evidens portentum fuit.
+
+106
+00:19:46,755 --> 00:19:53,304
+Ita Maximinus, cum ejus
+virtute Adalbertus publice confusus, mox beneficium
+amisit, ab ipsius feritate servos suos potenter
+eripuit. 17 .
+
+107
+00:19:53,304 --> 00:20:05,868
+Tum Wenido custos ecclesiae, de quo superius
+fecimus mentionem , sumens lagunculam
+trium tantum capacem sextariorum vino plenam,
+Maximini benedictione exorata, sexaginta illos viros,
+vigilis totius noctis ac fletibus fatigatos, satis
+habunde refecit.
+
+108
+00:20:05,868 --> 00:20:19,388
+Et ne etiam corporali suae charitatis
+praemio privaretur, mox ut rediens intravit ecclesiam,
+eandem lagunculam ut erat prius plenam invenit. Porro istis omnibus, quae in hoc capitulo
+retulimus, Ruotpertus, presbiter et monachus, qui
+interfuit et vidit, attestatur. 18 .
+
+109
+00:20:19,388 --> 00:20:34,165
+De Wenidone autem dum arduam vitae suae conversationem, saepe michi ab hiis qui eum noverunt expositam, cum hoc confero, quod ita familiariter Maximini virtutum quantulaecumque portioni communicat, quid aliud quam sancte censeam aestimare? Et quia tantum de hoc viro diximus, libet et aliud mei
+
+110
+00:20:34,165 --> 00:20:42,508
+similibus, scilicet corde pollutis et corpore, in exemplum se cavendi referre, quod ille quoque referebat, quotiens negligentiores vel moneret vel corriperet fratres.
+
+111
+00:20:42,508 --> 00:20:48,288
+19. Quidam in hoc monasterio fuit acolithus
+. . . . . . . . . . . . . . . <span class="text-blue-600 font-bold"
+

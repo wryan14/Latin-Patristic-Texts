@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Ex   incerto Opere. VII. Panem nostrum quotidianum da nobis 714\nhodie (Lucae XI 3). Quid enim tam vult Deus, quam ut\nquotidie Christus habitet in nobis, qui est panis vitae,\net panis e coelo: et quia quotidiana oratio est, quotidie\nquoque ut detur, oratur.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            From the uncertain work. Seven.\n            <break time=\"500ms\"/>\n            Give us today our daily bread, as written in \n            <phoneme alphabet=\"ipa\" ph=\"luːk\">Luke</phoneme> \n            eleven:three.\n        </s>\n        <s>\n            What does God want more than for Christ, who is the bread of life and the bread from heaven, to dwell in us every day?\n        </s>\n        <s>\n            And because it is a daily prayer, it is also prayed for daily to be given.\n        </s>\n    </p>\n</speak>"
+        }
+    ]
+}

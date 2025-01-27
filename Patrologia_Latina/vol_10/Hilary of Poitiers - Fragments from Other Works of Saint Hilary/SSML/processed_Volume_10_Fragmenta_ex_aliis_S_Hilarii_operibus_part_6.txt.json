@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        From the book to Emperor Constantius.\n    </p>\n    <p>\n        <s>\n            The Son of God became man and is God.\n        </s>\n        <s>\n            God became the Son of man so that man could become God, not that God became man, and the Son of man became the Son of God.\n        </s>\n        <s>\n            The greatness of the Lord surpassed the smallness of the servant's form, transforming the servant's form, which He took on, from servile to exalted through the Lord who assumed it.\n        </s>\n        <s>\n            For if those who are not naturally sons of God become sons of God through Him, then how much more did He, who is naturally the Son of God, elevate the one with whom He was conceived and born by His own will in the virgin's womb, to the point that at His name every knee should bend, in heaven and on earth and under the earth, and every tongue confess that the Lord Jesus Christ is in the glory of God the Father.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "713 Ex libro   ad Constantium imperatorem. VI. Filius Dei factus homo Deus est . . . . . . Deus\n   filius hominis factus est (homo enim factus est\nDeus, non Deus factus est homo), et (f sed) filius\nhominis factus est filius Dei. Superavit enim magnitudo\nDomini parvitatem servilis formae; ita ut\nipsa servilis forma, quam assumpsit, cessaret esse\nservilis per eum Dominum, qui eam assumpsit. Si enim qui natura non filii Dei, per ipsum efficiuntur\nfilii Dei; quanto magis ipse, qui natura filius\nDei est, hunc cum quo voluntate sua alvo virginali\nconceptus et natus est, ita sublimavit in Deum, ut in\nejus nomine omne genu flectatur, coelestium et terrestrium\net infernorum, et omnis lingua confiteatur,\nquia Dominus Jesus Christus in gloria est Dei patris.",
+      "voice": "Matthew"
+    }
+  ]
+}

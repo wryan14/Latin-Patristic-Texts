@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EUSEBIO ET YPATIO  CONSS. XII kal. augusti (die 21 jul an 359)",
+      "cleaned_english_translation": "<speak>\n    Title: Eusebius and Hypatius, Consuls, Twelve Days Before the Kalends of August (July Twenty-First, Year Three Hundred Fifty-Nine)\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  \n    <p>\n      <s>\n        After deliberating on the course of action, Grecianus, the bishop of Calle, spoke:\n      </s>\n      <s>\n        \"Dear brothers, the Catholic council has shown the patience it should, demonstrating the pious Church time and again, along with Ursacius, Valens, Germinius, and Gaius, who have repeatedly changed their beliefs and caused turmoil in all churches.\n      </s>\n      <s>\n        Now, they attempt to impose their heretical views on Christian souls.\n      </s>\n      <s>\n        They want to overturn the decree made at Nicaea, which was established against the Arian heresy and others.\n      </s>\n      <s>\n        Moreover, they presented us with a creed they had written, which we could not accept.\n      </s>\n      <s>\n        They have already been declared heretics to us in the past and proven so over many days.\n      </s>\n      <s>\n        We have not admitted them into our communion, condemning them with our own voices while they were present.\n      </s>\n      <s>\n        Now again, what do you all think?\n      </s>\n      <s>\n        Please voice your opinions so that it can be confirmed with each person's signature.\"\n      </s>\n    </p>\n    <p>\n      <s>\n        All the bishops said: \"We agree that the heretics should be condemned, so that the Church, truly Catholic, may remain in perpetual peace with unwavering faith.\"\n      </s>\n    </p>\n  \n</speak>",
+      "original_latin": " Cum apud locum Ariminensem episcoporum synodus\nfuisset collecta, et tractatum fuisset de fide,\net sedisset animo quid agi deberet; Grecianus episcopus\na Calle dixit: Quantum  decuit, Fratres\ncharissimi, catholica synodus patientiam habuit, et\npiam Ecclesiam totiens exhibuit juxta Ursacium\net Valentem, Germinium, Gaium ; qui totiens mutando\nquod crediderant, omnes ecclesias turbaverunt,\net nunc conantur haereticum animum suum inserere\nanimis Christianis. Subvertere enim volunt tractatum\nhabitum apud Nicaeam, qui positus est contra Aria\nnam haeresim et caeteras. Attulerunt nobis praeterea\n conscriptam a se fidem, quam recipere nos non licebat. Jam quidem haeretici antehac nobis pronuntiati\nsunt, et multis diebus est comprobatum: quos et ad\nnostram communionem non admisimus, voce nostra\ndamnantes eos praesentes. Nunc iterum quid vobis\nplacet, iterum dicite, ut singulorum subscriptione\nfirmetur. Universi episcopi dixerunt: Placet ut haeretici\n ss. damnentur, quo possit Ecclesia fide inconcussa,\nquae vere catholica, est in pace perpetua\npermanere.",
+      "voice": "Matthew"
+    }
+  ]
+}

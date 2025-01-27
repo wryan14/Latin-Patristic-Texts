@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EPISTOLA IV . AD MAXIMUM EPISCOPUM ET CLERICOS  ALEXANDRIAE.",
+      "cleaned_english_translation": "<speak>\n    Letter Four to Bishop Maximus and the Clergy of Alexandria<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n\n    <s>\n      A fragment on the divinity and humanity of Christ.\n    </s>\n  </p>\n  <p>\n    <s>\n      Regarding the incarnation of the Word and faith, we believe in our Lord Jesus Christ, born of the Virgin Mary, because he is the eternal Son of God.\n    </s>\n    <s>\n      The Son of God did not take on a man to be someone separate from himself.\n    </s>\n    <s>\n      Instead, being a perfect God, he also became a perfect man, incarnate from the Virgin.\n    </s>\n  </p>\n  <p>\n    <s>\n      Concerning the incarnation and our faith, we affirm our belief in our Lord Jesus Christ, born of the Virgin Mary, as the eternal Son of God and the Word.\n    </s>\n    <s>\n      He was not a man taken by God to be someone other than himself.\n    </s>\n    <s>\n      For the Son of God did not take on a man to be someone other than himself; but, being a perfect God, he also became a perfect man, incarnate from a virgin.\n    </s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": " De Christi divinitate et humanitate fragmentum. De incarnatione vero Verbi et fide credimus in\nDominum nostrum Jesum Christum ex Maria Virgine\n natum, quoniam ipse est aeternus Dei Filius: Nec\nenim hominem assumpsit Dei Filius, ut esset alter\npraeter ipsum: sed Deus existens perfectus, factus\nest simul et homo perfectus, incarnatus ex Virgine. Περι  δε της σαρκωσεως του Λογου και της πιστεως, πιστευομεν εις τον Κυριον ημων Ιησουν Χριστον, τον εκ  της παρθενου Μαριας γενηθεντα, οτι αυτος εστιν ο του Θεου αιδιος Υιος, και Λογος, και ουκ ανθρωπος υπο Θεου αναληφθεις, ιν` ετερος η παρ` εκεινον. Ουδε γαρ ανθρωπον ανελαβεν ο του Θεου Υιος, ιν` η ετερος παρ` αυτον· αλλα, Θεος ων τελειος, γεγονεν αμα και τελειος ανθρωπος, σαρκωθεις εκ παρθενου.<span class=\"text-blue-600 font-bold\"",
+      "voice": "Matthew"
+    }
+  ]
+}

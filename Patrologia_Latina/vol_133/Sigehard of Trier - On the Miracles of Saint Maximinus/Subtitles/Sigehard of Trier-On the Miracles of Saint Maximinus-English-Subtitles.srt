@@ -1,0 +1,578 @@
+1
+00:00:00,000 --> 00:00:04,200
+The Miracles of Saint Maximin by Sigehard
+
+2
+00:00:04,200 --> 00:00:14,715
+Notice to the Reader:
+The life of Saint Maximin, written by Lupus, possibly the Bishop of Chalons, was meant to be added to the second book of miracles of the same saint.
+
+3
+00:00:14,715 --> 00:00:22,323
+Sigehard, influenced by Wikerus, who was the abbot of the Saint Maximin Monastery in Trier from 957 to 966, was the author.
+
+4
+00:00:22,323 --> 00:00:32,590
+Even though he doubted his abilities, he started the work in late 962 or early 963, stating that he only recounted what the abbot had verified and passed down to him.
+
+5
+00:00:32,590 --> 00:00:36,735
+However, it appears he also consulted other monks of the monastery.
+
+6
+00:00:36,735 --> 00:00:53,683
+Even if he learned what Duke Gilbert had told Abbot Ogon through Wikerus, he also received information from other monks like Thietbert, Priest Ruotpert, Custodian Wenido, Priest Reginer, and possibly even Adalbert, who later became the Archbishop of Magdeburg, among others.
+
+7
+00:00:53,683 --> 00:00:57,889
+Sigehard, certainly considered a monk, recorded all this in writing.
+
+8
+00:00:57,889 --> 00:01:07,661
+Though he neglected chronological order, he did so simply, accurately, honestly, and with a style that was sufficiently probable, preserving it for posterity.
+
+9
+00:01:07,661 --> 00:01:20,527
+From these, chapters eight to eighteen, which somewhat illuminate events in Lorraine during the ninth and tenth centuries, were to be presented here, with the rest omitted as they scarcely pertain to history.
+
+10
+00:01:20,527 --> 00:01:31,475
+I spent almost an entire month this year in the rich library of the city of Trier, thanks to our colleague Wyttenbach and the library's director Laven, who were very supportive.
+
+11
+00:01:31,475 --> 00:01:37,413
+Through this time, I found five manuscripts, which helped me correct the text in several places.
+
+12
+00:01:37,413 --> 00:01:50,093
+Number eleven fifty-one, a parchment from the thirteenth century, large folio, once contained a major collection of saints' lives from Saint Maximin, arranged in seven volumes, of which four still survive.
+
+13
+00:01:50,093 --> 00:02:03,144
+In the second volume, formerly the third, on folio one hundred twenty-five, the Life of Saint Maximin is found, with Sigehard's second book attached, often corrected by a later hand from another, it seems, copy.
+
+14
+00:02:03,144 --> 00:02:11,185
+This manuscript undoubtedly led to the edition published by Henschenius in the Acts of the Saints, Volume seven, page twenty-five.
+
+15
+00:02:11,927 --> 00:02:16,689
+Number 1167, also known as 396, is a manuscript from the late 15th century.
+
+16
+00:02:16,689 --> 00:02:21,832
+It was once part of the collection at the Blessed Virgin Mary in Clusa Eberhardi.
+
+17
+00:02:21,832 --> 00:02:27,546
+Number 1380, also referred to as 1141, was beautifully written on white parchment in 1514.
+
+18
+00:02:27,546 --> 00:02:35,165
+It primarily follows the first source, but seems to have used another manuscript for chapter divisions and red markings.
+
+19
+00:02:35,165 --> 00:02:42,974
+Number 1396, or 1337, is a 17th-century folio manuscript that contains various documents illustrating the history of Trier.
+
+20
+00:02:42,974 --> 00:02:47,037
+It also includes this book, copied from an excellent manuscript.
+
+21
+00:02:47,037 --> 00:02:56,624
+What was corrected in the first and read better in the second is also accurately present here, while other parts could only be corrected from this one.
+
+22
+00:02:56,624 --> 00:03:01,005
+Number 1381, identified as 1180, is a 16th-century quarto manuscript.
+
+23
+00:03:01,005 --> 00:03:07,925
+Although it's written quite carelessly and is riddled with countless errors, it was drawn from a good source.
+
+24
+00:03:07,925 --> 00:03:19,861
+Another, older manuscript, written in the 11th century but apparently missing a preface, once belonged to the monastery of Saint Ghislain and was found by our Bethmann in the Mons library.
+
+25
+00:03:19,861 --> 00:03:24,432
+I am confident that our edition can do without it without any detriment.
+
+26
+00:03:24,432 --> 00:03:33,765
+Hontheim provided some notes, inserting fragments of this book into the collection of Trier's writings, specifically in Volume 1, pages 465 to 468.
+
+27
+00:03:34,463 --> 00:03:40,319
+Preface by the Author: Reverent Submission to Lord Abbot Wikero by Sigehardus
+
+28
+00:03:40,319 --> 00:03:49,474
+You ask, dearest father, or rather, you compel me with your authority, though I am reluctant, to take on the challenging task of explaining a work that feels beyond my abilities.
+
+29
+00:03:49,474 --> 00:04:01,200
+For you command that I write down, to preserve them for those who read or hear them, the miracles performed through the same glorious confessor of Christ after the book on the Life of Saint Maximin was published by Bishop Lupus.
+
+30
+00:04:01,200 --> 00:04:07,423
+You wish for me to complete a second little book on these subjects, using the material you will provide through speaking.
+
+31
+00:04:07,423 --> 00:04:15,704
+Because of this, I am torn between two choices, fearing either the guilt of disobedience by resisting you, or the possibility of failure by attempting to comply.
+
+32
+00:04:15,704 --> 00:04:20,795
+I clearly see that my limited talent and little eloquence are not enough to accomplish such a task.
+
+33
+00:04:20,795 --> 00:04:31,390
+Therefore, caught in this dilemma from which I cannot escape unharmed, as if enclosed by a wall on all sides, I have decided to choose the option where I perceive there to be less risk of harm from failure.
+
+34
+00:04:31,390 --> 00:04:44,196
+Since contempt for elders endangers the soul, while failure in tasks begun leads to ridicule, who in their right mind would not consider it more tolerable, or even far healthier, to endure mockery for lack of skill than to condemn oneself for pride?
+
+35
+00:04:44,196 --> 00:04:47,642
+Therefore, proceed confidently with the work you have long desired.
+
+36
+00:04:47,642 --> 00:04:52,374
+I will certainly assist you as much as I can, not daring to resist your holiness any longer.
+
+37
+00:04:52,374 --> 00:05:04,717
+So I will follow through on everything you say, whether from your own experiences, as you promise, from those who live with you and have witnessed it, or from credible accounts from those who have seen it, using whatever style I can manage.
+
+38
+00:05:04,717 --> 00:05:11,917
+I will not rely on my own abilities, but rather entrust this challenging task to your merits and prayers and those of all the holy brothers.
+
+39
+00:05:12,432 --> 00:05:15,799
+Our esteemed Maximinus will be present, as always, in everything.
+
+40
+00:05:15,799 --> 00:05:26,888
+I trust that in this matter too, he will obtain from Christ the Lord that, just as He became salvation and justice for all through God the Father in the Holy Spirit, my speechless tongue may also be made effective.
+
+41
+00:05:26,888 --> 00:05:31,344
+If this is granted, without a doubt, even a mute could eloquently express clear truth.
+
+42
+00:05:31,344 --> 00:05:47,407
+It should not be overlooked that, while I confidently hope this little work will be pleasing to God and to all pious people of future times, I fear that some might disparage it and judge me as a foolish, false-speaking, insignificant person, worthy of everyone's reproach and condemnation throughout the world.
+
+43
+00:05:47,407 --> 00:05:58,754
+And I confess, venerable father, that they might not exclude you from this attack, if they wish, since you compelled me to write false things according to their claims and provided material for falsehoods to the writer.
+
+44
+00:05:58,754 --> 00:06:11,293
+Therefore, I see it as worthwhile, through this current preface, to block the way of slander, not by great skill in defense, but by humbly suggesting they remember that the first and strongest advocates of Christ were unlearned, not sophists.
+
+45
+00:06:11,293 --> 00:06:24,040
+Nor do they expect me to speak with the wit of Mercury or the eloquence of Tully in court, but to speak in the cell of the monastery about the truth of events, drawn from the sober and truthful mouth of a pious father, in plain and simple speech.
+
+46
+00:06:24,040 --> 00:06:32,123
+Moreover, even if the lowliness of the laborer might rightly be held in contempt by them, I ask that the prerogative of the one commanding be held in honor.
+
+47
+00:06:32,123 --> 00:06:40,517
+Nor should they immediately believe that our father, a man indeed distinguished by holy life and conduct, preferred to speak falsehoods rather than remain silent.
+
+48
+00:06:40,517 --> 00:06:52,693
+Having prefaced these things, Father Wikere, let us proceed with what needs to be done, having first prayed for divine favor, so that with its approval, we may be able to speak and write things that are worthy of it and all the saints.
+
+49
+00:06:53,160 --> 00:06:53,978
+End of Preface.
+
+50
+00:06:53,978 --> 00:07:00,202
+In the year 890, during the reign of Emperor Arnulf, the religious state of this area faced a significant decline.
+
+51
+00:07:00,202 --> 00:07:04,242
+The strictness of monastic life was gradually loosening and breaking down.
+
+52
+00:07:04,242 --> 00:07:10,957
+After the abbot of the monastery, Herkenbert, passed away, the monks traditionally went to the palace to elect a new abbot.
+
+53
+00:07:10,957 --> 00:07:14,178
+However, due to their sins, the election was not permitted.
+
+54
+00:07:14,178 --> 00:07:19,965
+Some possessions of the monastery, which barely provided for the monks' meager sustenance, were set aside.
+
+55
+00:07:19,965 --> 00:07:25,970
+The abbey was given by the emperor to a certain Megingaud, a duke of the kingdom, who was present at the time.
+
+56
+00:07:25,970 --> 00:07:33,450
+Upon receiving it, he returned home happily, showing himself cheerful and joyful all day to everyone because of the gift he had received.
+
+57
+00:07:33,450 --> 00:07:36,398
+When night came, he went to his bedroom with his wife.
+
+58
+00:07:36,398 --> 00:08:40,764
+As they lay happily together in bed, with everyone else gone, he secretly spoke to her:
+"Do you know," he said, "what a great gift my lord the emperor has given me?"
+When she admitted she didn't know, he said, "He has given me a very rich servant as a gift; and if you wish to know, it is Maximinus with his abbey, whom I will give to you if you like."
+Upon hearing this, the sensible woman strongly rebuked her husband for his reckless talk, declaring herself unworthy of such a great gift.
+And without delay, a fitting punishment followed for the insult to the beloved God Maximinus, and divine retribution struck his blasphemous mouth.
+For this frail and mortal man, who had arrogantly and with a swollen spirit extended himself above Maximinus, the consul of heaven, was suddenly completely contracted within himself and, from the form of a man, was almost turned into a shapeless sphere or globe.
+Then Megingaud, having been harshly punished for a long time, came to his senses, understood what and why he was suffering, and with encouragement from his wife, sincerely regretted his words.
+He ordered that he be transported to Trier with great speed and prepared provisions.
+
+59
+00:08:41,256 --> 00:08:47,344
+Finally, they arrived at the monastery and laid him before the holy altar, which was then adorned with precious gifts.
+
+60
+00:08:47,344 --> 00:08:55,392
+He, who once arrogantly called himself a master, now humbly presented himself as a servant of Saint Maximinus, using gestures and whispers instead of words.
+
+61
+00:08:55,392 --> 00:09:02,306
+The man was not denied the benefits of his repentance, as he sought refuge in humility with the one he had almost insolently offended.
+
+62
+00:09:02,306 --> 00:09:12,625
+Indeed, after prayers were offered for him by the brothers, the heavenly anger was appeased through the merits of Maximinus, and Megingaudus was instantly restored to full health by the saint's power.
+
+63
+00:09:12,625 --> 00:09:23,459
+Thus, corrected by God's wholesome discipline, the man no longer blasphemed against the saints and from then on honored Maximinus in his life as the holiest, embraced him as a father, and revered him as a lord.
+
+64
+00:09:23,459 --> 00:09:33,984
+He quickly reported the event to the emperor, advocating for the brothers' denied election, and persistently petitioned the king until he secured the royal estate, named Ribiniacum, for the brothers' use.
+
+65
+00:09:33,984 --> 00:09:40,227
+So, who could sufficiently marvel at the holiness of such a significant patron of ours, and who could praise it worthily?
+
+66
+00:09:40,227 --> 00:09:48,379
+Indeed, in the merits and power of our Maximinus, everything is so superior and excellent that it cannot even be estimated, much less explained by any mortal.
+
+67
+00:09:48,379 --> 00:09:53,332
+But let us return to the topic from which we have digressed with this small praise of the saint.
+
+68
+00:09:53,332 --> 00:10:09,275
+Although, as we mentioned in the previous chapter, the order and regular discipline in this place had partially faltered in earlier times due to the negligence and weakness of the superiors, yet by divine mercy granted through the merits of Maximinus, holy and religious men were never absent from this place.
+
+69
+00:10:09,275 --> 00:10:16,601
+Eventually, with appointed abbots and God's favor, the neglect of regular observance was corrected, either to its former state or even better.
+
+70
+00:10:16,601 --> 00:10:22,328
+This is clear from many things that cannot be explained at this time, including what I will refer to presently.
+
+71
+00:10:22,896 --> 00:10:33,273
+Indeed, after the mentioned Megingaud, this abbey came under the rule and use of the dukes of this kingdom, except for the resources that had long been set aside for the support of the brothers.
+
+72
+00:10:33,273 --> 00:10:36,856
+These, even today, were entrusted by the kings to their protection.
+
+73
+00:10:36,856 --> 00:10:49,213
+For this reason, when Gisilbert, a very young duke, was put in charge of the kingdom, he, as is typical of that age, indulged more in secular entertainments, pomp, and the allurements of pleasures during the early part of his rule.
+
+74
+00:10:49,213 --> 00:10:54,241
+Although he later became an excellent man, he initially neglected the welfare of his subjects.
+
+75
+00:10:54,241 --> 00:11:01,623
+He also severely oppressed the monks of this monastery, seizing what had been given for their use and distributing it among his followers.
+
+76
+00:11:01,623 --> 00:11:10,662
+At that time, the illustrious Henry, the father of the most serene Otto, during whose twenty-seventh year of reign we wrote this, took control of the kingdom's monarchy.
+
+77
+00:11:10,662 --> 00:11:18,525
+He governed his subjects with great justice, peace, and mercy, and he uniquely adorned the summit of the empire with virtues, glory, and all honor.
+
+78
+00:11:18,525 --> 00:11:28,582
+Therefore, in counsel, the brothers, as mentioned, oppressed by Gisilbert's unbearable affliction, approached the royal mercy and complained about the troubles they suffered from the duke.
+
+79
+00:11:28,582 --> 00:11:34,947
+However, despite such efforts, they achieved nothing and undeservedly incurred more of the aforementioned duke's wrath.
+
+80
+00:11:34,947 --> 00:11:36,231
+What else could they do?
+
+81
+00:11:36,231 --> 00:11:40,029
+Forced by ultimate necessity, they considered abandoning the monastery.
+
+82
+00:11:40,029 --> 00:11:49,389
+Suddenly, their spirits were renewed, and they restored their plan in this manner: to report their case to the King of Kings, with Maximinus as their advocate, through prayer.
+
+83
+00:11:49,389 --> 00:11:56,022
+When this was pursued diligently for some time, one night the venerable Maximinus appeared in a vision to the sleeping duke.
+
+84
+00:11:56,022 --> 00:12:13,032
+First, he revealed who he was and why he had come, then he reproached him for his faults, and finally-what I am about to say is wonderful and almost unbelievable, except to those who do not believe God can do all things-he struck his sides and shoulders with whips, leaving them bruised, and then immediately vanished.
+
+85
+00:12:13,728 --> 00:12:22,435
+Soon, however, the leader was so shaken from his sleep and dream that he shared the details with a few of his close associates, including the injuries he suffered in it.
+
+86
+00:12:22,435 --> 00:12:29,597
+However, he didn't reveal why it happened or who was responsible, although it could have been easily guessed from the events that followed.
+
+87
+00:12:29,597 --> 00:12:41,603
+He quickly made his way to Trier, and by appeasing Maximinus with prayers and gifts, he not only restored what was taken from the monks but also regained the lost goodwill of their funds, which the brotherly community greatly needed.
+
+88
+00:12:41,603 --> 00:12:49,383
+From this point on, turning away from his youthful actions, he became a truly remarkable man and developed a deep love for this place and congregation.
+
+89
+00:12:49,383 --> 00:12:57,318
+Under the diligent care of the venerable Abbot Ogo, who took the position in 934, the long-dimmed brightness of our religious life shone more brilliantly.
+
+90
+00:12:57,318 --> 00:13:08,242
+He confessed all these deeds to the holy man Ogo, and in this confession, he dedicated himself to God and Saint Maximinus, vowing to become a monk if he outlived his wife and was freed from the bonds of marriage.
+
+91
+00:13:08,242 --> 00:13:12,673
+I will also share another story, which, in my judgment, is not considered much lesser.
+
+92
+00:13:12,673 --> 00:13:20,608
+Unless perhaps it might be seen as a detriment to the virtues of Maximinus, since it is claimed that he had Remigius as a known companion in this miracle.
+
+93
+00:13:20,608 --> 00:13:29,006
+A certain count named Ruobertus, the brother of the aforementioned Megingaud, owned estates in the Nahegau region, adjacent to the lands of Maximinus and Remigius.
+
+94
+00:13:29,006 --> 00:13:37,766
+Because of this, his servants often clashed with the family of the saints, as they wanted to cross the ancient boundaries, while the others resisted with all their might.
+
+95
+00:13:37,766 --> 00:13:47,916
+Meanwhile, when the cruelty of servile complaints and rustic conflicts couldn't be restrained by the neighbors, and our people decried the greedy injustice, the matter was brought before the count.
+
+96
+00:13:48,432 --> 00:13:53,095
+Soon, he announced a meeting and set a date for inspecting and surveying the boundaries.
+
+97
+00:13:53,095 --> 00:13:57,705
+With a large crowd of onlookers, he arrived and instructed his leaders to lead the way.
+
+98
+00:13:57,705 --> 00:14:05,813
+Without delay, one of them, who had always been at the forefront of this wrongdoing, stepped up as a deceitful guide, quickly moving ahead of the others.
+
+99
+00:14:05,813 --> 00:14:15,669
+He went first, pointing with his finger, trying to transfer many lands belonging to the saints, overstepping ancient boundaries with false demonstrations, into his superior's possession.
+
+100
+00:14:15,669 --> 00:15:30,388
+As he did this, he used a leather strap, known to the peasants as a "wantum," wrapped around his hand, demonstrating as he wished, while we followed, resisting and loudly praying for the help of Maximinus and Remigius.
+Meanwhile, that good and just leader removed the strap from his hand, but a finger, miraculously amputated, was left behind.
+Then, exposed for his malice and disgracefully treated by his superior, as was fitting, he lost favor, and with the truth revealed, the entire dispute came to an end.
+There is an estate of the monastery called the church of Wimari, which a most cruel man, whose name we've forgotten, held as a benefice.
+When he oppressed the holy family severely and couldn't find anything to accuse them of, he entrusted one of them, who seemed more rustic than the others, with the care of his hawk, knowing the peasant had no skill in that art.
+He intended to blame the peasant for the bird's death due to neglect.
+The peasant, resisting for a long time and excusing his lack of skill, was finally forced to take charge of the bird.
+But what could he do?
+He kept it alive for a while, but without food, it quickly died in the smoky house.
+When it died, he plucked its feathers, sprinkled it with salt, and hung it up to preserve it for the master.
+The foolish peasant thought he could outsmart the cunning man by presenting the bird's uncorrupted corpse at the time of reckoning.
+
+101
+00:15:30,600 --> 00:15:37,091
+After a long time had passed, the harsh lord demanded his hawk back from the peasant, who immediately presented a dead bird.
+
+102
+00:15:37,091 --> 00:15:39,603
+Seizing the opportunity, the man became furious.
+
+103
+00:15:39,603 --> 00:15:47,927
+He accused the peasant of insulting him in front of all his associates and claimed that the peasant was encouraged to commit this act by a collective decision.
+
+104
+00:15:47,927 --> 00:15:54,470
+He summoned everyone for the next day, planning to strip them of all their possessions and subject them to numerous beatings.
+
+105
+00:15:54,470 --> 00:16:02,009
+Terrified and anxious, the poor people gathered that night and, having lost all hope in human help, decided to seek the assistance of Maximinus.
+
+106
+00:16:02,009 --> 00:16:10,960
+They selected two young men from among them, gave them offerings and instructions, and sent them quickly to the monastery, while they anxiously waited for the agreed time.
+
+107
+00:16:10,960 --> 00:16:20,907
+The young men, after the monks had celebrated the Ninth Hour service, knocked firmly on the monastery door; since they were assumed to be important individuals, they were immediately let in.
+
+108
+00:16:20,907 --> 00:16:30,800
+They hurried through the middle of the choir, silently laid the offerings before the altar, first striking the altar with brooms they had brought, then prostrating themselves on the ground.
+
+109
+00:16:30,800 --> 00:16:36,245
+With a great and pitiful wail, they begged Maximinus to awaken and rise against the tyrant to help them.
+
+110
+00:16:36,245 --> 00:16:47,028
+At the same hour and moment that they were lamenting their misery, the fierce lord left the meeting place, sought a private area, and there, with indescribable agony, he expelled both his flesh and cruelty.
+
+111
+00:16:47,028 --> 00:16:55,509
+A certain man named Bernaker was a noble and wealthy individual who, long after these events occurred, acquired the same village through a precarious legal right.
+
+112
+00:16:55,509 --> 00:17:03,675
+Consumed by the flames of greed, he unjustly seized the surrounding and neighboring small plots of land belonging to the poor, because the land was fertile.
+
+113
+00:17:03,675 --> 00:17:16,291
+He gathered groups of plowmen and ordered them to plow those fields, while those whom he had wronged begged him by God and Saint Maximinus to let their modest possessions suffice for him and not to unjustly rob them of their little holdings.
+
+114
+00:17:16,920 --> 00:17:29,934
+When he responded by saying he wouldn't give up even a foot of land to anyone because of Maximinus, they turned to their usual protection, calling upon God and Saint Maximinus for help right where a group of plowmen had already sat down for lunch.
+
+115
+00:17:29,934 --> 00:17:34,781
+With no one to defend them, they prayed, lying on the ground with great weeping and wailing.
+
+116
+00:17:34,781 --> 00:17:45,793
+What I am about to say is astonishing; those who witnessed it confirm that not even the smallest cloud was in the sky when suddenly, in the very spot where the oxen teams stood with their plows, a storm arose.
+
+117
+00:17:45,793 --> 00:17:52,590
+The force of the winds and the tornado lifted the oxen and their plows, sweeping them into a deep valley nearly half a mile away.
+
+118
+00:17:52,590 --> 00:17:56,963
+And just as suddenly, as it was clear everywhere else, calmness returned there too.
+
+119
+00:17:56,963 --> 00:18:10,294
+When the farmers, scattered in all directions, searched for their oxen and plows, they came to the valley and found some oxen half-dead, others already dead, with their horns torn off, some with broken legs or necks, and the plows shattered into pieces.
+
+120
+00:18:10,294 --> 00:18:16,405
+Deeply saddened by their losses, the farmers returned to Bernachar and reported what had happened with heavy sorrow.
+
+121
+00:18:16,405 --> 00:18:24,678
+He, struck with great fear and suspecting he would suffer even harsher punishment, stopped his persecution of the poor, frightened by the power of Maximinus.
+
+122
+00:18:24,678 --> 00:18:31,738
+It should not go unmentioned that similar cruelty happened to Adalbert, the father of our Adalbert, during the time of Duke Gisilbert.
+
+123
+00:18:32,160 --> 00:18:45,251
+When he treated the family of the saint with great cruelty, often scolded by the young duke's mother-since the father had already passed away-and refused to change his wicked ways, sixty men from the village of Ramiche-his estate-rose up and gathered there.
+
+124
+00:18:45,251 --> 00:18:55,998
+They kept watch at the doors throughout the night, received permission from the guard, and sent twelve inside the church at three altars to seek the intercession of Maximinus with tireless prayer all night long.
+
+125
+00:18:55,998 --> 00:18:58,851
+Their hope in Maximinus's mercy did not disappoint them.
+
+126
+00:18:58,851 --> 00:19:04,250
+In the morning, the lady-who was staying there at the time-went to mass with Adalbert and many attendants.
+
+127
+00:19:04,250 --> 00:19:16,068
+As soon as she entered the church, all the men waiting for her fell to the ground before the sacred altar, crying out loudly and desperately, asking Maximinus to help them in their great need and rescue them from Adalbert's tyranny.
+
+128
+00:19:16,068 --> 00:19:26,612
+After about half an hour, when the cries finally quieted down, Adalbert, seeing the compassionate woman moved by their suffering, began to swear by the virtue of Maximinus that everything they said was lies.
+
+129
+00:19:26,612 --> 00:19:32,979
+Armed with a sword, he arrogantly reached for the hilt and swore they would face the harshest punishments for their audacity.
+
+130
+00:19:32,979 --> 00:19:42,097
+He hadn't finished his threats when suddenly, in front of everyone-since he wasn't wearing a cloak-the belt miraculously loosened, and the sword fell from his thigh to the ground.
+
+131
+00:19:42,097 --> 00:19:46,376
+This event clearly showed that he would be of no use to the army from that point on.
+
+132
+00:19:46,376 --> 00:19:52,845
+Thus, Maximinus publicly humiliated Adalbert, who soon lost his estate, and powerfully rescued his servants from his brutality.
+
+133
+00:19:53,304 --> 00:20:07,420
+Then Wenido, the church custodian we mentioned earlier, took a small jug that held only three pints, filled it with wine, and after seeking Maximinius's blessing, he was able to sufficiently refresh those sixty men, who were exhausted from staying awake and weeping all night.
+
+134
+00:20:07,420 --> 00:20:15,195
+So that he wouldn't miss out on the reward for his charitable act, as soon as he returned to the church, he found the jug just as full as it was before.
+
+135
+00:20:15,195 --> 00:20:21,946
+Moreover, everything we've recounted in this chapter is confirmed by Ruotpert, a priest and monk who was there and witnessed it all.
+
+136
+00:20:21,946 --> 00:20:33,455
+Considering Wenido's challenging way of life, often explained to me by those who knew him, when I compare this with how closely he shared even the smallest of Maximinius's virtues, how can I think of him as anything but holy?
+
+137
+00:20:33,455 --> 00:20:45,577
+Having spoken so much about this man, I'm also inclined to share another example for those like me, who are troubled in heart and body, to be cautious of-an example he often shared when advising or correcting the more negligent brothers.
+
+138
+00:20:45,577 --> 00:20:47,929
+There was a certain acolyte in this monastery.
+
+139
+00:20:47,929 --> 00:20:47,981
+.
+
+140
+00:20:47,981 --> 00:20:48,032
+.
+

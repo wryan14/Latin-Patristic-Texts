@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "INCIPIT EPISTOLA  GERMINII EPISCOPI ADVERSUS\nARIANOS  JAM SUBSCRIPSERANT IN CONCILIO ARIMINENSI, SCIENTES QUOD MALE FECERUNT (Circa\nan. 365 edita). ",
+      "cleaned_english_translation": "<speak>\n    Epistle of Germinius the Bishop Against the Arians Who Had Already Signed at the Council of Ariminum, Knowing That They Had Done Wrong (Circa Year Three Hundred Sixty-Five)\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    I, Bishop Germinius, <break time=\"250ms\"/> believe and declare that there is one true God, the Father, eternal and almighty. <break time=\"500ms\"/> And that Christ, His only Son and our Lord, is God, born of the true God the Father, true Son of God, begotten before all things. <break time=\"500ms\"/> He is similar to the Father in all things: divinity, love, majesty, power, glory, life, wisdom, and knowledge, as He is perfect, born from the perfect.\n  </p>\n  <p>\n    I also acknowledge that He took on human form from the Virgin Mary, as the prophets foretold, <break time=\"500ms\"/> and as the teachings of the gospels and apostles show was fulfilled. <break time=\"500ms\"/> We accept, believe, and declare His sufferings, death, resurrection, and ascension into heaven. <break time=\"500ms\"/> And that at the end of the world, He will come down from heaven to judge the living and the dead and to repay each according to their deeds.\n  </p>\n  <p>\n    And in the Holy Spirit, that is, the Comforter, who is given to us by God the Father through the Son. <break time=\"500ms\"/> The end.<break time=\"500ms\"/>\n  </p>\n</speak>",
+      "original_latin": "Ego Germinius episcopus credo et profiteor esse\nunum verum Deum patrem, aeternum, omnipotentem:\net Christum filium ejus unicum et Dominum\nDeum nostrum, 705 de vero Deo patre\nverum Dei filium, ante omnia genitum, divinitate,\ncharitate, majestate, virtute, claritate, vita, sapientia,\nscientia Patri per omnia similem, utpote\nperfectum de perfecto genitum: susceptionem etiam\nhominis ex virgine Maria, sicut prophetae futurum\n praedixerunt, et evangelicae atque apostolicae voces\ncompletum docent. Passiones quoque ejus et mortem\net resurrectionem et in coelis adscensionem suscipimus,\ncredimus, profitemur: et quod in fine\nmundi de coelis descensurus sit judicare vivos et\nmortuos, et reddere unicuique secundum opera ejus. Et in Spiritum sanctum, id est paraclitum, qui nobis\na Deo patre per Filium datus est. Explicit.",
+      "voice": "Matthew"
+    }
+  ]
+}
