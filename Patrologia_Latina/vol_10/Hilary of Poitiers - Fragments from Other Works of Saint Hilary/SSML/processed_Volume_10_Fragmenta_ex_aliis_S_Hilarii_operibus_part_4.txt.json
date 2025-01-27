@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item ex eodem. IV. Tertium deinceps illud congruum fuit, ut quia\nDeus homo genitus in mundo, etc.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            Likewise, from the same source, the fourth point is that it was fitting for God to be born as a man in the world, and so on.\n        </s>\n    </p>\n</speak>"
+        }
+    ]
+}

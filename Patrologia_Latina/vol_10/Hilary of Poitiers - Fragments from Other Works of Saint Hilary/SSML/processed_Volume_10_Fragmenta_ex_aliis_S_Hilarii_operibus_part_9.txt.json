@@ -1,0 +1,9 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "original_latin": "Fragmentum   dubium. In quo omnes peccaverunt. In quo, id est, in\nAdam omnes peccaverunt . . . . . Manifestum est in\nAdam peccasse, quasi in massa. Ipse enim per peccatum\ncorruptus, omnes quos genuit, nati sunt sub\npeccato.",
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>A doubtful fragment.</s>\n        <s>In which all have sinned.</s>\n        <break time=\"500ms\"/>\n        <s>This means that in Adam, all have sinned.</s>\n        <break time=\"500ms\"/>\n        <s>It's clear that everyone sinned in Adam, almost as if we were all part of one whole.</s>\n        <break time=\"500ms\"/>\n        <s>Because Adam himself was corrupted by sin, he caused everyone born from him to be under sin.</s>\n    </p>\n</speak>"
+    }
+  ]
+}

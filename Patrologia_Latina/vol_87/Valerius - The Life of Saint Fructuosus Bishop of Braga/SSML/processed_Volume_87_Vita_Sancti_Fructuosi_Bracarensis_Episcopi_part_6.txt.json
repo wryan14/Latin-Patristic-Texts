@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "CAP. III. Secedit in solitudinem. Hic vero sanctissimus\nconfirmans cunctum regularem ordinem,\nconstituensque coenobii Patrem cum ingenti discretionis\nrigore. Et quia rumor gloriae sanctitatis ejus\ncunctas peragraverat regiones, cum ex multitudine\ndiversorum occurrentium crebram pateretur inquietudinem,\nhumanam fugiens laudem atque favorem,\negrediebatur a congregatione, et nudus vestigiis penetrabat\nloca nemorosa, argis densissima, aspera et\nfragosa: ubi per speluncas et rupes, triplicatis jejuniis,\net multiplicatis vigiliis, et orationibus vacabat.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>CHAPTER 3.</s>\n        <s>He withdrew into solitude.</s>\n        <s>This very holy man affirmed the entire monastic order and appointed a Father of the monastery with great strictness and discretion.</s>\n        <s>As the rumor of his holy reputation spread across all regions, he faced frequent disturbances from the many people coming to see him.</s>\n        <s>Seeking to escape human praise and favor, he would leave the community.</s>\n        <s>With nothing on his feet, he ventured into dense forests, thick underbrush, and rough, rugged terrains.</s>\n        <s>There, among caves and cliffs, he dedicated himself to fasting even more, increasing his vigils and prayers.</s>\n    </p>\n</speak>"
+        }
+    ]
+}

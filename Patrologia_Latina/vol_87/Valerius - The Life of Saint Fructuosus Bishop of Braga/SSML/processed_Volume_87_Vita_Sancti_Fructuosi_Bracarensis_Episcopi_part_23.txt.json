@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "CAP. XX. Pontifex factus, Monachi habitum et mores\nservat. Post haec videlicet, licet invitus, contra\nvoluntatem suam, languoris maerore depressus, perniciter\nresistendo in sede Metropolitana dono Dei\nordinatus est pontifex . Tanto igitur suscepto honore\npristinam non deposuit conversationem: sed in\neodem habitu, in eodemque solito abstinentiae rigore\npersistens, residuo vitae suae tempore in eleemosynarum\ndispensatione atque monasteriorum consummavit\naedificatione .",
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>CHAPTER 20.</s>\n    <s>After becoming a bishop, he maintained his monastic habits and customs.</s>\n  </p>\n  <p>\n    <s>Despite his reluctance and being overwhelmed by illness, he was swiftly appointed as a bishop in the Metropolitan seat, a gift from God.</s>\n  </p>\n  <p>\n    <s>Even with this great honor, he didn't abandon his previous lifestyle.</s>\n    <s>He continued with the same habits and strict abstinence, spending the rest of his life distributing alms and building monasteries.</s>\n  </p>\n</speak>"
+        }
+    ]
+}

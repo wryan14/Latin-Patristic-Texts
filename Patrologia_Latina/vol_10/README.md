@@ -6,3 +6,5 @@ An audio version of this work is available on Archive.org for free download:
 
 * [Book Against Constantius by Hilary of Poitiers - Archive.org](https://archive.org/details/book-against-constantius)
 * [Book on the Synods or the Faith of the Easterners by Hilary of Poitiers - Archive.org](https://archive.org/details/book-on-the-synods-or-the-faith-of-the-easterners)
+* [Fifteen Fragments from a Historical Work by Hilary of Poitiers - Archive.org](https://archive.org/details/fifteen-fragments-from-a-historical-work)
+* [Fragments from Other Works of Saint Hilary by Hilary of Poitiers - Archive.org](https://archive.org/details/fragments-from-other-works-of-saint-hilary)

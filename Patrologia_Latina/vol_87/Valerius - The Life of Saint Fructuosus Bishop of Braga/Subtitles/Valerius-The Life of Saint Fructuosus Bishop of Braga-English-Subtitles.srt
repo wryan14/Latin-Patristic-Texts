@@ -1,0 +1,951 @@
+1
+00:00:00,000 --> 00:00:03,168
+Preliminary Observations by Mabillon
+
+2
+00:00:03,168 --> 00:00:18,727
+This account of the Life of Saint Fructuosus, born of royal lineage, who became an abbot, founder of many monasteries and monks, and eventually bishop of Braga, was penned by an author who, despite being serious and respectable, lacked proficiency in Latin.
+
+3
+00:00:18,727 --> 00:00:27,202
+The author briefly shares what he learned from reliable sources about the start and end of Saint Fructuosus's life, as noted in the Preface.
+
+4
+00:00:27,202 --> 00:02:19,990
+Sandoval and Tamayo credit this work to Saint Valerio, abbot of the monastery of Saint Peter in the Mountains, around the year 695, although there are some stylistic differences between this account and a sermon fragment by Saint Valerio in "Concord of the Rules," chapter three, section seven.
+In this work, the author references the disciples of Fulgentius as sources: Benenatus in chapter twelve, Julian in chapter fifteen, and Cassian in chapter twenty-one, from whom he gathered material for his narrative.
+This text, drawn from manuscripts of the monastery of Saint Peter of Arlanza dated to the year 912, was published by Prudentius Sandoval in the first part of "Foundation of Spanish Monasteries" and by Juan Tamayo Salazar in the "Spanish Martyrology" on April sixteenth.
+However, it is riddled with nearly endless errors, partly due to scribes' mistakes and partly due to the author's own lack of refinement, which we have corrected in many instances.
+We have preserved other errors that seem to be the author's own.
+These include expressions like "this dwelling," "the same inn," in chapter one; "Complutensian Monastery," in chapter two; and other similar phrases, as well as the use of participles instead of verbs, such as "returning" instead of "returns" in the same place and elsewhere throughout the text.
+These errors are more a result of the age's corruption than the writer's skill.
+Our Menard, in the second Preface to the "Concord of the Rules," seems to identify three individuals named Fructuosus: one, the bishop of Braga, whom we are currently discussing; another, Abbot Fructuosus; and a third, Bishop Fructuosus of Segovia.
+However, Tamayo Salazar argues that this third individual should not be called Fructuosus, but Fructus.
+There is reasonable doubt as to whether Abbot Fructuosus is distinct from Fructuosus, the bishop of Braga.
+
+5
+00:02:20,111 --> 00:02:26,080
+The basis for Menard's distinction between the two lies in the dual Rule associated with Fructuosus.
+
+6
+00:02:26,080 --> 00:02:32,467
+One Rule, he notes, belongs to the renowned bishop Fructuosus of Braga, consisting of twenty-five chapters.
+
+7
+00:02:32,467 --> 00:02:45,240
+This is well recognized from chapter eighteen, which mandates a Lenten fast before the feast of Saints Justus and Pastor-a tradition established by Saint Fructuosus, as his monastery was dedicated to these martyrs.
+
+8
+00:02:45,240 --> 00:02:55,805
+The other Rule is attributed to another Fructuosus, who is set apart from the first in this Concord, even though the two Fructuosi are sometimes confused due to scribes' errors.
+
+9
+00:02:55,805 --> 00:03:02,729
+We skip over the evidence from the Pseudo-Maximus Chronicle, which Menard, appropriately, views as almost worthless.
+
+10
+00:03:02,729 --> 00:03:09,414
+Both Rules, despite this learned analysis, seem evidently to be authored by the same Bishop Fructuosus of Braga.
+
+11
+00:03:09,414 --> 00:03:20,993
+The first Rule, with its twenty-five chapters, is aimed at monks, while the second is for both men and women seeking conversion, known as a common monastic Rule, and consists of twenty chapters.
+
+12
+00:03:20,993 --> 00:03:26,544
+We understand why Fructuosus wrote this latter Rule from chapter seventeen of the Life below.
+
+13
+00:03:26,544 --> 00:03:39,795
+There was such a flourishing of holiness and a growing reputation for perfection that men, along with their sons, joined the holy congregation of monks, while women and their daughters joined the holy community of virgins.
+
+14
+00:03:39,795 --> 00:03:47,853
+Thus, the sixth chapter of the common Rule addresses how men, along with their wives and children, should live in the monastery safely.
+
+15
+00:03:47,853 --> 00:03:54,061
+It's established so that monks do not live with sisters in the same monastery, nor use a common oratory.
+
+16
+00:03:54,061 --> 00:03:57,702
+This is thoroughly safeguarded in chapter fifteen and beyond.
+
+17
+00:03:57,702 --> 00:04:00,209
+Many aspects of both Rules are consistent.
+
+18
+00:04:00,209 --> 00:04:14,176
+Chapters on elders and the Lord's Day, which are absent in the monks' Rule or the first Rule, as noted by Holstenius, are included verbatim in the common Rule or the second Rule, forming chapters eight and thirteen in the manuscripts.
+
+19
+00:04:14,951 --> 00:04:17,295
+We recommend restoring the manuscripts.
+
+20
+00:04:17,295 --> 00:04:27,932
+Our view aligns with the Concord of Rules, chapter 4, section 3, which references a passage from another Rule of Fructuosus after citing the Rule of Saint Fructuosus the bishop.
+
+21
+00:04:27,932 --> 00:04:31,417
+This passage is from the third chapter of the common Rule.
+
+22
+00:04:31,417 --> 00:04:35,203
+We believe it should be read from the other Rule of Fructuosus.
+
+23
+00:04:35,203 --> 00:04:46,682
+The author of the second or common Rule is praised fifteen times in the Concord of Rules and is called a bishop in two places, specifically in chapter 3, section 5, and chapter 28, section 3.
+
+24
+00:04:46,682 --> 00:05:38,363
+Additionally, in chapter 27, section 2, the eleventh chapter of the second Rule is cited, followed by the third chapter of the first Rule with the heading: "Also of the same."
+However, in the same Concord, the author of the first Rule is not always referred to as a bishop. Out of thirty-three instances where it is mentioned, twelve omit the bishop's title.
+Ultimately, the founder of the second and writer of the first Rule is consistently called a saint throughout the work.
+It's important to note a fragment about the diversity of faults in the Rule of Saint Benedict. In some manuscripts, this fragment is wrongly attributed to Fructuosus, whose alignment with the Benedictine Rule we discussed extensively in the Preface to the first century, section 6, number 75.
+Let's consider the Life of Fructuosus, which includes this inscription in the transcript.
+
+25
+00:05:38,663 --> 00:05:48,467
+The Life or Recollection of the Miracles, Which God Established for the Salvation to Strengthen the Faith of Believers Through the Service of Holy Obedience of the Most Holy Bishop Fructuosus.
+
+26
+00:05:48,467 --> 00:05:49,028
+Chapter One
+
+27
+00:05:49,079 --> 00:05:59,798
+After the ancient darkness of the world was illuminated by the new light of divine truth, the immense brilliance of the Catholic faith's teachings shone forth from Rome, the central seat of the Holy Church.
+
+28
+00:05:59,798 --> 00:06:07,187
+From Egypt, in the eastern province, the most excellent examples of sacred religion gleamed, illuminating a small part of this western region.
+
+29
+00:06:07,187 --> 00:06:16,553
+Divine grace enlightened two outstanding figures of exceptional clarity: the highly revered Isidore, bishop of Seville, and the most blessed Fructuosus, pure and just from infancy.
+
+30
+00:06:16,553 --> 00:06:25,450
+The former, shining with the brilliance of speech and notable for his diligence, mastered the beginnings of the art of wisdom and brought back the doctrines of the Romans.
+
+31
+00:06:25,450 --> 00:06:39,031
+The latter, ignited by the flame of the Holy Spirit with the most sacred purpose of religion, excelled in all spiritual matters and perfected all holy works, shining so brightly that he easily stood among the Fathers, equaling the merits of the ancient Thebans.
+
+32
+00:06:39,031 --> 00:06:49,541
+Isidore, through the diligence of an active life, educated all of Spain outwardly; Fructuosus, with the expertise of a contemplative life and vibrant brilliance, illuminated the inner secrets of hearts.
+
+33
+00:06:49,541 --> 00:07:00,988
+Isidore, resplendent with outstanding eloquence, excelled in books of edification; Fructuosus, shining with the pinnacle of virtues, left an example of holy religion and followed the innocent path of our Lord and Savior.
+
+34
+00:07:00,988 --> 00:07:05,567
+Their miracles of virtue are so ineffable that our limited words cannot do them justice.
+
+35
+00:07:05,567 --> 00:07:12,279
+From what I have learned through faithful narration, I will briefly discuss a few things about the beginning and end of his life.
+
+36
+00:07:12,695 --> 00:07:16,566
+CHAPTER ONE. A man of royal birth becomes a cleric. God is his avenger.
+
+37
+00:07:16,566 --> 00:07:22,453
+This blessed man, born from a very distinguished royal lineage, was the son of a leader of the Spanish army.
+
+38
+00:07:22,453 --> 00:07:30,575
+As a young boy under his parents' care, he found himself in the valleys of the Bergendensis territory with his father, who was inspecting the flocks.
+
+39
+00:07:30,575 --> 00:07:34,609
+His father was recording the flocks and reviewing the shepherds' accounts.
+
+40
+00:07:34,609 --> 00:07:42,567
+Meanwhile, the boy, inspired by the Lord, was thinking about building a monastery in high places, keeping this idea to himself and telling no one.
+
+41
+00:07:42,567 --> 00:07:49,327
+After his parents left, he turned away from the secular life and cut his hair, embracing the beginnings of a religious life.
+
+42
+00:07:49,327 --> 00:07:54,669
+He entrusted himself to be taught in spiritual disciplines by the most holy man, Bishop Conantius.
+
+43
+00:07:54,669 --> 00:08:04,263
+While living under his guidance for some time, it happened that one day, as they arrived at the Church's property, some residents went ahead to prepare a place for him to stay.
+
+44
+00:08:04,263 --> 00:08:45,091
+An official of the same seat arrived and asked, "Who has occupied this dwelling?"
+They replied, "Fructuosus."
+Immediately, driven by reckless arrogance, he ordered Fructuosus's belongings to be thrown outside so the place could be prepared for himself.
+Fructuosus patiently endured this and remained silent.
+Then, in the silence of the dead of night, while everyone was resting, a sudden fire, coming from the wrath of the Lord, burned down the lodging where that arrogant man had stayed, considering it unimportant.
+By the rightful judgment of the Lord, the same dwelling, which he had arrogantly usurped as a symbol of pride, was abandoned with great danger, disturbance, and injury, and with the tribulation of loss, as the holy young man prayed.
+
+45
+00:08:45,528 --> 00:08:47,939
+CHAPTER 2. Builds the Monastery of Complutum.
+
+46
+00:08:47,939 --> 00:08:55,495
+After returning to that previously mentioned place of solitude, he set out to fulfill the devotion he had chosen as a child, now as an adult.
+
+47
+00:08:55,495 --> 00:09:05,087
+By constructing the Complutum monastery, in accordance with divine commandments, he kept nothing for himself, donating all his possessions and wealth, and enriching it generously.
+
+48
+00:09:05,087 --> 00:09:12,268
+He filled the monastery with a large group of monks, both from his own family and converts eagerly coming from various parts of Spain.
+
+49
+00:09:12,268 --> 00:09:30,113
+As it is written, because the enemy's malice always follows holiness and fights against goodness, an envious and wicked man, his sister's husband, incited by the old enemy's provocations, went to the king and persuaded him to take away part of the inheritance from the holy monastery and give it to him as if for a public expedition.
+
+50
+00:09:30,113 --> 00:09:41,259
+Upon discovering this, the blessed man immediately took the church's cloths and stripped the holy altars, covered them with sackcloth, and wrote and sent a letter of confusion, rebuke, and the Lord's warning.
+
+51
+00:09:41,259 --> 00:09:45,278
+He also committed himself to fasting, mourning, tears, and extended prayer.
+
+52
+00:09:45,278 --> 00:09:52,834
+While this was happening, the rival of the saints and adversary of good works was swiftly struck by divine vengeance and soon ended his life.
+
+53
+00:09:52,834 --> 00:10:03,123
+And so it happened that he who sought to seize the offerings of the saints departed this world cruelly without children, leaving his wealth to strangers and taking with him only his treachery.
+
+54
+00:10:03,552 --> 00:10:05,643
+CHAPTER 3. He withdrew into solitude.
+
+55
+00:10:05,643 --> 00:10:13,049
+This very holy man affirmed the entire monastic order and appointed a Father of the monastery with great strictness and discretion.
+
+56
+00:10:13,049 --> 00:10:20,567
+As the rumor of his holy reputation spread across all regions, he faced frequent disturbances from the many people coming to see him.
+
+57
+00:10:20,567 --> 00:10:24,581
+Seeking to escape human praise and favor, he would leave the community.
+
+58
+00:10:24,581 --> 00:10:30,404
+With nothing on his feet, he ventured into dense forests, thick underbrush, and rough, rugged terrains.
+
+59
+00:10:30,404 --> 00:10:36,509
+There, among caves and cliffs, he dedicated himself to fasting even more, increasing his vigils and prayers.
+
+60
+00:10:36,792 --> 00:10:39,546
+Chapter 4: Saved Unharmed from a Hunter's Strike.
+
+61
+00:10:39,546 --> 00:10:45,618
+Once, a man dressed in a cloak made from goat skins was praying earnestly on the steps of a particular rock.
+
+62
+00:10:45,618 --> 00:10:53,095
+A hunter, practicing his craft, came by and saw the man lying prostrate in prayer on one of the rock's steps, mistaking him for prey.
+
+63
+00:10:53,095 --> 00:11:00,572
+He aimed his bow, and just as he was about to release the arrow, by divine providence, the man raised his hands to the sky in prayer.
+
+64
+00:11:00,572 --> 00:11:03,776
+Realizing it was a person, the hunter held back his shot.
+
+65
+00:11:03,776 --> 00:11:11,478
+Later, revealing himself and recounting everything that happened, the blessed man asked the hunter not to tell anyone about the incident.
+
+66
+00:11:11,759 --> 00:11:14,100
+Chapter Five
+He built several monasteries.
+
+67
+00:11:14,100 --> 00:11:25,019
+Eventually, he established the Rufinian Monastery in a vast and remote wilderness, far from the world, at the edge of towering mountains, and retreated to a small, narrow cell near the holy altar.
+
+68
+00:11:25,019 --> 00:11:31,872
+After spending some time there, the entire congregation from the Complutensian monastery, a large group of monks, came out.
+
+69
+00:11:31,872 --> 00:11:37,889
+With pious determination, they removed him from the enclosure and brought him back to his previous location.
+
+70
+00:11:37,889 --> 00:11:44,297
+Afterwards, he went on to build the Visum Monastery between the territories of Bergend and the province of Galicia.
+
+71
+00:11:44,519 --> 00:11:47,087
+Chapter six. He crosses the sea without a ship.
+
+72
+00:11:47,087 --> 00:11:49,271
+He establishes a monastery on an island.
+
+73
+00:11:49,271 --> 00:11:53,586
+Later, he builds the Phoenense monastery on another part of the Galician coast.
+
+74
+00:11:53,586 --> 00:11:57,738
+Although eager to sail far into the open sea, he didn't find a large island.
+
+75
+00:11:57,738 --> 00:12:00,906
+With God's help, he wanted to establish a monastery there.
+
+76
+00:12:00,906 --> 00:12:07,460
+However, when they went ashore, they left the small boat they had crossed in unsecured due to the sailor's carelessness.
+
+77
+00:12:07,460 --> 00:12:19,367
+While working diligently with his disciples under a rock to produce fresh water, after completing the task and wanting to return, they saw the small boat tossed among the distant waves at sea, driven away by the enemy.
+
+78
+00:12:19,367 --> 00:12:23,846
+All his disciples, despairing at the difficulty they faced, sank into deep sorrow.
+
+79
+00:12:23,846 --> 00:12:27,615
+But he, after praying, threw himself alone into the distant open sea.
+
+80
+00:12:27,615 --> 00:12:33,131
+They cried out bitterly in grief and lamentation, fearing for his safety and mourning their own fate.
+
+81
+00:12:33,131 --> 00:12:38,593
+And when he disappeared from their sight due to the great distance, they fell into complete despair.
+
+82
+00:12:38,593 --> 00:12:43,236
+After many hours, looking out into the distance, they saw the small boat approaching.
+
+83
+00:12:43,236 --> 00:12:46,841
+As it came closer, they saw him sitting in it, returning joyfully.
+
+84
+00:12:46,841 --> 00:12:50,501
+They welcomed him with utmost joy and crossed back with exultation.
+
+85
+00:12:50,501 --> 00:12:59,895
+Returning to the island where the envious and wicked enemy had previously tried to hinder him from beginning the holy work, he built the promised monastery with God's help.
+
+86
+00:12:59,895 --> 00:13:03,500
+Dedicating it to its usual purpose, he left it strongly fortified.
+
+87
+00:13:04,319 --> 00:13:06,659
+Chapter seven. He attracts many to himself.
+
+88
+00:13:06,659 --> 00:13:14,493
+As the rumor of his exceptional holiness spread far and wide, many capable and noble individuals, even from the palace, left the king's service.
+
+89
+00:13:14,493 --> 00:13:17,594
+They eagerly sought refuge in his most sacred discipline.
+
+90
+00:13:17,594 --> 00:13:22,600
+Among these individuals, several, guided by the Lord, rose to the honor of becoming bishops.
+
+91
+00:13:22,600 --> 00:13:27,006
+One of them, named Teudisilus, developed great skill in wisdom and understanding.
+
+92
+00:13:27,006 --> 00:13:34,732
+With the Lord's help and the support of the most blessed one mentioned earlier, he built an excellent monastery in the most secluded solitude.
+
+93
+00:13:34,732 --> 00:13:39,465
+This was in a place called Castrum-Leonis, where he remained until the end of his life.
+
+94
+00:13:39,791 --> 00:13:42,038
+Chapter eight: Summary. He seeks solitude.
+
+95
+00:13:42,038 --> 00:13:46,158
+From a very young age, the most blessed Fructuosus was cherished by the Lord.
+
+96
+00:13:46,158 --> 00:13:54,771
+After turning away from worldly temptations, he generously gave all the wealth from his exceptional inheritance to the holy churches, his freedmen, and the poor.
+
+97
+00:13:54,771 --> 00:14:03,385
+He then ventured into the remote areas of the desert and founded many monasteries, where he guided the souls of many monks with good conduct and holy discipline.
+
+98
+00:14:03,385 --> 00:14:13,711
+While establishing a righteous way of life for those in the monastic community and residing there for some time, he avoided frequent gatherings and sought the most secluded parts of the desert.
+
+99
+00:14:13,711 --> 00:14:25,748
+He concealed himself in leafy and hidden groves, sometimes in the highest places, sometimes in dense forests, and occasionally in cliffs accessible only to wild goats, so he might be seen not by human eyes but by divine eyes.
+
+100
+00:14:26,015 --> 00:14:28,081
+Chapter nine. Revealed by the Jackdaws.
+
+101
+00:14:28,081 --> 00:14:37,403
+While this holy man was living an irreproachable hermit's life, with the Lord's help, many people were diligently searching for him with frequent visits but could not find him.
+
+102
+00:14:37,403 --> 00:14:43,441
+It is said that this man had tame black and small birds, commonly called jackdaws by the people, in the monastery.
+
+103
+00:14:43,441 --> 00:14:54,882
+These birds would fly through various parts of the woods, searching until they found his holy hiding places, and then reveal them with their chattering voices to all who were searching, making them known to everyone.
+
+104
+00:14:54,882 --> 00:14:57,213
+Then, everyone hurried joyfully to this man.
+
+105
+00:14:57,213 --> 00:15:05,793
+As we mentioned before, he frequently shone with many signs of miracles, and with the wonderful work of virtues, supported by divine assistance, he often dazzled.
+
+106
+00:15:05,793 --> 00:15:09,978
+From these sacred virtues, with God's help, let us now begin to speak a little.
+
+107
+00:15:10,295 --> 00:15:13,113
+Chapter Ten
+The deer becomes a friend to the hunters.
+
+108
+00:15:13,113 --> 00:15:17,471
+As the story goes, one day a group of hunters with their dogs were chasing a deer.
+
+109
+00:15:17,471 --> 00:15:27,571
+The poor little animal, exhausted from running a long distance and seeing death closing in from all sides in the open fields, was about to be caught and torn apart by the dogs' savage bites.
+
+110
+00:15:27,571 --> 00:15:32,461
+At that moment, a man of God happened to be traveling nearby, unaware of the hunters' chase.
+
+111
+00:15:32,461 --> 00:15:39,637
+With no other refuge in sight, the deer instinctively sought protection from the man of God, slipping under his cloak to save its life.
+
+112
+00:15:39,637 --> 00:15:42,401
+The man of God quickly shielded it from the hunters.
+
+113
+00:15:42,401 --> 00:15:48,035
+He ordered the dogs to be driven away and led the deer, who followed willingly, to the monastery with him.
+
+114
+00:15:48,035 --> 00:15:53,776
+From that day forward, the deer became so attached that it wouldn't leave his side, no matter where he went.
+
+115
+00:15:53,776 --> 00:15:58,347
+If he moved even a little away, the deer would bleat and make noise until he returned.
+
+116
+00:15:58,347 --> 00:16:02,227
+It was so gentle that it would often come to rest at his feet on his bed.
+
+117
+00:16:02,227 --> 00:16:05,204
+The man often tried to leave it in the forest monastery.
+
+118
+00:16:05,204 --> 00:16:11,954
+However, the deer, not forgetting the kindness it had received, would leave the forest and quickly return to its savior's side.
+
+119
+00:16:11,954 --> 00:16:16,738
+It would follow him over long distances until it found him again, no matter where he went.
+
+120
+00:16:16,738 --> 00:16:20,672
+As this continued for some time, the man's great virtue became well-known.
+
+121
+00:16:20,672 --> 00:16:24,233
+But as often happens, where goodness shines, envy can lead to harm.
+
+122
+00:16:24,233 --> 00:16:30,186
+A young man, driven by madness or envy, killed the little animal with the dogs when the holy man was not around.
+
+123
+00:16:30,983 --> 00:16:38,138
+After several days, when the holy man returned to the monastery, he carefully inquired why his deer hadn't come to him as usual.
+
+124
+00:16:38,138 --> 00:16:43,168
+He was told that while it had gone into the forest pastures, a boy had come and killed it.
+
+125
+00:16:43,168 --> 00:16:48,031
+Filled with sorrow, he immediately knelt before the Lord, laying himself on the ground.
+
+126
+00:16:48,031 --> 00:16:52,503
+By God's will, divine majesty's severe punishment swiftly brought about justice.
+
+127
+00:16:52,503 --> 00:16:55,521
+The young man was suddenly struck with a severe fever.
+
+128
+00:16:55,521 --> 00:17:04,631
+He soon began to plead through messengers, asking for prayers to the Lord, hoping he wouldn't meet a cruel death due to divine punishment for his reckless actions.
+
+129
+00:17:04,631 --> 00:17:09,941
+Without delay, he went to the young man and implored the Lord's mercy, placing his hand on him.
+
+130
+00:17:09,941 --> 00:17:16,816
+There, he not only restored the young man's physical health through sacred prayer but also healed the ailments of his soul.
+
+131
+00:17:17,207 --> 00:17:20,621
+Chapter Eleven: A Rustic is Restrained by the Sign of the Cross.
+
+132
+00:17:20,621 --> 00:17:27,182
+We learned about another miracle of great patience from a reliable source who told us about the holy man mentioned earlier.
+
+133
+00:17:27,182 --> 00:17:37,958
+One day, while traveling with others near the city of Eltania, he planned to visit the remarkable city of Emerita in the province of Lusitania, motivated by his desire to honor the noble virgin Eulalia.
+
+134
+00:17:37,958 --> 00:17:52,840
+There, he intended to fulfill his sacred vows with heartfelt devotion, hoping that by offering sweet prayers before God and receiving Jesus Christ's generous mercy, he could continue his journey to the island located in the Gaditanian territory, reaching it with the Lord's help.
+
+135
+00:17:52,840 --> 00:17:59,401
+As we mentioned earlier, while traveling through parts of Eltania, it happened that all his companions went slightly ahead.
+
+136
+00:17:59,401 --> 00:18:03,829
+He stayed behind in a secluded, dense forest, where he paused for a moment to pray.
+
+137
+00:18:03,829 --> 00:18:11,777
+While he lay prostrate in prayer, the ancient enemy of all good, always envious, quickly led a certain rustic and common man to where he was praying.
+
+138
+00:18:11,777 --> 00:18:22,125
+Seeing the man of God from a distance, dressed plainly, barefoot, and standing among the shrubs, the rustic, with the simple mind typical of rural folks, disdained him for his humble appearance.
+
+139
+00:18:22,125 --> 00:18:30,233
+Driven by reckless madness, he approached, thinking him a fugitive, and began to provoke him with insolent words, rudely rebuking him with many insults.
+
+140
+00:18:30,233 --> 00:18:53,543
+The man of God calmly responded, saying, "I am clearly not a fugitive," but the rustic insisted he was.
+Provoked by the devil's influence, he even struck him with a rod he held in his hands.
+When the man of God patiently endured this and the rustic continued hitting him, the man of God made the sign of the cross.
+Instantly, the demon threw the rustic to the ground, causing him to fall flat on his back before the feet of the holy man.
+
+141
+00:18:54,023 --> 00:19:00,408
+He raged on fiercely, tearing violently, until he cruelly shredded him, leaving him covered in his own blood.
+
+142
+00:19:00,408 --> 00:19:05,797
+But the holy man of God prayed right away and, with ease, restored him to his former health.
+
+143
+00:19:05,855 --> 00:19:08,807
+Chapter 12. Retrieves books submerged in water unharmed.
+
+144
+00:19:08,807 --> 00:19:16,449
+Now, these are not ancient tales, but modern ones; not old stories, but miracles proven by truth, as recounted by the venerable Priest Benenatus.
+
+145
+00:19:16,449 --> 00:19:19,084
+We have truly uncovered how these events occurred.
+
+146
+00:19:19,084 --> 00:19:26,990
+For this reason, we will endeavor to briefly document the series of events on this page, as they were conveyed to us, with utmost diligence for truth.
+
+147
+00:19:26,990 --> 00:19:57,979
+The aforementioned faithful man reported, saying:
+While I was traveling from the province of Lusitania with the most holy man Fructuosus to the province of Baetica, the skies were pouring immense and continuous rain, as it was winter, over many days without stopping, and the rivers had greatly swelled from the abundance of rain;
+it happened one day that a young boy with a horse, who was carrying the books of this man of God, attempted to cross with his companions but fell into the very deep waters of the river and was submerged for a long time in the swirling depths with the books.
+
+148
+00:19:57,979 --> 00:20:05,305
+Eventually, with the Lord's help, he was rescued from the peril of the water and, although soaked, managed to reach the riverbank unharmed.
+
+149
+00:20:05,305 --> 00:20:11,577
+The same holy man, shortly afterwards, hurried to them on foot, as was always his custom, without the aid of a vehicle.
+
+150
+00:20:11,577 --> 00:20:16,478
+When he reached his companions, he was informed that all his books had fallen into the water.
+
+151
+00:20:16,478 --> 00:20:24,542
+However, he was not disturbed at all; with a calm and cheerful face, without any sadness, he ordered them to be taken out of the bags and brought to him.
+
+152
+00:20:24,542 --> 00:20:31,709
+But he found them so dry that the river's water had not touched them at all, nor had any dampness been able to stain them even slightly.
+
+153
+00:20:32,183 --> 00:20:35,607
+CHAPTER 13. He steers the ship by praying after removing the oars.
+
+154
+00:20:35,607 --> 00:20:40,483
+I must not remain silent about another miraculous event I learned from the aforementioned man.
+
+155
+00:20:40,483 --> 00:20:47,486
+One day, the most blessed Fructuosus set out by boat from the city of Split to the basilica of Saint Gerontius to fulfill his devotion.
+
+156
+00:20:47,486 --> 00:21:03,360
+After devoutly offering his prayers with the Lord's help and deciding to return to where he had come from as the day was ending, the sailors, who had guided the ship across a large expanse of sea, said they were too tired to steer any longer and began to complain, as only a small part of the day remained.
+
+157
+00:21:03,360 --> 00:21:51,344
+He said to them,"I ask you to have a little food and rest for a short while since you are tired, while I fulfill my duty. I also ask you to take the oars off this ship and then sleep a little."
+The sailors obeyed immediately, removed the oars from the boat as instructed, and even fell asleep. Then the holy man prayed and, performing the holy office with his brothers, crossed quickly to the opposite bank of the river, with no one touching the ship, but only by the hand of God guiding it.
+The sailors woke suddenly and complained unnecessarily to the man, saying, "Let us cross now, because we cannot navigate well in the darkness of night."
+To which he replied, "Do not trouble yourselves, dear children, because the Lord has already brought us to where we wanted to go without your labor."
+When they got up and saw that they were on the opposite side of the river, they were astonished and wondered at what God had done.
+
+158
+00:21:51,551 --> 00:21:53,628
+CHAPTER 14. Predicting the Right Time.
+
+159
+00:21:53,628 --> 00:21:56,251
+Establishing a Monastery on the Island of Cadiz.
+
+160
+00:21:56,251 --> 00:22:08,273
+He recounted another event, confirming it to be entirely true, saying:
+On a certain Sunday, during incredibly fierce rainstorms, this holy man was traveling from Seville to an island in the territory of Cadiz in Baetica.
+
+161
+00:22:08,273 --> 00:22:16,142
+Many citizens of Seville, including the bishop, earnestly wished for him to stay, either because it was Sunday or due to the unsuitable weather.
+
+162
+00:22:16,142 --> 00:22:18,984
+They asked him to remain, at least until after Mass.
+
+163
+00:22:18,984 --> 00:23:01,334
+To their plea, he reportedly replied:
+"Please, do not try to keep me, for the Lord has guided my way.
+If you are worried about the rain, know for certain that it will not rain after the second hour today."
+Everyone present witnessed this.
+After he boarded the ship at the second hour, the rain immediately stopped, and it didn't rain again until the fourth day, allowing him to continue his journey.
+Just as he had predicted, there was much calm for three days.
+From this, we can deduce that it did not rain while the holy man was traveling until he reached his destination.
+Upon arriving at the island of Cadiz, with the Lord's help, he established a holy monastery, instructing it in the usual monastic way, as if illuminating Spain like the rising sun from the other side.
+
+164
+00:23:01,607 --> 00:23:05,637
+Chapter 15. He attracts everyone to himself, yet is obstructed by the king.
+
+165
+00:23:05,637 --> 00:23:13,697
+Ultimately, in a remote and vast solitude, far from worldly habitation, he established, with God's help, a remarkable monastery of extraordinary size.
+
+166
+00:23:13,697 --> 00:23:22,778
+It was nine miles from the seashore, and he named it Nono, as I learned from the faithful account of a devout man, Julian the priest, who grew up there from a young age.
+
+167
+00:23:22,778 --> 00:23:32,343
+The shining example of such a glorious and incomparable man so ignited the faith of the people that crowds of converts flocked together from all over, forming a massive assembly.
+
+168
+00:23:32,343 --> 00:23:45,077
+If the leader of the army of that province or the surrounding neighboring areas hadn't complained to the king to curb it somewhat, claiming there were no people left for public campaigns, an innumerable army of monks would have gathered.
+
+169
+00:23:45,077 --> 00:23:47,979
+Not only were men inspired, but women were also moved.
+
+170
+00:23:47,979 --> 00:23:54,373
+Although there was no entrance for women in that holy congregation, I will explain how the gathering of girls happened.
+
+171
+00:23:54,695 --> 00:23:56,712
+Chapter 16. Benedicta Prepares a Cell.
+
+172
+00:23:56,712 --> 00:24:05,258
+A most sacred virgin named Benedicta, born of a noble family and once promised to a king's guard, was driven by her deep faith and the passion for holy religion.
+
+173
+00:24:05,258 --> 00:24:10,460
+She secretly fled from her parents and ventured alone into various remote parts of the wilderness.
+
+174
+00:24:10,460 --> 00:24:16,989
+Traversing these unknown and impassable deserts, she eventually reached the holy monastic congregation, guided by the Lord.
+
+175
+00:24:16,989 --> 00:24:22,137
+Afraid to come any closer, she remained in the desert and sent messengers to the holy man of God.
+
+176
+00:24:22,137 --> 00:24:31,851
+She implored him to rescue the wandering sheep from the jaws of wolves, guide her on the path to salvation, and teach her soul, which was seeking the Lord, with spiritual disciplines.
+
+177
+00:24:31,851 --> 00:24:35,885
+Just as the Lord, who carried the lost sheep on His shoulders, would desire.
+
+178
+00:24:35,885 --> 00:24:43,369
+Upon hearing this, he gave immense thanks to the Almighty Lord and instructed that a small dwelling be prepared for her in the desert forest.
+
+179
+00:24:43,369 --> 00:24:51,702
+As the man recounted, since none of the elders dared to approach her, each of us younger ones, in turn, showed her writings and provided her with sustenance.
+
+180
+00:24:51,702 --> 00:24:57,753
+It was suggested with utmost secrecy that no one should be sent to her unless accompanied by the most blessed man.
+
+181
+00:24:57,753 --> 00:25:03,645
+Even if it was the middle of the night, so she could be refreshed and sanctified by him and then guided to her.
+
+182
+00:25:04,175 --> 00:25:05,907
+Benedicta gathers her companions.
+
+183
+00:25:05,907 --> 00:25:09,317
+Her husband implores her to return, but in vain. She passes away.
+
+184
+00:25:09,317 --> 00:25:14,405
+The spiritual pursuits she diligently embraced spread her fame far and wide across various lands.
+
+185
+00:25:14,405 --> 00:25:21,697
+Such a great love and desire inspired the daughters of many others, leading distinguished groups of women to eagerly flock from all around.
+
+186
+00:25:21,697 --> 00:25:25,632
+In a short time, the congregation reached a total of eighty sacred virgins.
+
+187
+00:25:25,632 --> 00:25:29,724
+In another secluded area, a monastery was built for them in the customary way.
+
+188
+00:25:29,724 --> 00:25:43,521
+Such abundant sanctity flourished among both men and women, and the extraordinary reputation for perfection grew so much that men, along with their sons, turned to the holy congregation of monks, while their wives and daughters joined the holy company of maidens.
+
+189
+00:25:43,521 --> 00:25:50,393
+Benedicta's husband, filled with deep sorrow and grief, tearfully accused her to the king, driven by treacherous jealousy and envy.
+
+190
+00:25:50,393 --> 00:25:56,007
+As a result, a judge was appointed from the king's court to investigate the matter, a count named Angelate.
+
+191
+00:25:56,007 --> 00:26:06,814
+Upon arriving at the monastery of virgins, armed with royal authority, he compelled the leader of the virgins to separate Benedicta from the congregation and present her so she could respond to her husband.
+
+192
+00:26:06,814 --> 00:26:13,843
+Though she was forcibly brought out, she kept her gaze fixed on the heavens, reciting prayers within herself to avoid seeing his face.
+
+193
+00:26:13,843 --> 00:26:21,450
+When he accused her, she, filled with the Holy Spirit through the grace of the Lord, responded with so few words that he had nothing more to say.
+
+194
+00:26:21,450 --> 00:26:46,002
+Then the judge declared, "Let her serve the Lord, and find another wife for yourself."
+After this, divine mercy decreed that the most holy virgin would soon depart from this world.
+Thus it happened, through the unspeakable selection of the Lord, that she, who had led the choir of all those sacred virgins in holy conversation, would also lead in holy conversation to the supreme glory of the kingdom of heaven, through Him who lives and reigns forever and ever. Amen.
+
+195
+00:26:46,631 --> 00:26:48,842
+CHAPTER 18. Fructuosus Always Fruitful.
+
+196
+00:26:48,842 --> 00:26:59,609
+The blessed Fructuosus illuminated all of Spain with the remarkable clarity of his holiness, nurturing groups of disciples who embodied the pure hearts of perfected monks in various regions.
+
+197
+00:26:59,609 --> 00:27:06,466
+Even today, new converts, taking the place of the departing saints, thrive with his ancient examples as if they were new.
+
+198
+00:27:06,466 --> 00:27:12,529
+His work continues to bear fruit until the end of the world, and his glorious memory is constantly renewed.
+
+199
+00:27:12,529 --> 00:27:16,213
+In the kingdom of heaven, his flock grows daily in great numbers.
+
+200
+00:27:16,439 --> 00:27:20,107
+Chapter 19. He is held back while secretly planning to go to the East.
+
+201
+00:27:20,107 --> 00:27:27,390
+After dedicating himself to his holy work with utmost devotion, aided by heavenly power, he was filled with a profound desire for holiness.
+
+202
+00:27:27,390 --> 00:27:30,272
+This inspired him to plan a new pilgrimage to the East.
+
+203
+00:27:30,272 --> 00:27:36,298
+He secretly discussed this plan with a few chosen disciples and arranged for a ship to take him across to the East.
+
+204
+00:27:36,298 --> 00:27:40,961
+However, a betrayer among his disciples discovered his plan, preventing him from leaving.
+
+205
+00:27:40,961 --> 00:27:44,472
+To make a long story short, the news reached the king of that time.
+
+206
+00:27:44,472 --> 00:27:51,702
+Fearing the loss of such a great light from Spain, the king and his wise advisors ordered that he be captured quietly and brought to them.
+
+207
+00:27:51,702 --> 00:27:54,899
+Once they had captured him, they guarded him with great fear.
+
+208
+00:27:54,899 --> 00:28:05,535
+It is said that at night, the doors to his dwelling, which were locked with chains and bolts from the outside and secured with various strong locks, mysteriously opened, while the guards remained inside.
+
+209
+00:28:05,535 --> 00:28:10,408
+In the dead of night, the guards awoke to find the locks flung far away and the doors opened.
+
+210
+00:28:10,408 --> 00:28:15,124
+Meanwhile, he was praying in the holy churches, confidently pleading for the Lord's mercy.
+
+211
+00:28:15,647 --> 00:28:16,266
+CHAPTER 20.
+
+212
+00:28:16,266 --> 00:28:20,257
+After becoming a bishop, he maintained his monastic habits and customs.
+
+213
+00:28:20,257 --> 00:28:27,901
+Despite his reluctance and being overwhelmed by illness, he was swiftly appointed as a bishop in the Metropolitan seat, a gift from God.
+
+214
+00:28:27,901 --> 00:28:31,779
+Even with this great honor, he didn't abandon his previous lifestyle.
+
+215
+00:28:31,779 --> 00:28:39,087
+He continued with the same habits and strict abstinence, spending the rest of his life distributing alms and building monasteries.
+
+216
+00:28:39,311 --> 00:28:42,376
+CHAPTER 21. He dedicates himself to building monasteries.
+
+217
+00:28:42,376 --> 00:28:50,386
+Between the city of Braga and the Dumium monastery, he constructed a notable monastery on the top of a small hill, where his holy body is now buried.
+
+218
+00:28:50,386 --> 00:28:56,515
+His commitment to building holy churches was immense, as I learned from Cassian, the abbot and his first disciple.
+
+219
+00:28:56,515 --> 00:29:03,128
+Even when he foresaw his own holy death long in advance, and with much construction already underway, he worked tirelessly.
+
+220
+00:29:03,128 --> 00:29:10,439
+Both during the day and through the night by lamplight, he labored to ensure he wouldn't leave this world with his holy work unfinished.
+
+221
+00:29:10,439 --> 00:29:15,547
+With divine help, he diligently completed everything he had started and dedicated it with care.
+
+222
+00:29:15,815 --> 00:29:18,428
+As he sensed his end approaching, he passed away.
+
+223
+00:29:18,428 --> 00:29:27,116
+When the end drew near, he was struck by a fever, and after being gripped by it for several days, he calculated the time since he was first told about his own end.
+
+224
+00:29:27,116 --> 00:29:31,861
+Realizing the day had come for him to leave this world, he announced it to those present.
+
+225
+00:29:31,861 --> 00:29:38,577
+While everyone else wept, he alone rejoiced, knowing without a doubt that he was hastening towards heavenly and eternal glory.
+
+226
+00:29:38,577 --> 00:30:39,986
+When asked if he feared death, he replied, "I am not afraid at all, because I know that even though I am a sinner, I walk into the presence of my Lord."
+After this, he requested to be taken to the church.
+Having already arranged all his household affairs, he had one servant left, named Decentius, who had served him well since childhood.
+He called for him, laid his hand upon him, and appointed him as abbot of the main monastery in Tours.
+Thus, having received legitimate penance, he did not leave the Church, but instead lay prostrate before the holy altar for the span of that day and night.
+Before dawn's light appeared, he raised his hands in prayer and entrusted his pure and holy spirit into the hands of the Lord, who crowns His Saints through good confession.
+For all those visiting the most sacred tomb of his holy body, signs of power endure.
+Indeed, the sick are healed there, demons are driven away, and whoever asks for his unstoppable help in sorrow immediately receives the full fruit of their request from the Lord, thanks to our Lord Jesus Christ, who lives and reigns with God the Father and the Holy Spirit, forever and ever.
+Amen.
+

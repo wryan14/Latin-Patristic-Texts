@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Letter Seventeen. Fragment.</s>\n        <s>It appears to go against the judgments of the holy Fathers if a secular person or layperson attempts to remove priests from the churches where they were appointed at the time of their ordination.</s>\n    </p>\n</speak>",
+      "original_latin": "EPISTOLA XVII. (Fragmentum) Contra sanctorum Patrum censuras videtur existere,\nsi saecularis homo vel laicus presbyteros ab\necclesiis, in quibus tempore ordinationis eorum denominati\nvel introducti fuerint, nitetur expellere.",
+      "voice": "Matthew"
+    }
+  ]
+}

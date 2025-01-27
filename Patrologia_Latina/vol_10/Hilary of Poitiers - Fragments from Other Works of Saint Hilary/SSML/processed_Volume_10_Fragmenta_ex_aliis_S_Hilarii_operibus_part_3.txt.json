@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Ex   Prooemio expositionis Evangelii in\nMatthaeum. III. Erat namque primum necessarium nobis, ut\nunigenitus Deus nostri causa homo, id quod tum non\nerat, gigneretur.",
+            "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      From the Introduction to the Commentary on the Gospel of Matthew, Chapter 3.\n    </s>\n    <s>\n      It was necessary for us that the only-begotten God became human for our sake, which He was not before.\n    </s>\n  </p>\n</speak>"
+        }
+    ]
+}

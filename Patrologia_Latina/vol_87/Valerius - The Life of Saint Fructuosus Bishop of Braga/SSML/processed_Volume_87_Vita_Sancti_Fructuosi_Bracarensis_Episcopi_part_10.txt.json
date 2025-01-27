@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Chapter seven.</s>\n    <s>He attracts many to himself.</s>\n  </p>\n  <p>\n    <s>As the rumor of his exceptional holiness spread far and wide, many capable and noble individuals, even from the palace, left the king's service.</s>\n    <s>They eagerly sought refuge in his most sacred discipline.</s>\n  </p>\n  <p>\n    <s>Among these individuals, several, guided by the Lord, rose to the honor of becoming bishops.</s>\n    <s>One of them, named Teudisilus, developed great skill in wisdom and understanding.</s>\n    <s>With the Lord's help and the support of the most blessed one mentioned earlier, he built an excellent monastery in the most secluded solitude.</s>\n    <s>This was in a place called Castrum-Leonis, where he remained until the end of his life.</s>\n  </p>\n</speak>",
+      "original_latin": "CAP. VII. Multos ad se trahit. Rumore eximiae\nsanctitatis ejus enixius crebrescente, multae idoneae\nac nobiles personae etiam de palatio, servitium regis\nrelinquentes, ad ejus sacratissimam sitienter confugerunt\ndisciplinam: ex quibus plerique ad pontificalem,\nduce Domino, conscenderunt honorem. Inter\nquos unus sophismae , intelligentiaeque\nperitiam indeptus nomine Teudisilus opitulante Domino\natque saepedicti beatissimi suffragante praesidio,\nin abditissima solitudine, in locum qui nuncupatur\nCastrum-Leonis egregium aedificavit monasterium,\net in ipso permansit usque ad finis suae terminum.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "NOMINA HAERETICORUM. ",
+      "cleaned_english_translation": "<speak>\n    List of Heretics<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  \n    <s>Ursacius from Singidunum, Valens from Mursa, Narcissus from Hierapolis, Stephanus from Antioch, Acacius from Caesarea, Menophantus from Ephesus, Georgius from Laodicea.</s>\n  \n</speak>",
+      "original_latin": "14. Ursacius a Singiduno, Valens a Mursa, Narcissus\n ab Jeropoli, Stephanus ab Antiochia, Acacius\na Caesarea, Menophantus ab Epheso, Georgius a\nLaodicia.",
+      "voice": "Matthew"
+    }
+  ]
+}

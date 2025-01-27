@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\nChapter Five <break time=\"500ms\"/>\n    <s>He built several monasteries.</s>\n    <s>Eventually, he established the Rufinian Monastery in a vast and remote wilderness, far from the world, at the edge of towering mountains, and retreated to a small, narrow cell near the holy altar.</s>\n    <s>After spending some time there, the entire congregation from the Complutensian monastery, a large group of monks, came out.</s>\n    <s>With pious determination, they removed him from the enclosure and brought him back to his previous location.</s>\n    <s>Afterwards, he went on to build the Visum Monastery between the territories of Bergend and the province of Galicia.</s>\n  </p>\n</speak>",
+      "original_latin": "CAP. V. \nMonasteria varia aedificat. Post haec denique\nin vastissima et arta atque procul a saeculo remota\nsolitudine, in excelsorum montium finibus\nextruens monasterium Rufinianensem, et erga sanctum\naltarium se in angusto et parvulo retrusit ergastulo. Cumque ibidem aliquanto tempore quievisset,\negressa est omnis congregatio Complutensis\ncoenobii multitudo monachorum: pie violenti, venientes\nejecerunt eum de eadem clausura, et ad\npristinum reduxerunt locum. Demum itaque egrediens,\ninter  Bergendensis territorii et Gallaeciae\nprovinciae confinibus aedificavit monasterium Visumensem.",
+      "voice": "Matthew"
+    }
+  ]
+}
