@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>When he was nineteen, he became a cleric.</s>\n        <s>The most blessed man, Odo, in his nineteenth year, sought refuge with the blessed Martin and took on the duties of a cleric.</s>\n        <s>I'd rather stay silent than talk about the gathering of nobles and the grand display, so as not to seem like I'm insulting the poverty he later embraced.</s>\n    </p>\n    <p>\n        <s>Among them was Count Fulco, who had raised him.</s>\n        <s>He immediately granted him a cell near the church of Saint Martin and provided him with daily sustenance from the same church, which he accepted.</s>\n    </p>\n    <p>\n        <s>Yet, the most blessed man, a lover of poverty, having scorned worldly glory, sought only to please God.</s>\n        <s>So, during the day, he devoted himself to reading, and at night he dedicated himself to prayer, knowing it is written:</s>\n        <s>\"If anyone does not know, they will not be known\" <break time=\"500ms\"/> First Corinthians 14.</s>\n    </p>\n</speak>",
+      "original_latin": "Anno 19 aetatis clericus. 11. Igitur vir beatissimus Odo nono decimo aetatis\nsuae anno confugiens apud beatum Martinum, clericatus\nsuscepit officium. Quaenam ibi confluxerit\nturba magnatorum, et quanto cum apparatu ne sequenti\npaupertati, qua postmodum contentus fuit,\ninjuriam facere videar, malo silere, quam promere. Inter hos vero adfuit comes Fulco, qui eum nutrierat:\ncui mox cellam juxta beati Martini tribuit\necclesiam, et quotidianum victum ex eadem canonica\nacquisivit, eique concessit. Sed paupertatis amator\nvir beatissimus, contempta mundi gloria, soli Deo\nplacere curabat. Diebus itaque continuatis lectioni\n insudabat, et noctibus orationi vacabat, sciens esse\nscriptum: Qui ignorat, ignorabitur (I Cor XIV).",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>The First Book.</p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "LIBER PRIMUS.",
+      "voice": "Ruth"
+    }
+  ]
+}

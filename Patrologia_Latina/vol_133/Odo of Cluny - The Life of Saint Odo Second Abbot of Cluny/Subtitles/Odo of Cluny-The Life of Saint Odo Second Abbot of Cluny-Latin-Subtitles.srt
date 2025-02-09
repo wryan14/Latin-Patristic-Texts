@@ -1,0 +1,4662 @@
+1
+00:00:00,000 --> 00:00:02,232
+PROLOGUS AUCTORIS.
+
+2
+00:00:02,232 --> 00:00:08,411
+Joannes operis hortatores memorat. 1. Dominis et in Christo fratribus Salernicensibus
+servus Christi Jesus frater Joannes.
+
+3
+00:00:08,411 --> 00:00:23,453
+Librum quem doctissimus vir Palladius de vita et virtutibus beatorum eremitarum Patrum temporibus Theodosi imperatoris composuit, semel a vobis coactus scribere non grave pertuli: sed mox subnixo corpore, flexisque articulis scribere curavi, vestrae utilitati commodius nihil me agere aliquid fore
+
+4
+00:00:23,453 --> 00:00:23,807
+censui.
+
+5
+00:00:23,807 --> 00:00:29,227
+Igitur coepti operis dum anhelanter ad
+finem vellem percurrere, stomachico coepi dolore
+affligi vehementer.
+
+6
+00:00:29,227 --> 00:00:44,219
+Interea contigit die quadam mecum adesse virum venerabilem domnum Adhelradum confratrem nostrum, unaque cum eo sacri Salernitani palatii exactorem Joannem, qui infirmitatis meae tolerantiam providentes, coeperunt mihi sanctissimi patris nostri domni Odonis piam et venerabilem eximiamque inserere
+
+7
+00:00:44,219 --> 00:00:51,107
+memoriam, scientes prae omnibus semper mihi pium esse atque dulce, vel aliis aliquid de eo narrare, vel meae utilitati quiddam conferre.
+
+8
+00:00:51,107 --> 00:01:00,780
+Ast ego non immemor illius quod
+scriptum est: Sapientiam sanctorum narrant populi,
+et laudem eorum nuntiat Ecclesia; assumpto sermone
+ejus illis, ut percunctati sunt, coepi originem exponere.
+
+9
+00:01:00,780 --> 00:01:08,884
+Quo audito indiderunt mihi, si eum (ut tunc
+profitebar) diligerem; prolata verbis sine dilatione,
+ut bonae haereditatis commoda posteris transcripta
+dimitterem.
+
+10
+00:01:08,884 --> 00:01:23,926
+Itaque corde volutans horum virorum vehementer praecepta amantium , prius (ut moris est monachorum) conticui ad modicum, veritus, ne temerario ore tanti viri vitam potius narrando dehonestarem, quam digne describerem; et quod nec grammaticae artis locutio mea decoraret verba, neque dignus videbar
+
+11
+00:01:23,926 --> 00:01:27,624
+hujus sanctissimi viri narrare vitam, etiam si loquendi adesset facultas.
+
+12
+00:01:28,079 --> 00:01:32,240
+Testes profert auctor. Visa et audita narrat. Multorum
+nomina cur silet. 2.
+
+13
+00:01:32,240 --> 00:01:48,661
+Assumpto itaque opere, cum medullatis lacrymis virginis Creatorem et Filium invocare coepi, ejusque comparem sanctum Spiritum tributorem linguarum, distributoremque sermonum, qui aperit os mutorum, et disertas facit linguas infantium: ut qui me dudum voluit frigescere saeculo, et in amorem tanti
+
+14
+00:01:48,661 --> 00:01:53,765
+patris esse accensum; omni destitutum litterarum auxilio facundum esse suo concedat afflatu.
+
+15
+00:01:53,765 --> 00:02:02,641
+Quapropter, dilectissimi, quia vestra exhortatione
+compulsus tantum opus audacter sumpsi, ut ad finem
+usque perducam, vestris orationibus me adjuvare
+dignemini.
+
+16
+00:02:02,641 --> 00:02:19,228
+Sed si quis forte haec legerit, vel alio legente audierit, obsecro ne horrescat, aut irrideat, vel ficta temerario ore dicere praesumat, et quasi derelicto a Deo mundo hactenus talem Ecclesia non valeat edere virum, cui dudum inquiens promisit Christus: Ecce ego vobiscum sum usque ad consummationem
+
+17
+00:02:19,228 --> 00:02:19,672
+saeculi.
+
+18
+00:02:19,672 --> 00:02:35,926
+Ego tamen Jesum testor, quia multa de eo mihi praeter haec quae narro, magister meus Arnulfus jurejurando solitus erat recitare, quibus se testatus est interfuisse; similiter Hucbertus , Tiberinae Ecclesiae episcopus, atque unus ex nostris fratribus, nomine Landricus: e quibus minime scribere
+
+19
+00:02:35,926 --> 00:02:48,464
+curavi, et non ob aliud, nisi quia dum inhianter ejus non obsequebantur viam, eorum nolui sumere testimonia, quae videlicet si vellem describere, sufficere arbitror posse in laudem cujuslibet antiqui patris et apostolici viri.
+
+20
+00:02:48,464 --> 00:03:04,608
+Ea
+nimirum scribere bene complacuit, quae quasi de
+alio narrante ex ejus ore sumpsi, et meae memoriae
+commendavi. Deinde quae domnus Hildebrandus, vir
+nempe veridicus et Cluniaci coenobii praepositus, in
+regularibusque disciplinis praeceptor meus, mihi et
+multis aliis est professus.
+
+21
+00:03:04,608 --> 00:03:19,566
+Interim deprecor o charissimi, ut a me progenitorum suorum, caeterorumque Gallorum, cum quibus ipse adolevit, nomina non requiratis, quos neque vidi, neque facultas videndi aliquando se mihi praebuit: et quia regularibus disciplinis tunc eram arctatus, saltem nec licuit percunctare, praecipueque cum
+
+22
+00:03:19,566 --> 00:03:22,558
+me tellus Italica edidit, et intra septa Ecclesiae nutrivit.
+
+23
+00:03:22,608 --> 00:03:24,144
+LIBER PRIMUS.
+
+24
+00:03:24,144 --> 00:03:40,361
+Odonis summa vitae. 3. Odo igitur, vir beatissimus, ex Francorum
+prosapia exstitit oriundus, sed intra domum Guillelmi
+robustissimi ducis Aquitaniae est alitus. Nono
+decimo aetatis suae anno apud beatum Martinum Turonis
+est tonsus, ibique grammaticae artis liberalibus
+studiis educatus.
+
+25
+00:03:40,361 --> 00:03:51,645
+Deinde apud Parisium dialectica
+musicaque a Remigio doctissimo viro est in tructus,
+et tricesimo ortus sui anno Burgundiam petiit ibique
+per quindecim annos sub Bernone abbate monasticam
+vitam duxit.
+
+26
+00:03:51,645 --> 00:04:00,888
+Postmodum vero abbas ordinatus,
+Franciarum, Aquitaniarum, Hesperiarumve partium,
+atque urbis Romanae consistentium coenobiorum effectus
+dux et pater dulcissimus.
+
+27
+00:04:00,888 --> 00:04:01,887
+Auctoris fortuna. 4.
+
+28
+00:04:01,887 --> 00:04:16,232
+Anno itaque Dominicae incarnationis nongentesimo
+tricesimo nono, et ejus aetatis sexagesimo,
+in monastica religione tricesimo anno Romam veniens,
+me miserum terrenis irretitum nexibus reperit,
+miseransque suo rete piscatus est, atque coenobium
+sancti Petri Ticini positus usque perduxit.
+
+29
+00:04:16,232 --> 00:04:30,127
+Parvo ibi tempore ab Hugone rege detentus, praedicto
+viro domno Hildebranno regularibus disciplinis
+me tradidit educandum. Non post multo Romam
+veniens, me infelicem dignatus est sibi socium
+sumere; et quem canonicum parentibus abiens rapuit,
+rediens postmodum monachum reduxit.
+
+30
+00:04:30,127 --> 00:04:44,772
+Illis praeterea diebus dum iter carperemus, simul loquelis alternantibus, postposito pudore, et veluti monastico procul posito tramite, audacter erupi in vocem, atque sui ortus et habitus vitam conversationemve non veritus sum ab eo diligenter inquirere, pariterque ut mihi dignaretur exponere
+
+31
+00:04:44,772 --> 00:04:45,971
+proclivius coepi rogare.
+
+32
+00:04:45,971 --> 00:04:57,168
+Ille quippe, uti semper solitus erat,
+paululum conticuit: deinde terso faciei rubore,
+atque ab intimo corde suspiria trahens, suam mihi
+originem coepit exponere: sed tamen illius verba
+lacrymis et gemitibus erant plena.
+
+33
+00:04:57,168 --> 00:05:10,731
+Odo Joanni narrat patris sui religionem, et vitae suae
+primordia. 5. Pater, inquit, meus Abbo est vocatus, sed
+alterius moris esse videbatur et actibus, quam nunc
+homines praesentis temporis esse videntur. Veterum
+namque historias, Justiniani Novellam memoriter
+retinebat.
+
+34
+00:05:10,731 --> 00:05:13,574
+In suo nempe convivio evangelicus semper
+resonabat sermo.
+
+35
+00:05:13,574 --> 00:05:28,384
+Verum si quando lis quoquo modo inter partes fuisset orta, tanta in eum censurae excreverat veritas, ut undique omnes ad eum ob diffiniendi proficiscerentur gratiam, qua de causa omnibus charus erat, praecipueque apud Guillelmum robustissimum comitem, qui eo tempore Aquitaniam, Gutiamque suo jure
+
+36
+00:05:28,384 --> 00:05:28,783
+tenebat.
+
+37
+00:05:28,783 --> 00:05:42,646
+Multo
+quidem assueverat sanctorum pervigil celebrare vigilias. Noctem vero illam, qua angelis et hominibus
+pax est reddita, et Christus Dominus mundum visitans
+a virginali utero est egressus, tanquam sponsus
+de thalamo summo, in silentio cum lacrymis et orationibus
+transigebat.
+
+38
+00:05:42,646 --> 00:05:57,257
+Dum ergo has excubias diligenter
+celebraret, menti suae suggestum est, ut Domino
+peteret ob virginis partum condonari sibi filium, talique
+instantia precum maternum denuo jam emortuum
+meruit suscitare uterum. Saepius enim retulit
+pater meus, nonnullis talem fuisse ordinem meae
+nativitatis. 6.
+
+39
+00:05:57,257 --> 00:06:12,117
+Per illud namque infantiae meae tempus contigit illum ingredi septa cubiculi, meque ibi super cunabulum sine custode reperit: huc illucque circumspiciens, cum neminem videret, suis me manibus elevavit, et corde sursum respiciens: Suscipe, ait, gemma sacerdotum, Martine, hunc puerum, deponensque me
+
+40
+00:06:12,117 --> 00:06:16,805
+super eumdem quo elevavit stratulum, abiens recessit; sed quod gesserat nemini prodere voluit.
+
+41
+00:06:16,805 --> 00:06:31,415
+7. Post haec ablactatum cuidam suo presbytero,
+remotiori manenti loco, me tradidit educandum, et
+litterarum studiis imbuendum. Fatebatur postmodum
+ipse presbyter, quod his diebus talem vidisset visionem. Videbam, et ecce Ecclesiarum principes coeperunt
+mihi puerum petere etiam exacte.
+
+42
+00:06:31,415 --> 00:06:39,414
+Cumque
+sciscitarer quid de eo fieri vellent, an ad domum
+patris reducere: non ita se inquiunt venisse, sed ut
+in Orientis partibus eum ducerent.
+
+43
+00:06:39,414 --> 00:06:51,411
+At vero presbyter
+cum eum dimittere nollet, et eis resistere nequiret,
+et quid amplius ageret nesciret; terra prostratus
+convertit se ad preces, deprecans, ut prius
+in eum ultionem plecterent , quam
+puerum tollerent.
+
+44
+00:06:51,411 --> 00:07:08,073
+Nunc vindictam patris se dicebat
+perpeti, nunc se a parentibus dicebat vocandum
+proditorem pueri. Ad haec ferebatur respondisse
+unus eorum: Ne forte vindicet se pater pueri in
+presbyterum, dimittamus eum usque ad tempus. Hanc revelationem ipse presbyter addiscens restituit
+me quidem meis parentibus.
+
+45
+00:07:08,073 --> 00:07:11,906
+Haec omnia quae a
+me requiris, o fili, ita ego a meo patre audivi. 8.
+
+46
+00:07:11,906 --> 00:07:28,513
+Factum est autem cum adolevissem ego, quem modo vetulum intueris ac turpem, strenuum praedicabant et conspicabilem juvenem: coepitque pater meus per incrementa temporum me ab ecclesiastico subtrahere ordine, et militaribus exercitiis applicare; qua de re intra domum Guillelmi me tradidit serviturum
+
+47
+00:07:28,513 --> 00:07:28,902
+comiti.
+
+48
+00:07:28,902 --> 00:07:33,456
+Relictis tandem litterarum studiis,
+venatorum aucupumque coepi deservire officiis.
+
+49
+00:07:33,456 --> 00:07:46,064
+Sed
+omnipotens Deus qui invitis salutem praestat, et vocat
+ea quae non sunt tanquam ea quae sunt, coepit
+me in somnis terrere, et vitam meam pronam ad
+malum ostendere; sed insuper totam meam venationem
+vertebat in fatigationem.
+
+50
+00:07:46,064 --> 00:07:58,894
+Nam quanto amplius
+me ingerebam hujuscemodi lusibus, tanto rediebam
+moerens sine omni effectu et fatigatione confossus. 9. His vero diebus suasit mihi pater meus celebres
+habere vigiliarum excubias, quas ipse celebrare
+consueverat.
+
+51
+00:07:58,894 --> 00:08:09,947
+Evolutis autem aliquot annis, Natalis
+Domini vigilias me celebraturum praeparavi: et cum
+partem noctis duxissem pervigilem, subito menti
+meae complacuit obsecrare pro vita mea Domini
+Jesu Genitricem.
+
+52
+00:08:09,947 --> 00:08:18,168
+Tunc siquidem orans coepi dicere:
+O domina, mater misericordiae, tu nocte ista mundo
+edidisti Salvatorem; oratrix pro me dignanter
+existe.
+
+53
+00:08:18,168 --> 00:08:32,397
+Ad tuum gloriosum et singularem confugio
+partum, piissima, et tu meis precibus aures tuae
+pietatis inclina. Vehementer expavesco ne vita mea
+tuo displiceat Filio: et quia, domina, per te mundo
+se manifestavit; propter te quaeso absque dilatione
+misereatur mei.
+
+54
+00:08:32,397 --> 00:08:48,706
+Inter has preces et matutinas laudes, missarumque solemnia dies crastinus illuxerat: et ecce, ut solebat, canonicorum dealbatus chorus adfuit; et dum in laudibus tantae solemnitatis diversarum fieret modulatio vocum, velut impatiens juvenis in medio eorum prosilivi, una cum ipsis natum regem mundi
+
+55
+00:08:48,706 --> 00:08:49,472
+laudare coepi.
+
+56
+00:08:49,472 --> 00:09:04,960
+Scio enim et confiteor
+me improbe fecisse sed tamen Davidicum illud corde
+quod scriptum est retinens, non immerito hoc agere
+praesumpsi: Laudate Dominum omnes gentes, et
+collaudate eum omnes populi. Statim vero capitis me
+invasit nimius dolor, qui paulisper me contrivit et
+recessit.
+
+57
+00:09:04,960 --> 00:09:20,996
+Perlecta itaque lectione evangelica, denuo
+me invasit praedictus dolor capitis, et nisi extensa
+brachia ad cancellos applicuissem ecclesiae mox a
+summo statu velut exanimis ruerem. Intantum enim
+excruciabat me dolor ille, ut eo veniente, nec ad
+momenti spatium ulla spes vitae in me remaneret.
+
+58
+00:09:20,996 --> 00:09:27,290
+Sexto instante et decimo aetatis meae hoc mihi contigit
+anno, et tribus annis sequentibus isto sum vomere
+sulcatus.
+
+59
+00:09:27,290 --> 00:09:37,962
+Ob hoc et ad parentum reductus sum
+domum, et per biennium omne genus curationis
+adhibuerunt mihi; nam quanto ampliora et omnigena
+sumebam medicamina, toties eminus salutis a
+me remedia fugiebant.
+
+60
+00:09:37,962 --> 00:09:51,808
+Illis in diebus cum gravi
+moerore largoque suspirio pater meus praedictus
+meam hujuscemodi exponebat fuisse nativitatem,
+addens insuper: Ecce, beate Martine, quod grate
+obtuli exacte requiris. Vere ut decet exaudibilis es
+in voto, sed charus in negotio.
+
+61
+00:09:51,808 --> 00:10:03,192
+Desperato tandem
+salutis remedio, unum fore putavi solatium, si anhelanter
+confugerem ad eum: nempe ut cui traditus
+fui nesciens, deposita capitis coma denuo illi servirem,
+sciens quod ita factum est.
+
+62
+00:10:03,192 --> 00:10:17,879
+Ecce habes, o filii
+ortum meae nativitatis, atque exordium conversationis:
+animadverte quia nihil boni egi mea sponte. Tu tamen de meis parvis moribus, ut dignum videris,
+judica, dum tamen misericordiam super me
+respicientem incessanter benedicendo praedices atque
+glorifices.
+
+63
+00:10:17,879 --> 00:10:31,844
+Odo S. Martino devotus, ejus hymnos componit. 10. Nam tantam postmodum devotionem in beato
+Martino visus est habere, ut prae caeteris sanctis
+eum diligeret, suaeque protectioni semetipsum quotidie
+commendaret, illum nempe ubicunque adesset. corde retentans, ore praedicans, operibus sequens.
+
+64
+00:10:31,844 --> 00:10:39,474
+Ecce enim sunt evoluti haud plusquam sex anni,
+dum ante ejus corpus vigiliarum excubias diversus
+ordo ecclesiae celebraret, contigit ut ipse ibidem
+interesset.
+
+65
+00:10:39,474 --> 00:10:51,807
+Verum quia ejusdem officii antiphonae,
+uti omnibus patet, breves sunt, et ejus temporis
+longiores noctes; volentes officium ad lucem usque
+protendere, unamquamque antiphonam per singulos
+psalmorum versus repetendo canebant. Fiebat namque
+eis labor improbus.
+
+66
+00:10:51,807 --> 00:10:59,485
+Denique venientes ad eum,
+quasi uno ore dicentes deprecabantur: Diu namque
+est quod tuum adventum praestolavimus, pater,
+quatenus nos a tanto labore sublevares.
+
+67
+00:10:59,485 --> 00:11:07,691
+Nunc vero
+quia praesto es, alias nobis antiphonas de vita beati
+Martini domini tui precamur institue, quarum prolixitas
+digne a nobis harum brevissimarum fastidium
+tollat.
+
+68
+00:11:07,691 --> 00:11:19,448
+Ille vero coepit dicere, non solum has se facere
+non posse, verum etiam discendi sibi tempus
+aetas omne denegaret, si a quovis factae fuissent;
+coepitque inter haec earum brevitatem laudare, et
+earum quas petebant prolixitatem in nauseam habere.
+
+69
+00:11:19,448 --> 00:11:30,965
+At illi e contra inferebant, si aliter faceret,
+Martinum offenderet; addentes quod talis excusatio
+palliatam superbiam significaret. His verbis precibusque
+mistis pater noster Odo convictus, mox super
+tanti officium laboris annisu incubuit.
+
+70
+00:11:30,965 --> 00:11:40,946
+Tres
+vero hymnos in ejus laude composuit, e quibus
+unius tantum exemplar inserere huic operi adjudicavi. Rex Christe, Martini decus; hic laus tua, tu
+illius; tu nos in hunc te colere, quin ipsum in te tribue.
+
+71
+00:11:40,946 --> 00:11:52,703
+Similiter duodecim antiphonas ternas per singulas
+habentes differentias, quarum verba et vocum
+consonantia adeo sibi invicem concordant, ut nihil
+in sensum plus minusve, nihil in symphoniae modulationibus
+reperiri dulcius posse videatur.
+
+72
+00:11:52,703 --> 00:12:06,885
+Retinentur
+hactenus Beneventi. Nunquam mane, nunquam
+vespere ejus memoria habebatur a suo pectore atque
+ore, illum corde retinens quem promebat ore: O
+Martine, o pie, quam pium est gaudere de te, o Martine,
+et caetera.
+
+73
+00:12:06,885 --> 00:12:22,367
+Sed interim quia congrue locus se
+praebuit descriptae narrationis, auxiliante Domino,
+cum ejus vitam pleniter exponere coepero, tunc
+quae per eum beatus Martinus operari voluit enarrabo. Nunc interim revertamur ad ea unde digressi
+sumus.
+
+74
+00:12:22,367 --> 00:12:31,798
+Anno 19 aetatis clericus. 11. Igitur vir beatissimus Odo nono decimo aetatis
+suae anno confugiens apud beatum Martinum, clericatus
+suscepit officium.
+
+75
+00:12:31,798 --> 00:12:42,494
+Quaenam ibi confluxerit
+turba magnatorum, et quanto cum apparatu ne sequenti
+paupertati, qua postmodum contentus fuit,
+injuriam facere videar, malo silere, quam promere.
+
+76
+00:12:42,494 --> 00:12:59,329
+Inter hos vero adfuit comes Fulco, qui eum nutrierat:
+cui mox cellam juxta beati Martini tribuit
+ecclesiam, et quotidianum victum ex eadem canonica
+acquisivit, eique concessit. Sed paupertatis amator
+vir beatissimus, contempta mundi gloria, soli Deo
+placere curabat.
+
+77
+00:12:59,329 --> 00:13:08,063
+Diebus itaque continuatis lectioni
+insudabat, et noctibus orationi vacabat, sciens esse
+scriptum: Qui ignorat, ignorabitur (I Cor XIV).
+
+78
+00:13:08,063 --> 00:13:19,238
+Virgilio deditus terretur. 12. His praeterea diebus nauta noster peritissimus,
+qui nos suo ductu docuit transmeare gurgites istius
+mundi, immensum Prisciani transiit transnatando
+pelagus.
+
+79
+00:13:19,238 --> 00:13:37,045
+Nam Virgilii cum voluisset legere carmina, ostensum fuit ei per visum vas quoddam, deforis quidem pulcherrimum, intus vero plenum serpentibus, a quibus se subito circumvallari conspicit, nec tamen morderi, et evigilans serpentes doctrinam poetarum, vas in quo latitabant, librum Virgilii; viam vero
+
+80
+00:13:37,045 --> 00:13:40,272
+per quam incedebat valde sitiens, Christum intellexit.
+
+81
+00:13:40,391 --> 00:13:55,842
+Litteris sacris dat operam. 13. Interea quanta in eum coepit postmodum emanare
+virtus patientiae, succincte describam. Deinde
+relictis carminibus poetarum, alti edoctus spiritu
+consilii, ad evangeliorum prophetarumque expositores
+se totum convertit.
+
+82
+00:13:55,842 --> 00:14:12,162
+Coeperunt interea rabido
+latratu omnes pene canonici furere contra eum. Quid agere velis, inquiunt? cur invadere quaeris
+opus alienum? hoc opus pretii perdidisti cum flore
+juventutis. Parce tibi, et relictis his inextricabiliter
+connexis litteris, ad psalmos abi.
+
+83
+00:14:12,162 --> 00:14:28,854
+Sed idem spiritus
+qui eum pridem docuerat a bonis silere, tunc docebat
+eum a malis conticescere. Ille vero curvato
+capite et obturatis auribus, defixisque in terram
+aspectibus, illud in corde versabat Davidicum:
+Dixi: Custodiam vias meas ut non delinquam in lingua
+mea.
+
+84
+00:14:28,854 --> 00:14:42,815
+Posui ori meo custodiam (Psal XXXVIII). Nec tamen erat immemor Dominici promissi: In
+patientia vestra possidebitis animas vestras (Luc XXI). Quae vero restant de ejus patientia, auxiliante Domino,
+in sequentibus describam.
+
+85
+00:14:42,815 --> 00:14:56,613
+Virtutibus clarus fit. S. Martini tumulum noctu visitat
+tabellas gerens. Terretur a daemonibus. 14. Nunc transcurram ocius ad contemptus rerum. Laudent ergo qui volunt expulsores daemonum,
+curatores cadaverum, caeterosque infamatos viros
+virtutibus.
+
+86
+00:14:56,613 --> 00:15:13,015
+Ego inter omnes exiguus, Odonis mei primam patientiae laudabo virtutem deinde contemptum rerum, post haec animarum lucrum, restaurationem coenobiorum, vestimentum cibumque monachorum, pacem Ecclesiarum, concordiam regum et principum, custodiam viarum omnium, instantiam mandatorum, perseverantiam
+
+87
+00:15:13,015 --> 00:15:26,647
+vigiliarum et orationum, respectus pauperum, correptionem juvenum, honorem senum, emendationem morum, amorem virginum, consolationem continentium, misericordiam miserorum, intemeratam observantiam regularum, ad postremum specimen omnium virtutum.
+
+88
+00:15:26,647 --> 00:15:38,671
+Conserebat in parvo locello tunc bonus Jesus ex
+diversis nemoribus monachorum paradisum, ex
+cujus irrigaret corda fidelium. Contentus denique
+parvula cellula, sublatusque ab oculis omnium, soli
+Deo placere festinabat.
+
+89
+00:15:38,671 --> 00:15:46,041
+Distractis pauperibus universis
+quae ad usum temporalem secum attulerat, secundum
+evangelicum praeceptum de crastino nihil
+cogitabat.
+
+90
+00:15:46,041 --> 00:16:02,665
+Noctu vero ab aspectibus se privabat hominum, et ad sepulcrum beati Martini orationis gratia solus ibat, quod videlicet ab eadem cellula duobus ferme millibus distabat: non collegae fultus latere, non bacilli corroboratus munimine, sed duas solum tabellas manu bajulans, scribendi officio aptissimas,
+
+91
+00:16:02,665 --> 00:16:08,982
+fabrili opere ita connexas, ut possent patefieri, non tamen disjungi, quibus scholastici dextro femore solent uti.
+
+92
+00:16:08,982 --> 00:16:19,787
+Sed bonorum hostis tales ei terrores
+inferre coepit. Ex lateribus namque viae undique
+egrediebantur vulpes, quae prius terga illius persequentes
+observabant, deinde in ejus faciem se
+objiciebant.
+
+93
+00:16:19,787 --> 00:16:29,207
+Sed cum ardentissimum a recto et proposito
+itinere vidissent se declinare non posse,
+gannitum dantes, et hianti ore super eum irruentes,
+minitabantur strangulare.
+
+94
+00:16:29,207 --> 00:16:35,822
+At ille nec aufugit, nec
+destitit: sed complicatis cruribus et contracto rigido
+collo, humeris se tantum et brachiis tuebatur.
+
+95
+00:16:35,822 --> 00:16:47,790
+Tradens
+denique eorum dentibus totum corpus, gulae
+solum cavebat lethalem morsum: et ecce repente
+rapidissimo cursu intervenit lupus, eumque ab eorum
+liberavit incursionibus, et deinceps illi comes
+est effectus atque domesticus.
+
+96
+00:16:47,790 --> 00:16:56,609
+Sed ne cui honestum
+vel grave esse videatur, legat vitam beati Pauli a
+beato Hieronymo descriptam; et ibi reperiet ejusdem
+viri sepulcrum a leonibus fuisse praeparatum.
+
+97
+00:16:56,609 --> 00:17:05,428
+Et si
+illi hoc unum exemplum nec sic satisfacere videtur,
+transeat ad beati Ammonis vitam, et ejus reperiet
+cellulam ob praedones fuisse a duobus draconibus
+custoditam.
+
+98
+00:17:05,428 --> 00:17:19,548
+Deinde revertamur ad eumdem praedictum
+Hieronymum, et transeat ad nostrum Florentium
+Nursinum, cujus vitam in dialogo suo beatus
+exposuit papa Gregorius: ibi reperies Hieronymum
+meruisse leonem habere custodem asinorum, et
+Florentium ferocem ursum ob custodiam pecorum.
+
+99
+00:17:19,548 --> 00:17:33,301
+Agebat autem extunc securior iter suum, et semper
+bone Jesu testimonia tua corde retinens tibique
+resultans, ore canebat dicens: Vere namque fidelis
+es, Domine, in verbis tuis, et sanctus in omnibus operibus
+tuis. Allevas omnes qui ruunt, et erigis omnes
+elisos.
+
+100
+00:17:33,301 --> 00:17:44,955
+Nam versa vice tuebatur lupus a comestione,
+quod aliquando comedere solet, et terrebat vulpes,
+a quo terreri solet. Quae ergo et tanquam invisibiliter
+diabolus contra eum sumpserit tentamenta,
+obsecro nullus a me requirat.
+
+101
+00:17:44,955 --> 00:17:54,613
+Ad fidem tamen probandae
+rei, quae potuisset per suggestionem invisibiliter
+tolerando sustinere, descriptum visibile bellum
+sufficere ad credulitatem posse arbitror omnibus
+legentibus.
+
+102
+00:17:54,613 --> 00:18:07,631
+Nocte vero cum orationis gratia egrederetur
+a praedicta qua manebat cellula, non claudebat
+post se ejusdem ostiola: propterea quia nihil perdere
+metuebat, nempe qui super humum nudam matta
+solum et quibus induebatur vestibus contentus
+erat.
+
+103
+00:18:07,631 --> 00:18:09,531
+S. Benedicti Regulam lectitat. 15.
+
+104
+00:18:09,531 --> 00:18:26,183
+Contigit interea dum diversorum librorum legeret volumina, ad beati Benedicti pervenisse regulam: et cursim eam cum vellet transire, impegit in eumdem locum, in quo praeceptum est monachis, ut dormire debeant vestiti (Reg. S. Bened., cap. 22); nam plane non intelligens eumdem sensum, per triennium
+
+105
+00:18:26,183 --> 00:18:29,927
+jacuit vestitus, et necdum monachus, monachorum lene ferebat jugum.
+
+106
+00:18:29,927 --> 00:18:40,655
+Istius sancti
+praecepta curabat obaudire, alterius vitam imitari
+cupiebat. Jaciebat enim tunc Dominus Jesus in rudi
+terra simplicia semina, ex qua providebat centuplicata
+recipere frumenta.
+
+107
+00:18:40,655 --> 00:18:51,781
+S. Odo corpore vegetus. 16. Sed hoc mirabile est, quia candor ipsius corporis
+non est immutatus a nigredine in qua jacebat
+humi, et virtus sui animi non fuit extenuata a longa
+continuatione jejunii.
+
+108
+00:18:51,781 --> 00:19:08,356
+Praeteritis namque his duobus annis, cum simul loca sanctorum, quae sunt intra et extra urbem Romam orationis causa frequentaremus, venerabilem ejus sexagenariam senectutem nostra non valebat juventus non solum praeire, verum etiam nec sequi: sed cum fatigati ut sibi nobisque parceret rogaremus
+
+109
+00:19:08,356 --> 00:19:11,221
+dicebat: Certe videtis quia omnem virtutem perdidi.
+
+110
+00:19:11,221 --> 00:19:17,514
+Longa enim senectus
+fecit me esse silicernium. Sunt ecce triginta anni,
+quod talis, qualem nunc me videtis, fui.
+
+111
+00:19:17,514 --> 00:19:29,707
+Ipse vero
+gemens suam nobis imbecillitatem tali modo pronuntiabat:
+nos vero cum magno attonitu ejus mirabamur
+virtutem, et non immerito: ut qui a corruptione
+non passus est vinci, a corruptela non debebatur
+prosterni.
+
+112
+00:19:29,707 --> 00:19:43,810
+Denique parvipendebat quidquid virtutis
+in se videbat: illud magnopere judicabat, si quid in
+alio videre poterat. Sustentabatur per idem infantiae
+suae tempus media panis libra et fabae pugillo, atque
+(quod est contra naturam Francorum) perparvo
+potu.
+
+113
+00:19:43,810 --> 00:20:00,385
+Deposita itaque omni corruptibili sarcina, nudo
+pectore, nuda miles Christi praecinctus ferebat arma. Videbatur ab omnibus rudis triunculus senum praeire
+euneos, et confidens in Christo gloriosam de hoste
+satagebat praedam reducere. Haec autem omnia apud
+ecclesiam beati Martini Turonis fiebant.
+
+114
+00:20:00,385 --> 00:20:10,948
+Est locus
+ille omnibus virtutibus fertilis, prodigiis mirabilis,
+divitiis uber, omnique religione praefulgens. Dignum
+namque est illum esse mirabilem, qui tantum meruit
+habitatorem habere.
+
+115
+00:20:10,948 --> 00:20:21,624
+Non enim martyr tantum
+aut confessor opimus, sed lux saeculi et gemma sacerdotum:
+ibique reges properant, diversarum gentium
+principes ibi cum muneribus et votis saepius
+frequentant.
+
+116
+00:20:21,624 --> 00:20:31,179
+Omnibus dat monita. 17. Contigit interea ut plurimi ex ipsis ad eum
+introirent visitandi gratia, cogniti ut notum reviserent,
+ignoti ut notum eum sibi facerent.
+
+117
+00:20:31,179 --> 00:20:47,364
+At
+ille, velut fons redundans, desiderantissima cunctis
+praebebat pocula, et, quasi ex aperta bibliotheca,
+omnibus congrua ministrabat exempla: huic castitatem
+indicens, illi sobrietatem imponens: hunc
+contemnere mundum docet, alterum ne alterius res
+concupiscat admonet.
+
+118
+00:20:47,364 --> 00:21:05,221
+Unicuique enim quaeque
+erant necessaria affluenter ministrabat; flebat miserrimum
+hunc mundum, et cito cum suis esse
+fatebatur amatoribus ruiturum. Admonebat itaque
+omnes vivere parce, et male concupita non amplecti;
+ventris penitus refrenare ingluviem, inquiens:
+Qui ventrem farcit, venerem nutrit.
+
+119
+00:21:05,221 --> 00:21:17,941
+Libidinosis
+praecipitium opponebat draconis, dicens:
+Heu miseros illos, quia tertiam partem stellarum
+post se trahit draco. Ebriosis et comestoribus dicebat:
+Nabuzardan princeps coquorum destruxit
+muros Jerusalem.
+
+120
+00:21:17,941 --> 00:21:34,126
+Mollibus et masculorum concubitoribus
+opponebat Herodis homicidium, et Scribae
+exsilium. Quanto, inquit, melior est anima corpore,
+tanto qui talia agit pejor Herode. Ille corpora interfecit,
+animas in coelo misit: hic corpora a Deo
+separat, animas aeterna morte trucidat.
+
+121
+00:21:34,126 --> 00:21:51,326
+Scriba
+vero qui probabat tirones, captivus ductus est in
+Aegyptum: hic enim post mortem ducendus est in
+infernum. Doctor itaque flebat praecipitium, et dicebat:
+Aspice, Domine, qui facta est desolata civitas
+plena divitiis; et rursum aiebat: Vae tibi
+Behemoth. nunquam desinis proh nefas.
+
+122
+00:21:51,326 --> 00:22:05,898
+Aurum
+tibi sternis ut lutum, et radii solis sub te sunt
+(Job XLI). Haec illi audientes, alius terrebatur conscius
+delicti sui, alius laetificabatur insons ab ejus
+consolationis verbo: et quasi ex uno promptuario
+diversi diversos sumebant cibos.
+
+123
+00:22:05,898 --> 00:22:20,231
+Testor Jesum,
+quia ex ore hominis nunquam audivi tantam dulcedinem
+sermonis. Complebatur in eo quod dicit
+Dominus in Evangelio: Simile est regnum coelorum
+homini patrifamilias, qui profert de thesauro suo
+nova et vetera (Matth XIII).
+
+124
+00:22:20,231 --> 00:22:28,200
+Itaque omnes divino
+sale conditi et coelesti ferculo satiati, gratias agentes
+ad propria remeabant.
+
+125
+00:22:28,200 --> 00:22:44,957
+Munera respuit. 18. Multa denique illi dona offerebant et munera:
+ex quibus ille nihil recipere volebat, quippe qui sua
+largissima distribuerat, ignorabat, quo pacto recipere
+posset aliena. Victus aliquando a praedicto suo
+domino, vellet nolletve, centum ab eo missos recepit
+solidos.
+
+126
+00:22:44,957 --> 00:22:56,640
+Sed miles Christi nec momento passus est
+eos apud se moram pati, atque, ut prius, mox eos
+indigentibus erogavit. Coepit interea alumnus cuneos
+praeire praeceptorum, et subsequentium fieri
+exemplum.
+
+127
+00:22:56,640 --> 00:23:13,200
+Parisiis studet. 19. His diebus abiit Parisius, ibique dialecticam
+sancti Augustini Deodato filio suo missam perlegit,
+et Martianum in liberalibus artibus frequenter lectitavit:
+praeceptorem quippe in his omnibus habuit
+Remigium ; quo peracto Turonicam remeavit.
+
+128
+00:23:13,200 --> 00:23:22,396
+Gregorii Moralia contrahit, viso Gregorio ad hoc
+animatus. 20. Per illud namque tempus rogatus est a fratribus
+se diligentibus, ut moralia beati Gregorii papae
+sub uno eis coarctaret volumine.
+
+129
+00:23:22,396 --> 00:23:33,029
+Ille autem professus
+est se haec minime facere posse, addens, etiamsi
+facultas agendi sibi adesset, tamen non debere haec
+agere, ne tanti viri laborem, tantique operis pretium
+aliter immutare, vel aliquid demere videretur.
+
+130
+00:23:33,029 --> 00:23:45,530
+Econtra illi opponebant antea succumbi, quam
+tanto labore sustineri, et satius esse judicabant funditus
+eum deserere et ad Scripturas reliquas transgredi,
+quam sub eo velut sub gravi mole interire. Quotidie namque apud eos de hac re non parva fiebat
+altercatio.
+
+131
+00:23:45,530 --> 00:23:56,786
+Ego tamen scio super hac re multos
+indignandos fore, et ad sedandos eos hanc libuit
+orationem inserere. Non enim fiebat istud propter
+arrogantiam, sed disponente Domino, ut supra montem
+poneretur lucerna, quae sub modio erat occultata.
+
+132
+00:23:56,786 --> 00:24:00,235
+In exemplum tamen subjunctae rei hoc quod
+diximus manifestius apparebit.
+
+133
+00:24:00,235 --> 00:24:13,550
+Illis videlicet persistentibus
+in hac petitione, factum est, ut quadam
+nocte domnus Odo intra ecclesiam domni Martini
+consuetae orationi insisteret: et ecce subito ei somnus
+obrepsit, viditque in eadem visione sanctorum
+chorum venientem desursum in eamdem eccelesiam
+descendere.
+
+134
+00:24:13,550 --> 00:24:24,231
+Et prius benedixerunt Dominum; deinde
+ordinatim in subselliis sederunt, atque post paululum
+unus eorum prosiliens in medium dixit: Quidnam
+est quod hoc in loco immoramur? Caeteri vero
+Gregorium papam exspectare se inquiunt.
+
+135
+00:24:24,231 --> 00:24:30,602
+Hoc audiens
+pater noster Odo, velut avidus indagator, coepit
+huc illucque circumspicere, quanam ex parte
+venientem eum posset videre.
+
+136
+00:24:30,602 --> 00:24:42,816
+Deinde, elevatis oculis
+sursum, quasi e coelo missum videt beatum Gregorium,
+sed ultra omnes qui praecesserant eum,
+vultu specieque et moribus persplendidum atque
+ornatum. Mox veniente illo omnes surgunt, et flexis
+cervicibus benedictionem petunt.
+
+137
+00:24:42,816 --> 00:24:52,131
+Ille vero non inter
+eos deorsum usque descendit, sed super ambonem
+ecclesiae substitit, et beatum Odonem terratenus
+prostratum vocavit inquiens; Surge, frater Odo,
+noli timere.
+
+138
+00:24:52,131 --> 00:25:05,468
+Qui cum surrexisset, vidit veluti more
+scriptoris super auriculam ejus haerentem pennam,
+et quasi doctoris magisterio productim acuminatam,
+et in summo fixam. Quam sumens beatus, eamque
+illi tradens ait. Age ergo securus, et perfice opus
+tibi indictum.
+
+139
+00:25:05,468 --> 00:25:20,976
+Quem vero composueris librum, non
+delebitur, meum autem stabit in aeternum. Et continuo
+evigilans, intellexit protinus quod viderat. Sumens dehinc volumen illud magnum, diligenter
+perlegit, et saniorem partem quam praevidit sub uno
+volumine composuit, et sic quidem murmurationem
+compescuit.
+
+140
+00:25:20,976 --> 00:25:35,573
+Fulconi comiti sanitatem obtinet; eum ad contemptum
+saeculi hortatur. 21. Factum est postmodum, ut praefatus comes
+Fulco de thesauris beati Martini, nescio quo pacto,
+tulerit duo vascula auri: sed chamo infrenatus avaritiae,
+dum ea reddere nollet, gravi plexus est ultione.
+
+141
+00:25:35,573 --> 00:25:48,513
+Ad mortem vero usque perductus, ad beati
+Martini se jubet portari sepulcrum: ibique quamplurima
+promittens munera, sed nec sic sanitatis
+recipiebat munera. Praeterea diutissime fatigatus
+adeo usque est defectus, ut mortis exspectaret exitium.
+
+142
+00:25:48,513 --> 00:26:01,186
+Ad quem cum domnus Odo visitandi gratia
+introisset, dixit illi: Redde, miser, vascula beati Martini
+quae infeliciter abstulisti, et protinus salvaberis. Ille autem et illa reddere, et alia spopondit conferre,
+si rei dictu fidem probaret.
+
+143
+00:26:01,186 --> 00:26:14,715
+Mox patris nostri et obsequentium
+manibus elevatus, ad corpus beati Martini
+perductus, terraque prostratus, nec moram pati
+potuit subsidium sibi promissum: sed qui venerat
+manibus, veluti latus vehiculo, recupertus artubus
+remeare coepit suis gressibus.
+
+144
+00:26:14,715 --> 00:26:29,794
+Siquidem ita factum
+est, ut ille correptus de caetero talia non committeret,
+et quae promiserat fideliter adimpleret. Coepit
+interea pater Odo eum admonere, ut relicto mundo
+hoc tantum satageret, quemadmodum soli Deo placeret. Ille autem respondit: Mihi ista modo suadere
+non potes.
+
+145
+00:26:29,794 --> 00:26:43,964
+Habeo tamen dilectissimum militem,
+Adhegrinum nomine, in armis strenuum, et in consilio
+providum, qui si te audierit, mox tuae voluntati
+obaudiens erit; quod ita sequenti tempore factum
+est. Intra paucos vero dies, omni recuperatus
+virtute, domum suam reversus est.
+
+146
+00:26:43,964 --> 00:26:55,728
+Confluentes ad
+eum undique ejus sanitati congratulantes, assumpto
+sermone, quae et quanta pertulisset, illis circumstantibus
+coepit exponere, addens insuper quam
+citatam virtutem in verbis domni Odonis comperisset.
+
+147
+00:26:55,728 --> 00:27:06,834
+Adhegrinum ad se trahit. Balmam petit Adhegrinus,
+ubi Euticii norma vigebat. 22. Unus autem ex assistentibus et auditor internus
+erat praedictus Adhegrinus, qui mox corde compunctus,
+dispositis omnibus quae possidebat concite
+rediit ad eum.
+
+148
+00:27:06,834 --> 00:27:20,023
+Deposita itaque capitis coma et saeculari
+militia, ex tunc Christi factus est agonista. Sumens igitur pater noster universa quae sibi ipsi ad
+temporalem usum tulerat, in sinibus pauperum erogavit,
+ut pridem de suis fecerat. Manserunt simul
+milites palatini parvissimo tugurio contenti.
+
+149
+00:27:20,023 --> 00:27:27,242
+Videntes
+denique mundum in maligno positum, et ejus
+amatores ruinosam et illecebris plenam tenere viam,
+quotidie ad monastica festinabant scandere fastigia.
+
+150
+00:27:27,242 --> 00:27:40,060
+Interea non fuit locus in Franciae finibus, ubi audierunt
+adfuisse monasterium, in quo aut per se non
+issent, aut suos perlustratores non misissent, et non
+invenientes religionis locum inter eos in quo
+requiescere possent, ad praedictum tugurium revertebantur
+cum magno dolore.
+
+151
+00:27:40,060 --> 00:27:47,603
+Ob hanc causam placuit
+Adhegrino Romam pergere. Arrepto tandem
+itinere, devenit in finibus Burgundiae, pervenitque
+in quamdam villam, quae Balma dicitur ex nomine.
+
+152
+00:27:47,603 --> 00:28:01,162
+In ea namque erat monasterium nuper a Bermone abbate constructum: devertitque illuc, et ab eo officiosissime secundum beati Benedicti intra domum hospitum est susceptus: ibique more hospitis aliquo tempore commorari voluit, non tamen ut eorum aliquo indigeret, sed ut mores habitantium locique
+
+153
+00:28:01,162 --> 00:28:02,643
+consuetudines posset cognoscere.
+
+154
+00:28:02,643 --> 00:28:13,056
+Fuerunt autem
+institutores ejusdem loci imitatores cujusdam patris
+Eutici: cujus vitae meritum conversationisve
+qualis fuerit, huic operi inserere nolui; obitum
+vero qualem meruerit, vestrae memoriae commendare
+curavi.
+
+155
+00:28:13,056 --> 00:28:22,215
+Quis Euticius Odo eodem se recipit ibique scholae
+praeficitur. 23. Fuit isdem vir temporibus Ludovici magni
+imperatoris, charus videlicet regi, omnibus quia
+amabilis.
+
+156
+00:28:22,215 --> 00:28:36,285
+Nam cum esset laicus, et peregrinis studiis
+eruditus, deserens ea unde superbire solet
+humana fragilitas, totum se dedit beatorum
+Patrum regulis et institutionibus; ex quibus nempe
+auctoritatibus diversas consuetudines sumpsit, unoque
+volumine colligavit.
+
+157
+00:28:36,285 --> 00:28:48,755
+Deinde non multo post monachus
+est effectus: et in tanto amore apud regem
+habitus, ut intra palatium illi construeret monasterium. Decurso enim vitae praesentis stadio, circumstantibus
+undique fratribus subito emisit spiritum.
+
+158
+00:28:48,755 --> 00:29:04,370
+Contigit interea dum discipulis pii patris pararentur
+exsequiae, ecce rediit vivus qui fuerat mortuus. Illis vero attonitis et admirantibus dixit pater Euticus
+: Deo gratias, sciatis, quia in his
+quadraginta annis unum tantum diem non memini me
+cibum sumpsisse, nisi prius flevissem.
+
+159
+00:29:04,370 --> 00:29:12,316
+Hodie namque
+sublato moerore consolatus est me Dominus, et inter
+choros angelorum tribuit mihi requietionis locum. Dicens haec quievit perpetue.
+
+160
+00:29:12,316 --> 00:29:23,130
+Ipse enim pater Euticus
+institutor fuit harum consuetudinum, quae hactenus
+in nostris monasteriis habentur: quas vir venerabilis
+Adhegrinus intuens, quantocius patri nostro Odoni
+curavit nuntiare.
+
+161
+00:29:23,130 --> 00:29:37,421
+At ille sumptis secum centum
+voluminibus librorum, mox ad idem demigravit
+monasterium: factus est ille qui antea fuerat secutor,
+postea signanus: Domnus vero Adhegrinus in
+unam se coarctavit cellulam: et permittente abbate
+Bernone, per triennium mansit in ea.
+
+162
+00:29:37,421 --> 00:29:44,208
+Nam patri
+Odoni, quia erat vir scholasticus, laboriosum scholae
+imposuerunt magisterium. Erat autem aetate
+tricenarius. 24.
+
+163
+00:29:44,208 --> 00:29:56,567
+Fateor, inquam, putavi vitam sanctissimi patris
+nostri simpliciter, cursimque transire: sed nostrum
+ingeniolum, veluti repugnator violentus, una
+cum ejus vita vult enarrare viros, quos intelligit
+habuisse hic socios.
+
+164
+00:29:56,567 --> 00:30:02,391
+Quapropter obsecro, ut quemadmodum
+me non piget sub tanto desudare labore,
+nec vobis videatur ad recipiendum onerosum vel
+grave.
+
+165
+00:30:02,391 --> 00:30:10,943
+Justum namque et bene placitum coram Deo
+esse videtur, ut eorum exempla ad ornatum locutionis
+cum sua describantur vita, quos ab hac
+peregrinatione suo felici portu transvexit ad patriam.
+
+166
+00:30:10,943 --> 00:30:20,525
+Adhegrini in eremo vita. 25. Venerabilis igitur Adhegrinus, cujus superius
+memoriam fecimus, sumpta postmodum licentia eremum
+petiit , ibique parva subarctatus est spelunca.
+
+167
+00:30:20,525 --> 00:30:37,029
+Contigit ut die quadam nimiis constrictus angustiis, cum nullus adesset, qui et consolationis verba, aut alicujus patris conferret exempla, ut ait Sapientia: Vae soli, quia si ceciderit, non habet qui porrigat ei manum (Eccl IV); more labentis gurgitis paulo minus ac desperationem usque descendit:
+
+168
+00:30:37,029 --> 00:30:46,555
+et ecce subito astitit, ei splendidissimus vir, quem blande, quid haberet interrogavit, aut cujus rei causa accidisset illi, quod quasi ad praecipitium se usque immergeret.
+
+169
+00:30:46,555 --> 00:31:01,066
+Respondit dicens: Ex quo enim tempore
+Domino incessanter coepi deservire, nullam
+consolationem aliquo modo ab eo merui accipere;
+qua de re coangustor vehementer, quia nescio si
+mea servitus illi placet, an si pro tanto labore recipere
+merebor quandoque mercedem.
+
+170
+00:31:01,066 --> 00:31:10,148
+Mox ille
+super collum ejus irruit, eumque osculans, crede,
+inquit, quia de bonis Domini unquam indignus
+non eris. Et consolatus eum iis verbis, abiens
+recessit. 26.
+
+171
+00:31:10,148 --> 00:31:22,001
+Alio iterum tempore casus se praebuit, ut extra
+cellam in quam manebat reciperet eum tentator:
+moxque in eum irruit, et supra immanissimae rupis
+praecipitium evexit, indeque eum omni cum annisu
+praecipitare voluit.
+
+172
+00:31:22,001 --> 00:31:28,259
+Sed quid ageret miles Christi,
+qui recto gressu illic stare nequibat? quomodo resistere
+posset prorsus ignorabat.
+
+173
+00:31:28,259 --> 00:31:42,215
+Verum cum in
+summo mortis articulo esset positus, subito illi adfuit
+beatus Martinus, apprehendensque manum ejus
+dixit ad eum: Quidnam est, et quomodo huc advenisti? At ille ait: Nescio, domine. Deinde confortans
+eum restituit in locum suum. 27.
+
+174
+00:31:42,215 --> 00:31:57,186
+Ante hoc fere quinquennium dum pater Odo Romam pergeret, ut monasterium intra ecclesiam beatissimi Pauli apostoli, ut olim fuerat, reaedificaret, cogente domno papa et universis ordinibus sacrae sedis, placuit animo suo prius dictum virum revisere, eumque de hac re consulere, ut fieret quod scriptum
+
+175
+00:31:57,186 --> 00:32:00,829
+est: Omnia fac cum consilio, et post factum non poenitebis (Eccli XXXII).
+
+176
+00:32:00,829 --> 00:32:11,857
+Interea factum est dum
+de hac re secum quaererent, et multa de spiritualibus
+rebus diu sermocinarentur, coepit eum pater Odo
+deprecari, ut quidquid sibi eo tempore divinitus
+revelatum fuisset, familiariter sibi conferret.
+
+177
+00:32:11,857 --> 00:32:26,578
+Recordatus denique domnus Adhegrinus sodalitatis antiquae, et mox inflammatus charitatis igne, respondit dicens: Illo die, illa hora, psalmodiae peracto cursu subito adfuit mihi beatus Martinus, cujus praeclara facies, et quasi assueta familiaritas post benedictionem, mox mihi dedit facultatem:
+
+178
+00:32:26,578 --> 00:32:31,369
+effatisque sermonibus aliquantulis, deinde percunctari eum coepi quo pergeret, aut unde veniret.
+
+179
+00:32:31,369 --> 00:32:44,443
+At ille respondit dicens:
+Roma venio, et proficiscor ad Franciam: ad te positus
+penes iter, visitationis gratia deverti. Deinde
+gratias agens, coepi eum obsecrare, ut quia dignatus
+est peccatorem visitare, dignaretur sub ejus tugurium
+vel ad modicum requiescere.
+
+180
+00:32:44,443 --> 00:32:58,765
+At ille: Hodie,
+inquit, ordinatio fit Ludovici Francorum regis,
+et ad ejus unctionem accelero interesse: et idcirco
+nullam patior moram habere. Ad haec ego respondi:
+Et si ita est ut abire velis, oro ut prius me benedicere
+digneris. At ille ait: Non, inquam, necesse
+habes benedici a me.
+
+181
+00:32:58,765 --> 00:33:01,160
+Olim quippe qui me benedixit,
+similiter et tibi.
+
+182
+00:33:01,160 --> 00:33:14,334
+Cumque incessanter eum urgerem
+ut me benediceret, mox ille quasi econtra subjunxit
+ut eum similiter benedicerem, affirmans insuper
+nullo modo se mihi acquiescere, nisi vicissitudinem
+benedictionis rependerem; qua de re non parva inter
+nos amica contentio orta est.
+
+183
+00:33:14,334 --> 00:33:18,575
+Ille vero quia nolebat,
+ideo contradicebat: ego autem, quia non praesumebam.
+
+184
+00:33:18,575 --> 00:33:24,631
+Unde factum est, ut, collata prius in
+invicem benedictione, mox recessit, abiens meque
+cum magno reliquit moerore.
+
+185
+00:33:24,631 --> 00:33:35,094
+Ad probandam tamen
+hujus rei fidem adfuit pater Odo fidelissimus arbiter,
+qui diem illum et horam annotari jussit, et ita postmodum
+omnia diligenter requirens, facta reperit, ut
+ipse praedixit. 28.
+
+186
+00:33:35,094 --> 00:33:50,923
+Sunt hactenus evoluti, nisi fallor, plus quam triginta anni, ex quo intra ipsam eremum deguit, Dominicis tantum diebus aut praecipuis festivitatibus ad monasterium sancti Petri, quod Cluniacum dicitur, quia duobus fere millibus prope est, assuevit descendere: sumpta videlicet modica farina, ex qua
+
+187
+00:33:50,923 --> 00:33:55,012
+sibi panem conficere solet, et fabae paucis granis, mox ad eremum revertitur.
+
+188
+00:33:55,012 --> 00:34:09,407
+Vino nec aliquando utebatur:
+adipe vero vel oleo ejus cibus non conditur. Patitur omni tempore frigus et calorem: calorem
+inter scapulas, frigus inter manus et brachia. Sed
+nos vitam prosequentes viri istius, quantocius ad
+propositum redeamus, a quo longe digressi sumus.
+
+189
+00:34:09,407 --> 00:34:24,119
+Sed rursum memini me promisisse vel prius patris
+Odonis patientiam exponere, quae est virtutum omnium
+fomes: deinde temporis augmentatione reliquas
+ejus virtutes diligenter enarrare. Idcirco auxiliante
+Domino, prout vires suppetunt, meam pollicitationem
+festinabo implere.
+
+190
+00:34:24,119 --> 00:34:40,205
+Odonem tentant falsi fratres. 29. Erant in eodem coenobio supradicto quidam
+fratres, quorum vitam moresque reperietis in sequenti
+narratione. Hi audientes quod domnus
+Odo conversationis gratia illuc venisset, accedunt
+ad eum simulantes, et qua causa ibi advenisset
+fingunt se interrogare.
+
+191
+00:34:40,205 --> 00:34:56,904
+Itaque cum ab eo de hoc quod sciscitabantur responsum accepissent, aiunt dicentes: Omnes nos quaerimus hanc congregationem fugere, ut possimus animas nostras salvas facere: et tu econtra tuam venis hic perdere? Quibus cum respondisset cur hoc dicerent, rursum adjiciunt: Nosti consuetudinem Bernonis
+
+192
+00:34:56,904 --> 00:34:58,803
+abbatis? At ille: Nusquam, inquit.
+
+193
+00:34:58,803 --> 00:35:13,156
+Et illi: Heu, heu, si sciretis
+quam dure scit ille monachum tractare. Correptionem
+vero suam sequuntur verbera, et rursum
+quos verberat compedibus ligat, domat carcere, jejuniis
+affligit: et haec omnia perpessus, nec sic suam
+potest miser impetrare gratiam.
+
+194
+00:35:13,156 --> 00:35:28,069
+Haec audiens domnus
+Odo, pedetentim titubare de ingressu coepit. Quem
+praedictus intuens Adhegrinus, mox prosiliens in medium
+inquit: Odo pater, noli trepidare; ista verba
+non sunt fantis, sed administrantis. Animadverte,
+et quia per eorum ora diabolus loquitur vide.
+
+195
+00:35:28,069 --> 00:35:35,050
+Mox
+illi confusi retrorsum redeunt. Pater namque Odo
+cum Adhegrino collega suo ad suavissimum Christi
+jugum colla submittunt.
+
+196
+00:35:35,050 --> 00:35:44,880
+Qua de re beatus Benedictus,
+quia erat praescius futurorum, in regularibus
+disciplinis praecepit (Reg cap 53), ut cum hospite
+nemo loquatur, nisi cui a priore fuerit concessum.
+
+197
+00:35:44,880 --> 00:36:01,579
+Quanti enim tali modo decepti ab initio sanctae conversationis retro sunt reversi, atque a calore interni desiderii ad torporem reversi sunt pravae voluntatis? et quamvis Scriptura dicat: Probate spiritus si ex Deo sunt (Joan IV), tamen probatio fidelium et quaerentium Dominum talis esse non debet,
+
+198
+00:36:01,579 --> 00:36:11,409
+videlicet cum Dominus per prophetam his qui Spiritus sancti calore igniti sunt, inquiens praecipiat: Vos qui in austro estis, accurrite his cum panibus qui ab aquilone veniunt.
+
+199
+00:36:11,855 --> 00:36:25,847
+Sed miles Christi sicut blandimenta
+non fuit amplexus, ita videlicet nec terroribus est
+concussus. De his autem talibus recte ita beatus
+Job loquitur: Maledicant ei qui maledicunt diei, qui
+parati sunt suscitare Leviathan (Job III).
+
+200
+00:36:25,847 --> 00:36:37,792
+Cluniacenses ritus praestringuuntur. 30. Libet interea patris nostri Odonis paulisper
+seorsum ponere vitam, ut in exponendo ejusdem
+loci consuetudines parum mihi aliquid liceat immorari,
+quatenus sequens lectio possit esse lucidior.
+
+201
+00:36:37,792 --> 00:36:52,825
+Mos enim ejusdem loci fuerat, ut magister scholae
+solus cum solo puero nec quoquam iret saltem, nec
+ad naturae digestionem, sed nec solus puer secretius
+illi loqui praesumeret: sed et propter bonum testimonium
+alium e pueris, aut unum ex fratribus in
+comitatu, vel locutione semper assumeret.
+
+202
+00:36:52,825 --> 00:37:00,239
+Si autem
+nox foret, et casu accidente secessum puer peteret,
+sine lucernae lumine et alio fratre extra dormitorium
+pedem non auderet protendere.
+
+203
+00:37:00,239 --> 00:37:15,118
+Tempore vero refectionis
+nunquam deerat lectio utrisque mensis:
+micas vero quae ex sectione panum fiebant, unusquisque
+ante se diligenter recolligens, priusquam
+lectio finiretur, cum gratiarum actione sumebant. Finita itaque lectione, nec eas, nec cibum alium
+sumere ultra aliquis audebat.
+
+204
+00:37:15,118 --> 00:37:25,312
+Has autem micas
+sacratiores aliis cibis esse fatebantur. Tale namque
+ferebant miraculum ex eis claruisse in eisdem
+annis. 31. Frater quidam in eodem monasterio fuit
+valde idoneus, et omnibus charus.
+
+205
+00:37:25,312 --> 00:37:40,706
+Qui ad mortem usque perveniens, circumstantibus fratribus qui ejus venerant orando commendare Domino spiritum, subito emissa voce clamavit dicens: Adjuvate, obsecro, domini, propter Deum; modo, inquit, sum raptus ad judicium, ibique protuli accusator humani generis diabolus contra me ad testimonium
+
+206
+00:37:40,706 --> 00:37:45,803
+de micis panum plenum sacculum, quas comedere secundum consuetudinem nolui, et de mensa ceciderunt.
+
+207
+00:37:45,803 --> 00:37:52,701
+Atque post
+pusillum iterum terribiliter clamare coepit et dicere:
+Ecce de quo dixi vobis adest diabolus, deferens praedictum
+sacculum.
+
+208
+00:37:52,701 --> 00:38:07,271
+Nam cum territi fratres mirarentur,
+adjecit rursum: Illo in loco adest, an non videtis
+eum? Deinde signo crucis totum se munivit, et
+inter verba orationis spiritum reddidit. Ab illo ergo
+die omni cum diligentia sunt collectae. 32. Est et alius inter eos taciturnitatis modus.
+
+209
+00:38:07,271 --> 00:38:19,753
+Incompetentibus namque horis nemo intra claustrum
+ejusdem monasterii audet loqui, nec se cum alio
+fratre jungere. Quando vero duodecim celebrantur
+lectiones , nullus intra praedictum claustrum,
+praeter ad capitulum, sequenti die loqui audet.
+
+210
+00:38:19,753 --> 00:38:28,609
+Octava enim Natalis Domini et ejus Resurrectionis
+summum silentium die noctuque fiebat in illis. Brevissimum
+quippe istud, illud significare fatebantur
+aeternum silentium.
+
+211
+00:38:28,609 --> 00:38:37,827
+Nam, quoties necessarias ad
+exposcendum res instabant, toties diversa in invicem
+fiebant ad perficiendum signa, quas puto grammatici
+digitorum et oculorum notas vocare voluerunt.
+
+212
+00:38:37,827 --> 00:38:49,842
+Adeo nempe inter eos excreverat ordo iste,
+ut puto si sine officio linguae essent, ad omnia necessaria
+significanda sufficere possent signa ipsa. At
+vero in quotidianis diebus et reliquis octavis sanctorum
+talis discretio tenebatur.
+
+213
+00:38:49,842 --> 00:39:03,359
+Etenim in quotidianis
+diebus, inter diei noctisque cursus, CXXXVIII canebant
+psalmos: ex quibus XIV nos dempsimus propter
+pusillanimorum animos, exceptis peculiaribus orationibus
+quas nostri frequentant fratres, quae videlicet
+modum psalterii videntur excedere.
+
+214
+00:39:03,359 --> 00:39:14,753
+Similiter
+duabus missis identidemque litaniis. Per singulas
+vero horas canonicas bis flectebant genua. In octavis
+quas diximus, LXXV tantum canebant inter praedictos
+cursus, et semel flectebant genua, et bis
+reficiebant.
+
+215
+00:39:14,753 --> 00:39:20,087
+Sunt namque alia quamplurima, quae
+arbitror propter fastidiosos lectores huic operi non
+inserere.
+
+216
+00:39:20,087 --> 00:39:31,999
+Odonis patientia probata. 33. Igitur Odo dum scholae magisterium assumeret,
+mox se tempus praebuit opportunum, quo ejus
+patientia probaretur. Adfuit nox, et ecce quidam
+de pueris signo secessum naturae petiit.
+
+217
+00:39:31,999 --> 00:39:44,423
+Erat autem
+ille locus adeo dormitorio conjunctus, ut lucerna
+quae ibi auctoritate regulari ardebat, perlustraret
+eum totum. Surgens itaque pater Odo, unum suscitans
+e pueris, illo tantum contentus lumine, cum eo
+abiit.
+
+218
+00:39:44,423 --> 00:39:55,993
+Altera autem die, ut mos est, convenientes
+ad capitulum fratres, Martyrologio et versu finito
+atque lectione Regulae, coeperunt illum graviter
+increpare, cur sine cereo transacta nocte post puerum
+isset.
+
+219
+00:39:55,993 --> 00:40:11,723
+Verum quia ante veniam nullus suam
+audet proferre causam, nec suam post veniam defendere
+sententiam; illico in terram corruens veniam
+petiit, sufficere, inquiens, sibi posse dormitorii
+lucem. Sed tamen ab illis non solum est auditus,
+verum econtra sub gravi culpa adjudicatus.
+
+220
+00:40:11,723 --> 00:40:25,686
+Vir
+denique beatissimus qui arrepto itinere angusto
+sequi venerat illum, qui cum pateretur, non comminabatur,
+non indignans, aut murmurans, nec obstantiae
+opponens querelas, sed momentaneos quaerens
+locos, terra prostratus veniam est deprecatus.
+
+221
+00:40:25,686 --> 00:40:34,520
+Abbas autem suus volens probare patientiam ejus,
+finxit se iratum, et protulit sententiam excommunicatione
+connexam, ut ea die ultra ei veniam non peteret.
+
+222
+00:40:34,520 --> 00:40:51,560
+Ille autem Davidicum illud in pectore volvens qui dicit: Ut jumentum factus sum apud te, et ero semper tecum (Psal LXXII); et rursum: Posuisti tribulationes in dorso nostro, imposuisti homines super capita nostra (Psal LXV); abiens provolutus fratrum pedibus, rogat ut eant, et vice sua eidem abbati
+
+223
+00:40:51,560 --> 00:40:53,498
+veniam petant; quod et factum est.
+
+224
+00:40:53,498 --> 00:41:09,285
+Tandem admirans
+Bernus abbas tantam in juvene patientiam,
+mox eum convocat, et more regulae ipsam
+commotionem benedictione sanat: atque posthinc
+charior factus est illi. 34. Erant autem fratres in eadem congregatione
+mente et actione juvenes, quorum superius mentionem
+fecimus.
+
+225
+00:41:09,285 --> 00:41:13,103
+Hi vero unde proficere debuerant, inde
+ad interitum ibant.
+
+226
+00:41:13,103 --> 00:41:19,259
+Nam quoties locum occasionemve
+reperire potuissent, diversas injurias et falsas
+increpationes ei objiciebant.
+
+227
+00:41:19,259 --> 00:41:32,247
+At vero vir pacificus
+Odo seorsum eos ducebat, et innocens quasi
+reus eorum pedibus se prosternebat veniam petens,
+non tamen metu humano, sed amore fraterno, nimirum
+ut patientia corrigeret quos videbat divinam incurrere
+ultionem.
+
+228
+00:41:32,247 --> 00:41:44,670
+Compescebantur tandem aliquando
+ab ejus patientia: sed more labentis aquae protinus ad
+propria revertebantur vitia. Illum namque quem
+imitari debuerant, econtra insequebantur. Princeps
+autem pestis hujus Guido dicebatur.
+
+229
+00:41:44,670 --> 00:42:00,820
+Saepius enim cum
+instigaret alter alium, ut ei convitiaretur; aiebat ille qui
+mittebatur: Quid prodest quotidie haec agere, cum non
+possimus eum nec fugare, nec ad contumeliam provocare? Tu enim nosti quia doctior est nobis. Hactenus
+enim quod ab eo discere volui, gratanter
+insinuavit.
+
+230
+00:42:00,820 --> 00:42:17,253
+Vereor, inquam, ne quandoque tantis
+injuriis confractus incipiat retrahere postmodum invitus,
+quod nunc sponte largitur. At ille: Non, ut
+asseris, ita est. Talis enim frater Odo est, ut non
+tantum ista aut similia, verum et pejora sustineat:
+atque post haec quod volueris gratanter impendat.
+
+231
+00:42:17,253 --> 00:42:33,911
+Siquidem post modicum tempus divina ultione perculsi
+sunt justo Dei judicio, quia non potuit eos
+compescere fraterna correptio. Defuncto namque
+Bernone, qui erat tunc ipsius monasterii pater, mox
+deposito religionis habitu ad saeculum reversi sunt,
+et teterrimum meruerunt postmodum obitum.
+
+232
+00:42:33,911 --> 00:42:47,446
+Miraculum de micis. Parentum conversio. 35. Sane et hoc miraculum eo tempore inibi
+factum fuisse pater noster narrare solet. Erat quidam
+in eadem congregatione frater tali usus consuetudine;
+nam, cum sederet ad mensam, totam mentem
+suam lectione praeoccupabat.
+
+233
+00:42:47,446 --> 00:42:59,835
+Die quadam contigit,
+ut collectis ex more micis, priusquam
+eas sumeret, abbas praefatus lectioni finem imponeret. Sed ille quid ageret prorsus ignorabat. Nam
+eas post finitam lectionem non audebat comedere,
+nec dimittere ne casu perirent.
+
+234
+00:42:59,835 --> 00:43:09,465
+Clauso vero pugillo
+dignum esse censuit, ut cum post versum essent regressi,
+reservandas fore patri monasterii. Factumque
+est, ut ab oratorio regressi, mox se pedibus prostravit
+patris.
+
+235
+00:43:09,465 --> 00:43:25,030
+Qui cum interrogaretur cur veniam peteret,
+et ille quod factum fuerat patula manu vellet
+ostendere, omnes praedictae micae in margaritarum
+species sunt conversae. Glorificantes igitur Dominum,
+mirabiliter stupefacti sunt. Deinde praecepto
+patris in quoddam ornamentum ipsius ecclesiae sunt
+intextae.
+
+236
+00:43:25,030 --> 00:43:35,337
+Ille autem de se, quasi de alio, haec solet
+recitare. Ex illo jam tempore coepit infra se ipsum
+aestuare propter genitorum suorum ereptionem,
+quatenus eos posset ab hujus saeculi nexibus subtrahere.
+
+237
+00:43:35,337 --> 00:43:49,079
+Unde factum est, ut non multo post accepta
+licentia ad patrem suum abiret, eumque ad monasterium
+duceret, atque monachum ordinaret; matrem
+vero indui fecit sacro velamine: cujus vitam
+quidem, si licuisset scribere, magis historia videretur
+esse quam schedula.
+
+238
+00:43:49,079 --> 00:43:51,564
+Odo desponsatae virginitatem persuadet. 36.
+
+239
+00:43:51,564 --> 00:44:08,377
+Factum est autem in illis diebus, cum quadam
+die jam sero divertisset quiescendi gratia in domum
+nobilissimi viri cujusdam, absentibus dominis, erat
+ibi eorum filia una cum familiis virgo jam adulta,
+quae videlicet nimis curiose per totam vesperam ejus
+actus considerare studuit atque vitam.
+
+240
+00:44:08,377 --> 00:44:21,203
+Deinde compuncto
+corde latenter per quoddam posticium irruit
+ad eum, ejusque prostrata pedibus, se ream cito
+nuptiis tradendam esse dicebat: addens ut propter
+Deum, cujus se fatebatur famulum, in eadem nocte
+liberaret eam.
+
+241
+00:44:21,203 --> 00:44:29,869
+Audiens haec Christi miles, cum ignoraret
+quid ageret, et quomodo tantae virginis voluntati
+satisfaceret, infra semetipsum coepit vehementer
+aestuare.
+
+242
+00:44:29,869 --> 00:44:46,739
+Pietatem in Deum suo more, pietatem
+supra virginis lacrymas habens, proponebat
+sibi judicium Dei animaeque illius interitum, rumoremque
+contra se parentum et populorum, quare
+talia praesumpsisset monachus. Sed amore Dei et
+virginis singultibus victus, tandem in ejus ereptione
+dedit assensum.
+
+243
+00:44:46,739 --> 00:44:59,912
+Nocte vero illa cum omnes famuli
+domus quiescerent, ille et frater qui cum eo erat,
+ascensis equis praecesserunt, jussuque suo famuli
+qui eum comitabantur, sumpta virgine secuti sunt. Altera vero die applicuerunt ad monasterium.
+
+244
+00:44:59,912 --> 00:45:15,049
+Erat
+autem prope ipsum monasterium oratorium constructum,
+ubi nobilissimae mulieres causa orationis
+recipiebantur, ibique eam manere constituit,
+deinde ad monasterium perrexit. Sequenti vero die,
+ut mos est, patri monasterii omnia quae gesserat
+studuit indicare.
+
+245
+00:45:15,049 --> 00:45:27,413
+Etenim cum ea quae de virgine gesserat
+audisset, turbato aspectu cur sine licentia haec
+agere praesumpsisset, graviter eum increpare coepit. Mox ille in terram proruit, ejusque pedibus provolutus
+veniam precabatur.
+
+246
+00:45:27,413 --> 00:45:41,279
+Post haec patris jussu a
+terra elevatus, post reiteratam interrogationem respondit
+dicens: Domine pater, ex quo me miserum
+suscipere es dignatus, inquantum considerare valui,
+nunquam tibi aliud curae fuit nisi de animabus
+lucrandis.
+
+247
+00:45:41,279 --> 00:45:55,562
+Nam caeteri abbates hoc student, qualiter
+rebus possint abundare, et hominibus placere. Tu
+vero pietate, misericordiaque fretus, soli Deo placere
+satagis propter lucrum animarum, qua de re
+imitator tuus desideravi esse, idcirco hanc virginem
+volui lucrari ad laudem tui nominis.
+
+248
+00:45:55,562 --> 00:46:06,813
+Quamvis enim
+me etiam tarde vincerent ipsius lacrymae, non sum
+tamen oblitus tuam increpationem, quam certissime
+sciebam me non posse evadere: sed malui potius
+pii patris flagello caedi, quam reus pro anima ejus
+teneri.
+
+249
+00:46:06,813 --> 00:46:15,650
+Et utinam omnes mulieres in hac provincia
+commorantes, quae carnali vinculo retinentur, potuissem
+lucrifacere, et tu me per singulas debuisses
+piissimo tuo more flagellare.
+
+250
+00:46:15,650 --> 00:46:29,933
+His et similibus verbis
+patris commotionem delinivit, sed tamen talem
+obedientiam ei protinus injunxit: Vade, et quemadmodum
+scisti eam de saeculo eruere, ita scias
+quotidie alere, ac sanctis monitis instruere, ne aliquando
+poeniteat, et revertatur suadente diabolo ad
+saeculum.
+
+251
+00:46:29,933 --> 00:46:44,318
+Coepitque pater Odo post haec per singulos
+dies cibum ei portare, et patrum praecedentium
+exemplis eam instruere, donec intra paucos dies
+eam ad quoddam monasterium duceret, ac sacris
+virginibus sociaret. Verumtamen haec omnia propter
+bonum testimonium praesentia fratrum fiebant.
+
+252
+00:46:44,318 --> 00:46:57,059
+Factum
+est non multo post ut ipsa dormitionem acciperet
+in Domino. Cumque circumdedissent eam sorores,
+ut ejus spiritum orando protegerent, et cum
+pene illam praemortuam tenerent, subito voce qua
+poterat coepit dicere: Adjuvate me, obsecro, levare.
+
+253
+00:46:57,059 --> 00:47:10,212
+Interrogantesque eam cur haec diceret, Ecce, ait,
+beatissimum Paulum apostolum video venientem,
+et illi volo occurrere. Necdum verba compleverat,
+et extendens brachia ut velocius surgeret, eadem
+verba rursus repetebat. Caeterae autem eam insanire
+putabant.
+
+254
+00:47:10,212 --> 00:47:22,079
+Interea inquantum potuit, supra genua se
+elevavit, et curvato capite benedictionem venienti
+petiit his verbis: Benedicite, et mox quievit perpetue. Qua de re nulli dubium fuit ab eo esse susceptam,
+a quo fuerat visitata. 37.
+
+255
+00:47:22,079 --> 00:47:28,923
+Praevidens itaque pater Bernus honestissimum
+virum fore futurum, promovit eum, et accersito
+episcopo sine suo velle consecrare eum fecit sacerdotem.
+
+256
+00:47:28,923 --> 00:47:38,263
+De quo videlicet episcopo narrare solet pater
+Odo, quia benedictum ab eo cibum nullus canis audebat
+comedere; quod si casu contigisset, mox canis
+moriebatur, veluti pro cibo aliquid gustasset
+venenosum.
+
+257
+00:47:38,263 --> 00:47:48,390
+Sed obsecro ut nullus me deroget pro
+eo quod dixerim, quia absque suo velle consecratus
+fuisset, ne forsitan qui hoc attentaverit facere, videatur
+ex illis esse qui donum sancti Spiritus emere,
+aut vendere non verentur.
+
+258
+00:47:48,390 --> 00:48:02,169
+Ea itaque nocte, quam suae ordinationis secuta fuerat dies, cum post noctis soporem evigilasset, et nec sui consecrationem meminisset, invenissetque circa collum suum (sicuti mos est) stolam ab episcopo sibi collatam, protinus se in lamentum dedit, velut magni ei aliquid accidisset mali, atque per
+
+259
+00:48:02,169 --> 00:48:06,423
+multum postea tempus prae nimio pudore nesciebat qua fronte extra monasterium posset egredi.
+
+260
+00:48:06,423 --> 00:48:18,076
+Unde factum est, ut ad eumdem
+episcopum pater Bernus mitteret eum reperta occasione
+quadam. Cumque episcopus ille pro sua maxime
+consolatione in longum sermonem de culmine
+sacerdotii traheret, contigit ut de statu ecclesiae sermo
+inter illos adfuisset.
+
+261
+00:48:18,076 --> 00:48:27,694
+Tunc pater Odo ex Jeremiae vaticinio
+flebilem illi de sacerdotibus coepit sermonem
+exponere: quo videlicet expleto, coepit ille episcopus
+rogare, ut eumdem sermonem ei describeret,
+et libelli more componeret.
+
+262
+00:48:27,694 --> 00:48:36,017
+Cui econtra Odo pater
+protulit regulam in qua continetur, quod absque licentia
+prioris nihil liceret monacho facere. At vero
+isdem episcopus ob hanc causam perrexit ad monasterium.
+
+263
+00:48:36,017 --> 00:48:46,559
+Et quia erat praedicti patris solidalis amicus,
+mox quod voluit obtinuit apud eum: deinde
+praecepto illius tres libellos composuit ex Jeremiae
+vaticinio, quorum videlicet textus per diversas jam
+ecclesias est translatus.
+
+264
+00:48:46,559 --> 00:49:00,458
+Odo abbas electus invite. 38. Per illud videlicet tempus exitiali languore
+coepit decumbere pater Bernus. Mox vicinos episcopos
+accersivit, et ab omni ordine se deposuit:
+insuper et flebili voce se reum indignumque tali
+ministerio proclamabat praefuisse.
+
+265
+00:49:00,458 --> 00:49:12,550
+Rogabat inter
+haec verba fratres, ut sibi quem vellent, patrem
+eligerent. Tunc manibus fratrum pater noster captus,
+et quasi violenter constrictus, ac proclamantibus
+omnibus ut ordinaretur, coram abbate suo vi
+est ductus.
+
+266
+00:49:12,550 --> 00:49:22,728
+Et cum nec sic vellet cedere, et locum
+pastoris subire; superatus est tandem episcoporum
+excommunicatione. Ordinatus itaque ille, intra
+modicum tempus pater Bernus migravit ad Dominum.
+
+267
+00:49:22,728 --> 00:49:24,264
+LIBER SECUNDUS.
+
+268
+00:49:24,264 --> 00:49:40,175
+S. Odo fratrum quorumdam turbas patitur. 1. Multis calamitatibus et crebris languoribus,
+pauca mihi licuit narrare de patre nostro Odone, et
+ea tantum quae gestit sub suo abbate: tamen vestra
+industria per haec facile comprehendere potest,
+a quanta ipse incoeperit perfectione.
+
+269
+00:49:40,175 --> 00:49:53,157
+Sed quia
+initium beatae vitae fert secum augustias et labores,
+finis vero certaminum gloriam et laudem; idcirco
+per ejus beatam vitam et quietam, quasi per directum
+tramitem, ad ejus obitum quantocius festitinabo
+transcurrere.
+
+270
+00:49:53,157 --> 00:49:58,959
+Igitur pater Odo electus et
+abba ordinatus, mox contra eum praedicti veterani
+persecutores insurgunt.
+
+271
+00:49:58,959 --> 00:50:15,216
+Ille autem malens locum
+dare et beate quiescere, quam contentiose vivere,
+derelicto eodem monasterio, et quaeque ibi fuerant
+a domno Bernone parata, atque ei paterno more
+tradita, abiit Cluniacum, et coeptum pridem
+perfecit monasterium. Secuti sunt autem eum seniores
+loci illius.
+
+272
+00:50:15,216 --> 00:50:27,757
+S. Martinum adjutorem experitur. 2. Per illud namque tempus defecit omnis sumptus,
+quem secum detulerat in construenda monasterii
+officina. Fiebant autem haec omnia circa
+beati Martini natalitia. Est autem consuetudo nostra
+octo dierum circulo celebrare eam.
+
+273
+00:50:27,757 --> 00:50:39,666
+Peracta
+itaque diei octavi celebritate matutina, et necdum
+illucescente aurora, omnes reversi sunt ad propria
+strata, requietionis potius quam dormitationis gratia:
+ferebatque pater noster cuidam vetulae personae
+talem revelatam fuisse visionem.
+
+274
+00:50:39,666 --> 00:50:51,381
+Aspiciebat, et
+ecce vir venerabilis canitie decoratus, stolaque
+splendida indutus, super quam pallio pluviali utebatur,
+et episcoporum more ferulam manu ferebat:
+qui proprius accedens, structuram ejus monasterii
+circumcirca inspicere coepit.
+
+275
+00:50:51,381 --> 00:51:02,853
+Quem cum
+interrogasset quis esset, aut cur hoc ipsum aedificium
+circumspiceret, ait ille: Ego sum, de quo
+fratres celebrant solemnitatem octavi diei; etenim
+visitare eos veni. Dicito illis ne deficiant, sed in
+incoepto opere persistant.
+
+276
+00:51:02,853 --> 00:51:10,290
+Ad haec subjunxit persona
+illa, quia defecisset omnis sumptus quem secum detulerat. Ac ille: Ne timeant, inquit. Ecce nunc a Roma
+venio et Turoniam vado.
+
+277
+00:51:10,290 --> 00:51:23,171
+Iter autem meum per Gutiam
+Aquitaniamque faciam, et ex his partibus tantum
+eis pensum mandabo, ut eis hoc tempore affluenter
+abundet, et longo post perseveret. Laeti ergo fratres,
+et de tanti viri promissione securi, omni cum hilaritate
+Deo gratias coeperunt agere.
+
+278
+00:51:23,171 --> 00:51:36,831
+Cujus autem
+haec persona fuerit, profiteri non audeo, quia patris
+nostri mos fuit, ut deliberative suam personam nunquam
+ascriberet: sed si magni aliquid vidisset vel
+parvi, tali modo quod viderat dicebat. Unus ex nostris
+fratribus, aut quaedam vetula persona hoc vidit,
+vel illud.
+
+279
+00:51:36,831 --> 00:51:45,192
+Nam quoties haec mihi retulit, toties
+mihi professus est, post hanc revelationem intra
+dies paucos ex finibus Gutiae plusquam tria millia
+ibi delatos fuisse solidos.
+
+280
+00:51:45,192 --> 00:51:58,335
+Tanta namque et talia sub
+tali specie mihi narrare solitus erat, quae apud coenobium
+sancti Benedicti, quod dicitur Floriacum,
+gesta fuerunt, simili modo et apud Cluniacum;
+quae si auderem ad liquidum exarare, libelli modus
+ultra dictatoris se facultatulam extenderet.
+
+281
+00:51:58,335 --> 00:52:05,986
+Sed
+ecce dum beati Martini fidelissimam promissionem
+enucleatius adimpletam narramus, subito ad mentem
+recurrit ferarum bestiarum non perparvum adminiculum.
+
+282
+00:52:05,986 --> 00:52:20,258
+Quod fortassis descriptum quibusdam legentibus incutiet risum: sed quia spectaculum facti sumus angelis et hominibus, hi qui nos imitari dedignantur, aut nequeunt, habeant de nobis saltim excussum, videntes nos proficere a bonis in melioribus: ac tandem relinquentes lugubrem vitam, omni cum
+
+283
+00:52:20,258 --> 00:52:22,268
+exsultatione sequantur in aeterna gaudia.
+
+284
+00:52:22,416 --> 00:52:38,017
+Cluniacensis ecclesiae dedicatio. 3. Igitur constructo monasterii oratorio eunt
+fratres, invitantque episcopum, uti mos est, ad sacrandum
+eumdem locum. Ille autem parvipendens
+monachorum paupertatem, constituto die venit
+stipatus cuneis, fultusque ministris.
+
+285
+00:52:38,017 --> 00:52:52,833
+Quorum adventu
+cognito fratres nimio confundebantur pudore,
+non habentes tam dignum apparatum, quo eos possent
+honeste recipere. Mane autem illo instante
+crepusculo, ecce immanissimus aper de silva egressus
+festinanter properabat ad monasterium.
+
+286
+00:52:52,833 --> 00:53:01,903
+Quem
+videns ecclesiae custos, et quia erat foras monasterium,
+meditans de ornatu loci illius, in ecclesiam
+fugiens ejusque fores contra eum obseravit.
+
+287
+00:53:01,903 --> 00:53:11,700
+Ille
+autem obmissa feritate, ut ingrediendi aditum a
+quovis concederetur, praedictas regias diutius pulsavit,
+atque oris sui spuma, quo adhaerere potuit,
+linivit.
+
+288
+00:53:11,700 --> 00:53:29,781
+Revera cum nullus adesset qui ei ob timorem aperiret, tandiu ibi stetit, quousque episcopus cum suis venit: quibus se sponte occidendum praebuit, impleta voce psalmographi qui dicit: Timentes Dominum non minuentur omni bono (Psal III); et iterum: Non confundentur in tempore malo, et in diebus famis
+
+289
+00:53:29,781 --> 00:53:31,353
+saturabuntur (Psal XXXVI).
+
+290
+00:53:31,656 --> 00:53:43,425
+Odonis charitas in pauperes. 4. Vere enim aliquando pater Odo confessus
+est, quia semper habuit unde fratres sustentaret,
+et quod pauperibus largiretur. Nusquam enim
+a misericordiae suae sinu pauper unquam recessit
+vacuus.
+
+291
+00:53:43,425 --> 00:53:56,891
+Quoties enim cum eo abii, semper unde
+sustentarentur pauperes si haberemus, diligenter
+requisivit: deinde quia si omnia nobis forent necessaria,
+jam securus processit nihil haesitans, et
+quia se omnibus petentibus dabat, Dei nutu cuncta
+ei suppeditabant.
+
+292
+00:53:56,891 --> 00:54:10,888
+Illud Tobiae praeceptum semper
+habebat in promptu: Vide ne avertas faciem tuam
+ab illo tempore, et omni petenti te tribue (Tob IV). Si quis vero attulisset ei aliquod munus, et pauper
+videretur habitu, mox interrogabat eum quid vellet,
+aut si aliquid ab eo egeret.
+
+293
+00:54:10,888 --> 00:54:19,529
+Si enim quiddam
+peteret, statim aequa lance munus illud aestimabat
+quantum valeret, et duplum illi praecipiebat dare;
+quod saepius in multis rebus vidi eum facere.
+
+294
+00:54:19,529 --> 00:54:32,518
+Fateor
+peccatum meum, quia frequenter in talibus fui contristatus;
+et quia eram prior, quasi compatiens
+loci paupertati, et praevidens opportunitatibus fratrum,
+veluti sub praetextu inopiae dicebam ei injustum
+esse sic omnia indiscrete tribuere.
+
+295
+00:54:32,518 --> 00:54:46,886
+Ego enim
+putabam scienter agere, sed magis insipientiae obvolutus
+caligine a tenacitatis potius strangulabar mucrone. Ille autem, quia erat peritissimus medicus
+animarum, quodammodo manu discretionis pulsum
+mei tangebat erroris, et hoc exemplo vulnus meae
+curabat mentis.
+
+296
+00:54:46,886 --> 00:54:49,378
+Aiebat ad haec mihi: Tace, malo
+tuo haec dicis.
+
+297
+00:54:49,378 --> 00:55:05,282
+Fuit quidam juvenis, et erat deditus litterarum studiis, qui nocte quadam hiemis tempore, dum ad Matutinos agiliter pergeret, ut inter condiscipulos maturius adesset, vidit in atrio ipsius ecclesiae pauperem seminudum jacere, cujus compassus penuriae exuit se scapulam, qua superindutus erat, et usui
+
+298
+00:55:05,282 --> 00:55:06,979
+pauperis eam transiens projecit.
+
+299
+00:55:06,979 --> 00:55:15,144
+Considerans quod fecit, idcirco metum rigoris
+procul a se avertit. Finita itaque laude matutina,
+totus jam rigidus ad suam reversus est cellulam.
+
+300
+00:55:15,144 --> 00:55:30,762
+Sed cum congelata membra voluisset lectulo tradere
+ut calefacerent, libram auri super suum reperit
+stratulum, ac deinceps quod suo usui retineret, et
+quod aliis tribueret habuit affluenter. Ego tamen
+ignoro de quo ista dicebat. His et similibus exemplis
+cataplasmabat vulnus meae pravitatis. 5.
+
+301
+00:55:30,762 --> 00:55:40,802
+Vellem ad alia transire: sed miserationes ejus
+multae compellunt me scribere, et iterum de ejus
+largitate plenius sermonem facere. Attamen scio
+quia absque meo pudore hoc nequibo adimplere.
+
+302
+00:55:40,802 --> 00:55:51,373
+Ego tamen scribam, et gladium increpationis in
+memet infigam, ac dehinc culpas meas omnibus
+pandam, ut si ei modo, quia recessit, haec confiteri
+non valeo, saltem vos apud eum intercessores obtinebo.
+
+303
+00:55:51,373 --> 00:56:02,689
+In suo enim itinere quosque circa viam pueros
+reperiebat, cantare eos quiddam cogebat: et
+quasi eorum ludum remunerans, aliquid eis de suis
+rebus praecipiebat dari. Dignos eos esse dicebat remuneratione
+non parva.
+
+304
+00:56:02,689 --> 00:56:14,429
+Ille vero ut nos sua jocunditate
+laetificaret, et illos misericordiae visceribus
+reficeret, ista et his similia dicebat. Verba enim sua
+omni exsultatione erant plena; locutio vero sua prae
+nimio gaudio ridere nos cogebat.
+
+305
+00:56:14,429 --> 00:56:28,772
+Sed ille habenas
+moderationis manu tenens, mox capitulum Regulae
+nobis opponebat dicens (Reg S Ben cap 4 7):
+Risum multum aut excussum non amare; et iterum:
+Monachus non sit facilis aut promptus in risu, quia
+scriptum est: Stultus in risu exaltat vocem suam (Eccli XXI).
+
+306
+00:56:28,772 --> 00:56:44,549
+Isto namque et simili modo nos cohibebat a
+risu; sed spiritualis ejus hilaritas internum gaudium
+nostro cordi inserebat. Sed ego indignus quid
+de eo digne dicere potero, aut quid enarrare de
+tanto gaudio? Revera cum menti nostrae aliter nequibamus
+satisfacere, vestimenta ejus osculabamur
+occulte.
+
+307
+00:56:44,549 --> 00:57:00,168
+Sed quid mirum de nobis, qui indesinenter
+adhaerebamus illi? Enimvero quando ecclesiam sancti
+Petri intrabat, Dei famuli et qui illuc oraturi
+ascendebant, hinc inde exeuntes post eum cursitabant,
+et birrum quo tegebatur more cappae, per
+extremitatem fimbriae apprehendentes osculabantur.
+
+308
+00:57:00,168 --> 00:57:05,189
+Ille autem concito gressu ibat ceu fugiens, et ipsi
+eum sequebantur veluti persecutores.
+
+309
+00:57:05,189 --> 00:57:22,250
+Erat enim velut lapis angularis quadrus, angelicus videlicet et humanus, largus et gratus, ut quotidie ab eo compleri videretur hoc quod in psalmo legitur: Jucundus homo qui miseretur et commodat (Psal III), et caetera; et rursum sicut ait apostolus Paulus: Hilarem enim datorem diligit Deus (II Cor
+
+310
+00:57:22,250 --> 00:57:22,479
+IX).
+
+311
+00:57:22,479 --> 00:57:31,323
+Caecos
+nempe et claudos paradisi asserebat futuros fore
+ostiarios; ideo nullus deberet eos pellere a sua
+domo, ne paradisi eis portas clauderent in futuro.
+
+312
+00:57:31,323 --> 00:57:48,385
+Quod si fortassis aliquis e nostris famulis non ferens eorum improbitatem, aliquid mutum responderet eis aspere, aut mox illis assueta beneficia non conferret, sive eis accessum ostii nostri papilionis denegaret, statim comminando increpabat eum graviter; deinde illo astante vocabat pauperem, eique
+
+313
+00:57:48,385 --> 00:57:52,893
+praecipiebat dicens: Cum venerit iste ad portam paradisi, talionem retribue ei.
+
+314
+00:57:52,893 --> 00:57:58,656
+Hoc autem
+dicebat ut eos terreret, ne similia amplius facerint,
+et charitatis affectu eos informaret.
+
+315
+00:57:58,656 --> 00:58:12,922
+Si autem secus
+viam (ut saepius fieri solet) anum reperisset aut debilem,
+statim de suo equo descendebat, et eum desuper
+sedere faciebat, imperans eminus omnes praecedere,
+praecipiebatque adhaerere ei aliquem e famulis,
+qui eum contineret ne caderet.
+
+316
+00:58:12,922 --> 00:58:18,457
+Ille vero inter
+nos equitantes incedebat pedester, ac semper psallens
+cogebat nos psallere secum.
+
+317
+00:58:18,457 --> 00:58:31,296
+Quod si pro pudore,
+aut illius timore aliquis vellet descendere, protinus
+imperabat illi, ut quo sedebat sederet, sciens
+eum pro ejus reverentia, non enim pro paupere id
+facere velle; nam saepius vidi eum hoc facere.
+
+318
+00:58:31,296 --> 00:58:32,332
+Odonis Romanum iter. 6.
+
+319
+00:58:32,332 --> 00:58:45,759
+Illo enim tempore quo cum Geraldo Regiensis ecclesiae (l'Eglise de Riez) episcopo Cotias transivimus Alpes, et Romam venimus pariter, memini eum de quadam muliere daemoniaca hoc fecisse, quae statim reddita est sanitati, et una nobiscum usque Senam (Sienne) venit, ibique dissenterico morbo infirma
+
+320
+00:58:45,759 --> 00:58:46,164
+remansit.
+
+321
+00:58:46,164 --> 00:58:58,420
+Postea namque apud sanctum
+Paulum simul eam Romae vidimus, cui mox signo
+denarium dari praecepit. Illa vero cum sedens verecundaretur,
+curvato capite, defixis in terram
+luminibus, quae esset illa mulier interrogavi. Ille
+autem respondens: Illa est, inquit, talis ac talis.
+
+322
+00:58:58,420 --> 00:59:11,396
+Signa mihi dicens, qualiter eam possem facilius
+recognoscere. In ipso namque itinere vetulus quidam
+et debilis praedictas Alpes nobiscum simul
+transiebat. Erat autem oneratus sacculo pleno panibus
+et alliis, caepisque ac porris, quarum videlicet
+herbarum fetores ego minime poteram ferre.
+
+323
+00:59:11,396 --> 00:59:21,129
+Sed
+pius pater illico ut eum vidit, more suo super
+equum suum sedere fecit, sibique praedictum imposuit
+fetidissimum sacculum. Ego autem tantum
+fetorem non ferens, ab ejus quem comitabar latere
+retraho longius pedem.
+
+324
+00:59:21,129 --> 00:59:32,618
+Peracto itaque eminentioris
+Alpis arctissimo itinere, ad declivum montis incipientes
+descendere, conspexi eum eminus astantem,
+suumque cogente paupere equum superascendere. Praedictum namque sacculum nec tunc pauperi
+reddidit, sed artioni sellae appendit.
+
+325
+00:59:32,618 --> 00:59:41,900
+Ego autem eos
+qui me praecesserant antecedebam, et ut appropinquarem
+illi, ocius et verecundans ibam. Et post
+pusillum cum venissem ad eum, dixit mihi: Accede,
+quoniam supersunt psalmi quos debemus cantare.
+
+326
+00:59:41,900 --> 00:59:55,372
+Cui cum ego respondissem, quod fetorem illius sacci ferre non possem, protinus increpavit me dicens: Heu me! pauper illud quod tibi fetet, potest comedere, tu ejus non potes ferre odorem! Pauper enim potest portare, tu eum dicis te non posse videre! Hoc autem dicebat de se, qui verus Christi pauper
+
+327
+00:59:55,372 --> 00:59:55,598
+erat.
+
+328
+00:59:55,598 --> 01:00:00,960
+His et similibus verbis me increpavit,
+et odoratum meum ita curavit, ut ipsum
+fetorem denuo nunquam sentirem.
+
+329
+01:00:00,960 --> 01:00:14,584
+Aliud Odonis Romanum iter pro pace. Januario et
+Februario. 7. Sub idem tempus Italiam missi sumus a Leone
+summo pontifice, ut pacis legatione fungeremur
+inter Hugonem Longobardorum regem, et Albericum
+Romanae urbis principem. Post nonnulla vero
+discrimina venimus tandem Senam.
+
+330
+01:00:14,584 --> 01:00:23,388
+Patiebatur autem
+famis penuriam ipsa civitas. Affuerunt autem
+nobis in profectu tanti periculosi itineris fere triginta
+solidi argentei, ex quibus pars maxima jam
+distributa erat.
+
+331
+01:00:23,388 --> 01:00:37,357
+Ego enim recolens consuetudinem
+illius, quia nihil sibi nostrove reservabat usui, metuens
+ne nos et quique nostri fame deficeremus, si
+deesset ex quo omnium emeretur cibus, sumpsi
+quod supererat de praedictis solidis, et latenter ab
+eo discessi, atque eo ignorante civitatem transivi.
+
+332
+01:00:37,357 --> 01:00:52,113
+Illo autem introeunte civitatem, occurrerunt egentes
+assueta beneficia deposcentes. At ille, circumspectis
+omnibus, dum me non vidit, protinus quod gesseram
+intellexit. Sciebat enim, quanquam praesto non
+essem, non tamen longius fore: idcirco innuit omnibus
+manu ut eum sequerentur; quod et fecerunt.
+
+333
+01:00:52,113 --> 01:01:04,852
+Vidit igitur dum transiret civitatis plateam tres
+viros, sed quadam honestate comptos, quae eos ab
+improbitate egendi alienos reddebat: attamen et
+eidem penuriae dediti fuerant. Istis namque et istam
+dedit occasionem, ut suae benedictionis participes
+fierent.
+
+334
+01:01:04,852 --> 01:01:18,722
+Erant ante ostia domus eorum positae singulae
+scutulae lauri baccis plenae. Statim unum ex
+eis interrogavit, praedictas lauri baccas quanti venderent
+pretii. At ille ignoro quid vile dixit; cui
+pater noster respondit: Tace, noli dicere pretium
+quod dixisti, sed dic tantos denarios.
+
+335
+01:01:18,722 --> 01:01:24,723
+Ille vero ita
+fecit: protinus vero mutuo tot accepit denarios, et
+sic eos sub praetextu pretii sua benedictione muneravit.
+
+336
+01:01:24,723 --> 01:01:37,512
+Interea dum ego ejus observarem egressus,
+vidi illum venientem post pusillum a longe, ac quasi
+praecinctus miles ad bellum incedebat stipatus cuneis
+pauperum: sed tamen tanta repletus exsultatione,
+ut eo salutato more nostro, vix posset me
+rebenedicere.
+
+337
+01:01:37,512 --> 01:01:53,739
+Deinde finxi me interrogare, qui essent
+qui eum ambiebant incedentes, vel quid quaererent. At ille: Isti sunt, inquit, domestici Dei et
+laboratores nostri. Ergo accelera, et redde illis
+mercedem. Hoc peracto rursum interrogavi eum,
+quid sibi opus essent tantae lauri baccae, aut unde
+eas tulisset.
+
+338
+01:01:53,739 --> 01:02:08,054
+Ille autem coepit nobis tanta et talia
+verba dicere, quanta et qualia nunquam audivi ab
+ineunte aetate, nec spero me ultra audire. Adeo
+enim omnes exhilaravit, ut prae nimio gaudio ne
+quis ex nostris suas lacrymas posset continere, ut
+valeret alter alteri loqui.
+
+339
+01:02:08,054 --> 01:02:22,150
+Necdum fuerant tersae
+tanti lacrymae gaudii, conquiniscens ejus paternitati
+coepi eum rogare, ut baccarum illarum sarcina nos
+non oneraret, sed venditoribus eas remitteret. At
+ille, non, inquit, faciam, quoniam vereor ne fortassis
+post nos pretium remittant.
+
+340
+01:02:22,150 --> 01:02:33,624
+Vix tandem id
+obtinere potui, videlicet ostendendo illi sequestrationem
+loci et longinquitatem itineris jam peracti. Ipsa vero die praedixit mihi priorem fore futurum,
+et multa alia quae mihi postea acciderunt.
+
+341
+01:02:33,624 --> 01:02:45,317
+Deinde
+coepit me instruere, quemadmodum inter caeteras
+virtutes patientiam deberem obtinere; atque a se
+ipso exordium sumens coepit exponere, quanta et
+qualia ordinationis suae tempore a suis fratribus
+pertulisset.
+
+342
+01:02:45,317 --> 01:02:50,289
+Quod sane nunc non expedit scribere
+propter sanctissimam eorum postmodum conversationem. 8.
+
+343
+01:02:50,289 --> 01:03:05,095
+Necdum peracto itinere, et antea quam funditus
+nostra defecisset pecunia, obvium habuimus fratrem
+nostrum Petrum presbyterum, qui tunc conversationis
+gratia Romam veniebat: ex cujus substantia
+nostra ditata est inopia, quia ab eo sumpsimus
+ex quo iter nostrum perfecimus.
+
+344
+01:03:05,095 --> 01:03:11,379
+Fiebat autem istud
+duobus mensibus, Januario videlicet atque Februario. Fuit autem iter nostrum per Ammiates Alpes.
+
+345
+01:03:11,379 --> 01:03:22,416
+Tanta
+namque inundatio nivis illis diebus effluxit, ut agnitionem
+nobis olim cogniti auferret itineris: et ita
+omnium replebat sinus, ut frigescentibus artubus
+etiam loquendi modulos perderemus.
+
+346
+01:03:22,416 --> 01:03:31,951
+Cumque senilia
+ejus membra tabescere cernerem, feci ei agilem tunicam,
+quae ejus posset tueri et calefacere penetralia. Peracta itaque legatione, a nostratibus coacti sumus,
+ut per maritimas reverteremur fines.
+
+347
+01:03:31,951 --> 01:03:41,667
+Factum est autem
+cum venissemus ad locum, qui vulgo Burrianum
+vocatur, jam sole Oceanum tegente obvium habuimus
+seminudum pauperem cujus ego speciem, sicut
+tunc considerare non potui, ita nec postea recolere
+valui.
+
+348
+01:03:41,667 --> 01:03:46,616
+Hoc tamen reminiscor, quia nudis plantis, nudatisque
+lateribus immensitatem ipsius nivis calcabat
+intrepidus.
+
+349
+01:03:46,616 --> 01:03:56,242
+Cui cum pater noster appropinquasset,
+gressum fixit, et omnes se praecedere compulit,
+et mox se exspoliavit, et pauperem operuit, mihique
+praecepit tantum ei pretium superimpendere, unde
+possit iter suum implere.
+
+350
+01:03:56,242 --> 01:04:04,506
+Tunc paulisper substiti, et
+eum quo iret interrogavi, sciens in vastam solitudinem
+divertendi locum non esse. At ille inquit, ad
+pastorale se castrum persistente die posse pervenire.
+
+351
+01:04:04,506 --> 01:04:17,810
+Ex cujus nempe verbis compertus sum, quod ille qui
+apparuit, non fuisset homo purus, quia illud itineris
+spatium quod se sub una hora pollicitus est peracturum,
+nos pene per totum diei spatium vix peregimus;
+cujus rei factum mihi terribili visione antecedenti
+nocte eodem ordine fuit ostensum.
+
+352
+01:04:17,810 --> 01:04:30,024
+Adeo enim sinus
+illius dilatatus est misericordiae, ut non solum fidelibus
+ista faceret, verum etiam persecutoribus suis
+manus aperiret et palmas extenderet. De quo et istud
+vobis retexam exemplum cui rei interfuit frater
+Firmus, Domini Balduini abbatis germanus.
+
+353
+01:04:30,024 --> 01:04:33,533
+Odonis sollicitudo pro pace; charitas in rusticum sibi
+infestum. 9.
+
+354
+01:04:33,533 --> 01:04:48,723
+Tempore praeterito dum Romuleam urbem ob inimicitiam Alberici jam fati principis praedictus Hugo rex obsideret, coepit ille intra extraque discurrere, et pacis concordiaeque monita inter utrosque disseminare, quatenus posset furorem praedicti regis sedare, et praedictam urbem tueri a tanta
+
+355
+01:04:48,723 --> 01:04:49,247
+obsidione.
+
+356
+01:04:49,247 --> 01:04:58,256
+Interea quadam die dum juxta monasterium
+beati Andreae apostoli iret, quod ad clivum Scauri
+dicitur ex nomine, quidam rusticus voluit eum propter
+lagunculam aquae occidere.
+
+357
+01:04:58,256 --> 01:05:08,418
+Etenim, sicut Scritura
+dicit: Qui ambulat simpliciter, ambulat confidenter
+(Prov X 9), more suo nulli nocens, nihilque
+suspicans curvato incedebat capite. Intantum enim
+apud eum usus inoleverat.
+
+358
+01:05:08,418 --> 01:05:20,780
+Regulae (Regula S. Bened.,
+cap. 7), ut ubicunque esset, sive stans, sive ambulans,
+aut sedens semper curvato capite, defixisque
+terram luminibus incederet; qua de re a quibusdam
+conversationis suae tempore Fossorium ludendo vocatus
+est.
+
+359
+01:05:20,780 --> 01:05:35,027
+Factum est autem dum praedictus rusticus
+ictu caput illius appeteret, omnes qui juxta viam
+aderant, emissis vocibus percutientis attraxerunt
+manus. Tunc dulcissimus pater: Ne fallar, ignoro
+quot denarios accepit mutuo, eique bonum pro malo
+reddidit, et foederatum dimisit.
+
+360
+01:05:35,027 --> 01:05:45,504
+Sed postquam ad
+praedicti principis aures hoc pervenit, amputare manus
+ejus voluit. Quo audito domnus abbas Odo obnixius
+ne fieret exoravit, et rusticum illum incolumem
+atque indemnem absolvit.
+
+361
+01:05:45,504 --> 01:05:55,391
+Item in furem. Silentii religio
+10. Multorum sane et vestris auribus diffamatum
+est illud, quod cuidam latroni pater noster dudum
+Romam veniens fecerit; quod magis libet mihi describere
+ne aboleatur, quam ut vestrae industriae insinuetur.
+
+362
+01:05:55,391 --> 01:06:01,706
+Persistente itaque illo orationis gratia intra
+civitatem, visum fuit omnibus, ut frater noster domnus
+Gothefredus super pastores equorum iret in campum.
+
+363
+01:06:01,706 --> 01:06:08,976
+Factum est autem, ut in sequenti nocte, cum
+gravati somno pastores obdormissent, et ipse pervigil
+orationi insisteret, fur adfuit, raptumque equum
+ascendit, et fugam arripuit.
+
+364
+01:06:08,976 --> 01:06:18,448
+Praedictus vero frater
+maluit equum perdere, quam silentium rumpere;
+quod videlicet si fecisset, protinus fur equum dimitteret. Hoc tamen fecit: abiit, et tactu unum e pastoribus
+suscitavit, eique quod contigerat signo
+ostendit.
+
+365
+01:06:18,448 --> 01:06:22,353
+Peracta itaque nocte et facto mane, viderunt
+furem eminus uno affixum loco super equum sedere.
+
+366
+01:06:22,353 --> 01:06:31,908
+Quem apprehendentes, vinctum eum patri nostro
+miserunt, statimque ei quinque argenteos solidos
+dare praecepit, dicens injustum esse eum absque
+digna mercede dimittere, eo quod per totius noctis
+spatium multum sustinuisset laborem.
+
+367
+01:06:31,908 --> 01:06:44,081
+Sed enim postquam Deo trahente ad monasticam perveni vitam, ac dehinc per incrementa temporum prior a fratribus sum electus; saepe fratres nostri furem illum mihi annotarunt: et quia erat filius nostri molendinarii, quoties pater ejus fratrum voluntati contraibat, toties me praedictos solidos
+
+368
+01:06:44,081 --> 01:06:44,829
+repetere cogebant.
+
+369
+01:06:44,829 --> 01:06:54,716
+11. Quia de actu silentii sermo se intulit, sine quo
+videlicet ducenda est pro nihilo vita monachi, restat
+ut retro redeamus, et per eum aliquantulum pervagemus. Vita enim monachi usque adeo est aliquid,
+donec sub silentio esse studuerit.
+
+370
+01:06:54,716 --> 01:06:59,328
+Eo vero remoto,
+quidquid bene vel honeste se agere putaverit secundum
+institutionem Patrum nihil erit.
+
+371
+01:06:59,328 --> 01:07:00,306
+Exemplum insigne. 12.
+
+372
+01:07:00,306 --> 01:07:14,102
+Tempore igitur quo saevissima gens Nortmannorum, Pictavorum atque Turonorum fines cruentis devastabat gladiis, contigit ut duo venerabiles viri ex eadem congregatione, nescio qua de causa, mitterentur Turoniam: Unus eorum Archembalbus vocabatur, mihique bene notus: alter vero ignotus, et dicitur
+
+373
+01:07:14,102 --> 01:07:18,017
+Adalasius; viri nempe opinatissimi, et multorum monachorum patres nunc sunt effecti.
+
+374
+01:07:18,017 --> 01:07:25,009
+Factum
+est igitur dum tantum iter carperent, et in quemdam
+locum requietionis gratia divertissent taliter ab
+eisdem Nortmannis capti sunt eadem nocte.
+
+375
+01:07:25,009 --> 01:07:34,097
+Erat
+autem quoddam oppidum secus locum, super quod
+noctu irruentes ceperunt, alia vero Nortmannorum
+pars quae ibat, cum pridem capta praeda devenit in
+eumdem locum in quo praedicti fratres erant.
+
+376
+01:07:34,097 --> 01:07:43,605
+Capere
+namque eos et ligare eorum manus, deinde minare
+potuerunt, sed eorum silentium rumpere nequiverunt. Mane autem facto applicuerunt in assignatum
+locum, in quo sibi congregandi posuerant constitutum.
+
+377
+01:07:43,605 --> 01:07:55,351
+Praedicti vero fratres paululum se ab eis sequestraverunt,
+et, sicut erant ligati, in terra se super
+facies suas dederunt, quatenus peracto psalmorum
+cursu silentio finem imponerent. Nondum
+enim oratione completa, venit pars reliqua capta
+multa praeda.
+
+378
+01:07:55,351 --> 01:08:04,579
+Inveniens itaque dux eorum praedictos
+fratres in terram jacere, interrogavit qui essent. At
+illi retulerunt ei omnia quae gesserant per ordinem,
+addentes quod nullo modo potuissent eos loqui
+facere.
+
+379
+01:08:04,579 --> 01:08:15,206
+Ille itaque quia erat barbarica immanitate
+turgidus, ob nimiam elationem cum eodem in quo
+residebat phalerato equo inclinato velut ad feriendum
+conto, irruit super eos, metum mortis eis incutiens,
+volens eos probare an timerent.
+
+380
+01:08:15,206 --> 01:08:20,379
+Caeterum vulgus
+undique quod confluxerat ad hoc spectaculum vociferantes
+barbarico ritu plausum dabant manibus.
+
+381
+01:08:20,379 --> 01:08:31,752
+At
+illi ut erant animo constantes, ita et corpore permanserunt
+immobiles: et hoc non aliqua fiebat apud
+eos in delusione, sed jure observantiaque sanctae
+regulae, sub qua videlicet cupiebant mori et vivere,
+nunquamque ab ea declinare.
+
+382
+01:08:31,752 --> 01:08:46,120
+Sed Omnipotentis manus
+eorum exhilaratum spectaculum protinus convertit
+in luctum. Mox ut ad eos barbarus appropinquavit,
+equus in quo residebat in obliquum, resilivit,
+sessoremque suum in terram stravit atque collisit. Quam collisionem statim febris lethalis secuta est.
+
+383
+01:08:46,120 --> 01:09:00,701
+Conticuerunt omnes et versi in stuporem coeperunt
+quaerere inter se, quid ex iis facere deberent. Reperto
+tandem consilio, barbarico ritu dignum esse
+censuerunt, ut pro vita ducis sui unus ex eis caederetur. Deinde coeperunt sorte quaerere, quem ex illis
+deberent interimere.
+
+384
+01:09:00,701 --> 01:09:15,440
+Sed super virtutum viros et
+sorti Christi connumeratos diabolica nullo modo
+poterat cadere sors. Obstupescebant itaque super
+eos et admirantes dicebant, ultra homines esse,
+super quos sors eorum non potuisset cadere. Siquidem
+juxta hunc modum interemerant unum ex famulis
+eorum.
+
+385
+01:09:15,440 --> 01:09:25,885
+Alter vero famulus qui supererat,
+optime sciebat hostium linguam, qui eis omnia quae
+loquebantur latino eloquio clam indicabat. Et hunc
+credimus consolatorem hominum salvasse ob eorum
+revelationem.
+
+386
+01:09:25,885 --> 01:09:36,595
+Tunc accedentes ad eos, velociter corum
+manus dissolverunt, atque pro vita ducis sui
+obnixius eos per interpretem rogare coeperunt: et
+ita demum factum est, ut eos nunquam ligare postea
+praesumpsissent.
+
+387
+01:09:36,595 --> 01:09:44,442
+Sed et hoc fuit mirabile, quia unus
+ex praedictis fratribus ferebat auream crucem circa
+collum, et hanc cum reperissent, non praesumpserunt
+auferre.
+
+388
+01:09:44,442 --> 01:10:00,242
+Cibo vero quo voluerunt et potu apud eos usi sunt, quo usque inter eos fuerunt: sic enim completum est in eis illud probatissimum gaudium quod patientiam operatur, de quo ait Apostolus: Non solum autem sed et gloriamur in tribulationibus scientes quod tribulatio patientiam operatur, patientia vero
+
+389
+01:10:00,242 --> 01:10:00,507
+spem.
+
+390
+01:10:00,507 --> 01:10:12,808
+Spes autem non confundit, quia charitas
+Dei diffusa est in cordibus nostris (Rom V). Et nunc
+igitur quique monastica fertis indumenta, obsecro
+ut una mecum horum virorum intueamini exempla,
+et silentio tandem aliquando detis operam.
+
+391
+01:10:12,808 --> 01:10:16,944
+De hoc
+namque bono silentio Isaias: In silentio erit vobis
+spes (Isa.
+
+392
+01:10:16,944 --> 01:10:34,951
+XXX); et Jeremias: Bonum est cum silentio praestolari Dominum (Thren I); et rursum: Bonum est viro cum ab adolescentia sua portaverit jugum, sedebit solitarius et tacebit, quia elevavit se super se (Thren III 27). Similiter et David de eo inquiens proclamat: Dixi custodiam vias meas ut non delinquam
+
+393
+01:10:34,951 --> 01:10:52,898
+in lingua mea. Posui ori meo custodiam (Psal XXXVIII); et caetera; et apostolus Paulus: His autem qui hujusmodi sunt denuntiamus et obsecramus in Domino Jesu, ut cum silentio operantes panem suum manducent (II Thess III). Diximus ista de antiquis vatibus, ut nullus arbitretur hoc silentium modernis
+
+394
+01:10:52,898 --> 01:11:10,785
+temporibus fuisse inventum, sicut quidam male suspicantes fatentur. Hos namque et Novi Testamenti Patres, Paulus, Antonius, Hilarion, Joannes, ad postremum beatissimus pater Benedictus imitati sunt, et alii quamplurimi, quos nominatim propter quorumdam fastidium minime recensemus: quorum videlicet
+
+395
+01:11:10,785 --> 01:11:28,492
+silentium, si quis studiose exquirere voluerit, in eorum catalogo affatim reperire poterit. Ergo ut nobis quilibet non opponat quietem in qua degnerunt solitudinis, his omissis noster stylus totus se convertat ad institutionem evangelistarum et de operibus Domini Jesu sumat exordium. 13. Primum
+
+396
+01:11:28,492 --> 01:11:46,379
+quidem testimonium in Matthaeo habemus: Jussit, inquit, Jesus discipulos suos ascendere in naviculam et praecedere eum trans fretum, donec dimitteret turbas. Et demissa turba ascendit in montem solus orare (Matth XIV). Secundum in Marco: Coegit Jesus discipulos suos ascendere navem ut praecederent
+
+397
+01:11:46,379 --> 01:12:04,207
+eum trans fretum ad Bethsaidam dum ipse dimitteret populum, et dum dimisisset eos, abiit in montem orare (Marc VI). Tertium in Luca ita continens: Factum est in illis diebus, exiit Jesus in montem solus orare et erat pernoctans in oratione Dei (Luc VI). Item in eodem: Vigilate itaque omni tempore
+
+398
+01:12:04,207 --> 01:12:15,911
+orantes ut digni habeamini fugere omnia ista quae futura sunt et stare ante Filium hominis. Erat autem diebus docens in templo: noctibus vero exiens morabatur in monte qui vocabatur Oliveti (Luc.
+
+399
+01:12:16,272 --> 01:12:33,619
+XXI). Quartum namque testimonium in Joanne hujusmodi terminatur: Jesus autem perrexit in montem Oliveti et diluculo iterum venit in templum (Joan VIII). Si enim Verbum Dei et Creator carnis, dum conversaretur cum hominibus et vitae praedicaret Evangelium, ad tempus siluit, quid nobis agendum sit
+
+400
+01:12:33,619 --> 01:12:51,083
+facilius comprehendere potestis; videlicet cum mors et vita in manu linguae sit posita (Prov XVIII), et cum Scriptura dicat: In multiloquio non effugies peccatum (Prov X), et: Vir linguosus non dirigetur super terram (Psal CXXXIX). Si enim praedicti fratres cum caederentur atque vincti minarentur,
+
+401
+01:12:51,083 --> 01:13:08,430
+voce silentium rumpere non passi sunt, eum imitantes, de quo scriptum est: Sicut ovis ad occisionem ductus est, et quasi agnus coram tondente se sine voce, sic non aperuit os suum (Isa LIII); hi vero qui nullam vim patiuntur, nec a quovis coacti, sed sua sponte regulae jura transgrediuntur, quid
+
+402
+01:13:08,430 --> 01:13:25,367
+dicturi erunt simul positi ad judicium, cum utrorumque causa in conspectu Dei et angelorum examinabitur? De qua examinatione sancta Ecclesia per beatum Job terribiliter clamat dicens: Instauras testes tuos contra me (Job X 17). Semper enim in his gravissime ultio plectitur, qui per testes
+
+403
+01:13:25,367 --> 01:13:37,733
+convincuntur. Et illi maledictum legis percipiunt, qui ea quae legis sunt sciunt et ab ejus mandatis temere declinare non metuunt. De quibus Psalmista ait: Maledicti qui declinant a mandatis tuis (Psal CXVIII) .
+
+404
+01:13:37,968 --> 01:13:51,548
+Fratribus infirmis aegre medicinam indulget. 14. Erant itaque in nostra congregatione duo
+fratres, quorum nomina huic operi non libet intexere,
+qui pro sua gravissima infirmitate crebrius
+eum assueverant orare, ut medicinae illis remedia
+adhibere juberet, praesumentes de sanitate.
+
+405
+01:13:51,548 --> 01:14:05,659
+At ille
+non ferens eorum improbitatem, consensit voluntati
+eorum: petitoque medicamine licentiam tribuit, sed
+prius eos convocans sub similitudine quadam dixit
+illis hoc paradigma. Vidi aliquando fratrem simili
+vestro vulnere cruciatum et prius mortuum quam
+pristinae sit sanitati restitutus.
+
+406
+01:14:05,659 --> 01:14:11,217
+At illi nihil de se
+suspicantes adhibuerunt sibi medicum: sed post
+sedulos cruciatus, sanitatem nunquam receperunt.
+
+407
+01:14:11,217 --> 01:14:21,463
+Scio et alium fratrem, qui tempore suae conversionis
+dum studeret praeteritas flendo delictorum tergere
+maculas, caetera reliquit studia, noctu dieque orationi,
+compunctioni et lamentationi incessanter desudabat.
+
+408
+01:14:21,463 --> 01:14:35,526
+Cumque eum pertissimus pater requisisset, cur praesto cum aliis ad docendum vel discendum non esset; veritatem retulit ei, et occulta cordis sui patule revelavit, atque ut sibi hoc perficiendi daret licentiam exoravit, sciens pro certo secundum institutionem Regulae (cap 49), quia quod sine
+
+409
+01:14:35,526 --> 01:14:40,359
+permissione patris spiritualis monachus agit, praesumptioni deputatur et vanae gloriae, non mercedi.
+
+410
+01:14:40,359 --> 01:14:53,166
+Cui pater
+noster ait: Restat ut uno vel amplius tempore iste
+Spiritus discedat a te, quo mens tua stimulis saucietur
+vanae gloriae. Mox frater ille praedictam perdidit
+compunctionem, et vix post medii anni spatium eam
+rursum exorando patrem nostrum meruit recipere.
+
+411
+01:14:53,166 --> 01:14:59,304
+Sua namque verba miro gravitatis pondere plena
+erant; quia vir sanctus repletus sancto flamine incassum
+loqui nesciebat.
+
+412
+01:14:59,304 --> 01:15:15,433
+Joanni episcopatum praedicit. 15. Praeteritis his diebus coram nostris fratribus
+et aliis qui aderant nobiscum, retulit domnus Joannes,
+Nolanae Ecclesiae episcopus, quod ante hoc
+triennium bis Romam isset, et praedicti episcopatus
+benedictionem resistentibus inimicis nequivisset accipere.
+
+413
+01:15:15,433 --> 01:15:21,517
+Interea domnus Odo orationis gratia Garganum
+ibat. Cumque vidisset eum tristem, sciscitavit
+eum quid haberet.
+
+414
+01:15:21,517 --> 01:15:35,526
+Cui ille cum omnia quae sibi aderant
+retulisset, et quia quasi spe desolatus accipiendi
+ordinem pontificatus confundebatur tertio
+Romam reverti; benedixit ei, et dixit: Perge iterum
+securus, et scias quia complevit Deus votum tuum:
+deinde dimisit eum.
+
+415
+01:15:35,526 --> 01:15:49,200
+At ille accepta benedictione
+abiit, et infra spatium quindecim dierum, sicut pater
+noster praedixerat, illi advenit. Qua de re indubitanter
+proferimus, vir iste prophetiae spiritum
+veraciter habuit, cujus verba tanta sunt auctoritate
+firmata.
+
+416
+01:15:49,200 --> 01:16:00,109
+Nepoti baptismum obtinet. 16. Meminisse vos volo, fratres, quod praeterito anno
+ille peregrinus qui se de familia patris nostri esse
+fatebatur, et Jerosolymam ascendere festinabat,
+coram vobis de patre nostro bis terque narravit.
+
+417
+01:16:00,109 --> 01:16:11,828
+Aiebat enim, quod idem annis quibus Nortmannorum
+gens Turoniae devastabat fines, die quodam contigit
+ut nepotem domni Odonis, necdum renatum fonte
+baptismatis, una cum nutrice sua caperent praedicti
+Nortmanni. Erat autem Turonis praedictus pater.
+
+418
+01:16:11,828 --> 01:16:18,116
+Cumque hoc ei ibi nuntiatum fuisset, mox ille orationi
+incubuit, et tandiu Dominum oravit, quo usque
+liberatum puerum esse cognovit.
+
+419
+01:16:18,116 --> 01:16:30,216
+Non enim potius
+de illo quam de caeteris dolebat captivis, sed pro
+ejus anima gravissime laborabat, timens ne aliquo
+casu sine lavacro fontis puer et ejus anima gehennae
+traderetur. Sed inter caetera non sunt praetereunda
+illa quae nutrix pueri narrabat.
+
+420
+01:16:30,216 --> 01:16:43,126
+Locus, ait, ille ad
+quem captivi ducti fuerant, ultra quoddam flumen
+erat, cujus tanta inerat profunditas, ut nullus illud
+aliter nisi navigio, aut natatu posset transire. Distabat
+autem a Turonia spatium itineris octo dierum. Jam vero revisendi puerum spes frustrabatur.
+
+421
+01:16:43,126 --> 01:16:54,893
+Stante
+itaque muliere in ipso discrimine, subito inspirata
+est Dei flamine, ut arriperet puerum et abiret;
+quod et fecit. Etenim tam secura per medium hostium
+transivit catervas, ut non solum ab aliquo fuisset
+retenta, verum etiam nec interrogata.
+
+422
+01:16:54,893 --> 01:17:03,467
+Profunditatem
+vero tanti fluminis siccis cruribus transivit, et
+longinquitatem tanti itineris triduo peregit, non esuriens,
+neque sitiens, aut lassescens, donec Turonis
+perveniret.
+
+423
+01:17:03,467 --> 01:17:16,473
+Hoc vero factum cujus fuisset meriti
+statim claruit, quia mox, ut puer patri nostro delatus
+fuit, sacro eum fecit baptismate tingi. Deinde
+elevatis in coelum oculis ut moreretur oravit, atque
+dehinc post triduum coelo reddidit spiritum. Pater
+vero ejus factus est monachus.
+
+424
+01:17:16,473 --> 01:17:24,000
+Quae vero sequuntur,
+ipse beatus pater exposuit, non tamen ut a se vel
+pro se facta fuissent, sed de quibus eum Dominus
+periculis liberasset narrabat.
+
+425
+01:17:24,000 --> 01:17:38,309
+Naufragium evadit. 17. Quodam tempore dum Rhodani alveum navigio
+transiret, comitantibus illum optimatibus regionis
+illius, contigit, ut dum unus equus alium vellet calce
+percutere, ictum ferientis navigii tabula excepit, illo
+videlicet loco, ex quo ramus fuerat cum dolaretur
+excisus.
+
+426
+01:17:38,309 --> 01:17:51,113
+Mox ut evulsus fuit vertex, tanta per idem
+foramen inundatio ingressa est aquae, ut subito repleretur
+navis usque ad superficiem. Sic tamen plena
+Deo gubernante ad aliam pervenit ripam. Etenim
+usque adeo pater Odo intro stetit, quo omnes fuissent
+egressi.
+
+427
+01:17:51,113 --> 01:18:03,264
+Ad postremum cum fuisset ille egressus,
+navis abiit in profundum. Qua in re videlicet cujus
+meriti vir iste fuerit perspicue claret, qui hoc suis
+obtinere valuit precibus, quod prius meruerunt
+Petrus et Paulus, dein pater noster Benedictus.
+
+428
+01:18:03,264 --> 01:18:16,736
+Item praecipitium. 18. Sub eodem tempore competit illi Romam
+orationis gratia venire: sed non multo post dum
+patriam reverteretur, inter Burdonum Alpes ob nivis
+immensitatem praeoccupatum et septum est ejus
+iter, qua videlicet mons ille nullo unquam tempore
+potest carere.
+
+429
+01:18:16,736 --> 01:18:31,545
+Secus autem locum illum habitat
+quoddam genus hominum, qui Marrones vocantur,
+et arbitror ex Marronea provincia illud
+nomen traxisse originem. Hi enim accepta mercede
+praebuerunt ei ducatum, sicut et aliis facere consueverunt,
+quia aliter hiemis tempore nemo quidem
+praedictos montes valet transire.
+
+430
+01:18:31,545 --> 01:18:37,588
+Nam, antequam sol
+lucis terminum clauderet, illud quod supererat diei
+spatium versum est a multitudine nivis in caliginem.
+
+431
+01:18:37,588 --> 01:18:47,197
+Sed illis proficiscentibus ut praeterirent tetrum et
+periculosum locum illum, subito equus super quem
+sedebat pater noster, tetendit pedem in obliquum,
+et ambo simul mergebantur in praecipitium.
+
+432
+01:18:47,197 --> 01:18:59,034
+Tunc
+pater Odo, relictis habenis, ambas manus dum caderet
+ad coelum erexit, et mox ramum arboris inter
+brachia sua reperit, atque in eo usque adeo se suspendit,
+donec ejus clamoribus qui praecesserant
+reversi fuissent, et eum suscepissent.
+
+433
+01:18:59,034 --> 01:19:05,424
+Ramus autem
+ille amplius non fuit visus, quia arbor illic nunquam
+videtur, nec nascitur, equus vero ultra nusquam
+comparuit.
+
+434
+01:19:05,424 --> 01:19:19,744
+Item latrones. 19. Revera cum pro pace regum et principum,
+necnon et correctione monasteriorum impatienti
+amore arderet, et ob hoc huc illucque discurreret,
+saepe ei latrones insidias paravere. Quadam namque
+die quadraginta super eum insurrexerunt latrones.
+
+435
+01:19:19,744 --> 01:19:36,127
+Cumque unus ex eis qui erat insignior caeteris,
+Aimon nomine, vidisset eum, fratresque qui comitabantur
+illum incessanter psallere, ac psallendo
+iter peragere, illico compunctus corde dixit sociis
+suis: Nunquam memini tales viros vidisse, nec puto
+alicubi visi fuissent; discedamus ergo ab eis.
+
+436
+01:19:36,127 --> 01:19:49,334
+Est et
+quidam armiger cum eis, videlicet strenuus vir, et
+ideo absque nostro periculo non possumus nocere
+illis. Cui respondentes dixerunt: Armigerum illum
+in acumine lanceae nostrae levemus, caeteros autem
+exspoliantes abire dimittamus.
+
+437
+01:19:49,334 --> 01:20:04,992
+Ad haec respondit
+ille: Prius in me arma convertite, alioquin me vivente
+nihil eis habetis facere. Sicque invicem sunt
+divisi et ad propria reversi. Latro itaque quem praediximus
+post patrem nostrum abiit, et reatus sui
+poenitentiam egit, ac dehinc a latrocinii pravitate
+cessavit.
+
+438
+01:20:04,992 --> 01:20:18,644
+Sed non ab re hoc censemus factum fuisse. Tanta enim spiritus cui adhaeserat eum repleverat
+gratia, ut ejus jocunditas non solum jocundos exhilararet,
+verum etiam et moestos verae laetitiae redderet,
+et perennis exsultationis participes faceret.
+
+439
+01:20:18,644 --> 01:20:27,672
+Lingua enim ejus, ut Scriptura canit, lignum vitae
+et lingua placabilis ac dulcedo mellis favus distillans
+labia ejus et lex prudentiae in sermonibus illius.
+
+440
+01:20:27,672 --> 01:20:44,011
+Latronem suscepit ad monachatum, qui religiose
+vivens, a beata Maria in coelum vocatus est. 20. Quodam namque die iter habens juxta praedonum
+fines, quidam latro juvenis intuens vultus
+ejus affabilitatem, illico compunctus corde ejus
+provolutus vestigiis, ut sibi misereretur humili precabatur
+voce.
+
+441
+01:20:44,011 --> 01:20:59,421
+Quem cum interrogaret quid vellet,
+monastica sibi deprecabatur subveniri miseratione. Deinde interrogavit eum pater noster, si aliquis ex
+eadem parochia eum cognosceret. At ille: Omnes,
+inquit. Vade, ait, hodie, et crastino duc tecum
+unum ex prioribus loci illius cum veneris ad me.
+
+442
+01:20:59,421 --> 01:21:13,028
+Quo audito abiit, et sicut ei imperaverat peregit. Altera vero die cum utrique ante eum venissent,
+coepit pater Odo virum illum magnatem de vita
+moribusque praedicti latronis sciscitare. At ille, Juvenis
+iste, inquit, pater, insignissimus latro est.
+
+443
+01:21:13,028 --> 01:21:24,831
+Quo
+audito discretus pater dixit latroni: Vade et prius
+mores tuos corrige, et postmodum monasticum
+appete discipulatum. At ille: Ego, inquit, projectus
+a te hodie vado in perditionem, animam vero Deus
+a te requiret.
+
+444
+01:21:24,831 --> 01:21:38,930
+Tunc misericordia motus pius pater
+praecepit ei, ut arrepto itinere ad monasterium eum
+praecederet; quod et factum est. Peracto itaque
+aliquo tempore sub regulari degens examinatione,
+tandem effectus monachus; cellerario fratri eum ad
+obediendum subdiderunt.
+
+445
+01:21:38,930 --> 01:21:55,214
+Etenim cum idiota esset, utrumque ei imposuerunt, scilicet obedientiae jugum, et studium litterarum; quod devote ita peragebat, ut unam manum obedientiae porrigeret, altera vero psalterium ferret, Israeliticum illum imitans populum, qui cum Jerusalem reaedificaret, una manu gladium tenebat cum quo
+
+446
+01:21:55,214 --> 01:21:58,275
+hostes pelleret, alteram vero subdebat ad laborem artis.
+
+447
+01:21:58,275 --> 01:22:13,248
+Sicque frater iste
+vitam suam peragens, post paucum tempus exsilii
+ejus vitae suscepit finem. Nam cum in extremo vitae
+laboraret, vocavit pium patrem, singularem supplicans
+locutionem. Cui cum veniam peteret, interrogavit
+eum, si in aliquo excidisset post monachatum.
+
+448
+01:22:13,248 --> 01:22:30,324
+At ille: Nudo cuidam te interrogante mea culpa
+tunicam nostram tribui, et funem pilis contextum
+de cellario abstuli. Quem cum interrogasset quid ex
+ea fecisset: Refrenando, inquit, ingluviem quam
+dudum male contraxi, ventrem meum ex ea circumligavi. Super quod factum stupefactus est pius
+pater.
+
+449
+01:22:30,324 --> 01:22:39,990
+Et cum vellet eam ab ejus visceribus solvere,
+cutis quae ei adhaeserat una cum sanie secuta est. Adjecit et ait: Hac nocte, pater, in coelis elevatus
+sum per visionem.
+
+450
+01:22:39,990 --> 01:22:57,356
+Obviavit autem me gloriosissimae
+personae et excellentissimae potestatis mulier, appropinquansque
+mihi ait: Cognoscisne me? At ego:
+Nequaquam, domina. Et illa: Ego, inquit, sum
+mater misericordiae. Cui ego: Quid jubes ut faciam,
+domina? At illa: Post triduum venies huc tali hora. Quod et factum est.
+
+451
+01:22:57,356 --> 01:23:10,728
+Tertio vero die hora qua dixerat
+defunctus est. Qua de re patuit perspicue verum
+quod vidit, quia hora qua praedixerat ab hoc saeculo
+migravit. Et inde pater noster consuetudinem tenuit
+beatam Mariam matrem misericordiae vocare.
+
+452
+01:23:10,728 --> 01:23:18,496
+Joannis missio Neapolim. Odonis revelatio de agone
+duorum fratrum. 21. Per idem tempus cogente necessitate nostri
+monasterii missus sum Neapolim.
+
+453
+01:23:18,496 --> 01:23:29,212
+Praeparata tandem
+quaeque necessitas exposcebat, competit mihi navigio
+Romam reverti: et cum applicuissem Portuensem
+civitatem, exceperunt me viri nobiles, qui et
+ipsi a Roma venerant ante ipsum diem.
+
+454
+01:23:29,212 --> 01:23:43,678
+Quos cum
+de patre nostro sciscitassem, quasi de novo quodammodo
+gratulantes amico, inter caetera ejus opera
+ista, me absente, illo tempore narraverunt fecisse. Praeterito isto mense Augusto, ipsa die Assumptionis
+beatae Mariae, in Adventino monasterio fuit pater
+noster.
+
+455
+01:23:43,678 --> 01:23:57,447
+Rogatus est autem a domno Balduino abbate,
+ut ipsa die ob amorem sanctae Mariae ibi missam
+celebraret, et suis manibus corpore et sanguine Domini
+eos communicaret. At ille hoc se facere non
+posse respondit: sed illis persistentibus tandem consensit
+invitus.
+
+456
+01:23:57,447 --> 01:24:11,538
+Deinde ecclesiam est ingressus, et
+cum fuisset paulisper oratum, coepit de ecclesia
+egredi. Nam volentes eum retinere, Obsecro, ait,
+sinite me abire, quia duo fratres nostri positi sunt
+in extremo vitae, et necesse habeo velociter ad eos
+ire ne exeant me absente.
+
+457
+01:24:11,538 --> 01:24:15,181
+Deinde adjecit: Ecce
+ante januam monasterii adest qui compellit ire.
+
+458
+01:24:15,181 --> 01:24:28,576
+Necdum verba compleverat, et missus adfuit, ut
+praedixerat, et cum venisset ad sanctum Paulum,
+mox abiit, et pro fratre Benedicto missam celebravit,
+eique corpus et sanguinem Domini Viaticum
+tribuit, et sic praedictus frater Domino spiritum
+reddidit.
+
+459
+01:24:28,576 --> 01:24:39,024
+Alter vero Gislebertus fuit dictus, mihique
+consobrinus, qui octavo die est secutus. Nunc
+ad prisca quasi in circulo posita revertamur tempora,
+et aliquantulum per majora curramus exempla.
+
+460
+01:24:39,024 --> 01:24:43,422
+Romae Vitam S. Martini corrigit et glossulis explicat. Codex ad pluviam inviolatus. 22.
+
+461
+01:24:43,422 --> 01:24:55,049
+Ante hoc triennium dum essemus apud beatum
+Paulum Romae, rogavit eum domnus abba Balduinus,
+ut librum quem de vita beatissimi Martini
+episcopi more dialogi Gallus et Postumianus composuerunt,
+ei corrigeret, et glosulis elucidaret.
+
+462
+01:24:55,049 --> 01:25:00,357
+Cujus
+videlicet voluntati statim assensum praebuit, et accersito
+fratre Othegario emendandi operam dedit.
+
+463
+01:25:00,357 --> 01:25:14,360
+Factum est, dum haec agerentur, ut vespertinae horae
+pulsaretur signum: statim secundum regulae praeceptum
+relictis quae in manibus tenebantur ecclesiam
+ingressi sunt, codicem vero apertum ubi sederant
+reliquerunt; praeoccupati vero vespertinis
+orationibus codicem obliti sunt.
+
+464
+01:25:14,360 --> 01:25:20,628
+Erat autem hiemis
+tempus. Tanta autem in ipsa nocte inundatio defluxit
+aquae, ut omnes nostri monasterii officinas
+repleret.
+
+465
+01:25:20,628 --> 01:25:35,693
+Locus autem ille, in quo liber fuerat relictus, ita est positus, ut aqua quae ipsius labitur tecto, et ex tribus aliis tectis subjacentibus superiori, quodammodo una conversione collecta more torrentis illo uno in loco decidit, ibique usque mane patulus permansit liber, et tot inundationes aquarum
+
+466
+01:25:35,693 --> 01:25:37,007
+in circuitu ejus cecidere.
+
+467
+01:25:37,007 --> 01:25:51,971
+Margo namque praedicti
+libri undique fuit lota, scriptura vero permansit
+intacta. Facto mane appositus est coram fratribus
+liber. Cumque attoniti miraremur omnes, ait providus
+pater: Quid admiramini, fratres? sciatis quia
+Vitam beati Martini aqua tangere timuit. Et hoc
+cum aliquo dicebat gaudio.
+
+468
+01:25:51,971 --> 01:26:04,457
+Ad haec unus ex fratribus
+nostris, quia erat promptulus ad loquendum, accepto
+codice adjecit: Intuemini et videte, quia codex
+iste vetustus est, et a tineis demolitus, atque ab
+aquis olim lotus, et usque adeo humectatus ut jam
+squaleat palloribus.
+
+469
+01:26:04,457 --> 01:26:16,944
+En indicia cernite, et dicit pater
+noster dudum lotum librum nunc aquam extimuisse
+tangere? aliud namque aliud est. Tunc pudicus pater:
+Tace, inquit, ista dicere noli. Non est enim
+similis Martino qui possit habere laudem in omnes
+gentes.
+
+470
+01:26:16,944 --> 01:26:21,768
+Sic ea quae propter eum Dominus fecit in
+laudem Martini convertit.
+
+471
+01:26:21,768 --> 01:26:34,420
+Monachi incondita locutio ut repressa. 23. Per illud namque tempus longe lateque patris
+nostri nomen, veluti clarissimum sidus, coepit effulgere. Factus est notus regibus, episcopis familiarissimus,
+magnatibus charus.
+
+472
+01:26:34,420 --> 01:26:42,059
+Quaeque enim monasteria
+in eorum finibus constructa erant, juri patris
+nostri ea tradebant, ut nostro more corrigeret et ordinaret.
+
+473
+01:26:42,059 --> 01:26:52,204
+Interea veniens ad quoddam monasterium,
+habens secum paucos fratres in comitatu, ex quibus
+nos unum cognovimus, nomine Adolfum; et ipse ante
+hoc biennium migravit ad Dominum.
+
+474
+01:26:52,204 --> 01:27:03,866
+Peracta itaque
+illa hebdomada, Sabbato vesperascente, cum nostri
+fratres coepissent mandatum regulae praeparare
+more, contigit ut unus ex illis monachis per eumdem
+locum ubi haec parabantur transiret.
+
+475
+01:27:03,866 --> 01:27:20,775
+Certe cum vidisset
+praedictum fratrem nostrum nostra consuetudine
+suos abluere subtalares , ira permotus
+rupto silentio coepit dicere: Dic mihi in quo loco
+sanctus Benedictus praecepit monachis suos lavare
+subtalares? Ille nostro more signum ei fecit ut taceret,
+quia hora erat incompetens.
+
+476
+01:27:20,775 --> 01:27:30,804
+Non enim recordabatur
+illius quod Sapientia dicit per Salomonem:
+Qui erudit derisorem, ipse sibi injuriam facit (Prov 9);
+et iterum: Noli arguere, ne oderit te (Prov IX 8).
+
+477
+01:27:30,804 --> 01:27:44,973
+Videns itaque sibi non respondisse, efferatus est
+vehementer, et rabido inflammatus igni, ista coepit
+verba evomere: O qui solebas negotiando circuire
+mundi provincias, nunc venisti nobis praedicare regulam,
+et meliorum tuorum corrigere vitam.
+
+478
+01:27:44,973 --> 01:27:54,186
+Jurando,
+perjurando, more accipitris hominum assueveras
+auferre substantias, et nunc impudenter beatificari
+a nobis appetis, quasi nescientibus actiones
+tuas.
+
+479
+01:27:54,186 --> 01:28:08,880
+Non enim serpentem me fecit Deus, ut tuo
+more debeam sibilare, nec bovem ut debeam mugire;
+sed hominem me fecit, et ut loquar linguam
+mihi tribuit. Haec et iis similia cum incessanter
+oblatraret, concito gressu recessit ab eo praedictus
+frater.
+
+480
+01:28:08,880 --> 01:28:21,123
+Sequenti vero die cum haec omnia ad capitulum
+fuissent recitata, miser ille non solum
+veniam non petiit, verum se bene fecisse respondit,
+addens insuper non decere talem personam suum
+meliorem increpare.
+
+481
+01:28:21,123 --> 01:28:34,753
+Tunc pater noster super ejus
+indignatus superbiam, commotus ait: Hodie
+dies Dominicus est, ideo nullus contristari
+debet. Ideo ista discussio suspendatur in crastinum. Factum est, et post pusillum a capitulo omnes surrexerunt.
+
+482
+01:28:34,753 --> 01:28:42,654
+Ille autem subito factus est mutus, atque
+post triduum sine sermonum absolutione defunctus
+est. Ecce quantum est virus arrogantiae.
+
+483
+01:28:42,654 --> 01:28:58,214
+Hujus
+namque mucrone multorum monachorum vitam reperimus
+hactenus sauciatam; quia dum putant se
+scire quod nesciunt, suis propositionibus secundum
+Apostolum stulti efficiuntur dicente Scriptura :
+Qui non vult esse discipulus veritatis, erit magister
+erroris.
+
+484
+01:28:58,214 --> 01:29:16,006
+De quibus et Dominus per Amos loquitur:
+Reversi sunt ut essent absque jugo, et facti sunt arcus
+dolosus (Amos VII). Horum namque imagines procul
+dubio hi tenere videntur, qui prius vocitari magistri
+quam fiant discipuli nituntur, et antea regiminis
+arcem subire appetunt, quam subesse noscuntur.
+
+485
+01:29:16,006 --> 01:29:28,973
+Enimvero necdum tirunculi bravium usurpant victoris,
+atque indocta manu arma fortissimi militis
+arripere non verentur, negligentes ea quae dicit
+Scriptura: Qui regulariter non subest, regularibus
+praeesse non debet.
+
+486
+01:29:28,973 --> 01:29:46,584
+Sed quia legaliter nolunt vivere
+a legis praecepto non verentur faciem cordis avertere. De quibus per prophetam Dominus loquitur:
+Verterunt ad me terga, et non faciem (Jerem II). Nam
+et Nicodemus legislator venit ad Jesum nocte, quia
+prius voluit instrui, ut postea alios docere posset.
+
+487
+01:29:46,584 --> 01:30:03,865
+Hujus namque morbi duplex malum est: unum, quod clandestina praesumptione, quasi sub praetextu sanctitatis, auctorem suum ad arcem instigat scandere magisterii; alterum, quod ipse destructus alios instruere quaerit secundum sectam sui erroris, et (quod sine dolore fateri nequimus) ipsi praecipites,
+
+488
+01:30:03,865 --> 01:30:11,090
+quosdam stantes post se ad praecipitium trahere moliuntur, de quibus per Evangelium Dominus dicit: Caeci sunt duces caecorum.
+
+489
+01:30:11,090 --> 01:30:28,429
+Caecus autem si caeco ducatum
+praestet, ambo in foveam cadunt (Matth V). Horum
+namque conventum potius caupona, quam congregatio
+nuncupatur: quia ibi unusquisque id agit
+quod libet, et hoc non agit quod non libet. De talibus
+namque per Salomonem dicitur: Massa stupae synagoga
+peccantium (Eccli XXI).
+
+490
+01:30:28,429 --> 01:30:40,394
+Hoc namque monachorum
+genus teterrimum vocat beatus Benedictus
+(Reg cap 1). Eorum itaque conversationem miserrimam
+dicit esse, atque in tantum miserabilem, ut
+de ea satius taceri censeat, quam aliquid loqui.
+
+491
+01:30:40,394 --> 01:30:53,109
+Ergo
+his omissis revertamur ad querelam praedicti monachi,
+et videamus quid beatus Benedictus praecipiat
+de rebus monasterii. Omnia, inquit, vasa monasterii,
+cunctamque substantiam conspiciant velut altaris
+vasa sacrata.
+
+492
+01:30:53,109 --> 01:31:04,495
+Et iterum: Si quis autem sordide
+aut negligenter res monasterii tractaverit, corripiatur
+(Reg S Bened c 31 32). Quid enim sunt aliud
+calceamenta, vel vestimenta fratrum, nisi substantia
+monasterii.
+
+493
+01:31:04,495 --> 01:31:21,546
+Si enim alibi septimanariis isdem ipse praecipit, ut vasa ministerii munda et sana cellerario reconsignent, quae videlicet sunt fictilia atque vilia, et officiis coquinae deputata: quid sentiendum est de calceariis, quae sunt suo pretio chara, et pavimento ecclesiae adhaerenda? Sed sicut gravis
+
+494
+01:31:21,546 --> 01:31:26,979
+culpa videtur fore monachos sollicite aliena providere, ita multo magis gravior sua negligere.
+
+495
+01:31:27,384 --> 01:31:44,755
+Si enim dives reprehenditur
+eo quod quotidie splendide epulabatur, proculdubio
+graviter reprehenditur servus Dei qui
+quotidie encaeniare concupiscit, videlicet cum in
+sexto humilitatis gradu praecipiat beatus Benedictus,
+ut omni vilitate, vel extremitate contentus sit monachus.
+
+496
+01:31:44,755 --> 01:32:00,127
+Ob hoc enim quis negligens sua non vult
+lavare calceamenta, ut in quoddam angulum ea
+projiciat, atque a luti pallore marcescant; et demum
+nec sibi, nec pauperibus aliquid valeant, cum omnia
+vetusta pauperibus praedictus pater praecipiat
+eroganda.
+
+497
+01:32:00,127 --> 01:32:17,435
+Hoc namque dicimus, non quod squalidi
+aut lucidi more hypocritarum incedant: sed ut
+omnibus suis vestimentis nitidis utantur et lotis,
+sicut per quemdam sapientem dicitur:
+Qui cupis esse bonus et vitam quaeris honestam,
+&nbsp;&nbsp;&nbsp;Corporis atque animae dilige munditiam.
+
+498
+01:32:17,435 --> 01:32:27,683
+Praecepta enim Patrum termini sunt sequentium. De quibus Dominus per Moysen loquitur: Maledictus
+quicunque transgressus fuerit terminos proximi
+sui (Deut XXVII 17).
+
+499
+01:32:27,683 --> 01:32:45,992
+Quem videlicet praecepti terminum
+dum iste praefatus monachus transgredere non
+fuit veritus, jure maledictionis sententiam illuc suscepit
+in quo praevaricatus est. Et hoc est enim quod
+dives ille qui in inferno sepultus esse dicitur, plus
+se in lingua, quam in caeteris membris ardere fatetur.
+
+500
+01:32:45,992 --> 01:33:03,113
+Inde est illud quod per quemdam sapientem
+dicitur: Per quae peccat, quis per haec et torquetur. De quo et Jacobus apostolus: Lingua, inquit, est
+ignis universitas iniquitatis, lingua constituitur in
+membris, quae maculat totum corpus, et inflammat
+rotam nativitatis nostrae.
+
+501
+01:33:03,113 --> 01:33:20,422
+Lingua est inquietum malum
+plena veneno mortifero (Jac III 6 8). Et de ipsa
+psalmographus ait: Disperdet Dominus universa
+labia dolosa et linguam magniloquam (Psal IX 14). Similiter et per Ezechielem: Linguam tuam adhaerescere
+faciam palato tuo, et eris mutus (Ezech. III,
+26).
+
+502
+01:33:20,422 --> 01:33:28,296
+Et utinam lingua sit mutus et non a fidelium
+consortio separatus. Quid rogo est excommunicatio,
+nisi separatio bonorum?
+
+503
+01:33:28,296 --> 01:33:42,570
+Inter caetera namque sua
+praecepta beatus Benedictus illud sub excommunicatione
+ligavit quod de silentio dixit, et sub nullius
+prioris arbitrio reliquit. Qua de re quisquis ad
+monastica pervenit fastigia, perpendat quod agat,
+et ab ipsa se excommunicatione alienum reddat.
+
+504
+01:33:42,570 --> 01:33:55,008
+Illud semper corde retineat quod illis duabus contigit
+virginibus, quae praeceptum beati Benedicti
+negligenter duxerunt, de quibus beatus Gregorius
+mentionem facit in suis Dialogis. Sed satis in his
+immoravimus, nunc ad alia transeamus.
+
+505
+01:33:55,008 --> 01:33:56,592
+LIBER TERTIUS .
+
+506
+01:33:56,592 --> 01:33:58,363
+Monachorum S. Martini interitus. 1.
+
+507
+01:33:58,363 --> 01:34:13,293
+Eodem namque tempore dum nos pater noster
+regularibus disciplinis instrueret, multorum monachorum
+non dico obitum, sed miserabilem excessum
+sedula nobis narratione assueverat narrare,
+ut juveniles in nobis comprimeret motus, et quasi
+sub timoris virga more pastoris duceret nos ad
+elysii gaudia.
+
+508
+01:34:13,293 --> 01:34:26,705
+Quadam vero die dum talia nobis exponeret,
+succumbens paternitati ejus, coepi eum
+rogare ut nobis diceret, si tantum intra Italiae fines
+monasticus ordo corruisset, vel si in Europae finibus
+simili modo excidisset, et quomodo aut qualiter,
+vel quando hoc evenisset.
+
+509
+01:34:26,705 --> 01:34:40,167
+Tunc ille, assumpto sermone,
+ista nobis coepit exponere: Ante hos itaque
+annos, persistente monastica congregatione apud
+ecclesiam beati Martini Turonis, coeperunt modum
+suum, consuetudinesque relinquere, ac propriis voluntatibus
+vitam suam propositumque corrumpere.
+
+510
+01:34:40,167 --> 01:34:52,263
+Relinquentes namque nativa et assueta vestimenta,
+coeperunt fucatas, atque fluxas pallioque ornatas
+circumferre cucullas et tunicas. Calceamenta itaque
+quibus utebantur adeo erant colorata ac nitida, ut
+vitreum colorem viderentur assumere.
+
+511
+01:34:52,263 --> 01:34:59,247
+Ad Laudes
+namque nocturnas ne aliquo pede offenderent, cum
+luce diei surgebant. Ista et harum similia multa
+contra regulae jura faciebant.
+
+512
+01:34:59,247 --> 01:35:13,974
+Quibus rebus cum
+decrevisset Deus finem imponere, nocte quadam
+omnes quiescentes, cum unus ex eis eamdem horam
+insomnem duceret, vidit duos viros dormitorium
+ingredi, unum videlicet gladium manu tenentem,
+cui alius imperabat indice singulatim eos his verbis
+percueret : Hunc et hunc percute.
+
+513
+01:35:13,974 --> 01:35:25,008
+Cumque eum
+qui haec intuebatur gladio voluisset appetere, emissa
+voce adjuravit eum dicens: Adjuro te per Deum
+viventem, ut non interficias me. Statim percussor
+gladium contraxit et ipse solus evasit ex omnibus.
+
+514
+01:35:25,008 --> 01:35:32,916
+Quam gravis culpa sit vestes monasticas mutare. 2. Rursum interrogavi eum quae culpa esset
+in monacho, qui pura mente quolibet uteretur
+vestimento.
+
+515
+01:35:32,916 --> 01:35:48,250
+Ad haec protinus istud mihi opposuit
+exemplum: Per illud namque tempus
+quod Nortmannorum gladius in nostris finibus
+grassabatur, coepere multi ex nostro ordine propria
+relinquere monasteria occasione hostium reperta,
+et cuncta usui humano placita repetere quae
+pridem abrenuntiaverant.
+
+516
+01:35:48,250 --> 01:36:02,830
+Pro consortio namque fratrum
+frequentiam habebant parentum et amicorum,
+et pro rebus monasterii substantiis appetebant propriis
+ditari. Fracta tandem vestimenta, cum quibus
+de monasterio exierant, denuo non induebantur
+similia, sed colorata, quae nos vulgo dicimus blava.
+
+517
+01:36:02,830 --> 01:36:14,506
+Sub hoc namque tempore frater quidam, recedens
+ab hac peste, nostrum petiit monasterium, deprecans
+ut eum reciperemus. Cujus annuentes voluntati,
+protinus omnia quae acquisierat abrenuntiavit,
+et monasterio concessit.
+
+518
+01:36:14,506 --> 01:36:25,912
+Cui cum fratres indixissent
+ut iret, omnia simul collecta monasterio deferret,
+respondit: Ille ego, inquit, ut quae usque modo
+habui vestrae subjacent ditioni, requirendi vero ac
+dimittendi vestrae sit potestati.
+
+519
+01:36:25,912 --> 01:36:41,622
+Qua de re de monasterio
+solus non egrediar, sed cui vobis placet hoc
+praecipite uni e fratribus requirere. Ego tamen
+vestrae obtemperans voluntati, ibo cum illo, et ut
+melius sciero, praeceptis illius parebo. Sed sive huc
+permansero, sive illuc ambulavero, deinceps omnibus
+rebus nudatus ero.
+
+520
+01:36:41,622 --> 01:36:54,212
+Revera perseverante fratrum
+sententia, abiit cum fratre illo cui hanc indixerant
+obedientiam. Factum est autem cum venissent
+ad locum in quo antea praedictus frater habitaverat,
+subitanea est infirmitate addictus, ibique et defunctus.
+
+521
+01:36:54,212 --> 01:37:02,928
+Illo namque in extrema posito, frater qui
+cum eo ierat, quanto propinquiorem eum morti cernebat,
+tanto pro ejus anima instantissimas Deo
+preces effundebat.
+
+522
+01:37:02,928 --> 01:37:15,363
+Sicque factum est ut utrique
+istam visionem viderent: Erat enim thronus in
+excelso positus, super quem videbatur sanctus Benedictus
+residere, ante cujus conspectum astabat
+inaestimabilis exercitus monachorum.
+
+523
+01:37:15,363 --> 01:37:30,968
+Ascensus autem
+throni illius palliis videbatur esse stratus, in
+cujus subteriori gradu ceu veniam petens jacebat
+frater ille infirmus. Dextera namque laevaque praedictus
+monachorum residebat exercitus; inter
+utrosque vero vacuum erat iter ascendentibus pervium.
+
+524
+01:37:30,968 --> 01:37:43,703
+Porro cum per longum spatium frater ille
+jaceret prostratus, accessit unus ex assistentibus ad
+beatum Benedictum, supplicans pro illo fratre,
+dicensque dignum esse illum sua visione
+levare, ut diceret quod vellet.
+
+525
+01:37:43,703 --> 01:37:53,568
+Cui ille videbatur
+respondisse hominem se videre, habitum vero non
+agnoscere, idcirco alterius ordinis hominem non
+debere nec causam discutere, nec vitam dijudicare.
+
+526
+01:37:53,568 --> 01:38:07,379
+Haec audiens nostri ordinis frater exuit se, et vestimentis
+suis infirmum fratrem induit, eumque ut
+iterum veniam peteret, in eadem visione coegit. Quo peracto, vox desuper venit quae ei ut surgeret,
+et sursum ascenderet praecepit.
+
+527
+01:38:07,379 --> 01:38:19,457
+Tunc evigilans a
+somno frater noster, mox opere complevit quod in
+somnis se agere credidit, et quasi jam securus de
+anima fratris ejus exitum, prout valuit, orando
+protexit, et sacra communione munivit.
+
+528
+01:38:19,457 --> 01:38:32,490
+Perpende
+ergo, fili, apostoli sententiam dicentis: Fides sine
+operibus mortua est (Jac XX 26): et sicut alibi
+scriptum est: Qui enim dicit Christum se nosse, debet
+sicut ille ambulavit et ille ambulare (I Joan II 4 6).
+
+529
+01:38:32,490 --> 01:38:43,073
+Similiter qui se profitetur esse monachum, opere et
+mente imitari debet patrem Benedictum, quia scriptum
+est: Non auditores legis justi sunt apud Deum,
+sed factores (Rom II 13).
+
+530
+01:38:43,073 --> 01:38:58,200
+Non enim sufficit monacho
+mentis tantum puritas, si defuerint caeterorum
+operum indicia vel signa, de quo Dominus dicit:
+Luceat lux vestra coram hominibus ut videant opera
+vestra bona et glorificent Patrem vestrum qui in coelis
+est (Matth V 15).
+
+531
+01:38:58,200 --> 01:39:13,560
+De hoc namque beatus Gregorius
+in prima parte Ezechielis plenius sermonem facit, ex
+cujus sermonibus unum proferemus testimonium. Sicut enim duobus modis a Deo receditur, ita duobus
+modis a Deo apostatae homines fiunt. Nam unusquisque
+a Conditore suo aut fide recedit, aut opere.
+
+532
+01:39:13,560 --> 01:39:28,865
+Sicut ergo qui a fide recedit apostata est, ita qui ad
+ipsum opus quod deseruerat redit, ab omnipotente
+Deo apostata absque ulla dubietate deputatur, etiamsi
+fidem tenere videatur. Unum sine altero prodesse
+non potest, quod nec fides sine operibus, nec opera
+adjuvant sine fide.
+
+533
+01:39:28,865 --> 01:39:38,389
+Ergo nullus abhorreat de eo quod
+diximus praedictum fratrem non potuisse veniam
+recipere, nec meruisse sursum ascendere, priusquam
+vestimentorum facta in eo mutatio fuisset.
+
+534
+01:39:38,389 --> 01:39:46,097
+Nulli
+enim dubium est praeceptum esse in Lege, quae et
+qualia forent filiorum Levi vestimenta, sine quibus
+sanctuarium ingredi non audebant.
+
+535
+01:39:46,097 --> 01:39:55,236
+Quis enim audeat
+dicere quod pro humerali uterentur rationali,
+vel pro tunica byssina ephod lineo induerentur? quod unaquaeque suum habet colorem, opus ac varietatem.
+
+536
+01:39:55,236 --> 01:40:11,808
+Nam et Jesum sacerdotem magnum tandiu
+adversatus est diabolus, quousque aliis vestimentis
+ab angelo fuit indutus, et David, cum super Amalecitarum
+populum voluisset insurgere, bis Deum consuluit,
+et responsum eundi non accepit: tertio
+Ephod indutus est, et protinus sibi imperantis audivit
+vocem.
+
+537
+01:40:11,808 --> 01:40:13,618
+Ultio de monachis carnes edentibus. 3.
+
+538
+01:40:13,618 --> 01:40:27,099
+Haec ait, et post haec rursum adjecit: Visne
+aliis documentis ostendam tibi quia perparvum est
+quod multum dehonestat atque corrumpit? Cui
+cum ita me omni cum desiderio velle respondissem,
+et in suis auctoritatibus me ardere cerneret, horum
+mihi exempla exposuit succincta relatione.
+
+539
+01:40:27,099 --> 01:40:31,673
+His diebus duo fratres ista fuerunt rapidissima
+rapti morte, non tamen uno in loco, nec uno die.
+
+540
+01:40:31,673 --> 01:40:41,915
+Veniens autem unus ex eis ad domum cujusdam suae
+sororis, vehementissime esurire se dixit, et refectionem
+petiit, cui protinus soror sua pisces se abundanter
+habere respondit ut comederet, quales et qua
+hora vellet.
+
+541
+01:40:41,915 --> 01:40:53,491
+Ille vero quasi indignans, fastidiri se
+pisces respondit, eo quod per tot annos indesinenter
+eos se comedisse adjecit, et non eos jam se posse
+videre dixit. Respondit soror sua: Ecce, inquit, in
+promptu carnem habemus, comede ergo quae
+placet.
+
+542
+01:40:53,491 --> 01:41:07,306
+Tunc ille armum sibi assari praecepit cujusdam
+animalis: sed non ferens assandi moram partiunculam
+incidit, et in prunas projecit. Deinde
+vinum sibi afferri jussit, et carnis morsum avide
+sumpsit; sed hoc quod sumpsit gulam non transiit,
+nec rejicere potuit, sed vitam cum cibo perdidit. 4.
+
+543
+01:41:07,306 --> 01:41:13,261
+Alter igitur diluculo veniens ad domum cujusdam
+sui parentis, statim si haberent quod ei ad comedendum
+tribuerent inquisivit.
+
+544
+01:41:13,261 --> 01:41:24,265
+Cui cum respondissent
+quia nondum hora edendi esset, adjecit cum
+indignatione dicens: Hei tota nocte equitando per
+injunctam mihi obedientiam laboravi et non silui, et
+nunc jejunare me cogitis? Afferte ergo mihi si aliquid
+habetis.
+
+545
+01:41:24,265 --> 01:41:34,269
+Cui cum se pisces habere dixissent,
+potius indignatus est, et fastu repletus arrogantiae,
+huc illucque coepit oculorum intuitus circumferre. Ibat autem circa pedes ejus grex cornicum, quas
+nos gallinas vocamus.
+
+546
+01:41:34,269 --> 01:41:46,608
+Tunc quasi furens quoddam
+bacillum arripuit, et quam ei complacuit percussit,
+ac furibundo ore dixit: Haec erit hodie mihi piscis. Caeteri siquidem qui circumstabant, cum quodam
+rubore coeperunt ei dicere: Fortassis licet tibi
+carnem comedere, Pater?
+
+547
+01:41:46,608 --> 01:42:02,495
+At ille: Volatile, inquit,
+non est caro, volatilia enim et pisces unam
+habent originem et aequalem creationem, sicut
+noster hymnus continet. Ad cujus verba conticuerunt
+omnes. Interea apposita est ante eum quam
+occiderat jam assata gallina, ex qua offam abstulit
+et momordit.
+
+548
+01:42:02,495 --> 01:42:12,201
+Quem morsum nec evomere, nec glutire
+potuit, sed eum vita privavit: pugnos tamen et
+cervicatas pro mercede suae improbitatis in opprobrium
+antequam moreretur assumpsit.
+
+549
+01:42:12,201 --> 01:42:25,315
+Si autem
+commovet animus tuus supra mortem horum fratrum
+duorum, simili modo ut unius superius, et
+nunc tibi exemplo ostendimus, digni fuissent ea
+morte qua perplexi sunt. Pro paucis lenticulae
+granis Esau primogenita perdidit.
+
+550
+01:42:25,315 --> 01:42:41,492
+Nam et Israeliticus
+populus dum cibo mannae aleretur, reversi
+sunt corde in Aegyptum concupiscentes ollas carnium
+quas nuper sub jugo malae servitutis comederant. De
+quibus mentionem facit apostolus Paulus: Non simus
+concupiscentes malorum, sicut et illi concupierunt
+(I Cor X 6).
+
+551
+01:42:41,492 --> 01:42:56,570
+Isti enim dixerunt fastidiri se pisces; illi
+vero murmuraverunt dicentes: Non vident oculi
+nostri praeter manna. Et hoc dicimus, non quod cibis
+imponamus vitium, sed male utentibus. Unde
+et Paulus dicit: Et carnis curam ne feceritis in desideriis
+(Rom XIII 14).
+
+552
+01:42:56,570 --> 01:43:11,013
+Quod enim in concupiscentiis
+denegat, hoc in necessitatibus largitur. Tres
+namque pueri missi in camino Babylonis ignis,
+abdicantes regales cibos, a tanto igne evaserunt illaesi. Ipse idemque ignis quotquot de Chaldaeis reperit,
+combussit et occidit.
+
+553
+01:43:11,013 --> 01:43:24,821
+Igitur et Nabuzardan princeps
+coquorum destruxit muros Jerusalem. Ergo neminem
+moveat quod Elias famis tempore carne alitus
+est mane et vespere, sed qui requirit cibum consideret
+ministrum. Saepe enim daemones horum alituum
+figuram tenent.
+
+554
+01:43:24,821 --> 01:43:38,976
+Talis enim cibus corvorum
+aptus fuit ministerio et ejus saturitas vespere et
+mane meruit esuriem. At vero quando panem comedit,
+angelum delatorem habuit, et in tantum
+confortatus est, ut per quadraginta dies cibi refectione
+non indigeret.
+
+555
+01:43:38,976 --> 01:43:57,086
+Haec omnia diximus, ut plenius
+ostenderemus non esse in cibo vitium, sed in appetitu. Horum tamen interitus multorum exstitit emendatio
+morum. Sic enim apud nos ordo monachorum
+cecidit; sicque et correctus fuit et frequenter multis
+prodigiis corrigitur, ut auctore Deo perseveret.
+
+556
+01:43:57,086 --> 01:44:11,640
+Sed
+dum vitam, doctrinamque patris nostri plenius
+enarrare disposuimus, quasi improvidi quodammodo
+nolentes in horum incidimus excessibus, et ob hoc
+a nostro proposito longe digressi sumus, ad quod
+velociter stylum vertamus.
+
+557
+01:44:11,640 --> 01:44:22,108
+Item ultio de alio cui vena secta. 5. Fateri autem solent fratres nostri, qui ante
+nos astiterunt illi, quod fuit unus quidam frater ex
+patris nostri congregatione, qui licito tempore
+phlebotomi sibi curationem adhibuisset.
+
+558
+01:44:22,108 --> 01:44:34,736
+Super quo
+facto commotus est ejus animus, quia quamvis eum
+necessitas coegisset, tamen absque ejus licentia hoc
+non debuit praesumere. Mox vero per quam prius
+sanguis effluxerat, disrupta est vena, et quousque
+redderet animam, a quocunque medicamine non fuit
+restricta.
+
+559
+01:44:34,736 --> 01:44:45,909
+Addebant insuper, quod sive prospera,
+seu adversa cuilibet indixisset, nullatenus illis carere
+potuisset; quod utinam quidam ex nostris in se
+ipso expertus non fuisset. Sed felices illi, qui ejus
+praesentiam cernere meruerunt quoad vixit.
+
+560
+01:44:45,909 --> 01:44:49,008
+Infelix
+ego, qui nec duobus expletis annis illi merui famulari.
+
+561
+01:44:49,008 --> 01:45:05,534
+Odonis timor de culpis in abbatem. 6. Appropinquante autem tempore quo secundum
+Dei dispensationem corporali separaremur visione,
+et ejus absentia, quae fieri debebat, potiorem menti
+meae amoris inferret ignem, quadam die dum me
+cerneret nimium tristem, coepit me blande consolari
+suo more.
+
+562
+01:45:05,534 --> 01:45:18,014
+Sed cum videret miserae menti meae nec
+sic satisfacere posse, more Jacob patriarchae a praeteritis
+exordium sumens, futura mihi praesago spiritu
+ita coepit exponendo praedicere. Charissime fili,
+ausculta quae dico tibi.
+
+563
+01:45:18,014 --> 01:45:31,976
+Gratias ago Deo, quia ex
+omnibus peccatis quae a juventute perpetravi, in hac
+vita jam ultionem recepi, exceptis illis quae in abbatem
+meum commisi: et semper diem illum et tempus
+exspectavi, deprecans Deum, ut ea non reservaret
+mihi in futurum.
+
+564
+01:45:31,976 --> 01:45:43,602
+Et nunc credo me esse
+exauditum, quia quae in illum gessi, haec rursum a
+te recepi. Tibi autem scias non reddi simplicia, sed
+decupla. Esto namque fortis et patiens, ut ea valeas
+tolerando quiete portare.
+
+565
+01:45:43,602 --> 01:45:58,704
+Haec lacrymans dixit,
+deinde exosculans caput meum, Domino me commendavit;
+sed tu, Domine omnipotens, reddenti
+mihi versa vice Caesario presbytero centuplicata ac
+graviora, misericorditer parce, et si aliqua supersunt
+meis moerentibus malis propitiatus averte .
+
+566
+01:45:58,704 --> 01:46:09,312
+Monachorum in carnes aviditas. 7. Eodem quoque tempore concessit nobis jam
+praefatus Albericus princeps monasterium sancti
+Heliae, quod Subpentonia dicitur, de quo beatus
+Gregorius in libro Dialogi mentionem facit.
+
+567
+01:46:09,312 --> 01:46:22,201
+Sed
+sicut idem beatus Gregorius dicit durum esse in
+mente veteri nova meditari, hos quos ibi reperimus
+monachos, non quibamus eos subtrahere ab esu
+carnis. Ordinavit autem pater noster in eodem coenobio
+praepositum unum ex nostris fratribus, nomine
+Theodardum.
+
+568
+01:46:22,201 --> 01:46:35,437
+Videns autem ille eo quod virtute,
+nec sanctitate ab eodem vitio eos posset cohibere,
+coepit ex finitimis regionibus pisces emere, ut vel
+sic voluntati eorum satisfaceret. Qua etenim re penitus
+equi quos ei dimiserat pater noster defecerant
+huc illucque discurrentes.
+
+569
+01:46:35,437 --> 01:46:40,692
+Hanc enim eorum improbitatem,
+suumque laborem praedictus frater patri
+nostro crebrius studuit innotescere.
+
+570
+01:46:40,692 --> 01:46:51,152
+Inter haec eo a
+domino petente, vallis ipsa cui monasterium praeeminet
+atque interjacet, non multum procul junctis invicem
+monticulis se clausit, et parvissimi torrentis
+qui per eam defluebat, aditum interdixit.
+
+571
+01:46:51,152 --> 01:46:57,745
+Dehinc
+multitudine aquarum collecta, lacum ex se produxit,
+et laborem fratri abstulit, quia pisces illi emere
+ultra necesse non fuit.
+
+572
+01:46:57,745 --> 01:47:06,172
+Sed hoc factum cujus fuisset
+meriti, quidam imperiti nescierunt eo quod publice
+qua ratione sit factum non viderunt, eo quod patris
+nostri orationem auditu non audierunt.
+
+573
+01:47:06,172 --> 01:47:20,548
+Hoc enim
+hypocritarum est, non fidelium, videlicet ignorantes
+qui haec dicunt illud quod canit psalmographus:
+Desiderium pauperum exaudivit Dominus, desideria
+cordis eorum audivit auris tua (Psal X 17); et iterum:
+Voluntatem timentium se faciet, et orationes
+eorum exaudiet (Psal CXLIV 19).
+
+574
+01:47:20,548 --> 01:47:29,472
+Nam et similiter
+pridem fecit cum esset Franciae apud beatum Benedictum:
+cujus rei rationem tanto securius proferimus,
+quanto ex ea fideliorem testem eumdem patrem
+habemus.
+
+575
+01:47:29,472 --> 01:47:37,752
+Sed prius fideli sermone proferendum est,
+quemadmodum praedictum susceperit coenobium, ut
+ad ea quae sunt sequenda quasi per directam lineam
+stylus noster perveniat.
+
+576
+01:47:37,752 --> 01:47:40,481
+S. Benedicti Floriacense monasterium ut reformatum. 8.
+
+577
+01:47:40,481 --> 01:47:54,180
+Post finem jam fatae persecutionis, quae facta
+est sub Nortmundo saevissimo Nortmannorum rege
+in finibus Galliae, ut adimpleret Dominus Ecclesiae
+suae quod per Isaiam olim praedixerat: Ad punctum,
+inquiens, in modico reliqui te, et in miserationibus
+magnis congregabo te.
+
+578
+01:47:54,180 --> 01:48:09,245
+In momento indignationis abscondi faciem meam parumper a te, et in misericordia sempiterna miserebor tui (Isai LIV 7 8); congregati fratres in idipsum ex coenobio beati Benedicti, qui hostili metu pridem huc illucque fuerant dispersi, proprium receperunt coenobium; sed (quod sine dolore dicere non
+
+579
+01:48:09,245 --> 01:48:17,838
+possumus) unita corpora scissis mentibus sanctissimum illum tantum praeoccupabant locum quod succincta locutione transcurrimus, ne in talium vita noster stylus immoretur.
+
+580
+01:48:17,838 --> 01:48:24,713
+Revera hoc patenter narrare satagimus, qualiter a
+beato Benedicto vocatus sit atque electus, imo et
+praeordinatus Odo pater beatissimus.
+
+581
+01:48:24,713 --> 01:48:39,777
+Quodam vero die dum praedicti fratres intra claustrum residentes se invicem corroderent, quidam ex eis de obedientia rediens, obvium habuit ante fores monasterii Benedictum patrem: cui mox imperavit: Vade, inquiens, dicito his fratribus, quia non me quiescere sinunt, ecce recedo ab his aedibus, et
+
+582
+01:48:39,777 --> 01:48:45,894
+sciant me non reversurum in hunc locum quousque ex finibus Aquitaniae talem virum huc deferam, qui sit secundum cor meum.
+
+583
+01:48:45,894 --> 01:48:52,567
+Quem frater ille cum de nomine
+vellet inquirere, respondit haesitationi ejus: Ego
+sum, scias, frater Benedictus. Ait, et ire coepit.
+
+584
+01:48:52,567 --> 01:49:07,277
+Igitur frater ille quae sibi imperata fuerant nuntiavit;
+sed miseri tanto patre orbati, non cucurrerunt
+ad lacrymas et preces, quae ipsam Domini comminationem
+saepius sedare solent: sed ascensis equis,
+huc illucque coeperunt discurrere ut eum invenirent,
+inventumque vi aut prece revocarent.
+
+585
+01:49:07,277 --> 01:49:11,928
+Sed cum neminem
+invenissent, coeperunt postmodum fratri illi
+indesinenter illudere.
+
+586
+01:49:11,928 --> 01:49:24,363
+Per illud tempus vir Elisiardus,
+qui tunc erat comes illustris, nunc vero in
+monastico degit habitu, audiens infamiam horum
+monachorum, praedictam abbatiam a Rodulfo rege
+Francorum petiit et accepit, acceptamque patri
+nostro tradidit.
+
+587
+01:49:24,363 --> 01:49:37,808
+Deinde sumptis secum duobus
+comitibus, itidemque praesulibus, simul cum
+patre nostro Odone profecti sunt. Quorum
+adventu fratres cognito, sumptis gladiis alii
+ascenderunt aedificiorum tecta, quasi hostes suos lapidibus
+et missilibus coelorum jaculaturi.
+
+588
+01:49:37,808 --> 01:49:51,360
+Alii muniti
+clypeis, accinctis ensibus monasterii observabant
+aditum, prius se mori fatentes quam eos introire
+sinerent, aut abbatem alterius ordinis susciperent. Interea in se reversi dicebant: Ecce videmus
+quid nobis nuper minatus est beatus Benedictus.
+
+589
+01:49:51,360 --> 01:50:05,390
+Heu, proh dolor, quare non credebamus fratri nostro? Omnia nempe quae nobis dixit opere complevit. Nunquid non iste est Odo Aquitanus ille, de quo
+frequenter suspicati sumus dixisse beatum Benedictum. Heu! quare non prius nos ad eum misimus, ac
+sponte invitavimus.
+
+590
+01:50:05,390 --> 01:50:13,574
+Interea quaerebant qua ratione
+eos possent propellere, vertentes se huc illucque. Erat autem apud eos frater Vulfaldus nomine,
+juvenis, sed bonae indolis.
+
+591
+01:50:13,574 --> 01:50:23,565
+Hic enim dum inter eos
+discurreret, miserunt ei quaedam praecepta regalia,
+in quibus continebatur, ut nulli ex alia congregatione
+ullo unquam tempore liceret ejusdem loci prioratum
+subire.
+
+592
+01:50:23,565 --> 01:50:34,088
+Cui pater noster inquit: Pacifice veni, adeo
+ut neminem laedam, nulli noceam, sed ut incorrectos
+regulariter corrigam. His et similibus verbis,
+licet per internuntios, eorum assidue mulcebat mentes.
+
+593
+01:50:34,088 --> 01:50:49,074
+At illi cum viderent suam nullo modo praevalere
+industriam, vertebant se ad alia argumenta, modo
+regem vocabant, modo occidere eum minabantur. Hoc enim fiebat per triduum. At postmodum pater
+Odo cunctis ignorantibus ascendit asellum, et coepit
+ire concite ad praedictum monasterium.
+
+594
+01:50:49,074 --> 01:50:56,568
+Episcopi
+vero et qui cum ipsis erant comites simul cum suis
+currebant post eum clamantes: Quo is, pater? an
+fortassis quaeris mortem?
+
+595
+01:50:56,568 --> 01:51:10,127
+anne vides quia parati
+sunt te interficere? qua videlicet hora accesseris ad
+eos morte morieris. Velisne eis de tuo interitu facere
+gaudium, et nobis exitialem luctum? has et hujuscemodi
+voces post eum mittentes.
+
+596
+01:51:10,127 --> 01:51:20,105
+Sed, sicut Scriptura
+ait: Justus ut leo confidens absque terrore erit
+(Prov XXVIII 1); accepto itinere eum nullomodo
+potuerunt declinare. Mira dicturus sum.
+
+597
+01:51:20,105 --> 01:51:39,037
+Appropinquante
+autem illo et agnitus ab his qui eum prius
+noverant, hi qui tunc resistebant protinus commoti
+sunt et immutati, ita ut proculdubio dicere possim:
+Haec est mutatio dexterae Excelsi (Psal LXXVI 11). Revera extemplo projectis armis exierunt obviam
+ei, ejusque sunt amplexati vestigia.
+
+598
+01:51:39,037 --> 01:51:47,928
+Non parva siquidem
+laetitia eo die omnibus est facta. Patrem igitur
+Odonem coenobii receperunt claustra; reliqui omnes
+redierunt in sua.
+
+599
+01:51:47,928 --> 01:52:03,813
+Esca carnium et proprietas vix rescissa. Episcoporum
+concursus ad Odonem. 9. His praeterea diebus coepit eis suadere, ut ab
+esu carnium recederent, parceque viverent, nihilque
+proprium possiderent: id ipsum quod occulte habebant
+apostolorum more coram omnibus renuntiarent.
+
+600
+01:52:03,813 --> 01:52:20,863
+Sed quia res monasterii nequaquam in commune
+possederant, sed pro posse et libitu suo eas inter se
+diviserant, cum viderent sibi ultra jam non licere
+quod licuerat, maluerunt potius suis fautoribus,
+imo profligatoribus injuste possessas inique condonare,
+quam jure regulariterque abrenuntiare.
+
+601
+01:52:20,863 --> 01:52:33,897
+Nam
+solo prodictu id ipsum quod abrenuntiaverant moliebantur
+mandendo consumere cum caeteris quae
+pater noster secum tulerat, ut consumpta omnia
+saltem invitis eis carnem concederet. Qua de re indesinenter
+expetebant pisces.
+
+602
+01:52:33,897 --> 01:52:43,266
+Econtra pius pater
+cuncta illis impendebat competenter, ut ab uno eos
+cohiberet. Sicque factum est, ut ille largiendo, ipsique
+mandendo pene omnia consumerentur.
+
+603
+01:52:43,266 --> 01:52:56,824
+Instabat
+nimirum pater noster fide intrepidus, spe securus,
+charitate munitus, sciens se secundum illud evangelicum
+nequaquam deseri promissum. Nolite solliciti
+esse quid manducetis, aut quid bibatis, aut quo operiamini
+(Luc XII 22).
+
+604
+01:52:56,824 --> 01:53:14,106
+Interea dum haec agerentur, cuidam fratri sanctus Benedictus adest in visione, eique inter caetera imperat patri nostro dicere, ut pro pecuniae defectu minime trepidaret; sed nec pro adipiscendis rebus sollicitus esset, ait, et post haec adjecit: Crastina die mittam et centum solidos, et sequenti
+
+605
+01:53:14,106 --> 01:53:21,671
+hebdomada ei tanta accommodabo diversarum rerum solatia, ut multis temporibus sufficere queant usibus fratrum; quod et factum est.
+
+606
+01:53:21,671 --> 01:53:33,600
+10. Praeterea coepere quamplurimi ex circumfluis
+regionibus ad vestigia beati viri concurrere, ejusque
+magisterio placitae obedientiae viam arripere, quo
+postmodum mererentur polorum scandere sedes.
+
+607
+01:53:33,600 --> 01:53:43,903
+In
+tantum igitur sanctitatis ejus fama dilatata est, ut
+non solum laici seu canonici ad eum confluerent,
+verum etiam episcopi quidam proprias sedes relinquerent,
+ejusque se congregationi sociarent.
+
+608
+01:53:43,903 --> 01:53:55,776
+Interea
+videres locum illum quasi exculta spinis terra novas
+soboles, ceu novas fruges proferre, et quasi ex tritura
+areae crebris verborum ictibus tunsis sequestratum
+a vitiorum paleis frumentum conferre ad Dominicum
+horreum.
+
+609
+01:53:55,776 --> 01:54:10,886
+Factum in solemnitate S. Benedicti. 11. Alio item tempore appropinquabat dies festus
+beati Benedicti, complacuit patri nostro ex quodam
+monasterio quo tunc erat, ad praedictum proficisci
+coenobium, quatenus ante corpus beati viri nocturnas
+devote excubias celebraret; quod et fecit.
+
+610
+01:54:10,886 --> 01:54:23,103
+Nocte
+vero illa quae solemnem praecesserat diem contigit
+ut ante lucis ortum matutina Laus celebraretur. Nam
+cum quidam e fratribus nocturna vigilia fatigatus
+denuo se sopori dedisset, Benedictus beatus ei apparere
+dignatus est.
+
+611
+01:54:23,103 --> 01:54:35,374
+Cui cum se prius agnitum reddidisset,
+protinus subjunxit: Nuntia, inquiens, fratribus,
+quia in hac nocte non potui cum illis esse, ero
+pro certo hodie. Et ubi fuisti, inquit, domine? Et
+beatus ait Benedictus: In insula Britannia.
+
+612
+01:54:35,374 --> 01:54:49,091
+At ille:
+Quid, inquit, ibi fecisti? et ille respondit: Frater
+Leutfredus qui propter suam superbiam deserens
+hunc locum transfretavit maria, hac nocte fuit defunctus,
+et a daemonibus receptus. Contra quos agonem
+intorsi, eumque ab eorum potestate liberavi.
+
+613
+01:54:49,091 --> 01:55:04,523
+Quo audito, coepit frater ille super hujus rei factum
+admirari attonitus. Ad quem rursus ait pater sanctus:
+Si super hoc factum miraris, iterum audi. Scias pro certo, quia ab illo die quo hoc monasterium
+fuit constructum, quotquot fratres hic fuerunt
+migrati, aeterna requie sunt recepti.
+
+614
+01:55:04,523 --> 01:55:17,597
+Deinde
+adjecit frater ille: Quia, domine, dixisti hodie nobiscum
+te esse debere, quis nobis notam faciet horam
+adventus tui, ut occurramus tibi. At ille: Nemo,
+inquit, sed ego tale signum ostendam omnibus. quod de mea praesentia nullus dubitet.
+
+615
+01:55:17,597 --> 01:55:30,940
+Adjecit frater
+et ait: Et quali cum apparatu tantum patrem
+suscipere poterimus, aut quibus obsequiis astabimus
+ei? Cui beatus respondit Benedictus: Si pro lautioribus
+cibis estis solliciti, pisces abundanter habetis. At ille: Nequaquam, ait, domine.
+
+616
+01:55:30,940 --> 01:55:39,192
+Et sanctus: Praecipiatur,
+inquit, piscatoribus ut nequaquam eant in
+Ligeris alveum ad piscandum, sed in hac palude,
+quae secus influit monasterium.
+
+617
+01:55:39,192 --> 01:55:52,241
+His auditis evigilans
+a somno frater, cum tempus fuisset loquendi, omnia
+quae sibi fuerant imperata studuit fratribus innotescere. Certi ergo fratres de adventu patris et admonitione
+patris nostri Odonis edocti, unusquisque
+satagebat spirituali patri de corde proprio spiritualia
+offerre munera.
+
+618
+01:55:52,241 --> 01:56:03,432
+Unde factum est, ut ipsum diem
+cum spiritualibus hymnis, orationibusque transigerent. Interea famuli monasterii qui piscandi officio
+erant dediti, nequaquam, sicut eis imperatum fuerat,
+abierunt in paludem, sed in Ligeris fluvium, a
+quo fuerant secreti.
+
+619
+01:56:03,432 --> 01:56:16,172
+Unde factum est, ut absque
+ullo emolumento, licet fatigati, fere hora tertia ad
+monasterium sunt reversi. Qui videlicet requisiti
+cur vacui rediissent, confusi praesumptione inobedientiae
+erubescebant confiteri quod egerant. Sed silentium
+quod indicebat pudor, hoc reserabat faciei
+rubor.
+
+620
+01:56:16,172 --> 01:56:23,294
+Quibus ait oeconomus: Scio enim praesumptionem
+vestram. Sed quoniam prius imperata
+renuistis, nunc secundo in paludem piscandi gratia
+redite; quod et factum est.
+
+621
+01:56:23,294 --> 01:56:35,547
+Revera subito
+tantos in hac piscatione traxerunt pisces, ut
+pene nullus ambigeret, quod ipse qui in deserti
+regione ortigometras populo tribuerat, etiam tunc
+in eamdem paludem pisces influeret. Etenim usque
+adeo ibidem superabundant, ut videlicet
+nullo tempore ab ea deficiant.
+
+622
+01:56:35,547 --> 01:56:47,358
+Sicque factum est
+ut palus, quae ranas prius ebullire consueverat,
+deinceps piscibus abundaret. Hoc miraculum ipse
+pater noster in libro quem de adventu corporis
+sancti Benedicti in Aurelianensi, eodem sensu, sed
+non eisdem verbis cum caeteris perspicacissime edidit.
+
+623
+01:56:47,358 --> 01:57:00,231
+Convenerat igitur ad eamdem solemnitatem ex circumfluis regionibus non modica turba hominum , inter quos quamplurimi erant caeci et claudi, seu paralytici, atque diversis languoribus dediti, exspectantes tempus refectionis; de quibus omnibus imperatum est a patre Odone ut ante tempus missae
+
+624
+01:57:00,231 --> 01:57:01,646
+nequaquam eis cibum impertirent.
+
+625
+01:57:01,646 --> 01:57:07,176
+Facta autem hora, ingressi sunt omnes ad missam. Tanta enim est magnitudo ecclesiae, ut nullus cogeretur
+foris stare.
+
+626
+01:57:07,176 --> 01:57:19,417
+Enimvero ut angelicum coepere
+hymnum canere, id est, Gloria in excelsis Deo;
+magno quodam strepitu fores ecclesiae subito sunt
+concussae et reseratae, ita duntaxat ut omnes post
+tergum aspicerent quodam horrore perculsi.
+
+627
+01:57:19,417 --> 01:57:35,108
+In ipso
+autem strepitu omnes qui illic aderant infirmi pristinae
+sanitati sunt redditi, scilicet caeci visum,
+surdi auditum, claudi recepere gressum. Equidem
+et lampades ecclesiae omnes fuere illuminatae. Tunc
+intellexerunt omnes ibi beatum, sicut praedixerat,
+advenisse Benedictum.
+
+628
+01:57:35,108 --> 01:57:49,464
+In tantum enim devotio
+spiritualis omnium corda replevit, ut prae immenso
+gaudio a lacrymis se continere non possent. Nomina
+vero fratrum qui hoc viderunt innotescere
+mihi renuit pater Odo. Qua de re dubium est, utrum
+ipse an alius fuerit qui haec viderit.
+
+629
+01:57:49,464 --> 01:57:56,141
+S. Odo, Romae aegrotans, vitae inducias obtinet. Turonos
+accedit in festo S. Martini. Octava S. Martini
+moritur. 12.
+
+630
+01:57:56,141 --> 01:58:12,951
+Instante vero jam mortis ejus articulo, cum piis ejus actibus, ut supra retulimus, corona beatae remunerationis deberetur a Christo; Romae positus, acuta et continua febre corripitur, membra dolore franguntur, frigidus ignis ipsas cum carne medullas consumit, diversaque et multiplicia genera
+
+631
+01:58:12,951 --> 01:58:20,319
+passionum in uno homine ita insurgunt, ut pro vero esset se jam jamque a Domino vocari, et terreni hominis indumento exspoliari.
+
+632
+01:58:20,319 --> 01:58:28,379
+Quid faceret vir
+sanctus? nimirum apostoli fidelis imitator et vicarius,
+jam resolvi desiderat, et cum Christo vivere
+votis omnibus exoptat.
+
+633
+01:58:28,379 --> 01:58:40,756
+Percucurrerat enim
+sanctorum certamen laborum, ac totius virtutis
+egregium compleverat cursum, ut merito per gratiam
+divinae pietatis coronam sibi justitiae repositam
+esse in coelis tota spei certitudine confideret.
+
+634
+01:58:40,756 --> 01:58:55,896
+Praeterea dum de hac sua vocatione suspensus
+haberetur, desiderio sibi fuit prius suum Martinum,
+in quo, ut ita loquamur, cum ipso lacte carnis ardorem
+inexhausti amoris , orationis gratia
+revisere, et ei extremum spiritum cum proprii
+corporis favilla consignare.
+
+635
+01:58:55,896 --> 01:59:05,164
+Quia vero Dei omnipotentis
+clementia piis semper votis dignatur adesse,
+affuit mox et in hoc nostro Odone, quem sibi alterum
+vas electionis segregaverat a matre.
+
+636
+01:59:05,164 --> 01:59:22,434
+Videt enim Deo dilectus in sequenti nocte virum quemdam conspicabilis formae simul et gratiae, talia sibi per visum dicere: O sancta et Deo dilecta anima, instat quidem tua vocatio, et ultima corporis resolutio; sed Martinus te precibus differt, et ad patriam reditum et vires ministrat; sed cum illo
+
+637
+01:59:22,434 --> 01:59:29,227
+perveneris, mox tibi vita pro morte dabitur, et beata societas electorum pro tuo pio labore a Christo recompensabitur.
+
+638
+01:59:29,688 --> 01:59:47,333
+Visioni mox signa dant fidem: aegritudo corporis aliquantisper deficit, salus accelerata redit, itineris continuo difficultatem invadit, nec reputans senilia et praemortua membra, vicit durum laborem, ob nimium in Martino ardorem, tanto jam devotior in spirituali obsequio, quanto securior de
+
+639
+01:59:47,333 --> 01:59:47,817
+praemio.
+
+640
+01:59:47,817 --> 01:59:56,156
+Consumpta itaque tanti laboris via,
+Turonis ventum est, instante jam beati pontificis
+celebritate, qua spiritus victor migravit a corpore.
+
+641
+01:59:56,156 --> 02:00:06,429
+Fit tunc gemina urbis exsultatio, dum et Martini
+annua celebritas renovatur, et Odonis concivis diu
+desiderata praesentis ab omnibus in commune venerabiliter
+amplectitur.
+
+642
+02:00:06,429 --> 02:00:24,196
+In qua sancta festivitate vir
+sanctus quam devotus exstitit, quas preces fletibus
+mistas Martino effuderit, quae etiam contriti cordis
+sacrificia in ara illa salutari, tanquam vivens hostia
+mactaverit, non est nostrae facultatis evolvere, quos
+deprimit stoliditas mentis et rusticitas sermonis.
+
+643
+02:00:24,196 --> 02:00:35,557
+De sua namque vocatione sollicitus, fixus ad Deum
+erat animus, et terrena jam oblitus, puro mentis
+intuitu, tanquam verus Martini vernaculus, coelestia
+tantummodo contemplabatur attentius.
+
+644
+02:00:35,557 --> 02:00:53,445
+Suspensus itaque redditur tali exspectatione, tota illa beati pontificis celebritate: sed (quod contra spem sibi accidit) per triduum differri sibi repromissa munera anxius ingemiscit: cum ecce quarto die transactae festivitatis, iterum rediviva febris accenditur, frigidus irrepit mox praecordia
+
+645
+02:00:53,445 --> 02:00:56,466
+sanguis, atque suas consumit acerbo vulnere vires.
+
+646
+02:00:56,466 --> 02:01:12,057
+Tunc sui jam
+voti compos effectus, et de Dei misericordia certus,
+spiritus quidem fessus languescit aegroto corpore. Sed mens laeta Deum cernit, suspirat, anhelat,
+Ultima vox resonat. Tu, Christe, parce redemptis. Martinum ingeminat, Martinum suspicit, orat.
+
+647
+02:01:12,057 --> 02:01:24,144
+Monachos undecunque venientes, et suam vocationem
+irremediabiliter deflentes, instruit sermonibus,
+consignat Deo paternis orationibus, protegit
+benedictionibus, et valedicit piis singultibus.
+
+648
+02:01:24,144 --> 02:01:40,042
+Advenerat vero jam quartadecima dies ante Decembrem, quae etiam octava Martinianae celebritatis habetur, cum beatus ille spiritus, divina illa et salutari pinguedine recreatus, et vivificanti poculo vegetatus, corruptibili carne solutus, liber ad aethera migrat, et Martino duce, sibi crediti talenti
+
+649
+02:01:40,042 --> 02:01:42,321
+multiplicem fructum fideliter repraesentat.
+
+650
+02:01:42,321 --> 02:01:55,200
+A quo percipiens et ipse
+praemium condignum pii laboris, sanctorum coetibus
+admistus, resplendet candore beatae immortulitatis,
+per Christum Dominum nostrum, qui vivit, regnat
+in saecula saeculorum. Amen. <span class="text-blue-600 font-bold"
+

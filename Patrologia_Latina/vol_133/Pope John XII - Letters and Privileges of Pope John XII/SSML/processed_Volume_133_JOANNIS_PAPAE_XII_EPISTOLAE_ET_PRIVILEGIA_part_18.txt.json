@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n           Fifteen <break time=\"500ms\"/> Privilege of Pope John the Twelfth for the Monastery of Saint Peter in Bivore, Year Nine Sixty-Three.\n        </s>\n        <s>\n            The monastery of Saints Peter, John, Vitus, Stephen, and Agatha in Bivore, founded by Count Billingo, is placed under the jurisdiction of the one apostolic seat.\n        </s>\n        <s>\n            Its properties are confirmed with the condition that a reasonable payment of one pound of silver is offered on the altar of Saint Peter by him and his successors every fifteen years.\n        </s>\n        <s>\n            With the highest apostolic authority.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "XV. JOANNIS PAPAE XII PRIVILEGIUM PRO MONASTERIO\nS. PETRI BIVORENSI. (Anno 963) Monasterium SS. Petri, Joannis, Viti, Stephani et\nAgathae Bivorense, a Billingo comite conditum,\nunius sedis apostolicae jurisdictioni subjicit, bonaque\nejus confirmat, ea lege ut sibi suisque successoribus\nsingulis quibusque indictionibus pensi nomine\nrationabiliter una libra argenti super altare\nS. Petri conferatur. Cum summae apostolicae, etc.",
+      "voice": "Matthew"
+    }
+  ]
+}

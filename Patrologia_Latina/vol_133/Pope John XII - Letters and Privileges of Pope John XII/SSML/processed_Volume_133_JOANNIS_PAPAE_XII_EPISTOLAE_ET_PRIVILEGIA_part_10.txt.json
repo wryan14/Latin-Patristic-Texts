@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "VIII. RESCRIPTUM JOANNIS PAPAE XII pro EXCOMMUNICATIONE\nARTALDI RHEMENSIS, AMBLARDI LUGDUNENSIS ARCHIEPISCOPORUM,\netc., OB S. SYMPHORIANI POSSESSIONUM\nINVASIONEM. (Anno 958)",
+      "cleaned_english_translation": "<speak>\n    Letter Eight: Rescript of Pope John XII for the Excommunication of Artaldus of Reims and Amblardus of Lyon, Archbishops, etc., for the Invasion of the Possessions of St. Symphorian. (Year Nine Hundred Fifty-Eight)<break time=\"500ms\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>In the year 959 AD, during the third indiction, Emperor Michael ruled in Constantinople, Lord John held apostolic authority in Rome, and Lothair was King of the Franks. During this time, an excommunication was sent to the archbishops of France and Burgundy.</s>\n        <break time=\"500ms\"/>\n        <s>It was addressed to Artald, Archbishop of the Church of Reims, and the bishops under his authority; to Amblard, Archbishop of the Church of Lyon; to Rodmund, Bishop of the Church of Autun; to Achard, Bishop of the see of Langres; to Frotgar, Bishop of the Church of Chalon; to Natran, Bishop of Nevers; and to Richard, Bishop of Auxerre.</s>\n        <break time=\"500ms\"/>\n        <s>This message concerns the land and property of Saint Faustus, Saint Augusta, and Saint Symphorian, located in the region of Provence, within the area known as Magna, which is held by Isuard and his associates through authority.</s>\n    </p>\n</speak>",
+      "original_latin": " Transmissio excommunicationis. Anno incarnationis Dominicae 959, indictione III,\nimperante Michaele imperatore Constantinopoli,\n domno autem Joanne apostolico Romae praesidente,\nregnante vero Lothario Francorum rege, transmissa\nest haec excommunicatio archiepiscopis Franciae et\nBurgundiae: Artaldo Rhemensis Ecclesiae archiepiscopo\net subjectis sibi episcopis, Amblardo Lugdunensis\nEcclesiae archiepiscopo, Rodmundo Edunensis\nEcclesiae episcopo, Achardo Lingonensis sedis episcopo,\nFrotgario Cabilonensis Ecclesiae episcopo,\nNatrano Nivernensi episcopo, Richardo Antissiodorensi\nepiscopo, de terra et alodo S. Fausti, et sanctae\nAugustae, et S. Symphoriani, quae est in regione\nProvinciae, in finibus loci qui vocatur Magna; quam\ntenet per potestatem Isuardus et socii ejus.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            The life of Saint Odon, the second Abbot of Cluny.\n        </s>\n    </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "VITA SANCTI ODONIS\nABBATIS CLUNIACENSIS II. ",
+      "voice": "Ruth"
+    }
+  ]
+}

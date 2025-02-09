@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Pope John the Twelfth: Epistles and Privileges<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "JOANNIS PAPAE XII\nEPISTOLAE ET PRIVILEGIA.",
+      "voice": "Ruth"
+    }
+  ]
+}

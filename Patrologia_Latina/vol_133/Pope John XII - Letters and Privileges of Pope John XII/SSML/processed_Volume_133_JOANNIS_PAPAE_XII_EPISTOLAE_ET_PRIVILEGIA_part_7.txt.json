@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Five <break time=\"500ms\"/>LETTER OF JOHN THE TWELFTH TO ARCHBISHOP HENRY OF TRIER.\n    </s>\n    <s>\n      Fragment. - Year 957.\n    </s>\n    <s>\n      He grants the use of the pallium.\n    </s>\n  </p>\n  <p>\n    <s>\n      JOHN, bishop, servant of the servants of God, to the most reverent and beloved brother HENRY, Archbishop of the Holy Church of Trier, for your life only.\n    </s>\n  </p>\n  <p>\n    <s>\n      Given the day before the Ides of February by the hand of John, the librarian of the holy apostolic see, in the year of our Lord, during the pontificate of the lord John, supreme pontiff and twelfth universal pope, seated in the most sacred chair of the blessed Apostle Peter, with the most pious lord Augustus Otto, crowned by God, great emperor, in his first year, in the month of February, in the fifth indiction.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "V.\nJOANNIS XII EPISTOLA AD HENRICUM ARCHIEPISCOPUM\nTREVIRENSEM. Fragmentum.---(Anno 957) Illi pallii usum concedit. JOANNES episcopus, servus servorum Dei, reverentissimo\net charissimo fratri ENRICHO sanctae Trevirensis\nEcclesiae archiepiscopo vitae tuae tantummodo . . . Datum pridie Id. Febr. per manum Joannis\nbibliothecarii sanctae sedis apostolicae anno Deo propitio\npontificatus domni Joannis summi pontificis et\nuniversalis XII papae, in sacratissima sede beati\nPetri apostoli V . . . . . domno piissimo . . . . . Augusto\nOttone a Deo coronato, magno imperatore anno\nprimo, in mense Februario, indictione V.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Notice regarding the two following sermons.</s>\n        <s>These two sermons, previously unpublished, were transcribed from a Vatican manuscript by the distinguished Luca Holstenius in the past and sent here by the eminent Cardinal Barberini.</s>\n        <s>Since it was not possible to publish them in sequence with the other sermons of Saint Fulgentius, it seemed fitting to include them here at the end of his works.</s>\n        <break time=\"500ms\"/>\n        <s>We have little doubt that the first sermon truly belongs to Fulgentius; however, we believe the second should be attributed to another author, who is indeed respected, although possibly later than Fulgentius.</s>\n        <s>We have not yet discovered who that author is.</s>\n    </p>\n</speak>",
+      "original_latin": "ADMONITIO\nIN SERMONES DUOS QUI SEQUUNTUR. 664 Sermones hosce duos hactenus ineditos, e Vaticano\ncodice a viro clarissimo Luca Holstenio olim descriptos,\net ab eminentissimo cardinale Barberino huc missos,\nquia cum caeteris sancti Fulgentii sermonibus suo\nordine in lucem edere non licuit, visum est hic ad calcem\n operum ejus apponere. Horum autem priorem vera\nFulgentii esse vix dubitamus; posteriori vero auctorem\nalium, et hunc quidem probatum, licet forte Fulgentio\nposteriorem vindicandum arbitramur. Quis vero\nsit ille hactenus non comperimus.",
+      "voice": "Ruth"
+    }
+  ]
+}

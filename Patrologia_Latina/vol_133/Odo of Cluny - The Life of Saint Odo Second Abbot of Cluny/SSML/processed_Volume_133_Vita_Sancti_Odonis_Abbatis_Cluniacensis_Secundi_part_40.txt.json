@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>John is foretold of the bishopric.</s><break time=\"500ms\"/>\n    <s>Fifteen.</s><break time=\"500ms\"/>\n  </p>\n  <p>\n    <s>Recently, in the presence of our brothers and others with us, Lord John, the bishop of the Church of Nola, shared that three years ago he had traveled to Rome twice but couldn't receive the blessing of the said bishopric due to opposing enemies.</s>\n    <s>Meanwhile, Lord Odo was on his way to Gargano for prayer.</s>\n    <s>Seeing John's sadness, he asked what was troubling him.</s>\n    <s>After John explained his concerns and expressed his reluctance to return to Rome a third time for the papal order, Odo blessed him and said, \"Go again without worry, and know that God has fulfilled your wish.\"</s>\n    <s>Then, he let him go.</s>\n  </p>\n  <p>\n    <s>Following the blessing, John departed, and within fifteen days, just as our father had predicted, it happened for him.</s>\n    <s>This is why we confidently assert that this man truly possessed the spirit of prophecy, as his words are confirmed with such authority.</s>\n  </p>\n</speak>",
+      "original_latin": "Joanni episcopatum praedicit. 15. Praeteritis his diebus coram nostris fratribus\net aliis qui aderant nobiscum, retulit domnus Joannes,\nNolanae  Ecclesiae episcopus, quod ante hoc\ntriennium bis Romam isset, et praedicti episcopatus\nbenedictionem resistentibus inimicis nequivisset accipere. Interea domnus Odo orationis gratia Garganum\nibat. Cumque vidisset eum tristem, sciscitavit\neum quid haberet. Cui ille cum omnia quae sibi aderant\nretulisset, et quia quasi spe desolatus accipiendi\nordinem pontificatus confundebatur tertio\nRomam reverti; benedixit ei, et dixit: Perge iterum\nsecurus, et scias quia complevit Deus votum tuum:\ndeinde dimisit eum. At ille accepta benedictione\nabiit, et infra spatium quindecim dierum, sicut pater\nnoster praedixerat, illi advenit. Qua de re indubitanter\nproferimus, vir iste prophetiae spiritum\nveraciter habuit, cujus verba tanta sunt auctoritate\nfirmata.",
+      "voice": "Matthew"
+    }
+  ]
+}

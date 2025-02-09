@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "NOTITIA HISTORICA. (Apud Mai Spicilegii Romani tom V)",
+      "cleaned_english_translation": "<speak>\n    Historical Account. (In Mai's Roman Anthology Volume Five)<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Historical Note.\n    </s>\n    <s>\n      In Mai's Spicilegium Romanum, Volume 5.\n    </s>\n    <s>\n      Peter the Deacon, in his book \"On the Illustrious Men of Monte Cassino,\" chapter 6, mentions:\n    </s>\n    <s>\n      Lawrence, a monk at the Monte Cassino monastery, was unmatched in knowledge compared to any of his predecessors after the most holy Benedict. He became a bishop and composed an elegant sermon for the vigil of Saint Benedict.\n    </s>\n    <s>\n      The records of Monte Cassino do not specify Lawrence's episcopal seat; however, Marus, in his notes on Peter the Deacon, notes that Lawrence flourished around the year 950 AD.\n    </s>\n    <s>\n      I am pleased to present the following sermon from Vatican codex 1202, which was formerly from Monte Cassino and is written in Lombardic letters with beautiful illustrations.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Petrus Diaconus in libello De viris illustribus Casinensibus, cap. 6, haec habet: Laurentius Casinensis coenobii\nmonachus, scientia antecessorum suorum post sanctissimum Benedictum, nulli inferior, factus episcopus,\netc., sermonem de beati Benedicti vigilia elegantem composuit. Sedem Laurentii episcopalem Casinensia\nmonumenta non designant; ipsum tamen circa annum Christi 950 floruisse tradit Marus in adnotationibus\nad Petrum Diaconum. Sequentem ego sermonem ex codice Vaticano 1202, olim Casinensi,\nLongobardicis litteris scripto et mire picto, libenter profero.",
+      "voice": "Ruth"
+    }
+  ]
+}

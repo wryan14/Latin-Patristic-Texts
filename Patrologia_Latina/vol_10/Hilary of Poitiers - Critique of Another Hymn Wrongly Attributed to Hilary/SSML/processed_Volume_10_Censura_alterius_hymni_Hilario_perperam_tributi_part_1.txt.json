@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CENSURA ALTERIUS HYMNI HILARIO PERPERAM TRIBUTI. ",
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Critique of Another Hymn Wrongly Attributed to Hilary</s>\n  </p>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n\n  <p>\n    <s>In the manuscript of Cardinal Sirleto, which was once in the library of Altemps and now belongs to Cardinal Ottoboni, this hymn is followed by another, longer one.</s>\n    <s>This could be considered late, as mentioned in the previous letter to Abraham.</s>\n    <s>It definitely suits the evening time.</s>\n  </p>\n  <p>\n    <s>It begins with the stars and serves as a kind of general confession of a soul, groaning under the attack of vices like lust, pride, envy, discord, vanity, gluttony, and unchecked joy, relying solely on God's mercy and the merits of Christ to seek forgiveness.</s>\n  </p>\n  <p>\n    <s>Moreover, it reflects the time of the Arian heresy, as it expresses a faithful spirit.</s>\n    <s>It explicitly condemns Arius and Sabellius by name, and adds no other heretics except, perhaps to complete the verses, Simon Magus.</s>\n  </p>\n  <p>\n    <s>However, the wording does not seem worthy of Hilary.</s>\n    <s>The verses are structured by the number of syllables rather than the rhythm.</s>\n  </p>\n  <p>\n    <s>And although the speech should be in the feminine gender if this hymn were meant to be sung by a daughter, it is consistently masculine.</s>\n    <s>From the beginning to the end, let the reader decide what to think of the rest of the hymn.</s>\n  </p>\n</speak>",
+      "original_latin": "In ms. alias Cardin. Sirleti, tum Altempensis bibliothecae,\nnunc Cardinalis Ottoboni, hunc hymnum sequitur\nalter prolixior, qui serotinus existimari possit in superiore\nad Abram epistola memoratus. Certe in serotinum\ntempus apprime convenit. Ab astris enim exordium\nducit, estque generalis quaedam confessio animi, qui\nlasciviae, superbiae, invidiae, discordiae, inanis gloriae,\ngulae ac gestientis laetitiae vitiis se impetitum ingemiscens,\nuna Dei misericordia Christique meritis fretus veniam\nprecatur. Praeterea Arianae haeresis tempora in hoc sapit,\n quod fidelem animum professus, Arium ac Sabellium\nnominatim detestatur, nec ullum his addit haereticum,\nnisi, forte ad complendos versus, Simonem magum. Tamen dictio non videtur Hilario digna. Ubique\nversuum mensura syllabarum potius quam pedum numero\nterminatur. Et cum sermo deberet esse feminini generis,\nsi a filia canendus esset hic hymnus, ubique est\nmasculini. Ex initio et fine judicet lector, quid de hymno\nreliquo sentiendum sit.",
+      "voice": "Matthew"
+    }
+  ]
+}
