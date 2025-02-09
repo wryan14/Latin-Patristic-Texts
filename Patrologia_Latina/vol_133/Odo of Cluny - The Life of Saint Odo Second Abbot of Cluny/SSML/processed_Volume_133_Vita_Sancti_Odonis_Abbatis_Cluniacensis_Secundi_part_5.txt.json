@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Odonis summa vitae. 3. Odo igitur, vir beatissimus, ex Francorum\nprosapia  exstitit oriundus, sed intra domum Guillelmi\nrobustissimi ducis Aquitaniae est alitus. Nono\ndecimo aetatis suae anno apud beatum Martinum Turonis\nest tonsus, ibique grammaticae artis liberalibus\nstudiis educatus. Deinde apud Parisium dialectica\nmusicaque a Remigio doctissimo viro est in tructus,\net tricesimo ortus sui anno Burgundiam petiit ibique\nper quindecim annos sub Bernone abbate monasticam\nvitam duxit. Postmodum vero abbas ordinatus,\nFranciarum, Aquitaniarum, Hesperiarumve partium,\natque urbis Romanae consistentium coenobiorum effectus\ndux et pater dulcissimus.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>Odo, a truly blessed man, was born from the lineage of the Franks.</s> \n        <s>He grew up in the household of William, the powerful Duke of Aquitaine.</s>\n    </p>\n    <p>\n        <s>At the age of nineteen, he was tonsured at Saint Martin of Tours.</s>\n        <s>There, he was educated in the liberal arts, focusing on grammar.</s>\n    </p>\n    <p>\n        <s>He then went to Paris, where he studied dialectics and music under Remigius, a very learned man.</s>\n    </p>\n    <p>\n        <s>When he was thirty, he traveled to Burgundy and lived a monastic life for fifteen years under Abbot Berno.</s>\n    </p>\n    <p>\n        <s>Eventually, he was ordained as an abbot and became a beloved leader and father to the monasteries in the regions of France, Aquitaine, Italy, and the city of Rome.</s>\n    </p>\n</speak>"
+        }
+    ]
+}

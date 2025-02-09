@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT II. De poenis infernalibus.",
+      "cleaned_english_translation": "<speak>\n    Chapter Two: On Infernal Punishments<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>There are two main torments in hell: unbearable cold and the heat of unquenchable fire.</s>\n    <s>As it is mentioned in the Gospel: \"There will be weeping and gnashing of teeth\" <break time=\"500ms\"/> Matthew thirteen:fifty-one; twenty-two:thirteen; and twenty-five:thirty.</s>\n    <s>Weeping and the melting of eyes arise from heat, while the gnashing of teeth comes from the cold.</s>\n    <s>This is also reflected in the words of the blessed Job: \"They pass from the waters of snow to excessive heat\" <break time=\"500ms\"/> Job twenty-four:nineteen.</s>\n  </p>\n  <p>\n    <s>From these two sources stem countless types of punishments: unbearable thirst, the agony of hunger, the torment of stench, the horror, the fear, the anguish, the darkness, the severity of torturers, the presence of demons, the ferocity of beasts, the cruelty of attendants, the tearing by immortal worms, the worm of conscience, fiery tears, sighs, miseries, pain without remedy, chains without release, eternal death, punishment without end, and the absence of Christ after having seen Him, which alone surpasses all the aforementioned and is more intolerable than all punishments.</s>\n  </p>\n</speak>",
+      "original_latin": " Principalia autem sunt duo tormenta in inferno:\nfrigus intolerabile, et calor ignis inexstinguibilis. Unde\nin Evangelio legitur: Illic erit fletus et stridor\ndentium (Matth XIII 51; XXII 13 et XXV 30). Fletus\nnamque et liquefactio oculorum ex calore nascitur;\nstridor vero dentium ex frigore nascitur. Hinc\netiam beatus Job: De aquis, inquit, nivium transibunt\nad calorem nimium (Job XXIV 19). De quibus duobus\ninnumera pendent poenarum genera; videlicet, sitis\n intolerabilis, poena famis, poena fetoris, poena horroris,\npoena timoris, poena angustiae, poena tenebrarum,\nseveritas tortorum, praesentia daemonum, ferocitas\nbestiarum, crudelitas ministrantium, dilaceratio\nimmortalium vermium, vermis conscientiae, ignitae\nlacrymae, suspiria, miseriae, dolor sine remedio,\nvincula sine solutione, mors aeterna, poena sine fine,\nabsentia Christi  post visionem ejus, quae sola omnia\nsupra dicta superat, et omnibus poenis intolerabilior.",
+      "voice": "Matthew"
+    }
+  ]
+}

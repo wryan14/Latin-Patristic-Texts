@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Item ultio de alio cui vena secta. 5. Fateri autem solent fratres nostri, qui ante\nnos astiterunt illi, quod fuit unus quidam frater ex\npatris nostri congregatione, qui licito tempore\nphlebotomi sibi curationem adhibuisset. Super quo\nfacto commotus est ejus animus, quia quamvis eum\nnecessitas coegisset, tamen absque ejus licentia hoc\nnon debuit praesumere. Mox vero per quam prius\nsanguis effluxerat, disrupta est vena, et quousque\nredderet animam, a quocunque medicamine non fuit\nrestricta. Addebant insuper, quod sive prospera,\nseu adversa cuilibet indixisset, nullatenus illis carere\npotuisset; quod utinam quidam ex nostris in se\nipso expertus non fuisset. Sed felices illi, qui ejus\npraesentiam cernere meruerunt quoad vixit. Infelix\nego, qui nec duobus expletis annis illi merui famulari.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>Here's a warning about someone whose vein was cut.</s>\n        <s>Our brothers, who came before us, often share that there was a brother from our father's congregation who, at the right time, underwent a bloodletting treatment.</s>\n        <s>This action troubled his spirit because, even though necessity forced him, he shouldn't have done it without permission.</s>\n        <s>Soon after, the vein from which the blood flowed burst, and until his last breath, no remedy could stop it.</s>\n        <s>They also mentioned that whether he predicted good or bad for someone, it was unavoidable.</s>\n        <s>I wish some of us hadn't experienced this ourselves.</s>\n        <s>Blessed are those who were fortunate enough to witness his presence while he was alive.</s>\n        <s>Unlucky me, who didn't deserve to serve him for even two whole years.</s>\n    </p>\n</speak>"
+        }
+    ]
+}

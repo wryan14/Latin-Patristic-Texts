@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Virgil is devoted and becomes frightened.</s>\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        <s>In those days, our most skilled sailor, who guided us through the whirlpools of this world, swam across the vast sea of Priscian.</s>\n        <s>As he was eager to read Virgil's poems, he had a vision of a certain vessel.</s>\n        <s>It appeared beautiful on the outside, but inside, it was filled with serpents that surrounded him without biting.</s>\n    </p>\n    <break time=\"500ms\"/>\n    <p>\n        <s>Upon waking, he realized that the serpents symbolized the teachings of the poets, the vessel represented Virgil's book, and the path he walked on, while very thirsty, symbolized Christ.</s>\n    </p>\n</speak>",
+      "original_latin": "Virgilio deditus terretur. 12. His praeterea diebus nauta noster peritissimus,\nqui nos suo ductu docuit transmeare gurgites istius\nmundi, immensum Prisciani transiit transnatando\npelagus. Nam Virgilii cum voluisset legere carmina,\nostensum fuit ei per visum vas quoddam, deforis\nquidem pulcherrimum, intus vero plenum serpentibus,\na quibus se subito circumvallari conspicit, nec\ntamen morderi, et evigilans serpentes doctrinam\npoetarum, vas in quo latitabant, librum Virgilii;\nviam vero per quam incedebat valde sitiens, Christum\nintellexit.",
+      "voice": "Matthew"
+    }
+  ]
+}

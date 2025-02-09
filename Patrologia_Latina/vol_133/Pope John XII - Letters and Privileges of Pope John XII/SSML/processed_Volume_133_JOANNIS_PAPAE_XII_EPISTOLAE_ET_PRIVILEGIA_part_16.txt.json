@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Letter 13.</s><break time=\"500ms\"/>\n        <s>This is a letter from Pope John the Twelfth to Henry, the Archbishop of Trier. It's a fragment from the year 962.</s>\n    </p>\n    <p>\n        <s>The Pope reinstates the use of the pallium to him.</s>\n    </p>\n    <p>\n        <s>John, servant of the servants of God, addresses the most beloved and most reverend Henry, Archbishop of the holy Church of Trier, granting this privilege only during the days of his life.</s>\n    </p>\n    <p>\n        <s>Issued on the eighth of January, delivered by Leo, the official of the holy apostolic seat, during the pontificate of Lord John, the supreme pontiff and universal pope, the twelfth.</s>\n    </p>\n    <p>\n        <s>This occurred at the most sacred seat of the blessed Peter the apostle, on the second day of January, in the fifteenth indiction, in the year of our Lord's incarnation nine hundred fifty-seven.</s>\n    </p>\n</speak>",
+      "original_latin": "XIII. EPISTOLA JOANNIS PAPAE XII AD HENRICUM TREVIRENSEM\nARCHIEPISCOPUM. Fragmentum.---(Anno 962) Illi usum pallii iterum concedit. JOANNES servus servorum Dei, charissimo ac reverentissimo\nHENRICO sanctae Trevirensi Ecclesiae\n archiepiscopo, diebus vitae tuae tantummodo . . . . . Datum VI Idus Jan. per manum Leonis nomenculatoris\nsanctae sedis apostolicae, anno, Deo propitio,\npontificatus domni Joannis summi pontificis et universalis\nXII papae in sacritissima sede beati Petri\napostoli secundo, in mense Januario, et indictione XV,\nanno incarnationis Domini 957.",
+      "voice": "Matthew"
+    }
+  ]
+}

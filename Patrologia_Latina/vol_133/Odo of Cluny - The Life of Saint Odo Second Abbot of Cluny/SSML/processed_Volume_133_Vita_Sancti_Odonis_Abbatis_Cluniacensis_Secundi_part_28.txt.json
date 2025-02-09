@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      Odo was reluctantly chosen as abbot.\n    </s>\n    <s>\n      During that time, Father Bernus began suffering from a deadly illness.\n    </s>\n    <s>\n      He soon called the nearby bishops and resigned from all his duties.\n    </s>\n    <s>\n      With a tearful voice, he declared himself guilty and unworthy of such a ministry.\n    </s>\n  </p>\n  <p>\n    <s>\n      Meanwhile, he asked the brothers to choose whoever they wanted as their father.\n    </s>\n    <s>\n      Then, the brothers seized our father and, as if forcibly constrained, brought him before the abbot, with everyone demanding that he be ordained.\n    </s>\n    <s>\n      Since he still did not want to yield and take on the role of pastor, he was eventually overcome by the bishops' excommunication.\n    </s>\n    <s>\n      Thus ordained, Father Bernus soon thereafter passed away to the Lord.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Odo abbas electus invite. 38. Per illud videlicet tempus exitiali languore\ncoepit decumbere pater Bernus. Mox vicinos episcopos\naccersivit, et ab omni ordine se deposuit:\ninsuper et flebili voce se reum indignumque tali\n ministerio proclamabat praefuisse. Rogabat inter\nhaec verba fratres, ut sibi quem vellent, patrem\neligerent. Tunc manibus fratrum pater noster captus,\net quasi violenter constrictus, ac proclamantibus\nomnibus ut ordinaretur, coram abbate suo vi\nest ductus. Et cum nec sic vellet cedere, et locum\npastoris subire; superatus est tandem episcoporum\nexcommunicatione. Ordinatus itaque ille, intra\nmodicum tempus pater Bernus migravit ad Dominum.",
+      "voice": "Matthew"
+    }
+  ]
+}

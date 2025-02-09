@@ -1,0 +1,2516 @@
+1
+00:00:00,000 --> 00:00:00,942
+Introduction.
+
+2
+00:00:00,942 --> 00:00:11,231
+Historical Praise of Saint Odon by the author Mabillon, as found in "Acts of the Saints of the Order of Saint Benedict," Century 5, page 124.
+
+3
+00:00:11,231 --> 00:00:24,008
+Chapter One - The Authors of His Life, His Parents, and Homeland
+Although two authors, John and Nalgodus, both Cluniac monks, wrote about the deeds of Saint Odo, they left out many significant details that should be recorded.
+
+4
+00:00:24,008 --> 00:00:38,828
+To avoid neglecting the examination of a man who was greatly esteemed within the Benedictine community, it's important to present a historical account before the works of these two writers, addressing the matters they left untouched or insufficiently explained.
+
+5
+00:00:38,828 --> 00:00:40,815
+Let's start with these two authors.
+
+6
+00:00:40,815 --> 00:00:48,310
+The first, John, mentioned his own fortune sporadically across three books about Odo, which a summary manuscript condenses into two.
+
+7
+00:00:48,310 --> 00:00:52,285
+He was Italian by birth, Roman by homeland, and a canon by profession.
+
+8
+00:00:52,285 --> 00:00:59,667
+When Odo traveled to Rome in 939, John brought him to Pavia, where he was made a monk, as noted in Book One, numbers two and four.
+
+9
+00:00:59,667 --> 00:01:10,626
+John later took him as a companion on a pilgrimage and appointed him as prior, as noted multiple times in Book Two, specifically numbers four, seven, and ten, whether at Cluny or in Rome at St.
+
+10
+00:01:10,626 --> 00:01:11,023
+Paul's.
+
+11
+00:01:11,023 --> 00:01:14,657
+This could be clarified by comparing numbers ten and twenty-one.
+
+12
+00:01:14,657 --> 00:01:21,074
+Finally, John states that he was sent to Naples due to the needs of his monastery, as noted in number twenty-one.
+
+13
+00:01:21,074 --> 00:01:26,298
+John counts two years in Book Three, number five, as the entire time he was Odo's companion.
+
+14
+00:01:26,298 --> 00:01:39,301
+During this period, whatever he observed about what Odo said or did, he later wrote down, omitting other details he learned about Odo from his master Arnulf, Bishop Hubert of Tivoli, the monk Landric, and his superior Hildebrand.
+
+15
+00:01:39,301 --> 00:01:46,853
+He trusted only his own observations and Odo's account, which might have been lessened had he been more trusting of others' accounts.
+
+16
+00:01:46,853 --> 00:01:49,806
+We will try to fill in these gaps as best as we can.
+
+17
+00:01:49,806 --> 00:01:55,143
+Additionally, John dedicates his work to the monks of Salerno, whether of the monastery of St.
+
+18
+00:01:55,143 --> 00:02:03,036
+Peter of Salerno near Fistula, which Ughellus proves was founded by Bishop Peter before 958, in volume seven of "Italia Sacra," column 503.
+
+19
+00:02:03,888 --> 00:02:08,701
+Sometimes, John veers off on tangents and doesn't keep the timeline of events in order.
+
+20
+00:02:08,701 --> 00:02:16,170
+To address these issues, the monk Nalgodus set out to condense and organize John's work, as he also did with the life of Saint Maiolus.
+
+21
+00:02:16,170 --> 00:02:25,355
+Peter of Rivo refers to Nalgodus as a disciple of Odo in the Cluniac Chronicle, noting that he clearly described the life and miracles of Saint Odo after his passing.
+
+22
+00:02:25,355 --> 00:02:31,994
+Godefridus Henschenius interprets this as a reference to the life of Saint Maiolus, believing Nalgodus was his disciple.
+
+23
+00:02:31,994 --> 00:02:41,400
+However, Nalgodus lived nearly 200 years after Odo and slightly less after Maiolus, as he clearly mentions during the time of Pope Urban the Second or shortly thereafter.
+
+24
+00:02:41,400 --> 00:02:51,967
+We've decided to include the writings of this author in three smaller booklets by John, because of some details about Odo's death and burial, and other circumstances not found in John's work.
+
+25
+00:02:51,967 --> 00:02:58,054
+Many other authors have praised Odo, and Chesnius provides a list of them in the notes to the Cluniac Library.
+
+26
+00:02:58,054 --> 00:03:03,088
+Among these, Peter of Equilinus extensively discusses Saint Odo in Book Ten, Chapter Eight.
+
+27
+00:03:03,088 --> 00:03:14,597
+Before I begin discussing Odo of Cluny, it's important to mention that there were two other notable abbots with the same name during that period, one from Masciac and the other from Saint Maxentius in Poitou.
+
+28
+00:03:14,597 --> 00:03:21,125
+Regarding the Masciac monastery in Bituriges, we should recall what we mentioned earlier in the eulogy of Abbot Berno.
+
+29
+00:03:21,125 --> 00:03:31,029
+After Berno, Odo of Cluny appointed an abbot with the same name, who is noted to have become abbot in 935 in the Masciac Chronicle found in Volume Two of the New Library by Labbe.
+
+30
+00:03:31,029 --> 00:03:39,605
+It also records the death of this second Odo: In the year 967, on June 6th, this well-remembered abbot Odo passed away, and Monk Arduicus on September 5th.
+
+31
+00:03:39,605 --> 00:03:45,968
+The following day is marked in the Thuano-Colbertine Calendar of Saints with these words: June 7th, Odo of Masciac.
+
+32
+00:03:46,632 --> 00:03:55,918
+Another Odo was an abbot at Saint Maxentius in the year 963 and was succeeded by Abbot Ramnulfus in 968, as noted by the Malleacensian chronicler in the same Labbeus.
+
+33
+00:03:55,918 --> 00:04:02,240
+With this context, let's turn to Odo, or Oddo, the Abbot of Cluny, and explore his origins and family background.
+
+34
+00:04:02,240 --> 00:04:09,737
+His father was Abbo, a man of military rank, as confirmed by John the monk and others, though they do not mention Odo's mother's name.
+
+35
+00:04:09,737 --> 00:04:12,870
+John's account of Abbo appears at the start of Book One.
+
+36
+00:04:12,870 --> 00:04:48,507
+According to Nalgodus, both parents were convinced by their son's guidance to embrace monastic life, drawing from John, who, after describing the miracle of crumbs turning into pearls, adds this in Book One, number 35:
+"From that time, he began to be troubled within himself because of his parents' salvation, so that he might be able to free them from the bonds of this world."
+Not long after, he received permission to visit his father, bring him to the monastery, and make him a monk; he also had his mother take the holy veil.
+If her life had been documented (which I wish it had), it would appear more like history than a mere note.
+
+37
+00:04:48,507 --> 00:04:56,955
+Thus, Odo was born to such parents in the year 879, given that in 939 he was sixty years old, according to John at the beginning of Book One, number 4.
+
+38
+00:04:56,955 --> 00:05:06,969
+It's inferred that his birthplace was the city of Tours, due to his father's devotion to Saint Martin, to whom he dedicated himself from a young age, as noted by John in number 9.
+
+39
+00:05:06,969 --> 00:05:16,536
+This assumption is supported by the same author's mention in Book Two, number 16, of young Odo's nephew being captured by the Normans when they ravaged the lands of Tours.
+
+40
+00:05:16,536 --> 00:05:18,494
+Therefore, his nephew was in Tours.
+
+41
+00:05:18,494 --> 00:05:25,823
+However, in the old Cluny charter book, there is an account of Odo, where the author claims he originated from the region of Maine.
+
+42
+00:05:25,823 --> 00:05:33,040
+This account was written during the time of Abbot Odilo by someone responsible for organizing the records of the previous abbots.
+
+43
+00:05:33,600 --> 00:05:41,413
+Here's a summary of the praise:
+According to the truthful accounts from those before us, he was born into a noble family from the region of Maine.
+
+44
+00:05:41,413 --> 00:05:49,227
+He was well-educated in the liberal arts, served as a caretaker of the basilica of Saint Martin of Tours, and was eloquent, among other qualities.
+
+45
+00:05:49,227 --> 00:05:59,342
+Inspired by the virtues that the reputation of Cluny-or rather Baume-had spread far and wide like precious spices, he left his countryside with a willing heart for what he had long desired.
+
+46
+00:05:59,342 --> 00:06:04,907
+While his fellow citizens mourned, Christ rejoiced in glory, and he humbly submitted to the divine yoke.
+
+47
+00:06:04,907 --> 00:06:16,842
+After diligently completing the trial of his conversion, urged by the prayer of his father-whose teachings he had both willingly and, more truthfully, unwillingly followed-he took on the leadership of the entire fraternity.
+
+48
+00:06:16,842 --> 00:06:21,551
+With sharp insight, he subdued proud minds, and with caution, worked to instill virtues.
+
+49
+00:06:21,551 --> 00:06:24,495
+Italy knows, Burgundy attests, and France also reports.
+
+50
+00:06:24,495 --> 00:06:27,973
+He was undoubtedly recognized as possessing the gift of prophecy.
+
+51
+00:06:27,973 --> 00:07:13,035
+When faced with his final days and asked by the brothers who should lead them, he reportedly answered, inspired by a great insight: "In our uncertain judgment, O sons, Christ the Lord's ample wisdom will not fail, providing a holy shepherd for His house and granting you, His praying servants, a worthy father."
+This is clearer than the sun to those who consider it wisely, as the life and conversion of Lord Heymard provide ample proof.
+A brief speech on the praiseworthy nobility of such a man should suffice, showing how greatly we ought to adhere to the teachings of one who, by merit, is undoubtedly included among the ranks of angels. This much was included by the old author, who wrote this praise during the time of Abbot Odilo, that is, one hundred years after the death of Odo, in the records stored under Odo in the Cluny archives.
+
+52
+00:07:13,464 --> 00:07:17,330
+Chapter Two: Odo's Childhood and Adolescence, Canonical Life, Studies.
+
+53
+00:07:17,330 --> 00:07:30,087
+Odo was partly raised by Fulk, the second of that name, Count of Anjou, whom he refers to as his foster brother in a letter, and partly in the household of William, Duke of Aquitaine, as John records at the start of the first book.
+
+54
+00:07:30,087 --> 00:09:02,817
+This William, known as "the Pious," ruled Aquitaine and Gascony by his own right at that time.
+We've mentioned that he laid the foundations of the Cluny monastery in Berno's tribute.
+In fact, Odo's father, Abbo, held great influence with William, as John notes in section five.
+After Odo was weaned, Abbo entrusted him to a priest living in a more remote area, to be raised and educated in literature, as noted in section seven.
+Around this time, while involved in military activities at William's court, Odo felt called to a holier service by Christ the Lord on Christmas Day during his sixteenth year, after suffering from a headache for two years at his father's house.
+Later, fulfilling his father's vow, Odo dedicated himself to Saint Martin at the age of nineteen, around the year eight hundred ninety-nine AD, becoming a cleric and canon in the presence of many citizens and nobles.
+Among them was Count Fulk, who had raised him, and who soon provided him with a cell next to Saint Martin's church, along with daily sustenance from the same canonry.
+Fulk, known as "Good," is praised in the deeds of the Counts of Anjou in the tenth volume of the Spicilegium, pages four hundred two and four hundred thirty-four, where it states on page four hundred thirty-five: His good manners, both at home and in the military, were cultivated; he had a good sense of justice, great harmony, and very little greed.
+About Odo: He nurtured Saint Odo, gave him a cell next to the church of Saint Martin, and provided daily sustenance from the same chamber; later, with the consul's support, Odo was appointed master of the school and precentor of the same church.
+John then from number...
+
+55
+00:09:02,928 --> 00:09:10,729
+The text outlines Odo's studies and virtues, detailing his journey to Paris where he learned the liberal arts from Remigius, a monk from Auxerre.
+
+56
+00:09:10,729 --> 00:09:14,065
+This included Augustine's dialectic sent to his son Adeodatus.
+
+57
+00:09:14,065 --> 00:09:18,478
+Upon returning to Tours, Odo condensed Gregory the Great's moral teachings on Job.
+
+58
+00:09:18,478 --> 00:09:24,289
+This work was published in Paris in 1617, thanks to Dom Martin Marrer, a monk at Saint Martin of the Fields.
+
+59
+00:09:24,289 --> 00:09:29,885
+John notes that Odo undertook this work at the request of his fellow canons, despite initial reluctance.
+
+60
+00:09:29,885 --> 00:10:39,402
+Although Odo doesn't mention this in his dual preface, written in both prose and verse, possibly out of modesty, he implies that he took on the task almost independently with these words:
+"While I devoted myself to sacred reading within my humble capacity, a book by Blessed Gregory about the history of the most holy Job caught my attention one day."
+"This remarkable teacher, inspired by divine insight and nourished by heavenly wisdom, spread his eloquent discourse over the history of this man, so extensively that he created thirty-five books, eventually condensing them into six volumes."
+"As I read through the first part, filled with intense love and a certain sweetness, my mind was captivated, desiring to absorb the entire book if possible."
+"This extraordinary teacher, enriched by divine inspiration, sought to clearly express the interpretations of the Fathers that came to him during his explanations."
+"He condensed numerous volumes into the history, as those familiar with the Holy Scripture know, extracted by the holy man named Paterius and compiled into his own clear volumes."
+"Two years ago, I compiled all the interpretations of the Fathers in the Book of Kings, especially those of the most holy Pope Gregory, into a booklet that I believe is worthy of consideration."
+
+61
+00:10:39,672 --> 00:10:49,944
+Recognizing my own frailty and physical weakness, and for the benefit of those like me, I stood against myself-not inflated with pride or arrogance, nor relying on empty flattery-God knows this.
+
+62
+00:10:49,944 --> 00:10:58,046
+Motivated by the passion for reading the mentioned history, which I memorized with all my effort to retain its understanding, I compiled this small book.
+
+63
+00:10:58,046 --> 00:11:00,535
+Thus far, Odo in the preface of his compendium.
+
+64
+00:11:00,535 --> 00:11:11,178
+In section twenty-one, John addresses Count Fulk, claiming he suffered a deadly illness after taking two golden vessels from the Church of Saint Martin's treasury, and was healed through Odo's prayers.
+
+65
+00:11:11,178 --> 00:12:13,132
+Some recent scholars disagree, pointing to Fulk's piety, which earned him the nickname "the Good."
+Yet, even the sun casts shadows, and the author of the book on the deeds of the counts of Anjou, who recounts many illustrious things about Fulk, included this event; which I believe was to reinforce John's own authority.
+Returning to the canonical life of Odo, it's helpful to briefly explain the discipline among the Martinian community at that time.
+After renouncing monastic life, a certain regular form of discipline flourished there.
+The number of monks decreased from three hundred to one hundred and fifty canons; continuous psalmody was limited to specific hours, as explained more fully in the eulogy of Alcuin, section forty-six.
+Nonetheless, the cloister maintained its reverence, women were forbidden entry, and many measures were in place to maintain propriety.
+The situation worsened after the second burning of that basilica, about which Odo-now a monk-gave a sermon at the request of the canons.
+After the previous burning, he said, with great effort they rebuilt the monastery walls, wanting to protect the holy house from being harmed by enemies again.
+
+66
+00:12:13,344 --> 00:12:18,923
+You have not paid enough attention to how greatly this holy place has been revered since ancient times.
+
+67
+00:12:18,923 --> 00:12:23,256
+You've immediately abandoned its sacredness, allowing it to become a common inn.
+
+68
+00:12:23,256 --> 00:12:27,481
+Guards do not stop women from fetching water and wandering wherever they want.
+
+69
+00:12:27,481 --> 00:12:32,085
+We have seen that no one was allowed to enter the monastery gates, not even a little.
+
+70
+00:12:32,085 --> 00:12:39,343
+This is addressed in the letter of Pope Leo the Seventh to Duke Hugh and the abbot, published in the second volume of the Spicilegium.
+
+71
+00:12:39,343 --> 00:12:51,206
+It decrees that throughout the entire extent of the old wall up to the road running alongside the northern side of the basilica, no woman is permitted to reside, nor even to enter, except for the sole purpose of prayer.
+
+72
+00:12:51,206 --> 00:13:03,556
+Odo adds: It is also quite displeasing that some nurtured in the same place disgrace themselves with certain lay or excessively ostentatious garments, when their behavior has been such that we have heard it praised even in Rome.
+
+73
+00:13:03,556 --> 00:13:11,572
+Indeed, Odo had reminded the canons to conduct themselves better both through words and example, as mentioned by John in book one, number seventeen.
+
+74
+00:13:11,952 --> 00:13:15,939
+Chapter Three: The Beginning of Monastic Life, Companions, Priesthood.
+
+75
+00:13:15,939 --> 00:13:24,426
+While Odo spent his time in retreat at the Basilica of Saint Martin, reading and reflecting on the Fathers, he discovered the rule of Saint Benedict.
+
+76
+00:13:24,426 --> 00:13:28,357
+Following its guidance, he lived for three years without possessions.
+
+77
+00:13:28,357 --> 00:13:32,059
+Although he wasn't yet a monk, he embraced the monks' light yoke.
+
+78
+00:13:32,059 --> 00:13:35,135
+As John testifies, he invited Count Fulco to join him.
+
+79
+00:13:35,135 --> 00:13:42,996
+But when Fulco said it wasn't the right time, he introduced Odo to a soldier named Adhegrinus, skilled in arms, and brought them together.
+
+80
+00:13:42,996 --> 00:13:46,870
+Both, content with a very small hut, longed daily for monastic vows.
+
+81
+00:13:46,870 --> 00:13:50,629
+However, they couldn't find a place where such discipline thrived.
+
+82
+00:13:50,629 --> 00:13:55,471
+Adhegrinus was sent to Rome to explore, but during his journey, he detoured to Balma.
+
+83
+00:13:55,471 --> 00:14:03,674
+Impressed by the abbot's kindness and the monks' devotion, he brought Odo with him, who moved to this monastery with a hundred volumes of books.
+
+84
+00:14:03,674 --> 00:14:07,376
+He was about 30 years old when the year of Christ was nearly 909.
+
+85
+00:14:07,376 --> 00:14:08,630
+This is noted by John.
+
+86
+00:14:08,630 --> 00:14:20,478
+Regarding Balma, as mentioned in Berno's praise, after completing his probation, Odo took on the care and education of the boys or novices, which John refers to as a school, as was often done by the ancients.
+
+87
+00:14:20,478 --> 00:14:27,997
+Adhegrinus, Odo's companion, confined himself to one small cell, and with Abbot Berno's permission, he stayed there for three years.
+
+88
+00:14:27,997 --> 00:14:31,358
+Later, he sought solitude and was confined in a small cave.
+
+89
+00:14:31,358 --> 00:14:42,636
+There, after much suffering, he was deemed worthy of divine consolation and was freed from demonic temptations with the help of Saint Martin, even being comforted by his conversation, as John notes.
+
+90
+00:14:42,636 --> 00:14:51,238
+John continues to write about him, stating that more than thirty years have passed, if he is not mistaken, since Adhegrinus has lived in that solitude.
+
+91
+00:14:51,238 --> 00:14:59,042
+He usually descends to the monastery of Saint Peter, known as Cluny, which is nearly two miles away, only on Sundays or major feast days.
+
+92
+00:14:59,042 --> 00:15:05,934
+He takes a small amount of flour, from which he makes bread, and a few grains of beans, then quickly returns to solitude.
+
+93
+00:15:06,960 --> 00:15:10,796
+He never drinks wine, and his food is never seasoned with fat or oil.
+
+94
+00:15:10,796 --> 00:15:16,913
+He endures both cold and heat at all times: warmth between his shoulders and chill between his hands and arms.
+
+95
+00:15:16,913 --> 00:15:21,807
+It's quite remarkable about Adhegrinus, whom Chesnius notes was listed among the saints.
+
+96
+00:15:21,807 --> 00:15:24,977
+I'm not denying his merit; I'm looking for the authority.
+
+97
+00:15:24,977 --> 00:15:32,373
+For I find no mention of Adhegrinus in the Martyrologies or Breviaries, nor any memory of his feast or relics among our Cluniacenses.
+
+98
+00:15:32,373 --> 00:15:37,544
+I'm not sure if the same Droco, a very pious monk of Fleury, was his companion in the desert.
+
+99
+00:15:37,544 --> 00:15:46,497
+He, proven in monastic life, took on a unique struggle in the desert at a place called Balma, as Aimoinus testifies in the previous volume, page three sixty-one.
+
+100
+00:15:46,497 --> 00:16:02,401
+The Malleacense chronicle mentions Teuthelon as a companion of Adhegrinus:
+At the same time, while Turpio was still alive, Odo and Teuthelon, canons of the illustrious Saint Martin, left all their possessions to follow Christ, the poor one, and took on the holy habit and life at Cluny.
+
+101
+00:16:02,401 --> 00:16:11,910
+By God's will, Odo became the most holy abbot, as we will discuss later:
+Teuthelon, under his abbot's command, was unwillingly consecrated as the archbishop of Tours, etc.
+
+102
+00:16:11,910 --> 00:16:19,529
+However, from the above, it's clear that this is false about Teuthelon or Teotolon, and this will become more apparent from what follows.
+
+103
+00:16:19,529 --> 00:16:27,759
+After some time, Berno considered Odo worthy of the priesthood and promoted him; with the bishop summoned, he made him a priest without his consent.
+
+104
+00:16:27,759 --> 00:16:31,874
+John explains this in number thirty-seven, though the bishop is not named.
+
+105
+00:16:31,874 --> 00:16:35,655
+Nalgodus suggests the Archbishop of Besancon, but this is incorrect.
+
+106
+00:16:35,655 --> 00:16:50,225
+It's clear from John's passage that Odo, at the request of his ordaining bishop and the command of the abbot, wrote three booklets about priests from the prophecy of Jeremiah, that is, three books of conferences, which were dedicated to Bishop Turpio of Limoges.
+
+107
+00:16:50,225 --> 00:16:55,285
+Therefore, this bishop conferred the priesthood on Odo shortly before his abbatial dignity.
+
+108
+00:16:56,064 --> 00:17:00,192
+Chapter Four: The Dignity of the Abbot and the State of the Monastic Order.
+
+109
+00:17:00,192 --> 00:17:03,054
+During that period, Father Berno became gravely ill.
+
+110
+00:17:03,054 --> 00:17:07,072
+He soon called upon the neighboring bishops and renounced all his duties.
+
+111
+00:17:07,072 --> 00:17:11,420
+Meanwhile, he asked the brothers to choose someone they wanted as their leader.
+
+112
+00:17:11,420 --> 00:17:17,640
+At that moment, the brothers expressed that John, our father, was almost forcibly convinced to take the position.
+
+113
+00:17:17,640 --> 00:17:23,199
+With everyone insisting that he should be ordained, he was brought before his abbot against his will.
+
+114
+00:17:23,199 --> 00:17:29,033
+Eventually, pressured by the bishops' insistence, he was ordained as abbot shortly before Berno's passing.
+
+115
+00:17:29,033 --> 00:17:34,593
+This event, which occurred at the start of the year 927, is recorded in the Chronicle of Malleacense.
+
+116
+00:17:34,593 --> 00:17:42,904
+However, the reasons we've presented suggest otherwise, supported by the Lemovicense Martyrology noted by Chesnius in the notes to the Cluniac Library.
+
+117
+00:17:42,904 --> 00:17:46,537
+Odo was entrusted with three monasteries: Cluny, Masciac, and Dol.
+
+118
+00:17:46,537 --> 00:17:55,233
+To Wido, a relative of Berno, four were entrusted: Gigny, Baume, Aethic, and the cell of Saint Lauten, as explained in detail in the tribute to Berno himself.
+
+119
+00:17:55,233 --> 00:17:58,261
+Odo the abbot achieved many great and remarkable feats.
+
+120
+00:17:58,261 --> 00:18:09,104
+The perfection of the Cluny monastery and its dedication, privileges, rituals, and strict discipline set the standard for other monasteries either built or joined, forming the Cluniac congregation.
+
+121
+00:18:09,104 --> 00:18:18,736
+His journeys to Rome for the good of the Church, fostering harmony among rulers, charity towards the poor, and other extraordinary deeds made Odo's fame celebrated everywhere.
+
+122
+00:18:18,736 --> 00:18:22,204
+These matters are discussed by John in Book Three and Nalgodus.
+
+123
+00:18:22,204 --> 00:18:32,717
+From these accounts, it is sufficient to highlight a few key aspects: the rites and dignity of the Cluny monastery, the reform or establishment of other monasteries, and the journeys to Rome.
+
+124
+00:18:32,717 --> 00:18:39,487
+I will first address these here, but before that, we must discuss the state of the monastic order in Gaul during that time.
+
+125
+00:18:40,368 --> 00:18:53,115
+Following the great leaders, Charles the Great and Louis the Pious, who earnestly discussed enhancing the order of Saint Benedict, Benedict of Aniane managed to unite most monasteries in Gaul under a single religious community.
+
+126
+00:18:53,115 --> 00:18:57,046
+It seemed promising that this discipline would endure for a long time.
+
+127
+00:18:57,046 --> 00:19:06,424
+However, after Benedict, the founder and protector of this order, passed away, the chaos of civil and foreign wars devastated the entire kingdom and this noble effort.
+
+128
+00:19:06,424 --> 00:19:13,781
+Amid intense conflicts among Louis the Pious's sons, and even with Louis himself, the Normans suddenly invaded Gaul from the north.
+
+129
+00:19:13,781 --> 00:19:18,779
+They severely weakened the state, already suffering from internal wars, over sixty years.
+
+130
+00:19:18,779 --> 00:19:29,224
+During this period, villages turned into wilderness, cities were attacked and burned, churches were plundered, monasteries were destroyed, and monks were either killed or forced to flee.
+
+131
+00:19:29,224 --> 00:19:39,726
+Gathering the relics of saints and their belongings, they hurried away from the path of war to safer places, if any could be found, or were barely able to live a miserable life wandering.
+
+132
+00:19:39,726 --> 00:19:48,991
+In some areas, where they could catch their breath for a while, they repaired huts as best they could, focusing more on survival and safety than following the rules.
+
+133
+00:19:48,991 --> 00:20:00,111
+In certain places where the monastic population dwindled, a few clerics gathered and took possession of the former holdings of the monks, and even when peace returned, they kept them for themselves.
+
+134
+00:20:00,111 --> 00:20:12,914
+As a result, by the beginning of the tenth century, when Odo began contemplating monastic life, few monasteries remained, and sincere religion was lacking in those few, as noted in Book One, number 22 of John and in our preface.
+
+135
+00:20:12,914 --> 00:20:22,742
+Amid all this turmoil, particularly under Abbot Odo, Cluny rose above all other monasteries with a reputation for religious devotion, which Odo established there after Bernon.
+
+136
+00:20:23,304 --> 00:20:31,993
+In that place, there was a strong spirit of competition in virtues, a dedication to sacred matters, precise observance of rules, and charity toward the poor.
+
+137
+00:20:31,993 --> 00:20:41,954
+So much so that 17,000 poor people received alms at Cluny at the beginning of Lent one year, including 250 hams, as recorded by Ulric in Book 3 of the Customs of Cluny, Chapter 11.
+
+138
+00:20:41,954 --> 00:20:47,655
+This house also supported the apostolic see more than once, serving as a common treasury of the church.
+
+139
+00:20:47,655 --> 00:20:49,537
+Peter the Venerable is the author.
+
+140
+00:20:49,537 --> 00:20:54,573
+Many of the rites were taken from Abbot Euticius, with additions by Berno, Odo, and others.
+
+141
+00:20:54,573 --> 00:21:01,878
+Euticius seems to be none other than Benedict of Aniane, who gathered the institutions of the old monks and proposed them as models.
+
+142
+00:21:01,878 --> 00:21:07,579
+Some of these rites are mentioned by John in Book 1, Number 23, especially Number 30 and the following.
+
+143
+00:21:07,579 --> 00:21:16,434
+Some related to the divine office, some to regular discipline and monastic virtues, while others concerned the education of the young and instruction of others.
+
+144
+00:21:16,434 --> 00:21:27,115
+All of these are accurately described by the holy monk Ulric, following Bernard, a monk from the same place, in three books, which were published by our Acherius in Volume 4 of the Spicilegium.
+
+145
+00:21:27,115 --> 00:21:35,528
+The first book deals with psalmody, solemn Masses, and various important celebrations; the second with regular discipline; the third with the officials.
+
+146
+00:21:35,528 --> 00:21:43,110
+It was customary to celebrate two solemn Masses daily: private sacred rites were performed only outside the divine office and major Mass.
+
+147
+00:21:43,110 --> 00:21:54,843
+Each person offered their own sacrifices from one of the two choirs daily; however, they communicated with three free days only on five Sundays: the others took blessed hosts like eulogies before the common meal.
+
+148
+00:21:54,843 --> 00:22:00,765
+In solemn Masses for the deceased and during the Rogation Days triduum, both choirs would make an offering.
+
+149
+00:22:00,765 --> 00:22:07,074
+In major sacred rites, the deacon always communicated from the priest's host; the subdeacon only from other hosts.
+
+150
+00:22:07,074 --> 00:22:18,641
+Communion was provided to everyone in the triduum before Easter: whoever wanted to celebrate privately on Holy Saturday before the major Mass did not use a candle, as the new fire had not yet been consecrated.
+
+151
+00:22:19,416 --> 00:22:25,725
+In these matters, nothing is more noteworthy than what's detailed about making the hosts in Book Three, Chapter Thirteen.
+
+152
+00:22:25,725 --> 00:22:29,845
+The monks selected the wheat grain by grain and washed it carefully themselves.
+
+153
+00:22:29,845 --> 00:22:40,014
+It was then placed in a special bag and taken to the mill by a trusted servant, who washed the millstones, covered them with curtains, and dressed in white, covering his face except for his eyes.
+
+154
+00:22:40,014 --> 00:22:44,446
+The flour was sifted with the same meticulous care, using a thoroughly cleaned sieve.
+
+155
+00:22:44,446 --> 00:22:52,685
+Then, the chief custodian of the church, if a priest or deacon, completed the rest of the tasks with help from two others of the same order and a lay brother.
+
+156
+00:22:52,685 --> 00:22:55,449
+If not a priest or deacon, he appointed a substitute.
+
+157
+00:22:55,449 --> 00:22:59,099
+These four, after their morning prayers, washed their faces and hands.
+
+158
+00:22:59,099 --> 00:23:06,296
+Three of them dressed in white garments: one sprinkled the flour with pure water, while the other two baked the hosts in an engraved iron.
+
+159
+00:23:06,296 --> 00:23:10,728
+This demonstrates the devotion and reverence the Cluniac monks had for the Eucharist.
+
+160
+00:23:10,728 --> 00:23:13,961
+In their regular duties, the discipline was equally stringent.
+
+161
+00:23:13,961 --> 00:23:21,940
+Silence was maintained throughout the day, and at night it was so sacred that breaking it before Prime was considered unthinkable, even preferring death.
+
+162
+00:23:21,940 --> 00:23:29,866
+Communication was done through signs, which Guigo, the fifth prior of the Carthusian Order, did not fully approve of, despite his dedication to silence.
+
+163
+00:23:29,866 --> 00:23:37,532
+He believed that only the tongue should be used, not involving other limbs in the act of speaking, as stated in Chapter Thirty-One of the Statutes.
+
+164
+00:23:37,532 --> 00:23:45,197
+From the Ides of November, the older members meditated in the church after nocturns, while the younger ones practiced singing in the Chapter House.
+
+165
+00:23:45,197 --> 00:23:49,108
+Manual work was accompanied by psalms, and confessing faults was customary.
+
+166
+00:23:49,108 --> 00:23:53,228
+After Compline, guests were not admitted, nor were the brothers allowed to eat.
+
+167
+00:23:53,228 --> 00:24:00,945
+Udalricus tells of a notable instance where the cellarer, busy receiving wine all day, wasn't granted permission by the abbot to eat after Compline.
+
+168
+00:24:00,945 --> 00:24:03,344
+The same strictness applied to divine offices.
+
+169
+00:24:03,344 --> 00:24:09,237
+If someone was about to leave or ride a horse and the office bell rang, they were required to attend immediately.
+
+170
+00:24:10,176 --> 00:24:14,316
+The rule about fasting generally followed the instructions of Saint Benedict.
+
+171
+00:24:14,316 --> 00:24:20,015
+From September 13th, there was typically just one meal per day, except on feast days with twelve readings.
+
+172
+00:24:20,015 --> 00:24:23,510
+During the octaves of Christmas and Epiphany, they had two meals.
+
+173
+00:24:23,510 --> 00:24:30,715
+On feast days with twelve readings, after lunch and a reading in the cloister, they would have a drink in the dining hall after Nones.
+
+174
+00:24:30,715 --> 00:24:38,350
+On regular days, after Vespers, there was a reading, followed by a drink in the dining hall, another reading, and then a spiritual discussion.
+
+175
+00:24:38,350 --> 00:24:42,437
+Leftover bread and wine were given by the almoner to poor travelers on foot.
+
+176
+00:24:42,437 --> 00:24:45,609
+Additionally, eighteen poor people were fed daily at Cluny.
+
+177
+00:24:45,609 --> 00:24:54,803
+Wine was used so sparingly that eight cartloads sufficed for more than thirty brothers annually at the Charity monastery, as noted by Udalricus in Book Three, Chapter One.
+
+178
+00:24:54,803 --> 00:25:05,073
+According to Saint Odo's rules, the fast of the four seasons in September was observed in the week when the Feast of the Exaltation of the Holy Cross fell on a Wednesday, Friday, or Saturday.
+
+179
+00:25:05,073 --> 00:25:07,600
+Thus, the cross was venerated by those fasting.
+
+180
+00:25:07,600 --> 00:25:17,547
+Whether Odo allowed the use of medicine for the brothers is uncertain, according to Book Two, Number Fourteen of John, and also from Book Six, Letter Thirty-Nine of Peter the Venerable.
+
+181
+00:25:17,547 --> 00:25:23,838
+The Carthusians, as Guigo mentions in Chapter Thirty-Nine, rarely used medicine, except for cautery and bloodletting.
+
+182
+00:25:23,838 --> 00:25:25,989
+Bloodletting occurred five times a year.
+
+183
+00:25:25,989 --> 00:25:34,000
+Over time, the Cluniacs designated a specific day each month for bloodletting; this process is detailed by Udalricus in Book Two, Chapter Twenty-One.
+
+184
+00:25:34,000 --> 00:25:35,506
+I'll skip the minor details.
+
+185
+00:25:35,506 --> 00:25:48,249
+More importantly, Udalricus wrote about the education of boys:
+"Indeed, it is difficult to imagine any king's son being raised with greater care in a palace than any smallest boy in Cluny."
+These words are from Book Three, Chapter Eight.
+
+186
+00:25:49,056 --> 00:25:57,976
+The management of this discipline was overseen by an abbot through a senior prior, deans, a cloister prior, inspectors, teachers of boys, a precentor, and a librarian.
+
+187
+00:25:57,976 --> 00:26:02,730
+The librarian was in charge of the books, especially those for the choir, in the library.
+
+188
+00:26:02,730 --> 00:26:13,146
+A chamberlain managed the clothing; a treasurer took care of the church's treasures; and the roles of cellarer, stable master, almoner, and infirmary master were also part of the management team.
+
+189
+00:26:13,146 --> 00:26:22,387
+The privilege of freedom granted to Cluny at the request of its founder William, and later affirmed by the abbots and Roman popes, is central to the discipline of the place.
+
+190
+00:26:22,387 --> 00:26:29,384
+Pope Callistus the Second, in his letters to Abbot Pontius, stated that this privilege was given to Cluny from its very foundation.
+
+191
+00:26:29,384 --> 00:26:43,433
+He listed the popes who confirmed it: John the Eleventh, John the Twelfth, Agapitus the Second, Leo the Ninth, Gregory the Sixth and Seventh, Alexander the Second, Stephen the Tenth, Victor the Third, Urban the Second, Paschal the Second, and Gelasius the Second.
+
+192
+00:26:43,433 --> 00:26:51,178
+Peter the Venerable addressed those who claimed that the Cluniacs lacked their own bishop by saying they regarded the Roman pope as their bishop.
+
+193
+00:26:51,178 --> 00:27:30,706
+"We boast," he said, "to have this one and only greatest bishop." This was established by the unbreakable authority of the Holy See itself, not by the decree of just one, but many, which are preserved in our mother church.
+This arrangement was not made to take the Cluniac church from another bishop who previously had it, but at the request of the founders who built it on their own land. They kept it as their own and decided it should belong only to the Roman pope forever, confirming this with many privileges. This is not unique to Cluniacs; it has been granted to many others. Long before Cluny was established, many other monasteries received this privilege from the same apostolic see. Thus wrote Abbot Peter in Book One, Letter 28.
+
+194
+00:27:31,079 --> 00:27:41,991
+Most of these types of privileges can be found in the Cluny Bullary, with seven granted to Abbot Odo: one by John the Tenth, two by John the Eleventh, one by Leo the Sixth, and three by Leo the Seventh.
+
+195
+00:27:41,991 --> 00:27:48,528
+The privilege attributed to John the Tenth, but mistakenly credited to the Eleventh, is mentioned in the praise of Berno.
+
+196
+00:27:48,528 --> 00:29:13,283
+In the first document of John the Eleventh, among other things, the right to mint coins granted by Rudolph, King of the Franks, to Cluny is confirmed, and it states:
+"And because, as it is well known, almost all monasteries are straying from their purpose, we grant that if any monk from any monastery wishes to join your community solely to improve his life, and his abbot fails to provide the regular support to relinquish possessions, you may receive him until the behavior of his monastery is corrected."
+This was written in the month of March, in the fourth indiction, that is, the year 931.
+We will revisit the privilege of Cluny's liberty in the Life of Saint Odilo, Abbot.
+However, I must mention what Gregory the Seventh decreed about Cluny at the Roman Synod, expressed in these words:
+"Let our priests, or rather this holy synod, know that although there are many monasteries founded usefully and religiously in honor of Almighty God and the Blessed Virgin;
+among them, Cluny stands out, known for its special allegiance to Saint Peter and this church.
+Therefore, it has rightfully earned the honor and protection of this holy and apostolic see from the very beginning...
+And with divine mercy favoring, it has reached such a level of dignity and devotion under religious and holy abbots that it surpasses other monasteries, even those much older, as far as I know, in the service of God and spiritual fervor, and none in that region, as far as I know, can match it.
+No abbot has ever been there who was not holy."
+A truly remarkable praise from the pontiff.
+
+197
+00:29:13,391 --> 00:29:26,683
+From this point on, the Cluny monastery became renowned worldwide for its religious devotion, discipline, strictness, the number of monks, and all aspects of monastic order, as Peter the Venerable notes in book one of De Miraculis, chapter nine.
+
+198
+00:29:26,683 --> 00:29:33,518
+It became a unique refuge for sinners, through which many souls were saved from hell, finding a place in the heavenly kingdom.
+
+199
+00:29:33,518 --> 00:29:38,672
+There, countless people, shedding the burdens of the world, embraced the gentle yoke of Christ.
+
+200
+00:29:38,672 --> 00:29:45,670
+People from all walks of life, professions, and ranks exchanged worldly pride and luxury for the humble and simple life of monks.
+
+201
+00:29:45,670 --> 00:29:54,133
+Even venerable church leaders, seeking respite from ecclesiastical duties, chose to live more peacefully and quietly, preferring to follow rather than lead.
+
+202
+00:29:54,133 --> 00:30:04,386
+From here, as spiritual virtues spread, the world was filled with their fragrance, rekindling the fervor of monastic life, which had nearly waned, through the example and zeal of these men.
+
+203
+00:30:04,386 --> 00:30:15,236
+France, Germany, and even Britain bear witness to this revival: Spain, Italy, and all of Europe acknowledge it, filled with monasteries either newly established by them or restored from ancient decay.
+
+204
+00:30:15,236 --> 00:30:24,242
+But why mention only a few parts of the world when this fame has spread from the far West to the East and hasn't remained hidden in any corner of the Christian world?
+
+205
+00:30:24,242 --> 00:30:31,457
+Up to this point, Peter the Venerable speaks, and the truth of his words would be easy to prove if we weren't called to another task.
+
+206
+00:30:31,457 --> 00:30:45,399
+However, to ensure we don't entirely abandon this topic, which greatly praises the Cluniac order and its founder Odo, we must discuss the monasteries established or restored by him and also give due attention to the other abbots of Cluny in their own right.
+
+207
+00:30:45,887 --> 00:30:50,548
+Chapter 5 - Monasteries Reformed by Odo, Establishment of the Cluniac Congregation.
+
+208
+00:30:50,548 --> 00:30:59,981
+It's important to mention what John writes about Odo in Book 2, number 23:
+During that time, the name of our father began to shine far and wide like a very bright star.
+
+209
+00:30:59,981 --> 00:31:04,361
+He became known to kings, was very close to bishops, and dear to the nobility.
+
+210
+00:31:04,361 --> 00:31:13,232
+The monasteries built in their territories entrusted themselves to our father's authority so that he could correct and organize them according to our customs.
+
+211
+00:31:13,232 --> 00:31:19,745
+It would be difficult to list all these monasteries in detail, but it's enough to highlight the most prominent ones.
+
+212
+00:31:19,745 --> 00:31:31,256
+In France, we find the Aureilacense and Tutelense near Limoges, the Sarlatense in the region of Perigord, the Dolense and Masciacense in the region of Bourges, the Floriacense in the region of Orleans, St.
+
+213
+00:31:31,256 --> 00:31:32,547
+Peter's in Senones, St.
+
+214
+00:31:32,547 --> 00:31:39,341
+Julian's in Tours, the Romanense Abbey in the region of Vienne, and the Carilocense in the region of Macon, among others.
+
+215
+00:31:39,341 --> 00:31:45,742
+In Italy, we read about Saint Augustine's in Pavia, Saint Paul's in Rome, Adventine, Subpentonian, and Salernitan.
+
+216
+00:31:45,742 --> 00:31:48,213
+Some observations about these are necessary.
+
+217
+00:31:48,213 --> 00:31:56,355
+Gerald, the most pious count of Aurillac, after dedicating himself entirely to divine worship, decided to consecrate his own to the Lord as well.
+
+218
+00:31:56,355 --> 00:32:08,707
+He traveled to Rome and solemnly bequeathed his notable estate in Aurillac to the blessed Peter, the prince of the apostles, with a testament that included appendices to provide for the monks he intended to gather there.
+
+219
+00:32:08,707 --> 00:32:17,354
+He also dedicated a tribute to be given annually to the urn of blessed Peter, namely ten solidi, as noted by Odo in Book 2 of his Life, chapters 4 and 17.
+
+220
+00:32:17,354 --> 00:32:18,477
+Odo adds in chapter.
+
+221
+00:32:18,477 --> 00:32:18,533
+.
+
+222
+00:32:18,533 --> 00:32:18,590
+.
+
+223
+00:32:19,319 --> 00:32:22,914
+Gerald was eager to find suitable monks to live in the monastery.
+
+224
+00:32:22,914 --> 00:32:31,874
+When he couldn't find any, he sent some noble boys to the monastery of Vabre, where the passion for regular observance was growing, to be trained under its rules.
+
+225
+00:32:31,874 --> 00:32:38,953
+However, when they came back, without proper teachers, they quickly fell into youthful complacency and neglected the discipline.
+
+226
+00:32:38,953 --> 00:32:45,036
+Out of necessity, someone was appointed to guide them, but his more relaxed habits caused Gerald great sorrow.
+
+227
+00:32:45,036 --> 00:32:53,774
+I'm not certain if this was Adalgerus, who the Aureliacense chronicle suggests was the first abbot of Aureliac, as noted in the second volume of the Analecta.
+
+228
+00:32:53,774 --> 00:32:57,646
+This abbot was succeeded by Joannes, who was from Gerald's own family.
+
+229
+00:32:57,646 --> 00:33:06,771
+Oddo, the respected third abbot of Aureliac and Cluny, wrote the life of the blessed Gerald at the request of Turpion, bishop of Limoges, and Aimone, abbot of Tulle.
+
+230
+00:33:06,771 --> 00:33:08,320
+He had Arnulf as a co-abbot.
+
+231
+00:33:08,320 --> 00:33:21,206
+Odo was called from the Aureliac monastery, according to Aimoinus in book one of the miracles of Saint Benedict, chapter four, to restore discipline in the Floriac monastery, at the request of Count Eliziard, who later became a monk.
+
+232
+00:33:21,206 --> 00:33:33,483
+During the reign of Louis the Transmarine, Bernard, Count of Perigord, handed over the monastery of Saint Saviour of Sarlat, which eventually became an episcopal see, to Lord Oddo, abbot of Cluny, and his co-abbot Adacius.
+
+233
+00:33:33,483 --> 00:33:39,733
+Letters regarding this matter are found in the fourth volume of Gallia Christiana, though with some inaccuracies.
+
+234
+00:33:39,733 --> 00:33:52,453
+Both Odo, the abbot of Cluny, and Adacius, his deputy, managed the monastery of Tulle, now an episcopal see, after the aforementioned Aimone, who was brought from the monastery of Saint Savinus in Poitiers to Tulle by Count Ebalo.
+
+235
+00:33:52,453 --> 00:33:56,767
+There is a diploma of this matter granted by King Rodulf in the addition of V.
+
+236
+00:33:56,767 --> 00:33:56,877
+C.
+
+237
+00:33:56,877 --> 00:34:01,081
+Stephanus Baluzius of Tulle to book eight of Concordia, chapter twenty-five.
+
+238
+00:34:01,799 --> 00:34:11,726
+Back then, it was customary that because one abbot at Cluny wasn't enough for several monasteries, proabbots or coabbots were appointed in his place, who were later simply called priors.
+
+239
+00:34:11,726 --> 00:34:18,023
+This is evident from Clarius in the chronicle of Saint Peter of Vives in Sens, where Saint Odo succeeded Abbot Samson.
+
+240
+00:34:18,023 --> 00:34:25,335
+Saint Odo summoned Archbishop William and, with the monks of Saint Peter's consent, appointed Arigaud as the abbot of the same monastery.
+
+241
+00:34:25,335 --> 00:34:30,085
+Arigaud was a devout man who feared God and was a monk of Saint Benedict above the Loire.
+
+242
+00:34:30,085 --> 00:34:38,090
+I believe Odo did the same in the monastery of Saint Julian in Tours, which was built during Bishop Gregory's time but later destroyed by the Normans.
+
+243
+00:34:38,090 --> 00:34:45,775
+When Archbishop Theotolo restored it with help from his sister Gersende, he dedicated the church in honor of the Mother of God and Saint Julian.
+
+244
+00:34:45,775 --> 00:34:52,233
+Wanting to appoint an abbot for the gathered brothers, he called upon Abbot Odo, who was then residing at Saint Benedict.
+
+245
+00:34:52,233 --> 00:34:58,690
+The martyrology of Saint Julian reports that this occurred in the year 943, during the eighth year of King Louis's reign.
+
+246
+00:34:58,690 --> 00:35:07,549
+However, that time refers to the donation made by Theotolo and Gersende, not to Odo's appointment at Saint Julian, as he is known to have died the previous year, 942.
+
+247
+00:35:07,549 --> 00:35:12,032
+He was buried in Saint Julian's Church alongside Theotolo, as we will discuss later.
+
+248
+00:35:12,032 --> 00:35:27,776
+I read a fragment of the chronicle from that place, written five hundred years ago, which was divided into two booklets:
+The first detailed the initial establishment of the abbey, its destruction, and its pious restoration;
+The second covered the state of the abbey from the restoration onwards.
+
+249
+00:35:27,776 --> 00:35:36,955
+From the tattered pages of the first booklet, we learn that many saintly bodies were originally buried in Saint Julian's Church, deeply buried during the time of the Danes.
+
+250
+00:35:36,955 --> 00:35:42,933
+Some of these remained, including those of Saint Bleviliguatus, Bishop of Vannes, Abbot Lauri, and Monk Anthony.
+
+251
+00:35:42,933 --> 00:35:50,618
+The author notes that Bishop Morvannus, the seventh Bishop of Vannes after Bleviliguatus, recounted some miracles to him, which he commemorates.
+
+252
+00:35:51,311 --> 00:35:58,352
+Bishop Blinlivet, not Saint Albert of Mount Relaxed, appointed him as the 33rd bishop of Venetia, while Morvannum became the 49th.
+
+253
+00:35:58,352 --> 00:36:03,552
+The fragment's author notes that Laurus, who was born in Britain, left his homeland and parents.
+
+254
+00:36:03,552 --> 00:36:08,318
+However, he found Judicael, the best leader of the Britons, who helped him in every way.
+
+255
+00:36:08,318 --> 00:36:15,196
+With Judicael's assistance, the monastery thrived in holiness and greatly benefited many people through both words and actions.
+
+256
+00:36:15,196 --> 00:36:20,125
+Laurus' noble life was highly religious in the eyes of the people and precious to the Lord.
+
+257
+00:36:20,125 --> 00:36:24,187
+The glory of his miracles continues to bring high praises for his holiness.
+
+258
+00:36:24,187 --> 00:36:32,799
+Through his holiness, both during his life and after his death, weaknesses are restored and illnesses are healed, especially at the place where he passed away.
+
+259
+00:36:32,799 --> 00:36:36,211
+There, his ashes continue to live through the signs that occur.
+
+260
+00:36:36,211 --> 00:36:40,273
+Perhaps it is the monastery of Saint John of Gael, which Judicael restored.
+
+261
+00:36:40,273 --> 00:36:45,635
+Since the book of his life educates us about his life, it is enough to highlight the essence of it.
+
+262
+00:36:45,635 --> 00:36:51,213
+We believe this book has been lost, and as far as I know, nothing about Saint Laurus is read by Albert.
+
+263
+00:36:51,213 --> 00:36:55,059
+Finally, the chronographer writes that Anthony lived among the Turones.
+
+264
+00:36:55,059 --> 00:37:43,750
+"It is said," he mentions, "that Saint Anthony lived there, although it is unclear whether he was originally from there or came from elsewhere. He was captivated by the sweetness of a solitary life and chose it over worldly life."
+He lived in a beautiful and quiet place, surrounded by a forest. There, a chapel was sculpted in stone, which now contains two altars. In this place, the servant of God devotedly served God. No woman approaches the spring in the chapel.
+This priory is visited and is located three leagues from Caesarodunum of the Turones towards the Cenomanni. Saint Anthony is celebrated on May 4th in the Gallican Martyrology.
+Some more recent accounts suggest he was one of the companions of Saint Maurus the abbot. An instrument from John, the Archbishop of the Turones, created in 1407, mentions the abbot of Saint Julian, discussing the relics of Saint Anthony and Saint Laurus.
+
+265
+00:37:44,400 --> 00:37:48,021
+We are allowed to remain unaware of what the ancients did not know.
+
+266
+00:37:48,021 --> 00:37:51,373
+Now, let's delve into the monastery of Saint Julian once more.
+
+267
+00:37:51,373 --> 00:37:58,616
+Among the monasteries that Odo brought under his administration is Romanense, located in the Waldensian county of the Lausanne region.
+
+268
+00:37:58,616 --> 00:38:02,455
+King Rudolph the First of Burgundy granted this to his sister, Aleydis.
+
+269
+00:38:02,455 --> 00:38:11,050
+The letters, dated June 10 in the first year of the pious King Rudolph, from the Incarnation of the Lord 888, in the 11th indiction, were issued at Vabrevilla.
+
+270
+00:38:11,050 --> 00:38:20,888
+We have the complete original of these letters, which were published in the notes to the Cluniac library, though there was an error in the century number, reading 900 instead of 800.
+
+271
+00:38:20,888 --> 00:38:27,861
+Later, Aleydis, also known as Adeleys, the countess herself, transferred that Roman-named abbey to Odo with an excellent diploma.
+
+272
+00:38:27,861 --> 00:38:33,105
+It's useful to refer to this for historical clarity:
+To all who truly consider, it is clear, etc.
+
+273
+00:38:33,105 --> 00:38:58,890
+Therefore, let it be known to all living in the unity of faith and awaiting the mercy of Christ that Adeleydis, by the gift of God the countess, the resources of my right, which came to me by the decree of Lord King Rudolph, my sweetest and most beloved brother, this is the monastery called Romanense, which is located in the Waldensian region, with all the abbey and all the things and adjacent properties pertaining to that abbey long ago ordained by the holy Fathers there.
+
+274
+00:38:58,890 --> 00:39:28,081
+This aforementioned Romanense monastery was once constructed in honor of the chief apostles, namely Peter and Paul, under monastic profession: but now deprived entirely of their habitation, for the love of our Lord Jesus Christ and of those same apostles, from my right and domination, I, the aforementioned Adeleydis, transfer it entirely into the ownership and care of the monks, that is, of the venerable and most reverend Abbot Odo, and all the brothers and the company of monks living under his administration in the Cluniac monastery.
+
+275
+00:39:28,081 --> 00:39:37,811
+On the sole condition that these monks, as much as they are able, strive to reform that monastery to its former state through the intercession of the apostles, with Christ's favor.
+
+276
+00:39:38,351 --> 00:39:43,317
+The abbot mentioned earlier, along with the monks, will hold the monastery as long as he lives.
+
+277
+00:39:43,317 --> 00:39:50,060
+Although it's assigned to the apostolic seat, just like Cluny, they will always operate as one congregation under a single abbot.
+
+278
+00:39:50,060 --> 00:39:56,018
+So much so that when he steps down, neither they nor anyone else can appoint a new abbot without mutual agreement.
+
+279
+00:39:56,018 --> 00:40:09,504
+Nor should they, God forbid, assume the right to appoint anyone other than the one chosen by the community, as it would be unjust for those who grew up like sons to the Roman monastery to separate from the Cluny community, who, like fathers, renew the place.
+
+280
+00:40:09,504 --> 00:40:14,051
+Indeed, when appointing an abbot, the rule of Saint Benedict should always be followed.
+
+281
+00:40:14,051 --> 00:40:20,899
+If even a small group from either congregation wants to choose a wiser leader, the others should agree in accordance with the rule.
+
+282
+00:40:20,899 --> 00:40:29,000
+Regarding the transfer of brothers or resources for greater benefit, it will be at the abbot's discretion to move them from one place to another as needed.
+
+283
+00:40:29,000 --> 00:40:35,847
+To maintain a strong bond among them, they shall uphold the same practices for divine service, alms, or any good work collectively.
+
+284
+00:40:35,847 --> 00:40:41,963
+What is done at Cluny for the remembrance of William or others, living or deceased, should benefit us and our people.
+
+285
+00:40:41,963 --> 00:40:47,817
+And what has been done at the Roman monastery for us, according to the Lord's will, they shall share in equally.
+
+286
+00:40:48,288 --> 00:40:52,573
+I am making this donation primarily out of love for God and the holy apostles.
+
+287
+00:40:52,573 --> 00:40:57,791
+Also, for the soul of my brother and dear lord, King Rodulf, the original giver of these items.
+
+288
+00:40:57,791 --> 00:41:02,022
+Additionally, for the memory of my lord, Prince Richard, and for Queen Willa.
+
+289
+00:41:02,022 --> 00:41:05,922
+This includes myself, my son King Rodulf, and my grandson, King Rodulf.
+
+290
+00:41:05,922 --> 00:41:09,658
+I also include my other sons, Hugo and Boson, and my grandson Louis.
+
+291
+00:41:09,658 --> 00:41:13,009
+This extends to our other relatives and those in our service.
+
+292
+00:41:13,009 --> 00:41:18,557
+For my father and mother, Lord Hugo the distinguished abbot, and our other relatives from both sides.
+
+293
+00:41:18,557 --> 00:41:23,337
+Finally, for those who will provide assistance or protection to the monks living there.
+
+294
+00:41:23,337 --> 00:41:28,226
+This is for the welfare of the entire religion and for all Catholics, living or deceased.
+
+295
+00:41:28,226 --> 00:41:34,764
+The monks residing there should maintain the way of life now being transferred to guide those who will come from Cluny.
+
+296
+00:41:34,764 --> 00:41:44,542
+This means they should not reduce this way of life in terms of food and clothing, abstinence, psalm singing, silence, hospitality, mutual love and subjection, and good obedience.
+
+297
+00:41:44,542 --> 00:41:54,431
+It's also stated in this testament that from this day forward, the monks gathered there should not fall under the control of us, our parents, royal power, or any earthly authority.
+
+298
+00:41:54,431 --> 00:42:06,132
+No secular princes, no count, no bishop, and not even the pontiff of Rome should, by the Lord and in the Lord, with all his saints and the day of the fearful judgment, invade the property of these servants of God.
+
+299
+00:42:06,132 --> 00:42:12,120
+Nor should they disperse, diminish, offer it as a grant, or appoint any prelate over them against their will.
+
+300
+00:42:12,120 --> 00:42:17,998
+And to more effectively deter all reckless and dishonest individuals, I further emphasize this prohibition.
+
+301
+00:42:18,768 --> 00:42:26,143
+I implore you, holy apostles and glorious leaders of the earth, Peter and Paul, as well as you, the highest priest of the apostolic seat.
+
+302
+00:42:26,143 --> 00:42:37,070
+Through the canonical and apostolic authority you've received from God, please separate those who rob, invade, or take away these offerings from the fellowship of the holy Church of God and eternal life.
+
+303
+00:42:37,070 --> 00:42:40,946
+I gladly and willingly give these to the aforementioned servants of God.
+
+304
+00:42:40,946 --> 00:42:52,197
+Be the protectors and defenders of the mentioned place in Rome, of the servants of God residing there, and of all these resources, for the sake of the alms, mercy, and compassion of our most merciful Redeemer.
+
+305
+00:42:52,197 --> 00:43:12,761
+If, by any chance, God forbid, and which I trust in God's mercy and the apostles' protection won't happen, anyone from near or distant relations, or from any position or authority, tries with any deceit to go against this testament, which I've established for the love of Almighty God and the reverence of the apostles Peter and Paul, let them first incur the wrath of Almighty God.
+
+306
+00:43:12,761 --> 00:43:18,360
+May the Lord remove their father from the land of the living and erase their name from the book of life.
+
+307
+00:43:18,360 --> 00:43:33,541
+Let their fate be with those who said to God, "Lord, leave us," and with Dathan and Abiram, whom the earth swallowed with an open mouth and hell consumed alive.
+Let them face eternal damnation, becoming a companion of Judas, the betrayer of the Lord, and be held in eternal torment.
+
+308
+00:43:33,864 --> 00:43:47,063
+Although it may not seem apparent now that he will escape human judgment without punishment, he will endure the torments of future damnation in his own body, sharing a fate similar to Heliodorus and Antiochus.
+
+309
+00:43:47,063 --> 00:43:56,094
+One barely survived after being severely whipped, while the other died miserably, struck by divine will, with rotting limbs and swarming worms.
+
+310
+00:43:56,094 --> 00:44:02,093
+Let him join the ranks of other sacrilegious people who dared to desecrate the Lord's treasury.
+
+311
+00:44:02,093 --> 00:44:11,819
+Unless he repents, he will have the chief guardian of all churches, along with Saint Paul, as an adversary, denying him access to the delightful paradise.
+
+312
+00:44:11,819 --> 00:44:15,987
+He could have had them as compassionate intercessors if he wished.
+
+313
+00:44:15,987 --> 00:44:26,281
+According to the worldly law, let him pay one hundred pounds of gold to those he has wronged, compelled by judicial authority, and let his efforts come to nothing.
+
+314
+00:44:26,281 --> 00:44:34,049
+But may the firmness of this will, supported by all authority, remain unviolated and unshaken, with a stipulation attached.
+
+315
+00:44:34,049 --> 00:44:39,985
+Signed by Adelaide, the royal countess mother and abbess who authorized and ordered this will.
+
+316
+00:44:39,985 --> 00:44:42,511
+Signed by Hildegang, an unworthy priest.
+
+317
+00:44:42,511 --> 00:44:43,522
+Signed by Ulric.
+
+318
+00:44:43,522 --> 00:44:46,174
+Signed by Judith, daughter of King Rudolf.
+
+319
+00:44:46,174 --> 00:44:47,311
+Signed by Albrada.
+
+320
+00:44:47,311 --> 00:44:48,258
+Signed by Wido.
+
+321
+00:44:48,258 --> 00:44:49,332
+Signed by Einric.
+
+322
+00:44:49,332 --> 00:44:53,879
+Signed by Hugo, illustrious count and brother of the august King Rudolf.
+
+323
+00:44:53,879 --> 00:44:54,953
+Signed by Gofred.
+
+324
+00:44:54,953 --> 00:44:57,416
+Signed by Rudolf, son of Emperor Louis.
+
+325
+00:44:57,416 --> 00:45:02,784
+Signed by Stephen, Christian, Gonfred, Umbert, Boso, Bavo, Leodfred, Wlitger, Rudolf.
+
+326
+00:45:02,784 --> 00:45:03,794
+Dated 14th June.
+
+327
+00:45:03,794 --> 00:45:13,835
+I, Hildebrand, a priest, wrote and signed on behalf of the chancellor in the fifth year of the reign of the most glorious King Rudolf, in the second indiction.
+
+328
+00:45:13,835 --> 00:45:16,298
+Done publicly in the village of Boiaco.
+
+329
+00:45:16,298 --> 00:45:17,625
+Thus far, the decree.
+
+330
+00:45:17,625 --> 00:45:39,602
+From the Roman monastery, the book of priories in the Cluniac library contains this:
+The priory of the Roman monastery, Romansmonstier, in the diocese of Lausanne, where there should be, including the prior, twenty-two monks, although there were more in ancient times, as recorded, and there should be celebrated there three masses with chant, etc.
+
+331
+00:45:40,992 --> 00:45:45,536
+Let's return to the region of Macon, where the abbey called Charlieu is located.
+
+332
+00:45:45,536 --> 00:45:58,147
+On December 26, in the year 932, Pope John XI granted this abbey to Odo from the Cluniac monastery, at the request of Hugh, the King or Duke of Burgundy, during the eleventh year of his pontificate, in the fifth indiction.
+
+333
+00:45:58,147 --> 00:46:04,169
+Louis the Transmarine also confirmed this with letters that can be found in the Cluny library, column 276.
+
+334
+00:46:04,169 --> 00:46:09,224
+King Boso had previously restored this abbey to the monks at the request of Count Sirald.
+
+335
+00:46:09,224 --> 00:46:22,006
+This is evident from a charter published by Guichenon in the history of Savoy, page 375, where the monastery of Charlieu is noted to be dedicated in honor of Saint Stephen, situated in the county of Macon on the Surnan River.
+
+336
+00:46:22,006 --> 00:46:31,265
+The diploma was issued on December 3, in the twelfth indiction, during the first year of Boso's reign at the Charlieu monastery, which corresponds to the year 879.
+
+337
+00:46:31,265 --> 00:46:33,935
+For more about Charlieu, refer to Aymard below.
+
+338
+00:46:33,935 --> 00:46:40,525
+Finally, besides other monasteries whose records we lack, Gallican monasteries were given to the Cluniacs under Odo.
+
+339
+00:46:40,525 --> 00:46:52,397
+Some Italian monasteries also came under Cluniac control at that time, namely Suppentonia, Adventino, and Saint Paul in Rome, as noted by John, and the one in Salerno, whose monks dedicated Odo's life to John.
+
+340
+00:46:52,397 --> 00:47:04,952
+It's very likely that Saint Peter in Ticino was among them, since Odo, upon returning from Rome, left John-who was then a canon and later a monk-to be educated there, as he mentions about himself in book one, number four.
+
+341
+00:47:04,952 --> 00:47:15,177
+This is the monastery of Saint Peter in Coelo-aureo, later called Saint Augustine after the transfer of his body to that place, which we mentioned in part one of the third century.
+
+342
+00:47:15,177 --> 00:47:20,005
+Authors have varied accounts about the origins of the church of Saint Paul near Rome.
+
+343
+00:47:20,005 --> 00:47:23,982
+Some attribute its founding to Pope Sylvester and Emperor Constantine.
+
+344
+00:47:23,982 --> 00:47:36,309
+Leo Allatius supports this view in book one on the agreement of both churches, chapter six, number 26, where he states that the basilica of Saint Paul on the Ostian Way, originally facing east, was built by Sylvester.
+
+345
+00:47:36,309 --> 00:47:43,580
+However, Emperor Valentinian, under the direction of Pope Siricius, transformed it into the structure we see today, facing east.
+
+346
+00:47:44,376 --> 00:47:55,289
+Interestingly, Peter Damian credits Constantine as the founder of the Vatican Basilica of Saint Peter, and attributes the Ostian Basilica of Saint Paul to Theodosius the Elder and his son Honorius.
+
+347
+00:47:55,289 --> 00:47:59,500
+You can find this in the fourth work, fourth response of the royal defender.
+
+348
+00:47:59,500 --> 00:48:07,090
+Much later, Emperor Theodosius initiated the construction of the Basilica of Saint Paul; after his passing, his son Honorius finished it.
+
+349
+00:48:07,090 --> 00:48:12,741
+I found the same information in a very old manuscript from the Church of Noyon, written 800 years ago.
+
+350
+00:48:12,741 --> 00:48:26,536
+It contains the Etymologies of Isidore, where it states: In the Basilica of Saint Paul the Apostle in Rome, where his sacred body is buried, Theodosius began, and Honorius completed the hall, dedicated to the Doctor of the World, Paul's sacred body.
+
+351
+00:48:26,536 --> 00:48:32,574
+This is also supported by Prudentius, a contemporary author, in his hymn 12 about the blessed Peter and Paul.
+
+352
+00:48:32,574 --> 00:48:38,336
+In another section, the title of Paul preserves the Ostian Way, where the earth is bordered on the left.
+
+353
+00:48:38,336 --> 00:48:44,762
+The place is of regal splendor: a good prince consecrated these towers and skillfully enhanced the surrounding area.
+
+354
+00:48:44,762 --> 00:48:50,025
+He installed gilded panels on the beams, so that all the light inside would glow like the dawn.
+
+355
+00:48:50,025 --> 00:48:54,790
+He also placed Parian columns under the gilded ceilings, arranged in a fourfold order.
+
+356
+00:48:54,790 --> 00:48:58,502
+Then he adorned the vaulted arches with magnificently varied glass.
+
+357
+00:48:58,502 --> 00:49:00,939
+Thus, the meadows gleam with spring flowers.
+
+358
+00:49:00,939 --> 00:49:06,646
+This is about the origin of the basilica: when it was granted to the monks needs further investigation.
+
+359
+00:49:06,646 --> 00:49:14,291
+John suggests it happened before Odo, in book one, number 27, where he mentions that five years before writing his life, Odo went to Rome.
+
+360
+00:49:14,291 --> 00:49:23,211
+He rebuilt the monastery within the church of the most blessed Apostle Paul (as it once was) at the urging of the lord pope and all the orders of the sacred see.
+
+361
+00:49:23,211 --> 00:49:30,856
+Thus, there had once been a seat of monks there, which Odo restored around the year 937 during his time in Rome, as we will explain later.
+
+362
+00:49:30,856 --> 00:49:37,282
+The same John mentions the monastery of Saint Paul and the monks in various parts, and also refers to Abbot Baldwin.
+
+363
+00:49:37,282 --> 00:49:43,266
+He also reports that Saint Odo, when in Rome, often stayed there, especially in book two, numbers 21 and 22.
+
+364
+00:49:44,208 --> 00:49:47,726
+There's no doubt about it, as John himself stayed there with Odo.
+
+365
+00:49:47,726 --> 00:49:56,009
+Yet, in a respected book about the life of Saint John, Abbot of Gorze, it mentions that Andrew, a monk, was sent to Rome at the request of Pope Agapetus.
+
+366
+00:49:56,009 --> 00:50:07,052
+Agapetus had earnestly asked Lord Einold, the abbot of Gorze, to send some religious men to the monastery of Saint Paul, which he was trying to convert into a monastic order with the help of King Alberic.
+
+367
+00:50:07,052 --> 00:50:12,791
+Andrew went with another brother, who had come to Gorze from the monastery of Luxeuil a few years earlier.
+
+368
+00:50:12,791 --> 00:50:18,150
+After establishing monastic practices there, he was soon received by the Lord and was buried there.
+
+369
+00:50:18,150 --> 00:50:23,401
+Pope Agapetus began his papacy in the fourth year after Odo's death, in nine hundred forty-six A.
+
+370
+00:50:23,401 --> 00:50:23,509
+D.
+
+371
+00:50:23,509 --> 00:50:32,983
+So, how could it be that the monastery of Saint Paul, which had been imbued with monastic practices under Odo, was transferred again to the monastic order under Pope Agapetus?
+
+372
+00:50:32,983 --> 00:50:39,533
+This should be understood as a restoration of regular discipline, which is surprising to see had deteriorated so quickly.
+
+373
+00:50:39,533 --> 00:50:44,514
+It certainly declined during the reign of Otto the Second, or at least that was the pretext.
+
+374
+00:50:44,514 --> 00:50:52,255
+Otto, who intended to establish canons at Saint Paul's instead of disobedient monks, is mentioned by Rodulfus Glaber in Book One, Chapter Four.
+
+375
+00:50:52,255 --> 00:50:59,780
+Whatever the case, the monastery of Saint Paul in Ostia, although not entirely subject to Cluny, still often received superiors from there.
+
+376
+00:50:59,780 --> 00:51:09,849
+Peter Damian provides evidence of this in his thirty-third work, where he discusses Saint Maiolus, who appointed a prior at Saint Paul's, as we will mention in the acts of Saint Maiolus.
+
+377
+00:51:09,849 --> 00:51:24,790
+Finally, this is explicitly confirmed by Hugh of Cluny in a letter to Abbot Pontius with these words:
+This monastery, namely Saint Paul's, was entrusted to your predecessor, Saint Odo, in subsequent years, where for some time the spirit of the Cluniac order shone through him.
+
+378
+00:51:25,440 --> 00:51:39,152
+With the city disrupted by rebellious unrest-a situation it often faces in unfortunate circumstances-the monks, burdened by these troubles, decided to leave, taking with them the sacred relics of the apostolic ashes, particularly those of Saint Paul.
+
+379
+00:51:39,152 --> 00:51:41,181
+They quickly made their way to Cluny.
+
+380
+00:51:41,181 --> 00:53:12,562
+The abbot of the monastery of Saint Paul was Adam, whom Pope Victor the Third mentions in Book 2 of "The Miracles of Saint Benedict," chapter 25. John Baptist Marus raises a question about which congregation the monastery of Saint Paul was subject to at that time: Cluniac or Casinensian. This doubt arises because, according to Leo of Ostia in Book 1 of the "Chronicle of Monte Cassino," chapter 58, the abbey of Saint Paul was entrusted to Abbot Baldwin by Pope Marinus. Thus, Desiderius, or Pope Victor, who was also the abbot of Monte Cassino, refers to the monastery of Saint Paul as "our" monastery. However, he might have spoken in this manner considering the common order, as there was neither a Casinensian congregation nor a Cluniac congregation in the form it later took under Saint Hugh.
+Odo prescribed a uniform way of living for all these and many other monasteries, similar to what was observed at Cluny, and he acted like a general abbot over them. This system, first instituted by Saint Pachomius in the East, was attempted in the West by Benedict of Aniane and was finally perfected by Odo. Because of this, some considered him the founder of the order of Saint Benedict in France, as he united many monasteries, which were previously partly destroyed and completely separated from each other, into one body.
+From the time of Peter the Venerable, Odo has been called the supreme restorer of the monastic order in France, the principal reformer of the rule, and the first father of the Cluniac order. He endeavored to revive the fervor of the monastic purpose, which was nearly extinct and almost forgotten everywhere, as noted in Book 6, Letter 17.
+
+381
+00:53:12,672 --> 00:53:19,123
+Similarly, before him, Frodoard in his chronicle refers to Odo as a restorer of many monasteries and of the holy rule.
+
+382
+00:53:19,123 --> 00:53:32,136
+Glaber Rodulf states:
+He was such a strong supporter of this institution that the most significant monasteries from the Beneventan province, as well as those in Italy and Gaul up to the Ocean Sea, were delighted to be under his authority.
+
+383
+00:53:32,136 --> 00:53:42,634
+His fame and religious reputation were so renowned that not only noble laypeople and clerics, but even bishops, gave up their positions to join him; as noted by John in book three, number ten.
+
+384
+00:53:42,744 --> 00:53:53,829
+Chapter Six - The Growth of the Cluny Abbey Under Odo
+Odo not only greatly enhanced the religious practices of the Cluny institution but also significantly increased its wealth, which often follows closely.
+
+385
+00:53:53,829 --> 00:54:03,731
+Firstly, King Rudolph of the Franks, at the request of his wife Imma, the sister of Hugh, granted lands to Cluny located in the Macon region, including three in Salornay, among others.
+
+386
+00:54:03,731 --> 00:54:13,955
+This was given at the village of Boisseau on July first, in the tenth year of his reign, the third indiction, year four hundred and forty-four, which is the year nine hundred and thirty-one.
+
+387
+00:54:13,955 --> 00:54:31,982
+In the following year, Bishop Berno of Macon, encouraged by Archimbold, the prior of the Cluny monastery, and Hildebrand, while sitting in a council near the church of Saint Vincent in Macon to settle divine commands in the manner of the preceding Fathers, granted the tithes of the land of Salornay, which King Rudolph had given them.
+
+388
+00:54:31,982 --> 00:54:42,960
+In the same year, the tenth year of King Rudolph, Bishop Berno consecrated a chapel in the village of Salornay, which the small Cluny community, supported by Odo, their gentle father and abbot, had built.
+
+389
+00:54:42,960 --> 00:55:00,342
+Two years later, Count Leotald of Macon and his wife Ermengarde gave to Abbot Odo whatever they owned in the village of Darbonnay in the Lyon region, by the river Saone, so that God might spare the souls of their parents Alberic and Escolana, Manasses and Irmingarde, as well as their friend Gerard, from the pains of hell.
+
+390
+00:55:00,342 --> 00:55:04,378
+After Leotald and Ermengarde, Count Gaufred and others signed the document.
+
+391
+00:55:04,378 --> 00:55:15,732
+This document is recorded with some errors in the library of Sebusiana on page one hundred and sixty-eight, and you can find more about Leotald on pages two hundred and thirty-six and two hundred and ninety-six.
+
+392
+00:55:15,732 --> 00:55:24,342
+In nine hundred and thirty-six, a piece of land in the village of Rufey, near Cluny in the Macon region, was given to Odo in May, when King Rudolph passed away.
+
+393
+00:55:24,342 --> 00:55:28,217
+This was done in Cluny and confirmed publicly at the castle of Lournand.
+
+394
+00:55:28,217 --> 00:55:39,517
+In the second year of King Louis's reign, Abbot Odo and the monks of Cluny purchased a field below the castle of Lournand, commonly called Lourdon, which was later demolished by the order of Cardinal Richelieu.
+
+395
+00:55:40,056 --> 00:55:51,360
+In the same year that King Rodulf passed away, Count Gaufredus and his wife Ava donated Escozolas in the Aeduens region for the sake of their souls and for the soul of their lord William and his son Boson.
+
+396
+00:55:51,360 --> 00:56:02,719
+They also gave Keitaelos in the Matiscens region, in the vicariate of Bufarias, for the salvation of their souls and that of Gauzbert, the brother of Gaufredus, during the fifth year of Louis from Overseas.
+
+397
+00:56:02,719 --> 00:56:12,479
+In the second year of Louis's reign, Bishop Maimboldus of the Matiscens reported that his predecessor Bernon had granted the Cluniacensians full control over all their churches.
+
+398
+00:56:12,479 --> 00:56:20,750
+However, after these churches were destroyed by pagan invasions and the wickedness of corrupt people, he reduced the synodal tribute they used to pay.
+
+399
+00:56:20,750 --> 00:56:33,929
+The canons signed, and among them, Abbot Ado, a leading figure, donated several items to the Cluniacensian monastery, including the churches of Saint Desiderius and Saint Julian in Siviac and Davagiac, in the twelfth year of Louis's reign.
+
+400
+00:56:33,929 --> 00:56:45,564
+Also, in the second year, Bishop Rotmund of the Aeduens donated the chapel of Saint Leodegar of Blanciac in the county of Matiscens, which his most holy predecessor Walo had granted to a certain priest for life.
+
+401
+00:56:45,564 --> 00:56:48,928
+Witnesses to this were Hildebodus and Girbaldus, both abbots.
+
+402
+00:56:48,928 --> 00:56:54,607
+In the third year of the same king, during the eleventh indiction, which corresponds to the year 938 A.
+
+403
+00:56:54,607 --> 00:56:54,717
+D.
+
+404
+00:56:54,717 --> 00:57:03,761
+, a holding in the village of Madaliac in the Lugdunens region, in the Ternatens field, was given to the Cluniacensian monastery, under the leadership of Abbot Odo.
+
+405
+00:57:03,761 --> 00:57:11,756
+Additionally, a man named Airich gave Abbot Odo a field with a forest in the Lugdunens region, in the Tarnatens field, at the edge of Denadaliac.
+
+406
+00:57:11,756 --> 00:57:17,822
+This place was undoubtedly Ternatum, where the Tarnatens monastery was situated, often confused with Agaunens.
+
+407
+00:57:17,822 --> 00:57:27,858
+But this Ternatum was located by the Rhone, at the border of the Lugdunens and Viennens regions, commonly known as Ternay, where there is now a priory of the Order of Saint Benedict.
+
+408
+00:57:27,858 --> 00:57:37,673
+Also, in the third year of his reign, Louis from Overseas confirmed by charter the Cluniacensian properties in Quercet at Dociac, which is preserved in the Cluniacensian library.
+
+409
+00:57:38,280 --> 00:57:47,603
+These are some smaller donations I made, like when Hugo, the count, gave a maidservant from the villa Romanis in the Lugdunensis region to the Cluny monastery and Abbot Odo.
+
+410
+00:57:47,603 --> 00:57:50,513
+This happened in the sixth year of King Louis's reign.
+
+411
+00:57:50,513 --> 00:57:53,423
+After that year, donations were given to Abbot Aimard.
+
+412
+00:57:53,423 --> 00:57:56,710
+All charters under Odo are numbered one hundred eighty-eight.
+
+413
+00:57:56,710 --> 00:58:07,920
+Moreover, from all these charters, and others that we will mention with Aimard, it's evident that Macon, along with its assigned region, was under the authority of the king of the Franks, not the Burgundians.
+
+414
+00:58:08,136 --> 00:58:12,253
+Chapter 6 - Odo's multiple journeys to Rome for the sake of the Church.
+
+415
+00:58:12,253 --> 00:58:20,313
+Odo's passionate dedication to divine matters didn't confine him within monasteries; instead, he ventured out to benefit the entire Church.
+
+416
+00:58:20,313 --> 00:58:27,851
+The Roman popes repeatedly summoned him to Italy to use his wisdom and authority in assisting the Church through its difficulties.
+
+417
+00:58:27,851 --> 00:58:36,259
+The reason for his first trip to Rome was this: After Emperor Berengar's death, Hugh, the son of Theobald, Count of Arles, took control of Italy.
+
+418
+00:58:36,259 --> 00:58:48,726
+Marozia, the infamous widow of Guido, Count of Tuscany, who, along with her son Alberic, had seized Pope John and taken control of Rome, invited Hugh through messengers to marry her and take up the rule of the city.
+
+419
+00:58:48,726 --> 00:58:52,959
+Hugh accepted the offer, and after marrying her, he took control of Rome.
+
+420
+00:58:52,959 --> 00:59:01,715
+Meanwhile, during a feast, when Alberic, at his mother's urging, awkwardly offered water to wash Hugh's hands, Hugh hit him in the face to correct him.
+
+421
+00:59:01,715 --> 00:59:06,818
+Offended by this, Alberic incited the Romans to revolt and forced Hugh to flee the city.
+
+422
+00:59:06,818 --> 00:59:16,386
+After Hugh fled, Alberic governed the city with his mother Marozia under consular power, restoring the old order of Rome along with the name and role of the consuls.
+
+423
+00:59:16,386 --> 00:59:30,129
+These events occurred around the year 929, during the pontificates of John the Tenth, Leo the Sixth, and Stephen the Seventh, followed by John the Eleventh in 931, who was Marozia's son from her affair with Sergius and Alberic's brother.
+
+424
+00:59:30,129 --> 00:59:35,464
+The holy Roman Church of God had to endure such challenges from Marozia and her son Alberic.
+
+425
+00:59:35,464 --> 00:59:49,380
+In 933, messengers from the Church of Rheims returned from Rome reporting that Pope John, son of Maria, also known as Marozia, was detained by his brother Alberic, who also kept their mother Marozia confined and held Rome against King Hugh.
+
+426
+00:59:49,380 --> 00:59:52,164
+Shortly after, King Hugh of Italy besieged Rome.
+
+427
+00:59:52,164 --> 01:00:01,790
+In the year 936, after Pope John, Alberic's brother, died, a servant of God named Leo was appointed pope in Rome, specifically Leo the Seventh, as Frodoard soon adds.
+
+428
+01:00:02,544 --> 01:00:05,030
+King Hugh of Italy attempted to capture Rome.
+
+429
+01:00:05,030 --> 01:00:14,424
+However, after his army suffered from hunger and lost many horses, he eventually made peace with Alberic by offering his daughter in marriage, and he abandoned the siege.
+
+430
+01:00:14,424 --> 01:00:18,458
+Now, let's determine the year Odo was first summoned to Rome by the pope.
+
+431
+01:00:18,458 --> 01:00:30,228
+Baronius suggests this happened in 936, the same year King Hugh gave his daughter, whom Liutprand, a deacon from Ticino and a writer of that era, calls Alda, in marriage to Alberic, thus ending his attack on Rome.
+
+432
+01:00:30,228 --> 01:00:41,943
+Baronius is indeed correct:
+while preparing for his journey to Rome, Odo visited Adhegrin and learned through a revelation of Saint Martin about the anointing of Louis the Transmarine, which also occurred in 936.
+
+433
+01:00:41,943 --> 01:00:44,319
+Odo undertook this journey for two reasons.
+
+434
+01:00:44,319 --> 01:00:58,576
+First, to reconcile King Hugh with Prince Alberic, as Odo was highly favored by the king, which is evident from the three privileges Hugh obtained from the Roman popes for Odo's benefit-specifically from John the Eleventh, Leo the Sixth, and Leo the Seventh.
+
+435
+01:00:58,576 --> 01:01:13,440
+Second, to rebuild the monastery within the church of Saint Paul the Apostle, as it had been before, at the urging of the lord pope and all the orders of the Holy See, as mentioned in John, Book One, number 27, where it discusses the anointing of Louis the Transmarine.
+
+436
+01:01:13,440 --> 01:01:19,850
+Then, Odo corrected and annotated the life of Saint Martin in Rome at Saint Paul's, as noted in Book Two, number 22.
+
+437
+01:01:19,850 --> 01:01:57,702
+It's fitting to refer here to what John writes in Book Two, number 9:
+"In the past, when King Hugh besieged the city of Rome due to enmity with the aforementioned Prince Alberic, he began to go back and forth, spreading messages of peace and harmony between them, so that he might calm the anger of the mentioned king and protect the city from such a siege."
+Meanwhile, one day, as he was near the monastery of Saint Andrew the Apostle, located on the slope of Scaurus, a certain peasant wanted to kill him over a small flask of water.
+Alberic wanted to punish the peasant with death, but Odo stopped him.
+This shows the great reverence not only King Hugh but also Alberic had for Odo.
+
+438
+01:01:58,200 --> 01:02:09,029
+Another sign of Alberic's goodwill towards Odo was that he entrusted him with restoring the monastery of Saint Elias at Suppentonia, as noted by John in Book Three, Number Seven, Thirty-Eight.
+
+439
+01:02:09,029 --> 01:02:13,767
+Odo's second journey to Rome didn't occur in the year 938 but in the following year.
+
+440
+01:02:13,767 --> 01:03:49,879
+John clearly states at the beginning of Book One with these words:
+"In the year of the Lord's Incarnation 939, and in the sixtieth year of his life, in the thirtieth year of his monastic life, coming to Rome, he found me entangled in worldly ties, and mercifully caught me in his net, and led me to the monastery of Saint Peter in Ticino."
+For a short time, detained there by Hugh, the aforementioned Lord Hildebrand entrusted me to be educated in the regular disciplines. Therefore, John was not Odo's companion on the first journey.
+John adds:
+"Not long after, coming to Rome, he graciously chose me as his companion, and when he returned, he brought back the one he had taken as a canon from his parents as a monk."
+From this, we understand that John was a native of Rome and a canon there. This return to Rome happened while Pope Leo was still alive, thus in the year 939, or at least at the beginning of the next year, perhaps before Odo returned to France.
+John confirms this timeline in Book Two, Number Seven:
+"At the same time, we were sent to Italy by Pope Leo to serve as ambassadors of peace between Hugh, the king of the Lombards, and Alberic, the prince of the city of Rome."
+This relates to what John mentions in Book One, Number Twenty-Two:
+"Three years ago, while we were at Saint Paul's in Rome, etc."
+John wrote this shortly after Odo's death, which occurred at the end of the year 942 and what he refers to in Book One, Number Sixteen.
+Perhaps at that time, he made a pilgrimage to Mount Gargano, which is mentioned in Book Two, Number Fifteen.
+Finally, in the year 942, Odo was called to Rome for the third time by Pope Stephen the Ninth to reconcile King Hugh with the same Alberic.
+
+441
+01:03:49,992 --> 01:03:57,912
+Frodoardus for this year:
+Lord Odo, the abbot, was striving to make peace between King Hugh of Italy and Alberic, the Roman patrician.
+
+442
+01:03:57,912 --> 01:04:01,635
+In his efforts for the church, the holy man aged and grew weak.
+
+443
+01:04:01,635 --> 01:04:07,900
+In Rome, after falling ill, he received a reprieve from God so he could return to Tours at Saint Martin's.
+
+444
+01:04:07,900 --> 01:04:20,903
+As we will soon learn from John, if Odo did not return to France in the year 939, then Gerard, the bishop of Reggio, who accompanied him on the second journey, as mentioned in the book of Life, book two, number six, did.
+
+445
+01:04:20,903 --> 01:04:51,579
+Otherwise, it was during the third journey, as evidenced by these words that show John was with them:
+"At that time, when we crossed the Cottian Alps with Gerard, bishop of the Church of Reggio, and came to Rome, etc."
+However, those who place Odo's fourth journey to Rome before the last one might not be far from the truth. Indeed, the three journeys we just mentioned were undertaken for the church's sake. John notes another journey for the purpose of prayer in book number eighteen. But enough about these matters.
+
+446
+01:04:51,816 --> 01:04:55,608
+Chapter Seven - Odo's Illness, Death, Burial, Relics, and Veneration.
+
+447
+01:04:55,608 --> 01:05:03,852
+As the holy man sensed his end was near, he often reflected on his past mistakes, particularly those made against his abbot during his layman's years.
+
+448
+01:05:03,852 --> 01:06:37,234
+He once spoke to John in Book Three, Section Six:
+"Dearest son, listen to what I say to you.
+I thank God because, for all the sins I have committed since my youth, I have already faced retribution in this life, except for those against my abbot.
+I have always awaited that day and time, praying to God that they would not be reserved for me in the future."
+This was just before his final pilgrimage to Rome in the year nine forty-two.
+Before this journey, he seemed to have appointed Aimard as abbot in his place, as we will explore later in Aimard's eulogy.
+During this period, struck by a severe and unrelenting fever, he longed for heavenly life but greatly desired to visit Saint Martin's tomb one last time, to end his days where he began his pious life.
+Through the merits of his esteemed patron, whom he deeply revered, he was granted this wish from heaven.
+He recovered, returned, and attended the celebration on November tenth as he wished.
+However, on the fourth day within the octave, the fever returned and worsened until, finally, the blessed man, strengthened by divine nourishment and the viaticum, passed into heaven with Martin as his guide on November eighteenth.
+John elaborates on this at the end of Book Three.
+Nalgodus adds some unique details, noting that Odo gathered the brothers, organized the monasteries under his care, and entrusted Cluny to God.
+He kept only his chapel, the sacred furnishings for the Mass, and returned everything else to Cluny.
+These might be speculations of the author.
+What is more certain is that he adds Odo was buried in Tours in the church of Saint Julian, which he himself had restored, funded by Archbishop Theotolon, as previously mentioned.
+
+449
+01:06:37,344 --> 01:06:40,995
+This style of speaking is common among authors and those like them.
+
+450
+01:06:40,995 --> 01:06:45,627
+But we should also pay attention to the Necrologist of the Monastery of Saint Julian.
+
+451
+01:06:45,627 --> 01:06:59,360
+After the most reverend man, Odo, had built many monasteries, corrected many things, and taught many to scorn the foolishness of the world, he wrote useful works for the Church and elegantly composed hymns and antiphons in praise of the blessed Martin.
+
+452
+01:06:59,360 --> 01:07:13,203
+Already an old man, weary with the burden of age, as if aware of his approaching end, he wished, once he laid down the burden of his body, to return to his own monastery at Tours to be buried near the body of his special patron, Lord Martin, if possible.
+
+453
+01:07:13,203 --> 01:07:21,214
+Meanwhile, as the feast of the blessed Martin approached, the venerable father proceeded to the morning ceremonies with his monks long before dawn.
+
+454
+01:07:21,214 --> 01:07:31,514
+On the eighth day of his illness, sensing his final hour was near, with all the brothers standing around, he made sure he was fortified with the provision of the body and blood of the Lord.
+
+455
+01:07:31,514 --> 01:07:40,615
+Then he ordered himself to be carried to the Church of Saint Albin, which was nearby, and with pious lights and hands raised to heaven, he returned his soul to Christ.
+
+456
+01:07:40,615 --> 01:07:46,119
+To this day, the oratory of Saint Albin remains within the cloisters of the aforementioned monastery.
+
+457
+01:07:46,119 --> 01:07:55,220
+He passed away on November 18th and was buried by the often-mentioned Bishop Theotolon in the crypt of Saint Julian, under the altar of that martyr, on the right side.
+
+458
+01:07:55,220 --> 01:08:09,062
+These details come from the Martyrology of the place, renewed to the old form in the year 1469, in the month of July, during the time of Pope Paul the Second, King Louis the Eleventh, and Archbishop Elias, who are the figures of the reformed Martyrology.
+
+459
+01:08:09,062 --> 01:08:14,403
+Nalgodus marks the year of Odo's death as 945, which he counts as the 18th year of his ordination.
+
+460
+01:08:14,403 --> 01:08:18,327
+However, the authority of Frodoard, a contemporary writer, is preferred.
+
+461
+01:08:18,327 --> 01:08:37,074
+He asserts that Odo died two years earlier with these words, found in the chronicle at the end of the year 942:
+"Lord Odo, the venerable abbot, restorer of many monasteries and repairer of the holy rule, died at Tours and was buried at Saint Julian."
+Nothing clearer can be presented both to determine the year of death and the place of burial.
+
+462
+01:08:37,728 --> 01:10:40,655
+As noted, this year aligns with John's calculation, who states in Book 3, number 5, that he did not live with Odo for a full two years: "Unfortunate me," he laments, "that I did not deserve to serve him for even two complete years."
+He actually joined him at the start of the year 940, as mentioned in the previous chapter.
+This same year is also noted by Abbot Hugh of Flavigny in his chronicle: "In this year, Lord Odo the venerable, who restored many monasteries, after working tirelessly to mediate peace between Hugh, King of Italy, and Alberic, the Roman patrician, passed away at Tours."
+However, this needs correction: he was buried at Saint Martin, which is also referenced on the edge of Frodoard's chronicle in the previously mentioned text.
+It becomes clear from the same chronicle in the year 945 that this is an error, as Archbishop Teotilo of Tours is reported to have died and been buried in the monastery of Saint Julian, which the same holy man had dedicated near Lord Odo's tomb.
+From that time onward, the temple is said to be illuminated by divine miracles.
+Therefore, Hugh of Flavigny should be corrected, just as Peter of Equilinum, who asserts that Odo was buried at Cluny.
+The anonymous writer cited by Chesnius in volume 3, page 341, is entirely accurate: "In the same year, specifically the reign of King Louis the Seventh, Lord Odo, a religious and wise abbot of many monasteries, learned and eloquent, rested in peace and was buried at Tours at Saint Julian."
+The burial place is accurately recorded by the Chronicle of Malleacense, although it incorrectly lists the year of death as 938.
+The Dolense Chronicle, noted by Labbe in volume 1 of the New Library, page 315, adds: "In the year 942, Saint Odo, the second abbot of Dol, died."
+Thus, in the year 942, Odo passed away at the age of sixty-four, in the fifteenth year of his leadership at Cluny.
+His remains were preserved in the Church of Saint Julian at least until the 15th century.
+
+463
+01:10:40,655 --> 01:10:49,988
+The first evidence of this matter can be found in the letters of the society established between Cluny and the monastery of Saint Julian in October of the year 1117.
+
+464
+01:10:49,988 --> 01:10:55,135
+At that time, Lord Pontius, the abbot of Cluny, visited Tours at Saint Martin's for prayer.
+
+465
+01:10:55,135 --> 01:11:03,449
+He turned to us-so say the monks of Saint Julian in the letters-out of love for our patron, the blessed Odo, and his own, with the utmost devotion.
+
+466
+01:11:03,449 --> 01:11:09,388
+On the eve of Saint Denis, he celebrated a mass for the most blessed Odo with both our monks and his own.
+
+467
+01:11:09,388 --> 01:11:15,440
+Then, taking with him his prior, Bernard Crassus, and other brothers, he came to our Chapter, and so forth.
+
+468
+01:11:15,440 --> 01:11:24,320
+Long after that, in the year 1407, John, the Archbishop of Tours, invited by Robert, the abbot of Saint Julian, transferred the sacred relics into new cases.
+
+469
+01:11:24,320 --> 01:11:33,313
+This was done in the presence of Mary, Queen of France, her daughter Magdalene, John, Duke of Bourbon, James, Count of Marche, and other distinguished persons.
+
+470
+01:11:33,313 --> 01:11:48,867
+Among these relics, in the fourth case, the body of Saint Odo the abbot was contained, as solemn letters concerning this matter testify, stating as follows:
+John, by divine mercy, Archbishop of Tours, to all who will inspect these present letters, eternal health in the Lord.
+
+471
+01:11:48,867 --> 01:11:57,860
+Whatever praise or honor we bestow on the saints of God, we offer the same, as the prophet bears witness, with the Lord commanding to praise him in his saints.
+
+472
+01:11:57,860 --> 01:12:29,250
+Therefore, with the passing of brother William, of good memory, once the abbot of the monastery of Saint Julian of Tours, of the Benedictine order, it was considered that although the church of the said monastery was adorned with the bodies, relics, and presence of many saints, by whose and other glorious saints' intercessions and prayers who rest in this our city, not only the monastery itself but the entire city flourished with successful outcomes, the bodies and relics were nevertheless less reverently stored, and due honor was not shown to them.
+
+473
+01:12:29,760 --> 01:12:40,102
+Driven by deep devotion, the abbot arranged during his lifetime to have five wooden boxes crafted, adorned with silver and gold on the inside, with the hope of placing relics and bodies in them.
+
+474
+01:12:40,102 --> 01:12:44,900
+However, as fate would have it, he passed away before he could complete this task himself.
+
+475
+01:12:44,900 --> 01:12:52,950
+His wishes were carried forward by the dedicated and devout brothers, including Robert, the current abbot, and the whole congregation of the monastery.
+
+476
+01:12:52,950 --> 01:12:57,641
+They earnestly asked us to place the prepared relics and bodies in the designated areas.
+
+477
+01:12:57,641 --> 01:13:37,625
+We hereby announce that we, fully embracing the pious wishes of the late Brother William, the former abbot, and the esteemed current abbot and congregation, in honor of the glory and magnificence of Almighty God, on the date of this document, in the presence of the most Christian Lady Mary, the illustrious Queen of the Franks, and her renowned daughter Lady Madeleine, as well as the noble princes Lord John, Duke of Bourbon, and James, Count of March, along with many other barons, knights, and noble persons, and the venerable and wise men listed below, transferred and reinterred with our own hands the bodies and relics from the old sarcophagi into the new boxes, which we had previously consecrated and blessed according to the Church's rites.
+
+478
+01:13:37,625 --> 01:13:56,817
+We followed this order: in the first box near the dormitory of the monastery, the body of Saint Paul, Bishop of Leon; in the second box, the body of Saint Anthony, Abbot of the Monastery of Saint Julian of Tours; in the third and largest box, parts of the bodies of Saint Pantaleon and Saint Columba, along with many other relics whose names are unknown to us.
+
+479
+01:13:56,817 --> 01:14:02,681
+In the fourth box, the body of Saint Odo, the first Abbot of Cluny, and then of the Monastery of Saint Julian.
+
+480
+01:14:02,681 --> 01:14:05,986
+In the fifth and final box, the body of Saint Laurence, Abbot.
+
+481
+01:14:06,360 --> 01:14:14,655
+After completing these translations, we secured the chests with silver and gold locks on the outside, and we fortified them with our blessing, trusting in divine mercy.
+
+482
+01:14:14,655 --> 01:14:22,013
+We have instructed the aforementioned religious followers and their successors to celebrate this day of translation festively every year from now on.
+
+483
+01:14:22,013 --> 01:14:25,864
+We urge them to observe it with the appropriate and necessary divine services.
+
+484
+01:14:25,864 --> 01:14:32,827
+As proof and testimony of all the aforementioned, we have arranged for two copies of our letters to be made and signed by the notaries below.
+
+485
+01:14:32,827 --> 01:14:36,135
+We have ordered them to be secured with the attachment of our seal.
+
+486
+01:14:36,135 --> 01:14:44,777
+One of these we have enclosed in the larger chest mentioned above, and the other we have granted to the aforementioned abbot and convent to be placed in the church's treasury.
+
+487
+01:14:45,024 --> 01:14:59,580
+This was given at the aforementioned monastery on January 22, 1407, with the venerable fathers and brothers Guido of the Major Monastery near Tours, Robert of Saint Julian, and Peter of Cormery from our diocese, who were abbots of the order.
+
+488
+01:14:59,580 --> 01:16:01,853
+Also present were the wise men Lords John Campidenarius, Doctor of Decrees, General Preceptor of Saint Anthony of Thuin in Germany, and orator for the Duke of Austria, William Le Picart, treasurer, John Preselli, archdeacon of Transliger, John Nuloti, archdeacon of Tours, Nicholas Perturelli, official, Victor Hugneti, William Joubert, canon of our church in Tours, along with James of Cormery, prior of the cloister and infirmary, John, almoner of the provost, Philip, chamberlain of the provost, John Charretier, sacristan, William Du Vieu, innkeeper, John Guibert, cantor, Guido Auger, sub-cantor, William Boutet of Bovo, and Michael Belloneau of Guerchia, James Auderon of Castro Regialdi, Peter Audebert of Saint Anthony, John Selion of Bueil, Robert Helonis of Ambillo, priors, William of Linaye, John Fafeu, Peter Joulain, deacon, Peter Sourdeau, John Lenfant, Aimerico de Mondanier, John of Fonte, John Budet, Andrew of France, and John of Turre, religious of the monastery of Saint Julian, with many others in attendance.
+
+489
+01:16:01,853 --> 01:16:04,087
+Thus signed by Thouar and the Master.
+
+490
+01:16:04,087 --> 01:16:13,147
+Since then, there has been no mention of Saint Odo's relics in the records of the monastery of Saint Julian, even though his tibia bone is kept there.
+
+491
+01:16:13,147 --> 01:16:19,489
+It's possible they were taken to the island of Jordan near Toulouse, where the canons claim to have them.
+
+492
+01:16:19,489 --> 01:16:31,569
+This might have happened during the heretic uprisings when sacred relics in Tours were scattered by a profane fire, sparing neither the relics of Saint Martin, which had always been honored worldwide.
+
+493
+01:16:31,872 --> 01:16:40,175
+It's noteworthy that the body of Saint Lauri, the abbot mentioned earlier, is documented, even though he isn't included in the Gallican Martyrology.
+
+494
+01:16:40,175 --> 01:16:48,760
+His feast was recently celebrated at Saint Julian on October 1, but it has now been moved to the following day due to the double feast of Saint Remigius.
+
+495
+01:16:48,760 --> 01:16:54,932
+Our community at Fleury claims the body of Saint Paul, the Bishop of Leon, based on the authority of Aimoinus.
+
+496
+01:16:54,932 --> 01:17:02,899
+He asserts that Bishop Mabbo transferred it to the monastery of Fleury, as stated in Book 2 of the Miracles of Saint Benedict, chapter 11, 45.
+
+497
+01:17:02,899 --> 01:17:10,361
+Let's return to Saint Odo, whose veneration was embraced by the Cluniacenses from the time of his death, specifically on November 19.
+
+498
+01:17:10,361 --> 01:17:14,850
+This was due to the octave of Saint Martin coinciding with the day of his death.
+
+499
+01:17:14,850 --> 01:17:20,629
+For this reason, he is mentioned on that day in the Brivatense manuscript and some other martyrologies.
+
+500
+01:17:20,629 --> 01:17:31,009
+In Ulric's Book 1 of the Customs of the Cluniacenses, chapter 11, where various annual celebrations are listed, the deposition of Saint Odo is among those celebrated in white vestments.
+
+501
+01:17:31,009 --> 01:17:41,108
+His honorable memory is found in the Roman, Benedictine, and Gallican Martyrologies, where he is mentioned three times: on November 20 and 19, and in the Supplement on November 18.
+
+502
+01:17:41,108 --> 01:17:47,392
+At the island of Jordan near Toulouse, the veneration of the sacred body of Saint Odo, Abbot of Cluny, is noted.
+
+503
+01:17:47,392 --> 01:17:53,676
+His body was transferred from the church of Saint Julian of Tours, where he was first buried after passing away.
+
+504
+01:17:53,676 --> 01:18:04,000
+Finally, Bernard, in his apology to Abbot William, and before him, Gregory the Seventh in the Roman council, recognized Odo as a saint, as did all the Cluniacensian abbots before them.
+
+505
+01:18:04,000 --> 01:18:15,222
+A sermon about Saint Odo is found among the additions to the Cluniacensian library, to be read on his feast day, which is essentially a sermon by Saint Maximus on Blessed Eusebius, Bishop of Vercelli.
+
+506
+01:18:15,222 --> 01:18:19,598
+Lastly, Peter the Equilinian attests that Saint Odo lives on through miracles.
+
+507
+01:18:20,328 --> 01:18:24,518
+CHAPTER EIGHT - Odo's Writings and Wise Sayings about the Morals of His Age.
+
+508
+01:18:24,518 --> 01:18:28,653
+Let's now focus on the works of Odo himself, setting aside those of others.
+
+509
+01:18:28,653 --> 01:18:33,615
+Some of his writings were done as a canon, others as a monk, and still others as an abbot.
+
+510
+01:18:33,615 --> 01:20:35,018
+As a canon, he summarized the "Morals" of Gregory the Great, as we mentioned earlier in Chapter Two, and composed hymns about Saint Martin and antiphons, drawing from John in Book One, number ten.
+As a monk, he wrote three small books inspired by the prophecies of Jeremiah concerning the priesthood, which he dedicated to Turpion, Bishop of Limoges, as noted by John in Book One, number thirty-seven.
+These books are sometimes referred to by the name of his duties, and the published versions are called "Collations."
+Finally, as an abbot, he authored other works, specifically four books about the life of Saint Gerald, Count of Aurillac, dedicated to Aimoin, abbot of the monastery of Saint Martial in Limoges, according to the local chronicle.
+The Chronicle of Aurillac refers to him as Aimoin, Abbot of Tulle.
+Perhaps he oversaw both places.
+Abbot Odo also wrote a brief work about the return of the body of Saint Martin from Burgundy, at the request of Fulk the Good, Count of Anjou. He also penned a short text on why Martin is considered equal to the apostles, and various sermons, the fourth and last of which in the published collection addresses the burning of the Basilica of Saint Martin.
+An anonymous chronicler praises his sermon about Saint Benedict, delivered during his translation to Fleury, as mentioned by Chesnius in Volume Three, page three hundred forty-one.
+All these works are housed in the Cluniac library, along with hymns about the Holy Sacrament and Mary Magdalene.
+In addition to the published works, he revised the life of Saint Martin in Rome at Saint Paul's, providing explanations with glosses, as John confirms in Book Two, number twenty-two.
+The same author in Book Three, number eleven, mentions a book about the arrival of Saint Benedict in the region of Orleans, a book we lament has been lost.
+A booklet about the life of Gregory of Tours, as published by Surius, is attributed to Abbot Odo in some manuscript copies.
+This life is titled in the code of Saint Sergius of Anjou as follows: "Prologue to the Life of Saint Gregory. Of all the saints, etc."
+And after the prologue, it begins: "Here begins the life of Saint Gregory, Bishop of Tours, written by Odo."
+
+511
+01:20:35,184 --> 01:20:41,830
+Gregory, from the Celtic region of Gaul, played a significant role in the city of Tours and the monastery of Saint Julian.
+
+512
+01:20:41,830 --> 01:20:45,699
+This is why I dedicate this book to Odo, who served as the abbot there.
+
+513
+01:20:45,699 --> 01:22:31,451
+In a parchment manuscript from the Discalced Carmelites in Paris, originally belonging to the Abbey of Saint Julian of Tours, there's a lengthy metrical work titled "The Work of Lord Odo the Abbot Begins." It starts with these verses:
+"Beloved brother, a holy love fills you, I rejoice; the thirst for justice is the honor of the heart, it is dignity. Your heart grieves to be flowing, and yet you wonder why from yours. Therefore, you wish for a poem, perhaps so this binds it, lest it flows."
+The work consists of four books. The first covers the work of God, the second discusses the creation of man, the third deals with his fall and the corruption of human nature, and the fourth focuses on the Fathers of the Old Testament up to Christ the Restorer. The manuscript ends with "The Work of Lord Odo the Abbot Concludes." Many believe it was written by Saint Odo due to its origin from Saint Julian's monastery, where Odo was abbot, and its writing style, which suggests Odo's era. Furthermore, his conferences in the Silvanian Codex are titled "Works of Saint Odo," which fittingly discuss grace.
+Baronius, or at least the compiler of the index of the annals in volume 10, credits Odo with the book about the life of Saint Maurus the Abbot, which is known to be authored by Odo, the Abbot of Fossatensis. Some chronicles are incorrectly attributed to him, which were actually authored by Thomas of Loches. Thomas titled short chronicles in Odo's name, as noted by the writer of the History of the Counts of Anjou, found in volume 10 of the Spicilegium, page 400.
+Furthermore, Sigebert and others note that Odo was skilled in composing church music. In the book about writers, chapter 124, it's mentioned: "Odo the musician, a monk from the chief cantor of Tours and the first abbot of Cluny, had a talent for writing and delivering homilies, and especially for composing songs of the saints. The song about Saint Martin seems to be his."
+
+514
+01:22:31,560 --> 01:22:36,910
+In his writings, Odo, especially in his discussions, highlights certain observations worth noting.
+
+515
+01:22:36,910 --> 01:22:40,240
+He laments the decline of Christian morals in various places.
+
+516
+01:22:40,240 --> 01:24:12,610
+In Book Two, Chapter Seventeen, he says:
+"We express what we can, at least to show that we are troubled by the wickedness of the depraved.
+Is it not rightly a cause for sorrow that Christianity, which ought to grow stronger as it progresses, is instead so far from its rightful state that its religion seems to have entirely failed?
+For we all hasten and rush toward evil."
+And in Book One, Chapter Forty-One:
+"We must surely know that in our times almost everything has lost its order,
+and many call the wasteful spending of their resources charity:
+when things distributed lavishly for empty glory should rather be called feasting or waste, than charity."
+Then in Book Two, Chapter Thirty-Seven:
+"We should mourn the present time of life, in which everything is so confused that you see not even a trace of truth anywhere,
+but observe everything filled with wickedness and indulgence, and nothing is preserved justly and rightly.
+You see the humble, weak, and poorer people being oppressed, afflicted, and unjustly harmed by the proud, powerful, and wealthy:
+while anyone honest and peaceful is disturbed by many injuries; on the contrary, each worst person is loaded with power, becomes terrifying, and grows in wickedness with arrogant success:
+neither the fear of judges nor the reverence for sacred authority can prevail against them or restrain their destruction in any way.
+But what do we say about judges?
+For even those who were established to restrain these things inflict heavier and more destructive storms on the unfortunate.
+This inequitable and unjust inequality is committed and practiced not only in cities but also in the countryside;
+and not only on land but also at sea."
+
+517
+01:24:12,720 --> 01:24:19,295
+Among all the evils, the worst is that the habit of sinning has become so strong that almost no one can judge what is sinful.
+
+518
+01:24:19,295 --> 01:24:26,606
+Just like Aaron didn't resist the Israelites when they asked for gods, today, it seems everyone is either wicked or gives in to wickedness.
+
+519
+01:24:26,606 --> 01:24:31,182
+Read also what follows at the end of this chapter and Book Three, Chapter Twenty-Eight.
+
+520
+01:24:31,182 --> 01:24:36,653
+He criticizes three main vices of his time: violence, which pertains to the aggressive; pride, and lust.
+
+521
+01:24:36,653 --> 01:24:40,072
+These vices are discussed in depth in the first and second books.
+
+522
+01:24:40,072 --> 01:24:49,277
+He adds a fourth in Book Two, Chapter Twenty-Eight: It is truly sorrowful that people seem to turn away from Christ due to these three vices or others too shameful to mention.
+
+523
+01:24:49,277 --> 01:24:54,694
+But it is far more distressing that they recklessly take part in the sacred mystery of the Lord's body.
+
+524
+01:24:54,694 --> 01:25:05,214
+This is the greatest blessing among all the gifts given to humans; it is what God, with the greatest love, has granted to mortals, for the salvation of the world is entirely contained in this mystery.
+
+525
+01:25:05,214 --> 01:25:10,422
+And certainly, when it is treated unworthily, divine majesty is most grievously offended every day.
+
+526
+01:25:10,422 --> 01:25:59,550
+Therefore, we should mourn and lament over this, so that if we cannot correct it, we at least demonstrate our grief by speaking out, lest the voice of Christ reproach us, saying: "I looked for someone to grieve with me, but there was none."
+This mystery was not celebrated as frequently at the beginning of the Church as it is now; however, the less frequent it was, the more devoutly it was conducted.
+This is what the very pious man says, who recounts two notable events, the first being about the relics of Saint Walburga, renowned for miracles:
+When her relics were placed on the altar, the miracles ceased.
+As the pilgrims were amazed, the virgin appeared to one of the sick and said, "You are not healed because my relics are on the Lord's altar, where only the majesty of the divine mystery should be celebrated."
+When he reported this to the custodians, they removed the relics, and miracles immediately began to happen again.
+
+527
+01:26:00,024 --> 01:26:08,115
+Odo adds that, due to the reverence for this mystery, even the saints do not wish their relics to be brought closer; so what should be thought about impurities?
+
+528
+01:26:08,115 --> 01:26:11,301
+Another event involves a thief who was killed during his crime.
+
+529
+01:26:11,301 --> 01:26:15,548
+When his body was taken to the church, the priest started to celebrate mass for him.
+
+530
+01:26:15,548 --> 01:26:23,842
+As he reached the words of the Lord's consecration, a terrifying noise filled the church, and the altar split all the way to its foundation, which is still evident.
+
+531
+01:26:23,842 --> 01:26:29,809
+The priest, struck with great fear along with everyone else, fled and stopped offering the sacrifice for the apostate.
+
+532
+01:26:29,809 --> 01:26:35,220
+This was said against those, commented the holy man, who promise to pray for the wicked for their own gain.
+
+533
+01:26:35,220 --> 01:26:48,672
+Odo seems to have noted this to challenge those who, perhaps misled by a misunderstood testimony of Augustine, claimed that the sacrifice of the mass benefits the condemned, either to free them from punishments completely or to make their condemnation more bearable.
+
+534
+01:26:48,672 --> 01:27:05,511
+This opinion is recorded by Adrevald in the book on the miracles of Saint Benedict, chapter twenty-one, where he says the people of Fleury prayed to the Lord for the souls of robbers slain in battle: so that if they did not deserve release from eternal torments, they might at least be punished with lesser pains by the strict Judge.
+
+535
+01:27:05,511 --> 01:27:39,798
+In the very old Gellonensian codex, there is a mass for a soul in doubt, which includes this prayer: Almighty and merciful God, who has the power to kill and to bring to life again, to lead down to the underworld and to bring back, and who calls things that are not as though they were, whose power is full in heaven and on earth, in the sea and in the underworld: we humbly and tremblingly beseech you for the soul of your servant, whom you have taken from this present world without the opportunity for repentance, that if perhaps due to the severity of his crimes he does not deserve to rise to glory, through these sacred offerings the torments may at least become bearable.
+
+536
+01:27:39,798 --> 01:27:49,608
+These and other things are from the tenth volume of the Fragments of our Claudius Stephanius, in the Appendices concerning Saint Pachomius, found in the third volume of May with the Bollandists.
+
+537
+01:27:50,064 --> 01:27:58,416
+There are 336 references indicating that prayers for the condemned are forbidden, though it's believed that this punishment might somehow aid their relief.
+
+538
+01:27:58,416 --> 01:28:06,392
+When the body of a deceased monk was being carried out in the absence of Pachomius, he encountered the procession and stopped the singing of psalms.
+
+539
+01:28:06,392 --> 01:28:31,882
+To the parents of the deceased, he said:
+"If you wish to honor the dead with psalms, more severe and numerous torments will befall him. Therefore, I ask you, if you want to ease the deceased's sufferings, bury him without psalms. For God, being good and merciful, might offer him some rest for this dishonor done to him and bring him back to the life given from above."
+Papebrochius left out these last words (even though they are found in Greek) to avoid offending anyone.
+
+540
+01:28:31,882 --> 01:28:37,864
+A similar belief led to the story of Trajan, which can be seen in Hepidan's acts of Saint Wiborada the recluse.
+
+541
+01:28:37,864 --> 01:28:46,540
+Even if we exclude this final part, it remains that some people believed, or were mistaken, that the eternal punishments of the damned could somehow be lessened.
+
+542
+01:28:46,540 --> 01:29:04,593
+Regardless of what one thinks of that opinion, which is rejected by today's common theological consensus, it is certain that the audacity of those who indiscriminately perform holy Mass sacrifices for anyone who died even in the act of a grave crime was rightly condemned by the Second Council of Valentia in Canon 12 against duelists.
+
+543
+01:29:04,593 --> 01:29:23,508
+Augustine also established this in "The City of God," Book 21, Chapter 24. The same reasoning applies to why we do not pray for people suffering eternal punishment, just as we do not pray now or then for evil angels. Similarly, although we pray for living people, even those who are evil, we do not pray for faithless and impious deceased individuals.
+
+544
+01:29:23,832 --> 01:29:29,336
+However, in explaining their opinion, they extend God's mercies even to the torments of the wicked.
+
+545
+01:29:29,336 --> 01:29:38,177
+They suggest that the wicked endure punishments that are milder and lighter than they deserve, not by human judgment, but through the reasoning of God's mercy.
+
+546
+01:29:38,177 --> 01:29:47,963
+The same holy doctor, in Enchiridion, Chapter 110, does not believe that sacrifices benefit those condemned to eternal punishment, but rather those facing temporary punishment.
+
+547
+01:29:47,963 --> 01:29:54,413
+There is a way of living that is not so good as to need no remedy, nor so bad as to not benefit from it after death.
+
+548
+01:29:54,413 --> 01:29:56,137
+Let's return to the main point.
+
+549
+01:29:56,137 --> 01:30:05,590
+Odo also offers suitable advice to the monks and provides fitting criticism, especially against those who own property, eat meat, or violate the religious habit and rule.
+
+550
+01:30:05,590 --> 01:30:10,316
+He calls them apostates, citing Gregory's testimony from the ninth homily on Ezekiel.
+
+551
+01:30:10,316 --> 01:30:21,548
+Just as an apostate is one who abandons faith in God, so too is someone who returns to wicked deeds after professing religion considered an apostate by Almighty God, even if they seem to hold the faith.
+
+552
+01:30:21,548 --> 01:30:37,117
+Odo adds, is it not apostasy to disregard the traditions of the Fathers in clothing or diet, when God has forbidden transgressing the boundaries set by the Fathers, desiring extravagant feasts with the children of Israel despite the food guidelines prescribed by blessed Benedict?
+
+553
+01:30:37,117 --> 01:30:40,953
+Is it not apostasy to scorn humble clothing and seek ornate garments?
+
+554
+01:30:40,953 --> 01:30:49,516
+And is it not apostasy to worship the belly, when Paul, with tears, declares that gluttons are enemies of the holy cross, considering the belly their god?
+
+555
+01:30:49,516 --> 01:30:59,414
+I say these charges of apostasy apply to us, as those among us in this age who are wanton and unruly have dared to change the religious habit that has been upheld for many years.
+
+556
+01:30:59,414 --> 01:31:01,193
+This is from Book 3, Chapter 17.
+
+557
+01:31:01,193 --> 01:31:04,029
+See Book 2, Chapter 7, and also Book 3, Chapter 22.
+
+558
+01:31:04,752 --> 01:31:11,272
+Furthermore, he criticizes the proprietors who use their own funds to create extravagant equipment for performing the mysteries.
+
+559
+01:31:11,272 --> 01:31:16,265
+They acquire these against the tradition and sanction of the holy Fathers, using dishonest wealth.
+
+560
+01:31:16,265 --> 01:31:23,703
+It's as if they believe they're leaving it for the Church's adornment, confidently holding onto it, as mentioned in book two, chapter thirty-four.
+
+561
+01:31:23,703 --> 01:31:38,579
+In addressing the objections of the proprietors in chapter thirty-six, he states, If, due to the negligence of the superiors alone, and not more because of their own greed, they had their own possessions, they would not presume to have other foods or clothes than those regularly established.
+
+562
+01:31:38,579 --> 01:31:54,372
+These words clearly demonstrate the holy man's dedication to the Christian and monastic cause:
+I wish these rebukes did not apply to our time as well, where, speaking of some monks, there is so little religion invested in the regular practices that the holy Fathers established and observed with such devotion.
+
+563
+01:31:54,576 --> 01:31:57,060
+CHAPTER IX. ---Some Notable Disciples of Odo.
+
+564
+01:31:57,060 --> 01:32:04,568
+To fully understand Odo's legacy, it's important to learn about his disciples, as their reputations significantly impact their master's.
+
+565
+01:32:04,568 --> 01:32:12,795
+The challenge is that old records about them are scarce; and although John does mention some of Odo's disciples, he mostly only recorded their names.
+
+566
+01:32:12,795 --> 01:32:24,444
+Among those worth noting are Arnulf and Landric, from whom John reports having received much information about Odo in his preface:
+he refers to one as his teacher and master, and the other as his fellow brother.
+
+567
+01:32:24,444 --> 01:32:33,333
+Following them is Lord Hildebrannus or Hildebrand, described as a truthful man, and the prior of the Cluny monastery, who instructed Odo in monastic disciplines.
+
+568
+01:32:33,333 --> 01:32:40,841
+He is praised in several documents created by Abbot Odo and is signed as chancellor in the preamble of the diploma of Countess Adelaide.
+
+569
+01:32:40,841 --> 01:32:48,129
+He served as the prior of Cluny in the seventeenth year of Louis of Overseas, according to the hundredth charter under Abbot Aimard.
+
+570
+01:32:48,129 --> 01:32:54,588
+Another prior of Cluny with the same name existed in the eleventh century, who later became Pope Gregory the Seventh.
+
+571
+01:32:54,588 --> 01:33:14,408
+In addition, John in the second book names Peter the priest, Baldwin the abbot of Monte Cassino and Saint Paul's, his brother Firmus, Lord Gothefred, and two venerable men from the same congregation, one named Archembald, well-known to John himself, and the other, unknown, called Adalasius, men of great repute, who have now become the fathers of many monks.
+
+572
+01:33:14,408 --> 01:33:30,419
+Archembald, the prior of the Cluny monastery, is praised in the charter of Berno, bishop of Macon, dated the tenth year of King Rudolf;
+he seems to be the one who succeeded Odo in leading the Floriac monastery, as Aimon writes in Book One of the Miracles of Saint Benedict, number thirteen.
+
+573
+01:33:30,419 --> 01:33:37,376
+Wlfald, his successor, is mentioned by John in the third book, to be praised elsewhere by us in the acts of Saint Abbo, abbot.
+
+574
+01:33:37,376 --> 01:33:45,215
+Aligern can also be counted among them, rising from prior of Saint Paul to abbot of Monte Cassino, mentioned here in the year nine eighty-six.
+
+575
+01:33:45,768 --> 01:33:56,189
+Adalasius, soon mentioned by John, is undoubtedly Adacius, who was entrusted with leading the monasteries of Sarlat and Tulle under the co-abbotship of Odo, as we noted earlier in chapter five.
+
+576
+01:33:56,189 --> 01:34:08,879
+I believe that Bernard, the count, with the agreement of his blessed wife and the support of his sons William, Gausbert, Arnold, and Bernard, granted the monastery of Saint Suris, known as Geridia, along with all its abbey, to Adacius.
+
+577
+01:34:08,879 --> 01:34:18,707
+This was intended for the monks wishing to live there regularly under his authority, allowing them to hold and possess both the monastery and the entire abbey without any opposition.
+
+578
+01:34:18,707 --> 01:34:30,371
+After Abbot Adacius's death, they were to select an abbot for themselves according to the rule of Saint Benedict, ensuring the monks would be subject to the king for the safety of the place, but without any payments.
+
+579
+01:34:30,371 --> 01:34:39,281
+Everyone involved was solemnly urged to carry out this act by all that is sacred and by the merit of the blessed Suris, whose body rests in the aforementioned place.
+
+580
+01:34:39,281 --> 01:34:47,435
+This charter, however, lacks chronological notes in the register of the monastery of the rule among the Nine Peoples, as extracted by our Stephanotius.
+
+581
+01:34:47,435 --> 01:34:53,159
+Among all these disciples of Odo, John also includes Adolf, Theodard, and Eliziard, a monk from the count.
+
+582
+01:34:53,159 --> 01:35:00,989
+Perhaps from the disciples of Berno was Aribert, about whom Odo himself shares details in book two of the life of Saint Gerald, chapter nineteen.
+
+583
+01:35:00,989 --> 01:35:07,685
+On one occasion, when he was traveling to Rome, he took with him a monk named Aribert, a man known for his great abstinence.
+
+584
+01:35:07,685 --> 01:35:12,059
+There came a time when there was no meal for the abstinent man to eat with bread.
+
+585
+01:35:12,059 --> 01:35:15,893
+The elder diligently asked if the servants had prepared his usual food.
+
+586
+01:35:15,893 --> 01:35:28,637
+When they replied that there was nothing besides bread, he was troubled, saying: "Oh, what has happened to us today! We all have a full meal, and this servant of God will be in deprivation."
+However, it was a day exempt from abstinence.
+
+587
+01:35:29,231 --> 01:35:33,720
+It was time to wash hands, and Samuel, eager to help, ran to get some water.
+
+588
+01:35:33,720 --> 01:35:40,867
+By chance, he spotted a small fish lying on the shore, still flapping, which had leapt out of the water while he watched.
+
+589
+01:35:40,867 --> 01:35:42,403
+Gerald gave thanks to God.
+
+590
+01:35:42,403 --> 01:35:51,440
+As they sat at the table, the abstinent man ate part of the prepared fish, while Gerald ate the rest, sharing pieces as a blessing with everyone present.
+
+591
+01:35:51,440 --> 01:36:04,611
+By the way, it's interesting to note that the term "pulmentarium" also refers to a dish made from fish.
+That's enough about Aribert and the praise of Odo; now let's first hear about his life from John, and then from Nalgod.
+

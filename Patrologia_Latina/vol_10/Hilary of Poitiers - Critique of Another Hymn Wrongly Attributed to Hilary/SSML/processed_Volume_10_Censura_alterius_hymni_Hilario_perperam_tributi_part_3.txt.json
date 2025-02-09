@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "INITIUM.",
+      "cleaned_english_translation": "<speak>\n   The Beginning<break time=\"500ms\"/>\n</speak>",
+      "voice": "Matthew",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n<break time=\"500ms\"/><break time=\"500ms\"/>\n    <p>\n        <s>\n            I feel unworthy to lift my sorrowful eyes to the bright stars of heaven, burdened by the weight of my sins:\n        </s>\n        <s>\n            Please spare those you have redeemed.\n        </s>\n    </p>\n    <p>\n        <s>\n            I failed to do the good I should have done and committed countless shameful acts; my offenses know no bounds:\n        </s>\n        <s>\n            Help me, Christ.\n        </s><break time=\"500ms\"/><break time=\"500ms\"/>\n    </p>\n</speak>",
+      "original_latin": " Ad coeli clara non sum dignus sidera\nLevare meos infelices oculos\nGravi depressos peccatorum pondere:\n Parce redemptis. Bonum neglexi facere quod debui,\nProbrosa gessi sine fine crimina,\nScelus patravi nullo clausum termino:\nSubveni, Christe.",
+      "voice": "Matthew"
+    }
+  ]
+}

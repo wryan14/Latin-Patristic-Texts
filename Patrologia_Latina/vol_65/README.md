@@ -12,3 +12,4 @@ An audio version of this work is available on Archive.org for free download:
 * [On the Remission of Sins Book One by Fulgentius of Ruspe - Archive.org](https://archive.org/details/on-the-remission-of-sins-book-one)
 * [On the Remission of Sins Book Two by Fulgentius of Ruspe - Archive.org](https://archive.org/details/on-the-remission-of-sins-book-two)
 * [Four letters by Remigius of Reims - Archive.org](https://archive.org/details/four-letters)
+* [Two unpublished sermons by Fulgentius of Ruspe - Archive.org](https://archive.org/details/two-unpublished-sermons)

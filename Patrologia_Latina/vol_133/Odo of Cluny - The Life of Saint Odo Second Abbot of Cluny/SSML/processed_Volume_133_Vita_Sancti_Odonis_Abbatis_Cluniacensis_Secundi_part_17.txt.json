@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            He studies in Paris.\n        </s>\n        <s>\n            During this time, he went to Paris, where he thoroughly read the dialectic works of Saint Augustine that were sent to his son, Deodatus.\n        </s>\n        <s>\n            He often read Martianus on the liberal arts.\n        </s>\n        <s>\n            Throughout all of this, his teacher was Remigius.\n        </s>\n        <s>\n            After finishing this, he returned to Tours.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Parisiis studet. 19. His diebus abiit Parisius, ibique dialecticam\nsancti Augustini Deodato filio suo missam perlegit,\net Martianum in liberalibus artibus frequenter lectitavit:\npraeceptorem quippe in his omnibus habuit\nRemigium ; quo peracto Turonicam remeavit.",
+      "voice": "Matthew"
+    }
+  ]
+}

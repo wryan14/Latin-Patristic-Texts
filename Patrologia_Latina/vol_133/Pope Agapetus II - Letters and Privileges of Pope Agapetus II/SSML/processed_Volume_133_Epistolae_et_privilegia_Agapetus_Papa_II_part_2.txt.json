@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Letters and Privileges of Pope Agapetus the Second<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "AGAPETI PAPAE II\nEPISTOLAE ET PRIVILEGIA.",
+      "voice": "Ruth"
+    }
+  ]
+}

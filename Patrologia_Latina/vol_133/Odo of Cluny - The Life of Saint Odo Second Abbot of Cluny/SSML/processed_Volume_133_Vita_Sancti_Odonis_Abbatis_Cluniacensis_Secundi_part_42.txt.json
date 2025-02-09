@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>He survives a shipwreck.</s><break time=\"500ms\"/>\n    <s>While crossing the <phoneme alphabet=\"ipa\" ph=\"roʊn\">Rhone</phoneme> River by boat with the local nobles, an incident occurred where one horse attempted to kick another.</s>\n    <s>The kick hit a plank of the boat, exactly at a spot where a branch had been removed during its construction.</s>\n    <s>As soon as the plank broke, water rushed in through the hole, quickly filling the boat to the surface.</s>\n    <s>Yet, guided by divine intervention, the boat reached the other bank fully loaded.</s>\n    <s>Father Odo remained inside until everyone else had disembarked.</s>\n    <s>Finally, after he got off, the ship sank into the depths.</s>\n    <s>This situation clearly shows the remarkable nature of this man, who, through his prayers, achieved what was once granted to Peter and Paul, and then to our father Benedict.</s>\n  </p>\n</speak>",
+      "original_latin": "Naufragium evadit. 17. Quodam tempore dum Rhodani alveum navigio\ntransiret, comitantibus illum optimatibus regionis\nillius, contigit, ut dum unus equus alium vellet calce\npercutere, ictum ferientis navigii tabula excepit, illo\nvidelicet loco, ex quo ramus fuerat cum dolaretur\nexcisus. Mox ut evulsus fuit vertex, tanta per idem\nforamen inundatio ingressa est aquae, ut subito repleretur\nnavis usque ad superficiem. Sic tamen plena\n Deo gubernante ad aliam pervenit ripam. Etenim\nusque adeo pater Odo intro stetit, quo omnes fuissent\negressi. Ad postremum cum fuisset ille egressus,\nnavis abiit in profundum. Qua in re videlicet cujus\nmeriti vir iste fuerit perspicue claret, qui hoc suis\nobtinere valuit precibus, quod prius meruerunt\nPetrus et Paulus, dein pater noster Benedictus.",
+      "voice": "Matthew"
+    }
+  ]
+}

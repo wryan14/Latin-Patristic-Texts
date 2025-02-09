@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        He regularly read the Rule of Saint Benedict. While going through various books, he came across this rule. As he skimmed through it, he stumbled upon the passage that commands monks to sleep fully clothed. <break time=\"500ms\"/>\n       Rule of Saint Benedict, chapter twenty-two\n    </p>\n    <p>\n        Not fully understanding its meaning, he lay clothed for three years. Although he wasn't yet a monk, he embraced the gentle yoke of monastic life. He was diligent in following the saint's commandments and aspired to imitate another's way of life. \n    </p>\n    <p>\n        At that time, the Lord Jesus was planting simple seeds in barren land, foreseeing a hundredfold harvest.\n    </p>\n</speak>",
+      "original_latin": "S. Benedicti Regulam lectitat. 15. Contigit interea dum diversorum librorum\nlegeret volumina, ad beati Benedicti pervenisse\nregulam: et cursim eam cum vellet transire, impegit\nin eumdem locum, in quo praeceptum est monachis,\nut dormire debeant vestiti (Reg. S. Bened.,\ncap. 22); nam plane non intelligens eumdem sensum,\nper triennium jacuit vestitus, et necdum monachus,\nmonachorum lene ferebat jugum. Istius sancti\npraecepta curabat obaudire, alterius vitam imitari\ncupiebat. Jaciebat enim tunc Dominus Jesus in rudi\nterra simplicia semina, ex qua providebat centuplicata\nrecipere frumenta.",
+      "voice": "Matthew"
+    }
+  ]
+}

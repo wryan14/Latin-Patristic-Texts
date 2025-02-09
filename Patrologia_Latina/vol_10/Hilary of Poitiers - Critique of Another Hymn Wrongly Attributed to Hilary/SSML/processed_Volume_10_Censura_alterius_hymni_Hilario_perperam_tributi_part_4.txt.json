@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            THE END.<break time=\"500ms\"/>\n        </s>\n    </p>\n    <p>\n        <s>\n            Singing a hymn with a faithful voice, I reject Arius and the barking of Sabellius.\n        </s>\n        <s>\n            I never agree with Simon's grunting whispers.\n        </s>\n    </p>\n    <p>\n        <s>\n            With zeal for Christ, I am fervent in his name.\n        </s>\n        <s>\n            For the Holy Mother Church has nourished me with Catholic teachings through all time from her sacred breast.\n        </s>\n    </p><break time=\"500ms\"/><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "FINIS. Hymnum fideli modulando gutture,\nArium sperno, latrantem Sabellium:\nAssensi numquam grunnienti Simoni\nAure susurra. Zeloque Christi sum zelatus nomine:\nSancta nam mater lacte me catholico\nTempus per omne Ecclesia nutrivit\nUbere sacro.",
+      "voice": "Matthew"
+    }
+  ]
+}

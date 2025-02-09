@@ -1,0 +1,9 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "original_latin": "Munera respuit. 18. Multa denique illi dona offerebant et munera:\nex quibus ille nihil recipere volebat, quippe qui sua\nlargissima distribuerat, ignorabat, quo pacto recipere\nposset aliena. Victus aliquando a praedicto suo\ndomino, vellet nolletve, centum ab eo missos recepit\nsolidos. Sed miles Christi nec momento passus est\neos apud se moram pati, atque, ut prius, mox eos\n indigentibus erogavit. Coepit interea alumnus cuneos\npraeire praeceptorum, et subsequentium fieri\nexemplum.",
+            "cleaned_english_translation": "<speak>\n    <p>\n        <s>He refused the gifts.</s>\n        <s>They offered him many presents, but he didn't want to accept any, because he had been very generous in giving away his own belongings and didn't feel right receiving gifts from others.</s>\n    </p>\n    <p>\n        <s>However, there was a time when his lord persuaded him, and despite his reluctance, he accepted one hundred coins that were sent to him.</s>\n        <s>But as a true soldier of Christ, he didn't keep them for even a moment and immediately gave them away to those in need.</s>\n    </p>\n    <p>\n        <s>Meanwhile, the student began to surpass his teachers and became a role model for those who followed.</s>\n    </p>\n</speak>"
+        }
+    ]
+}
