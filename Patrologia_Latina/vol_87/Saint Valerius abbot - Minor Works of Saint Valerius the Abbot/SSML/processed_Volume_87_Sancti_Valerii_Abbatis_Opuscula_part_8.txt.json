@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "DE MONACHORUM POENITENTIA. ",
+      "cleaned_english_translation": "<speak>\n    The Penance of the Monks <break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Two brothers, troubled by the spirit of lust, left and got married.</s>\n    <s>Later, they said to each other: What did we gain by leaving the angelic order and entering into this impurity, only to face fire and torment afterward?</s>\n    <s>Let's return to the desert and repent for what we've done.</s>\n  </p>\n  <p>\n    <s>Upon reaching the desert, they asked the Fathers to accept them as penitents, confessing their actions.</s>\n    <s>They were secluded for an entire year, both receiving equal portions of bread and water.</s>\n    <s>However, they appeared different; one was pale and very sad, while the other was strong and bright.</s>\n  </p>\n  <p>\n    <s>The Fathers were amazed since they had received the same food and drink.</s>\n    <s>They asked the sad and afflicted one: What were you meditating on in your cell?</s>\n    <s>He said: For the wrongs I did, I kept thinking about the punishments I was to face, and fear made my bones cling to my flesh.</s>\n  </p>\n  <p>\n    <s>They asked the other: What were you thinking about in your cell?</s>\n    <s>He replied: I was giving thanks to God for saving me from the world's defilements and the punishments to come, bringing me back to this angelic confession.</s>\n    <s>Remembering God's mercy constantly, I was joyful.</s>\n  </p>\n  <p>\n    <s>The elders said: Both have equal repentance before God.</s>\n  </p>\n</speak>",
+      "original_latin": "25. Duo fratres impugnati a fornicationis spiritu\nabierunt, et acceperunt uxores; postea autem dixerunt\nsibi invicem: Quid lucrati sumus, quia deseruimus\nangelicum ordinem, et venimus in immunditia\nhac, et post haec in ignem et tormentis venturi sumus? Redeamus iterum ad eremum, et de his quae\nprius fecimus poenitentiam agamus. Et venientes ad\neremum rogaverunt Patres, ut acciperent eos poenitentes\net confitentes ea quae gesserunt. Et clauserunt\neos annum integrum, et ambobus aequaliter\ndabatur ad pensum panis, et ad mensuram aqua. Erant autem visione dissimiles, et dum Patres unum\npallidum et tristem nimis, alterum robustum et clarum\nvidissent, mirati sunt, quoniam cibum et potum\n aequaliter acceperant. Et interrogaverunt eum\nqui tristis et afflictus erat, dicentes: Quid exercitabaris\nin cogitationibus tuis in cella tua? Et dixit:\nPro malis quae feci, quia poenas in quibus venturus\neram in animo revolvebam, et a timore adhaeserunt\nossa carni meae. Interrogaverunt et alium, dicentes:\nTu quid cogitabas in cella tua? Et ille respondit:\nDeo gratias agebam, quia eruit me de coinquinamentis\nmundi, et de futuri saeculi poenis, et revocavit\nme ad hanc confessionem angelicam. Et reminiscens\nassidue misericordiam Dei mei laetabar. Et dixerunt\nsenes: Aequalis est amborum poenitentia apud\nDeum.",
+      "voice": "Matthew"
+    }
+  ]
+}

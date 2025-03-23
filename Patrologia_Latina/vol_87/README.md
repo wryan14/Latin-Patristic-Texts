@@ -8,3 +8,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Prolegomena to the Diplomas of Saint Sigebert by King Sigebert of the Franks - Archive.org](https://archive.org/details/prolegomena-to-the-diplomas-of-saint-sigebert)
 * [Analects on King Sigebert by Various Authors - Archive.org](https://archive.org/details/analects-on-king-sigebert)
 * [The Life of Saint Fructuosus Bishop of Braga by Valerius - Archive.org](https://archive.org/details/the-life-of-saint-fructuosus-bishop-of-braga)
+* [Minor Works of Saint Valerius the Abbot by Saint Valerius abbot - Archive.org](https://archive.org/details/minor-works-of-saint-valerius-the-abbot)

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EPISTOLA AURELII DAMASO PAPAE. (S)* ",
+      "cleaned_english_translation": "<speak>\n    Letter of Aurelius to Pope Damasus\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      To the most blessed Pope Damasus, Aurelius, Bishop of Carthage.\n    </s>\n    <s>\n      We humbly seek the glory of the apostolic seat and the grace of your eminence. We kindly ask you to send us, in writing, any decrees you can find from the time of the blessed prince of the apostles, Peter, up to the beginning of your holiness, governed by the wisdom and authority of the apostolic seat.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      Through the nobility and wisdom of your holiness, we hope to learn what was decreed in the holy seat during those times, and to know who acted against the apostolic canons.\n    </s>\n    <break time=\"500ms\"/>\n    <s>\n      Farewell, most holy Pope, and please pray for us, most loving father.\n    </s>\n    <s>\n      Given on the eighth day before the Kalends of March. Read in Rome on the fifth day before the Nones of May.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Beatissimo papae DAMASO AURELIUS Carthaginensis\nepiscopus. Gloriam apostolicae sedis, et vestrae sublimitatis\ngratiam nostra humilitas exoret , ut statuta,\nquae reperire poteritis, post finem beati principis\napostolorum Petri, usque ad vestrae sanctitatis principium\njuxta apostolicae sedis auctoritatem, quam cognovimus\nper vestrae sapientiae sanctitatem gubernari,\n nobis scripta mittere dignemini: quatenus per\nvestrae sanctitatis nobilitatem atque prudentiam\nnosse valeamus, quae in praefecta sancta sede supra\ndictis temporibus sunt decreta, et qui adversus canonum\napostolorum instituta gesserunt, cognoscantur. Bene vale, sanctissime papa, et ora pro nobis\namantissime pater. Data octavo kalendas Martii. Idem lecta Romae, quinto nonas Maii. <span class=\"text-blue-600 font-bold\"",
+      "voice": "Matthew"
+    }
+  ]
+}
