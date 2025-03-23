@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Letter Two to Charlemagne. He Dedicates His Dictionary to Him. (From Mabillon's Benedictine Annals)\n</speak>",
+      "original_latin": "EPISTOLA II. AD CAROLUM MAGNUM. Illi Vocabularium suum nuncupat. (Ex Mabill An Bened) ",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>With a spirit of generosity, to the most wise and powerful lord King Charles, the most exalted of kings, Paul, the least of servants.</s>\n        <s>Wanting to contribute something to your libraries, since I have very little of my own, I had to borrow from others.</s>\n        <s>Festus Pompeius, deeply versed in Roman studies, explored the origins of obscure words and various causes, expanding his work to twenty lengthy volumes.</s>\n    </p>\n    <p>\n        <s>From this, I have bypassed unnecessary details and less important parts, thoroughly explaining some obscure sections in my own style, while keeping things as they were, to offer this summary for your highness to read.</s>\n        <s>If you don't mind reading it, you'll find some things arranged by art, others by etymology, and especially the clearly stated names of your Romulean city, along with its gates, roads, mountains, places, and tribes.</s>\n        <s>Additionally, the rites and various customs of the pagans.</s>\n    </p>\n    <p>\n        <s>There are also words familiar to poets and historians, which they frequently used in their works.</s>\n        <s>If this small gift of my humble efforts is not completely dismissed by your sharp and perceptive mind, it will inspire my modesty, with life as my companion, to strive for greater achievements.</s>\n        <s>The sacred place is august, etc.</s>\n        <break time=\"500ms\"/>\n        <s>This vocabulary concludes at the letter N. Nequiquam.</s>\n    </p>\n</speak>",
+      "original_latin": "Largitatis munere sapientia potentiaque praefulgido\ndomino regi Carolo, regum sublimissimo, Paulus ultimus\nservulus. Cupiens aliquid vestris bibliothecis addere, quia ex\nproprio perparum valeo, necessario ex alieno mutuavi. Festus denique Pompeius, Romanis studiis\naffatim eruditus, tam sermonum abditorum quam\n etiam quarumdam causarum origines aperiens, opus\nsuum ad viginti prolixa volumina extendit. Ex quo\nego prolixitate superflua quaeque et minus necessaria\npraetergrediens, et quaedam abstrusa penitus stylo\nproprio enucleans, ita ut erant positi relinquens,\nhoc vestrae celsitudini legendum compendio obtuli,\nin cujus serie, si tamen lectum ire non dedignabimini,\nquaedam secundum artem, quaedam juxta etymologiam\nposita non inconvenienter invenietis, et\npraecipue civitatis vestrae Romuleae, portarum, viarum,\nmontium, locorum tribuumque vocabula diserta\nreperietis: ritus praeterea gentilium et consuetudines\nvarias. Dictiones quoque poetis et historiographis\nfamiliares, quas in suis opusculis frequentius\nposuere. Quod exiguitatis meae munusculum, si sagax\n et subtilissimum vestrum ingenium non usquequaque\nrepulerit, tenuitatem meam vita comite ad\npotiora excitabit. Augustus locus sanctus, etc. A. Hoc vocabularium\ndesinit in hac voce litterae N. Nequiquam.",
+      "voice": "Matthew"
+    }
+  ]
+}

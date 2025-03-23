@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "SYNODICA AURELII CARTHAGINENSIS EPISCOPI.",
+      "cleaned_english_translation": "<speak>\n  <s>THE SYNOD OF AURELIUS, BISHOP OF CARTHAGE.</s>\n<break time=\"1s\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n   \n    <s>From the synodical letter, found in Labb. Councils, volume two, column 1184.</s>\n  </p>\n  <p>\n    <s>After Theodosius and Nectarius ascended to the heavens, Arcadius, son of Theodosius, took the throne, while Honorius, Arcadius's brother, succeeded Gratian.</s>\n  </p>\n  <p>\n    <s>During this period, a provincial and sacred synod convened in Carthage, attended by one hundred twenty-seven fathers.</s>\n  </p>\n  <p>\n    <s>This synod took decisive action against the idol-worshipping Donatists, other heresies, and errors in the region.</s>\n    <s>It was led by Aurelius, the bishop of Carthage.</s>\n  </p>\n  <p>\n    <s>The sacred and divine canons it issued remained effective until the time of the younger Theodosius.</s>\n  </p>\n</speak>",
+      "original_latin": " Ex libello synodico, apud Labb. Concil. tom. II, col. 1184. (S)   \n Θεοδοσιου γουν και Νεκταριου μεθαρμοσθεντων προς τα ουρανια, του μεν την βασιλειαν ο υιος Αρκαδιος διαδεχεται, Γρατιανου δε, ο αδελφος Αρκαδιου Ονοριος. Εν οις χρονοις εν Καρθαγενη συνοδος τοπικη και ιερα συναθροιζεται, πατερων εκατον εικοσι και επτα συνελευσιν φερουσα· κατα ειδολων  Δονατιστων, και αλλης εκαστης αιρεσεως, και των εν τοποις εκεινοις ατοποις σφαλματων, τας πραξεις ποιησασα. Ης ηγειτο Αυρηλιος ο Καρθαγενης επισκοπος. Και κανονας ιερους εκθεμενη και θειους, εως καιρων του μικρου Θεοδοσιου διηρκεσε. Theodosio igitur et Nectario ad coelestia translatis,\nin illius quidem imperium filius Arcadius successit,\nut in Gratiani Honorius, Arcadii frater. Quo\ntempore Carthagine Synodus provincialis et sacra\ncongregata fuit, patrum centum viginti et septem\nconventum prae se ferens, quae contra idololatras\nDonatistas, et aliam quamcumque haeresin, et alia\nillorum locorum errata, actiones instituit: cui praefuit\nAurelius Carthaginensis episcopus. Canones sacri\net divini, quos illa edidit, ad Theodosii usque\nminoris tempora obtinuerunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

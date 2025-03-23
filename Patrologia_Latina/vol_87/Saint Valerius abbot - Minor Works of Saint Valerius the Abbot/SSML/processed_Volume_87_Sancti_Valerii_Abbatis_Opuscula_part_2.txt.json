@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "EPITAMERON  CONSUMMATIONIS LIBRI HUJUS. ",
+      "cleaned_english_translation": "<speak>\n    Epitameron of the Consummation of This Book <break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            In order to strengthen morals and guide souls, with the gracious help of the Almighty Lord, I have obediently and confidently followed your command, most blessed Father, aiming to reveal the path of a religious life to those brothers who are unaware.\n        </s>\n        <s>\n            To the best of my ability, I have frequently gone through the volumes with confidence until I completed this book of the teachings of the Fathers.\n        </s>\n    </p>\n    <p>\n        <s>\n            Here, we hope for the radiant light of doctrine to shine brilliantly.\n        </s>\n        <s>\n            Just as the rising sun dispels the night's darkness with the approach of day, this light enters the dark heart of ignorance, bringing clarity.\n        </s>\n    </p>\n    <p>\n        <s>\n            Just as a sweet, flowing stream spreads abundantly over dry land, multiplying the earth's bounty a hundredfold, \n        </s>\n        <s>\n            it demonstrates that the harvest of souls is nurtured by this stream, enriching and fertilizing the most abundant and unfailing joys of paradise.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "Pro aedificatione morum atque correctione animaru M\nAdjuvante clementissima pietatis opitulatione omnipotentis Domin I\nTuis, beatissime Pater, obediens confisus suscipiens praecepti S\nReligiosae vitae ignaris fratribus pandere desiderans tramit E\nIn quantum mea valuit extremitas crebra percurrens volumina confidente R\nDonec praesentis libri dogmatum Patrum consumarem instinct V\nOptatur hinc jubar doctrinae coruscans praemicante luce praeclar A\nNam sicut imminente die tenebras noctis effugat oriens so L\nAccedens igitur haec lux in tenebroso ignorantiae corde simile seminat claritat E\nDum velut ubertim dulcis fluctuans  latix in arente terra diffunditu R\nEt multipliciter centumplicatur fructus telluris agr I\nOstenditur ergo animarum segetem ex hujus gurgitis rigari fluct U\nUberrimas affluentes et indeficientes paradisi perspicuas fecundare  delicia S",
+      "voice": "Matthew"
+    }
+  ]
+}
