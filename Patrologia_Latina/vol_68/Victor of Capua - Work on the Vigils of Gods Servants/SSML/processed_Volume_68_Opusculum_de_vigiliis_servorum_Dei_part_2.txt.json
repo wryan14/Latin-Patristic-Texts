@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT PRIMUM. ",
+      "cleaned_english_translation": "<speak>\n    Chapter One <break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>It's a good, worthy, and holy thing, and completely appropriate to talk now about the holy vigils and discuss them, especially when this diligent watchfulness is practiced by those who are thoughtful and devout.</s>\n        <s>The night is dark, providing the necessary darkness for both humans and animals to sleep, so that, with their strength restored through rest, they can handle the day's work while awake.</s>\n        <s>God, in His goodness, foresaw and established this so that a person, going out to their work and labor until evening, would have a time to rest from hard work and much fatigue.</s>\n        <s><phoneme alphabet=\"ipa\" ph=\"ˈsa:lms\">Psalms</phoneme> 104:23.</s>\n    </p>\n    <p>\n        <s>Therefore, He made the day for work and the night for rest; and for this, as for everything, we should give thanks to Him who provided it.</s>\n        <s>However, we know that many people, either to please their superiors or to gain some benefit, set aside part of the night for a little work and consider it a gain that they accomplished something by stealing from their own sleep.</s>\n    </p>\n    <p>\n        <s>If those who stay awake for physical needs, like food and clothing, are not criticized but praised, how much more should we observe and love the holy vigils, which are so fruitful in spiritual work-prayers, hymns, and readings-so that we may receive a reward from the Lord God?</s>\n    </p>\n</speak>",
+      "original_latin": "Bona  et digna et sancta res, et apta prorsus satisque\nconveniens de sanctis vigiliis nunc dicere, et\nconferre sermonem, quando ipsa lucubratio geritur\na sollicitis et religiosis: nox caeca est, et necessaria\ncaligo corporibus, quae non solum homines, sed\netiam in somno detinet animantes, ut, reparatis  viribus\nper soporem, possint diurnos labores sustinere\nvigilantes. Bonus Deus, qui ita prospexit, ita constituit,\nut homo exiturus ad opus suum et ad operationem\nsuam usque ad vesperam, haberet vicarium tempus,\nin quo a laboribus duris et multa fatigatione\nrequiesceret (Psal CIII 23). Ergo diem ad opus,\nnoctem fecit ad requiem; et pro hoc, sicut pro omnibus,\ngratias debemus agere illi qui praestitit . Novimus\nautem multos hominum, ut aut majoribus suis\n placeant, aut sibi aliquid peculiariter prosint, noctis\nparticulam ad aliquod opusculum segregare, et id\npro lucro ducere, quod furati de sopore suo, operari\npotuerunt . Quod si in carnalibus instrumentis, id\nest, victui ac vestitui necessariis, qui vigilant non\nreprehenduntur, imo laudantur; quanto magis nos\nsacras vigilias, tam spirituali opere fructuosas, orationibus\nscilicet, hymnis, lectionibus fecundas, observare\net amare debemus, ut a Domino Deo mercedem\nrecipiamus ?",
+      "voice": "Matthew"
+    }
+  ]
+}
