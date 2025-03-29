@@ -9,3 +9,4 @@ An audio version of this work is available on Archive.org for free download:
 * [Commentary on the Apocalypse Book Five by Primasius of Hadrumetum - Archive.org](https://archive.org/details/commentary-on-the-apocalypse-book-five)
 * [Historical Eulogy by Ado of Vienne - Archive.org](https://archive.org/details/historical-eulogy)
 * [Two Letters of Mapinius of Reims by Mapinius of Reims - Archive.org](https://archive.org/details/two-letters-of-mapinius-of-reims)
+* [Work on the Vigils of Gods Servants by Victor of Capua - Archive.org](https://archive.org/details/work-on-the-vigils-of-gods-servants)
