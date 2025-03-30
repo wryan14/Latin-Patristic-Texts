@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT PRIMUM. ",
+      "cleaned_english_translation": "<speak>\n    Chapter One<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>The Mystery of the Holy Trinity is a precious treasure, hidden in a field.</s>\n    <s>You are a cherished treasure to us, O wondrous mystery of the Trinity, indeed a hidden treasure, yet one that can be discovered by those who seek you with an attentive heart, their minds illuminated by faith.</s>\n  </p>\n  <p>\n    <s>Where is this hidden treasure? In a field.</s>\n    <s>As the Lord says in the Gospel: The kingdom of heaven is like a treasure hidden in a field Matthew 13.</s>\n    <s>It's truly remarkable!</s>\n    <s>Not in a pouch, not in an inn, not in a secret room, where people usually hide their treasure for fear of thieves, but in a field, out in the open.</s>\n    <s>What kind of hiding is this, I wonder, that it is hidden in plain sight?</s>\n    <s>Yet so it is, and it is completely true.</s>\n  </p>\n  <p>\n    <s>We have now embarked on this journey, and the purpose of our work is to reveal how or where this treasure is concealed in the field.</s>\n    <s>So, let us say that we have found this treasure, hidden from those who are blind, and we point it out almost as if with a finger to those who have eyes but perhaps haven't seen enough and wish to see more.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod mysterium sanctae Trinitatis thesaurus sit\ndesiderabilis, et quod thesaurus in agro absconditus\nsit. Thesaurus desiderabilis tu nobis es, o admirabile\n mysterium Trinitatis, et thesaurus absconditus\nquidem, sed taliter ut inveniri possis ab homine\nattento qui te quaerit, illuminatos per fidem habens\nsuae mentis oculos. Ubi enim thesaurus ille absconditus\nest? in agro. Sic etenim Dominus dicit in\n Evangelio: Simile est regnum coelorum thesauro\nabscondito in agro (Matth XIII). Mira res! Non in\nsacculo, non in diversorio, non in cubiculo intra\ncubiculum, ubi solent homines abscondere thesaurum\nsuum, quia de furibus solliciti sunt, sed in agro,\nid est in propatulo. Qualis, rogo, haec est absconsio,\nabsconditum esse in publico? Attamen ita est, et\nomnino verum est. Hoc opus nunc suscepimus, et\nhaec praesentis operis nostri est intentio, demonstrare\nqualiter vel quo thesaurus iste sit absconditus in agro;\ndicamus ergo quoniam thesaurum istum solis caecis\nabsconditum invenimus nos, et hunc oculos habentibus,\nqui tamen forte nondum satis viderunt et\nvidere volunt, quasi praetento demonstremus digito.",
+      "voice": "Matthew"
+    }
+  ]
+}
