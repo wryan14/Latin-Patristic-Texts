@@ -1274,4 +1274,4 @@ me, post expositionem hujus fidei, nescio an tam
 jucundum est ad vos  in Domino Jesu Christo
  reverti, quam securum est mori. Deus et Dominus
 noster incontaminatos vos et illaesos in diem revelationis
-reservet opto, Fratres charissimi. 
+reservet opto, Fratres charissimi. <span class="text-blue-600 font-bold"

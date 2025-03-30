@@ -1,286 +1,26 @@
 1
-00:00:00,000 --> 00:00:07,488
-(SCRIPTUS CIRCA FINEM ANNI 358 ) SANCTI HILARII
-LIBER DE SYNODIS,
-SEU
-DE FIDE ORIENTALIUM.
+00:00:00,000 --> 00:00:09,798
+Exemplum Blasphemiae Apud Sirmium per Osium
+et Potamium conscriptae (anno 357). 11. Deum esse unum. Substantiae vocem tacendam. Patrem Filio esse majorem.
 
 2
-00:00:07,488 --> 00:00:23,508
-Dilectissimis et beatissimis Fratribus et coepiscopis, provinciae Germaniae primae, et Germaniae secundae, et primae Belgicae, et Belgicae secundae, et Lugdunensi primae, et Lugdunensi secundae, et provinciae Aquitanicae, et provinciae Novempopulanae, et ex Narbonensi plebibus et clericis Tolosanis,
-
-3
-00:00:23,508 --> 00:00:29,169
-et provinciarum Britanniarum episcopis, Hilarius servus Christi, in Deo et Domino nostro aeternam salutem.
-
-4
-00:00:29,169 --> 00:00:36,271
-Constitutum mecum habebam, Fratres carissimi,
-in tanto silentii vestri tempore nullas ad vos
-ecclesiastici sermonis litteras mittere.
-
-5
-00:00:36,271 --> 00:00:52,078
-Nam cum frequenter vobis ex plurimis Romanarum provinciarum urbibus significassem, quid cum religiosis fratribus nostris Orientis episcopis fidei studiique esset, quantaque, sub occasione temporalium motuum, diabolus venenato ore atque lingua mortiferae doctrinae sibila protulisset; verens ne in
-
-6
-00:00:52,078 --> 00:01:07,992
-tanto ac tam plurium episcoporum calamitosae impietatis vel erroris periculo, taciturnitas vestra de pollutae atque impiatae conscientiae esset desperatione suscepta (nam ignorare vobis frequenter admonitis non licebat), mihi quoque apud vos tacendum arbitrabar, dominicae sententiae admodum memor,
-
-7
-00:01:07,992 --> 00:01:17,924
-qua post primam atque iteratam conventionem, eos, qui etiam sub testimonio 459 Ecclesiae inobedientes exsisterent, haberi sicut ethnicos publicanosque jussisset (Matth XVIII 15 et seqq).
-
-8
-00:01:18,191 --> 00:01:33,374
-Sed beatae fidei vestrae litteris sumptis, quarum lentitudinem ac raritatem de exsilii mei et longitudine et secreto intelligo constitisse; gratulatus sum in Domino, incontaminatos vos et illaesos ab omni contagio detestandae haereseos perstitisse, vosque comparticipes exsilii mei, in quod me
-
-9
-00:01:33,374 --> 00:01:48,246
-Saturninus, ipsam conscientiam suam veritus, circumvento imperatore detruserat, negata ipsi usque hoc tempus toto jam triennio communione, fide mihi ac spiritu cohaerere: et missam proxime vobis ex Sirmiensi oppido infidelis fidei impietatem, non modo non suscepisse, sed nuntiatam etiam
-
-10
-00:01:48,246 --> 00:01:49,541
-significatamque damnasse.
-
-11
-00:01:49,541 --> 00:02:04,724
-Necessarium mihi ac religiosum intellexi, ut nunc quasi episcopus episcopis mecum in Christo communicantibus salutaris ac fidelis sermonis colloquia transmitterem: et qui per metum incertorum, conscientiae tantum antea meae, quod ab his omnibus essem liber, gratulabar, nunc jam communis fidei
-
-12
-00:02:04,724 --> 00:02:06,226
-nostrae integritate gauderem.
-
-13
-00:02:06,226 --> 00:02:21,772
-O gloriosae conscientiae vestrae inconcussam stabilitatem! O firmam fidelis petrae fundamine domum! O intemeratae voluntatis illaesam imperturbatamque constantiam! Mansit namque, atque etiam nunc 460 permanet, post synodi Biterrensis professionem, in qua patronos hujus haereseos ingerendae quibusdam
-
-14
-00:02:21,772 --> 00:02:24,932
-vobis testibus denuntiaveram, innocens, inviolata, religiosa.
-
-15
-00:02:24,932 --> 00:02:40,478
-Exspectastis enim sanctae et indemutabilis perseverantiae gloriosum triumphum, non cedendo Saturnini minis, potestatibus, bellis: et cum omnia inchoandae blasphemiae in Deum certamina moverentur, manentes nunc usque mecum in Christo fideles, neque antea ad occasionem prorupturae haereseos cessistis,
-
-16
-00:02:40,478 --> 00:02:44,105
-et nunc omnem ejus petulantiam in proruptionis congressione fregistis.
-
-17
-00:02:44,519 --> 00:02:52,847
-Vicistis enim, Fratres,
-cum ingenti fidei communis gratulatione: et
-geminam habuit illaesae constantiae vestrae honor
-gloriam, de integritate scilicet conscientiae, et de
-exempli auctoritate.
-
-18
-00:02:52,847 --> 00:03:05,795
-Nam fidei vestrae imperturbatae
-inconcussaeque fama, quosdam Orientalium episcopos
-sero jam ad aliquem pudorem nutritae exinde haereseos
-auctaeque commovit: et auditis iis quae apud
-Sirmium conscripta impiissime erant, irreligiosorum
-audaciae quibusdam sententiarum suarum decretis
-contradixerunt.
-
-19
-00:03:05,795 --> 00:03:18,744
-Et licet non sine aliquo aurium scandalo et piae sollicitudinis offensione restiterint: tamen adeo restiterunt, ut ipsos illos, qui tunc apud Sirmium in sententiam Potamii atque Osii, ita et ipsi 461 sentientes confirmantesque, concesserant, ad professionem ignorantiae errorisque compellerent; ut
-
-20
-00:03:18,744 --> 00:03:20,880
-ipsi rursum subscribendo damnarent quod fecerant.
-
-21
-00:03:20,880 --> 00:03:23,104
-Quod utique ideo fecerunt, ut aliud ante
-damnarent.
-
-22
-00:03:23,104 --> 00:03:35,921
-Sed tenet etiam nunc invicta fides vestra spectabilem conscientiae suae gloriam: et nihil subdolum, nihil ambiguum, nihil trepidum agere contenta, secure in Christo libertatis suae professione persistit, ab eorum se communione, qui episcopos blasphemiis suis contradicentes in exsilio detinent,
-
-23
-00:03:35,921 --> 00:03:40,107
-abstinendo, neque se in injusti judicii reatum per assensum dissimulationis subdolae aggregando.
-
-24
-00:03:40,107 --> 00:03:53,186
-Nam post multum et gravem omnium nostrum ob eas res, quae irreligiose ab impiis gerebantur, dolorem, ex eo intra nos tantum communio dominica continetur, ex quo his perturbationibus vexari Ecclesia coepta est, ut exsulent episcopi, demutentur sacerdotes, plebes terreantur, fides periclitetur, humano
-
-25
-00:03:53,186 --> 00:03:55,845
-arbitrio ac potestate doctrinae dominicae decreta statuantur.
-
-26
-00:03:55,845 --> 00:04:03,431
-Hoc
-fides illaesa vestra neque nescire se simulat, neque
-pati posse profitetur, non se extra conscientiae crimen
-futuram intelligens ex ipso dissimulationis assensu.
-
-27
-00:04:03,431 --> 00:04:17,201
-Et quidem quamvis in omnibus, quae gessistis et geritis, constantem fidei vestrae libertatem et securitatem testemini; tamen etiam in eo ferventis spiritus ardorem probatis, quod nonnulli ex vobis, quorum ad me potuerunt scripta deferri, quae exinde Orientales in fidei professionibus gerant et
-
-28
-00:04:17,201 --> 00:04:31,111
-gesserunt, significari vobis humilitatis meae litteris desiderastis: etiam hoc mihi onus imperitissimo atque indoctissimo omnium ex affectu charitatis addentes, ut quid ipse super omnibus dictis eorum sentiam indicem; cum difficillimum sit sensum ipsum propriae meae fidei, secundum intelligentiae
-
-29
-00:04:31,111 --> 00:04:36,450
-interioris affectum loquendo proferre, nedum modo facile sit intelligentiam eorum quae ab aliis dicuntur exponere.
-
-30
-00:04:36,450 --> 00:04:48,580
-Oro
-autem vos per Domini misericordiam, ut quia mihi
-ad vos de divinis, ut 462 voluistis, rebus et de fidei
-nostrae intemerata conscientia erit per has litteras
-sermo, ne quisquam de me ante sermonis consummationem
-per litterarum exordia existimet judicandum.
-
-31
-00:04:48,580 --> 00:04:59,025
-Iniquum est enim, non comperta usque ad finem
-ratione dictorum, praejudicatam sententiam ex initiis
-quorum causa adhuc ignoretur afferre: cum non de
-inchoatis ad cognoscendum, sed de absolutis ad
-cognitionem sit judicandum.
-
-32
-00:04:59,025 --> 00:05:12,935
-Est enim mihi non de vobis, ut Dominus sensui meo conscius est, sed de quibusdam nimium apud se cautis et prudentibus metus, non intelligentibus per beatum Apostolum sibi, ne supersaperent, praeceptum (Rom XII 3): quos vereor nolle omnia ea, quorum absolutio a me in consummatione erit praestanda,
-
-33
-00:05:12,935 --> 00:05:15,932
-cognoscere, dum verum intelligi ex iis quae absolventur evitant.
-
-34
-00:05:15,932 --> 00:05:30,264
-Sed quisque haec legenda et cognoscenda susceperit,
-modum sibi atque mihi patientiae fidelis indulgeat,
-et usque ad absolutionem universa percenseat. Forte enim omnis hic fidei meae sermo praestabit, ut
-neque furtivi haeretici quod volunt fallant, et perfecti
-catholici quod desiderant consequantur.
-
-35
-00:05:30,264 --> 00:05:41,991
-Obsequor igitur Charitatis
-Vestrae impatientissimae voluntati: et omnes fides,
-quae post sanctam synodum Nicaenam diversis temporibus
-et locis editae sunt, cum sententiarum omnium
-atque etiam verborum additis per me expositionibus
-destinavi.
-
-36
-00:05:41,991 --> 00:05:56,200
-In quibus si quid vitiose inesse
-intelligitur, nemo mihi vitium potest assignare dictorum:
-internuntius enim, ut voluistis, sum ipse, non
-conditor. Si quid vero rectum atque ex doctrinis
-apostolicis praescriptum deprehenditur, nemo
-ambigit non interpretantis in eo esse gloriam, sed
-auctoris.
-
-37
-00:05:56,200 --> 00:06:01,942
-Ego tamen quae gesta sunt, fideliter transmisi:
-vos an catholica, an haeretica sint, fidei vestrae
-judicio comprobate.
-
-38
-00:06:01,942 --> 00:06:16,298
-Quamquam enim responderi litteris vestris necessarium fuerit, quibus communionem mihi dominicam fidei vestrae scriptis miseratis; et quidam etiam ex vobis ad synodum quae in Bithynia futura videbatur 463 acciti, firmissima fidei constantia intra communionem se meam continentes, a caeteris extra
-
-39
-00:06:16,298 --> 00:06:24,084
-Gallias abstinerent: et dignum sane erat episcopali ministerio ac voce, in tanto haereticorum furore, aliqua vobiscum per litteras piae fidei consilia conferre.
-
-40
-00:06:24,084 --> 00:06:32,016
-Non enim cum corporibus
-nostris exsulans, vinctum ac detentum esse potuit
-Dei verbum, ut non communicari vobiscum posset
-ubicumque (Vid l X de Trinitate n 4).
-
-41
-00:06:32,016 --> 00:06:47,411
-Sed maxime cum comperissem synodos in Ancyra atque Arimino congregandas, et a singulis provinciis Gallicanis binos vel singulos eo esse venturos; ea, quae inter nos atque Orientales episcopos mutuis suspicionibus detinentur, per me, qui in Orientis partibus continebar, exponenda vobis, licet jam
-
-42
-00:06:47,411 --> 00:07:02,703
-scientibus, atque edenda existimavi: ut cum hanc prorumpentem a Sirmio haeresim et vos condemnassetis, et illi cum anathemate judicassent, sciretis tamen in cujus fidei professione id ipsum, quod vos gesseratis, etiam ab Orientalibus episcopis esset effectum; et vos, quos maxime vellem futuris
-
-43
-00:07:02,703 --> 00:07:12,326
-synodis probabiles elucere, non paterer uno atque eodem apostolicae fidei sensu catholica sentientes, aliqua saltem a catholicae fidei sinceritate, ignorata verborum opinione, differre.
-
-44
-00:07:12,326 --> 00:07:27,825
-Et quidem rectum ac conveniens existimo, ut ante quam de verborum suspicionibus ac dissensionibus ineo sermonem, ea quae ab Orientalibus episcopis adversum conscriptam apud Sirmium haeresim dicta et constituta sint, verbis quam possim absolutissimis demonstrem: non quod non ab aliis planissime 464
-
-45
-00:07:27,825 --> 00:07:39,008
-omnia edita sint; sed quod ex graeco in latinum ad verbum expressa translatio affert plerumque obscuritatem, dum custodita verborum collatio eamdem absolutionem non potest ad intelligentiae simplicitatem conservare.
-
-46
-00:07:39,008 --> 00:07:54,404
-Meministis namque in ea ipsa scripta proxime apud Sirmium blasphemia id tentatum ac laboratum fuisse, uti dum Pater unus et solus omnium Deus praedicatur, Deus esse Filius negaretur: et dum de homousio ac de homoeusio taceri decernitur, id decretum esse, ut aut ex nihilo ut creatura, aut ex alia
-
-47
-00:07:54,404 --> 00:07:59,085
-essentia ut consequentia creaturarum, et non ex Deo Patre Deus Filius natus confirmaretur.
-
-48
-00:07:59,085 --> 00:08:07,824
-Tum porro in eo, quod
-honore, dignitate, claritate, majestate Pater major
-diceretur, id esse quaesitum, ut Filius his omnibus,
-quibus Pater major est, indigeret.
-
-49
-00:08:07,824 --> 00:08:19,456
-Postremo dum
-ignorabilis nativitas ejus asseritur, per hoc ignorantiae
-decretum, nescire quod ex Deo sit juberemur:
-perinde quasi juberi decernique possit, ut quis aut
-quod ignoraturus sit sciat, aut quod scierit ignoret.
-
-50
-00:08:19,456 --> 00:08:34,248
-Ipsam autem ex solido impiissimae blasphemiae pestem
-invitus licet subdidi, ut responsionum, quae
-e diverso ab Orientalibus positae sunt, absolutius et
-virtus et ratio nosceretur, quibus studii fuit, ut
-secundum intelligentiae suae sensum omnibus haereticorum
-artibus contrairent.
-
-51
-00:08:34,248 --> 00:08:39,936
-Exemplum Blasphemiae Apud Sirmium per Osium
-et Potamium conscriptae (anno 357).
-
-52
-00:08:39,936 --> 00:08:51,163
-Cum nonnulla putaretur
+00:00:09,798 --> 00:00:22,714
+---Cum nonnulla putaretur
 esse de fide 465 disceptatio, diligenter omnia
 apud Sirmium tractata sunt et discussa, praesentibus
 sanctissimis fratribus et coepiscopis nostris, Valente,
 Ursacio et Germinio .
 
-53
-00:08:51,163 --> 00:09:01,099
+3
+00:00:22,714 --> 00:00:33,976
 Unum constat Deum
 esse omnipotentem et patrem, sicut per universum
 orbem creditur: et unicum filium ejus Jesum
 Christum Dominum salvatorem nostrum, ex ipso
 ante saecula genitum.
 
-54
-00:09:01,099 --> 00:09:16,312
+4
+00:00:33,976 --> 00:00:51,219
 Duos autem deos nec posse nec
 debere praedicari; quia ipse Dominus dixit: Ibo ad
 patrem meum et ad patrem vestrum, ad Deum meum et
@@ -288,23 +28,23 @@ ad Deum vestrum (Joan XX 17). Ideo omnium Deus
 unus est, sicut Apostolus docuit. An Judaeorum
 Deus tantum? nonne et gentium? Imo et gentium.
 
-55
-00:09:16,312 --> 00:09:26,305
+5
+00:00:51,219 --> 00:01:02,545
 Quoniam quidem unus Deus, qui justificat circumcisionem
 ex fide, et praeputium per fidem (Rom. III, 29,
 30). Sed et caetera convenerunt, nec ullam habere
 potuerunt discrepantiam.
 
-56
-00:09:26,305 --> 00:09:42,921
+6
+00:01:02,545 --> 00:01:21,378
 Quod vero quosdam aut multos movebat de substantia, quae graece usia appellatur, id est (ut expressius intelligatur), homousion, aut quod dicitur homoeusion, nullam omnino fieri oportere mentionem; nec quemquam praedicare ea de causa et ratione quod nec in divinis Scripturis contineatur, et quod
 
-57
-00:09:42,921 --> 00:09:57,180
+7
+00:01:21,378 --> 00:01:37,540
 super hominis scientiam sit, nec quisquam possit nativitatem Filii enarrare, de quo Scriptum est, Generationem ejus quis enarrabit (Esai LIII 8)? Scire autem manifestum est solum Patrem quomodo genuerit filium suum, et Filium quomodo genitus sit a Patre.
 
-58
-00:09:57,180 --> 00:10:09,362
+8
+00:01:37,540 --> 00:01:51,347
 Nulla ambiguitas
 est, majorem esse Patrem. Nulli potest dubium
 esse, Patrem honore, dignitate, claritate,
@@ -312,38 +52,38 @@ majestate, et ipso nomine patris majorem esse Filio,
 ipso testante, Qui me misit, major me est (Joan. XIV,
 28).
 
-59
-00:10:09,362 --> 00:10:18,288
+9
+00:01:51,347 --> 00:02:01,463
 Et hoc catholicum esse, nemo ignorat, duas personas
 esse Patris et Filii, majorem 466 Patrem,
 Filium subjectum cum omnibus his quae ipsi Pater
 subjecit.
 
-60
-00:10:18,288 --> 00:10:30,991
+10
+00:02:01,463 --> 00:02:14,500
 Patrem initium non habere, invisibilem
 esse, immortalem esse, impassibilem esse. Filium
 autem natum esse ex Patre, Deum ex Deo, lumen
 ex lumine. Cujus Filii generationem, ut ante
 dictum est, neminem scire nisi Patrem suum.
 
-61
-00:10:30,991 --> 00:10:40,891
+11
+00:02:14,500 --> 00:02:24,659
 Ipsum
 autem Filium Dei Dominum et Deum nostrum, sicuti
 legitur, carnem vel corpus, id est, hominem suscepisse
 ex utero virginis Mariae, sicut Angelus praedicavit
 (Luc I 31).
 
-62
-00:10:40,891 --> 00:10:48,902
+12
+00:02:24,659 --> 00:02:32,880
 Ut autem Scripturae omnes docent,
 et praecipue ipse magister gentium Apostolus, hominem
 suscepisse de Maria Virgine, per quem compassus
 est.
 
-63
-00:10:48,902 --> 00:11:03,608
+13
+00:02:32,880 --> 00:02:47,971
 Illa autem clausula est totius fidei et
 illa confirmatio, quod Trinitas semper servanda est,
 sicut legimus in Evangelio: Ite et baptizate omnes
@@ -351,21 +91,22 @@ gentes in nomine Patris et Filii et Spiritus sancti
 (Matth XXVIII 19). Integer, perfectus numerus Trinitatis
 est.
 
-64
-00:11:03,608 --> 00:11:11,791
+14
+00:02:47,971 --> 00:03:02,652
 Paracletus autem Spiritus per Filium
 est; qui missus venit juxta promissum, ut Apostolos
-et omnes credentes instrueret, doceret, sanctificaret.
+et omnes credentes instrueret, doceret, sanctificaret. 12. Essentia et substantia quid. Ancyrana Synodus
+ann. 358. Filius ut imago non solo nomine alius a Patre.
 
-65
-00:11:11,791 --> 00:11:20,889
-His itaque tot et tantis impietatis professionibus
+15
+00:03:02,652 --> 00:03:12,165
+---His itaque tot et tantis impietatis professionibus
 editis, has rursum e contrario Orientales episcopi
 in unum congregati sententiarum definitiones
 condiderunt.
 
-66
-00:11:20,889 --> 00:11:35,023
+16
+00:03:12,165 --> 00:03:26,669
 Sed quia frequens nobis nuncupatio essentiae
 ac substantiae necessaria est; cognoscendum
 est quid significet essentia, ne de rebus locuturi,
@@ -373,43 +114,43 @@ rem verborum nesciamus. Essentia est res quae est,
 vel ex quibus est, et quae in eo quod maneat
 subsistit.
 
-67
-00:11:35,023 --> 00:11:43,092
+17
+00:03:26,669 --> 00:03:34,949
 Dici autem essentia, et natura, et genus,
 et substantia uniuscujusque rei poterit. Proprie autem
 essentia idcirco est dicta, quia semper est.
 
-68
-00:11:43,092 --> 00:11:52,762
+18
+00:03:34,949 --> 00:03:44,873
 Quae idcirco etiam substantia est, quia res quae est,
 467 necesse est subsistat in sese; quidquid autem
 subsistit, sine dubio in genere vel natura vel substantia
 maneat.
 
-69
-00:11:52,762 --> 00:12:05,351
+19
+00:03:44,873 --> 00:03:57,792
 Cum ergo essentiam dicimus significare
 naturam vel genus vel substantiam, intelligimus
 ejus rei quae in his omnibus semper esse subsistat. Nunc igitur praescriptas ab Orientalibus fidei definitiones
 recenseamus.
 
-70
-00:12:05,351 --> 00:12:13,753
+20
+00:03:57,792 --> 00:04:10,737
 I. Si quis audiens imaginem esse Filium Dei
 invisibilis, idem dicat esse imaginem Dei, quod et
 Deum invisibilem: quasi non confitens vere filium,
-anathema sit .
+anathema sit . 13. Item alius est, ut accipiens a Patre vitam.
 
-71
-00:12:13,753 --> 00:12:26,932
-Exclusa est assertio volentium nominibus tantum
+21
+00:04:10,737 --> 00:04:26,544
+---Exclusa est assertio volentium nominibus tantum
 Patrem et Filium praedicare; cum quando imago
 omnis, ejus ad quem coimaginetur species indifferens
 sit. Neque enim ipse sibi quisquam imago est; sed
 eum, cujus imago est, necesse est ut imago demonstret.
 
-72
-00:12:26,932 --> 00:12:41,057
+22
+00:04:26,544 --> 00:04:43,286
 Imago itaque est rei ad rem coaequandae imaginata
 et indiscreta similitudo. Est ergo Pater, est
 et Filius: quia imago Patris est Filius; et qui imago
@@ -417,59 +158,69 @@ est, ut rei imago sit, speciem necesse est et naturam
 et essentiam, secundum quod imago est, in se
 habeat auctoris. II.
 
-73
-00:12:41,057 --> 00:12:55,969
+23
+00:04:43,286 --> 00:05:01,210
 Et si quis audiens Filium dicentem, Sicut
 enim Pater habet vitam in semetipso, sic et Filio dedit
 vitam habere in semetipso (Joan V 26), eumdem dicat,
 qui accepit a Patre vitam, qui confitetur et
 hoc idem, Ego vivo propter Patrem (Joan VI 57),
-quod et illum qui dederit: anathema sit.
+quod et illum qui dederit: anathema sit. 14.
 
-74
-00:12:55,969 --> 00:13:08,886
-Discernitur persona accipientis, et dantis;
-ne ipse idem sit unus et solus. Cum enim in
+24
+00:05:01,210 --> 00:05:09,985
+Filius essentia non dissimilis patri eo quod imago
+illius sit. ---Discernitur persona accipientis, et dantis;
+ne ipse idem sit unus et solus.
+
+25
+00:05:09,985 --> 00:05:20,565
+Cum enim in
 anathemate sit, qui solitarium atque unicum in accipientis
 et dantis professione crediderit; non potest
 intelligi ipse atque unus a se accepisse, qui dederit.
 
-75
-00:13:08,886 --> 00:13:20,490
+26
+00:05:20,565 --> 00:05:34,319
 Neque enim 468 ipse solus est, qui vivit, et per
 quem vivit; quia alius est sibi vivens, alius profitens
 se vivere per auctorem: et unum atque eumdem nemo
 profitebitur, qui vita utatur, et per quem sit
 causa vivendi. III.
 
-76
-00:13:20,490 --> 00:13:34,247
+27
+00:05:34,319 --> 00:05:51,434
 Et si quis audiens unigenitum filium invisibilis
 Dei similem, non dixerit essentia Filium,
 qui est imago Dei invisibilis, cujus imago et juxta
 essentiam intelligitur: quasi non vere dicens filium,
-anathema sit. Indiscreta confirmatur indissimilisque natura.
+anathema sit. 15. Item eo quod sicut Pater, ita ipse vitam habet in
+semetipso.
 
-77
-00:13:34,247 --> 00:13:40,675
+28
+00:05:51,434 --> 00:05:57,720
+Vita Patris et Filii, ipsa utriusque essentia. ---Indiscreta confirmatur indissimilisque natura.
+
+29
+00:05:57,720 --> 00:06:04,859
 Cum enim unigenitus filius Dei, et imago invisibilis
 Dei sit; necesse est per speciem atque naturam similis
 essentiae sit.
 
-78
-00:13:40,675 --> 00:13:56,268
+30
+00:06:04,859 --> 00:06:22,182
 Aut quomodo inter Filium atque Patrem natura discernitur generis indifferentis; cum in his, quae Patris sunt propria, subsistens Filius per naturam in se genitam consistat, gloriae scilicet, virtutis, potestatis, invisibilitatis, essentiae? Atque ita in his paribus divinitatis bonis intelligitur
 
-79
-00:13:56,268 --> 00:14:11,809
+31
+00:06:22,182 --> 00:06:39,446
 neque ille minor esse, cum filius sit; neque hic praestare, cum pater sit: cum patri filius et coimaginatus ad speciem sit, nec sit dissimilis in genere; quia diversitatem substantiae geniti ex substantia patris filii similitudo non recipit, et omnem in se divinitatis paternae, qualis et quanta
 
-80
-00:14:11,809 --> 00:14:21,291
+32
+00:06:39,446 --> 00:06:49,980
 forma est, invisibilis Dei filius et imago complectitur: et hoc vere est esse filium, paternae scilicet formae veritatem coimaginatae in se naturae perfecta similitudine retulisse.
 
-81
-00:14:21,291 --> 00:14:34,251
+33
+00:06:49,980 --> 00:07:04,376
 IV. Et si quis audiens hoc, Quomodo enim Pater
 habet vitam in semetipso, sic et filio dedit vitam habere
 in semetipso (Joan V 26); similem non dicat
@@ -477,35 +228,35 @@ etiam juxta essentiam Filium Patri, testantem
 quod sic habet quemadmodum 469 dixit: anathema
 sit.
 
-82
-00:14:34,251 --> 00:14:49,633
+34
+00:07:04,376 --> 00:07:21,699
 Manifestum est enim, quod quae vita in
 Patre intelligitur, substantia significata; vita quoque
 Unigeniti, quae ex Patre generata est, essentia intellecta,
-ita similitudinem essentiae ad essentiam significat. Connectitur, tali confessione originis suae, indiscretae
+ita similitudinem essentiae ad essentiam significat. 16. Connectitur, tali confessione originis suae, indiscretae
 naturae perfecta nativitas.
 
-83
-00:14:49,633 --> 00:14:53,163
+35
+00:07:21,699 --> 00:07:25,620
 Quod enim in
 utroque vita est, id in utroque significatur essentia.
 
-84
-00:14:53,163 --> 00:15:08,756
+36
+00:07:25,620 --> 00:07:42,942
 Et in vita quae generatur ex vita, id est, essentia quae de essentia nascitur, dum non dissimilis nascitur, scilicet quia vita ex vita est, tenet in se originis suae indissimilem naturam; quia natae et gignentis essentiae, id est, vitae quae habetur et data est (nempe a Patre et data est Filio),
 
-85
-00:15:08,756 --> 00:15:10,073
+37
+00:07:42,942 --> 00:07:44,405
 similitudo non discrepet.
 
-86
-00:15:10,073 --> 00:15:17,975
+38
+00:07:44,405 --> 00:07:53,184
 Quod enim ex se Deus, cum ex naturae suae similitudine,
 genuit; non deseruit, in quo ingenita similitudo,
 naturalis proprietatem substantiae.
 
-87
-00:15:17,975 --> 00:15:33,070
+39
+00:07:53,184 --> 00:08:08,995
 Non
 enim aliud habet, quam dedit: et sicut vitam habens,
 ita habendam dedit vitam. Ac sic quod de essentia,
@@ -513,52 +264,52 @@ tamquam vita ex vita, simile sui secundum
 essentiam nascitur, nullam diversitatem ac dissimilitudinem
 admittit nascentis et gignentis essentia. V.
 
-88
-00:15:33,070 --> 00:15:50,838
+40
+00:08:08,995 --> 00:08:27,608
 Si quis condidit vel creavit me (Prov. VIII, 22), et genuit me (Ibid 25) ab eodem audiens, hoc genuit me non tam ex similitudine essentiae intelligat, sed idem esse dicat genuit me, et condidit me: quasi non dicens Filium de Deo perfectum ex duobus nominibus significatum filium (sed per duo nomina,
 
-89
-00:15:50,838 --> 00:16:00,109
+41
+00:08:27,608 --> 00:08:37,318
 hoc est, condidit me, et genuit, conditionem tantummodo dicens, et nequaquam filium); sicut 470 tradidit Sapientia ex duobus pium intellectum: anathema sit.
 
-90
-00:16:00,109 --> 00:16:04,982
-Dicentibus
+42
+00:08:37,318 --> 00:08:48,399
+17. Vox condidit me ex sequente genuit me intelligenda. Nativitatis et creationis discrimen. ---Dicentibus
 creaturam vel conditionem esse filium Dei, contraitur
 ratione subjecta.
 
-91
-00:16:04,982 --> 00:16:22,809
+43
+00:08:48,399 --> 00:09:07,074
 Namque impietatis haereticorum hinc profana praesumptio est, quod legisse se dicant, Dominus condidit vel creavit me; id ipsum enim conditio vel creatio videtur intelligi: sed consequentem sententiam subtrahentes, ex qua intelligentiam prior sumit, ex prima arripiunt impietatis suae auctoritatem, ut
 
-92
-00:16:22,809 --> 00:16:25,899
+44
+00:09:07,074 --> 00:09:10,311
 creaturam dicant, quia Sapientia dixerit se creatam.
 
-93
-00:16:25,899 --> 00:16:39,865
+45
+00:09:10,311 --> 00:09:24,939
 Quae si creata est, quomodo potuit
 et nasci? quia nativitas omnis, quaecumque est,
 in naturam suam ex natura gignente consistit: creatio
 autem sumit exordium de creantis potestate, potente
 scilicet Creatore ex nihilo condere creaturam.
 
-94
-00:16:39,865 --> 00:16:57,633
+46
+00:09:24,939 --> 00:09:43,552
 Sapientia itaque, quae se dixit creatam, eadem in consequenti (Scil v. 25, Sapientia cur creatam se dixerit) se dixit et genitam: creationem referens ad parentis indemutabilem naturam, quae, extra humani partus speciem et consuetudinem, sine imminutione aliqua ac demutatione sui, creavit ex se ipsa
 
-95
-00:16:57,633 --> 00:16:58,346
+47
+00:09:43,552 --> 00:09:44,299
 quod genuit.
 
-96
-00:16:58,346 --> 00:17:06,071
+48
+00:09:44,299 --> 00:09:52,392
 Creantis enim opus non habet passionem,
 aut permixtionis, aut partus. Esse enim aliquando
 incipit, quod creatur ex nihilo.
 
-97
-00:17:06,071 --> 00:17:19,242
+49
+00:09:52,392 --> 00:10:07,042
 Et qui creat, efficit
 pro potestate quod condit: et est opus virtutis creatio,
 non naturae ex natura gignente nativitas. At vero
@@ -566,111 +317,111 @@ nativitas, legitimae originis et genuinae naturae perfectus
 profectus est: ex natura enim generante
 naturam sumpsit genita natura.
 
-98
-00:17:19,242 --> 00:17:34,448
+50
+00:10:07,042 --> 00:10:19,827
 Sed quia Dei filius
 non corporalis partitudinis est genitus exemplo, sed
 ex 471 perfecto Deo perfectus Deus natus est; idcirco
 ait creatam se esse Sapientia, omnem in
-generatione sua naturam passionis corporalis excludens. Creatam se simul et genitam dicens originis suae
-naturam quam apte explicet.
+generatione sua naturam passionis corporalis excludens. 18.
 
-99
-00:17:34,448 --> 00:17:37,295
-Solam virtutis similitudinem
+51
+00:10:19,827 --> 00:10:27,350
+Creatam se simul et genitam dicens originis suae
+naturam quam apte explicet. Solam virtutis similitudinem
 Filio tribuentes damnantur.
 
-100
-00:17:37,295 --> 00:17:52,551
+52
+00:10:27,350 --> 00:10:44,320
 ---At vero ut ostenderet, non creationis in se, sed nativitatis esse naturam; subjecit et genitam, ut cum creatam se et genitam confitetur, absolutam nativitatis suae intelligentiam praestaret: dum et indemutabilem Patris naturam in creatione significat, et legitimam ac propriam ex Deo patre genitae
 
-101
-00:17:52,551 --> 00:17:54,535
+53
+00:10:44,320 --> 00:10:46,527
 naturae suae ostendit esse substantiam.
 
-102
-00:17:54,535 --> 00:18:02,417
+54
+00:10:46,527 --> 00:10:55,295
 Atque ita perfectae nativitatis intelligentiam,
 creationis et generationis attulit sermo: cum
 alterum sine demutatione, alterum in proprietate
 naturae est.
 
-103
-00:18:02,417 --> 00:18:13,401
+55
+00:10:55,295 --> 00:11:07,513
 Fitque utrumque unum, et unum utrumque
 perfectum: dum et Filius, ex Deo ac sine demutatione
 Dei natus, sic ex Patre nascitur, ut
 creetur; et indemutabilis ex se ac naturalis Filio
 Pater sic Filium condit, ut generet.
 
-104
-00:18:13,401 --> 00:18:24,741
+56
+00:11:07,513 --> 00:11:20,128
 Haeresis ergo
 creaturam esse Dei filium profiteri ausa, damnatur:
 quia impiam creaturae ex nihilo opinionem, impassibili
 per eam divinitatis perfectione monstrata,
 consequens professio naturalis generationis exstinguat. VI.
 
-105
-00:18:24,741 --> 00:18:35,471
+57
+00:11:20,128 --> 00:11:32,064
 Et si quis in Filio, Patris similitudinem
 secundum essentiam quidem ipso Filio revelante per
 haec quae dicit: Sicut enim Pater habet vitam in semetipso,
 sic et Filio dedit habere vitam in semetipso
 (Joan.
 
-106
-00:18:35,471 --> 00:18:52,501
+58
+00:11:32,064 --> 00:11:49,145
 V, 26); juxta efficaciam autem per ea quae docet: Quae enim Pater facit, eadem et Filius similiter facit (Ibid 19), solam secundum efficaciam similitudinem concedens, juxta essentiam vero, quod est principalissimum fidei nostrae, Filium fraudet: quasi semetipsum fraudans cognitione vitae perpetuae,
 
-107
-00:18:52,501 --> 00:19:09,587
-quae est in Patre et Filio: anathema sit. Virtutis similitudo non est nisi ex naturae similitudine. Vita essentia significatur.---Conclusi haeretici Scripturarum auctoritatibus, hoc solum tribuere solent Filio, ut Patri tantum virtute similis sit, adimunt autem ei similitudinem naturae: stulti atque
+59
+00:11:49,145 --> 00:12:06,170
+quae est in Patre et Filio: anathema sit. 19. Virtutis similitudo non est nisi ex naturae similitudine. Vita essentia significatur.---Conclusi haeretici Scripturarum auctoritatibus, hoc solum tribuere solent Filio, ut Patri tantum virtute similis sit, adimunt autem ei similitudinem naturae: stulti
 
-108
-00:19:09,587 --> 00:19:26,617
-impii, non intelligentes non nisi ex naturae similitudine similitudinem esse virtutis. Neque enim aliquando inferior natura, superioris a se potiorisque naturae virtutem consequitur. Aut quid haec asserentes de omnipotente Deo patre profitebuntur, si virtuti suae virtus naturae inferioris aequatur?
+60
+00:12:06,170 --> 00:12:23,023
+atque impii, non intelligentes non nisi ex naturae similitudine similitudinem esse virtutis. Neque enim aliquando inferior natura, superioris a se potiorisque naturae virtutem consequitur. Aut quid haec asserentes de omnipotente Deo patre profitebuntur, si virtuti suae virtus naturae inferioris
 
-109
-00:19:26,617 --> 00:19:43,475
-Non enim potest negari, quin Filius idem possit; cum dixerit: Quaecumque facit 472 Pater, eadem et Filius facit similiter (Joan V 19). Sed similitudini virtutis naturae similitudo succedit, cum dicit: Sicut habet Pater vitam in se, ita et Filio dedit vitam habere in semetipso (Ibid 26). In vita,
+61
+00:12:23,023 --> 00:12:40,162
+aequatur? Non enim potest negari, quin Filius idem possit; cum dixerit: Quaecumque facit 472 Pater, eadem et Filius facit similiter (Joan V 19). Sed similitudini virtutis naturae similitudo succedit, cum dicit: Sicut habet Pater vitam in se, ita et Filio dedit vitam habere in semetipso (Ibid 26). In
 
-110
-00:19:43,475 --> 00:20:00,561
-naturae et essentiae significatio est: quae sicut habetur, ita data esse docetur ad habendum. Tenet ergo vitae similitudo virtutis similitudinem: similitudo enim virtutis non potest esse dissimilis naturae. Atque ita necesse est, ut essentiae similitudo virtutis similitudinem consequatur: quia sicut
+62
+00:12:40,162 --> 00:12:57,301
+vita, naturae et essentiae significatio est: quae sicut habetur, ita data esse docetur ad habendum. Tenet ergo vitae similitudo virtutis similitudinem: similitudo enim virtutis non potest esse dissimilis naturae. Atque ita necesse est, ut essentiae similitudo virtutis similitudinem consequatur: quia
 
-111
-00:20:00,561 --> 00:20:17,363
-ea quae Pater facit, eadem et Filius facit: ita sicut habens vitam Pater, sic habendam Filio dedit vitam. Condemnatur ergo impiae professionis temeritas, quae virtutis similitudinem confitens, dissimilitudinem ausa sit praedicare naturae: cum principalis spei nostrae fides sit, indifferentem in
+63
+00:12:57,301 --> 00:13:14,326
+sicut ea quae Pater facit, eadem et Filius facit: ita sicut habens vitam Pater, sic habendam Filio dedit vitam. Condemnatur ergo impiae professionis temeritas, quae virtutis similitudinem confitens, dissimilitudinem ausa sit praedicare naturae: cum principalis spei nostrae fides sit, indifferentem
 
-112
-00:20:17,363 --> 00:20:20,154
-Patre et Filio divinitatis substantiam confiteri.
+64
+00:13:14,326 --> 00:13:17,297
+in Patre et Filio divinitatis substantiam confiteri.
 
-113
-00:20:20,496 --> 00:20:33,408
+65
+00:13:17,640 --> 00:13:33,251
 VII. Et si quis Patrem et Filium credere se
 promittens, Patrem dissimilis sibi essentiae patrem
 dicat, sed similis efficaciae; quasi profanas et
 novas voces contra essentiam Filii loquens, et interimens
-vere Dei filium esse: anathema sit.
+vere Dei filium esse: anathema sit. 20. Haeretici dolose Patrem et Filium confitentes.
 
-114
-00:20:33,408 --> 00:20:37,043
+66
+00:13:33,251 --> 00:13:36,870
 Refelluntur
 Filium negantes a Patre alium ob similitudinem
 naturae.
 
-115
-00:20:37,043 --> 00:20:52,993
+67
+00:13:36,870 --> 00:13:52,752
 ---Confusis permixtisque verbis veritatem frequentissime haeretici eludunt, et incautorum aures communium vocabulorum sono capiunt, Patrem et Filium solis nominibus, non etiam per veritatem naturalis et genuinae essentiae praedicantes: quia omnium creationum sciant dici Deum patrem, et sanctos
 
-116
-00:20:52,993 --> 00:20:55,163
+68
+00:13:52,752 --> 00:13:54,913
 quosque nuncupari meminerint Dei filios.
 
-117
-00:20:55,163 --> 00:21:10,842
+69
+00:13:54,913 --> 00:14:10,524
 Quo
 exemplo Patrem et Filium secundum communia universitatis
 nomina confitentur; ut Pater et Filius dicantur
@@ -679,8 +430,8 @@ sunt, si in his differentis essentiae discreta natura
 est: cum non possit paterni nominis veritas nisi ex
 naturae suae progenie acquiri.
 
-118
-00:21:10,842 --> 00:21:25,436
+70
+00:14:10,524 --> 00:14:25,055
 Pater itaque non potest
 alienae a se ac dissimilis substantiae pater dici; quia
 nativitas perfecta non habeat dissidentem originalis
@@ -688,8 +439,8 @@ substantiae diversitatem. Repudiatur ergo haec omnis
 impietas, quae Patrem non secundum naturam
 suam geniti ex se filii patrem loquatur.
 
-119
-00:21:25,436 --> 00:21:38,131
+71
+00:14:25,055 --> 00:14:37,696
 Neque
 enim per id pater dicetur Deus, si habeat virtuti atque
 efficaciae suae similem creationem; sed si genuerit
@@ -697,23 +448,23 @@ non dissimilis atque alienae a se essentiae naturam:
 quia diversitatem paternae naturae nativitas naturalis
 non recipit.
 
-120
-00:21:38,131 --> 00:21:48,277
+72
+00:14:37,696 --> 00:14:47,797
 Atque ob id anathema sunt, qui 473 Patrem
 asserant dissimilis sibi naturae patrem esse: ut
 ex Deo aliud quam Deus natus sit, et putent essentiam
 Patris a se in Filio degenerasse gignendo.
 
-121
-00:21:48,277 --> 00:21:59,615
+73
+00:14:47,797 --> 00:14:59,088
 Perimunt
 enim, quantum in se est, ipsam illam innascibilem
 Patris et indemutabilem essentiam, qui
 ausi sunt ei in Unigeniti sui nativitate dissimilitudinem
 degeneratae essentiae naturalis ingerere. VIII.
 
-122
-00:21:59,615 --> 00:22:13,700
+74
+00:14:59,088 --> 00:15:14,757
 Et si quis intelligens similem secundum
 essentiam Filium ejus, cujus et filius intelligitur;
 eumdem dicens Filium quem Patrem, aut partem
@@ -722,43 +473,45 @@ quemadmodum corporales filios, ab incorporali
 Patre incorporalem Filium subsistentem: anathema
 sit. 21.
 
-123
-00:22:13,700 --> 00:22:18,234
+75
+00:15:14,757 --> 00:15:19,801
 Cavetur in omnibus adversum singularum per
 versitatum vitia, neque occasio fraudis admittitur.
 
-124
-00:22:18,234 --> 00:22:29,907
+76
+00:15:19,801 --> 00:15:32,787
 Plures enim haereticorum idcirco similem secundum
 divinitatem esse Patri Filium dicunt, ut per similitudinis
 proprietatem eumdem Patrem esse quem
 Filium confirment: quia indiscreta similitudo admittere
 videatur unici ac singularis occasionem.
 
-125
-00:22:29,907 --> 00:22:39,409
+77
+00:15:32,787 --> 00:15:47,491
 Quod enim non dissentit in genere, id videtur in
-unione manere naturae. Sed nativitas non admittit
-hanc fabulam; quia unio non habet nativitatem. Quod enim natum est, habet nativitatis suae patrem.
+unione manere naturae. 22. Filius eo quod natus, nec ipse qui Pater, nec
+aliud quam Pater. Filium a Patre aliud volentes, ob
+distinctionem personae. ---Sed nativitas non admittit
+hanc fabulam; quia unio non habet nativitatem.
 
-126
-00:22:39,409 --> 00:22:49,828
-Neque quia indiscreta est nascentis a gignente divinitas,
+78
+00:15:47,491 --> 00:16:01,872
+Quod enim natum est, habet nativitatis suae patrem. Neque quia indiscreta est nascentis a gignente divinitas,
 ideo ipse est et generator et genitus; cum non
 possit nisi alius atque alius esse et generans et natus,
 neque rursum dissimilis esse possit natus et
 generans.
 
-127
-00:22:49,828 --> 00:23:04,153
+79
+00:16:01,872 --> 00:16:17,810
 Anathema ergo est, qui in Patre et Filio naturae similitudinem ad abolendam Filii personalem significantiam praedicabit: quia cum in nullo differat res a re per mutuam similitudinem; similitudo tamen ipsa, non recipiens unionem, Patrem et Filium per id, quod Filius indemutabilis similitudo Patris
 
-128
-00:23:04,153 --> 00:23:04,925
+80
+00:16:17,810 --> 00:16:18,668
 est, confitetur.
 
-129
-00:23:04,925 --> 00:23:17,418
+81
+00:16:18,668 --> 00:16:32,567
 Non enim aut pars est Filius
 Patris, ut unus dici possit et natus et generans. Neque
 emanatio est, ut continenti fluxu per corporalem
@@ -766,57 +519,58 @@ et individuum procursum idem ipse fluxus retentus
 in origine, ipsum sibi sit serie atque tractu cohaerenti
 origo quod fluxus.
 
-130
-00:23:17,418 --> 00:23:28,511
+82
+00:16:32,567 --> 00:16:44,856
 Sed perfecta nativitas est,
 et cum naturae similitudine manens: non conceptu
 et partu corporali corporaliter incohata, sed secundum
 ejusdem naturae similitudinem incorporalis
 474 Filius ex incorporali Patre subsistens. IX.
 
-131
-00:23:28,511 --> 00:23:43,415
+83
+00:16:44,856 --> 00:17:02,839
 Et si quis, propterea quod numquam Pater Filius intelligitur, et quod Filius numquam Pater intelligitur, alium dicens Filium praeter Patrem, propterea quod alius sit Pater, alius sit Filius, secundum quod dictum est, Alius est qui testimonium perhibet mihi, qui me misit Pater (Joan V 32): propter
 
-132
-00:23:43,415 --> 00:23:52,799
+84
+00:17:02,839 --> 00:17:14,162
 hanc piam in Ecclesia intelligendam proprietatem personae Patris et Filii, timens ne quando idem intelligatur Filius et Pater, similem non dicat etiam juxta essentiam Patri: anathema sit.
 
-133
-00:23:52,799 --> 00:23:58,118
-Dictum ad Apostolos Domini est: Estote
+85
+00:17:14,162 --> 00:17:24,273
+23. Quam caute duae haereses contra Dei filium
+peremptae. ---Dictum ad Apostolos Domini est: Estote
 prudentes ut sunt serpentes, et simplices ut columbae
 (Matth X 16).
 
-134
-00:23:58,118 --> 00:24:13,172
+86
+00:17:24,273 --> 00:17:42,438
 Per quod dissidentium a se animantium inesse nobis voluit naturam: sed ita, ut serpentinam prudentiam columbae simplicitas temperaret, et simplicitatem columbae prudentia serpentis instrueret; fieretque et simplex sapientia, et sapiens simplicitas: quod praeceptum in hujus fidei expositione servatum
 
-135
-00:24:13,172 --> 00:24:13,373
+87
+00:17:42,438 --> 00:17:42,681
 est.
 
-136
-00:24:13,373 --> 00:24:28,126
+88
+00:17:42,681 --> 00:18:00,482
 Namque cum superior, de qua locuti sumus, sententia id cavisset, ne, per similitudinem essentiae, personalis unio praedicaretur; neque ut naturae indifferentia perimeret Filii nativitatem; et unus ac solitarius nobis esset in sensu, quia alter ab altero non differret in genere: sed consequenti
 
-137
-00:24:28,126 --> 00:24:42,879
+89
+00:18:00,482 --> 00:18:18,284
 sententia illi prudentiae serpentis, cui configurari cum columbae simplicitate praecipimur, per simplicem atque apostolicam prudentiam rursum occursum est; ne forte per id, quod personalis unio non reciperetur, quia alius sit Pater, alius et Filius, praedicatio iterum dissimilis naturae possit
 
-138
-00:24:42,879 --> 00:24:54,672
+90
+00:18:18,284 --> 00:18:32,513
 obrepere: ne cum alius est qui miserit, et alius est qui missus est (quia non unus est missus et mittens), discretae ac dissimilis naturae existimarentur esse missus et mittens, cum diversae essentiae esse non possint natus et gignens.
 
-139
-00:24:54,672 --> 00:25:04,056
+91
+00:18:32,513 --> 00:18:43,776
 Retinetur itaque in Patre et Filio naturae
 indifferentis similitudo per essentiae nativitatem:
 non tamen damnum personae affert, ut unus
 sit missus et mittens, similitudo naturae.
 
-140
-00:25:04,056 --> 00:25:18,130
+92
+00:18:43,776 --> 00:18:58,801
 Neque rursum
 in personae proprietate, cum non possit ipse
 sibi unus et filius et Pater dici, aufertur similitudo
@@ -824,46 +578,49 @@ naturae. Atque ita et nativitatis veritas ad similitudinem
 proficit essentiae, et similitudo essentiae non
 amittit nativitatis personalem veritatem.
 
-141
-00:25:18,130 --> 00:25:28,053
+93
+00:18:58,801 --> 00:19:09,394
 Neque
 rursum professio gignentis et geniti 475 similitudinem
 excludit essentiae; quia cum gignens et genitus
 unus esse non possit, non tamen diversae naturae sint
 natus et generans. X.
 
-142
-00:25:28,053 --> 00:25:44,231
+94
+00:19:09,394 --> 00:19:26,665
 Et si quis in aliquo tempore patrem Deum unigeniti filii intelligat, et non super tempora et super omnem humanam aestimationem unigenitum filium sine passione exstitisse: quasi praetergrediens evangelicam praedicationem, quae temporum quidem intercapedinem de Patre et Filio adspernata est, fideliter
 
-143
-00:25:44,231 --> 00:25:50,702
+95
+00:19:26,665 --> 00:19:33,574
 autem nos docuit, quod in principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum (Joan I 1): anathema sit.
 
-144
-00:25:50,702 --> 00:25:57,875
-Pia professio
+96
+00:19:33,574 --> 00:19:46,009
+24. Pater non intra tempora. Filium magis jam
+esse quam nasci docet Evangelium. ---Pia professio
 est, Patrem non intra tempora contineri: omnem
 enim intelligentiae sensum excedit intemporalis paterni
 nominis veritas.
 
-145
-00:25:57,875 --> 00:26:13,891
+97
+00:19:46,009 --> 00:20:03,107
 Etsi ipsa paterni nominis, per quod impassibilis origo nascentis est, religiosa confessio est: non tamen tenetur in tempore; quia non potest aeternus et infinitus Deus pater intelligi temporalis, et secundum evangelicam praedicationem cognoscitur unigenitus Deus Verbum magis jam in principio apud
 
-146
-00:26:13,891 --> 00:26:15,078
+98
+00:20:03,107 --> 00:20:04,374
 Deum esse, quam nasci.
 
-147
-00:26:15,078 --> 00:26:21,063
+99
+00:20:04,374 --> 00:20:17,269
 XI. Et si quis seniorem tempore Patrem dicat
 Filio ex se unigenito, juniorem autem Filium
-Patre : anathema sit.
+Patre : anathema sit. 25. Filius ut Patris imago, non est eo junior. Ex
+eo quod Deus semel pater, semper fuit pater, semper
+et Filius.
 
-148
-00:26:21,063 --> 00:26:37,296
-Similitudo essentiae configurata in genere,
+100
+00:20:17,269 --> 00:20:34,655
+---Similitudo essentiae configurata in genere,
 indifferens quoque docetur in tempore: ne qui
 imago est Dei, qui Verbum est, qui Deus est apud
 Deum in principio, qui similis est Patri, interjecto
@@ -871,95 +628,108 @@ inter se ac Patrem tempore, non perfectum in se
 habeat quod et imago est, et Verbum est, et Deus
 est.
 
-149
-00:26:37,296 --> 00:26:53,363
+101
+00:20:34,655 --> 00:20:51,080
 Si enim tempore junior praedicatur, amisit et
 imaginis et similitudinis veritatem: quia similitudo
 jam non sit, quae dissimilis reperiatur in tempore. Quia ipsum illud, quod Deus pater est, tempus aliquod
 non potest habere ne Pater sit: ex quo nec in
 Filio tempus potest esse ne filius sit.
 
-150
-00:26:53,363 --> 00:27:09,431
+102
+00:20:51,080 --> 00:21:07,731
 Atque ob id,
 nec Pater Filio senior, nec Filius Patre junior esse
 dicendus est: quia utriusque nominis veritas non
 potest esse sine altero. 476 XII. Et si quis intemporalem unigeniti filii
 de Patre substantiam ad innascibilem Dei essentiam
 referat, quasi Filium Patrem dicens: anathema
-sit.
+sit. 26.
 
-151
-00:27:09,431 --> 00:27:26,052
-Dedisse superior definitio occasionem haereticis videbatur, cum tempus nativitatis Filii negaretur (quia nefas esset, si Pater esset in tempore: in tempore autem esset, si Filius tempori subderetur): ut per hanc opportunitatem temporis abnegati, sub Filii nuncupatione, Pater, qui innascibilis esset,
+103
+00:21:07,731 --> 00:21:10,506
+Filius etsi intemporalis, non tamen innascibilis.
 
-152
-00:27:26,052 --> 00:27:37,632
-singularis atque unicus ipse sibi et pater et filius praedicaretur: quia ubi nascendi tempus excluditur, illic opinio videtur innascibilitatis admitti; ut natus non putetur, cujus nativitas non sit in tempore.
+104
+00:21:10,506 --> 00:21:27,271
+---Dedisse superior definitio occasionem haereticis videbatur, cum tempus nativitatis Filii negaretur (quia nefas esset, si Pater esset in tempore: in tempore autem esset, si Filius tempori subderetur): ut per hanc opportunitatem temporis abnegati, sub Filii nuncupatione, Pater, qui innascibilis
 
-153
-00:27:37,632 --> 00:27:54,032
+105
+00:21:27,271 --> 00:21:39,504
+esset, singularis atque unicus ipse sibi et pater et filius praedicaretur: quia ubi nascendi tempus excluditur, illic opinio videtur innascibilitatis admitti; ut natus non putetur, cujus nativitas non sit in tempore.
+
+106
+00:21:39,504 --> 00:21:56,269
 Idcirco ne per hanc occasionem temporis abnegati, haeresis (Sabelliana) unionis irreperet; haec impietas damnatur, quae audeat intemporalem nativitatem ad unicam ac singularem innascibilis essentiae referre substantiam: cum aliud sit intemporalem esse, aliud sit esse non natum; quorum unum habet
 
-154
-00:27:54,032 --> 00:27:59,850
+107
+00:21:56,269 --> 00:22:02,215
 (licet extra tempus) nativitatem, aliud ipsum sibi, ad id quod est, solus atque idem auctor aeternus sit.
 
-155
-00:27:59,850 --> 00:28:09,768
-Percucurrimus, charissimi Fratres,
+108
+00:22:02,215 --> 00:22:19,319
+27. Definitionum harum ratio. Expositio qualis ab
+Hilario adhibita. A quibus earum subscriptio extorta. Harum synopsis. ---Percucurrimus, charissimi Fratres,
 omnes Orientalium episcoporum editas fidei definitiones,
 quas adversum emergentem proxime haeresim,
 congregata intra se synodo condiderunt.
 
-156
-00:28:09,768 --> 00:28:25,989
+109
+00:22:19,319 --> 00:22:32,417
 Et nos, quantum potuimus, ad intelligentiae eorum sensum, expositionis nostrae sermonem coaptavimus, famulantes potius eorum dictis, quam dictorum alienorum auctores existimandi: quibus adversum novam et profanam impietatem, haec conscientiae suae et adeptae jam pridem doctrinae instituta decernunt,
 
-157
-00:28:25,989 --> 00:28:42,048
+110
+00:22:32,417 --> 00:22:45,384
 et eos, qui hanc apud Sirmium haeresim conscripserant, vel conscriptam susceperant, ignorationem confitentes ad subscriptionem decretorum talium coegerunt: ubi Filius Patris imago perfecta est: ubi sub indifferentis imaginis proprietate, per profanam fraudem Filius non aboletur, ut pater sit: ubi
 
-158
-00:28:42,048 --> 00:28:57,782
+111
+00:22:45,384 --> 00:22:58,089
 477 imago Patris Filius praedicatus per similitudinis veritatem, a substantia Patris, cujus imago est, substantiae diversitate non differt: ubi per habitam a Patre vitam et acceptam a Filio vitam, nihil differens in substantia, quae significatur in vita, habeat Pater, quam Filius accepit ad
 
-159
-00:28:57,782 --> 00:29:13,733
+112
+00:22:58,089 --> 00:23:10,968
 habendum: ubi non creatura est Filius genitus, sed a natura Patris indiscreta substantia est: ubi sicut inter Patrem et Filium indifferens virtus est, ita nullam inter se diversitatem patiatur essentia: ubi Pater, generando Filium, nihil ex se in eo degenerat diversitate naturae: ubi quia nihil
 
-160
-00:29:13,733 --> 00:29:29,738
+113
+00:23:10,968 --> 00:23:23,891
 differat in utroque similitudo naturae, proprietas tamen similitudinis personalium nominum respuat unionem, ne subsistens unus sit, qui et Pater dicatur et filius: ubi quia pie dicitur et Pater mittens, et Filius missus; in nullo tamen inter Patrem et Filium, id est, inter missum atque mittentem
 
-161
-00:29:29,738 --> 00:29:41,201
+114
+00:23:23,891 --> 00:23:33,147
 discernatur essentia: ubi non intra tempora paterni nominis veritas continetur: ubi Filius Patri non est posterior in tempore: ubi ultra tempus omne perfecta nativitas innascibilitatis in se non admittit errorem.
 
-162
-00:29:41,471 --> 00:29:57,068
-Et haec quidem, Fratres carissimi,
+115
+00:23:33,147 --> 00:23:35,591
+28. Decreta quo tempore edita. Qua occasione, cur.
+
+116
+00:23:35,591 --> 00:23:36,795
+Fides subinde aliae.
+
+117
+00:23:36,795 --> 00:23:53,882
+---Et haec quidem, Fratres carissimi,
 omnis quae edita est fidei doctrina, per paucos
 juxta universitatis modum Orientales, sub
 his ipsis prope diebus, quibus vos ingestam haeresim
 respuistis, emersit: cujus exponendae ea fuit ratio,
 quod unius substantiae 478 silentium decernebatur.
 
-163
-00:29:57,068 --> 00:30:05,727
+118
+00:23:53,882 --> 00:24:03,268
 Sed jam superioribus diversisque temporibus,
 multis his causis postulantibus, fides alias necesse
 fuerit conscribi, quae quales sint, ex ipsis intelligetur.
 
-164
-00:30:05,727 --> 00:30:15,218
+119
+00:24:03,268 --> 00:24:13,556
 Omnibus enim quae ab iis gesta sunt cognitis,
 facilius tum et plenius earum rerum, de quibus inter
 nos quaestio est, absolutionem religiosam et unitati
 congruam afferemus.
 
-165
-00:30:15,218 --> 00:30:29,317
+120
+00:24:13,556 --> 00:24:28,838
 Expositio (an 341 edita) ecclesiasticae fidei, quae exposita
 est in synodo habita per Encaenias Antiochenae
 ecclesiae consummatae. Exposuerunt
@@ -967,91 +737,95 @@ qui adfuerunt episcopi nonaginta septem, cum in
 suspicionem venisset unus ex episcopis quod
 prava sentiret. 29.
 
-166
-00:30:29,317 --> 00:30:45,912
+121
+00:24:28,838 --> 00:24:46,827
 Credimus consequenter evangelicae et apostolicae traditioni in unum Deum patrem omnipotentem, cunctorum quae sunt aedificatorem et factorem et provisorem, de quo omnia: et in unum Dominum Jesum Christum filium ipsius unigenitum, Deum per quem omnia, qui generatus est ex Patre, Deum de Deo, totum ex
 
-167
-00:30:45,912 --> 00:31:02,064
+122
+00:24:46,827 --> 00:25:04,335
 toto, unum ex uno, perfectum de perfecto, regem de rege, Dominum de Domino, verbum, sapientiam, vitam, lumen verum, viam veram, resurrectionem, pastorem, januam, inconvertibilem et immutabilem, divinitatis essentiaeque et virtutis et gloriae incommutabilem 479 imaginem, primum editum totius
 
-168
-00:31:02,064 --> 00:31:18,383
+123
+00:25:04,335 --> 00:25:22,024
 creaturae, qui semper fuit in principio apud Deum Verbum Deus, juxta quod dictum est in Evangelio, Et Deus erat Verbum (Joan I 1), per quem omnia facta sunt, et in quo omnia constant: qui in novissimis diebus descendit desursum, et natus est ex virgine secundum Scripturas, et agnus factus est,
 
-169
-00:31:18,383 --> 00:31:22,157
+124
+00:25:22,024 --> 00:25:26,115
 mediator Dei et hominum, praedestinatus fidei nostrae, et dux vitae.
 
-170
-00:31:22,157 --> 00:31:29,039
+125
+00:25:26,115 --> 00:25:33,575
 Dixit
 quippe: Non enim descendi de coelo, ut facerem voluntatem
 meam, sed voluntatem ejus qui me misit
 (Joan VI 38).
 
-171
-00:31:29,039 --> 00:31:37,335
+126
+00:25:33,575 --> 00:25:42,342
 Qui passus est et resurrexit pro
 nobis tertia die, et adscendit in coelos, et sedet in
 dextera Patris, et iterum venturus est cum gloria judicare
 vivos et mortuos.
 
-172
-00:31:37,335 --> 00:31:52,449
+127
+00:25:42,342 --> 00:25:58,315
 Et in Spiritum sanctum, qui in paraclesin et sanctificationem et consummationem credentibus datus est, juxta quod et Dominus Jesus Christus ordinavit discipulos dicens: Pergite, et docete universas gentes, baptizantes eos in nomine Patris et Filii et Spiritus sancti (Matth. XXVIII, 19): manifeste
 
-173
-00:31:52,449 --> 00:32:07,462
+128
+00:25:58,315 --> 00:26:14,180
 utique Patris vere patris, certumque Filii vere filii, et Spiritus sancti vere spiritus sancti; hisque nominibus non simpliciter neque otiose propositis, sed significantibus diligenter propriam uniuscujusque nominatorum substantiam et ordinem et gloriam, ut sint quidem per substantiam tria, per
 
-174
-00:32:07,462 --> 00:32:08,632
+129
+00:26:14,180 --> 00:26:15,417
 consonantiam vero unum.
 
-175
-00:32:08,632 --> 00:32:23,747
+130
+00:26:15,417 --> 00:26:15,579
+30.
+
+131
+00:26:15,579 --> 00:26:31,552
 Hanc ergo habentes fidem, et ab initio et usque in finem habituri in conspectu Dei et Christi, omnem haereticam et pravam sectam anathematizamus: et si quis praeter salubrem Scripturarum et rectam fidem docet, dicens aut tempus, aut spatium, aut saeculum, aut esse aut fuisse prius, quam generatus
 
-176
-00:32:23,747 --> 00:32:24,815
+132
+00:26:31,552 --> 00:26:32,681
 Filius: anathema sit.
 
-177
-00:32:24,815 --> 00:32:39,675
+133
+00:26:32,681 --> 00:26:48,385
 Et si quis Filium conditionem dicit, quemadmodum unum conditionum; aut nativitatem, sicut sunt nativitates; aut factionem, sicut sunt facturae, et non sicut divinae Scripturae tradiderunt singula quaeque, 480 quae superius dicta sunt; et si quis aliud docet, aut evangelizat praeter quam quod
 
-178
-00:32:39,675 --> 00:32:40,897
+134
+00:26:48,385 --> 00:26:49,676
 accepimus: anathema sit.
 
-179
-00:32:40,897 --> 00:32:48,886
+135
+00:26:49,676 --> 00:26:58,335
 Nos
 enim omnibus, quae divinis Scripturis tradita sunt a
 prophetis et ab apostolis, vere et cum timore et credimus
-et sequimur. Fides haec quatenus suspecta.
+et sequimur. 31. Fides haec quatenus suspecta.
 
-180
-00:32:48,886 --> 00:33:04,001
+136
+00:26:58,335 --> 00:27:14,308
 ---Minus forte expresse videtur de indifferenti similitudine Patris et Filii fides haec locuta esse, maxime cum de Patre et Filio et Spiritu sancto ita senserit significatam in nominibus propriam uniuscujusque nominatorum substantiam et ordinem et gloriam, ut sint quidem per substantiam tria, per
 
-181
-00:33:04,001 --> 00:33:05,171
+137
+00:27:14,308 --> 00:27:15,545
 consonantiam vero unum.
 
-182
-00:33:05,171 --> 00:33:09,192
+138
+00:27:15,545 --> 00:27:19,847
 32. Excusatur ex scopo concilii. Haeresis nova post
 Nicaenam synodum.
 
-183
-00:33:09,192 --> 00:33:12,431
+139
+00:27:19,847 --> 00:27:23,516
 Trinitatis substantiae tres qui apud
 Orientales recte dicantur.
 
-184
-00:33:12,431 --> 00:33:27,138
+140
+00:27:23,516 --> 00:27:40,170
 ---Et primum sciendum est,
 non adversum haeresim, quae dissimilis substantiae
 Patrem et Filium ausa est praedicare, in Antiochia
@@ -1060,63 +834,63 @@ post sanctam synodum Nicaenam in id proruperat,
 ut tria nomina Patri vellet adscribere, de qua suo loco
 tractabimus.
 
-185
-00:33:27,138 --> 00:33:38,913
+141
+00:27:40,170 --> 00:27:53,505
 Memini enim me in exordio sermonis
 patientiam et aequanimitatem legentium atque audientium
 usque ad absolutionem omnium dictorum
 meorum poposcisse; ne temerarius quisquam in me
 judex ante cognitionem perfecti sermonis exsisteret.
 
-186
-00:33:38,913 --> 00:33:54,339
+142
+00:27:53,505 --> 00:28:10,974
 Volens igitur congregata sanctorum synodus impietatem eam perimere, quae veritatem Patris et Filii et Spiritus sancti nominum numero eluderet: ut non subsistente causa uniuscujusque nominis, triplex nuncupatio obtineret sub falsitate nominum unionem, et Pater solus atque unus idem atque ipse haberet
 
-187
-00:33:54,339 --> 00:34:04,675
+143
+00:28:10,974 --> 00:28:22,678
 et Spiritus sancti nomen et Filii: idcirco tres substantias esse dixerunt, subsistentium personas per substantias edocentes, non substantiam Patris et Filii diversitate dissimilis essentiae separantes.
 
-188
-00:34:04,675 --> 00:34:17,633
+144
+00:28:22,678 --> 00:28:37,585
 Quod autem dictum est: Ut sint quidem per substantiam
 tria, per consonantiam vero unum, non habet calumniam:
 quia connominato Spiritu, id est
 paracleto, consonantiae potius, quam essentiae 481
 per similitudinem substantiae praedicari convenit
-unitatem.
+unitatem. 33.
 
-189
-00:34:17,633 --> 00:34:29,049
+145
+00:28:37,585 --> 00:28:50,512
 Hac formula eamdem Patris ac Filii essentiam
 praedicari. Nativitatis et innascibilitatis discrimen. Filius
 immutabilis. ---Caeterum omnis superior sermo
 in nullo Patrem et Filium essentiae ac naturae diversitate
 discrevit.
 
-190
-00:34:29,049 --> 00:34:38,253
+146
+00:28:50,512 --> 00:29:00,935
 Ubi enim dicitur, Deum de Deo, totum
 ex toto; non ambigitur totum Deum ex toto
 Deo natum. Nam et Dei de Deo natura non differt:
 et totus ex toto in iis est ipse, quibus Pater est.
 
-191
-00:34:38,253 --> 00:34:47,304
+147
+00:29:00,935 --> 00:29:11,183
 Unus ex uno passiones humani partus et conceptionis
 excludit: ut dum unus ex uno est, non aliunde,
 nec diversus, aut alius sit, qui est unus ex uno,
 perfectus a perfecto.
 
-192
-00:34:47,304 --> 00:34:59,313
+148
+00:29:11,183 --> 00:29:23,775
 Non differt praeter originis causam
 ab innascibilitate nativitas; cum perfectio
 utriusque non differat. Rex de Rege. Non admittit
 uno atque eodem nomine potestas connuncupata dissimilitudinem
 potestatis. Dominum de Domino.
 
-193
-00:34:59,313 --> 00:35:14,298
+149
+00:29:23,775 --> 00:29:39,486
 Dominatus
 quoque aequatur in Domino: nec recipit differentiam
 confessa in utroque sine diversitate dominatio. Illud vero, quod post multa alia subjectum
@@ -1124,8 +898,8 @@ est, inconvertibilem et immutabilem, divinitatis et essentiae
 et virtutis et gloriae incommutabilem imaginem,
 absolutum est.
 
-194
-00:35:14,298 --> 00:35:29,067
+150
+00:29:39,486 --> 00:29:54,970
 Nam ex Deo Deus, ex toto totus, ex
 uno unus, et ex perfecto perfectus, et ex rege rex,
 et ex Domino Dominus, cum in ea omni divinitatis
@@ -1133,23 +907,23 @@ gloria atque natura, in qua Pater permanet, natus
 quoque subsistat et Filius; etiam hoc ex paterna
 substantia habet, ne demutabilis fiat.
 
-195
-00:35:29,067 --> 00:35:37,074
+151
+00:29:54,970 --> 00:30:03,364
 Non enim in
 eo nascente, ea, de qua natus est, demutata natura
 est: sed indemutabilem essentiam natus obtinuit ex
 indemutabilis auctoritate naturae.
 
-196
-00:35:37,074 --> 00:35:47,947
+152
+00:30:03,364 --> 00:30:14,765
 Nam quamvis
 imago est, tamen incommutabilis est imago (non
 commutata in eo scilicet per dissimilitudinem paternae
 essentiae, ex qua est genitus, natura), quia in
 eo imago paternae essentiae nasceretur.
 
-197
-00:35:47,947 --> 00:36:00,065
+153
+00:30:14,765 --> 00:30:27,470
 Jam vero
 cum primus editus esse totius creaturae docetur,
 et ipse ille semper fuisse in principio apud Deum
@@ -1157,54 +931,54 @@ Verbum Deus dicitur; dum primus editur, natus
 fuisse ostenditur; dum semper fuit, nec tempore separatur
 a 482 Patre.
 
-198
-00:36:00,065 --> 00:36:16,295
+154
+00:30:27,470 --> 00:30:44,485
 Non ergo videri potest divisio substantiarum (supple ab hac synodo) (quae nihil aliud studuit, quam ut per trium substantiarum nomen, triplicis vocabuli excluderet unionem) ad separationem diversae in Filio et in Patre substantiae introducta: cum totius fidei expositio Patrem et Filium, innascibilem
 
-199
-00:36:16,295 --> 00:36:21,434
+155
+00:30:44,485 --> 00:30:49,873
 et unigenitum, nec tempore, nec nomine, nec essentia, nec dignitate, nec dominatione discernat.
 
-200
-00:36:21,434 --> 00:36:33,336
+156
+00:30:49,873 --> 00:31:02,351
 Dignum autem est conscientia
 communi etiam caeteras eorumdem episcoporum
 Orientalium diversis et locis et temporibus conscriptas
 fides noscere, ut per plures confessiones sinceritas
 conscientiae possit intelligi.
 
-201
-00:36:33,336 --> 00:36:38,760
-FIDES SECUNDUM ORIENTIS SYNODUM. (an 347)
+157
+00:31:02,351 --> 00:31:05,207
+FIDES SECUNDUM ORIENTIS SYNODUM
 
-202
-00:36:38,760 --> 00:36:56,603
+158
+00:31:05,207 --> 00:31:24,019
 Sancta synodus in Sardica congregata ex diversis provinciis Orientalium partium, Thebaida, Aegypto, Palaestina, Arabia, Phoenice, Syria Coele, Mesopotamia, Cilicia, Cappadocia, Ponto, Paphlagonia, Galatia, Bithynia, Hellesponto, Asia, Phrygiis duabus, Pisidia, Cycladum insularum, Pamphylia, Caria,
 
-203
-00:36:56,603 --> 00:37:01,453
+159
+00:31:24,019 --> 00:31:29,132
 Lydia, Europa, Thracia, Emimonto, Mysia, Pannoniis duabus, hanc exposuimus fidem.
 
-204
-00:37:01,453 --> 00:37:09,715
+160
+00:31:29,132 --> 00:31:37,843
 34. Credimus in unum Deum patrem omnipotentem,
 creatorem et factorem universorum, ex quo omnis paternitas
 in coelis et in terra nominatur.
 
-205
-00:37:09,715 --> 00:37:27,559
+161
+00:31:37,843 --> 00:31:56,655
 Credimus et in unigenitum ejus filium Dominum nostrum Jesum Christum, qui ante omnia saecula ex Patre genitus est, Deum ex Deo, lumen ex lumine, per quem facta sunt omnia quae in coelis et quae in terra, visibilia et invisibilia: qui est verbum, et sapientia, et virtus, et vita, et lumen verum: et
 
-206
-00:37:27,559 --> 00:37:45,282
+162
+00:31:56,655 --> 00:32:15,340
 qui in novissimis diebus propter nos incarnatus est, et natus ex sancta Virgine, qui crucifixus est, et mortuus, et sepultus, et surrexit ex mortuis tertia die, et receptus in coelo est, et 483 sedet in dextera Patris, venturus judicare vivos et mortuos, et reddere unicuique secundum opera ejus;
 
-207
-00:37:45,282 --> 00:37:48,695
+163
+00:32:15,340 --> 00:32:18,938
 cujus regnum sine cessatione permanet in immensa saecula.
 
-208
-00:37:48,695 --> 00:38:04,981
+164
+00:32:18,938 --> 00:32:36,108
 Sedet enim in dextera Patris non solum
 in hoc saeculo, sed et in futuro. Credimus et in
 Spiritum sanctum, hoc est, paracletum, quem promittens
@@ -1212,109 +986,109 @@ Apostolis post reditum in coelos misit docere
 eos ac memorari omnia, per quem et sanctificantur
 sincere in eum credentium animae.
 
-209
-00:38:04,981 --> 00:38:17,376
+165
+00:32:36,108 --> 00:32:49,175
 Eos autem,
 qui dicunt de non exstantibus esse filium Dei, vel
 ex alia substantia, et non ex Deo, et quod erat aliquando
 tempus aut saeculum quando non erat, alienos
 novit sancta et catholica Ecclesia.
 
-210
-00:38:17,376 --> 00:38:31,794
+166
+00:32:49,175 --> 00:33:06,567
 Similiter et eos, qui dicunt tres esse deos; vel Christum non esse Deum et ante saecula, neque Christum, neque filium eum esse Dei; vel eum ipsum esse Patrem et Filium et sanctum Spiritum, vel innascibilem filium; vel quod neque consilio neque voluntate Pater genuerit Filium: anathematizat sancta et
 
-211
-00:38:31,794 --> 00:38:32,707
+167
+00:33:06,567 --> 00:33:07,668
 catholica Ecclesia.
 
-212
-00:38:32,707 --> 00:38:45,059
-Fides haec Filii originem aeternam statuit. Eamque
+168
+00:33:07,668 --> 00:33:22,798
+35. Fides haec Filii originem aeternam statuit. Eamque
 ex Dei substantia. ---Brevibus expositio fidei
 hujus, sed absolutissimis usa est definitionibus. Nam
 condemnans eos, qui de non exstantibus esse Filium
 dicerent, originem ei non coeptam, sed manentem
 dedit.
 
-213
-00:38:45,059 --> 00:38:59,333
+169
+00:33:22,798 --> 00:33:40,016
 Ac ne haec origo ejus, ex qua natus est manens, alia potius quam Dei intelligeretur esse substantia; etiam eos blasphemos pronuntiat, qui ex alia aliqua substantia, et non ex Deo Filium natum esse loquerentur: atque ita cum non ex nihilo substitit, neque aliunde quam ex Deo quod est exstitit, non
 
-214
-00:38:59,333 --> 00:39:07,648
+170
+00:33:40,016 --> 00:33:50,045
 potest ambigi in his natus esse quae Dei sunt; quia neque de non exstantibus, neque alia quam de innascibili Patris et aeterna substantia unigenita Filii generatur essentia.
 
-215
-00:39:07,648 --> 00:39:18,750
+171
+00:33:50,045 --> 00:34:03,668
 Respuit vero et intervalla temporum
 ac saeculorum: ut qui per naturam non differt,
-non possit separabilis esse per tempus. Deus non nisi unus est; quatenus dicantur plures. Fides superior unam Patris ac Filii substantiam
+non possit separabilis esse per tempus. 36. Deus non nisi unus est; quatenus dicantur plures. Fides superior unam Patris ac Filii substantiam
 praedicat.
 
-216
-00:39:18,750 --> 00:39:26,007
+172
+00:34:03,668 --> 00:34:12,421
 ---Ex omni autem parte, qua se circumagere
 sollicitudo potuit, haereticorum ingeniis aditus
 obstruitur, ne quid esse diversitatis praedicetur in
 Filio.
 
-217
-00:39:26,007 --> 00:39:40,185
+173
+00:34:12,421 --> 00:34:29,523
 Anathematizat namque eos, qui tres deos dicant: quia secundum 484 naturae veritatem, numerum nuncupationum substantia ista non recipit, nisi ut in hominibus atque Angelis solet, cum nomen tribuitur ex honore meritorum, naturae tamen inter eos et Deum differente substantia; et idcirco dii plures
 
-218
-00:39:40,185 --> 00:39:40,425
+174
+00:34:29,523 --> 00:34:29,812
 sunt.
 
-219
-00:39:40,425 --> 00:39:51,624
+175
+00:34:29,812 --> 00:34:43,319
 Caeterum in natura Dei Deus unus est; ita
 tamen, ut et Filius Deus sit, quia in eo natura non
 differens sit: et cum Deus ex Deo sit, non potest
 non uterque Deus esse, quorum per generis indifferentiam
 non discernatur essentia.
 
-220
-00:39:51,624 --> 00:39:56,350
+176
+00:34:43,319 --> 00:34:48,593
 Numerus autem
 nominis in nuncupatione respuitur; quia non est in
 naturae qualitate diversitas.
 
-221
-00:39:56,350 --> 00:40:11,084
+177
+00:34:48,593 --> 00:35:05,031
 Cum igitur anathema sit deos dicens, et anathema sit Filium Deum denegans; absolute ostenditur unius ad utrumque nominis unitatem de proprietate indifferentis esse substantiae: cum in confessione innascibilis Dei patris et unigeniti Dei filii, neutro a se dissimilitudine essentiae differente,
 
-222
-00:40:11,084 --> 00:40:14,654
+178
+00:35:05,031 --> 00:35:09,015
 uterque cum Deus sit, Deus tamen unus et credendus sit et praedicandus.
 
-223
-00:40:14,654 --> 00:40:26,321
+179
+00:35:09,015 --> 00:35:22,255
 Sollicita itaque
 multum diligentique cautela episcoporum fides
 munit naturae genitae et gignentis indifferentiam nominis
-unione confirmans. Non tamen fides solitarium Deum, Filium recte
+unione confirmans. 37. Non tamen fides solitarium Deum, Filium recte
 docet innascibilem. Qui ex voluntate nascatur.
 
-224
-00:40:26,321 --> 00:40:41,306
+180
+00:35:22,255 --> 00:35:38,973
 ---Tamen ne rursum unius Dei praedicatio unicam ac sine progenie sua solitarii Dei velit affirmare substantiam; statim hanc condemnat temeritatem, quae quia Deus unus est, unum ac solitarium Deum patrem, habentem in se nomen et patris et filii confiteretur: cum in generante Patre et nascente Filio
 
-225
-00:40:41,306 --> 00:40:45,178
+181
+00:35:38,973 --> 00:35:43,293
 Deus unus esset ob indifferentis ab invicem naturae substantiam praedicandus.
 
-226
-00:40:45,178 --> 00:40:56,794
+182
+00:35:43,293 --> 00:35:56,253
 Innascibilem quoque Filium sanctorum fides
 nescit: quia natura Filii nisi ex nativitate non
 exstat. Nativitatis autem in eo adeo perfecta natura
 est, ut qui ex substantia Dei natus est, etiam ex consilio
 ejus ac voluntate nascatur.
 
-227
-00:40:56,794 --> 00:41:09,768
+183
+00:35:56,253 --> 00:36:10,727
 Ex voluntate enim
 atque consilio, non ex corporalis passione naturae,
 essentiae Dei de essentia Dei genitae absoluta perfectio
@@ -1322,35 +1096,31 @@ est. Consequens autem est, ut eam nunc fidem
 retractemus, quae non olim cum Photinus episcopatu
 dejectus est, conscripta est.
 
-228
-00:41:09,768 --> 00:41:15,720
+184
+00:36:10,727 --> 00:36:22,535
 485 Exemplum fidei Sirmio ab Orientalibus
-contra Photinum scriptae (ann 351).
-
-229
-00:41:15,720 --> 00:41:22,635
-Credimus in unum Deum patrem omnipotentem,
+contra Photinum scriptae (ann 351). 38. Credimus in unum Deum patrem omnipotentem,
 creatorem et conditorem, ex quo omnis paternitas
 in coelo et in terris nominatur.
 
-230
-00:41:22,635 --> 00:41:34,013
+185
+00:36:22,535 --> 00:36:34,228
 Et in unicum
 ejus Filium Dominum nostrum Jesum Christum, qui
 ante omnia saecula ex Patre natus est, Deum ex Deo,
 lumen ex lumine, per quem facta sunt omnia in coelis
 et in terra, visibilia et invisibilia.
 
-231
-00:41:34,013 --> 00:41:50,690
+186
+00:36:34,228 --> 00:36:51,366
 Qui est verbum, et sapientia, et virtus, et vita, et lumen verum: qui in novissimis diebus propter nos incorporatus est, et natus de sancta Virgine, et crucifixus, et mortuus est, et sepultus: qui et surrexit ex mortuis tertia die, et adscendit in coelum, et sedet in dextera Patris, et venturus est
 
-232
-00:41:50,690 --> 00:41:59,502
+187
+00:36:51,366 --> 00:37:00,422
 in consummatione saeculi judicare vivos et mortuos, et reddere unicuique secundum opera sua: cujus regnum sine fine perseverans, permanet in perpetua saecula.
 
-233
-00:41:59,502 --> 00:42:15,843
+188
+00:37:00,422 --> 00:37:17,216
 Erit
 enim sedens in dextera Patris, non solum in hoc saeculo,
 verum etiam et in futuro. Et in Spiritum sanctum,
@@ -1359,16 +1129,16 @@ postea quam coelum adscendit, misit docere eos, et
 commonere omnia, per quem et sanctificantur credentium
 in eum sinceriter animae. I.
 
-234
-00:42:15,843 --> 00:42:30,121
+189
+00:37:17,216 --> 00:37:31,889
 Eos autem qui dicunt: De nullis exstantibus
 Filius, vel de altera substantia, et non ex Deo; et
 quod erat tempus vel saeculum quando non erat:
 alienos scit sancta et catholica Ecclesia. II. Si quis autem Patrem et Filium duos dicit
 deos: anathema sit. III.
 
-235
-00:42:30,121 --> 00:42:43,786
+190
+00:37:31,889 --> 00:37:45,932
 Et si quis, unum dicens Deum, Christum
 autem Deum ante saecula filium Dei obsecutum Patri
 in creatione omnium non confitetur: anathema
@@ -1376,24 +1146,24 @@ sit. IV. Et si quis innascibilem Deum, vel partem
 ejus, de Maria natum esse audet 486 dicere: anathema
 sit. V.
 
-236
-00:42:43,786 --> 00:42:58,176
+191
+00:37:45,932 --> 00:38:00,719
 Et si quis secundum praescientiam vel
 praedestinationem a Maria dicit Filium esse, et non
 ante saecula ex Patre natum apud Deum esse, et per
 eum facta esse omnia: anathema sit. VI. Si quis substantiam Dei dilatari et contrahi
 dicit: anathema sit. VII.
 
-237
-00:42:58,176 --> 00:43:14,339
+192
+00:38:00,719 --> 00:38:19,145
 Si quis dilatatam substantiam Dei filium dicat
 facere; aut latitudinem substantiae ejus, sicuti
 sibi videtur, Filium nominet: anathema sit. VIII. Si quis insitum vel prolativum verbum Dei
 filium dicat: anathema sit. IX. Si quis hominem solum dicit de Maria Filium:
 anathema sit. X.
 
-238
-00:43:14,339 --> 00:43:29,180
+193
+00:38:19,145 --> 00:38:36,062
 Si quis Deum et hominem de Maria natum dicens,
 Deum innascibilem sic intelligit: anathema
 sit. XI. Si quis Verbum caro factum est (Joan I 14),
@@ -1401,39 +1171,39 @@ audiens, Verbum in carnem translatum putet, vel
 demutationem sustinentem accepisse carnem dicit:
 anathema sit. XII.
 
-239
-00:43:29,180 --> 00:43:40,858
+194
+00:38:36,062 --> 00:38:49,372
 Si quis unicum filium Dei crucifixum audiens,
-dealitatem (θεότητα) ejus corruptionem vel passibilitatem
-(πάθος) aut demutationem aut deminutionem
+dealitatem (θεοτητα) ejus corruptionem vel passibilitatem
+(παθος) aut demutationem aut deminutionem
 vel interfectionem sustinuisse dicat: anathema sit. XIII.
 
-240
-00:43:40,858 --> 00:43:54,663
+195
+00:38:49,372 --> 00:39:05,109
 Si quis, Faciamus hominem (Gen I 26),
 non Patrem ad Filium dixisse, sed ipsum ad semetipsum
 dicat Deum locutum: anathema sit. XIV. Si quis filium non dicat Abrahae visum
 (Gen XVIII), sed Deum innascibilem, vel partem
 ejus: anathema sit. XV.
 
-241
-00:43:54,663 --> 00:44:09,677
+196
+00:39:05,109 --> 00:39:22,223
 Si quis cum Jacob non Filium quasi hominem
 colluctatum (Gen XXXII 24), sed Deum innascibilem,
 vel partem ejus dicat: anathema sit. XVI. Si quis, Pluit Dominus a Domino (Gen.
 XIX, 24), non de Filio et Patre intelligat, sed ipsum
 a se dicat pluisse: anathema sit.
 
-242
-00:44:09,677 --> 00:44:22,849
+197
+00:39:22,223 --> 00:39:37,239
 Pluit enim Dominus
 Filius a Domino Patre. XVII. Si quis Dominum et Dominum 487
 Patrem et Filium (quia Dominus a Domino ), duos dicat deos: anathema sit. Non enim
 exaequamus vel comparamus Filium Patri, sed
 subjectum intelligimus.
 
-243
-00:44:22,849 --> 00:44:40,106
+198
+00:39:37,239 --> 00:39:56,910
 Neque enim descendit in
 Sodomam sine Patris voluntate; neque pluit ex se,
 sed a Domino, auctoritate scilicet Patris; nec sedet
@@ -1441,26 +1211,26 @@ in dextera a semetipso, sed audit dicentem Patrem,
 Sede ad dexteram meam (Psal CIX 1). XVIII. Si quis Patrem et Filium et Spiritum
 sanctum unam personam dicat: anathema sit.
 
-244
-00:44:40,106 --> 00:44:45,744
+199
+00:39:56,910 --> 00:40:03,335
 XIX. Si quis Spiritum sanctum paracletum
 dicens, innascibilem Deum dicat: anathema sit. XX.
 
-245
-00:44:45,744 --> 00:45:00,716
+200
+00:40:03,335 --> 00:40:19,262
 Si quis, sicuti docuit nos Dominus, non
 alium dicat Paracletum a Filio; dixit enim: Et alterum
 paracletum mittet vobis Pater, quem rogabo
 ego (Joan XIV 16): anathema sit. XXI. Si quis Spiritum sanctum partem dicat Patris
 vel Filii: anathema sit. XXII.
 
-246
-00:45:00,716 --> 00:45:05,608
+201
+00:40:19,262 --> 00:40:24,465
 Si quis Patrem et Filium et Spiritum sanctum
 tres dicat deos: anathema sit. XXIII.
 
-247
-00:45:05,608 --> 00:45:20,640
+202
+00:40:24,465 --> 00:40:40,455
 Si quis, quod dictum est: Ego Deus primus,
 et ego Deus novissimus, et praeter me non est
 Deus (Esai XLIV 6), ad destructionem idolorum
@@ -1468,80 +1238,80 @@ dictum et eorum qui non sunt dii, in destructionem
 unigeniti ante saecula Dei judaice intelligat:
 anathema sit. XXIV.
 
-248
-00:45:20,640 --> 00:45:29,707
+203
+00:40:40,455 --> 00:40:50,100
 Si quis voluntate Dei, tamquam unum aliquid
 de creatura, factum dicat Filium: anathema
 sit. XXV. Si quis nolente Patre natum dicat Filium:
 anathema sit.
 
-249
-00:45:29,707 --> 00:45:40,504
+204
+00:40:50,100 --> 00:41:01,585
 Non enim nolente Patre coactus
 Pater, vel naturali necessitate ductus, cum nollet
 genuit Filium: sed mox voluit, sine tempore et
 impassibiliter ex se eum genitum demonstravit. XXVI.
 
-250
-00:45:40,504 --> 00:45:49,452
+205
+00:41:01,585 --> 00:41:11,103
 Si quis innascibilem et sine initio dicat
 Filium, tamquam duo sine principio et duo innascibilia
 et duo innata dicens: duos faciat deos: anathema
 sit.
 
-251
-00:45:49,452 --> 00:46:01,144
+206
+00:41:11,103 --> 00:41:23,540
 Caput enim, quod est principium omnium, Filius;
 caput autem, quod est principium Christi, Deus:
 488 ita enim ad unum qui est sine principio omnium
 principium, per Filium universa referimus. XXVII.
 
-252
-00:46:01,144 --> 00:46:18,861
+207
+00:41:23,540 --> 00:41:42,385
 Et iterum confirmantes Christianismi intellectum, dicimus, quoniam si quis Christum Deum filium Dei ante saecula subsistentem et ministrantem Patri ad omnium perfectionem non dicat: sed ex quo de Maria natus est, ex eo et Christum et filium nominatum esse, et initium accepisse ut sit Deus, dicat:
 
-253
-00:46:18,861 --> 00:46:19,696
+208
+00:41:42,385 --> 00:41:43,274
 anathema sit .
 
-254
-00:46:19,696 --> 00:46:22,560
+209
+00:41:43,274 --> 00:41:46,319
 39. Photini fraus multiplex retunditur.
 
-255
-00:46:22,560 --> 00:46:25,387
+210
+00:41:46,319 --> 00:41:49,247
 Filius a Patre
 nec substantia differt nec tempore.
 
-256
-00:46:25,387 --> 00:46:42,237
+211
+00:41:49,247 --> 00:42:06,697
 ---Necessitas et tempus admonuit eos, qui tum convenerant, per multiplices quaestiones latius ac diffusius expositionem fidei ordinare; quia multis et occultis cuniculis in catholicam domum ea, quae per Photinum renovabatur, haeresis tentaret irrepere: ut per singula genera intemeratae et illaesae
 
-257
-00:46:42,237 --> 00:46:51,059
+212
+00:42:06,697 --> 00:42:15,832
 fidei, unicuique generi haereticae ac furtivae fraudulentiae contrairetur; essentque tot fidei absolutiones, quotidem essent quaesitae perfidiae occasiones.
 
-258
-00:46:51,059 --> 00:46:58,862
+213
+00:42:15,832 --> 00:42:23,912
 Ac primum post generalem illam atque
 indubitatam sacramentorum expositionem, hinc exponendae
 fidei adversum haereticos coepit exordium. I.
 
-259
-00:46:58,862 --> 00:47:09,492
+214
+00:42:23,912 --> 00:42:34,921
 Eos autem qui dicunt: De nullis exstantibus
 Filius, vel de altera substantia et non ex Deo; et
 quod erat tempus vel saeculum quando non erat:
 alienos scit sancta et catholica Ecclesia. 40.
 
-260
-00:47:09,492 --> 00:47:17,070
+215
+00:42:34,921 --> 00:42:42,767
 Quis hic ambiguitatis locus? aut quid ex sincerae
 fidei conscientia reliquum est? Non est de non
 exstantibus: ut ei exstans origo sit.
 
-261
-00:47:17,070 --> 00:47:31,658
+216
+00:42:42,767 --> 00:42:57,875
 Non est exstans ei
 ad originem substantia aliqua alia, nisi sola quae Dei
 est: ut in eo nihil aliud natum esse possit, quam
@@ -1549,8 +1319,8 @@ omne quod Dei sit; quia non ex nihilo exstans,
 aliunde non subsistit. Non differt in tempore: ut cum
 Patre sit intemporalis et Filius.
 
-262
-00:47:31,658 --> 00:47:48,170
+217
+00:42:57,875 --> 00:43:14,973
 Inseparabilia itaque
 inter innascibilem Patrem et unigenitum Filium
 cuncta sunt, quos in tempore pares ipsa illa unius
@@ -1558,15 +1328,15 @@ tantum paternae exsistentis, ex qua nativitas sumitur,
 indifferentia in nullo discernat essentiae. 489 II. Si quis autem Patrem et Filium duos
 dicit deos: anathema sit. III.
 
-263
-00:47:48,170 --> 00:48:04,512
+218
+00:43:14,973 --> 00:43:31,895
 Et si quis unum dicens Deum, Christum autem
 Deum ante saecula filium Dei obsecutum Patri in
 creatione omnium non confitetur: anathema sit. 41. Ut essentiae nomine, ita sunt unum essentiae genere. ---Rerum nobis absolutam intelligentiam ipsa
 illa nominis religiosa professio tribuit.
 
-264
-00:48:04,512 --> 00:48:21,392
+219
+00:43:31,895 --> 00:43:47,692
 Cum enim in
 damnatione sit, Patrem et Filium duos deos dicere;
 et rursum anathema sit, Filium Deum negare: substantiae
@@ -1575,8 +1345,8 @@ diis duobus excluditur. Non enim est alia,
 praeter illam Dei patris ex qua Dei filius Deus intemporalis
 est natus, essentia.
 
-265
-00:48:21,392 --> 00:48:38,617
+220
+00:43:47,692 --> 00:44:03,811
 Nam cum necessario Deum
 patrem confitemur, et absolute Christum Dei filium
 Deum praedicamus, et inter haec duum deorum sit
@@ -1585,14 +1355,14 @@ indifferentiam et nomen indifferens, non unum esse
 in essentiae genere, quorum essentiae nomen non
 licet esse nisi unum. IV.
 
-266
-00:48:38,617 --> 00:48:50,560
+221
+00:44:03,811 --> 00:44:14,987
 Si quis innascibilem Deum, vel partem ejus,
 de Maria natum esse audet dicere: anathema sit. 42. Filii et Patris non una persona. Contra eos qui
 asserunt Filium ante Mariam non esse nisi per praedestinationem.
 
-267
-00:48:50,560 --> 00:49:06,292
+222
+00:44:14,987 --> 00:44:29,708
 ---Ne quod nuncupatae essentiae in Patre
 et Filio, per indissimilem naturam, nomen unum
 est, occasionem haereticis praestaret, ut innascibilem
@@ -1600,31 +1370,31 @@ Deum, vel partem ejus, nasci de Maria praedicarent;
 occursum est salutaris definitione sententiae, ut anathema
 esset hoc confitens.
 
-268
-00:49:06,292 --> 00:49:22,886
+223
+00:44:29,708 --> 00:44:45,236
 Non enim religiosa unitas nominis, ex indifferentis naturae essentia constituta, personam genitae ademit essentiae, ut unici ac singularis Dei substantia per unionem nominis intelligatur: cum utriusque essentiae nomen unum, id est, Deus unus, ob indiscretae in utroque naturae indissimilem
 
-269
-00:49:22,886 --> 00:49:24,264
+224
+00:44:45,236 --> 00:44:46,526
 substantiam praedicetur.
 
-270
-00:49:24,264 --> 00:49:34,944
+225
+00:44:46,526 --> 00:44:56,519
 V. Si quis secundum praescientiam et praedestinationem
 ante Mariam dicit Filium esse, non ante
 saecula ex Patre natum apud Deum esse, et per eum
 facta esse omnia: anathema sit. 43.
 
-271
-00:49:34,944 --> 00:49:50,205
+226
+00:44:56,519 --> 00:45:13,504
 Deum omnium nostrum Dei filium, ante quam corporeus nascitur, negaturi tamen secundum praescientiam et praedestinationem, non secundum naturae subsistentis essentiam, fuisse confirmant: id est, ut per praescientiam Patris, quia eum praedestinavit ut esset aliquando, scilicet gignendus ex virgine,
 
-272
-00:49:50,205 --> 00:50:03,309
+227
+00:45:13,504 --> 00:45:28,086
 nuntiatus nobis fuerit potius, quam ante saecula in naturae divinae substantia natus exstiterit: utque omnia, quae ipse in prophetis de corporationis suae ac passionis sacramentis locutus est, ipsa illa secundum praescientiam 490 de eo a Patre sint dicta.
 
-273
-00:50:03,309 --> 00:50:17,954
+228
+00:45:28,086 --> 00:45:44,384
 Itaque doctrinae hujus
 perversitas condemnatur: ut cognitus nobis unigenitus
 Dei filius, natus potius ex Patre ante saecula, et
@@ -1632,51 +1402,51 @@ ipsa saecula cum creaturis omnibus condens, quam
 praedestinatus sit esse gignendus. VI. Si quis substantiam Dei dilatari et contrahi
 dicit: anathema sit. 44.
 
-274
-00:50:17,954 --> 00:50:30,852
+229
+00:45:44,384 --> 00:45:58,738
 Dilatatio et contractio in Deum non cadunt. Nec
 Filius est divinae substantiae dilatatio. ---Contrahi et
 dilatari, corporalis est passio: Deus autem, qui spiritus
 est, et spirat ubi vult, non se per demutationem
 substantiae aut dilatat, aut contrahit.
 
-275
-00:50:30,852 --> 00:50:41,026
+230
+00:45:58,738 --> 00:46:10,061
 Extra corporalis
 enim naturae necessitatem liber manens, quod vult,
 et cum vult, et ubi vult, id praestat ex sese. Impium
 ergo est substantiae demutationem libertati tantae
 virtutis adscribere. VII.
 
-276
-00:50:41,026 --> 00:50:52,897
+231
+00:46:10,061 --> 00:46:23,271
 Si quis dilatatam substantiam Dei Filium
 dicat facere, aut latitudinem substantiae ejus Filium
 nominet: anathema sit. 45. Superior sententia, etsi indemutabilem Deum
 docere voluerit, ad hanc se tamen sequentem haeresim
 praeparavit.
 
-277
-00:50:52,897 --> 00:51:08,313
+232
+00:46:23,271 --> 00:46:40,427
 Quidam enim ausi sunt innascibilem Deum usque ad sanctam Virginem substantiae dilatatione protendere (Vid. lib. I de Trinit. n. 16 et lib. X, n. 50): ut latitudo deducta quodam naturae suae tractu assumensque hominem filius nuncuparetur; neque Filius ante saecula perfectus Deus natus, idem postea et
 
-278
-00:51:08,313 --> 00:51:09,083
+233
+00:46:40,427 --> 00:46:41,285
 homo natus sit.
 
-279
-00:51:09,083 --> 00:51:15,096
+234
+00:46:41,285 --> 00:46:47,975
 Totum hoc itaque
 catholica fides damnat, in quo et demutabilis Pater
 dicitur, et natus Filius abnegatur. VIII.
 
-280
-00:51:15,096 --> 00:51:23,931
+235
+00:46:47,975 --> 00:46:57,656
 Si quis insitum et prolativum verbum Dei
 filium dicat: anathema sit. 46. Haeretici quo sensu filium Dei verbum praedicent. Filius de Maria Deus et homo.
 
-281
-00:51:23,931 --> 00:51:41,312
+236
+00:46:57,656 --> 00:47:16,700
 ---Haeretici perimentes,
 quantum in ipsis est, Dei filium, verbum esse tantum
 confitentur, prodeuntem scilicet loquentis ore sermonem,
@@ -1685,8 +1455,8 @@ ut Deo patri istius modi sit verbum Filius,
 cujusmodi per insitam nobis loquendi naturam verbum
 omne profertur in vocem.
 
-282
-00:51:41,312 --> 00:51:57,879
+237
+00:47:16,700 --> 00:47:34,852
 Fraus ergo haec omnis
 in damnatione est: quae Deum Verbum, quod in
 principio apud Deum erat, tanquam verbum esse insitae
@@ -1694,8 +1464,8 @@ ac prolatae vocis affirmet. IX. Si quis hominem solum dicat de Maria Filium:
 anathema sit. Filium Dei de Maria non praedicamus, nisi et hominem
 et Deum praedicemus.
 
-283
-00:51:57,879 --> 00:52:13,632
+238
+00:47:34,852 --> 00:47:52,112
 Sed ne id, quod
 Deum et hominem praedicamus, fraudis habeat occasionem,
 continuo subjecit. X. Si quis Deum et hominem de Maria natum
@@ -1703,29 +1473,29 @@ dicens, Deum innascibilem sic intelligit: anathema
 sit. 47. Filius sola nativitate a Patre discernitur. Carnem
 assumens non demutatus est.
 
-284
-00:52:13,632 --> 00:52:16,538
+239
+00:47:52,112 --> 00:47:55,296
 ---Conservatur substantiae
 et nomen et 491 virtus.
 
-285
-00:52:16,538 --> 00:52:33,919
+240
+00:47:55,296 --> 00:48:14,340
 Cum enim in anathemate sit, qui ex Maria Dei filium hominem sine Deo dixerit; et in eodem judicio sit, qui in homine innascibilem Deum dixerit: non Deus is, qui in homine est, non esse Deus dicitur; sed Deus innascibilis abnegatur, Patre a Filio non naturae nomine, quia nec diversitate substantiae,
 
-286
-00:52:33,919 --> 00:52:36,651
+241
+00:48:14,340 --> 00:48:17,333
 sed sola innascibilitatis auctoritate discreto.
 
-287
-00:52:36,651 --> 00:52:48,684
+242
+00:48:17,333 --> 00:48:30,517
 XI. Si quis Verbum caro factum est audiens,
 Verbum in carnem translatum putet, vel demutationem
 sustinentem accepisse carnem dicat: anathema
 sit. 48. Filio Dei crucifixo corruptionem non est perpessa
 deitas.
 
-288
-00:52:48,684 --> 00:53:04,728
+243
+00:48:30,517 --> 00:48:48,095
 ---Conservatur dignitas divinitatis: ut in
 eo, quod Verbum caro factum est, dum Verbum caro
 fit, non amiserit per carnem quod erat Verbum, neque
@@ -1733,8 +1503,8 @@ translatum in carnem sit, ut Verbum esse
 desineret; sed Verbum caro factum est, ut caro potius
 hoc inciperet esse quod Verbum.
 
-289
-00:53:04,728 --> 00:53:18,079
+244
+00:48:48,095 --> 00:49:04,188
 Alioquin
 unde carni in operibus virtutes, in monte gloriam,
 in cogitationibus humanorum cordium scientiam, in
@@ -1742,31 +1512,31 @@ passione securitatem, in morte vitam? Sed demutationem
 Deus nesciens, nihil ex substantiae suae bonis
 caro factus amisit. XII.
 
-290
-00:53:18,079 --> 00:53:31,656
+245
+00:49:04,188 --> 00:49:20,554
 Si quis unicum Filium Dei crucifixum audiens,
 dealitatem ejus corruptionem vel passibilitatem aut
 demutationem vel deminutionem vel interfectionem
 sustinuisse dicat: anathema sit. 49. Passibilitas et passio quid. Filium patribus visum
 esse.
 
-291
-00:53:31,656 --> 00:53:44,781
+246
+00:49:20,554 --> 00:49:36,374
 ---Absolute ostenditur, cur Verbum, licet
 caro factum sit, non tamen translatum fuerit in carnem. Cum enim haec passionum genera infirmitatem
 carnis afficiant, Deus tamen Verbum caro factus non
 potuit a se demutabilis esse patiendo.
 
-292
-00:53:44,781 --> 00:53:58,075
+247
+00:49:36,374 --> 00:49:52,399
 Non enim
 id ipsum est, pati et demutari: quia omnem carnem
 passio cujusque generis demutet sensu, dolore, tolerantia. Verbum autem, quod caro factum est,
 licet se passioni subdiderit; 492 non tamen demutatum
 est passibilitate patiendi.
 
-293
-00:53:58,075 --> 00:54:14,255
+248
+00:49:52,399 --> 00:50:11,901
 Nam pati potuit,
 et passibile esse non potuit: quia passibilitas naturae
 infirmis significatio est; passio autem est eorum quae
@@ -1774,51 +1544,51 @@ sint illata perpessio: quae quia indemutabilis Deus
 est, cum tamen Verbum caro factum sit, habuerunt
 in eo passionis materiam sine passibilitatis infirmitate.
 
-294
-00:54:14,255 --> 00:54:29,247
+249
+00:50:11,901 --> 00:50:29,971
 Manet itaque indemutabilis etiam in passione natura;
 quia auctori suo indifferens ex impassibilis essentiae
 nata substantia est. XIII. Si quis, Faciamus hominem (Gen I 26),
 non Patrem ad Filium dixisse, sed ipsum ad semetipsum
 dicat Deum locutum: anathema sit. XIV.
 
-295
-00:54:29,247 --> 00:54:43,107
+250
+00:50:29,971 --> 00:50:46,678
 Si quis Filium non dicat Abrahae visum
 (Gen XVII 1), sed Deum innascibilem vel partem
 ejus: anathema sit. XV. Si quis cum Jacob non Filium, quasi hominem
 colluctatum (Gen XXXII 26), sed Deum innascibilem
 vel partem ejus dicat: anathema sit. XVI.
 
-296
-00:54:43,107 --> 00:54:53,064
+251
+00:50:46,678 --> 00:50:58,679
 Si quis, Pluit Dominus a Domino (Gen. XIX,
 4), non de Filio et Patre intelligat, sed ipsum a se
 pluisse dicat: anathema sit. Pluit enim Dominus Filius
 a Domino Patre. 50.
 
-297
-00:54:53,064 --> 00:54:54,109
+252
+00:50:58,679 --> 00:50:59,872
 Photini sententia.
 
-298
-00:54:54,109 --> 00:55:11,250
+253
+00:50:59,872 --> 00:51:19,411
 ---Haec quia Photinus, adversus quem tum conventum erat, negabat, inserenda fidei fuerunt: ne quis auderet non ante Dei filium quam virginis filium praedicare, et superiora omnia, quae propria Dei filio sunt, stultissima haereticae insaniae perversitate Deo innascibili coaptaret; et dum haec ad
 
-299
-00:55:11,250 --> 00:55:13,865
+254
+00:51:19,411 --> 00:51:22,391
 Patrem referret, Filio substantiam denegaret.
 
-300
-00:55:13,865 --> 00:55:28,797
+255
+00:51:22,391 --> 00:51:39,414
 Quae quia absoluta sunt, necessitatem nobis interpretandi
 non reliquerunt. XVII. Si quis Dominum et Dominum Patrem
 et Filium (quia Dominus a Domino), duos dicat deos:
 anathema sit. Non enim exaequamus vel comparamus
 Filium Patri, sed subjectum intelligimus.
 
-301
-00:55:28,797 --> 00:55:43,904
+256
+00:51:39,414 --> 00:51:56,635
 Neque
 493 enim descendit in Sodomam sine Patris voluntate;
 neque pluit ex sese, sed a Domino, auctoritate
@@ -1826,70 +1596,70 @@ scilicet Patris; nec sedet in dextera a semetipso,
 sed audit dicentem Patrem, Sede ad dexteram
 meam (Ps CIX 1). 51. Definitio haec a suspicione liberatur.
 
-302
-00:55:43,904 --> 00:55:57,501
+257
+00:51:56,635 --> 00:52:12,133
 Filius quatenus
 Patri non aequandus, manente naturae aequalitate. ---Et superiora et consequentia suspicionem, si qua
 esse in his dictis videbitur, penitus excludunt, ne
 diversitas dissimilium deitatum in Domino et Domino
 praedicetur.
 
-303
-00:55:57,501 --> 00:56:06,216
+258
+00:52:12,133 --> 00:52:22,069
 Et in eo non comparatur, quia duos deos
 dici impium sit: non autem idcirco non comparatur
 vel exaequatur Filius Patri, ne Deus ipse non esse
 credatur.
 
-304
-00:56:06,216 --> 00:56:23,531
+259
+00:52:22,069 --> 00:52:41,806
 Cum enim anathema sit Christum Deum denegans, non potest idcirco profanum videri, duos deos connominari, ne et Christus Deus praedicetur; cum per essentiae naturalis proprietatem idcirco Deus unus est, quia ex innascibili Deo patre, qui unus est Deus, unigenitus filius Deus natus, non aliunde quam
 
-305
-00:56:23,531 --> 00:56:32,305
+260
+00:52:41,806 --> 00:52:51,808
 ex Deo habeat esse quod Deus est: et indifferenti ejus qui genitus est ab eo qui genuit essentia, non potest non indifferentis unum nomen esse naturae.
 
-306
-00:56:32,712 --> 00:56:49,083
+261
+00:52:52,271 --> 00:53:07,662
 Et vel in eo quidem maxime non comparatur nec coaequatur Filius Patri, dum subditus per obedientiae obsequelam est, dum pluit Dominus a Domino, ne a se ipse secundum Photinum aut Sabellium pluerit, ut Dominus a Domino; dum ad dexteram Dei tum consedit, cum sibi ut consideret dictum sit; dum
 
-307
-00:56:49,083 --> 00:56:53,415
+262
+00:53:07,662 --> 00:53:11,735
 mittitur, dum accipit, dum in omnibus voluntati ejus qui se misit obsequitur.
 
-308
-00:56:53,415 --> 00:57:10,011
+263
+00:53:11,735 --> 00:53:27,337
 Sed pietatis subjectio non est essentiae diminutio, nec religionis officium degenerem efficit naturam: cum per id, quod cum et innascibilis pater Deus est, et unigenitus filius Dei Deus est, Deus tamen unus sit; et subjectio filii doceatur et dignitas, dum et ipsi illi nomini Filius nuncupandus
 
-309
-00:57:10,011 --> 00:57:13,837
+264
+00:53:27,337 --> 00:53:30,933
 subjicitur, quod cum Dei patris sit, tamen sibi ex natura sit nomen.
 
-310
-00:57:13,837 --> 00:57:30,096
+265
+00:53:30,933 --> 00:53:46,218
 Habens nomen, sed ejus cujus et filius
 est, fit Patri et obsequio subjectus et nomine; ita
 tamen, ut subjectio nominis proprietatem naturalis
 atque indifferentis testetur essentiae. 494 XVIII. Si quis Patrem et Filium unam personam
 dicit: anathema sit. 52. Pater et Filius non una persona.
 
-311
-00:57:30,096 --> 00:57:46,917
+266
+00:53:46,218 --> 00:54:02,032
 ---Non habet
 necessitatem contradicendi sibi absoluta perversitas:
 et tamen stultus quorumdam furor in id prorupit, ut
 personam unam duum nominum ausus sit praedicare. XIX. Si quis Spiritum sanctum paracletum dicens,
 innascibilem Deum dicat: anathema sit. 53. Spiritus sanctus non innascibilis Deus.
 
-312
-00:57:46,917 --> 00:57:58,957
+267
+00:54:02,032 --> 00:54:13,350
 Alius est
 a Filio. ---Adjectio nunc Paracleti, anathemati obnoxiam
 facit innascibilis in eo Dei praedicationem. Impiissimum enim est, innascibilem Deum eum dici,
 qui ad consolationem nostram est missus a Filio. XX.
 
-313
-00:57:58,957 --> 00:58:14,034
+268
+00:54:13,350 --> 00:54:27,524
 Si quis, sicuti docuit nos Dominus, non alium
 dicat Paracletum a Filio; dixit enim: Et alterum Paracletum
 mittet vobis Pater, quem rogabo ego: anathema
@@ -1897,85 +1667,85 @@ sit. 54. Cur dicatur mitti a Patre. ---A Filio Paracletum
 missum meminimus, et in principio hoc fides ipsa
 exposuit.
 
-314
-00:58:14,034 --> 00:58:22,080
+269
+00:54:27,524 --> 00:54:35,087
 Sed quia frequenter Filius per indifferentis
 natutae virtutem opera sua opera Patris esse dixit,
 dicens: Ego opera Patris mei facio (Joan.
 
-315
-00:58:22,080 --> 00:58:37,689
+270
+00:54:35,087 --> 00:54:52,396
 X, 37), missurus quoque Paracletum, sicuti frequenter spopondit, interdum eum et mittendum dixit a Patre, dum omne quod ageret, pie referre est solitus ad Patrem. Ex quo haeretici occasionem frequenter arripiunt, ut ipsum esse Filium Paracletum dicant: cum in eo, quod alium Paracletum mittendum a
 
-316
-00:58:37,689 --> 00:58:53,036
+271
+00:54:52,396 --> 00:55:09,413
 Patre sit precaturus, differentiam missi rogantisque significet. XXI. Si quis Spiritum sanctum partem dicat Patris vel Filii: anathema sit. 55. Non est pars Patris aut Filii.---Stultitia haeretici furoris haec coegit in scripta referre, non quaestio. Nam cum Spiritus sancti nomen habeat suam
 
-317
-00:58:53,036 --> 00:59:08,593
+272
+00:55:09,413 --> 00:55:26,663
 significationem, et Spiritus sanctus paracletus habeat substantiae suae et officium et ordinem, et cum ubique indemutabilis Pater et Filius praedicetur: quomodo pars esse aut Patris aut Filii Spiritus sanctus asseritur? Sed quia sicut inter caetera insaniarum genera, etiam hoc quoque proferri ab
 
-318
-00:59:08,593 --> 00:59:24,361
+273
+00:55:26,663 --> 00:55:44,146
 impiis solet; idcirco a sanctis debuit improbari. 495 XXII. Si quis Patrem et Filium et Spiritum sanctum tres dicit deos: anathema sit. 56. Dii tres negantur.---Duum deorum professio cum irreligiosa sit, quia nusquam nisi unum Deum praedicatum meminerimus et praedicemus: quanto magis trium deorum in
 
-319
-00:59:24,361 --> 00:59:40,076
+274
+00:55:44,146 --> 00:56:01,571
 Patre et Filio et Spiritu sancto nuncupatio damnabilis est? Quod tamen quia haeretici dicunt, recte catholici condemnant. XXIII. Si quis quod dictum est, Ego Deus primus, et ego Deus novissimus, et praeter me non est Deus (Esai XLIV 6), ad destructionem idolorum dictum et eorum qui non sunt dii, in
 
-320
-00:59:40,076 --> 00:59:55,843
+275
+00:56:01,571 --> 00:56:19,054
 destructionem unigeniti ante saecula Dei judaice dictum intelligat: anathema sit. 57. Illud, non est Deus praeter me, Filium non negat Deum.---Deorum numerositate damnata, et Deo tantum uno praedicato, negari Deus filius Dei non potest. Verum naturae istud praestat genuina proprietas, ut nomen, quod
 
-321
-00:59:55,843 --> 01:00:04,988
+276
+00:56:19,054 --> 00:56:29,194
 negatur ad numerum, debeatur essentiae; et id, quod non est Deus praeter me, non possit Filio auferre quod Deus est: quia Deus alius, praeter quam qui est ex Deo, nullus est.
 
-322
-01:00:05,304 --> 01:00:16,210
+277
+00:56:29,543 --> 00:56:41,006
 Et per hanc
 vocem Dei patris non potest non Deus esse, qui ex
 se indifferenti ad naturam suam est natus essentia. Quod idcirco Judaei ad unionem Dei referunt,
 quia unigenitum Deum nesciunt.
 
-323
-01:00:16,210 --> 01:00:26,193
+278
+00:56:41,006 --> 00:56:51,497
 Sed nos cum duos
 deos negamus, diversitatem in Patre et Filio naturalis
 abominamur essentiae: quia id, quod non est
 Deus praeter me, impiam de falsis diis perimit opinionem.
 
-324
-01:00:26,193 --> 01:00:42,697
+279
+00:56:51,497 --> 00:57:08,842
 Cum vero unum Deum confitentes, Filium
 quoque Deum dicimus; nihil diversum per substantiam
 in utroque sub uno nomine praedicamus. XXIV. Si quis voluntate Dei tamquam unum
 aliquid de creatura Filium factum dicat: anathema
 sit. 58. Filius ex Dei substantia, non ut creaturae ex voluntate.
 
-325
-01:00:42,697 --> 01:00:57,412
+280
+00:57:08,842 --> 00:57:24,307
 ---Omnibus creaturis substantiam voluntas
 Dei attulit: sed naturam Filio dedit ex impassibili ac
 non nata substantia perfecta nativitas. Talia enim
 cuncta creata sunt, qualia esse Deus voluit: Filius
 autem natus ex Deo talis substitit, qualis et Deus est.
 
-326
-01:00:57,412 --> 01:01:09,818
+281
+00:57:24,307 --> 00:57:37,346
 Nec dissimilem sui edidit natura naturam: sed ex
 substantia Dei genitus naturae secundum originem attulit,
 non secundum creaturas, voluntatis essentiam. XXV. Si quis, nolente Patre, natum dicat Filium:
 anathema sit.
 
-327
-01:01:09,818 --> 01:01:22,513
+282
+00:57:37,346 --> 00:57:50,688
 Non enim nolente patre coactus Pater,
 vel naturali necessitate ductus, 496 cum nollet genuit
 Filium; sed mox voluit, sine tempore et impassibiliter ex se eum unigenitum demonstravit. 59. Non tamen ex invito Patre Filius.
 
-328
-01:01:22,513 --> 01:01:38,960
+283
+00:57:50,688 --> 00:58:07,972
 ---Cum non
 ex voluntate, ut caetera, Filius subsistere doceretur,
 ne secundum voluntatem tantum, non etiam secundum
@@ -1984,37 +1754,37 @@ videbatur, ut necessitatem Deo patri gignendi ex
 se Filii adscriberent, tamquam naturae lege cogente
 invitus ediderit.
 
-329
-01:01:38,960 --> 01:01:50,328
+284
+00:58:07,972 --> 00:58:19,919
 Sed haec passionum non est
 in Deo patre conditio: cum inenarrabili et perfecta
 nativitate Filii, nec voluntas sola genuit Filium, nec
 demutata aut coacta imperio naturalis legis essentia
 est.
 
-330
-01:01:50,328 --> 01:02:03,174
+285
+00:58:19,919 --> 00:58:35,560
 Nec ad gignendum quaesita substantia est, nec
 gignentis in genito diversa natura est, nec in tempore
 paterni nominis solitudo: sed ante tempora omnia
 Pater ex naturae suae essentia, impassibiliter volens,
 Filio dedit naturalis nativitatis essentiam. XXVI.
 
-331
-01:02:03,174 --> 01:02:10,731
+286
+00:58:35,560 --> 00:58:44,760
 Si quis innascibilem et sine initio dicat Filium;
 tamquam duo sine principio et duo innascibilia
 et duo innata dicens, duos faciat deos: anathema sit.
 
-332
-01:02:10,731 --> 01:02:24,484
+287
+00:58:44,760 --> 00:59:01,504
 Caput enim, quod est principium omnium, Filius:
 caput autem, quod est principium Christi, Deus; sic
 enim ad unum ininitiabilem, omnium initium,
 per Filium universa referimus. 60. Filium innascibilem unitas Dei non patitur. ---Filium innascibilem confiteri, impiissimum est.
 
-333
-01:02:24,484 --> 01:02:37,935
+288
+00:59:01,504 --> 00:59:17,881
 Jam
 enim non erit Deus unus: quia Deum unum praedicari
 natura unius innascibilis Dei exigit. Cum ergo
@@ -2023,8 +1793,8 @@ cum idcirco Deus unus sit (cum et pater Deus sit,
 et filius Dei Deus sit), quia innascibilitas sola penes
 unum sit.
 
-334
-01:02:37,935 --> 01:02:52,142
+289
+00:59:17,881 --> 00:59:35,177
 Filius autem idcirco Deus, quia ex innascibili
 essentia natus exsistat. Respuit ergo innascibilem
 Filium praedicari fides sancta; ut per unum
@@ -2032,53 +1802,53 @@ innascibilem Deum, unum Deum praedicet: ut naturam
 unigenitam, ex innascibili genitam essentia,
 in uno innascibilis Dei nomine complectatur.
 
-335
-01:02:52,142 --> 01:03:02,671
+290
+00:59:35,177 --> 00:59:47,996
 Caput
 enim omnium Filius est, sed caput Filii Deus est. Et ad unum Deum omnia hoc gradu atque hac confessione
 referuntur: cum ab eo sumant universa principium,
 cui ipse principium sit (scil Deus pater). XXVII.
 
-336
-01:03:02,671 --> 01:03:17,633
+291
+00:59:47,996 --> 01:00:06,213
 Et iterum confirmantes Christianismi inintellectum, dicimus, Quoniam si quis Christum Deum, filium Dei ante saecula 497 subsistentem, et ministrantem Patri ad omnium perfectionem non dicat; sed ex quo de Maria natus est, ex eo et Christum et filium nominatum esse, et initium accepisse ut sit Deus
 
-337
-01:03:17,633 --> 01:03:18,640
+292
+01:00:06,213 --> 01:00:07,439
 dicat: anathema sit.
 
-338
-01:03:18,640 --> 01:03:29,976
+293
+01:00:07,439 --> 01:00:21,239
 61. Photini haeresis. Fidei nostrae principale. ---Concludi damnatio ejus haeresis, propter quam
 conventum erat, expositione totius fidei cui adversabatur,
 oportuit: quae initium Dei filii ex partu
 Virginis mentiebatur.
 
-339
-01:03:29,976 --> 01:03:41,291
+294
+01:00:21,239 --> 01:00:36,683
 Hoc enim fidei nostrae secundum
 evangelicam et apostolicam doctrinam principale
 est, Dominum nostrum Jesum Christum Deum
 et Dei filium a Patre nec honoris confessione, nec
 virtutis potestate, nec substantiae diversitate, nec intervallo
-temporis separari.
+temporis separari. 62. Difficultas de Deo paucis loquendi.
 
-340
-01:03:41,291 --> 01:03:51,582
-Multifarie,
+295
+01:00:36,683 --> 01:00:48,974
+---Multifarie,
 ut intelligitur, episcoporum consiliis atque sententiis
 quaesita veritas est, et intelligentiae ratio exposita est
 per singulas scriptae fidei professiones: singulis quibusque
 generibus impiae praedicationis exstinctis.
 
-341
-01:03:51,582 --> 01:03:56,215
+296
+01:00:48,974 --> 01:00:54,437
 Non
 enim infinitus et immensus Deus brevibus humani sermonis
 eloquiis vel intelligi potuit, vel ostendi.
 
-342
-01:03:56,215 --> 01:04:06,283
+297
+01:00:54,437 --> 01:01:06,308
 Fallit
 enim plerumque et audientes et docentes brevitas
 verborum: et compendio sermonum aut non intelligi
@@ -2086,56 +1856,62 @@ potest quod requiritur, aut etiam corrumpitur
 quod significatum magis, quam enarratum, rationis
 absolutione non constat.
 
-343
-01:04:06,283 --> 01:04:19,604
+298
+01:01:06,308 --> 01:01:22,014
 Et idcirco episcopi intelligentiae sensu loquentes, ob difficultatem naturalis intelligentiae, et plurimis definitionibus et copiosioribus verbis usi sunt ad docendum: ut et sensum audientium distinctione editae per multa veritatis imbuerent, et de divinis rebus nihil aliud periculosum aut obscurum
 
-344
-01:04:19,604 --> 01:04:22,366
+299
+01:01:22,014 --> 01:01:25,271
 in hac multimoda plurium sententiarum absolutione loquerentur.
 
-345
-01:04:22,366 --> 01:04:35,552
-Nihil autem mirum videri vobis
+300
+01:01:25,271 --> 01:01:40,451
+63. Fides in Oriente. Frequenter exposita; in paucis
+sana. Osius. Fidei coactae subscriptiones. Occidentales
+scriptas fides nesciunt. ---Nihil autem mirum videri vobis
 debet, Fratres charissimi, quod tam frequenter 498
 exponi fides coeptae sunt: necessitatem hanc furor
-haereticus imponit. Nam tantum Ecclesiarum Orientalium
+haereticus imponit.
+
+301
+01:01:40,451 --> 01:01:55,159
+Nam tantum Ecclesiarum Orientalium
 periculum est, ut rarum sit hujus fidei (quae
 qualis sit, vos judicate) aut sacerdotes aut populum
-inveniri.
-
-346
-01:04:35,552 --> 01:04:46,824
-Male enim per quosdam impietati auctoritas
+inveniri. Male enim per quosdam impietati auctoritas
 data est: et exsiliis episcoporum, quorum causam
-non ignoratis, vires auctae sunt profanorum. Non
+non ignoratis, vires auctae sunt profanorum.
+
+302
+01:01:55,159 --> 01:02:01,199
+Non
 peregrina loquor, neque ignorata scribo: audivi ac
 vidi vitia praesentium; non laicorum, sed episcoporum.
 
-347
-01:04:46,824 --> 01:04:58,631
+303
+01:02:01,199 --> 01:02:13,400
 Nam absque episcopo Eleusio et paucis cum
 eo, ex majori parte Asianae decem provinciae, intra
 quas consisto, vere Deum nesciunt. Atque utinam
 penitus nescirent; cum procliviore enim venia ignorarent,
 quam obtrectarent.
 
-348
-01:04:58,631 --> 01:05:05,401
+304
+01:02:13,400 --> 01:02:20,396
 Sed horum episcoporum
 dolor se intra silentium non continens, unitatem fidei
 hujus quaerit, quam jam pridem per alios amisit.
 
-349
-01:05:05,401 --> 01:05:16,395
+305
+01:02:20,396 --> 01:02:31,757
 Nam illa in primo collatae expositionis fides hanc
 habuit necessitatem: quia apud Sirmium per immemorem
 gestorum suorum dictorumque Osium novae
 et tamen suppuratae jam diu impietatis doctrina
 proruperat.
 
-350
-01:05:16,395 --> 01:05:31,235
+306
+01:02:31,757 --> 01:02:47,092
 Sed de eo nil loquor, qui idcirco est
 reservatus, ne judicio humano ignoraretur qualis
 ante vixisset. Ubique autem scandala, ubique schismata,
@@ -2143,8 +1919,8 @@ ubique perfidiae sunt. Hinc illud est, ut ad
 professionem subscribendae fidei aliqui eorum, qui
 ante aliud scripserant, cogerentur.
 
-351
-01:05:31,235 --> 01:05:44,938
+307
+01:02:47,092 --> 01:03:01,251
 Nec queror de
 patientissimis viris Orientalibus episcopis, quibus suffecit
 post blasphemiae voluntatem coactae saltem fidei
@@ -2152,46 +1928,46 @@ professio: gratulandum enim videtur in tanta blasphemantium
 episcoporum haeretica pertinacia, aliquem
 ex his suscipi poenitentem.
 
-352
-01:05:44,938 --> 01:05:56,908
+308
+01:03:01,251 --> 01:03:13,620
 Sed inter haec, o beatos
 vos in Domino et gloriosos, qui perfectam atque
 apostolicam fidem conscientiae 499 professione
 retinentes, conscriptas fides huc usque nescitis! Non
 enim eguistis littera, qui spiritu abundabatis.
 
-353
-01:05:56,908 --> 01:06:11,423
+309
+01:03:13,620 --> 01:03:28,619
 Neque
 officium manus ad scribendum desiderastis, qui quod
 corde a vobis credebatur, ore ad salutem profitebamini. Nec necessarium habuistis episcopi legere,
 quod regenerati neophyti tenebatis. Sed necessitas
 consuetudinem intulit, exponi fides, et expositis subscribi.
 
-354
-01:06:11,423 --> 01:06:20,035
+310
+01:03:28,619 --> 01:03:37,518
 Ubi enim sensus conscientiae periclitatur, illic
 littera postulatur. Nec sane scribi impedit, quod
 salutare est confiteri. 64. Hilarii fides de Patre et Filio.
 
-355
-01:06:20,035 --> 01:06:29,784
+311
+01:03:37,518 --> 01:03:47,591
 ---Confitemur sane
 in sancti Spiritus dono semper innocentes, et scribimus
 volentes, non deos duos, sed Deum unum: neque
 per id non et Deum Dei filium; est enim ex Deo
 Deus.
 
-356
-01:06:29,784 --> 01:06:41,351
+312
+01:03:47,591 --> 01:04:00,369
 Non innascibiles duos, quia auctoritate innascibilitatis
 Deus unus est: neque per id non et Unigenitus
 Deus est; namque origo sua innascibilis substantia
 est. Non unum subsistentem, sed substantiam
 non differentem.
 
-357
-01:06:41,351 --> 01:06:57,028
+313
+01:04:00,369 --> 01:04:17,685
 Non unum in dissimilibus naturis
 Dei nomen, sed unius nominis atque naturae indissimilem
 essentiam. Non praestantem quemquam
@@ -2200,8 +1976,8 @@ alteri nativitate naturae. Patrem in eo majorem esse
 quod pater est, Filium in eo non minorem esse quod
 filius est.
 
-358
-01:06:57,028 --> 01:07:11,731
+314
+01:04:17,685 --> 01:04:33,925
 Significationem interesse, non interesse
 naturam. Patrem non intra tempora confiteri, sed
 cointemporalem Patri Filium non negare. Patrem in
@@ -2209,55 +1985,60 @@ Filio praedicare, quia nihil in se habeat Filius a Patre
 dissimile: Filium in Patre confiteri, quia non est
 aliunde quod filius est.
 
-359
-01:07:11,731 --> 01:07:21,947
+315
+01:04:33,925 --> 01:04:47,479
 Mutuam sibi ac similem invicem
 naturam non nescire, quia par sit: quod unus
 sit non existimare, quia unum sunt: unum eos sic
 per indissimilis naturae indifferentiam praedicare, ne
-unus sit.
+unus sit. 65. Hilario desunt verba, non sensus.
 
-360
-01:07:21,947 --> 01:07:36,002
-Exposui,
+316
+01:04:47,479 --> 01:05:03,182
+---Exposui,
 Charissimi, quantum humani sermonis consuetudo
 patiebatur, et Dominus mihi semper ut ipse scit
 a me oratus indulsit, communis fidei conscientiam. Et si quid minus, immo quia minus ac prope nihil
 dictum est, mementote non sensum mihi, sed verba
 deesse.
 
-361
-01:07:36,002 --> 01:07:45,624
+317
+01:05:03,182 --> 01:05:16,079
 Arguam forte in eo naturam meam, non tamen
 arguam voluntatem: et ignosco naturae, si loqui
 de Deo quod vult non potest, cujus sufficiat ad salutem,
-credidisse quae Dei sunt.
+credidisse quae Dei sunt. 66. Transit ad alteram libelli partem.
 
-362
-01:07:45,624 --> 01:08:00,687
-Nunc quia fides mea atque vestra, quantum mihi conscius sum, apud Deum 500 non periclitatur; et ostendi vobis, sicut voluistis, quae ante expositae fides essent ab Orientalibus episcopis, sed paucis (repetam enim, quia secundum numerum Ecclesiarum Orientalium, episcoporum paucorum fides ista est);
+318
+01:05:16,079 --> 01:05:17,320
+Ante finem ne
+judicetur.
 
-363
-01:08:00,687 --> 01:08:12,566
-ipse quoque, quid de divinis rebus secundum doctrinam apostolicam sentirem, professus sum: reliquum est, ut quae errorem nobis ex simplicitatis securitate afferunt, cognoscatis sine suspicione aliqua; quia jam nec relicta est audiendi.
+319
+01:05:17,320 --> 01:05:32,563
+---Nunc quia fides mea atque vestra, quantum mihi conscius sum, apud Deum 500 non periclitatur; et ostendi vobis, sicut voluistis, quae ante expositae fides essent ab Orientalibus episcopis, sed paucis (repetam enim, quia secundum numerum Ecclesiarum Orientalium, episcoporum paucorum fides ista
 
-364
-01:08:12,566 --> 01:08:21,918
+320
+01:05:32,563 --> 01:05:45,017
+est); ipse quoque, quid de divinis rebus secundum doctrinam apostolicam sentirem, professus sum: reliquum est, ut quae errorem nobis ex simplicitatis securitate afferunt, cognoscatis sine suspicione aliqua; quia jam nec relicta est audiendi.
+
+321
+01:05:45,017 --> 01:05:54,783
 Et
 quamquam jam non verear de me judicari secundum
 expositionem totius fidei; tamen patimini, ut velim
-de me adhuc, nisi absolutis omnibus, judicari. Homousion quando recte praedicetur.
+de me adhuc, nisi absolutis omnibus, judicari. 67. Homousion quando recte praedicetur.
 
-365
-01:08:21,918 --> 01:08:32,836
+322
+01:05:54,783 --> 01:06:05,945
 ---Multi ex
 nobis, Fratres charissimi, ita unam substantiam Patris
 et Filii praedicant, ut videri possint non magis id
 pie quam impie praedicare: habet enim hoc verbum
 in se et fidei conscientiam, et fraudem paratam.
 
-366
-01:08:32,836 --> 01:08:46,940
+323
+01:06:05,945 --> 01:06:20,362
 Nam
 si secundum naturae proprietatem ac similitudinem,
 ut similitudo non speciem solam afferat, sed genus
@@ -2266,25 +2047,29 @@ dummodo unam substantiam proprietatis similitudinem
 intelligamus, ut quod unum sunt, non singularem
 significet, sed aequales.
 
-367
-01:08:46,940 --> 01:08:57,555
+324
+01:06:20,362 --> 01:06:31,213
 Aequalitatem dico, id est,
 indifferentiam similitudinis, ut similitudo habeatur
 aequalitas; aequalitas vero unum idcirco dicatur
 esse, quia par si; unum autem, in quo par significatur,
 non ad unicum vendicetur.
 
-368
-01:08:57,555 --> 01:09:09,384
+325
+01:06:31,213 --> 01:06:43,511
 Una igitur substantia,
 si non personam subsistentem perimat, nec unam
 substantiam partitam in duos dividat, religiose praedicabitur:
 quae ex nativitatis proprietate, et ex naturae
-similitudine ita indifferens sit, ut una dicatur.
+similitudine ita indifferens sit, ut una dicatur. 68.
 
-369
-01:09:09,384 --> 01:09:22,723
-At vero
+326
+01:06:43,511 --> 01:06:45,359
+Vocis ejusdem triplex sensus pravus.
+
+327
+01:06:45,359 --> 01:07:00,138
+---At vero
 si idcirco unius substantiae Pater et Filius dicatur, ut
 hic subsistens, sub significatione licet duum nominum,
 unus ac solus sit: confessum nomine Filium conscientia
@@ -2292,22 +2077,22 @@ non tenemus, si unam substantiam confitentes
 ipsum sibi unicum ac singularem et Patrem esse
 dicimus et Filium.
 
-370
-01:09:22,723 --> 01:09:29,042
+328
+01:07:00,138 --> 01:07:07,065
 Quin etiam et hujus statim erroris
 occurrit occasio, ut divisus a sese Pater intelligatur,
 et partem exsecuisse quae esset sibi filius.
 
-371
-01:09:29,042 --> 01:09:37,888
+329
+01:07:07,065 --> 01:07:16,764
 Id
 enim haeretici unam substantiam praedicantes contendunt:
 et his multum piae confessionis nostrae sermo
 blanditur, ut dum hoc verbum indefinita brevitate
 dubium est, proficiat ad errorem.
 
-372
-01:09:37,888 --> 01:09:50,151
+330
+01:07:16,764 --> 01:07:30,209
 Est praeterea error
 hic 501 tertius, ut cum unius substantiae Pater et Filius
 esse dicatur, significari existimetur substantia
@@ -2315,37 +2100,43 @@ prior, quam inter se duo pares habeant: ac sic tres
 res sermo significet, substantiam unam, et duos unius
 substantiae velut cohaeredes.
 
-373
-01:09:50,151 --> 01:09:57,452
+331
+01:07:30,209 --> 01:07:38,214
 Ut enim cohaeredes duo
 sunt, et haereditas anterior est cujus duo sunt cohaeredes:
 ita unius substantiae anterioris duo pares
 possunt videri esse consortes.
 
-374
-01:09:57,452 --> 01:10:11,494
+332
+01:07:38,214 --> 01:07:53,608
 Atquin ita una substantia Patris et Filii praedicata, aut unum qui duas nuncupationes habeat subsistentem significat; aut divisam unam substantiam, duas imperfectas fecisse substantias; aut tertiam priorem substantiam, quae a duobus et usurpata sit et assumpta, quae idcirco una dicatur, quia in duas
 
-375
-01:10:11,494 --> 01:10:12,243
+333
+01:07:53,608 --> 01:07:54,429
 una desecta sit.
 
-376
-01:10:12,243 --> 01:10:26,191
-Et ubi post haec nativitas? Ubi Pater, ubi Filius intelligitur; si Patrem et Filium vel desectio potius, vel anterioris substantiae communio, quam naturae nativitas praedicabit? In his igitur tot et tam gravibus fidei periculis, verborum brevitas temperanda est; ne impie dici existimetur, quod pie
+334
+01:07:54,429 --> 01:08:05,565
+Et ubi post haec nativitas? Ubi Pater, ubi Filius intelligitur; si Patrem et Filium
+vel desectio potius, vel anterioris substantiae communio,
+quam naturae nativitas praedicabit? 69. Homousion quo loco tuto proferatur.
 
-377
-01:10:26,191 --> 01:10:30,637
-intelligitur: ne secura atque innocente conscientia, per occasionem haereticam, reus sermo sit.
+335
+01:08:05,565 --> 01:08:16,803
+---In his
+igitur tot et tam gravibus fidei periculis, verborum
+brevitas temperanda est; ne impie dici existimetur,
+quod pie intelligitur: ne secura atque innocente conscientia,
+per occasionem haereticam, reus sermo sit.
 
-378
-01:10:30,637 --> 01:10:37,752
+336
+01:08:16,803 --> 01:08:24,551
 Dicturus unam catholicus substantiam Patris et Filii,
 non inde incipiat: neque hoc quasi maximum teneat,
 tamquam sine hoc vera fides nulla sit.
 
-379
-01:10:37,752 --> 01:10:55,450
+337
+01:08:24,551 --> 01:08:43,166
 Tuto
 unam substantiam dicet, cum ante dixerit, Pater
 ingenitus est; Filius natus est, subsistit ex Patre,
@@ -2354,8 +2145,8 @@ est, ut auctori: nec se per rapinam Deo, cujus
 in forma manebat, aequavit; obediens usque ad
 mortem fuit.
 
-380
-01:10:55,450 --> 01:11:12,035
+338
+01:08:43,166 --> 01:09:00,609
 Non est ex nihilo, sed nativitas
 est. Non est innascibilis, sed cointemporalis. Non
 est pater, sed ex eo filius est. Non est portio aliqua,
@@ -2363,22 +2154,22 @@ sed totus est. Non est auctor ipse, sed imago est:
 imago Dei ex Deo in Deum nata. Non est creatura,
 sed Deus est.
 
-381
-01:11:12,035 --> 01:11:24,883
+339
+01:09:00,609 --> 01:09:14,122
 Non alter Deus in genere substantiae,
 sed unus Deus per substantiae indifferentis essentiam. Non persona Deus unus est, sed natura: quia nihil
 in se diversum ac dissimile habeat natus et generans.
 
-382
-01:11:24,883 --> 01:11:38,190
+340
+01:09:14,122 --> 01:09:30,944
 Et post haec, unam substantiam Patris et Filii dicendo,
 non errat: aut unam substantiam negando,
-jam peccat. Nemo itaque
+jam peccat. 70. Ne nude et ante alia praedicetur. ---Nemo itaque
 unam substantiam negari a nobis putet: cujus idcirco
 ratio ostenditur, ne negetur.
 
-383
-01:11:38,190 --> 01:11:53,594
+341
+01:09:30,944 --> 01:09:47,145
 Nemo unam substantiam
 brevi ac nudo sermone putet praedicandam: ut
 possit religiose dici una esse substantia. Non enim ego
@@ -2386,97 +2177,97 @@ audio, Christus ex Maria natus 502 est; nisi et audiam,
 In principio erat Verbum et Deus erat Verbum
 (Joan I 1).
 
-384
-01:11:53,594 --> 01:12:08,671
+342
+01:09:47,145 --> 01:10:03,002
 Non audiam, Christus esurivit; nisi
 post quadraginta dierum jejunium audiam, Non in
 pane solo vivit homo (Matth IV 4). Non audiam, sitivit;
 nisi audiam, Qui biberit de aqua, quam ego dedero
 ei, non sitiet in aeternum (Joan IV 13).
 
-385
-01:12:08,671 --> 01:12:26,042
+343
+01:10:03,002 --> 01:10:21,272
 Non
 audiam, Christus passus est; nisi audiam, Nunc est
 hora ut Filius hominis clarificetur (Joan XII 23). Non audiam, mortuus est; nisi audiam, resurrexit. Nihil solitarium ex divinis sacramentis ad suspicionem
 audientium et ad occasionem blasphemantium
 proferamus.
 
-386
-01:12:26,042 --> 01:12:36,072
+344
+01:10:21,272 --> 01:10:31,751
 Ante nativitas Filii, ante subjectio,
 ante similitudo naturae praedicanda est: ut non impie
 unius esse et Pater et Filius substantiae praedicetur.
 
-387
-01:12:36,072 --> 01:12:48,478
+345
+01:10:31,751 --> 01:10:45,298
 Et non intelligo, cur ante caetera tamquam maximum
 et potissimum et solitarium praedicandum sit, quod
 nec pie possit ante caetera praedicari, et jam impie
-necesse sit post caetera denegari. Et pie dici potest, et pie taceri.
+necesse sit post caetera denegari. 71. Et pie dici potest, et pie taceri.
 
-388
-01:12:48,478 --> 01:13:03,211
+346
+01:10:45,298 --> 01:11:01,102
 ---Non est,
 Fratres charissimi, una Patris et Filii neganda substantia:
 sed nec irrationabiliter praedicanda. Sit
 una substantia ex naturae genitae proprietate; non
 sit aut ex portione, aut ex unione, aut ex communione. Potest una substantia pie dici, et pie taceri.
 
-389
-01:13:03,211 --> 01:13:18,276
+347
+01:11:01,102 --> 01:11:17,501
 Habes nativitatem, habes similitudinem. Quid
 verbi calumniam suspiciose tenemus, rei intelligentia
 non dissidentes? Credamus, et dicamus esse
 unam substantiam; sed per naturae proprietatem,
 non ad significationem impiae unionis. Una sit ex similitudine,
-non ex solitudine.
+non ex solitudine. 72.
 
-390
-01:13:18,276 --> 01:13:23,704
+348
+01:11:17,501 --> 01:11:23,324
 Vox homoeusion an minus propria. ---Sed
 forte parum proprietatis in se habere similitudo videatur.
 
-391
-01:13:23,704 --> 01:13:36,720
+349
+01:11:23,324 --> 01:11:37,286
 Hoc si est, quaero quo modo possim alterum
 ad alium nisi per similitudinem coaequare? Aut
 numquid non idem est, esse similes quod aequales? Si unum dico, habet et unici suspicionem:
 si similem dixero, habet indifferentis comparationem.
 
-392
-01:13:36,720 --> 01:13:47,188
+350
+01:11:37,286 --> 01:11:48,515
 Inter similem et unum quaero quem locum
 habeat aequalis: et interrogo utrum similitudinis potius,
 aut solitudinis res sit. Non est aequalitas in dissimilibus,
 nec similitudo est intra unum.
 
-393
-01:13:47,188 --> 01:14:01,588
+351
+01:11:48,515 --> 01:12:04,201
 Aut quid
 differunt similes, et aequales; ut ab uno iterum discernatur
 aequalis? Non sunt itaque dissimiles aequales:
 Et quid aliud possunt esse similes quam aequales,
-cum in dissimilibus non sit aequalitas? Aequalitatem perfectam significat similitudo naturae.
+cum in dissimilibus non sit aequalitas? 73. Aequalitatem perfectam significat similitudo naturae.
 
-394
-01:14:01,588 --> 01:14:16,488
+352
+01:12:04,201 --> 01:12:20,183
 Quod Moysi similitudo, id Joanni aequalitas. --- Praedicantes itaque, Fratres charissimi, similem Filium
 in omnibus Patri, nihil aliud quam aequalem
 praedicamus. Perfectae aequalitatis significantiam habet
 similitudo: et hoc ex sanctis Scripturis intelligendum
 est.
 
-395
-01:14:16,488 --> 01:14:29,348
+353
+01:12:20,183 --> 01:12:34,544
 503 Legimus namque: Vixit autem
 Adam ducentis triginta annis, et genuit secundum effigiem
 suam et secundum similitudinem suam, et cognominavit
 nomen ejus Seth (Gen V 3). Quaero cujusmodi
 similitudinem et effigiem suam Adam in Seth genuerit.
 
-396
-01:14:29,348 --> 01:14:45,424
+354
+01:12:34,544 --> 01:12:52,495
 Tolle corporum infirmitates, tolle conceptus initium,
 tolle dolores partitudinis, et omnem humanam
 necessitatem: quaero similitudo haec, quae in Seth
@@ -2484,8 +2275,8 @@ est, utrum per naturam dissentiat auctori, aut utrum
 alterius generis essentia fuerit in utroque, ne non
 naturalem habuerit Adae Seth natus essentiam.
 
-397
-01:14:45,424 --> 01:14:59,785
+355
+01:12:52,495 --> 01:13:08,532
 Sed
 similitudo Adae est, etiamsi negemus; quia non
 est natura dissimilis. Similitudo autem naturae non
@@ -2494,80 +2285,80 @@ aliunde Seth natus est: ita similitudo res ipsas
 naturalis coaequat, per similitudinem non indifferentis
 essentiae.
 
-398
-01:14:59,785 --> 01:15:05,518
+356
+01:13:08,532 --> 01:13:14,934
 Omnis itaque filius, secundum naturalem
 nativitatem, aequalitas patris est; quia est et
 similitudo naturae.
 
-399
-01:15:05,518 --> 01:15:21,326
+357
+01:13:14,934 --> 01:13:32,586
 Et beatus Joannes docet in natura Patris et Filii, quam Moyses in Seth et Adam similitudinem dicit, hanc eamdem aequalitatem esse naturae, ait enim: Propter hoc eum magis quaerebant Judaei interficere, quoniam non solum solvebat sabbatum, sed et patrem suum dicebat Deum, aequalem se faciens Deo
 
-400
-01:15:21,326 --> 01:15:21,969
+358
+01:13:32,586 --> 01:13:33,304
 (Joan V 18).
 
-401
-01:15:21,969 --> 01:15:37,884
+359
+01:13:33,304 --> 01:13:51,076
 Quid tantorum virorum doctrinis atque dictis inserimus torpentia peccatis gravibus ingenia, et sensus hebetes atque temerarios adversum indissolubiles praedicationes impii fatigamus? Per Moysen Seth Adae similitudo est, per Joannem Filius Patri aequalis est: et quaerimus tertium nescio quid inter
 
-402
-01:15:37,884 --> 01:15:40,135
+360
+01:13:51,076 --> 01:13:53,589
 Patrem et Filium, quod natura non recipit.
 
-403
-01:15:40,135 --> 01:15:54,603
+361
+01:13:53,589 --> 01:14:09,745
 Similis est Patri, filius Patris est,
 ex eo natus est: per hoc solum pie potest quod
 unum sint praedicari. 74. Similitudinem sine aequalitate confitentes refelluntur. ---Nec me fallit, Fratres charissimi, quosdam
 esse, qui similitudinem confitentes, negant aequalitatem.
 
-404
-01:15:54,603 --> 01:15:58,944
+362
+01:14:09,745 --> 01:14:14,591
 Sed loquantur ut volunt, et blasphemiae suae
 virus ingerant ignorantibus.
 
-405
-01:15:58,944 --> 01:16:11,040
+363
+01:14:14,591 --> 01:14:28,283
 Si inter similitudinem
 et aequalitatem differre dicunt; quaero unde comparetur
 aequalitas. Namque si secundum essentiam et
 virtutem et gloriam et tempus Patris Filius similis
 est; interrogo ex quo non videatur 504 aequalis.
 
-406
-01:16:11,040 --> 01:16:25,035
+364
+01:14:28,283 --> 01:14:44,124
 Nam etiam haec in superiori fide constituta damnatio
 est: ut anathema esset, qui Patrem dissimilis
 sibi essentiae diceret patrem. Si ergo naturam neque
 aliam, neque dissimilem ei, quem impassibiliter generabat,
 dedit; non potest aliam dedisse, nisi propriam.
 
-407
-01:16:25,035 --> 01:16:36,156
+365
+01:14:44,124 --> 01:14:56,710
 Ita similitudo proprietas est, proprietas aequalitas
 est, et aequalitas nihil differt. Quae autem
 nihil differunt, unum sunt; non unione personae,
 sed aequalitate naturae. 75. Filii et Patris eadem virtus.
 
-408
-01:16:36,156 --> 01:16:51,941
+366
+01:14:56,710 --> 01:15:14,577
 ---Quamquam vero et communi sensu, et divinis auctoritatibus, inter similitudinem et aequalitatem nihil differre intelligatur; quippe cum secundum Moysen et Joannem Patri Filius et similis sit, et aequalis: tamen videamus an Dominus, Judaeis irascentibus quod Patrem sibi Deum dicendo Deo se
 
-409
-01:16:51,941 --> 01:16:54,273
+367
+01:15:14,577 --> 01:15:17,217
 coaequasset, se esse docuerit Deo aequalem.
 
-410
-01:16:54,273 --> 01:17:06,262
+368
+01:15:17,217 --> 01:15:30,786
 Ait enim, Non potest Filius ab
 se facere quidquam, nisi quod viderit Patrem facientem (Joan V 19). Auctorem discrevit cum ait, Non
 potest ab se facere: obedientiam significat cum
 addit, nisi quod viderit Patrem facientem.
 
-411
-01:17:06,262 --> 01:17:21,884
+369
+01:15:30,786 --> 01:15:48,469
 Non enim
 virtutis differentia est, non posse nisi videat; quia
 virtutem magis praestat natura, quam visus: at vero
@@ -2576,16 +2367,16 @@ id, quod tunc potest cum videt, significat non ex visu
 se accipere virtutem, sed auctoritate visus praesumere
 potestatem.
 
-412
-01:17:21,884 --> 01:17:34,252
+370
+01:15:48,469 --> 01:16:02,468
 Non ergo differt naturae virtus in
 Patre et Filio: cui hoc posse quod Pater possit, non
 ex incremento aliquo naturae profectus tribuat, sed
 auctoris exemplum. Denique honorem, quem
 subjectio conservavit, naturae virtus aequavit.
 
-413
-01:17:34,252 --> 01:17:46,512
+371
+01:16:02,468 --> 01:16:16,344
 Subjecit
 enim: Quaecumque enim ille facit, eadem et Filius
 similiter facit (Ibidem). Numquid similitudo non
@@ -2593,142 +2384,147 @@ aequa est? Aequa plane est etiamsi negemus: eadem
 enim similiter facit. Numquid similiter facta non eadem
 sunt?
 
-414
-01:17:46,512 --> 01:18:02,585
+372
+01:16:16,344 --> 01:16:33,433
 aut eadem non recipiunt aequalitatem? aut aliud aliquid inter simile differt, et aequale; cum quae similiter fiunt, eadem fieri intelligantur? Nisi forte quisquam quae eadem sunt, negabit aequalia; ut quae similia sunt, non dicantur aequalia: cum quae similiter fiunt, non modo aequalia fieri, sed
 
-415
-01:18:02,585 --> 01:18:03,613
+373
+01:16:33,433 --> 01:16:34,527
 eadem praedicentur.
 
-416
-01:18:03,613 --> 01:18:05,507
+374
+01:16:34,527 --> 01:16:36,540
 50576. Homoeusion recte dici posse.
 
-417
-01:18:05,507 --> 01:18:21,418
+375
+01:16:36,540 --> 01:16:53,458
 ---Caret igitur, Fratres, similitudo naturae contumeliae suspicione: nec potest videri Filius idcirco in proprietate paternae naturae non esse, quia similis est: cum similitudo nulla sit, nisi ex aequalitate naturae; aequalitas autem naturae non potest esse, nisi una sit; una vero non personae
 
-418
-01:18:21,418 --> 01:18:22,554
+376
+01:16:53,458 --> 01:16:54,666
 unitate, sed generis.
 
-419
-01:18:22,554 --> 01:18:33,053
+377
+01:16:54,666 --> 01:17:05,829
 Haec fides pia est,
 haec conscientia religiosa, hic salutaris sermo est,
 unam substantiam Patris et Filii idcirco non negare,
 quia similis est: similem vero ob id praedicare,
 quia unum sunt. 77.
 
-420
-01:18:33,053 --> 01:18:49,072
+378
+01:17:05,829 --> 01:17:22,861
 Exposita, Charissimi, unius substantiae, quae graece homousion dicitur, et similis substantiae, quae homoeusion appellatur, fideli ac pia intelligentia; et vitiis, quae ex verborum vel brevitate subdola, vel periculosa nuditate accidere possint, absolutissime demonstratis: reliquus mihi sermo ad
 
-421
-01:18:49,072 --> 01:19:02,602
+379
+01:17:22,861 --> 01:17:37,246
 sanctos viros Orientales episcopos dirigendus est; ut quia jam de fide nostra nihil inter nos suspicionis relictum est, ea quae adhuc in suspicionem ex verbis veniunt purgentur: et dabunt veniam, ex communis conscientiae fide secum liberius locuturo.
 
-422
-01:19:02,602 --> 01:19:04,929
+380
+01:17:37,246 --> 01:17:39,721
 78. Orientalium laus ob haeresim coercitam.
 
-423
-01:19:04,929 --> 01:19:20,731
+381
+01:17:39,721 --> 01:17:56,523
 ---O studiosi tandem apostolicae atque evangelicae doctrinae viri, quos fidei calor in tantis tenebris haereticae noctis accendit! Quantam spem revocandae verae fidei attulistis, constanter audacis perfidiae impetum retundendo! Antea enim in obscuro atque in angulis Dominus Christus Dei esse
 
-424
-01:19:20,731 --> 01:19:27,767
+382
+01:17:56,523 --> 01:18:04,003
 secundum naturam filius negabatur: et essentiae inops paternae, accepisse cum creaturis originem de non exstantibus praedicabatur.
 
-425
-01:19:28,200 --> 01:19:36,176
+383
+01:18:04,463 --> 01:18:11,940
 At vero nunc publicae auctoritatis
 professione haeresis prorumpens, id quod antea furtim
 mussitabat, nunc non clam victrix gloriabatur.
 
-426
-01:19:36,176 --> 01:19:52,898
+384
+01:18:11,940 --> 01:18:27,614
 506 Quibus enim antea cuniculis in catholicam
 Ecclesiam non tentavit irrepere? Quas non
 exseruit, falsae religionis blandimento, saeculi potestates? Homines enim perversi eo usque proruperant,
 ut cum hoc ipsi praedicare publice non auderent,
 Imperatorem tamen fallerent ad audiendum.
 
-427
-01:19:52,898 --> 01:20:09,501
+385
+01:18:27,614 --> 01:18:43,177
 Fefellerunt enim ignorantem regem, ut istiusmodi
 perfidiae fidem bellis occupatus exponeret, et credendi
 formam Ecclesiis nondum regeneratus imponeret. Contradicentes episcopos ad exsilium coegerunt. Coegerunt enim nos ad voluntatem exsulandi, dum
 impietatis imponunt necessitatem.
 
-428
-01:20:09,501 --> 01:20:12,810
+386
+01:18:43,177 --> 01:18:46,279
 Sed exsulemus
 semper, dummodo incipiat verum praedicari.
 
-429
-01:20:12,810 --> 01:20:29,945
+387
+01:18:46,279 --> 01:19:02,340
 Domino enim gratias, quod ignorationem per vos admonitus Imperator agnovit, et errorem non suum, sed adhortantium, per has fidei vestrae sententias recognovit: et se invidia apud Deum atque homines impiae voluntatis exemit, cum legationem vestram honorifice habens, falsitatem eorum, quorum
 
-430
-01:20:29,945 --> 01:20:35,322
+388
+01:19:02,340 --> 01:19:07,380
 auctoritate in invidiam deducebatur, coacta a vobis ignorantiae suae professione, cognovit.
 
-431
-01:20:35,322 --> 01:20:52,397
-Fallunt
+389
+01:19:07,380 --> 01:19:15,577
+79. Sirmiensis formulae auctores semper fallaces. Lepide carpuntur ac refelluntur. Christus unus, non
+duo. Valentis et Ursacii suspecta subscriptio.
+
+390
+01:19:15,577 --> 01:19:31,750
+---Fallunt
 enim, quantum et vereor et mihi videtur, Fratres
 charissimi, fallunt; quia semper fefellerunt: et
 ipsa illa praesens nunc subscriptio non caret falsitate. Excusant enim se idcirco homousion et homoeusion
 taceri voluisse, quia unum atque idem significari
 verbo utroque existimarent.
 
-432
-01:20:52,397 --> 01:21:05,278
+391
+01:19:31,750 --> 01:19:43,823
 Rudes credo episcopi
 et ignorantes homousii significationem: quasi numquam
 de hoc aut synodus fuisset, aut lites. Sed esto
 ignoraverunt homousion, aut nesciebant homoeusion
 id significari, quod similis esset essentiae.
 
-433
-01:21:05,278 --> 01:21:12,960
+392
+01:19:43,823 --> 01:19:51,024
 507
 Jam si hoc nesciebant, cur nesciri volebant generationem
 Filii? Numquid si inenarrabilis est, ideo et
 ignorabilis est?
 
-434
-01:21:12,960 --> 01:21:29,373
+393
+01:19:51,024 --> 01:20:08,536
 Sed si ignoratur quo modo natus est; numquid ignorari vel hoc potest, quod Filius Deus non ex alia substantia, sed ex Deo natus, non diversam habeat essentiam? Numquid non legerunt, sicut Patrem, ita et Filium honorificandum (Joan. V, 25): ut Patrem honore praeferrent? Numquid incognitum habebant
 
-435
-01:21:29,373 --> 01:21:45,455
+394
+01:20:08,536 --> 01:20:25,694
 Patrem in Filio videri (Joan. XIV, 9): ut Filius apud eos dignitate, claritate, majestate differret? An et hoc ex ignorantia venit, ut cum caeteris Patri subjectus sit Filius: ut dum cum caeteris subjicitur, non discernatur a caeteris? cum subjectio Filii naturae pietas sit, subjectio autem
 
-436
-01:21:45,455 --> 01:21:47,500
+395
+01:20:25,694 --> 01:20:27,875
 caeterorum creationis infirmitas sit.
 
-437
-01:21:47,500 --> 01:22:01,095
+396
+01:20:27,875 --> 01:20:42,380
 Passum quidem sciebant:
 sed dicant, oro, compassum quando cognoverunt? Evitant homousion et homoeusion, quia nusquam
 scriptum sit: quaero compassum esse unde
 praesumpserint? Aut numquid volunt duos esse qui
 passi sunt? id enim compassio testatur.
 
-438
-01:22:01,095 --> 01:22:12,590
+397
+01:20:42,380 --> 01:20:54,645
 Ubi illud
 est Jesus Christus Filius Dei? aut numquid alius est
 Jesus Christus, alius filius Dei? Si non idem atque
 unus intra extraque Dei filius est; credite in homousio
 ignorationem, si haec ignorari licet.
 
-439
-01:22:12,590 --> 01:22:27,456
+398
+01:20:54,645 --> 01:21:10,506
 Si autem
 in his ipsis ipsa illa ignoratio impia est, quae
 tamen non potest, nec falso, excusari; vereor ne et
@@ -2737,16 +2533,16 @@ queror admodum de venia quam 508 dedistis:
 religiosum est Deo sua reservare, et ignorationis
 error humanus est.
 
-440
-01:22:27,456 --> 01:22:39,835
+399
+01:21:10,506 --> 01:21:23,714
 Sed ignoscant mihi jam duo episcopi
 Valens et Ursacius, quod eos pro aetate atque
 exercitatione sua ignorasse non credo. Et difficillimum
 est ne mentiri existimentur, qui se in alio
 negotio non possunt nisi mendacio purgare.
 
-441
-01:22:39,835 --> 01:22:54,756
+400
+01:21:23,714 --> 01:21:39,634
 Sed
 Dominus hoc magis tribuat, ut nos male opinemur,
 quam illi non ignoraverint. Malo enim ego male
@@ -2754,31 +2550,31 @@ existimans judicari, quam fidem vestram haereticae
 conscientiae communione violari. 80. Oro autem vos, sanctissimi viri, ut cum bona
 venia sollicitudines meas aestimetis.
 
-442
-01:22:54,756 --> 01:23:02,328
+401
+01:21:39,634 --> 01:21:47,712
 Testis enim
 Dominus est conscientiae meae, in nullo me expositiones
 has, quas Sirmium detulistis, fidei vestrae
 velle convellere.
 
-443
-01:23:02,328 --> 01:23:15,472
+402
+01:21:47,712 --> 01:22:00,077
 Sed date veniam, si quaedam intelligere
 non possum, et consolabor me: quia legi: Spiritus
 prophetarum prophetis subjectus est (ICor. XIV,
 32). Ex quo forte non impudenter etiam a me praesumitur,
 ut et ego intelligam, quod alius ignoret.
 
-444
-01:23:15,472 --> 01:23:31,234
+403
+01:22:00,077 --> 01:22:14,906
 Non quod quidquam vos secundum mensuram scientiae
 ignorare ausus sim dicere: sed super fidei catholicae
 unitate, patimini non minus in nobis esse sollicitudinum,
 quam in vobis. 81. Epistola Sirmium delata de homousii et homoeusii
 expositione. Homousion ob nativitatem male respuitur.
 
-445
-01:23:31,234 --> 01:23:46,439
+404
+01:22:14,906 --> 01:22:29,211
 ---Epistolam,
 quam a vobis de homousii et
 de homoeusii expositione apud Sirmium Valens
@@ -2787,8 +2583,8 @@ in quibusdam non minus 509 circumspectam
 esse, quam liberam. Et ipsa homousii et homoeusii
 demonstratio nihil reliquit difficultatis.
 
-446
-01:23:46,439 --> 01:24:01,589
+405
+01:22:29,211 --> 01:22:43,463
 Et quidem
 de homoeusio, quod est similis essentiae, commune
 judicium est. De homousio vero, quod est unius essentiae,
@@ -2797,29 +2593,29 @@ quia per verbi hujus enuntiationem substantia
 prior intelligeretur, quam duo inter se partiti
 essent.
 
-447
-01:24:01,589 --> 01:24:07,437
+406
+01:22:43,463 --> 01:22:48,965
 Intelligo vitium in intelligentia. Et profanus
 hic sensus est, et communi judicio ab Ecclesia respuendus.
 
-448
-01:24:07,437 --> 01:24:20,748
+407
+01:22:48,965 --> 01:23:01,488
 Secundo quoque id addidistis, quod patres
 nostri, cum Paulus Samosateus haereticus pronuntiatus
 est, etiam homousion repudiaverint: quia per
 hanc unius essentiae nuncupationem solitarium atque
 unicum sibi esse Patrem et Filium praedicabat.
 
-449
-01:24:20,748 --> 01:24:30,941
+408
+01:23:01,488 --> 01:23:11,077
 Et
 hoc sane nunc quoque profanissimum Ecclesia recognoscit,
 Patrem et Filium in his nominum professionibus
 ad unionis ac singularis solitudinem negata
 personarum proprietate revocare.
 
-450
-01:24:30,941 --> 01:24:45,923
+409
+01:23:11,077 --> 01:23:25,172
 Tertio etiam haec
 causa improbandi homousii commemorata a vobis
 est: quia in synodo, quae apud Nicaeam fuit, coacti
@@ -2827,12 +2623,12 @@ patres nostri propter eos qui creaturam Filium dicebant,
 nomen homousii indidissent: quod non recipiendum
 idcirco sit, quia nusquam scriptum reperiretur.
 
-451
-01:24:45,923 --> 01:24:48,096
+410
+01:23:25,172 --> 01:23:27,216
 Quod a vobis dictum satis miror.
 
-452
-01:24:48,096 --> 01:25:02,455
+411
+01:23:27,216 --> 01:23:42,101
 Si enim homousion
 propter novitatem repudiandum sit; vereor
 ne et homoeusion periclitetur, quia nusquam
@@ -2840,29 +2636,29 @@ scriptum reperiatur. 82. Quo sensu judicio communi damnetur. ---Sed
 hinc non calumnior. Malo enim aliquid novum commemorasse,
 quam impie respuisse.
 
-453
-01:25:02,455 --> 01:25:09,492
+412
+01:23:42,101 --> 01:23:49,396
 Praetermissa itaque
 quaestione novitatis, ne in his quidem residet quaestio,
 quae communi omnium nostrum judicio damnantur.
 
-454
-01:25:09,492 --> 01:25:26,425
+413
+01:23:49,396 --> 01:24:06,951
 Quis enim sanae mentis tertiam substantiam, quae et Patri et Filio communis sit, praedicabit? Vel quis secundum Samosateum, in Christo renatus, et Filium confessus ac Patrem, quod Christus in se sibi et pater et filius sit confitebitur? Par itaque in condemnandis impietatibus haereticorum nostra
 
-455
-01:25:26,425 --> 01:25:30,830
+414
+01:24:06,951 --> 01:24:11,517
 sententia est: et hanc homousii intelligentiam non modo respuit, sed et odit.
 
-456
-01:25:30,830 --> 01:25:40,728
+415
+01:24:11,517 --> 01:24:21,777
 510 Atque ita non relinquitur
 vitiosae intelligentiae quaestio, ubi in vitii damnatione
 communis assensus est. 83. Quod pie a Nicaena synodo susceptum, non debeat
 improbari.
 
-457
-01:25:40,728 --> 01:25:56,975
+416
+01:24:21,777 --> 01:24:38,620
 ---Dicturo autem me tandem de tertia
 quaestione, oro vos, ne ubi pax conscientiae est,
 ibi sit pugna suspicionum: neque quidquam me nisi
@@ -2870,8 +2666,8 @@ ad unitatis profectum proferre existimetis. Inane
 enim est, calumniam verbi pertimescere, ubi res
 ipsa, cujus verbum est, non habeat difficultatem.
 
-458
-01:25:56,975 --> 01:26:12,421
+417
+01:24:38,620 --> 01:24:54,633
 Displicet cuiquam in synodo Nicaena homousion esse
 susceptum? Hoc si cui displicet, placeat necesse est
 quod ab Ariis sit negatum. Negatum enim idcirco
@@ -2879,46 +2675,54 @@ est homousion, ne ex substantia Dei patris Deus filius
 natus, sed secundum creaturas ex nihilo conditus
 praedicaretur.
 
-459
-01:26:12,421 --> 01:26:17,227
+418
+01:24:54,633 --> 01:24:59,615
 Nihil novum loquimur, pluribus
 edita litteris ipsa Ariorum perfidia sibi testis est.
 
-460
-01:26:17,227 --> 01:26:33,360
+419
+01:24:59,615 --> 01:25:16,220
 Si
 propter negantium impietatem pia tum fuit intelligentia
 confitentum; quaero cur hodie convellatur,
 quod tum pie susceptum est, quia impie negabatur? Si pie susceptum est: cur venit constitutio pietatis
 in crimen, quae impietatem pie per ea ipsa quibus
-impiabatur exstinxit?
+impiabatur exstinxit? 84.
 
-461
-01:26:33,360 --> 01:26:49,952
-Videamus igitur quid Nicaena synodus studuerit,
+420
+01:25:16,220 --> 01:25:18,000
+Nicaenae synodi scopus.
+
+421
+01:25:18,000 --> 01:25:29,837
+Symbolum Nicaenum. ---Videamus igitur quid Nicaena synodus studuerit,
 homousion, id est, unius substantiae confitendo: non
 utique haeresim parturire, quae de homousii vitiosa
-opinione concipitur. Non, opinor, illud loquentur,
-quod unam anteriorem substantiam Pater et Filius
-in substantiam suam partiendo diviserint.
+opinione concipitur.
 
-462
-01:26:49,952 --> 01:27:00,731
-Et ipsam
+422
+01:25:29,837 --> 01:25:43,495
+Non, opinor, illud loquentur,
+quod unam anteriorem substantiam Pater et Filius
+in substantiam suam partiendo diviserint. Et ipsam
 quidem religiose tum scriptam fidem, nunc quoque
-huic sermoni nostro non irreligiose inseremus. Credimus in unum Deum patrem omnipotentem,
+huic sermoni nostro non irreligiose inseremus.
+
+423
+01:25:43,495 --> 01:25:48,716
+Credimus in unum Deum patrem omnipotentem,
 omnium visibilium et invisibilium factorem.
 
-463
-01:27:00,731 --> 01:27:17,606
+424
+01:25:48,716 --> 01:26:06,866
 Et in unum Dominum nostrum Jesum Christum filium Dei, natum ex Patre unigenitum, hoc est, de substantia Patris, Deum ex Deo, lumen ex lumine, Deum verum de Deo vero, natum non factum, unius substantiae cum Patre, quod graece dicunt homousion, per quem omnia facta sunt quae in coelo et in terra, qui
 
-464
-01:27:17,606 --> 01:27:27,539
+425
+01:26:06,866 --> 01:26:17,550
 propter nostram salutem descendit , incarnatus est, et homo 511 factus est, et passus est, et resurrexit tertia die, et adscendit in coelos, venturus judicare vivos et mortuos.
 
-465
-01:27:27,539 --> 01:27:42,212
+426
+01:26:17,550 --> 01:26:33,333
 Et in Spiritum sanctum. Eos autem,
 qui dicunt, Erat quando non erat, et ante quam
 nasceretur non erat, et quod de non exstantibus factus
@@ -2926,67 +2730,67 @@ est, vel ex alia substantia aut essentia, dicentes
 convertibilem et demutabilem Deum: hos anathematizat
 catholica Ecclesia.
 
-466
-01:27:42,212 --> 01:27:51,073
+427
+01:26:33,333 --> 01:26:42,863
 Non hic sanctissima religiosorum virorum synodus
 nescio quam priorem, quae in duos divisa sit, substantiam
 introducit, sed Filium natum de substantia
 Patris.
 
-467
-01:27:51,073 --> 01:28:01,062
+428
+01:26:42,863 --> 01:26:53,608
 Numquid et nos negamus? aut quid aliud
 confitemur? Et post caeteras communis fidei expositiones
 ait, Natum non factum, unius substantiae
 cum Patre, quod graece dicunt homousion.
 
-468
-01:28:01,062 --> 01:28:10,035
+429
+01:26:53,608 --> 01:27:03,260
 Quae hic
 vitiosae intelligentiae occasio est? Natus esse de substantia
 Patris Filius, non factus praedicatur: ne nativitas
 divinitatis, factura sit creationis.
 
-469
-01:28:10,035 --> 01:28:20,928
+430
+01:27:03,260 --> 01:27:14,975
 Idcirco autem
 unius substantiae: non ut unus subsistat aut solus,
 sed ut ex substantia Dei natus non aliunde subsistat,
 neque ut in aliqua dissidentis substantiae
 diversitate subsistat.
 
-470
-01:28:20,928 --> 01:28:36,335
+431
+01:27:14,975 --> 01:27:36,582
 Aut numquid non haec fides nostra est, ut non aliunde subsistat, neque quod indissimilis subsistat? Aut aliud hic testatur homousion, quam ut una atque indissimilis duum sit secundum naturae progeniem essentia, quia essentia Filii non sit aliunde? Quae quia aliunde non est, unius recte esse ambo
 
-471
-01:28:36,335 --> 01:28:41,801
+432
+01:27:36,582 --> 01:27:44,246
 credentur essentiae; quia substantiam nativitatis Filius non habeat nisi de paternae auctoritate naturae.
 
-472
-01:28:41,801 --> 01:28:49,817
+433
+01:27:44,246 --> 01:27:55,488
 85. Homousion num improbandum, quia vitiose soleat
 intelligi. ---Sed forte e contrario dicetur, idcirco
 improbari oportere, quia vitiose intelligi soleat.
 
-473
-01:28:49,817 --> 01:29:01,372
+434
+01:27:55,488 --> 01:28:11,693
 Hoc si timemus, deleamus in Apostolo quod dictum
 est: Mediator Dei et hominum homo Christus Jesus
 (I TimII 5); quia ad auctoritatem haeresis suae Photinus
 hoc utitur: et non legatur a nobis, quia ab
 illo male intelligatur.
 
-474
-01:29:01,372 --> 01:29:15,947
+435
+01:28:11,693 --> 01:28:32,131
 Pereat quoque ad Philippenses
 scripta epistola, aut igni aut spongia: ne in ea Marcion
 relegat: Et habitu repertus ut homo (Philip. II,
 7), phantasiam corporis confitens esse, non corpus. Non exstet Evangelium Joannis: ne Sabellius discat:
 512 Ego et Pater unum sumus (Joan X 30).
 
-475
-01:29:15,947 --> 01:29:29,429
+436
+01:28:32,131 --> 01:28:51,037
 Neque
 isti nunc creaturae praedicatores scriptum habeant:
 Pater major me est (Joan XIV 28). Neque illi, qui
@@ -2994,76 +2798,76 @@ dissimilem Patri Filium affirmare volunt, legant: De
 die autem et hora nemo sit, neque Angeli in coelis, neque
 Filius, nisi Pater solus (Marc XIII 32).
 
-476
-01:29:29,429 --> 01:29:44,992
+437
+01:28:51,037 --> 01:29:12,862
 Non sint quoque libri Moysi: ne tenebrae Deo, qui innascibilem lucem habitat, coaevae sint; quia in Genesi (I 2) post noctem dies coepta sit: ne anni Mathusalae aetatem diluvii excedant (Gen V 26), et non tantum octo sint animae reservatae (I Pet III 20): ne clamorem Sodomorum repletis jam peccatis
 
-477
-01:29:44,992 --> 01:30:00,400
+438
+01:29:12,862 --> 01:29:34,469
 Deus audiens, tamquam ignorans clamorem, descendat ut videat an plena sint cum clamore peccata, et reperiatur Deus nescire quod sciret (Gen XVIII 21): ne quisquam quoque sepelientium sepulti Moysi sciat sepulcrum (Deut XXXIV 6); ne per haec, ut haeretici putant, diversa lex ipsa sibi hostis sit.
 
-478
-01:30:00,400 --> 01:30:03,888
+439
+01:29:34,469 --> 01:29:39,359
 Et quia
 haec ab his non intelliguntur, non legantur a nobis.
 
-479
-01:30:03,888 --> 01:30:21,973
+440
+01:29:39,359 --> 01:30:01,130
 Pereant quoque, si videtur (quod non ego dixerim, sed responsionis necessitas), omnia divina illa et sancta Evangelia salutis humanae: ne se invicem contraria dictorum opinione compugnent: ne missurus Dominus Spiritum sanctum ipse de Spiritu sancto natus legatur: ne mortem gladio denuntiaturus
 
-480
-01:30:21,973 --> 01:30:40,427
+441
+01:30:01,130 --> 01:30:23,344
 usuris, emi gladium passurus indicat (Matth. XXVI, 52): ne ad inferos descensurus, in paradiso sit cum latrone (Lucae XXII 36): ne postremo apostoli reperiantur in crimine, qui baptizare in nomine Patris et Filii et Spiritus sancti jussi (Matth. XXVIII, 19), tantum in Jesu nomine baptizaverunt (Act.
 
-481
-01:30:40,427 --> 01:30:40,858
+442
+01:30:23,344 --> 01:30:23,863
 X, 48).
 
-482
-01:30:40,858 --> 01:30:58,943
+443
+01:30:23,863 --> 01:30:45,633
 Vobis enim, Fratres, vocis dico, qui jam non lacte alimini, sed firmo cibo valetis (Hebr V 12): Numquid, quia ista sapientes mundi non intelligunt, et his stulta sunt, nos cum mundo sapientes erimus, ut haec stulta credamus? Et quia haec impiis caeca sunt, nos non lucebimus intellecta veritate
 
-483
-01:30:58,943 --> 01:31:05,340
+444
+01:30:45,633 --> 01:30:53,334
 doctrinae? Male sanctis rebus praejudicatur, si quia non sanctae a quibusdam habeantur, esse non debent.
 
-484
-01:31:05,340 --> 01:31:16,044
+445
+01:30:53,334 --> 01:31:06,219
 Non ergo gloriemur cruce Christi, quia scandalum
 mundo est: neque in vivente Deo mortem praedicemus,
 ne ab impiis mortuus Deus arguatur. 86. An quia ab 80 episcopis rejectum.
 
-485
-01:31:16,044 --> 01:31:29,885
+446
+01:31:06,219 --> 01:31:22,880
 ---Male intelligitur
 homousion: quid ad me bene intelligentem? Male homousion 513 Samosatenus confessus
 est: sed numquid melius Arii negaverunt? Octoginta episcopi olim respuerunt; sed trecenti
 et decem octo nuper receperunt.
 
-486
-01:31:29,885 --> 01:31:39,296
+447
+01:31:22,880 --> 01:31:34,209
 Et mihi quidem
 ipse ille numerus hic sanctus est, in quo Abraham
 victor regum impiorum (Gen XIV 14), ab eo qui
 aeterni sacerdotii est forma, benedicitur.
 
-487
-01:31:39,296 --> 01:31:57,750
+448
+01:31:34,209 --> 01:31:56,424
 Illi contra haereticum improbaverunt: numquid et isti non adversum haereticum probaverunt? Gravis auctoritas est veterum: numquid et horum levis sanctitas est? Si contraria invicem senserunt, debemus quasi judices probare meliora: si vero et probando et improbando unum utrumque statuerunt, quid bene
 
-488
-01:31:57,750 --> 01:31:59,411
+449
+01:31:56,424 --> 01:31:58,423
 constituta convellimus? 87.
 
-489
-01:31:59,904 --> 01:32:10,026
+450
+01:31:59,015 --> 01:32:09,417
 An quod tacendum decrevit Osius, qui Nicaeae
 interfuit. ---Sed forte dicetur mihi, Aliqui hodie ex his,
 qui tum synodo interfuerunt, tacendum de homousio
 esse decreverunt.
 
-490
-01:32:10,026 --> 01:32:25,180
+451
+01:32:09,417 --> 01:32:24,988
 Et ego invitus licet
 respondebo dicenti: Numquid non et ipsi tacendum
 de homoeusio esse constituunt? Oro vos, ne quisquam
@@ -3071,8 +2875,8 @@ alius ex his praeter senem Osium, et ipsum illum
 nimium sepulchri sui amantem, reperiatur, qui 514
 tacendum esse existimet de utroque.
 
-491
-01:32:25,180 --> 01:32:42,939
+452
+01:32:24,988 --> 01:32:43,236
 Et quo tandem
 in tantis haereticorum furoribus recidemus, si dum
 non utrumque recipimus, neutrum retinemus? Non
@@ -3081,8 +2885,8 @@ reperiatur, aut neutrum confitendum sit, aut
 utrumque. 88. Homousion quid intelligat Hilarius. Adversus
 homousion scrupuli levantur.
 
-492
-01:32:42,939 --> 01:32:59,514
+453
+01:32:43,236 --> 01:33:00,267
 ---Homousion, sanctissimi
 viri, intelligo ex Deo Deum, non dissimilis essentiae,
 non divisum, sed natum, et ex innascibilis
@@ -3090,23 +2894,23 @@ Dei substantia congenitam in Filio, secundum similitudinem,
 unigenitam nativitatem. Ita me antea
 intelligentem, non mediocriter ad id confirmavit homousion.
 
-493
-01:32:59,514 --> 01:33:16,029
+454
+01:33:00,267 --> 01:33:17,237
 Quid fidem meam in homousion damnas,
 quam per homoeusii professionem non potes non
 probare? Damnas enim fidem meam, vel potius
 tuam, cum damnas intelligentiam ejus in nomine. Sed male alius intelligit? Damnemus in commune vitiosam
 intelligentiam, non auferamus fidei securitatem.
 
-494
-01:33:16,029 --> 01:33:26,507
+455
+01:33:17,237 --> 01:33:28,003
 Synodo Samosatenae subscribendum putas, ne
 secundum Samosateni intelligentiam quisquam sibi
 usurpet homousion? Subscribamus et Nicaeae 515
 synodo, ne homousion improbent Ariani.
 
-495
-01:33:26,507 --> 01:33:39,885
+456
+01:33:28,003 --> 01:33:41,750
 Sed
 verendum est, ne secundum fidem non homoeusion
 significare videatur homousion? Decernatur nihil differre,
@@ -3114,25 +2918,26 @@ unius et similis esse substantiae. Sed homousion
 potest male intelligi? Constituatur qualiter
 bene possit intelligi.
 
-496
-01:33:39,885 --> 01:33:52,080
+457
+01:33:41,750 --> 01:33:56,591
 Unum atque idem pie sapimus,
 rogo ut unum atque idem quod sapimus, pium
 inter nos esse velimus. Date veniam, Fratres, quam
 frequenter poposci: Ariani non estis: cur negando
-homoeusion censemini Ariani?
+homoeusion censemini Ariani? 89. Homaeusion non caret offendiculo.
 
-497
-01:33:52,080 --> 01:34:06,561
-Sed dicis: Movet me cum scandalo homoeusii
+458
+01:33:56,591 --> 01:34:11,746
+Similitudo
+vera. ---Sed dicis: Movet me cum scandalo homoeusii
 ambiguitas. Iterum audi, oro, sine scandalo: et
 me movet homoeusii nuditas. Multa saepe fallunt,
 quae similia sunt. Timeo aurum bracteae, quia me
 fallere possit interius: et tamen auro simile est
 quod videtur.
 
-498
-01:34:06,561 --> 01:34:22,421
+459
+01:34:11,746 --> 01:34:27,123
 Timeo lactis similitudinem, ne oblatum
 mihi lac, non lac ovium sit: quia ei simile videatur
 et bubulum. Ut lac ovium lacti ovium simile sit, non
@@ -3140,8 +2945,8 @@ potest simile esse, nisi ovis sit. Similitudo vera in
 veritate naturae est. Veritas autem in utroque naturae
 non negatur homousion.
 
-499
-01:34:22,421 --> 01:34:37,133
+460
+01:34:27,123 --> 01:34:41,386
 Haec est enim secundum
 essentiam similitudo, si massa massae 516 consimilis
 non fallat in bractea, si lac quod concolor est, non
@@ -3149,30 +2954,30 @@ diversum sit in sapore. Simile auro quidquam non
 potest esse, nisi aurum: simile lacti, nisi sui generis
 sit, esse non poterit.
 
-500
-01:34:37,133 --> 01:34:50,982
+461
+01:34:41,386 --> 01:34:57,711
 Fefellit me frequenter color
 vini: et tamen gustatu, alterius generis liquorem
 recognovi. Vidi carnes carnibus similes: sed
 postea mihi naturae dissimilitudinem sapor prodidit. Has enim similitudines, quae non ex unitate
-naturae sint, metuo.
+naturae sint, metuo. 90. Ancyrae fides quibusdam tacitis Sirmium delata.
 
-501
-01:34:50,982 --> 01:34:57,246
-Vereor enim, Fratres, Orientis haereses in tempora
+462
+01:34:57,711 --> 01:35:03,951
+---Vereor enim, Fratres, Orientis haereses in tempora
 singula pullulantes: et quid vereri me dicam,
 jam et legi.
 
-502
-01:34:57,246 --> 01:35:13,853
+463
+01:35:03,951 --> 01:35:20,053
 Nihil quidem in his, quae vos, de Orientalium quorumdam assensu, susceptae legationis ministri subscribenda Sirmium detulistis, nihil suspicionis relictum est: sed habuerunt ab exordio non nihilum offensionis, quae credo vos, sanctissimi viri Basili et Eustathi et Eleusi, ne quid scandali
 
-503
-01:35:13,853 --> 01:35:15,577
+464
+01:35:20,053 --> 01:35:21,724
 afferretur, abolenda tacuisse.
 
-504
-01:35:15,577 --> 01:35:30,921
+465
+01:35:21,724 --> 01:35:36,600
 Quae si recte
 scripta sunt, taceri non debuerunt. Si autem quia non
 recte scripta sunt nunc tacentur, cavendum est ne
@@ -3181,21 +2986,22 @@ nihil dico: tamen mecum recognoscitis, 517 quod
 non ita omnis conscripta apud Ancyram fides se
 habebat.
 
-505
-01:35:30,921 --> 01:35:36,840
+466
+01:35:36,600 --> 01:35:44,567
 Non famae fabulam loquor: litterarum fidem
 teneo, non a laicis sumptam, sed ab episcopis
-datam.
+datam. 91. Ad homousion suscipiendum adhortatio.
 
-506
-01:35:36,840 --> 01:35:43,384
-Oro vos,
+467
+01:35:44,567 --> 01:35:54,630
+Nicaenam
+fidem non nisi exulaturus audivit. ---Oro vos,
 Fratres, adimite suspicionem, excludite occasionem
 . Ut probari possit homoeusion, non improbemus
 homousion.
 
-507
-01:35:43,384 --> 01:35:58,487
+468
+01:35:54,630 --> 01:36:11,197
 Cogitemus tot sacerdotes sanctos
 et quiescentes: quid de nobis Dominus judicabit, si
 nunc anathematizantur a nobis? Quid de nobis erit,
@@ -3203,8 +3009,8 @@ qui rem eo deducimus, ut quia episcopi non fuerunt,
 nos quoque nec coeperimus? Ordinati enim ab his
 sumus, et eorum sumus successores.
 
-508
-01:35:58,487 --> 01:36:14,988
+469
+01:36:11,197 --> 01:36:29,297
 Renuntiemus
 episcopatui, quia officium ejus ab anathemate
 sumpserimus. Date veniam, Fratres, dolori meo:
@@ -3213,13 +3019,13 @@ ut in anathemate sit homousion secundum religiosam
 intelligentiam confitens. Nomen nihil habet
 criminis, quod sensum non perturbat religionis.
 
-509
-01:36:14,988 --> 01:36:19,630
+470
+01:36:29,297 --> 01:36:34,390
 518 Homoeusion nescio, nec intelligo, nisi tantum
 ab similis essentiae confessione.
 
-510
-01:36:19,630 --> 01:36:32,328
+471
+01:36:34,390 --> 01:36:48,318
 Testor Deum
 coeli atque terrae, me cum neutrum audissem, semper
 tamen utrumque sensisse, quod per homousion
@@ -3227,15 +3033,15 @@ homoeusion oporteret intelligi: id est, nihil
 simile sibi secundum naturam esse posse, nisi quod
 esset ex eadem natura.
 
-511
-01:36:32,328 --> 01:36:44,130
+472
+01:36:48,318 --> 01:37:01,264
 Regeneratus pridem, et in
 episcopatu aliquantisper manens, fidem Nicaenam
 numquam nisi exsulaturus audivi: sed mihi homousii
 et homoeusii intelligentiam Evangelia et Apostoli intimaverunt. Pium est quod volumus.
 
-512
-01:36:44,130 --> 01:36:59,569
+473
+01:37:01,264 --> 01:37:18,199
 Ne damnemus
 patres, ne animemus haereticos: ne dum haeresim
 apellimus, haeresim nutriamus. Interpretati patres
@@ -3244,29 +3050,29 @@ religiose, exstant libri, manet conscientia:
 si quid ad interpretationem addendum est,
 communiter consulamus.
 
-513
-01:36:59,569 --> 01:37:07,512
+474
+01:37:18,199 --> 01:37:27,095
 Potest inter nos optimus
 fidei status condi: ut nec ea quae bene sunt constituta
-519 vexentur, et quae male sunt intellecta resecentur.
+519 vexentur, et quae male sunt intellecta resecentur. 92.
 
-514
-01:37:07,512 --> 01:37:22,177
+475
+01:37:27,095 --> 01:37:44,290
 Egressus sum, Fratres charissimi, humanae conscientiae pudorem: et humilitatis meae immemor, de tantis ac tam reconditis rebus, et ad usque hanc aetatem nostram intentatis ac tacitis amore vestri coactus haec scripsi, et quae ipse credebam locutus sum: conscius mihi, hoc me Ecclesiae militiae meae
 
-515
-01:37:22,177 --> 01:37:27,935
+476
+01:37:44,290 --> 01:37:51,041
 stipendium debere, ut per has litteras, episcopatus mei in Christo vocem, secundum doctrinas evangelicas, destinarem.
 
-516
-01:37:27,935 --> 01:37:36,154
+477
+01:37:51,041 --> 01:38:00,677
 Vestrum 520 est
 in commune tractare ac providere atque agere, ut
 quod usque nunc inviolabili fide manetis, religiosa
 conscientia conservetis, et teneatis quod tenetis.
 
-517
-01:37:36,154 --> 01:37:50,328
+478
+01:38:00,677 --> 01:38:17,122
 Mementote
 exsilii mei in orationibus sanctis: a quo
 me, post expositionem hujus fidei, nescio an tam
@@ -3275,132 +3081,7 @@ reverti, quam securum est mori. Deus et Dominus
 noster incontaminatos vos et illaesos in diem revelationis
 reservet opto, Fratres charissimi.
 
-518
-01:37:50,328 --> 01:37:54,744
-521-522 SANCTI HILARII
-APOLOGETICA AD REPREHENSORES
-LIBRI DE SYNODIS RESPONSA
-
-519
-01:37:54,744 --> 01:38:10,115
-I. In haec num. 3: Et licet non sine aliquo aurium
-scandalo . . . . restiterint Orientales Anomoeis. Si diligenter sententia haec expensa esset, forte
-totius tractatus mei ratio non fuisset suspiciosa. Non
-enim tacui esse illic, quod non nisi cum scandalo
-esset audiendum. II. Initio num.
-
-520
-01:38:10,115 --> 01:38:25,381
-13, post recitationem primi decreti Ancyranae synodi. Expositiones omnes (Ancyranae synodi, quae hoc
-libro describuntur), si quid habent criminis, intra se
-habent; caeterum non habere in publica facie existimantur. Sed quia scirem ea sola Sirmium esse delata
-(f eas solas delatas). III.
-
-521
-01:38:25,381 --> 01:38:31,199
-Respicit ista num. 77: Exposita similis substantiae,
-quae homoeusion appellatur, fideli ac pia
-intelligentia.
-
-522
-01:38:31,199 --> 01:38:47,211
-Non puto quemquam admonendum, in hoc loco ut expendat, quare dixerim SIMILIS SUBSTANTIAE PIAM INTELLIGENTIAM, nisi quia intelligerem et impiam: et idcirco similem, non solum aequalem, sed etiam eamdem dixisse, ut neque similitudinem, quam tu, frater Lucifer, praedicari volueras, improbarem; et tamen
-
-523
-01:38:47,211 --> 01:38:52,228
-solam piam esse similitudinis intelligentiam admonerem, quae unitatem substantiae praedicaret.
-
-524
-01:38:52,228 --> 01:39:07,013
-IV. In mss. cum superiori uno tenore continuatum pertinet
-ad hoc num. 78: O studiosi tandem apostolicae
-atque evangelicae doctrinae viri . . . . quantam spem
-revocandae verae fidei attulistis? In eo vero, quod laudans eos in invidiam deducor
-a quibusdam; parum intellectus sum.
-
-525
-01:39:07,013 --> 01:39:22,865
-Non enim eos veram fidem, sed SPEM REVOCANDAE VERAE FIDEI attulisse dixi: ut sicut illi auditi sunt, ita et nos ex hoc contra Valentem et Ursacium possemus audiri, et coaptandus ad eos allocutionis sermo blandus nihil aliud, quam procacium conviciorum effugeret foeditatem; cum amarius atque etiam
-
-526
-01:39:22,865 --> 01:39:28,043
-probrosius in consequentibus (praesertim num 91), occulta expositionum essem scandala proditurus.
-
-527
-01:39:28,043 --> 01:39:34,128
-V. Aptatur his num. 80: Oro autem vos, sanctissimi
-viri, ut cum bona venia sollicitudines meas aestimetis.
-
-528
-01:39:34,128 --> 01:39:42,791
-Pro prudentia vestra expendite, quid sit a sanctissimis
-viris poscere, ut cum bona venia audiant dicentem;
-et an ejusdem sit adulari, et objurgare.
-
-529
-01:39:42,791 --> 01:39:58,998
-Hoc ideo ita dictum est, quia quae ad praesens tacita
-ab his (Legatis Sirmium missis) fuissent, eram
-proditurus (num 90 et 91); non tamen in his, quae
-possent tamquam excusabilia defendi, viderer calumniari. VI. Attinet ad haec num. 87: Et ego invitus licet,
-respondebo, etc.
-
-530
-01:39:58,998 --> 01:40:14,970
-Satis absolute, Domine frater Lucifer, cognosci
-potuit, invitum me homoeusii mentionem habere. Sed
-quia tu similitudinem Filii ad Patrem praedicabas,
-demonstratio ejus a me fuit exponenda sine vitio. VII. His subnectitur num. 88: Synodo Samosatenae
-subscribendum putas. .
-
-531
-01:40:14,970 --> 01:40:30,234
-Subscribamus et Nicaeae
-synodo. Numquid et hic de homoeusione legentem, admonui,
-non aliter ostendens suscipi oportere, nisi ad
-unitatem substantiae referretur? VIII. Reprehensorum oculis exponit hoc num. 89: Et
-me movet (cum scandalo) homoeusii nuditas, etc.
-
-532
-01:40:30,234 --> 01:40:44,732
-Anne quisquam me existimare poterit homoeusion
-velle suscipere, de quo ista tractavi? IX. Huic affine, adducitur post allata exempla eorum
-quae externa similitudine fallunt. Numquid et hic similitudinis negligens fui? 523-524 X. Convenit his num.
-
-533
-01:40:44,732 --> 01:41:01,116
-90: Parcens enim
-adhuc de his nihil dico, quae Ancyrae cum scandalo
-decreta sunt. Anne existimor suspicionem ab his adimere, vel
-ea laudare quibus parco? Parcere enim, et cum dilatione
-ad hoc parcere, nihil improbi est et remissi. XI. In mss. decimo continuatum cadit in illa n.
-
-534
-01:41:01,116 --> 01:41:18,090
-91: Ut
-probari possit homoeusion, non improbemus homousion;
-item et in ista ejusdem numeri: Impium
-est quod audetis, etc. An hic similem substantiam aliud patior esse nisi
-unam? quae si non una sit antea confitenda, jam
-postea impie sit similis praedicanda. XII. Subjicitur post haec num.
-
-535
-01:41:18,090 --> 01:41:30,408
-91: Homoeusion nescio
-nec intelligo, nisi tantum ab similis essentiae confessione,
-etc. Numquid videor quod nescivi probare potuisse
-(accipiendo homoeusion pro similitudine non substantiali)? Non utique.
-
-536
-01:41:30,408 --> 01:41:43,409
-Sed quia fides catholica non debeat
-nisi per unitatem similitudinem credere; ut similitudinem
-tantum ad excludendam unionem commemoret,
-non ad discidium unitatis: idcirco me
-dixi, cum nomina homousii atque homoeusii nescissem,
-tamen per unitatem similitudinem recepisse.
-
-537
-01:41:43,409 --> 01:41:45,576
-Hoc ipsum statim sequens sententia absolvit.
+479
+01:38:17,122 --> 01:38:19,487
+<span class="text-blue-600 font-bold"
 
