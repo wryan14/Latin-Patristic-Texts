@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    Even if there were no God, but only a pure man, it would still be essential for him to be like the first man was created. If we look closely at God's wise justice with clear reasoning, it seems quite absurd that through that lineage, neither created nature, the will of a creature, nor any given power produces or plants. Only God's own will, by a new strength, separates the world from sin through a Virgin, so that no necessity of another's sin, debt, or punishment passes to this man; even if he is not assumed in the person of God but is made as a pure man.\n  </p>\n  <p>\n    By the same logic, God should not have made Adam except as just, nor burdened by any debt or inconvenience. The rational mind clearly sees that the one whom He similarly creates by His own will and strength should not be subjected to any evil, because it is very unsuitable for the goodness of the omnipotent and wise God to create a rational nature by His own will alone from material in which there is no sin. Whoever does not understand this does not recognize what is unsuitable for God.\n  </p>\n  <p>\n    Therefore, even if God were to create a pure man in this way, it would be necessary for him to be endowed with no less justice and blessedness than Adam was when he was first made.\n  </p>\n</speak>",
+      "original_latin": "Quod etsi non   esset Deus, sed purus homo, necesse\ntamen esset illum talem esse, qualis primus\nhomo factus est. Item: si diligenter  puro rationis intuitu sapientem\nDei speculamur justitiam; nimis absurdum\nintelligitur ut per illud semen, non creata natura,\nnec voluntas creaturae, non ulli data potestas \n producit aut seminat; sed solus Dei voluntas propria\nad procreandum hominem, nova virtute mundum\na peccato de Virgine segregat, alieni peccati\nseu debiti sive poenae ad eumdem hominem necessitas\nulla pertranseat; etiamsi non assumatur in\npersonam  Dei, sed ut purus homo fiat. Nam\neadem ipsa ratione, qua non debuit Deus Adam\nfacere nisi justum, nec aliquo debito sive incommodo\ngravatum, aperte mens rationalis cognoscit\neum, quem similiter propria voluntate et virtute\nprocreat , alicui malo subditum fieri non debere:\nquoniam nimis inconveniens est omnipotenti et\n sapienti Dei bonitati, talem facere rationalem naturam\n sola propria voluntate de materia, in qua nullum\nest peccatum. Quod qui non intelligit, non cognoscit\nquid Deo non conveniat . Quapropter\netiam si purum hominem sic faceret Deus, ut dictum\nest; necesse esset eum non minori praeditum esse\njustitia et beatitudine, quam fuit Adam, cum primum\nfactus fuit.",
+      "voice": "Matthew"
+    }
+  ]
+}

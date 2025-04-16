@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Seven<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>The free power of the Son is explained like this.</s>\n    </p>\n    <p>\n        <s>In the Gospel, it says: <break time=\"200ms\"/> Father, I want those you have given me to be with me where I am. <break time=\"400ms\"/> John chapter seventeen.</s>\n    </p>\n    <p>\n        <s>Notice, he did not say, I ask.</s>\n    </p>\n    <p>\n        <s>To the leper in the Gospel, he didn't say, I ask, but rather, I want, be clean. <break time=\"400ms\"/> Matthew chapter eight.</s>\n    </p>\n    <p>\n        <s>Also in the Gospel, when Peter asked to walk on the water, Jesus said: Come. <break time=\"200ms\"/> He didn't ask, but simply said come.</s>\n    </p>\n    <p>\n        <s>And to the Canaanite woman, he said: I was sent only to the lost sheep of the house of Israel. <break time=\"400ms\"/> Matthew chapter fifteen.</s>\n    </p>\n    <p>\n        <s>The woman was a Gentile, yet because he wanted to, he granted her request and healed her daughter, even though he had said he was not sent to her.</s>\n    </p>\n    <p>\n        <s>Christ was destined not for the Gentiles, but for the Jews; yet he said: O woman, great is your faith, let it be done for you as you wish.</s>\n    </p>\n    <p>\n        <s>And her daughter was healed from that very hour.</s>\n    </p>\n    <p>\n        <s>Why did he grant the benefit to her, to whom he said he was not sent?</s>\n    </p>\n    <p>\n        <s>Therefore, you see that he did what he wanted, not what someone else commanded.</s>\n    </p>\n    <p>\n        <s>Also in the psalm, it says of Christ: The Lord did whatever He wanted in heaven, and on earth, in the sea, and in all the depths.</s>\n    </p>\n    <p>\n        <s>He did not say, whatever He asked.</s>\n    </p>\n</speak>",
+      "original_latin": "De libera Filii potestate sic docetur. In Evangelio\ndicit: Pater, volo ut ubi ego sum, et isti sint mecum\n(Joan XVII). Non dixit, peto. Non dixit in Evangelio\nad leprosum, peto, sed volo, mundare (Matth VIII). Item in Evangelio ad Petrum, dum se peteret ut ambularet\nsuper aquam, ait Jesus: Veni. Non rogavit,\nsed veni dixit. Item ad Chananaeam mulierem dixit:\nNon sum missus nisi ad oves quae perierunt domus\nIsrael (Matth XV). Gentilis erat mulier, tamen quia\nvoluit, praestitit beneficium et sanavit filiam ejus, ad\nquam se missum non esse dixerat. Non enim ad gentes,\nsed ad Judaeos erat destinatus Christus; tunc\ndixit: O mulier, magna est fides tua, fiat tibi sicut vis. Et sanata est filia ejus ex illa hora. Ad quam se missum\n non esse dixerat, quare concedebat beneficium\nei? Ergo vides quia quae voluit fecit, non quae alius\nimperavit. Item in psalmo de Christo dicit: Omnia\nquaecunque Dominus voluit fecit in coelo, et in terra,\nin mari et omnibus abyssis. Non dixit, quaecunque petivit.",
+      "voice": "Matthew"
+    }
+  ]
+}

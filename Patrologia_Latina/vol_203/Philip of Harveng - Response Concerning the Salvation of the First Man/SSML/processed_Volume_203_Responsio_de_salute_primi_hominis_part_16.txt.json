@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XV.",
+      "cleaned_english_translation": "<speak>\n    Chapter Fifteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>And the Lord asked the woman, \"Why did you do this?\"</s>\n        <s>She answered, \"The serpent deceived me, and I ate.\" Genesis 3.</s>\n    </p>\n    <p>\n        <s>This was indeed true, though not wisely stated.</s>\n        <s>She was deceived by the serpent.</s>\n        <s>However, she shouldn't have transgressed due to deception, nor should she have added excuses for her transgression.</s>\n    </p>\n    <p>\n        <s>No one should be troubled if, after mentioning that Adam was called by the Lord, he was found to have sinned.</s>\n        <s>I didn't say this calling was given to him to prevent him from ever sinning again, but so he wouldn't stubbornly persist in sin.</s>\n    </p>\n    <p>\n        <s>Who would claim that he committed no sin after being called by God, especially since he lived for such a long time afterward?</s>\n        <s>He had already lost his state through disobedience, and if he had stayed in that state, he wouldn't have felt any sin at all.</s>\n    </p>\n    <p>\n        <s>But because he lost it, he fell into this miserable and pitiable life, where one cannot live without sin, but is delivered from it by Him who is commendably called by God through this calling.</s>\n    </p>\n    <p>\n        <s>You're surely aware that Moses, in Numbers 20, after receiving divine calling, provoked God at the waters of Meribah.</s>\n        <s>Because of that, he didn't enter the Promised Land, yet he wasn't excluded from eternal blessing.</s>\n    </p>\n</speak>",
+      "original_latin": " Et dixit, inquit, Dominus ad mulierem: Quare\nhoc fecisti? Quae respondit: Serpens decepit me, et\ncomedi (Gen III). Et hoc quidem veraciter, etsi\nnon sapienter, dictum est. Est enim decepta a serpente. Verumtamen nec transgredi per deceptionem,\nnec transgressioni superaddere debuit excusationem. Nec moveat quemquam si post vocationem qua dixi\na Domino Adam fuisse vocatum, invenitur commisisse\npeccatum, cum non dixerim hoc illi vocationem\nconferre, ne omnino ulterius peccaret, sed ne in\npeccatis pertinaciter permaneret. Quis enim se tam\nparvo sensu induerit, ut dicat quod ille, postquam a\nDeo vocatus est, nullum peccatum commiserit, cum\ntanto postea tempore vixerit; qui illum per inobedientiam\njam perdiderat statum, in quo si permansisset,\nnullum omnino sensisset peccatum? Quia vero\nillum perdidit, in hanc miseriam et miserandam decidit\nvitam, in qua jam non vivitur sine peccato;\nsed liberatur ab eo qui hac vocatione commendabili\nvocatur a Deo. Nostis profecto Moysen (Num XX)\npost gratiam divinae vocationis irritasse Deum ad\n aquas contradictionis, et ob id non intrasse terram\npromissionis, nec tamen exclusum a finibus aeternae\nbenedictionis.",
+      "voice": "Matthew"
+    }
+  ]
+}

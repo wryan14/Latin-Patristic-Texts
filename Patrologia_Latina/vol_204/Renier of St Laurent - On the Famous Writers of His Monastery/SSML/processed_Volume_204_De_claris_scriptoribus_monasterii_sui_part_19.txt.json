@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XVII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Seventeen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About the Monk Nizon.</s>\n        <s>Let's not forget about Nizon, who became a persistent example of the nature of learning.</s>\n        <s>Although he had a slow and almost turtle-like mind, he sharpened it through practice, and with constant meditation and reading, he reached the heights of polished advancement, almost as if he had grown wings.</s>\n        <s>He composed notable melodies about the holy martyrs John and Paul, Saints Nazarius and Celsus, and Lord Frederick, the Bishop of Liege, about whom he also wrote a booklet detailing his deeds, death, or miracles.</s>\n        <s>He was a simple man who could be deceived but did not know how to deceive others.</s>\n        <s>As a result, when we were young boys learning from him, we could easily provoke him and avoid his anger, almost as if dodging the strikes of someone who was off balance.</s>\n    </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "De Nizone monacho. Nec vero Nizonem omiserim nostrum, quem importunum\nquodammodo naturae, discendi solemne\nhabuimus exemplar. Quippe dum obtuso et quasi\ntestudineo esset ingenio, tamen exercitiis acuebatur,\ndonec meditatione seu lectione assidua quasi\n duabus alis in culmen assurgeret elimati provectus. Claras edidit Melodias de sanctis Joanne et Paulo\nmartyribus, de sanctis Nazario et Celso, de domno\nFrederico Leodiensi episcopo, ex cujus etiam gestis,\nobitu vel miraculis Libellum scripsit. Falli poterat,\nfallere homo simplex ignorabat. Proinde nos pueruli,\ncum ab illo doceremur, undelibet nobis iratum\nfacile supplantabamus, ac veluti ex alto aere cadentia\nlibrantis et ferientis eludebamus verbera.",
+      "voice": "Matthew"
+    }
+  ]
+}

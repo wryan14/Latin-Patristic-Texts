@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXVII  . ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twenty-Seven<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>What original sin is, and how it is equal in everyone.</p> \n  <s>I understand original sin to be simply what exists in an infant as soon as it has a rational soul.</s> \n  <s>Whatever might have happened to the body before it was animated, like any physical corruption, or whatever happens afterward, either in the soul or body.</s> \n  <s>For these reasons, I believe it is the same in all naturally born infants, and all who die with only that sin are equally condemned.</s> \n  <break time=\"500ms\"/> \n  <s>Indeed, any sin added beyond that is personal.</s> \n  <s>Just as a person is born a sinner by nature, the nature itself becomes more sinful through the person.</s> \n  <s>Because when any person sins, humanity sins.</s> \n  <break time=\"500ms\"/> \n  <s>This sin, which I call original, is nothing more in those infants than the state I described earlier.</s> \n  <s>It is caused by Adam's disobedience to rightful justice, making all children of wrath.</s> \n  <s>It accuses the spontaneous nature created in Adam of abandoning justice.</s> \n  <s>Nor does it excuse individuals, as mentioned in chapter two, from the inability to recover, which is accompanied by a lack of blessedness.</s> \n  <s>So just as they are without all justice, they are also without all blessedness.</s> \n  <break time=\"500ms\"/> \n  <s>Through these two lacks, they are exposed in this life's exile, vulnerable to sins and miseries that occur constantly and overwhelm from all sides.</s> \n  <s>Except insofar as they are protected by divine arrangement.</s>\n</speak>",
+      "original_latin": "Quid sit originale peccatum, et quod in omnibus\nsit aequale. Originale igitur peccatum non aliud intelligo,\n quam quod est in infante, mox ut animam habet\n rationalem; quidquid prius in corpore nondum sic\nanimato factum sit (ut aliqua membrorum corruptio)\nvel post  sive in anima, sive in corpore, futurum\nsit. Quod propter praedictas  aestimo rationes in\nomnibus infantibus naturaliter propagatis esse\naequale , et omnes qui in illo solo moriuntur\naequaliter damnari. Siquidem quidquid peccati super\nillud additur in homine, personale  est: et sicut\npersona, propter naturam, peccatrix nascitur, ita\nnatura per personam  magis peccatrix redditur,\nquia cum peccat persona quaelibet, peccat homo. Hoc peccatum, quod originale dico, aliud intelligere\nnequeo in eisdem infantibus, nisi ipsam quam \nsupra posui, factam per inobedientiam Adae justitiae\ndebitae nuditatem, per quam omnes filii sunt irae,\n quoniam et naturam accusat spontanea, quam fecit\nin Adam, justitiae desertio; nec personas excusat, ut\ndictum est (cap 2), recuperandi impotentia, quam\ncomitatur beatitudinis quoque nuditas, ut sicut sunt\nsine omni justitia, ita sint absque omni beatitudine:\nper quas duas nuditates in hujus vitae exsilio expositi\nsunt , et patentes  peccatis et miseriis\nincessanter ubique occurrentibus, et undique irruentibus,\nnisi quantum divina defenduntur dispositione.",
+      "voice": "Matthew"
+    }
+  ]
+}

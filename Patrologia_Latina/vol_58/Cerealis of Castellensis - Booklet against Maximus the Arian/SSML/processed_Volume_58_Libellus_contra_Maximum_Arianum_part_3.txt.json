@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT IV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Four<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>This chapter teaches how the Father glorifies the Son.</s>\n        <s>The Son also glorifies the Father, as the Gospel records the Son speaking to the Father: <break time=\"500ms\"/> \"I have glorified you on earth.\"</s>\n        <s>The Son further says: <break time=\"500ms\"/> \"Father, glorify your Son, so that your Son may glorify you.\"</s>\n    </p>\n    <p>\n        <s>The Holy Spirit also glorifies the Son, as it's written: <break time=\"500ms\"/> \"He will glorify me, because he will receive from what is mine and announce it to you.\"</s>\n        <s>If the Holy Spirit glorifies the Son, then the Holy Spirit is never greater than the Son.</s>\n    </p>\n    <p>\n        <s>The Son himself says in the Psalm: <break time=\"500ms\"/> \"The sacrifice of praise will honor me.\"</s>\n        <s>Thus, the sacrifice of praise represents the burnt offering of suffering; in suffering, the man is glorified, for God is always glorious.</s>\n    </p>\n    <p>\n        <s>Do you want to understand that the Son has always been glorious and is the God of glory?</s>\n        <s>The Apostle Paul mentions regarding the Jews: <break time=\"500ms\"/> \"For if they had known, they would never have crucified the Lord of glory.\"</s>\n    </p>\n    <p>\n        <s>Therefore, the one who could die could also be glorified, but only as a man.</s>\n        <s>Listen to what the Son himself says about sanctifying himself: <break time=\"500ms\"/> \"In truth, saying, I sanctify myself.\"</s>\n    </p>\n</speak>",
+      "original_latin": "Quomodo clarificet Pater Filium, sic docetur. Nam\net Filius clarificat Patrem, sicut scriptum est in Evangelio\ndicente ipso Filio ad Patrem: Ego te clarificavi\nsuper terram. Iterum ipse Filius dicit: Pater, clarifica\nFilium tuum, ut et Filius tuus clarificet te. Et ipse\nSpiritus sanctus clarificat Filium, quia scriptum est:\nIpse me clarificabit, quia de meo accipiet, et annuntiabit\nvobis. Si ergo clarificat Spiritus sanctus Filium,\n nunquam major est Filio Spiritus sanctus. Et ipse\nFilius dicit in psalmo: Sacrificium laudis honorificabit\nme. Ergo sacrificium laudis holocaustum passionis\naccipitur; in passione ergo clarificatur homo, nam\nDeus semper est gloriosus. Vis scire quia non solum\nsemper gloriosus fuit Filius, sed et Deus gloriae fuit et\nest, apostolus Paulus dicit de Judaeis: Si enim cognovissent,\nnunquam Dominum gloriae crucifixissent. Nunc\nergo qui mori potuit, ipse et glorificari potuit, homo\ntantum. Nam audi quid dicat ipse Filius, quomodo se\nipse sanctificat: In veritate, dicens, sanctifico meipsum.",
+      "voice": "Matthew"
+    }
+  ]
+}

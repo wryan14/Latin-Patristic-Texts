@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Six<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>When God punishes for sin, it's not without reason.</s>\n    <s>Some people, when they hear that sin is nothing, often ask, \"If sin is nothing, why does God punish someone for it, since no one should be punished for nothing?\"</s>\n    <s>Although this question seems simple, because they don't fully understand what they're asking, a brief response is necessary.</s>\n  </p>\n  <p>\n    <s>Even though the absence of justice is nothing, whether it should be present or not, God rightly punishes sinners not for nothing, but for something. As I mentioned in the previous book, He requires the honor due to Him, which they refused to give willingly, from those who are unwilling. To maintain order in His kingdom, He separates them from the just in a suitable arrangement.</s>\n    <s>However, He doesn't punish creatures where justice shouldn't exist for the absence of it-that is, for nothing-because there's nothing He expects from them, nor does the order of the universe demand it.</s>\n  </p>\n  <p>\n    <s>Therefore, when God punishes for sin, which is the absence of due justice, He doesn't entirely punish for nothing. It's true that unless there's something for which He should punish, He doesn't punish for nothing at all.</s>\n    <s>Now, sin and injustice are nothing, and they exist only in the rational will; nothing else can rightly be called unjust except the will.</s>\n    <s>From what has been said, I believe this is clear.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod cum punit Deus pro peccato, non puniat pro\nnihilo. Quidam cum audiunt peccatum nihil esse, solent\ndicere: Si peccatum nihil est, cur punit Deus hominem\npro peccato, cum pro nihilo puniri nemo debeat? Quibus, quamvis humilis sit quaestio, tamen\nquia quod quaerunt ignorant, aliquid breviter respondendum \nest. Licet pariter nihil sit absentia justitiae,\net ubi debet esse justitia, et ubi non debet esse; punit\ntamen Deus recte peccatores non pro nihilo, sed\npropter aliquid, quia (ut in praefato libro dixi) et debitum\n sibi honorem, quem sponte reddere noluerunt,\nab invitis  exigit; et ne quid inordinatum\nsit in regno ejus, eos separatim a justis ordine competenti\n disponit. Creaturas autem in quibus justitia\nnon debet esse, non punit pro absentia justitiae hoc\nest pro nihilo: quia non est aliquid, quod ab illis\nexigat; nec ordo congruus universitatis rerum hoc\npostulat . Sic itaque cum punit Deus pro peccato,\nquod est absentia debitae justitiae, quae nihil est;\nnon omnino punit pro nihilo: et verum est quia nisi\nsit aliquid, propter quod punire debeat, omnino non\npunit pro nihilo . Jam peccatum et injustitiam\nnihil esse: et haec non esse nisi  in rationali voluntate,\nnec ullam essentiam proprie dici injustam\nnisi voluntatem: ex his quae dicta sunt, apertum\nesse existimo.",
+      "voice": "Matthew"
+    }
+  ]
+}

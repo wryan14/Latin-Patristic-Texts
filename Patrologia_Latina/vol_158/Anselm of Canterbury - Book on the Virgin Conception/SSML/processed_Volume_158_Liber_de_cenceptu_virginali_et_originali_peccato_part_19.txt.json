@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Eighteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>That God was conceived by a righteous Virgin, not out of necessity, as if He could not be born from a sinner, but because it was fitting.</s>\n  </p>\n  <p>\n    <s>The Son of God was truly conceived by the purest Virgin, but this was not out of necessity.</s> \n    <s>It wasn't that a righteous child could not be born from a sinful parent through such propagation.</s>\n    <s>Rather, it was fitting for this miraculous conception to be from a most pure mother.</s>\n  </p>\n  <p>\n    <s>It was appropriate that the Virgin, whom God the Father intended to give His only Son-whom He loved as Himself, being born equal to Him from His own heart-should possess a purity that could not be greater under God.</s>\n  </p>\n  <p>\n    <s>The Son was to be naturally the common Son of both God the Father and the Virgin.</s> \n    <s>He chose this Virgin to truly make her His mother.</s> \n    <s>From her, the Holy Spirit wished and intended to conceive and bring forth the one from whom He Himself proceeded.</s>\n  </p>\n  <p>\n    <s>How the same Virgin was cleansed through faith before her conception is explained in Book Two, Chapters Sixteen and Seventeen, where I also provided another explanation of this topic.</s>\n  </p>\n</speak>",
+      "original_latin": "Quod de Virgine justa Deus conceptus sit, non necessitate  ,\nquasi de peccatrice nasci non posset  ,\nsed quia sic decebat. Quamvis ergo de mundissima Virgine Filius Dei\nverissime conceptus sit, non tamen hoc ea necessitate\nfactum est, quasi de peccatrice parente justa\nproles rationabiliter generari per hujusmodi propagationem\nnequiret: sed quia decebat ut illius hominis\nconceptio de matre purissima fieret. Nempe decens\nerat, ut ea puritate, qua major sub Deo\nnequit intelligi, Virgo illa niteret, cui Deus Pater\nunicum Filium suum , quem de corde  suo\naequalem sibi genitum, tanquam seipsum  diligebat,\nita dare disponebat, ut naturaliter esset unus\nidemque communis Dei Patris et Virginis Filius: et\n quam ipse Filius substantialiter facere sibi matrem\neligebat; et de qua Spiritus sanctus volebat, et operaturus\nerat, ut conciperetur et nasceretur ille de\nquo ipse procedebat . Qualiter autem  Virgo\neadem per fidem ante ipsam conceptionem mundata\nsit, dixi (lib II cap 16 17); ubi aliam rationem\nde hoc ipso, unde agitur hic, reddidi.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Eight<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Addressing the belief that the one who generates is greater, and the one who is generated is lesser.</s>\n  </p>\n  <p>\n    <s>These concepts have been understood over time, but in Christ, there is no concept of time, as all things were made through him.</s>\n    <s>He is not eternal in the way we understand time, as he is known to be generated before time began.</s>\n    <s>Consider how Adam was created by no one, yet he and his son were equal and alike because they were both human.</s>\n  </p>\n  <p>\n    <s>Greater and lesser distinctions arise over time, as one ages and another matures.</s>\n    <s>But with God, there is no concept of time.</s>\n    <s>Time itself was created through the Son, and nothing about God is temporal.</s>\n  </p>\n  <p>\n    <s>So, remove the concept of time, and then show me what is greater or lesser.</s>\n  </p>\n  <p>\n    <s>The apostle Paul talks about Christ being lesser, not only than his Father but also than angels, in his message to the Hebrews:</s>\n    <s>He states, \"We see Jesus made a little lower than the angels.\"</s>\n    <s>Why?</s>\n    <s>He explains: Because he suffered death.</s>\n    <s>(Letter to the Hebrews, Chapter 2)</s>\n  </p>\n</speak>",
+      "original_latin": "Contra id quod dicit: Major est qui generat, minor\nest qui generatur. Haec temporibus cognoscuntur,\nin Christo autem nulla sunt tempora, per quem omnia\nfacta sunt. Non est enim ex tempore sempiternus,\nqui ante tempora noscitur generatus, sicut legimus\nquia Adam a nullo genitus est, et tamen ipse\net filius ejus ambo erant pares et aequales, quia ambo\nerant homines. Major et minor temporibus fiunt,\n quia unus senescit, et alius crescit. Sed apud Deum\nnunquam fuerunt tempora. Ipsa enim tempora per Filium facta sunt, et nihil in\nDeo temporale est. Tolle ergo tempora, et ostende\nmihi majorem et minorem. Quemadmodum minor sit\nFilius non solum Patre suo, sed et angelis, apostolus\nPaulus ad Hebraeos de ipso dicit: Nunc, inquam,\nmodico minus ab angelis minoratum vidimus Jesum. Quare? Sequitur: Propter passionem mortis (Hebr II).",
+      "voice": "Matthew"
+    }
+  ]
+}

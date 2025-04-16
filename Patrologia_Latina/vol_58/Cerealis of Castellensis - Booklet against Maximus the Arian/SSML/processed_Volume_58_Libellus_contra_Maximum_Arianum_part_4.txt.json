@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    Chapter Five<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "CAPUT V. \n",
+      "voice": "Ruth"
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>It is taught that the Son is almighty. In Solomon, we read: <s>Your almighty word, Lord, leaping down from your royal throne, entered the land of destruction.</s> This is from Wisdom chapter 18. Therefore, he is also a king who holds royal thrones.</p>\n  <p>Also, in Revelation: <s>These are the words of the Son of God, who is and who was the almighty God.</s></p>\n  <p>In the Gospel: <s>Everything that the Father does, the Son does likewise.</s> This is from John chapter 5.</p>\n  <p>Also in the Gospel: <s>Just as the Father raises the dead and gives them life, so the Son gives life to whom he wishes.</s></p>\n  <p>In Isaiah, the Son says: <s>Behold, I will stretch out my hand over you, and those who plundered you will be plundered, and you will know that I am the almighty Lord, and the almighty Lord is the one who sent me.</s></p>\n  <p>The prophet Jeremiah says: <s>He is great and has no end. Exalted and immense is our God, and there is no other.</s></p>\n  <p>To show it is said of Christ, it follows: <s>Later he was seen on earth and lived among men.</s></p>\n  <p>The Apostle also says: <s>But we preach Christ, the power of God, and the wisdom of God.</s></p>\n  <p>Also, when he speaks of the Jews: <s>Whose are the fathers, and from whom Christ according to the flesh, who is over all things, God blessed forever. Amen.</s></p>\n</speak>\n",
+      "original_latin": "Quod omnipotens est Filius, sic docetur. In Salomone\nlegitur: Omnipotens sermo tuus, Domine, exiliens\n a regalibus sedibus tuis, in mediam exterminti\nterram prosilivit (Sap XVIII). Ergo et rex est qui\nregales obtinet sedes. Item in Apocalypsi: Haec dicit\nFilius Dei, qui est et qui fuit omnipotens Deus,\nIn Evangelio: Omnia quaecunque Pater facit, haec et\nFilius similiter facit (Joan V). Item in Evangelio:\nSicut Pater suscitat mortuos et vivificat, sic Filius quos\nvult vivificat. In Isaia Filius dicit: Ecce ego mittam\nmanum meam super vos et depraedubuntur qui depraedaverunt\nvos, et scietis quia Dominus omnipotens sum,\net qui misit me Dominus omnipotens est. Jeremias propheta dicit: Magnus est, et non habet\nfinem, excelsus et immensus hic Deus noster; et non est\nalius. Et ut appareat de Christo dici, sequitur: Postea\nin terris visus est, et cum hominibus conversatus est. Item Apostolus: Nos autem, inquit, praedicamus Christum,\nDei virtutem, et Dei sapientiam. Item ipse cum\nde Judaeis loquitur: Quorum patres, inquit, et ex quibus\nChristus secundum carnem, qui est super omnia\nDeus benedictus in saecula. Amen.",
+      "voice": "Matthew"
+    }
+  ]
+}

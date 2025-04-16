@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. I. ",
+      "cleaned_english_translation": "<speak>\n    Chapter One<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>This little book introduces a topic of interest.</s>\n        <s>My own mistakes seem as if they're marked with a black stone.</s>\n        <s>Sometimes I yearn for little pieces of Parian marble, sometimes for precious pearls with a milky hue, so that these cherished items can clearly reflect the topics that a close group of friends recently suggested for discussion.</s>\n        <s>These are worthy of exploration and beneficial to understand, as one person rightly seeks what can benefit many.</s>\n    </p>\n    <p>\n        <s>Specifically, he asked: Why, before the Lord's Birth, are the nine antiphons that start with \"O\" sung over nine days with the Gospel hymn at the evening church service?</s>\n        <s>Additionally, why is the passion of Saint Stephen, the first martyr, commemorated on the second day of the Lord's Birth, and the assumption of Saint John the Evangelist on the third, when traditionally one passed on August 3 and the other on June 26, attaining eternal life through death, but being celebrated more promptly?</s>\n        <s>Why is the fourth day designated for the Innocents, when it's not clearly established that their passion occurred then?</s>\n    </p>\n    <p>\n        <s>First, I'll discuss these topics and then address the other questions he raised, covering them more extensively as requested, even though I would have preferred to be more concise.</s>\n    </p>\n</speak>",
+      "original_latin": "Proponitur argumentum libelli. Meae quidem ineptiae quasi nigro calculatae sint\nlapillo. Nunc Parii vero crustula marmoris, nunc\npretiosos lactei aspectus exoptaverim uniones,\nquo calculus ea digerat clarus in numerum, quae\ndisserendae intimus nuper proposuit amicorum. Quaesitu etenim digna et scitu sunt utilia; et unus\nimpetrat jure quod pluribus velit prodesse. Videlicet\n quaesivit: Cur ante Dominicum Natale novem\nantiphonae ab O incipientes, novem aeque diebus super\nEvangelii canticum ad vespertinam synaxim\ncanantur in ecclesia? Item cur passio sancti Stephani\nprotomartyris secunda Dominici Natalis die,\nassumptio sancti Joannis evangelistae tertia celebretur,\ndum alter secundum traditionem majorum III\nnonas Augusti passus, alter VI Kal. Julii ad perpetuam\n sit assumptus immortalitatem, moriendo quidem,\nsed celerius tamen reviviscendo? cur etiam\nquarta Innocentibus sit deputata, dum non facile\nconstet, quod tunc passio illorum provenerit. Haec\nitaque primo, dehinc caetera quaestionum, quas\nsciscitatus est, disseram, pro voluntate rogantis\nlatius inde tractando, licet strictior esse maluissem.",
+      "voice": "Matthew"
+    }
+  ]
+}

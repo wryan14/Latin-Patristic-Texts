@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT IX. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Nine<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n      As we delve into the New Testament, we find that Christ's calling is anything but idle; it's incredibly fruitful, as it appears to be an infusion of spiritual grace.\n    </s>\n    <s>\n      When the evangelist Matthew talks about James and John, he says: \n      <break time=\"500ms\"/> \n      \"As Jesus was walking, he saw two other brothers, James the son of Zebedee and his brother John, mending their nets, and he called them\" Matthew chapter four.\n    </s>\n    <s>\n      The nature of this calling, the kind of grace it involved, is clarified when he adds: \n      <break time=\"500ms\"/> \n      \"And immediately they left their nets and their father and followed him.\"\n    </s>\n    <s>\n      Just as Peter and Andrew, upon hearing \"Come, follow me, and I will make you fishers of men,\" immediately left their nets to follow him, James and John did the same. They left their nets and their father to follow him, even though they aren't recorded to have been invited with those exact words, just called.\n    </s>\n    <s>\n      This same account is found in Mark, chapter three, and Luke, chapter five, who also describe their calling.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Quod si ad Novum Testamentum venire libuerit,\ninvenietur et ibi Christi vocatio non esse otiosa,\nimo incomparabiliter fructuosa, dum nihil aliud videtur\nejus esse vocatio, quam quaedam gratiae spiritalis\ninfusio. Unde Matthaeus evangelista cum de\n Jacobo et Joanne loqueretur: Procedens, inquit,\nJesus, vidit alios duos fratres, Jacobum Zebedaei et\nJoannem fratrem ejus, reficientes retia sua, et vocavit\neos (Matth IV). Quid autem in hoc quod ait, vocavit\neos, intelligi voluerit, id est cujus gratiae\nhaec vocatio fuerit, manifestat cum subjungit: At\nilli, relictis retibus et patre, secuti sunt eum (ibid). Sicut enim paulo ante Petrus et Andreas audito:\nVenite post me, et faciam vos fieri piscatores hominum,\ncontinuo relictis retibus secuti sunt eum\n(ibid ), sic nimirum Jacobus et Joannes, relictis\nretibus et patre, secuti sunt eum, cum tamen talibus\nverbis non legantur fuisse invitati, sed tantummodo\nvocati. Hoc idem Marcus (cap III) et Lucas (cap V)\ntestati sunt, qui de eorum vocatione locuti sunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

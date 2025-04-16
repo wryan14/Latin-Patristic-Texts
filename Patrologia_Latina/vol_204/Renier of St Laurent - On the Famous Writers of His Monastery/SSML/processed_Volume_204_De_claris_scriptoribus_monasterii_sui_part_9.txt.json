@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. VII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Seven<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n  \n    <s>About Heribrand, the fifth abbot, a follower of Louis the Second.</s>\n  </p>\n  <p>\n    <s>Heribrand, our fifth abbot, was a devoted follower of his.</s>\n    <s>In him, the wisdom of his mind matched the grayness of his hair. Ecclesiastes chapter nine suggests that his clothes were always white, representing chastity girding his loins, and the lamp in his hands symbolized his love for God and his neighbor burning brightly.</s>\n  </p>\n  <p>\n    <s>He was highly skilled at composing both prose and poetry, well-versed in divine and human literature.</s>\n    <s>He wrote the Life of Theodoric the Younger, the abbot of Saint Hubert.</s>\n  </p>\n  <p>\n    <s>He didn't hide his wealth of knowledge but willingly taught those who were uninformed, always maintaining a calm demeanor in both mind and voice.</s>\n    <s>What is said gently by the teacher is better understood by the learner.</s>\n    <s>Minds should be engaged by skill rather than force.</s>\n  </p>\n</speak>",
+      "original_latin": "De Heribrando quinto abbate, Ludovici\naltero auditore. Hujus quoque exstitit auditor Heribrandus abbas\nnoster quintus, in quo canities sensuum canitiei\ncongrueret capillorum, cujus secundum Ecclesiasten\n(cap IX) omni tempore vestimenta essent candida,\ncum succinctos haberet castimonia lumbos,\nlucernam in manibus, id est operibus Dei et proximi\ndilectione ardentem. Ad dictandum erat sive\nad versificandum promptissimus, tamque divina\nquam humana praeditus litteratura. Hic Vitam\nTheodorici junioris de Sancto Huberto abbatis scripto\n tradidit. Nec pecuniam scientiae habebat repositam\nin sudario, sed ultro etiam docebat inscios\nsemper placiditate et animi utens et vocis. Capitur\nenim a discente melius, quod dicitur a docente\nlenius. Arte potius quam vi tractanda sunt ingenia.",
+      "voice": "Matthew"
+    }
+  ]
+}

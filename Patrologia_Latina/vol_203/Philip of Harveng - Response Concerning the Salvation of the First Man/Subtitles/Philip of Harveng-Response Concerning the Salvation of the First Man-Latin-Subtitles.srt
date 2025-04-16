@@ -1,0 +1,2909 @@
+1
+00:00:00,000 --> 00:00:01,463
+PROLOGUS.
+
+2
+00:00:01,463 --> 00:00:13,533
+Cum inter fratres meos de divinis plerumque
+Scripturis fabularer, et nihil sciens, scire tamen
+aliquid aestimarer: interrogatus sum ab eis aliquoties,
+nonnulla in quibus movebantur, quae vel ad
+intelligendum difficilia, vel ad credendum eis non
+satis consentibilia videbantur.
+
+3
+00:00:13,533 --> 00:00:26,609
+Quae cum me nescire responderem, vel in praesentiarum non vacare, ut eis Scripturarum testimonia recenserem, haec eis responsio non sufficiebat, sed me vel simulatae ignorantiae, vel occupatae cujusdam tenaciae charitas eorum arguebat, hoc enim est summi desiderii, si tamen ardenter inflammatur, ut
+
+4
+00:00:26,609 --> 00:00:32,775
+fere patientiam nesciat, si paulum differatur; unde illud cujusdam aethnici non incongrue ventilatur: Animo cupienti nihil satis festinatur .
+
+5
+00:00:32,775 --> 00:00:45,719
+Ne ergo scire volentibus et inquirentibus, dum non respondeo, videar invidere, et eis quibus debeo si quid habeo, dum nil confero, merear displicere, congruum duxi quibusdam eorum inquisitionibus dictando potius colloquendo respondere, non quod praesumam eorum ad unguem solvere quaestiones, quod
+
+6
+00:00:45,719 --> 00:00:51,273
+temerarium forte est polliceri, sed qualescunque reddere responsiones, quod facilius, si tamen juverit, Deus poterit adimpleri.
+
+7
+00:00:51,273 --> 00:01:03,386
+Si autem quod scripsero, in manus vel
+aures cujuspiam venerit sapientis, ne, quaeso, festinet
+praesumptuosum judicare, quod responsiones meas
+scripto voluerim commendare, quia, etsi hoc videbitur
+non necessarium eruditis, non erit tamen inutile
+mihi et mei similibus imperitis.
+
+8
+00:01:03,386 --> 00:01:14,319
+Quia enim eorum,
+quae forte utiliter cogito non est satis fida custos
+memoria, sed per lubrica quaedam oblivionis
+in regionem pleraque diffugiunt perditionis: volui
+nonnulla eorum scripti vinculo innectere, ut eo ad
+memoriam fugitiva possem reducere.
+
+9
+00:01:14,319 --> 00:01:27,263
+Viro autem
+sapienti et divinas Scripturas memoriter retinenti
+scriptum manans de paupere vena, non est, fateor,
+magnopere amplectendum, quod tamen simplicibus
+et minus eruditis, non est abjiciendum. Denique non
+est ascribendum praesumptioni, quod fraternae humiliter
+impenditur dilectioni.
+
+10
+00:01:27,263 --> 00:01:30,983
+Haec (si videtur) sufficiant
+ad prooemium, ut jam prima responsio sumat
+exordium.
+
+11
+00:01:30,983 --> 00:01:32,615
+CAPUT PRIMUM.
+
+12
+00:01:32,615 --> 00:01:40,554
+Quaeritis, fratres, utrum primus Adam salvus habeatur,
+cum eum damnabiliter peccasse Genesis
+liquido fateatur; poenituisse vero eum ibidem aperte
+non legatur.
+
+13
+00:01:40,554 --> 00:01:49,749
+Illum quidem peccasse, omnes nos, non
+solum legendo, verum et experiendo scimus, cum et
+in hac vita misere vivendo, et de hac vita miserrime
+recedendo, peccati illius poenam sentimus.
+
+14
+00:01:49,749 --> 00:02:02,310
+Qui
+qualis fuerit ante peccatum formatus, et post peccatum
+qualiter deformatus, non est superfluum
+dicere, quamvis sciatur, cum ad id quod intendo,
+necessarium videatur. In eo quippe statu ille factus
+est homo, in quo nullus post eum factus est homo.
+
+15
+00:02:02,310 --> 00:02:07,786
+Factus est enim mortalis et immortalis, mortalis
+quidem, ut posset mori, immortalis vero, ut posset
+non mori.
+
+16
+00:02:07,786 --> 00:02:17,433
+Data est ei libera facultas peccandi et
+non peccandi, et utriusque rei apposita merces,
+moriendi et non moriendi; ut videlicet si peccaret,
+mors sequeretur, si non peccaret, nunquam moreretur.
+
+17
+00:02:17,433 --> 00:02:31,551
+Quia vero, ut postea scriptum est, Omne
+animal diligit simile sibi (Eccli XIII); datum est
+ei adjutorium simile sibi (Eccli XVII); et aedificata
+est mulier, non aliunde quam de costa illius dormientis,
+ut ei naturali quodam affectu amabiliter
+sociaretur, et tali solatio frueretur.
+
+18
+00:02:31,551 --> 00:02:37,983
+Positus est in
+paradiso, quae diversi generis arboribus consita erat,
+ut earum et fructu vesceretur, et amoenitate delectaretur.
+
+19
+00:02:37,983 --> 00:02:49,137
+Ubi et duo ligna inter caetera posita erant,
+quae nominibus suis manifestare videntur quod erant;
+quorum unum lignum vitae, alterum lignum scientiae
+boni et mali appellabatur, ab effectu eo, scilicet
+quod talia operabatur.
+
+20
+00:02:49,137 --> 00:02:55,618
+Concessum est igitur Adae,
+ut de ligno paradisi comedens, famis molestias declinaret,
+de ligno vitae, mortem et senium devitaret.
+
+21
+00:02:55,618 --> 00:03:08,280
+Et ne in tanta gloria constitutus, sicut Angelus
+antea, temere superbiret, impositum est ei mandatum,
+cui salubriter obediret, ut qui caeteris in terra
+animantibus dignitate praeesset, obedientiae tamen
+jugo depressus, soli Deo subditus esset.
+
+22
+00:03:08,280 --> 00:03:15,941
+Dictum est
+igitur ei quia de omni ligno paradisi comedens, solo
+fructu scientiae boni et mali non vesceretur, quod
+si faceret, morte moreretur.
+
+23
+00:03:15,941 --> 00:03:27,834
+Illud profecto lignum
+malum non erat, quod a bono Deo creatum erat;
+sed bonum erat homini creato obedire Creatori, ut
+in gymnasio obedientiae quodammodo exerceretur,
+et sic per meritum suum coelestem gloriam consequeretur.
+
+24
+00:03:27,834 --> 00:03:41,496
+Si enim in eo quod injunctum est ei, humiliter
+parmaneret, procul dubio post emeritam
+vitam cum Deo congruum videretur, sine interventu
+mortis in angelorum consortium transferretur; et
+desinens esse mortalis, quod erat, fieret immortalis
+aliter quam erat.
+
+25
+00:03:41,496 --> 00:03:52,478
+Erat enim immortalis, ut tantummodo
+posset non mori; fieret autem immortalis, ut
+nullo modo posset mori. Quae impossibilitas non
+esset languor aut vitium infirmitatis, sed vigor aut
+fastigium perfectionis.
+
+26
+00:03:52,478 --> 00:04:01,425
+Jure igitur tali et tanto Creatori,
+tot et tantorum bonorum largitori, homo sic
+conditus debuit obedire, et patientia bona diligens,
+majora quae promittebantur ambire.
+
+27
+00:04:01,425 --> 00:04:17,390
+Quis autem digne possit vel exprimere verbis, vel mente cogitare, quantum ille peccavit, cum ab his omnibus declinavit, et deserto mandato Creatoris, deceptae vocem audivit uxoris? Huic enim tantae gloriae, qua ille in praesentiarum laetabatur, et spe futurae amplius gloriabatur, diabolus invidit,
+
+28
+00:04:17,390 --> 00:04:22,534
+qui sicut scriptum est (Joan VIII), ab initio homicida fuit, ex quo scilicet homo conditus fuit.
+
+29
+00:04:22,534 --> 00:04:30,784
+Et quia veram, quae Deus
+est, perdiderat vitam, huic eamdem voluit auferre,
+ne unde lapsus erat vitio superbiae, illuc homo
+ascenderet merito obedientiae.
+
+30
+00:04:30,784 --> 00:04:41,606
+Quaerens igitur gradus
+congruos ad illum dejiciendum, indutus est serpentem
+callidum, et in eo latens, primitus adiit mulierem,
+quam quia sexu noverat infirmiorem, ad
+peccandum speravit esse faciliorem.
+
+31
+00:04:41,606 --> 00:04:50,231
+Ad quam
+veniens satis callide renovat memoriam divinae
+jussionis, ne, cum illa postmodum argueretur transgressionis,
+patrocinio defenderetur oblivionis.
+
+32
+00:04:50,231 --> 00:05:05,913
+CAPUT II. Cur, inquit, praecepit vobis Deus ne comederetis
+de omni ligno paradisi? At illa: De omni, inquit,
+ligno quod est in paradiso, dictum est nobis ut vescamur;
+lignum vero scientiae boni et mali interdictum
+est nobis, ne forte moriamur. Cui ille: Nequaquam
+moriemini.
+
+33
+00:05:05,913 --> 00:05:13,582
+Scit quippe Deus quia quocunque
+die comederitis ex eo, aperientur oculi
+vestri, et eritis sicut dii scientes bonum et malum
+(Gen III).
+
+34
+00:05:13,582 --> 00:05:25,772
+Deus, quis similis erit tibi? Quis in nubibus aequabitur
+Domino, aut quis similis erit Deo in filiis Dei? Credidit mulier deceptori, putans falsum esse quod
+dixerat Deus, verum autem quod asserebat hostis iniquus.
+
+35
+00:05:25,772 --> 00:05:34,929
+Sed ne sola peccaret, accessit ad virum, et importunitate
+346 feminea suasit ut ille fructu vetito
+vesceretur, et juxta serpentis vocem, sicut Deus
+efficeretur.
+
+36
+00:05:34,929 --> 00:05:45,402
+Ille vero assertionem hujusmodi sciens
+esse mendacem, Deum vero in omnibus quae dixerat
+procul dubio esse veracem; maluit tamen gerere
+morem uxori, quam illa offensa obedire Creatori.
+
+37
+00:05:45,402 --> 00:06:00,110
+Eam enim quam lege maritali sociam sibi acceperat,
+non sustinuit uxorius contristari, sperans per
+poenitentiam Deo se posse reconciliari. Hoc est quod
+Apostolus postea scripsit: Adam non est seductus,
+mulier autem seducta in praevaricatione fuit (I Tim II).
+
+38
+00:06:00,110 --> 00:06:10,355
+Seducta quippe est illa, cum, sicut praedixi,
+credidit non esse verum quod Deus dixerat; seductus
+non est ille in hoc quod scivit falsum esse quod
+serpens suaserat. Miser uterque.
+
+39
+00:06:10,355 --> 00:06:25,921
+Quid enim detestabilius
+quam Deum mendacem aestimare? Item quid
+scelestius, quam contempto eo quem Deum veracem
+homo noverat, in blanditias muliebres declinare? Peccant utrique, et fructu vetito sine retractione vescuntur,
+et sicut serpens dixerat, oculi eorum
+aperiuntur.
+
+40
+00:06:25,921 --> 00:06:43,319
+Quid est hoc? Nunquid antea non videbant? Nonne scriptum est: Vidit mulier quod
+bonum esset lignum ad vescendum, et pulchrum
+oculis, aspectuque delectabile, et tulit de fructu
+illius et comedit, deditque viro suo? (Gen III) Et
+statim subinfertur: Qui comedit, et aperti sunt
+oculi amborum (ibid).
+
+41
+00:06:43,319 --> 00:06:59,362
+Aperti sunt ergo, non ad
+videndum quod antea videbant, sed ad discernendum
+quod antea nesciebant: scilicet quid intersit inter
+bonum quod peccando amiserant, et malum quod
+sentiendo invenerant. Plerique enim tunc melius
+perpendunt quam jucunda sit sanitas, cum gravis
+eos urget infirmitas.
+
+42
+00:06:59,362 --> 00:07:04,747
+Unde et illa arbor scientiae boni
+et mali appellatur, per cujus gustum talis scientia
+comparatur.
+
+43
+00:07:04,747 --> 00:07:19,679
+Ultio enim divina, quae nullam culpam
+relinquit inultam, colaphum statim incussit ambobus,
+et in membris, quae pudenda dicuntur, pruritu libidinis
+percutiuntur, ut qui divinae legi noluerunt
+humiliter consentire, legem carnis repugnantem legi
+mentis cogerentur sentire.
+
+44
+00:07:19,679 --> 00:07:27,506
+Quo comperto, cum essent
+immortalitatis veste privati, nudos se esse erubuerunt,
+et fuga inita latere cupientes foliis fici pudenda
+texerunt.
+
+45
+00:07:27,506 --> 00:07:40,773
+Et digne quidem inobedientia, quae est
+inobedientiae retributa, in locis humentibus praecipue
+dominatur, ut quia omnis eorum posteritas naevo
+transgressionis obligatur, in ipsis maxime hoc appareat
+membris, unde ipsa posteritas propagatur.
+
+46
+00:07:40,773 --> 00:07:49,100
+Non solum enim homo seipsum, verum etiam futuros
+post ipsum tali reatu vinculavit, et qui per
+inobedientiam meruit mori, caeteros omnes compulit
+mori.
+
+47
+00:07:49,100 --> 00:08:00,979
+Qui enim ante peccatum, etsi mortalis erat,
+tamen si non peccaret, moriturus non erat, quos
+per peccatum genuit, omnes ita mortales effecit, ut
+quantumlibet deinceps juste victuri, essent tamen
+necessario morituri.
+
+48
+00:08:00,979 --> 00:08:13,524
+Nullus eorum quippe, sive
+peccet in similitudinem praevaricationis Adae, sive
+non peccet, jam nunc evadit angustias mortis, cum
+de ipso Christo, qui peccatum non fecit, scriptum
+sit: Et Domini Domini exitus mortis (Psal LVII).
+
+49
+00:08:13,524 --> 00:08:24,959
+Quod si ille mandatis divinis obediret, neque ipse,
+neque de posteris quisquam in tantas miserias deveniret,
+imo nulla aliquando sentiretur ruina, cum
+hujus sola sit causa illius inobedientia prima.
+
+50
+00:08:24,959 --> 00:08:42,311
+Verumtamen
+Deus, qui dives est in misericordia,
+hominem quem fecerat nolens perire sed redire;
+requirit eum ut corrigatur, arguit ut resipiscat,
+ostendens quod postea dicturus erat: Nolo mortem
+peccatoris, sed ut convertatur et vivat (Ezech XVIII).
+
+51
+00:08:42,311 --> 00:08:44,015
+CAPUT III.
+
+52
+00:08:44,015 --> 00:08:56,949
+Adam, inquit, ubi es? Et ille: Timui eo quod
+nudus essem, et abscondi me. Et Dominus: Quis
+indicavit tibi quod nudus esses, nisi quia de
+ligno vetito comedisti? Et ille: Mulier, inquit,
+quam dedisti mihi sociam, dedit mihi, et comedi
+(Gen III).
+
+53
+00:08:56,949 --> 00:09:12,798
+Miser homo, cum suam solius culpam
+debuisset humiliter profiteri, et confitendo
+veniam promereri, nisus est eam retorquere in mulierem,
+et illa in serpentem, cum nullius ad peccandum
+suasio alterius sufficiens sit excusatio. Vir
+dixit se persuasum esse a muliere, mulier vero se
+deceptam a serpente.
+
+54
+00:09:12,798 --> 00:09:27,110
+Et hoc quidem verum fuit, sed
+excusandum non fuit, ne peccatum quod pura et
+simplici posset ablui confessione, superflua duplicaretur
+excusatione. Eapropter sententiam poenalem
+pariter exceperunt, vir nimirum ut panem suum
+comedat in sudore, mulier ut pariat cum dolore.
+
+55
+00:09:27,110 --> 00:09:39,884
+Dein de paradiso ejecti sunt, et a ligno vitae exclusi,
+et ne illuc facilis reditus concedatur, angelus habens
+flammeum gladium ante fores paradisi collocatur. Verumtamen ne spes redeundi omnino auferatur,
+idem gladius versatilis appellatur.
+
+56
+00:09:39,884 --> 00:09:50,857
+Post haec in eodem
+Genesis libro (cap IV) nihil de Adam legitur, nisi
+quia cognovit Evam uxorem suam, et genuit Cain, et
+Abel, et Seth, et filios et filias, et vixit annis nongentis
+triginta, et mortuus est.
+
+57
+00:09:50,857 --> 00:10:04,267
+Nunc igitur quaerendum
+et diligentius perscrutandum est, si tamen
+adjuvet spiritus Dei qui omnia scrutatur etiam profunda
+Dei (I Cor II), si forte ex ipsius ejusdem libri
+verbis aliquid nobis poterit intimari, unde illius hominis
+salus debeat aestimari.
+
+58
+00:10:04,267 --> 00:10:13,596
+Quod posse fieri nequaquam
+asserere praesumpsissem, nisi ex aliis
+Scripturae locis admonitus fuissem, ubi apertius dicta
+intelliguntur, quae hic involucro litterae conteguntur.
+
+59
+00:10:13,596 --> 00:10:22,607
+Sic nimirum, sic aliam scripturam 347 alia scriptura
+reddit lucidiorem, et cum plura leguntur, non
+solum rudem quemlibet, sed etiam sapientem faciunt
+sapientiorem.
+
+60
+00:10:22,607 --> 00:10:40,437
+Quia enim uno in loco non omnia dicuntur,
+vel quae dicuntur obscure dicuntur, necesse
+est ut plura legantur, et ita illud Salomonis veridicum
+erit: Audiens sapiens sapientior erit
+(Prov I). Denique et illa plerumque dulcius capiuntur,
+quae de obscurioribus locis cum labore aliquo
+eliciuntur.
+
+61
+00:10:40,437 --> 00:10:58,266
+Unde Propheta juxta aliam duntaxat translationem laetabundus canit Deo: Quam dulcia faucibus meis eloquia tua super mel et favum ori meo! (Psal CXVIII) Mel quippe illud quod nudum et apertum est appellatur, favus vero quod in cereis cellulis affabre compositis latitans inde cum labore aliquo
+
+62
+00:10:58,266 --> 00:10:58,876
+eliquatur.
+
+63
+00:10:58,876 --> 00:11:11,088
+Non ergo suffecit dicere eloquia
+Dei dulcia esse super mel, sed addit, et favum. In
+melle volens intelligi ea quae in Scripturis sanctis
+sunt manifestiora, in favo autem quae in eadem sunt
+occultiora.
+
+64
+00:11:11,088 --> 00:11:20,735
+Nunc itaque ipsius Genesis verba quae
+ad praesens negotium pertinent, breviter repetamus,
+ut de ipsis litterae cellulis aliquid si Deus dederit
+eliciamus.
+
+65
+00:11:20,735 --> 00:11:22,391
+CAPUT IV.
+
+66
+00:11:22,391 --> 00:11:38,748
+Vocavit, inquit, Deus Adam et dixit: Adam, ubi
+es? Et ille: Timui, ait, eo quod nudus essem, et
+abscondi me (Gen III). Miror si forte in hoc quod
+dicit Scriptura, vocavit Deus Adam, aliqua potest
+intelligi gratia, aliqua misericordia Creatoris, aliquis
+fructus, aliqua utilitas peccatoris.
+
+67
+00:11:38,748 --> 00:11:45,653
+In multis
+quidem locis Scripturae Deus vocare invenitur, ubi
+diligenter considerandum est quid vel ad quid vocare
+dicatur.
+
+68
+00:11:45,653 --> 00:11:58,048
+Est quaedam vocatio qua unaquaeque
+res vocabulo suo sive proprio, sive communi vocatur,
+velut cum dicimus homo: iste Moyses, ille alius
+Aaron vocatur; vel: istud animal equus, illud autem
+leo vocatur, hoc est nominatur.
+
+69
+00:11:58,048 --> 00:12:06,595
+Qua vocatione
+Deus in constitutione mundi firmamentum coelum
+et aridam terram vocavit (Gen I), quod nihil aliud
+sonat quam suis ea nominibus nominavit.
+
+70
+00:12:06,595 --> 00:12:18,367
+Est et
+alia vocatio quam propheta nobis designat Aggaeus
+imo per illum Deus: Et vocavi, inquit, siccitatem
+super terram, et super triticum, et super vinum,
+et super oleum, et quaecunque profert humus
+(Agg I).
+
+71
+00:12:18,367 --> 00:12:35,290
+Et David dicit: Et vocavit famem
+super terram, et omne firmamentum panis contrivit
+(Psal CIV). Nullus, ut arbitror, tam puerili sensu
+est indutus, quamvis Scripturarum scientia non
+admodum sit imbutus, qui putet quod fames vel
+siccitas aliqua persona fuerit, quae sermonem loquentis
+audire potuerit.
+
+72
+00:12:35,290 --> 00:12:44,232
+Audire quidem proprium
+est rationalis vel saltem animalis creaturae, fames
+autem et siccitas nullae sunt creaturae, imo pestis
+quaedam et afflictio creaturae.
+
+73
+00:12:44,232 --> 00:12:58,778
+Tali autem errore
+antiquus gentilium populus tenebatur, qui hujusmodi
+passiones deos vel homines esse arbitrabatur,
+sicut quidam aethnicus ait, quia famem quaesivit
+una de montanis deabus jussui Cereris obsequendo. Quaesitamque famem lapidoso vidit in agro.
+
+74
+00:12:58,778 --> 00:13:11,399
+Quod ergo famem et siccitatem Deus super terram
+vocare perhibetur, nihil aliud mihi esse videtur,
+quam cum exigentibus culpis habitantes in terra Deus
+punire disponeret, jussit ut terram fames vel siccitas
+occuparet.
+
+75
+00:13:11,399 --> 00:13:24,665
+Est et alia vocatio qua Deus legitur vocare
+homines, sed homine interposito nuntio; est et alia
+qua per se vocat homines sine aliquo hominum ministerio. Haec igitur quadrifaria in Scripturis sanctis
+potest inveniri Dei vocatio.
+
+76
+00:13:24,665 --> 00:13:40,326
+Prima quarum alio nomine
+dici potest nominatio vel appellatio, secunda
+jussio; tertia commonitio, quarta immutatio. Prima
+imponit vocabula rebus ut discernantur; secunda
+jubet ut homines puniantur, tertia commonet ut
+corrigantur, quarta infundit gratiam ut immutentur.
+
+77
+00:13:40,326 --> 00:13:57,039
+Harum penultima qua per homines vocantur homines,
+quodammodo est generalis, pro eo scilicet quod
+impenditur tam bonis quam malis, ut quia homo
+perfecte non novit secretum Dei, omnes indifferenter
+vocet ad regnum, cum tamen aliis illorum Deus
+gloriam, aliis praeparaverit ignem aeternum.
+
+78
+00:13:57,039 --> 00:14:08,551
+Hujusmodi
+aestimo esse illam vocationem, de qua legitur
+apud Salomonem: Vocavi et renuistis. Ego quoque
+in interitu vestro ridebo (Prov I); et in
+Evangelio: Multi vocati, pauci electi (Matth XXII).
+
+79
+00:14:08,551 --> 00:14:24,271
+Quod enim intelligi debeat haec vocatio per
+homines facta esse, quae aliquando invenitur prodesse,
+praecedentia verba in utroque libro videntur
+ostendere si quis velit diligenter advertere. Sapientia,
+inquit Salomon, foris praedicat; In plateis dat
+vocem suam (Prov I).
+
+80
+00:14:24,271 --> 00:14:29,706
+Et paucis interpositis
+subjungit: Vocavi et renuistis (ibid ), etc. Sapientia
+Dei Filius est.
+
+81
+00:14:29,706 --> 00:14:47,179
+Sapientia Dei Christus est, qui profecto foris dicitur praedicare, et in plateis dare vocem suam, cum missi ab eo praedicatores non cordibus, quod solius Dei proprium est, sed auribus hominum ingerunt verbum Dei, et in latitudine populorum quae platearum nomine designatur clamant nec cessant, sicut
+
+82
+00:14:47,179 --> 00:14:56,412
+tubae exaltant vocem suam, studentes cum Apostolo plantare, rigare, nihil tamen proficientes nisi Deus intrinsecus loquens velit incrementum dare (I Cor III).
+
+83
+00:14:56,412 --> 00:15:00,911
+In Matthaeo quoque
+ubi dictum est: Multi vocati, pauci electi
+(Matth.
+
+84
+00:15:00,911 --> 00:15:17,899
+XXII), paulo ante in eodem capitulo praemissum est: Ite ergo ad exitus viarum, et quoscunque inveneritis vocate ad nuptias. Et egressi servi ejus in vias, congregaverunt omnes quos invenerunt malos et bonos. Et impletae sunt nuptiae discumbentium. Et statim ejecto illo, qui sine veste nuptiali
+
+85
+00:15:17,899 --> 00:15:35,118
+invenitur (ibid ), capitulum sic finitur: 348 Multi autem sunt vocati, pauci vero electi. Quod in Evangelio intelligitur per vias et exitus viarum, hoc apud Salomonem designari videtur nomine platearum. Hujusmodi est et illa apud Isaiam: Omnes vos caede corruetis, quia vocavi, et non respondistis,
+
+86
+00:15:35,118 --> 00:15:37,372
+locutus sum, et non audistis (Isa LXV).
+
+87
+00:15:37,487 --> 00:15:51,317
+CAPUT V. Ultima vocatio Dei est specialis, qua per se eo
+modo quem ipse novit, vocare homines reperitur,
+ubi nullus homo internuntius comperitur; aliquoties
+quidem aperte, sicut Moysen vocavit de rubo,
+multoties vero occulte, sicut millia millium a saeculo.
+
+88
+00:15:51,317 --> 00:16:04,824
+Haec autem huic vocationi specialis praerogativa
+assignatur, ut raro infructuosa inveniatur, imo (ut
+videtur) de illa propheta Joel per antonomasiam
+dixerit: In monte Sion et in Jerusalem erit salvatio,
+et in residuis quos Dominus vocaverit (Joel II).
+
+89
+00:16:04,824 --> 00:16:14,725
+Tantam quippe intelligi voluit hujus esse excellentiam
+vocationis, ut eam sequatur utilitas salvationis,
+et nihil sit aliud sic nos a Deo vocari, quam ad
+salutem efficaciter provocari.
+
+90
+00:16:14,725 --> 00:16:26,402
+Unde, ut mihi videtur,
+divinae scriptor historiae id quod dictum est: Vocavit
+Deus Adam (Gen III), non perfunctorie attendi
+voluit, sed in eo pium vocantis affectum, magnum
+vocati profectum intelligi debere commonuit.
+
+91
+00:16:26,402 --> 00:16:42,438
+Quod
+si voluero vel potuero divinas Scripturas revolvere,
+et omnia loca in quibus Deus per se, sive aperte,
+sive occulte vocare legitur, ad medium ducere, et
+quanta sit hujus vocationis utilitas exponere; quantum
+aestimo, haec adunatio tantae erit magnitudinis,
+ut congruum excedat modum voluminis.
+
+92
+00:16:42,438 --> 00:16:54,599
+Verumtamen
+ne videar loquaciter affirmare quod non possim
+aliquantisper demonstrare, quaedam eorum
+quae occurrunt memoriae, ducam ad medium, ut
+sciat dilectio vestra in hac vocatione Dei non mediocre
+contineri beneficium.
+
+93
+00:16:54,599 --> 00:16:56,303
+CAPUT VI.
+
+94
+00:16:56,303 --> 00:17:14,090
+In Exodo legitur quia, cum pasceret Moyses
+oves Jethro soceri sui, et minaret gregem ad interiora
+deserti, apparuit ei Dominus in flamma ignis
+de medio rubi; et videns ille rubum ardere, et non
+comburi: Vadam, inquit, et videbo visionem hanc
+magnam, quare non comburatur rubus.
+
+95
+00:17:14,090 --> 00:17:29,693
+Cernens
+autem Dominus quod pergeret ad videndum, vocavit,
+inquit, eum de medio rubi, et ait: Moyses,
+Moyses? Qui respondit: Adsum. At ille: Ne appropies,
+inquit, huc; solve calceamentum de pedibus
+tuis, locus enim in quo stas terra sancta est.
+
+96
+00:17:29,693 --> 00:17:43,369
+Et ait:
+Ego sum Deus patris tui, Deus Abraham, et Deus
+Isaac, et Deus Jacob (Exod III). Vides in hac
+vocatione qua Deus vocat Moysen, magnam gratiam
+designari, cum ille qui de Aegypto venerat, jubetur
+discalceari.
+
+97
+00:17:43,369 --> 00:17:58,587
+Quia enim calceamenta de mortuorum
+pellibus animalium efficiuntur, per ea non incongrue
+mortua opera, id est peccata, designantur, quae
+procul dubio in Aegypto, hoc est in tenebris perpetrantur:
+Qui enim male agit, odit lucem (Joan III).
+
+98
+00:17:58,587 --> 00:18:15,603
+Volens igitur Moyses ire et videre visum, merito
+prohibetur, et quo ordine id fieri debeat divinitus
+edocetur, ut videlicet exuvias veteres, quas vivendo
+in Aegypto contraxerat, festinet deponere, et sic
+merebitur visionem divinam, vel potius ipsum Deum
+cognoscere.
+
+99
+00:18:15,603 --> 00:18:29,279
+Unde illi quasi jam discalceato, vel potius
+ad discalceandum jam parato, quaedam Dei
+cognitio confertur, cum subito subinfertur: Ego
+sum Deus patris tui, Deus Abraham, et Deus Isaac,
+et Deus Jacob (Exod III).
+
+100
+00:18:29,279 --> 00:18:31,031
+CAPUT VII.
+
+101
+00:18:31,031 --> 00:18:50,869
+In eodem Exodi libro, cum de faciendo tabernaculo foederis et arca testimonii Deus ad Moysen loqueretur, et tanti operis artifex nusquam inveniretur, Ecce, inquit, vocavi ex nomine Beseleel, filium Uri, de tribu Juda, et implevi eum spiritu Dei, sapientia, intelligentia, et scientia in omni opere,
+
+102
+00:18:50,869 --> 00:18:52,866
+dedique ei socium Ooliab, etc.
+
+103
+00:18:52,866 --> 00:19:04,382
+(Exod XXXI) Et concludit: Omnia quae praecepi tibi, facient
+(ibid). Quid sibi velint haec omnia quae Beseleel
+dicitur facere, nec mearum est virium, nec hujus
+loci exponere.
+
+104
+00:19:04,382 --> 00:19:13,701
+Verumtamen hoc dilectio vestra noverit,
+quia illos praecipue commendat propheta, qui
+memores sunt mandatorum Dei ad faciendum ea
+(Psal CII).
+
+105
+00:19:13,701 --> 00:19:32,873
+Unde colligi potest quia non infructuose
+a Domino Beseleel vocatur, cui datur et gratia ut
+faciat quod mandatur, praesertim cum impletus spiritu
+Dei dicatur ex nomine vocari, quod nisi de
+justis dictum raro potest inveniri. Non solum enim
+Dominus viam justorum, sed et nomina novit eorum.
+
+106
+00:19:32,873 --> 00:19:43,989
+Unde et ad Moysen dicitur: Novi te ex nomine
+(Exod XXXIII). Et propheta de Deo: Qui numerat,
+inquit, multitudinem stellarum, et omnibus eis
+nomina vocans (Psal CXLVI).
+
+107
+00:19:43,989 --> 00:19:53,375
+Et in evangelica
+parabola cum injusti divitis nomen tanquam incognitum
+taceatur, mendicus tamen ex nomine Lazarus
+appellatur (Luc XVI).
+
+108
+00:19:53,375 --> 00:19:55,079
+CAPUT VIII.
+
+109
+00:19:55,079 --> 00:20:08,923
+In libro Regum primo, cum de mutando veteri
+sacerdotio tractaretur, et novum figuraliter ad medium
+duceretur, reprobato Heli, vetusto sacerdote,
+puer Samuel eligitur, et in hac electione divina vocatio
+non tacetur.
+
+110
+00:20:08,923 --> 00:20:26,259
+Dormiebat, inquit, Samuel in
+templo 349 Domini, ubi erat arca Dei; et vocavit
+Dominus Samuelem: Samuel, Samuel? Et ait Samuel:
+Loquere, Domine, quia audit servus tuus
+(I Reg III). Videtis hanc vocationem plenam esse
+coelesti gratia, quam tam velox sequitur obedientia.
+
+111
+00:20:26,259 --> 00:20:31,822
+Sicut enim nihil perversius quam nolle audire, sic
+nihil perfectius quam cito obedire.
+
+112
+00:20:31,822 --> 00:20:47,023
+In Isaia cum introduceretur
+pater loquens ad filium, praenuntians
+quod erat futurum tanquam praeteritum esset:
+Ego, inquit Dominus, vocavi te in justitia, et apprehendi
+manum tuam, et servavi te, et dedi te in
+foedus populi (Isa XLII).
+
+113
+00:20:47,023 --> 00:21:01,319
+Paulo post, cum ad
+populum ex omnibus gentibus crediturum, ipse filius
+prophetice loqueretur, et eum vocando ad meliora
+misericorditer hortaretur: Noli, inquit, timere,
+quia redemi te, et vocavi te nomine tuo: Meus es
+tu.
+
+114
+00:21:01,319 --> 00:21:15,033
+Cum ambulaveris in ignem, non combureris, et
+flamma non ardebit in te, quia ego Dominus Deus
+tuus sanctus Israel salvator tuus (Isa XLIII). Et
+paulo inferius: Audi me, Jacob et Israel, quem ego
+voco (Isa XLVIII).
+
+115
+00:21:15,033 --> 00:21:32,433
+Et in sequenti capitulo ipse
+Christus: Audite, inquit, insulae, et attendite populi
+de longe, Dominus ab utero vocavit me
+(Isa XLIX). Et in Joel quod superius dictum est:
+In monte Sion erit salvatio, sicut dixit Dominus,
+et in residuis quod Dominus vocaverit (Joel II).
+
+116
+00:21:32,433 --> 00:21:36,767
+Et Zacharias: Et vocavit me, et locutus est ad me
+(Zach VI).
+
+117
+00:21:36,767 --> 00:21:38,471
+CAPUT IX.
+
+118
+00:21:38,471 --> 00:21:49,408
+Quod si ad Novum Testamentum venire libuerit,
+invenietur et ibi Christi vocatio non esse otiosa,
+imo incomparabiliter fructuosa, dum nihil aliud videtur
+ejus esse vocatio, quam quaedam gratiae spiritalis
+infusio.
+
+119
+00:21:49,408 --> 00:22:00,035
+Unde Matthaeus evangelista cum de
+Jacobo et Joanne loqueretur: Procedens, inquit,
+Jesus, vidit alios duos fratres, Jacobum Zebedaei et
+Joannem fratrem ejus, reficientes retia sua, et vocavit
+eos (Matth IV).
+
+120
+00:22:00,035 --> 00:22:09,734
+Quid autem in hoc quod ait, vocavit
+eos, intelligi voluerit, id est cujus gratiae
+haec vocatio fuerit, manifestat cum subjungit: At
+illi, relictis retibus et patre, secuti sunt eum (ibid).
+
+121
+00:22:09,734 --> 00:22:25,210
+Sicut enim paulo ante Petrus et Andreas audito: Venite post me, et faciam vos fieri piscatores hominum, continuo relictis retibus secuti sunt eum (ibid ), sic nimirum Jacobus et Joannes, relictis retibus et patre, secuti sunt eum, cum tamen talibus verbis non legantur fuisse invitati, sed tantummodo
+
+122
+00:22:25,210 --> 00:22:25,571
+vocati.
+
+123
+00:22:25,571 --> 00:22:30,575
+Hoc idem Marcus (cap III) et Lucas (cap V)
+testati sunt, qui de eorum vocatione locuti sunt.
+
+124
+00:22:30,575 --> 00:22:32,279
+CAPUT X.
+
+125
+00:22:32,279 --> 00:22:45,387
+Marcus evangelista cum catalogum apostolorum
+describeret: Ascendens, inquit, in montem Jesus,
+vocavit ad se quos voluit ipse, et fecit ut essent
+duodecim cum illo et dedit illis potestatem curandi
+infirmitates, et ejiciendi daemonia (ibid).
+
+126
+00:22:45,387 --> 00:22:50,303
+Et enumerans
+singillatim eos quos Christus vocavit, ad
+Judam Iscarioth numerum terminavit.
+
+127
+00:22:50,303 --> 00:23:04,558
+Si quis autem
+quaerat quid gratiae in hac vocatione idem Judas
+consecutus sit, cum certum sit quod aliis electis
+ipse reprobatus sit, sciat quod et ei non mediocris
+data est gratia, cum accepit potestatem cum caeteris
+curandi infirmitates et ejiciendi daemonia.
+
+128
+00:23:04,558 --> 00:23:17,174
+Illa vero
+gratia salutaris, quam his qui a Deo specialiter vocantur,
+aestimo conferri, ut mihi videtur, non ad
+Judam duodecimum, sed ad duodenarium numerum
+debet referri, ut ille intelligatur vocatus fuisse, ille
+vocanti placuisse.
+
+129
+00:23:17,174 --> 00:23:28,862
+Quod, ni fallor, et ipse evangelista
+videtur latenter innuere si quis velit non perfunctorio
+verba ejus attendere. Cum enim dixisset: Vocavit
+ad se quos voluit, ipse subjunxit: Et fecit ut
+essent duodecim cum illo.
+
+130
+00:23:28,862 --> 00:23:41,260
+Quia enim duodenarius
+apostolorum numerus magni sacramenti plenus fuit,
+ille procul dubio vocatus, ille electus fuit, nec est
+Juda cadente imminutus, cum pro eo alius sit substitutus. Fecit, inquit, ut essent duodecim cum
+illo.
+
+131
+00:23:41,260 --> 00:23:50,818
+Magis quippe Mathias jam tunc erat cum illo,
+qui in secreto consilii sui jam electus erat ab illo;
+quam Judas Iscarioth, qui tantum ad oculum aliquantisper
+ambulavit cum illo.
+
+132
+00:23:50,818 --> 00:24:00,430
+Adeo autem Christus
+secum voluit esse duodecim, ut nec Judas posset
+efficere, ut tantum essent undecim; sed eo ruente in
+praecipitium, sua tamen perfectio servavit duodenarium.
+
+133
+00:24:00,430 --> 00:24:11,735
+Undenarius quippe transgressionis arguitur,
+duodenarius vero virtute perfectionis munitur, et
+ideo ne salubri numerus privaretur mysterio, non
+undecim tantum, sed duodecim permanserunt in
+ministerio.
+
+134
+00:24:11,735 --> 00:24:27,428
+Si autem quod apud Marcum ponitur, Vocavit improprie positum intelligi debere quis dixerit, pro eo videlicet quod est, convocavit, ut per figuram quae apheresis appellatur, diminutionem syllabicam verbum istud in capite pariatur, nulla jam quaestio de Juda remanebit, sed ad eum, quemadmodum ad
+
+135
+00:24:27,428 --> 00:24:30,044
+caeteros convocatio, id est adunatio, pertinebit.
+
+136
+00:24:30,044 --> 00:24:39,438
+Neque enim ejusdem sensum habere
+videtur, convocare et vocare, sed sive hoc modo,
+sive quolibet alio istud simplex componatur, nisi
+fallor, significatio aliquantulum immutatur.
+
+137
+00:24:39,438 --> 00:24:54,917
+Ascendens
+Christus in montem duodecim discipulos
+convocare, id est adunare dicitur, quod apud alios
+evangelistas, Matthaeum videlicet et Lucam, evidenter
+exprimitur. Convocatis, ait Matthaeus (cap XV), duodecim discipulis suis, dedit illis potestatem
+spirituum immundorum, ut ejicerent eos.
+
+138
+00:24:54,917 --> 00:25:08,635
+Et
+Lucas (cap IX): Convocatis, inquit, duodecim apodedit
+350 illis virtutem super omnia daemonia, et
+stolis, ut languores curarent. Non solum autem
+Judam, verum etiam blasphemos Judaeos convocare
+Christus invenitur, ubi tamen nulla eorum utilitas
+reperitur.
+
+139
+00:25:08,635 --> 00:25:24,274
+Marcus in eodem capitulo de quo aliquantisper locutus sum, cum Scribae qui a Jerosolymis descenderant, dicerent: Quoniam Beelzebub habet, et quia in principe daemoniorum ejicit daemonia, convocatis, inquit, eis, in parabolis dicebat illis: Quomodo potest Satanas Satanam ejicere? (Marc III) Et
+
+140
+00:25:24,274 --> 00:25:24,701
+caetera.
+
+141
+00:25:24,701 --> 00:25:33,829
+In qua convocatione nulla
+blasphemorum utilitas declaratur, nisi forte subintelligatur
+quod apud Joannem aliquando legitur: Et
+multi de turba crediderunt in eum (Joan II).
+
+142
+00:25:33,829 --> 00:25:47,279
+Alia
+procul dubio est illa vocatio, alius vocationis effectus,
+de qua apud Joannem evangelistam dicit Martha ad
+Mariam: Magister adest, et vocat te (Joan XI). Et infra idem Joannes: Vocavit, inquit, Lazarum,
+et suscitavit eum a mortuis (ibid ).
+
+143
+00:25:47,279 --> 00:25:49,031
+CAPUT XI.
+
+144
+00:25:49,031 --> 00:26:04,340
+Paulus quoque in fronte ejus quam ad Romanos
+scribit Epistolae, quam caeterae omnes sequuntur Epistolae,
+se vocatum affirmavit, et hac affirmatione
+quidquid dicturus erat, quodammodo commendavit. Paulus, inquit, servus Jesu Christi, vocatus
+apostolus (Rom I).
+
+145
+00:26:04,340 --> 00:26:21,894
+A quo autem vocatus sit, Galatis scribens evidenter intimavit Paulus, inquiens, apostolus non ab hominibus, neque per hominem, sed per Jesum Christum et Deum Patrem, qui suscitavit eum a mortuis (Galat I) Quanta gratia vel quo fructu vocatus sit, paulo post in eadem epistola declaravit: Cum autem
+
+146
+00:26:21,894 --> 00:26:30,878
+placuit ei qui me segregavit de utero matris mae, et vocavit per gratiam suam ut revelaret in me Filium suum, ut evangelizarem illum in gentibus (ibid).
+
+147
+00:26:30,878 --> 00:26:48,137
+Ne autem haec gratia perfunctoria et inutilis putaretur, quia eo ipso Apostolo teste multi Christum per occasionem annuntiant et non caste, Timotheo scribens: Collabora, inquit, Evangelio secundum virtutem Dei, qui nos liberavit et vocavit vocatione sua sancta, non secundum opera nostra, sed
+
+148
+00:26:48,137 --> 00:26:54,520
+secundum propositum suum, et gratiam quae data est nobis in Christo Jesu ante tempora saecularia (II Tim I).
+
+149
+00:26:54,520 --> 00:27:03,090
+Dicturus
+nimirum et vocavit praemisit, liberavit, ut
+plane innotesceret quam sancta, quam salutaris haec
+esset vocatio, quam praecedit liberatio.
+
+150
+00:27:03,090 --> 00:27:20,585
+Totam quippe massam humani generis primus Adam naevo transgressionnis involvit, unde quosdam praedestinatio Dei ea bonitate quae sua est, absolvit; quos ab illo involucro absolutos, et in secreto consilii sui jam liberatos, postmodum vocavit vocatione sua sancta, hoc est, inspiravit, illuminavit
+
+151
+00:27:20,585 --> 00:27:29,687
+cognitione sua, ut de eadem massa de qua secundum meritum fiebant vasa in contumeliam, fierent vasa in honorem natura non ablata, sed purgata per gratiam.
+
+152
+00:27:29,687 --> 00:27:45,527
+Cujus divitias
+gratuitae liberationis, et fructuosae vocationis, ad
+Romanos loquens ita denuntiat: Ut ostenderet divitias
+gloriae suae in vasa misericordiae quae praeparavit
+in gloriam, quos et vocavit, nos non solum ex
+Judaeis, sed etiam ex gentibus (Rom IX).
+
+153
+00:27:45,527 --> 00:28:04,091
+Et ut quod dixerat, prophetico commendaret eloquio, subjungit, sicut in Osee dicit (cap II): Vocabo non plebem meam, plebem meam; et non dilectam meam, dilectam; et non misericordiam consecutam, misericordiam consecutam; et erit in loco ubi dictum est: Non plebs mea vos, ibi vocabuntur filii Dei
+
+154
+00:28:04,091 --> 00:28:04,593
+(ibid ).
+
+155
+00:28:04,655 --> 00:28:06,407
+CAPUT XII.
+
+156
+00:28:06,407 --> 00:28:18,710
+Per totum corpus Epistolarum suarum de hac vocatione
+Apostolus saepenumero loquitur, nusquam
+tamen evidentius et brevius quam paulo ante ad
+Romanos, ubi quatuor divinorum beneficiorum gradus
+ita complectitur.
+
+157
+00:28:18,710 --> 00:28:34,028
+Nam quos praescivit et praedestinavit
+conformes fieri imaginis Filii sui, ut sit
+ipse primogenitus in multis fratribus. Quos autem
+praedestinavit, hos et vocavit; et quos vocavit, hos
+et justificavit; quos autem justificavit, illos et glorificavit
+(Rom VIII).
+
+158
+00:28:34,028 --> 00:28:51,771
+Vides quia primum erga nos Dei beneficium est praedestinatio, qua nos ad vitam praeordinamur aeternam; secundum, vocatio qua invitamur et inspiramur ut vitam appetamus aeternam; tertium, justificatio, qua peccatis remissis, vitam bene operando meremur aeternam; quartum, glorificatio, quando justitia
+
+159
+00:28:51,771 --> 00:28:55,143
+conversa in judicium, pacem et vitam possidemus aeternam.
+
+160
+00:28:55,143 --> 00:29:12,117
+Primum quidem
+apud ipsum fit, non in nobis; secundum ab ipso in
+nobis; tertium ab ipso, cooperantibus nobis;
+quartum ab ipso, jam emeritis nobis. Primum nos
+eligit antequam simus; secundum, admonet ut boni
+simus; tertium, efficit ut justi simus; quartum, ut
+gloriosi et immortales simus.
+
+161
+00:29:12,117 --> 00:29:29,624
+Primum nihil est aliud
+quam divinae veritas praescientiae; secundum, infusio
+gratiae; tertium, operatio justitiae; quartum, retributio
+gloriae. Primum, praenoscit longe post futuros;
+secundum, vocat immeritos; tertium, peccata remittens,
+merita donat; quartum, jam bene meritos
+sine fine coronat.
+
+162
+00:29:29,624 --> 00:29:37,254
+Sicut igitur non glorificantur nisi
+justificati, nec justificantur nisi vocati, sic procul
+dubio non vocantur nisi praedestinati.
+
+163
+00:29:37,254 --> 00:29:48,196
+Haec est illa
+specialis vocatio Dei quae nulli attribuitur nisi ei;
+qua non vocantur nisi qui futuri sunt sancti, qui
+juxta Apostolum (Rom VIII), secundum propositum
+vocati sunt sancti.
+
+164
+00:29:48,196 --> 00:29:55,943
+Non quidem secundum meritum
+suum, sed secundum propositum 351 Dei, quia
+sine poenitentia sunt dona et vocatio Dei (Rom XI).
+
+165
+00:29:55,943 --> 00:30:08,015
+Quod si hac vocatione vocatum fuisse Adam liber
+Geneseos aperte non dicit, posse tamen intelligi non
+interdicit, nec illum a salute contendit excludere,
+cum potius verba ejus saluti illius videantur alludere.
+
+166
+00:30:08,015 --> 00:30:09,935
+CAPUT XIII.
+
+167
+00:30:09,935 --> 00:30:23,032
+Vocavit, inquit, Deus Adam, et dixit: Adam,
+ubi es? (Gen III) Magna dignatio Creatoris, quod
+plasma suum requirit, nec sustinet ut remaneat in
+latibulo iniquitatis, sed vult ut prodeat et redeat
+ad lucem veritatis.
+
+168
+00:30:23,032 --> 00:30:40,657
+Hac incude, hoc malleo hujus
+inquisitionis, jam tunc sacramentum cudebatur nostrae
+reputationis, dum ille qui peccaverat vitio iniquae
+consensionis, invitatur ad medelam dignae confessionis,
+ut eodem ore quo contra salutem facta
+est injusta comestio, jam fieret ad salutem vera confessio.
+
+169
+00:30:40,657 --> 00:30:55,099
+Adam, inquit, ubi es? Ac si dicat: Non expedit
+tibi ut diutius lateas, exi foras, progredere,
+confitere, dic tu iniquitates tuas ut justificeris. Et
+ille: Audivi, inquit, vocem tuam, et timui, eo quod
+nudus essem, et abscondi me (ibid).
+
+170
+00:30:55,099 --> 00:31:06,482
+Satis superque
+homo ante peccatum poterat gloriari, satis superque
+felix poterat judicari, cui tam innumera beneficia
+Deus contulerat gratis, cui se tanto astrinxerat
+vinculo charitatis.
+
+171
+00:31:06,482 --> 00:31:22,638
+Ut enim caetera omittam
+quae superius dicta superfluum est hic replicari, magna
+erat ei felicitas inter angelos conversari, magna
+denique gloria Deum visibiliter contemplari, qui
+cum sit invisibilis per naturam, visibilis erat ei per
+assumptam visibilem creaturam.
+
+172
+00:31:22,638 --> 00:31:38,427
+Eo quidem modo
+Deum in paradiso positus homo videbat, quo postmodum
+patriarchae veteresque justi cum adhuc in
+carne viverent, eum videre potuerunt, quem assumpta
+visibili specie tanquam angelum vel hominem
+sibi apparentem, Deum esse procul dubio cognoverunt.
+
+173
+00:31:38,427 --> 00:31:49,443
+Unde et de Jacob scriptum est: Ecce vir luctabatur
+cum eo usque mane (Gen XXXII). Et paulo
+post idem Jacob: Vidi, inquit, Deum facie ad faciem,
+et salva facta est anima mea (ibid).
+
+174
+00:31:49,443 --> 00:32:06,455
+Et Josue
+cum esset in agro Jericho: Vidit, inquit, virum
+stantem contra se, et evaginatum tenentem gladium,
+perrexitque ad eum, et ait: Noster es an adversariorum? (Josue V) Et paulo post subditur: Dixitque
+Dominus ad Josue. Haud dubium quin is cui
+idem Josue loquebatur.
+
+175
+00:32:06,455 --> 00:32:16,938
+Gedeon quoque cum excuteret,
+inquit, et purgaret frumentum in torculari,
+ut fugeret Madian; apparuit ei angelus Domini, et
+ait: Dominus tecum virorum fortissime (Judic VI).
+
+176
+00:32:16,938 --> 00:32:29,919
+Et paucis interpositis subjungitur: Vidensque Gedeon
+quod esset angelus Domini, ait: Heu mihi! Domine Deus, quia vidi angelum Domini facie ad
+faciem. Dixitque ei Dominus: Pax tecum; ne timeas;
+non morieris (ibid).
+
+177
+00:32:29,919 --> 00:32:47,592
+Manue nihilominus appatuit
+angelus, de quo Scriptura: Intellexit, inquit, Manue
+angelum esse Domini, et dixit ad uxorem suam:
+Morte moriemur, quia vidimus Dominum. Cui mulier
+respondit: Si Dominus nos vellet occidere, de
+manibus nostris holocausta et libamenta non suscepisset
+(Judic XIII).
+
+178
+00:32:47,592 --> 00:33:04,534
+Videtis quia quem Scriptura
+virum dicit vel angelum, eumdem appellat et Deum,
+ut ostenderet quia in viro vel angelo quoquomodo
+sibi apparente, homines intelligebant Deum, qui
+cum sit, ut dictum est, natura invisibilis, quibus
+tamen volebat, quomodo volebat, apparebat visibilis.
+
+179
+00:33:04,534 --> 00:33:13,006
+Denique et Abrahae tres viri, Lot vero duo angeli
+leguntur apparuisse, in quibus nihil aliud quam Deus
+intelligitur fuisse (Gen XVIII XIX).
+
+180
+00:33:13,006 --> 00:33:30,923
+Hinc est quod illi primi homines, cum post peccatum se nudos cognoscerent, non ablatis vestibus quas antea non habebant, sed perdita sanctitate in qua creati erant, erubuerunt quidem, et a Deo videri timuerunt, quem, eo quo praedictum est modo, videre solebant, et ob id inter ligna paradisi ut
+
+181
+00:33:30,923 --> 00:33:39,455
+absconderentur fugerunt, velantes ea quae jam pudenda erant ficulneis frondibus, quae perturbatis et fugientibus forte primitus occurrerunt.
+
+182
+00:33:39,455 --> 00:33:58,103
+Si enim peccando et fugiendo
+potuerunt quidem efficere ut Deum non viderent,
+sed non potuerunt efficere ut laterent. Oculi enim
+Domini contemplantur bonos et malos (Prov XV);
+et Vultus Domini super facientes mala (Psal XXXIII). Videt quippe ille etiam non videntes, consequitur
+quantumvis fugientes.
+
+183
+00:33:58,103 --> 00:34:11,471
+Si enim certum est,
+ut ait quidam ethnicus , longas regibus esse
+manus, quanto magis Rex regum et Dominus dominantium,
+credendus est longas habere manus, quas
+nullus potest effugere, nisi ad ipsas velit refugere?
+
+184
+00:34:11,471 --> 00:34:13,343
+CAPUT XIV.
+
+185
+00:34:13,343 --> 00:34:19,503
+Hoc intelligens Adam cum audiret se requiri, noluit
+tacendo diutius latere, sed confitendo apparere.
+
+186
+00:34:19,503 --> 00:34:37,736
+Et ait: Audivi, Domine, vocem tuam, et timul, eo quod nudus essem, et abscondi me (Gen III); ac si diceret: Scio quia cum intra fines meos obedientia versaretur, induebar stola immortalitatis, innocentiae, sanctitatis; nec formidabam faciem tuam, cum in sancto apparerem tibi ad videndam virtutem
+
+187
+00:34:37,736 --> 00:34:39,030
+tuam et gloriam tuam.
+
+188
+00:34:39,030 --> 00:34:53,505
+Cum autem ruptis
+repagulis continentiae corrui in praecipitium inobedientiae,
+nudatus sum et confusus; et ut pudori meo
+invenirem qualecunque remedium, male doctus quaesivi
+latibulum. Et in hoc peccavi, et in hoc peccasse
+me confiteor.
+
+189
+00:34:53,505 --> 00:35:11,368
+Confiteor, inquam, me peccasse, non
+solum comedendo, verum etiam abscondendo. Quo
+ibo a spiritu tuo, et quo 352 a facie tua fugiam? (Psal CXXXVIII) Fugiendum quidem fuit post peccatum,
+sed ad te, non ad me. Ad meipsum enim
+turbata est anima mea, propterea deinceps memor
+ero tui (Psal XLI).
+
+190
+00:35:11,368 --> 00:35:24,119
+Et Dominus ad cumulum debitae
+confusionis et instrumentum emendationis, replicat
+miseriam et causam miseriae, ut audiens homo
+quid fecerit et quid meruerit, amplius affligatur, et
+afflictus purgari mereatur.
+
+191
+00:35:24,119 --> 00:35:42,413
+Quis, ait, indicavit tibi quod nudus esses, nisi quia de ligno quod praecepi tibi ne comederes, comedisti? (Gen III) Hoc est dicere: Quis incussit tibi nuditatis hujus notitiam, nisi quia non servasti obedientiam? Quia non permansisti in eo quod acceperas, sentis malum, et cognoscis quod ante non
+
+192
+00:35:42,413 --> 00:35:42,906
+noveras.
+
+193
+00:35:42,906 --> 00:35:56,827
+Et ille: Mulier,
+inquit, quam dedisti mihi sociam, dedit mihi, et
+comedi (ibid). Tanta, inquit, fuit perversitas meae
+voluntatis, ut eam ad peccandum suasio perfacilis
+inclinaret, et animum virilem feminea mollities enervaret.
+
+194
+00:35:56,827 --> 00:36:10,871
+Dedisti mihi mulierem sociam quidem ad convivendum,
+non praeviam ad peccandum, ut quae conditione
+erat posterior, esset etiam dignitate inferior,
+et mihi imperanti obtemperans subderetur, et me
+tibi subditum sequeretur.
+
+195
+00:36:10,871 --> 00:36:21,833
+Ego autem ordine converso
+et perverso, secutus sum praecedentem, audivi
+suadentem, non repuli offerentem, seductam non
+instruxi, sed meipsum destruxi; non seductus errore,
+sed inductus amore.
+
+196
+00:36:21,833 --> 00:36:32,966
+Quod enim illa male credula
+persuasit, ego male uxorius consummavi, et ne illam
+contristarem, Deum meum contristavi; nec ideo
+minus peccavi quod sciens prudensque peccavi. Dedit
+mihi, et comedi.
+
+197
+00:36:32,966 --> 00:36:46,223
+Ego, inquam, ego qui etiam
+comedentem debui prohibere, et jure potestatis a
+culpa revocare, non solum non prohibui, verum et
+comedi, adeo vinctus imo victus amore sociali, ut
+me illi enerviter substernerem privatus rigore maritali.
+
+198
+00:36:46,223 --> 00:37:03,382
+Si autem quod ait: Mulier quam dedisti mihi, dedit mihi et comedi, aliquibus videatur non humilis fuisse confessio, sed quaedam excusatio, ut quod divinae jussioni contempsit obedire, non sibi totum, sed mulieri pariter conaretur ascribere; non audeo refragari, praesertim cum plerique sanctorum ita
+
+199
+00:37:03,382 --> 00:37:06,423
+senserint, et in opusculis suis scriptum reliquerint.
+
+200
+00:37:06,423 --> 00:37:18,302
+Potuit quidem in hoc falli, quia Deo tantopere
+displicere non putavit, quod in responsione sua mulierem
+accusavit, non aestimans sibi tam graviter
+imputari, quod, quamvis verum diceret, conatus est
+excusari.
+
+201
+00:37:18,302 --> 00:37:25,878
+Qui igitur non est seductus in comestione,
+seductus est in excusatione, dum in illa Deum offendit
+non inscius, in ista vero nescius.
+
+202
+00:37:25,878 --> 00:37:40,913
+Deo quippe, qui
+summa est aequitas, in excusatione peccati, nec ipsa
+placet veritas, nec vult ut culpam augeat incauta
+defensio, sed pura et simplex abstergat confessio. Restat igitur ut omni excusatione ablegata peccator
+dicat ei: Peccavi, Domine, miserere mei.
+
+203
+00:37:40,913 --> 00:37:53,826
+Sed enim
+rudis iste athleta nullum super hoc documentum
+acceperat, nullius praecedentis exemplo instructus
+fuerat, et qui sciebat malum esse non obedire divinae
+jussioni, nesciebat displicere quod verum est aeternae
+veritati.
+
+204
+00:37:53,826 --> 00:38:01,343
+Noverat quippe apostatam angelum, quia
+non obedivit, corruisse, sed eum non intellexerat vera
+dicendo offensam incurrisse.
+
+205
+00:38:01,343 --> 00:38:17,159
+Sive autem quod dictum
+est: Mulier quam dedisti mihi, dedit mihi et comedi,
+hoc modo sive illo accipiatur, merito mulier
+arguitur, quod viro gustum mortis obtulit, et
+eum ad peccandum suadendo, blandiendo, quamvis
+ignara compulit.
+
+206
+00:38:17,159 --> 00:38:19,031
+CAPUT XV.
+
+207
+00:38:19,031 --> 00:38:35,511
+Et dixit, inquit, Dominus ad mulierem: Quare
+hoc fecisti? Quae respondit: Serpens decepit me, et
+comedi (Gen III). Et hoc quidem veraciter, etsi
+non sapienter, dictum est. Est enim decepta a serpente. Verumtamen nec transgredi per deceptionem,
+nec transgressioni superaddere debuit excusationem.
+
+208
+00:38:35,511 --> 00:38:48,191
+Nec moveat quemquam si post vocationem qua dixi
+a Domino Adam fuisse vocatum, invenitur commisisse
+peccatum, cum non dixerim hoc illi vocationem
+conferre, ne omnino ulterius peccaret, sed ne in
+peccatis pertinaciter permaneret.
+
+209
+00:38:48,191 --> 00:39:04,950
+Quis enim se tam parvo sensu induerit, ut dicat quod ille, postquam a Deo vocatus est, nullum peccatum commiserit, cum tanto postea tempore vixerit; qui illum per inobedientiam jam perdiderat statum, in quo si permansisset, nullum omnino sensisset peccatum? Quia vero illum perdidit, in hanc miseriam
+
+210
+00:39:04,950 --> 00:39:12,268
+et miserandam decidit vitam, in qua jam non vivitur sine peccato; sed liberatur ab eo qui hac vocatione commendabili vocatur a Deo.
+
+211
+00:39:12,268 --> 00:39:23,663
+Nostis profecto Moysen (Num XX)
+post gratiam divinae vocationis irritasse Deum ad
+aquas contradictionis, et ob id non intrasse terram
+promissionis, nec tamen exclusum a finibus aeternae
+benedictionis.
+
+212
+00:39:23,663 --> 00:39:25,583
+CAPUT XVI.
+
+213
+00:39:25,583 --> 00:39:31,483
+Et ait Dominus ad serpentem: Quia hoc fecisti,
+maledictus es inter omnia animantia et bestias terrae
+(Gen III).
+
+214
+00:39:31,483 --> 00:39:45,941
+Videtis quia serpentem, imo diabolum
+in serpente latentem, Deus nec quaerit ubi sit, nec
+requirit quare hoc fecerit; sed quia hoc fecit, dignam
+ei maledictionem incutit; nec eam quasi minando
+futuram praenuntiat, sed affirmando praesentem denuntiat:
+Maledictus es, inquit.
+
+215
+00:39:45,941 --> 00:39:58,113
+Quia enim ille
+non revocabatur ad spem veniae, nec ei concedebatur
+spatium poenitentiae, 353 merito maledictus non
+fore, sed esse jam dicitur, qui et antea irremediabiliter
+peccaverat, et aeternae maledictionis poenas incurrerat.
+
+216
+00:39:58,113 --> 00:40:08,159
+Est procul dubio maledictus, tum quia
+adversus Deum se extulit per superbiam, dicens:
+Ero similis Altissimo (Isa XIV), tum quia hominem
+dejecit per invidiam quem subditum videbat
+Altissimo.
+
+217
+00:40:08,159 --> 00:40:19,481
+Eapropter haec iniquitas non inchoatio,
+sed adjectio est maledictionis, dum pro ea jam punitur
+atrocius, qui et ante puniebatur, sed forte remissius. Maledictus, inquit, es inter omnia animantia
+et bestias terrae.
+
+218
+00:40:19,481 --> 00:40:34,523
+Animantia et bestias terrae,
+animales et bestiales, nihil coeleste, sed solum terrena
+sapientes, et ob id aeternum maledictum incurrentes
+aestimo debere intelligi, de quibus Apostolus:
+Quorum finis, inquit, interitus, et gloria in confusione
+ipsorum qui terrena sapiunt (Philip III).
+
+219
+00:40:34,523 --> 00:40:38,988
+Inter quos iste asseritur maledictus, hoc est, plus
+quam omnes maledicti maledictus.
+
+220
+00:40:38,988 --> 00:40:54,774
+Sicut enim Virgo Maria praedicatur in Evangelio benedicta inter mulieres (Luc II), hoc est plus quam omnes mulieres, ita et iste cujus invidia mors intravit in orbem terrarum (Sap II), maledictus est inter omnes, hoc est plus quam omnes, qui extunc usque in finem maledicti inveniuntur in universo
+
+221
+00:40:54,774 --> 00:40:55,518
+orbe terrarum.
+
+222
+00:40:55,943 --> 00:40:57,911
+CAPUT XVII.
+
+223
+00:40:57,911 --> 00:41:11,015
+Super pectus, inquit, tuum gradieris (Gen III). Quoniam quasi serpenti loqui coeperat, metaphoram
+servat, et quid diabolo conveniat spiritaliter, in isto
+ostendit litteraliter. Pectus quidem domicilium cordis
+est et cogitationum.
+
+224
+00:41:11,015 --> 00:41:24,347
+Pectoris igitur nomine non
+inconvenienter omnis perversus designatur, in quo
+diabolus libere volutatur. Et quasi super eum graditur,
+dum premens eum et opprimens, cogit semper
+terrenis incumbere, nec ad coelestia permittit assurgere.
+
+225
+00:41:24,347 --> 00:41:41,285
+Qui nimirum perversus, quia terrae semper inhaeret, non jam terrenus, sed terra emphatice appellatur, quae praedicto serpenti in escam conceditur, ut eam intra ventrem malitiae suae penitus absorbeat, et a luce justitiae abscondens, involucro aeternae damnationis involvat; hoc est quod subditur:
+
+226
+00:41:41,285 --> 00:41:44,031
+Terram comedes cunctis diebus vitae tuae (ibid).
+
+227
+00:41:44,031 --> 00:41:55,075
+Dies vitae suae, omne hoc tempus recte
+intelligitur, in quo accepit licentiam saeviendi, donec
+in finem collectis omnibus qui ex parte ejus sunt,
+ruent simul in tartarum aeterna morte puniendi.
+
+228
+00:41:55,075 --> 00:42:12,012
+Ne autem de hac interim licentia gloriaretur, vel de eo quod mulierem deceperat, diutius laetaretur; subjungitur poena qua etiam inpraesentiarum puniretur, dum nocendi semper aestuaret affectu, et tamen quandoque careret effectu: Inimicitias, inquit, ponam inter te et mulierem, et semen tuum, et
+
+229
+00:42:12,012 --> 00:42:13,328
+semen illius (Gen III).
+
+230
+00:42:13,328 --> 00:42:25,173
+Semen diaboli est mala suggestio,
+cujus fructus aeterna est damnatio, semen
+mulieris timor Dei, cujus finalis utilitas visio Dei. Ipsa, inquit, conteret caput tuum, et tu insidiaberis
+calcaneo illius (ibid).
+
+231
+00:42:25,173 --> 00:42:41,709
+Ipsa machinamenta
+tuae suggestionis conteret ariete divini timoris,
+enervans fraudes tuas consilio prudentiae suae, reddens
+vicem malitiae tuae; ut a seducta seducaris, a
+prostrata prosternaris, et a fronte repercussus,
+calcaneo illius solummodo valeas insidiari, non
+praevalendo gloriari.
+
+232
+00:42:41,709 --> 00:42:50,063
+Postquam diabolus aeternae
+maledictioni addicitur, utrique homini non eadem,
+ut videtur, maledictio, sed afflictio temporalis infligitur.
+
+233
+00:42:50,063 --> 00:42:59,327
+Et quia mulier prior incurrerat culpam,
+prior poenalem excipit sententiam, ut idem ordo in
+excipienda sententia teneretur, qui in culpa perpetrata
+fuisse cognoscitur.
+
+234
+00:42:59,327 --> 00:43:01,175
+CAPUT XVIII.
+
+235
+00:43:01,175 --> 00:43:10,732
+Et dixit Deus mulieri: Multiplicabo aerumnas
+tuas et conceptus tuos. In dolore paries filios, et
+sub viri potestate eris, et ipse dominabitur tui (Gen.
+III).
+
+236
+00:43:10,732 --> 00:43:28,751
+Haec verba, si remoto sensu historico spiritaliter solummodo accipiantur, cuilibet sanctae animae, vel universali Ecclesiae recte assignantur, cujus aerumnae et conceptus multiplicantur, quae parit filios in dolore, id est fructus bonorum operum cum labore, et sub viri, id est Christi, potestate
+
+237
+00:43:28,751 --> 00:43:31,612
+famulatur, et ille huic justo ordine dominatur.
+
+238
+00:43:31,612 --> 00:43:37,273
+Si autem
+historialiter intelligantur, non est absonum si Evae
+specialiter convenire dicantur.
+
+239
+00:43:37,273 --> 00:43:50,543
+Nam si haec sententia
+generalis esse putatur, ut quod dictum est Evae,
+omni mulieri convenire asseratur, huic opinioni, ut
+caetera taceam, obviabit partus Virginis Mariae, quae,
+etsi peperit, peperit tamen sine dolore.
+
+240
+00:43:50,543 --> 00:43:59,491
+Quae igitur
+dicta sunt Evae, sive litteraliter, sive spiritaliter intelligantur,
+non omni mulieri conveniunt omnia,
+sed alii et alii, alia et alia.
+
+241
+00:43:59,491 --> 00:44:17,266
+Quaecunque autem, vel ad ipsam mulierem, vel de ipsa muliere ad serpentem a Domino dicta sunt, eidem Evae posse convenire credenda sunt, ut sicut ei dictum legimus: In dolore paries filios, et hoc verum esse non dubitamus, sic etiam quod dictum est ad serpentem: Inimicitias ponam inter te et
+
+242
+00:44:17,266 --> 00:44:22,623
+mulierem, et ipsa conteret caput tuum, de eadem dictum esse remota dubitatione credamus.
+
+243
+00:44:22,623 --> 00:44:33,032
+Quae igitur divina puniente
+justitia peperit filios in dolore, quae est sententia
+poenalis, eadem visitante gratia caput serpentis
+contrivit, quae est victoria spiritalis.
+
+244
+00:44:33,032 --> 00:44:50,015
+Et notandum,
+quia quod dictum est mulieri: Multiplicabo
+aerumnas tuas et conceptus tuos in dolore
+paries filios et sub viri potestate eris, sensum recipit
+tam spiritalem quam 354 litteralem, ut haec
+omnia mulier credatur et pertulisse realiter et complesse
+spiritaliter.
+
+245
+00:44:50,015 --> 00:45:04,591
+Quod autem de ea dictum est ad
+serpentem: Inimicitias ponam inter te et mulierem,
+ipsa conteret caput tuum, et tu insidiaberis
+calcaneo ejus, sensum excludens historicum, solum
+recipit mysticum, cum hoc satis inutile videretur,
+si secundum litteram teneretur.
+
+246
+00:45:04,591 --> 00:45:18,323
+Quae enim esset
+utilitas, si caput serpentis materialiter contereretur,
+cum ex hoc nullus animae profectus haberetur? Illam ergo aestimo dici contritionem, de qua
+Paulus ad Romanos: Deus conterat Satanam sub
+pedibus vestris velociter (Rom XVI).
+
+247
+00:45:18,323 --> 00:45:27,947
+Unde est quod
+eadem mulier in sequentibus appellatur mater vivorum,
+id est bonorum operum, quibus contraria
+sunt peccata, quae in Scripturis divinis plerumque
+designantur.
+
+248
+00:45:27,947 --> 00:45:39,146
+Unde Apostolus ad Corinthios loquens:
+Quid facient, inquit, qui baptizantur pro mortuis,
+id est pro peccatis? (II Cor XV) Et ad Hebraeos:
+Fundamentum, ait, poenitentiae ab operibus mortuis
+(Hebr VI).
+
+249
+00:45:39,146 --> 00:45:52,709
+Denique idem Apostolus, cum ad
+Timotheum de eadem muliere loqueretur: Adam,
+inquit, seductus non est, mulier autem seducta in
+praevaricatione fuit; salvabitur autem per filiorum
+generationem, si permanserint in fide et dilectione
+(I Tim II).
+
+250
+00:45:52,709 --> 00:46:07,116
+Quam dixit seductam in praevaricatione,
+eamdem videtur dicere salvari per generationem
+filiorum, id est per exercitium bonorum operum,
+quae intelliguntur nomine filiorum. Unde Psalmista:
+Respice, inquit, in servos tuos et dirige
+filios eorum (Psal LXXXIX).
+
+251
+00:46:07,116 --> 00:46:15,220
+Quod autem subjungit
+Apostolus (I Tim II), de filiis, si permanserint in
+fide et dilectione, non est credendum quod hoc dixerit
+cum dubitatione.
+
+252
+00:46:15,220 --> 00:46:29,683
+Causalis quippe conjunctio,
+quae est (si) sicut aliquot in locis invenitur posita
+dubitative, sic in Scripturis tam divinis quam saecularibus
+frequenter ponitur affirmative, etsi frequentius
+quando indicativo, tamen aliquoties quando
+adjungitur conjunctivo.
+
+253
+00:46:29,683 --> 00:46:37,055
+Per Malachiam prophetam
+dicit Deus: Si pater ego sum, ubi est honor
+meus? Si Dominus ego sum, ubi est timor meus? (Malac I)
+
+254
+00:46:37,055 --> 00:46:44,218
+Et poeta ille insignis ait: Domini si
+qua est pietas coelo ; non utique dubitans, sed
+affirmans pietatem esse in coelo.
+
+255
+00:46:44,218 --> 00:46:55,535
+Et Dominus in
+Evangelio: In hoc, inquit, cognoscent omnes
+quia mei estis discipuli, si dilectionem habueritis
+ad invicem (Joan XIII), sciens profecto, quia dilectionem
+haberent ad invicem.
+
+256
+00:46:55,535 --> 00:47:03,239
+Ad intimandum igitur
+quod spiritaliter fieri volebat, Evam ducens ad
+medium, de illa dicit Apostolus, quod verum esse
+sciebat.
+
+257
+00:47:03,239 --> 00:47:05,159
+CAPUT XIX.
+
+258
+00:47:05,159 --> 00:47:21,138
+Audistis quid mulieri dictum sit; audite, si placet,
+quae postea viro sententia illata sit. Sequitur in Genesi:
+Adae vero dixit: Quia audisti vocem uxoris
+tuae, et comedisti de ligno, de quo praeceperam tibi
+ne comederes, maledicta terra in opere tuo.
+
+259
+00:47:21,138 --> 00:47:33,869
+Spinas
+et tribulos germinabit tibi, et comedes herbas terrae. In sudore vultus tui vesceris pane tuo, donec revertaris
+in terram de qua sumptus es, quia pulvis
+es, et in pulverem reverteris (Gen III).
+
+260
+00:47:33,869 --> 00:47:50,739
+Maledictum,
+ut mihi videtur, omne peccatum designat
+nomine generali, quod in specie subauditur, ut
+unumquodque censeatur nomine speciali. Quod nimirum
+Osee propheta (cap IV) videtur invenire, qui
+praemisso genere subsequenter aliquot ejus species
+curavit annectere.
+
+261
+00:47:50,739 --> 00:48:05,316
+Maledictum, inquit, et mendacium,
+et furtum, et homicidium, et adulterium
+inundaverunt, et sanguis sanguinem tetigit. Cum
+igitur homo peccavit, maledictum perpetravit, cui
+maledicto poena debetur, ne ille de impunitate glorietur.
+
+262
+00:48:05,316 --> 00:48:13,910
+Incutitur ergo ei, ut terra ejus, id est caro
+mortalis sit maledicta, id est poenas maledicti luens,
+laboribus et aerumnis sit addicta.
+
+263
+00:48:13,910 --> 00:48:32,689
+Hac locutione
+ipse etiam Christus dicitur maledictus, imo et maledictum,
+pro eo scilicet quod mortalitatis nostrae
+molestias pertulit, quas primi hominis intulit maledictum. Ad Galatas scribens Apostolus: Christus,
+inquit, nos redemit de maledicto legis, factus
+pro nobis maledictum (Galat III).
+
+264
+00:48:32,689 --> 00:48:42,174
+Et ut quod
+dixerat probaret veridicum, testimonium subjungit
+propheticum: Quia scriptum est, inquit: Maledictus
+omnis qui pendet in ligno (Deut XXI).
+
+265
+00:48:42,174 --> 00:49:01,144
+Videtis quia Christus pendens in ligno, dicitur maledictum, vel maledictus, quod nihil est aliud quam poenis quae de maledicto veniunt, est afflictus, Simili tropo locutionis eumdem in Epistola ad Corinthios idem Apostolus peccatum dicit: Eum, inquiens, qui non noverat peccatum, pro nobis peccatum
+
+266
+00:49:01,144 --> 00:49:02,226
+fecit (II Cor V).
+
+267
+00:49:02,735 --> 00:49:11,831
+Inde est quod cum Deus diceret homini:
+Maledicta terra, addidit: In opere tuo,
+ut haec maledictio intelligeretur afflictio esse terrenae
+operationis, non aeternae damnationis.
+
+268
+00:49:11,831 --> 00:49:25,812
+Superius
+quidem scriptum est quia tulit Dominus Deus
+hominem et posuit eum in paradiso voluptatis, ut
+operaretur et custodiret illum (Gen III). Ibi ergo
+etiam dictum est ut operaretur, sed in illo opere
+non afflictio sed delectatio, non miseria sed custodia
+continetur.
+
+269
+00:49:25,812 --> 00:49:36,778
+Ad hoc quippe positus est in paradiso
+voluptatis, ut divinis perfecte inhaereret mandatis,
+ut Deo delectabiliter deserviret, et in ejus servitio
+perseverans, delectationem concessam indesinenter
+sibi custodiret.
+
+270
+00:49:36,778 --> 00:49:47,328
+355 Si enim in divino servitio teneret
+perseverantiam, nullam in omni opere suo aliquando
+sentiret molestiam. Hoc est quod dictum est: Posuit
+eum in paradiso voluptatis ut operaretur et custodiret
+illum.
+
+271
+00:49:47,328 --> 00:50:02,297
+Illum, id est paradisum voluptatis, ne scilicet
+delectabilem statum perderet per negligentiam,
+quem retinere poterat per diligentiam. Nec moveat
+si hic vel in aliis divinae Scripturae locis paradisus
+invenitur esse generis masculini, cum apud modernos
+grammaticos asseratur esse feminini.
+
+272
+00:50:02,297 --> 00:50:13,887
+Quod
+si placet grammaticis ut (illum) non ad paradisum,
+sed ad hominem referatur, non oportet contendere
+cum ab eodem sensu non longe propter hoc recedatur. Posuit, inquit, Deus hominem in paradiso
+voluptatis ut operaretur.
+
+273
+00:50:13,887 --> 00:50:28,127
+Operaretur quidem homo,
+haud dubium quin mandatum quod accepit ut ei
+obediret, et illum sic operantem Deus procul dubio
+in ea voluptate in qua eum posuerat, custodiret. In quibusdam vero codicibus invenitur non (illum)
+sed (illud) ut operaretur, inquit, et custodiret illud.
+
+274
+00:50:28,127 --> 00:50:35,663
+Positus est homo in paradiso voluptatis, ut operaretur
+quod mandabatur a Deo, et custodiret, illud
+videlicet opus suum, perseverans in eo.
+
+275
+00:50:35,663 --> 00:50:50,086
+Tunc igitur
+terra hominis recte dici potuit benedicta in
+opere suo, cum nihil molestiae, nihil afflictionis,
+nihil contradictionis sentiret in opere suo: quia nec
+peccatum, nec poena peccati inveniebatur in opere
+suo.
+
+276
+00:50:50,086 --> 00:51:06,834
+Nunc autem e regione merito dicitur in opere
+suo maledicta, cum in ea vel peccatum regnet si
+male vixerit, vel eam peccati poena aggravet, etiamsi
+bene vixerit. Jam enim non vivitur sine miseria,
+sed Deo miserante quibusdam fit jam utilis ista
+miseria.
+
+277
+00:51:06,834 --> 00:51:20,526
+Malis quidem tantummodo noxia est et
+poenalis, bonis vero fructuosa est et medicinalis,
+Deo commutante quod malum est in bonum, dicente
+Apostolo quia diligentibus Deum omnia
+cooperantur in bonum (Rom VIII).
+
+278
+00:51:20,526 --> 00:51:39,002
+Si enim in hac
+miseria bene vivatur ut non tanquam cubiculum
+diligatur sed tanquam stabulum sufferatur, si non
+contra Dei sententiam murmuratur, si ad aeternam
+patriam suspiratur, procul dubio ipsa nostra miseria
+in meritum commutatur, et homo bene conditus
+in melius reparatur.
+
+279
+00:51:39,002 --> 00:51:57,146
+Inde est quod Propheta dicit:
+Qui fingis laborem in praecepto (Psal XCIII). Laborem quippe nostrum Deus format nobis in
+praecepto, cum mala quae in hac vita vult ut sustineamus,
+vult etiam ut patienter sustineamus; et
+hujus bonum patientiae pro merito computat obedientiae.
+
+280
+00:51:57,146 --> 00:52:14,626
+Eapropter cum dictum esset: Maledicta
+terra in opere tuo, adjunctum est: In laboribus
+comedes eam, hoc est in laboribus capies fructum
+ex ea. Fuerunt, inquit, mihi lacrymae meae panes
+(Psal XLI); Et: Labores manuum tuarum quia
+manducabis, beatus es (Psal CXXVII).
+
+281
+00:52:14,626 --> 00:52:26,722
+Terra, inquit,
+tua non erit deinceps fructuosa si labore contempto
+esse voluerit deliciosa. Quod Apostolus figuraliter
+dicit: Vidua quae in deliciis est, vivens
+mortua est (I Tim V).
+
+282
+00:52:26,722 --> 00:52:38,353
+Vidua quidem caro nostra
+non incongrue dicitur, cum a spiritu tanquam marito
+legitime non regitur, sed male libera a lege
+spiritali in voluptatum suarum prostituitur lupanari.
+
+283
+00:52:38,353 --> 00:52:47,591
+Vivens igitur sibi mortua est Deo, sicut econtra
+dicitur: Mortui estis, et vita vestra abscondita
+est cum Christo in Deo (Col III).
+
+284
+00:52:47,591 --> 00:52:49,391
+CAPUT XX.
+
+285
+00:52:49,391 --> 00:52:52,529
+Spinas, inquit, et tribulos germinabit tibi (Gen.
+III).
+
+286
+00:52:52,529 --> 00:53:08,158
+Spinae et tribuli quas germinat terra nostra,
+sollicitudines sunt et curae quas nobis ingerit caro
+nostra, dum pro ea vel tuenda ne deficiat, vel fovenda,
+ut proficiat, spiritualia quae praesto sunt
+utiliter disponere, quae vero absentia sunt, satagimus
+prudenter acquirere.
+
+287
+00:53:08,158 --> 00:53:23,102
+Quia enim haec necessaria
+sunt, et sine his haec vita non agitur, propter
+haec sollicitudine gravi nostra mens angitur, dum
+Deo aspirante coelestia jam studet aspirare, et tamen
+cogente necessitate praesenti, quae transitoria
+sunt plerumque compellitur cogitare.
+
+288
+00:53:23,102 --> 00:53:40,043
+Verumtamen si haec anxietas et cura certum modum, debitosque fines non transgrediuntur, si propter eas coelestia non negliguntur, si ad appetenda illicita non extenduntur, si in his, etiam quae licita sunt, discrete reprimuntur, utcunque tractabiles sunt, tolerabiles sunt: herbae quodammodo sunt,
+
+289
+00:53:40,043 --> 00:53:44,949
+etsi aliquantulum compungentes, non tamen obruentes, imo utilitati nostrae servientes.
+
+290
+00:53:44,949 --> 00:54:00,521
+Propter hoc dicitur: Et comedes herbas
+terrae (Gen III); tanquam diceretur: Temporales
+curas quibus in appetendo vel disponendo transitoria,
+laborabis, recides, ne luxurientur, depasceris
+et in usus tuos convertes, ut non ad interitum,
+sed ad profectum inflictae videantur.
+
+291
+00:54:00,521 --> 00:54:10,503
+Tunc enim
+spinae et tribuli, non ligna trabalia, sed herbae tractabiles
+imo et utiles inveniuntur, si temporales
+curae non amore praesentium, sed in spe coelestium
+tolerentur.
+
+292
+00:54:10,503 --> 00:54:23,223
+Unde ad Romanos Apostolus dicit: Vanitati
+creatura subjecta est, non volens, sed propter
+eum qui subjecit eam in spe, quia et ipsa creatura
+liberabitur a servitute corruptionis in libertatem
+gloriae filiorum Dei (Rom VIII).
+
+293
+00:54:23,223 --> 00:54:39,935
+Vanitati quippe
+creatura non volens subjicitur, cum temporalibus
+aerumnis homo non diligendo, sed obediendo affligitur,
+in quibus ne deficiat, imo ut proficiat, spe confortatur
+absolutionis, quia videlicet in libertatem
+gloriae filiorum transiens, liberabitur a servitute
+corruptionis.
+
+294
+00:54:39,935 --> 00:54:58,818
+Et bene herbarum nomine, qui cibus est animalium, temporales 356 designantur miseriae, in quibus laborat et proficit vita fidelium, quia in quantum terreni et quasi animales sumus, terrenis alimentis indigemus: qui spirituales effecti, si tamen spirituales efficimur, coelestis panis suavitate
+
+295
+00:54:58,818 --> 00:54:59,463
+reficimur.
+
+296
+00:54:59,463 --> 00:55:08,807
+Sicut enim herbis pascuntur animales,
+sic pane vescuntur spirituales, de quo ab
+Adam subjungitur: In sudore vultus tui vesceris
+pane (Gen III).
+
+297
+00:55:08,807 --> 00:55:10,727
+CAPUT XXI
+
+298
+00:55:10,727 --> 00:55:23,817
+Potest et aliter intelligi quod dictum est: Spinas
+et tribulos germinabit tibi, et comedes herbas terrae. Spinae et tribuli, tribulationes et suggestiones sunt
+peccati; quae de terra, id est de carne nostra pullulant,
+et eam de qua nascuntur, impugnant.
+
+299
+00:55:23,817 --> 00:55:34,372
+Sicut
+enim de veste vel ligno vermiculus nascitur, per
+quem ipsa vestis vel lignum consumitur, sic de carne,
+suggestiones nascuntur peccati, per quas compungitur
+et plerumque consumitur ipsa caro peccati.
+
+300
+00:55:34,372 --> 00:55:49,428
+Quae cum in nobis peccandi movent affectum, si resistente viriliter spiritu non pervenerint ad effectum; pungere quidem nos possunt, obruere non possunt, dum eas tanquam herbas devorat et atterit nostra prudentia adjuta per gratiam; quas nimirum trabes prementes et opprimentes invenimus per
+
+301
+00:55:49,428 --> 00:55:50,773
+consensum et negligentiam.
+
+302
+00:55:50,773 --> 00:56:04,380
+Ideo dictum est: Et comedes herbas
+terrae. Herbas quippe amaras et asperas peccati,
+videlicet illecebras profert terra nostra, quas ne
+proficiant, et de tribulis, ligna trabalia fiant, admonemur
+comedere, hoc est, ore consumere. Quid est
+ore? Jejunio et oratione.
+
+303
+00:56:04,380 --> 00:56:19,436
+Qui enim contra exactiones
+ventris et gutturis, contra incentiva libidinis
+orationem et jejunium non studet opponere, seipsum
+illis enerviter convincitur supponere. Quod autem
+hujusmodi armis nostri subnerventur inimici, Balac
+filius Sephor rex Moabitarum eleganter signavit in
+libro Numeri.
+
+304
+00:56:19,436 --> 00:56:34,958
+Qui cum videret Israeliticum populum intrare fines Moab, recolens quomodo ille Seon regem Amorrhaeorum, et Og regem Basan vicerat, et omnes reliquos per quos transierat, perterritus dixit majoribus natu Madian: Ita delebit hic populus omnes qui commorantur in finibus nostris quomodo solet bos herbas
+
+305
+00:56:34,958 --> 00:56:36,820
+usque ad radices carpere (Num XXII).
+
+306
+00:56:36,820 --> 00:56:45,719
+Quia bos mactari solebat in
+sacrificio, non incongrue bos ille est, qui dicit:
+Castigo corpus meum et servituti subjicio (I Cor IX). Quod convenire videtur jejunio.
+
+307
+00:56:45,719 --> 00:56:57,279
+Herbas autem
+usque ad radices carpit, cum vir sanctus motus
+carnis suae et impetus juventutis, ne luxurientur,
+oratione consumit; ut et si non potest non esse,
+non tamen regnet peccatum in suo mortali corpore.
+
+308
+00:56:57,279 --> 00:57:13,207
+Bos igitur est, et herbas carpit, qui jejunando et
+orando insurgentia vitia reprimit, ne de radice lutulentae
+carnalitatis, pullulet et silvescat arbuscula
+pravitatis. Merito timuit Balac posse vinci populum
+suum, Madianitas videlicet et Moabitas quomodo
+victos fuisse noverat Amalecitas.
+
+309
+00:57:13,207 --> 00:57:29,689
+Non enim latebat eum, quia cum egressus de deserto Sin populus Israel castrametaretur in Raphin et occurreret ei Amalech, Moyses habens virgam Dei in manu, ascendit in verticem collis, et elevans manus, sustentatibus eas Aaron et Hur, non cessavit orare usque ad occasum diei, donec, sicut scriptum
+
+310
+00:57:29,689 --> 00:57:33,561
+est (Exod XVII), fugaret Josue, Amalech et populum ejus in ore gladii.
+
+311
+00:57:33,561 --> 00:57:50,042
+Hujus autem effectum victoriae Balac prudenter intelligens, meritis assignabat, non viribus ori: non manibus, orationi et jejunio, non hastae et gladio, memoriter tenens quod praedicari audierat, quia cum levaret Moyses manus in oratione, vincebat Israel, sin autem paululum remisisset, praevalebat
+
+312
+00:57:50,042 --> 00:57:50,485
+Amalech.
+
+313
+00:57:50,485 --> 00:58:02,044
+Denique in alios populos
+innumerabiles prae multitudine licet instructos
+armis, multoque vallatos munimine, noverat
+Israeli succubuisse, cum ille, etsi non merito, tamen
+numero longe inferior videretur fuisse.
+
+314
+00:58:02,044 --> 00:58:13,769
+Tale
+quid commendare videtur Evangelium: Hoc genus,
+inquiens, non ejicitur, nisi per orationem et jejunium
+(Matth XVII). Ideo et Christus iturus ad
+passionem: Orate, inquit, ne intretis in tentationem
+(Luc XXII).
+
+315
+00:58:13,769 --> 00:58:29,255
+Laborantibus autem et sudantibus
+in agone jejunii et orationis, grata debetur panis
+refectio, ne laboris continui opprimantur fastidio. Interna enim refectione confortati dum ad sperandum
+coelestia dulcius animantur, ad perferendas
+temporales molestias fortius roborantur.
+
+316
+00:58:29,255 --> 00:58:31,223
+CAPUT XXII.
+
+317
+00:58:31,223 --> 00:58:46,101
+Ideo sequitur: In sudore vultus tui vesceris
+pane (Gen III). Non additur: Quo pane, sed tantum
+in sudore vultus tui vesceris pane. Ille ergo
+panis per antonomasiam intelligitur, de quo alibi
+mystice legitur: Panem de coelo dedit eis manducare
+(Joan VI).
+
+318
+00:58:46,101 --> 00:58:57,275
+Iste nimirum panis, infusio vel
+refectio est spiritualis, qua homo noster interior
+renovatur, proficit, vegetatur, cum iste exterior
+corrumpatur, et temporalibus assidue miseriis affligatur.
+
+319
+00:58:57,275 --> 00:59:13,858
+Iste est panis de quo in oratione Dominica
+dicimus: Panem nostrum quotidianum da nobis
+hodie (Matth VI), qui omni die est necessarius,
+sine quo nullo die, nullo tempore vivitur, si tamen
+bene et spiritaliter vivitur. Qui autem spiritaliter
+non vivit, etsi vivere videtur, non vivit.
+
+320
+00:59:13,858 --> 00:59:26,207
+Iste panis
+divinae suavitatis est gustus, de quo Propheta:
+Gustate, ait, et videte, quoniam suavis est Dominus
+(Psal XXXIII). Cujus suavitatis dulcedo quanta
+sit, 357 sentiri quidem potest, sed dici non
+potest.
+
+321
+00:59:26,207 --> 00:59:36,087
+Et mirum in modum cum mens ad capiendum
+sit plerumque diffusa, ad enarrandum sibiipsi
+videtur conclusa, nec datur facultas disserendi, cum
+tamen adsit gratia sentiendi.
+
+322
+00:59:36,087 --> 00:59:44,849
+Ad hunc vero ineffabilem
+dulcorem non venitur nisi per laborem, nec
+percipit fructum tantae suavitatis qui non sudat et
+laborat in agone sanctitatis.
+
+323
+00:59:44,849 --> 00:59:55,669
+Labor iste jejunium est,
+vigiliae, lectio, oratio, meditatio, compunctio, ploratio,
+in quibus laborare nos convenit in hac regione
+mortuorum, si vesci et refici pane volumus angelorum.
+
+324
+00:59:55,669 --> 01:00:13,076
+Cum autem venerimus in regionem vivorum,
+vescemur quidem eo pane, sed jam sine labore et
+sudore, quia ista refectio in hac vita laboriosam
+habet inchoationem, in illa vero gloriosam consummationem. Ideo dictum est: In sudore vultus tui
+vesceris pane, donec revertaris in terram de qua
+sumptus es.
+
+325
+01:00:13,076 --> 01:00:27,071
+Hoc est dicere: Tam diu laborandum
+est tibi, ut isto pane vescaris, donec in terram, de
+qua sumptus es, revertaris, id est donec morte
+accedente fias terra inanimata, sicut spiritu nondum
+accedente fuisti primitus terra inanimata.
+
+326
+01:00:27,071 --> 01:00:42,239
+Post solutionem
+vero corporis desines laborare, plenius invento
+quod hic merueris praegustare, fruens pane
+jam sine molestia, dum hac vita finiente finietur et
+miseria. Sequitur: Et fecit, etc.
+
+327
+01:00:42,239 --> 01:00:44,207
+CAPUT XXIII.
+
+328
+01:00:44,207 --> 01:00:52,315
+Et fecit Deus Adae et uxori ejus tunicas pelliceas
+et induit eos, et ait: Ecce Adam factus est quasi
+unus ex nobis sciens bonum et malum (Gen III).
+
+329
+01:00:52,315 --> 01:01:02,850
+Quia pelles mortuis pecoribus detrahuntur, non incongrue
+in tunicis pelliceis mortalitas corporis designatur,
+quae illis incussa est, cum merito inobedientiae
+stola immortalitatis nudarentur.
+
+330
+01:01:02,850 --> 01:01:13,771
+Ipso igitur
+habitu corporis poena signata est ipsius corporis,
+dum qui mortales vel potius morituri jam erant,
+mortuorum pellibus vestiuntur, qui nudi eatenus
+fuerant, et tamen vestibus non egebant.
+
+331
+01:01:13,771 --> 01:01:28,222
+Sic nimirum
+hujusmodi vestimentum factum est illis non solum
+novae turpitudinis necessarium tegumentum, verum
+etiam infirmitatis suae medicinale monimentum,
+dum hoc intuentes, unde et quo venerint admonentur,
+et hac admonitione ne iterum superbiant, reprimuntur.
+
+332
+01:01:28,222 --> 01:01:40,135
+Eapropter, ut arbitror, et Joannes Baptista
+zonam pelliceam circa lumbos legitur habuisse
+(Matth III), ut scilicet ex traduce peccati se venisse
+mortalem recoleret, et de eo quod Christus
+putabatur minime superbiret.
+
+333
+01:01:40,135 --> 01:01:50,449
+Ut autem tumori
+noxio mordacius epithema medicus coelestis apponeret,
+cum induisset illos vestimentis pelliceis, adjungit:
+Ecce Adam factus est quasi unus ex nobis,
+sciens bonum et malum.
+
+334
+01:01:50,449 --> 01:02:06,886
+In eo quod dicitur ex
+nobis Trinitas intelligitur in qua est numerus
+pluralis, in qua et Pater est Deus, et Filius Deus, et
+Spiritus sanctus Deus, quamvis simul non tres dii,
+sed unus sit Deus. Factus igitur tanquam unus ex
+nobis, hoc est dicere: Factus est Deus quod est
+singulus quisque ex nobis.
+
+335
+01:02:06,886 --> 01:02:19,295
+In quo dicto videtur quodammodo
+insultare superbiae peccatoris, insuper et
+timorem incutere peccaturis, ostendens quia homo
+non solum non est adeptus quod male concupivit,
+sed nec illud quod bene acceperat, custodivit.
+
+336
+01:02:19,295 --> 01:02:36,171
+Factus est quasi unus ex nobis, sciens bonum et
+malum; tanquam diceret: Dum perverse appetit
+esse tanquam Deus, ecce ad hoc recte redactus est,
+ut sit tanquam equus et mulus, et dum injuste Creatoris
+ambit divinitatem, juste ad bestiarum devolutus
+est mortalitatem.
+
+337
+01:02:36,171 --> 01:02:48,653
+Jam scit homo bonum et malum,
+quod utrumque et ego novi, sed illud amittendo,
+istud experiendo, qualiter ego non novi. Scio quidem
+bonum, sed semper habendo, scio et malum,
+sed nunquam experiendo.
+
+338
+01:02:48,653 --> 01:02:59,224
+Adam vero dum sciendo
+bonum et malum, vult effici similis Deo, sciendo
+utrumque longe factus est ab eo, dum alterum scit
+amittendo, alterum vero pro meritis patiendo.
+
+339
+01:02:59,224 --> 01:03:14,635
+Potest
+et aliter intelligi quod dictum est: Ecce Adam
+factus est quasi unus ex nobis, ut non ironia vel
+insultatio aestimetur, sed dictum potius serio reputetur. Ecce, inquit, Adam factus est quasi unus ex
+nobis, id est revera unus extra nos.
+
+340
+01:03:14,635 --> 01:03:30,237
+Quasi aliquando
+similitudinem, aliquando rei exprimit veritatem. Similitudinem cum dicit Petrus: Quasi
+modo geniti infantes lac concupiscite (I Petr II). Rei veritatem cum dicit Joannes: Et vidimus gloriam
+ejus, quasi Unigeniti a Patre (Joan I).
+
+341
+01:03:30,237 --> 01:03:41,063
+Unus
+ex nobis, id est unus factus extra nos, sicut dicitur:
+Unus ex consulibus, qui aliquando consul fuit, et
+jam non est, qui apertius et usitatius, exconsul
+appellatur.
+
+342
+01:03:41,063 --> 01:03:55,201
+Sicut enim qui consulatu fungitur dicitur
+consul, sic nimirum qui eodem privatus est, appellatur
+exconsul; sic etiam exepiscopos, exabbates,
+exadvocatos dicimus, qui hanc aliquando dignitatem
+habuerunt, et jam deposuerunt.
+
+343
+01:03:55,201 --> 01:04:04,435
+Adam vero ad hoc
+factus est ad imaginem Dei, ut et ipse Deus esset
+cohaerendo semper ei. Qui adhaeret, inquit, Deo,
+unus spiritus est (I Cor VI).
+
+344
+01:04:04,435 --> 01:04:19,463
+Quandiu igitur obediens
+Patri et Filio et Spiritui sancto mansit in eis,
+Deus, procul dubio fuit et ipse cum eis, quamvis
+non substantive, sed nuncupative, non natura, sed
+gratia, non sui merito laboris, sed beneficio Creatoris.
+
+345
+01:04:19,463 --> 01:04:32,444
+Postquam autem vetitum comedens voci uxoris
+obedivit, a consortio illorum miserandus exivit,
+et qui per justitiam unus erat in eis, id est inter
+eos, per injustitiam factus est unus ex eis, id est
+extra eos.
+
+346
+01:04:32,444 --> 01:04:41,788
+358 Cohaerendo quippe Deo erat Deus;
+recedendo autem ab eo, factus est non Deus, quod
+expressius diceretur, si tamen usus loquendi pateretur,
+exdeus.
+
+347
+01:04:41,788 --> 01:04:52,825
+Sicut enim dicitur exconsul, qui aliquando
+fuit et jam non est consul, sic si usus loquendi
+haberet, convenienter dici posset, exdeus,
+quia aliquando fuit, et jam non est deus.
+
+348
+01:04:52,825 --> 01:05:11,135
+Ecce,
+inquit, Adam factus est quasi unus ex nobis; ac
+si diceret: Revera in eo quod sumus permanentibus
+nobis, Adam qui etiam Deus erat, exivit ex nobis,
+et factus est sciens bonum et malum, non quomodo
+antea sciebat et nos etiam scimus, sed quomodo
+nunquam scierat, nec nos utique scimus.
+
+349
+01:05:11,135 --> 01:05:13,103
+CAPUT XXIV.
+
+350
+01:05:13,103 --> 01:05:29,983
+Nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitae, et comedat et vivat in aeternum, emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est, et collocavit ante paradisum cherubim et flammeum gladium atque versatilem ad custodiendam viam ligni vitae
+
+351
+01:05:29,983 --> 01:05:30,606
+(Gen. III).
+
+352
+01:05:30,606 --> 01:05:45,956
+Quia per lignum vitae, sicut superius dixisse
+me recolo, Adam prius mortem vitabat et senium,
+nunc vero peccando mortis incurrerat meritum, ne
+tangat ut antea idem lignum, ejicitur de paradiso
+voluptatis, ut tam loco quam merito elongaret a
+statu pristino immortalitatis.
+
+353
+01:05:45,956 --> 01:06:00,230
+Quod ut mihi videtur
+divinae potest misericordiae assignari, quod peccatum
+hominis Deus hac poena voluerit annullari, ut per
+mortem corporis homo purgatus rediret ad vitam,
+ne post peccatum semper vivens et semper peccans,
+semper miseram duceret vitam.
+
+354
+01:06:00,230 --> 01:06:12,011
+Si enim post peccatum,
+homo corporaliter immortalis maneret, et
+nulla ejus peccatum mors interveniens aboleret, similis
+esset diabolo, qui post peccatum immortaliter
+vixit, et a morte peccati nunquam revixit.
+
+355
+01:06:12,011 --> 01:06:28,607
+Utiliter
+ergo homo ad horam excluditur a ligno vitae, et interponitur
+cherubim, quod est, plenitudo scientiae et
+flammeus gladius, id est tribulationum angustiae, ut
+per plenitudinem scientiae, per quam charitas designatur,
+et per mortis angustias, ad lignum vitae, qui
+Christus est, redeatur.
+
+356
+01:06:28,607 --> 01:06:44,524
+Ideo nimirum et ipse gladius
+dicitur non fixus et immobilis, sed licet flammeus,
+tamen versatilis: ut redire ad vitam sit quidem difficile,
+sed tamen possibile. Audistis, fratres, quid in
+Genesi primo legatur, quae poena peccati merito infligatur,
+quis ad vitam reditus concedatur.
+
+357
+01:06:44,524 --> 01:07:00,384
+Quod
+ideo volui commemorare, ut attendat dilectio vestra
+quia Scripturae verba aeternum ejus interitum non
+videntur sonare: sed sicut peccatum ejus et mortem
+sine aliqua ostendunt dubitatione, sic poenitentiam
+et vitam, etsi occulta, non tamen nulla insinuant
+attestatione.
+
+358
+01:07:00,384 --> 01:07:17,232
+Scio quidem, nec quemvis aestimo dubitare quae post peccatum de eo dicta sunt, ejus posteritati veraciter convenire, ut ipsa per peccatum illius de immortalitate paradisi ejecta, et in hanc regionem mortis projecta, spinas et tribulos sollicitudinum et peccatorum patiatur, ipsa in sudore vultus,
+
+359
+01:07:17,232 --> 01:07:31,803
+pane, sive temporali, sive spiritali vescatur, ipsa in terra de qua sumpta est moriendo revertatur; ipsa denique per dilectionem et tribulationem tanquam per cherubim et gladium in paradisum reversa, ligno vitae, id est Christo pane vivo sine fine fruatur.
+
+360
+01:07:31,803 --> 01:07:48,538
+Quod autem posteritati, ut dixi non incongrue assignatur, quis obmurmurare audeat, si etiam eidem convenire dicatur, ut ipse et peccando mortem incurrerit, et post peccatum poenitendo ad vitam redierit? Consentiat, imo congaudeat huic sententiae affectus pietatis, cum ab hac non discordet, imo
+
+361
+01:07:48,538 --> 01:07:50,132
+concordet, regula veritatis.
+
+362
+01:07:50,132 --> 01:08:07,208
+Unde et David, accepta promissione divinae largitatis super longaevitate suae posteritatis, cum ingressus coram Domino sese humiliaret, ipsumque Deum pro collatis sibi beneficiis humiliter collaudaret: Quis ego sum, inquit, Domine Deus, et quae domus mea, quia adduxisti me hucusque? Sed et hoc parum
+
+363
+01:08:07,208 --> 01:08:13,014
+visum est in conspectu tuo, Domine Deus, nisi loquereris de domo servi tui in longinquum (II Reg VII).
+
+364
+01:08:13,014 --> 01:08:29,919
+Et adjunxit: Ista est enim lex Adam Domine Deus (ibid ); ac si diceret: Erga homines misericorditer agere, non modernis temporibus inchoasti, sed te misericordem primo etiam homini demonstrasti, qui ea lege vixit, ut cum mereretur supplicium, inveniret beneficium, nec eum pro meritis a tua gratia
+
+365
+01:08:29,919 --> 01:08:38,457
+repulsares, sed ad tibi serviendum beneficiis revocares; sicut et mihi hodie, Domine Deus, beneficia confers indebita, cujus non praecesserunt merita.
+
+366
+01:08:38,457 --> 01:08:45,288
+Ista est lex Adam
+Domine Deus. Ista, scilicet, ut tu homini miserearis
+immerito, et homo tibi serviat ex debito.
+
+367
+01:08:45,288 --> 01:08:55,072
+In
+Osee cum ostenderet Dominus quanto amore filios
+Israel dilexerit, et errantes ad se reduxerit, sic ait:
+In funiculis Adam traham eos, in vinculo charitatis
+(Osee XI).
+
+368
+01:08:55,072 --> 01:09:11,862
+Quod est dicere: Eo funiculo et vinculo charitatis, quo Adam peccantem non neglexi, sed correxi, non permisi ut male profugus errando disperiret, sed ligavi et attraxi ut rediret; eo, inquam, vinculo charitatis et filios Israel peccantes alligavi, alligatos revocavi, ut per aspera et ardua
+
+369
+01:09:11,862 --> 01:09:18,347
+poenitentiae, ad viam remearent salutis, ne per declivia perversae libertatis dispendium incurrerent servitutis.
+
+370
+01:09:18,347 --> 01:09:34,442
+Si autem aliquis aestimaverit et dixerit
+testimonia haec quae de Adam protuli, posse de primo
+homine non intelligi, sed tantum de homine, ut ibi
+Adam pro eo quod est homo positum accipiatur;
+non est arguendus falsae opinionis, cum hoc
+359 forte collegerit ex scientia lectionis.
+
+371
+01:09:34,442 --> 01:09:43,359
+Legit
+enim forte quia quod David dicit in libro Regum:
+Ista est lex Adam, Domine Deus, Hebraeorum
+traditio ita exponit: Ista est lex hominis, Domine
+Deus.
+
+372
+01:09:43,359 --> 01:10:00,960
+Item quod nos habemus in Osee: In funiculis
+Adam traham eos: Septuaginta et alii interpretes
+transtulerunt, Hieronymo teste: In funiculis
+hominum traham eos. Potest ergo generaliter
+hic accipi homo vel homines, nec tamen contradicit
+quin specialiter primus ille homo vel primi intelligantur
+homines.
+
+373
+01:10:00,960 --> 01:10:03,000
+CAPUT XXV.
+
+374
+01:10:03,000 --> 01:10:15,524
+Inveni aliud testimonium in quo primus ille homo
+satis evidenter ostenditur, etsi nomen ejus proprium
+ibidem non dicitur. Liber ille, qui inscribitur Sapientia,
+si ad medium deducatur, patet quia ejus, qui
+primus formatus est, hominis salutem attestatur.
+
+375
+01:10:15,524 --> 01:10:30,119
+Qui
+cum sapientiam commendaret, et per eam sanatos
+esse, quicunque Deo a principio placuerunt, affirmaret,
+adjunxit: Haec illum, qui primus formatus est a
+Deo pater orbis terrarum cum solus esset creatus,
+custodivit, et eduxit illum a delicto suo, et dedit illi
+virtutem continendi omnia (Sap X).
+
+376
+01:10:30,119 --> 01:10:37,613
+Quae verba
+nulli melius quam ipsi Adae convenire beatus Augustinus
+videtur asserere, ubi ad Evodium scribens
+epistolae suae eadem verba voluit inserere.
+
+377
+01:10:37,613 --> 01:10:50,926
+De illo,
+inquit, primo homine patre generis humani, quod
+eum Christus de inferno solverit tota fere Ecclesia
+consentit, quod eam non inaniter credidisse credendum
+est, undecunque hoc traditum sit, etiamsi canonicarum
+Scripturarum hinc expressa non proferatur
+auctoritas.
+
+378
+01:10:50,926 --> 01:11:05,472
+Quanquam illud quod in libro Sapientiae
+scriptum est: Haec illum qui primus formatus
+est a Deo, pater orbis terrarum cum solus
+esset creatus custodivit, et eduxit illum a delicto suo,
+et dedit illi virtutem continendi omnia, magis
+pro hac sententia quam pro ullo alio intellectu facere
+videatur.
+
+379
+01:11:05,472 --> 01:11:20,116
+Nec moveat quemquam si in tertio
+decimo libro de civitate Dei, vel forte alibi legerit
+quod idem Augustinus dicit factum esse Adam inobedientem
+usque ad mortem, tanquam per hoc intelligi
+voluerit quod ille nunquam resipuerit, sed
+permanserit et pertinax fuerit in sua inobedientia
+usque ad mortem.
+
+380
+01:11:20,116 --> 01:11:34,416
+Quod si ita esset aeternam procul
+dubio nunquam evaderet mortem. Qui enim non resipiscit
+ante mortem nihil aliud quam aeternum
+supplicium invenit post mortem. Hoc autem de
+illo sentire, quod est aliud, quam ab eo dissentire,
+cui totam, ut ait, noverat Augustinus Ecclesiam
+consentire?
+
+381
+01:11:34,416 --> 01:11:51,702
+Quod ergo ibi dicit, quia eo detestabilior
+fuit inobedientia Adae, quo factus est inobediens
+usque ad mortem, ut mihi videtur, non
+temporis vel tantae illius aetatis prolixitatem, sed
+ipsius inobedientiae signavit quantitatem, quod videlicet
+tanta illa inobedientia fuerit, ut mortem
+meruerit.
+
+382
+01:11:51,702 --> 01:11:57,602
+Nam cum omnis inobedientia mala sit,
+certum est tamen quod alia multo pejor, alia multo
+pessima sit.
+
+383
+01:11:57,602 --> 01:12:10,936
+Ubi enim res facilis imperatur, et transgredienti
+mortem imperans, comminatur; si tamen
+servus mandatum contemnat, mortale procul dubio
+peccatum incurrit, et tanto graviores poenas debet
+subire, quanto facilius potuit obedire.
+
+384
+01:12:10,936 --> 01:12:26,452
+Merito ergo
+Adam, quia leve mandatum et grave supplicium
+contempsit, dicitur factus inobediens usque ad mortem,
+non permanendo impoenitens usquequo moreretur,
+sed in tantum peccando, ut mori mereretur. Peccare enim usque ad mortem, hoc est peccando
+mereri mortem.
+
+385
+01:12:26,452 --> 01:12:40,199
+Si quis ergo nunc etiam vel homicidium,
+vel adulterium, vel quodlibet aliud grave
+peccatum commiserit, recte usque ad mortem peccare
+dicitur, nec tamen per hoc a peccante excluditur
+poenitudo, sed ipsius peccati exprimitur magnitudo.
+
+386
+01:12:40,199 --> 01:12:57,014
+Simili modo per contrarium et Christus
+legitur factus obediens usque ad mortem (Philip II), hoc est tantam obedientiam Patri exhibuisse,
+ut eum judicarent Judaei mortem meruisse. Unde
+cum fixus maneret et constans in faciendo mandatum
+Patris, clamaverunt: Reus est mortis (Matth XXVI).
+
+387
+01:12:57,014 --> 01:13:14,832
+Et cum Pilatus parcere vellet ei, responderunt:
+Nos legem habemus, et secundum legem
+debet mori (Joan XIX). Qua autem morte dignus
+esset, non tacuerunt clamantes: Crucifige, crucifige
+(Luc XXIII). Hoc est quod Apostolus dicit: Factus
+est obediens usque ad mortem, mortem autem crucis
+(Philip II).
+
+388
+01:13:14,832 --> 01:13:30,773
+Licet enim Christus in sua permanserit obedientia usque ad exitum hujus vitae, et ideo dici possit: Factus obediens usque ad mortem, melius tamen videtur, si, ut praedictum est, intelligatur, ut scilicet per hoc Apostolus signare voluerit obedientiam illius, non quidem longam quae multorum etiam est
+
+389
+01:13:30,773 --> 01:13:34,918
+infirmorum, sed adeo perfectam et fortem, ut contempserit vel meruerit mortem.
+
+390
+01:13:34,918 --> 01:13:44,908
+In
+hac quippe mortali vita, ubi multa sunt impedimenta,
+fortitudo praecipue commendatur, quam si
+obedientia usque ad contemptum vel meritum mortis
+tenuerit, merito praedicabilis judicatur.
+
+391
+01:13:44,908 --> 01:13:55,855
+Post hanc
+vero vitam et obedientiam excipiet dierum indeficiens
+longitudo, et hujusce non erit necessaria fortitudo,
+quia et sine fine, bono servo Dominus imperabit,
+et sine lucta bonus servus obtemperabit.
+
+392
+01:13:55,855 --> 01:14:05,952
+Haec
+longa et tranquilla et gloriosa ibi commendatur
+obedientia, ubi dictum est: Cum tradiderit regnum
+Deo et Patri, tunc et ipse subjectus erit illi, qui illi
+subjecit omnia (I Cor XV).
+
+393
+01:14:05,952 --> 01:14:07,967
+CAPUT XXVI.
+
+394
+01:14:07,967 --> 01:14:26,050
+Fortitudinem vero, quam dixi huic vitae necessariam,
+alibi quidam Sapiens commendare videtur,
+qui fiducialiter pollicetur: Laudabit, inquiens,
+usque ad mortem anima mea Dominum (Eccli LI). Quid est laudabit usque ad mortem? Nunquid
+non laudabit et post mortem? Imo multo magis et
+post mortem.
+
+395
+01:14:26,050 --> 01:14:44,565
+Unde prophetae commonenti et dicenti: Lauda, anima mea, Dominum (Psal CXLV) eleganter illa respondit: Laudabo Dominum in vita mea (ibid ), hoc est dicere: Quandiu sum in hac mortali vita, quae mors potius dicenda est quam vita, (ubi quidquid Deo laudis impenditur, in comparatione futurae laudis pro
+
+396
+01:14:44,565 --> 01:14:56,579
+nihili ducitur) eum, qui sicut scriptum est: Deus est vivorum et non mortuorum (Matth XXII), non possum laudare, sed laudabo in regione vivorum, ubi vivam et vere vivam, quia sine miseria vivam.
+
+397
+01:14:56,579 --> 01:15:15,156
+Quod
+ergo dicit Sapiens ille: Laudabit usque ad mortem
+anima mea Dominum, non longam, sed fortem
+laudem voluit designare, pro qua, et si non toleret,
+paratus est tamen ipsa mortis pericula tolerare. E
+regione Adam dicitur factus inobediens usque ad
+mortem, licet Deo miserante resipuerit ante mortem.
+
+398
+01:15:15,156 --> 01:15:25,683
+Dicit etiam beatus Augustinus quibusdam in
+locis ipsum Adam excepisse sententiam damnationis,
+non quod intelligat illum aeternaliter damnatum,
+sed temporaliter cruciatum.
+
+399
+01:15:25,683 --> 01:15:37,759
+Damnatio quippe non
+semper illa aeterna, de qua dictum est: Ite, maledicti,
+in ignem aeternum (Matth XXV), sed plerumque
+vel ipsa mors corporalis, vel quaelibet intelligitur
+afflictio temporalis.
+
+400
+01:15:37,759 --> 01:15:50,701
+Unde in libro Machabaeorum
+secundo: Menelaum, inquit, universae
+malitiae reum criminibus absolvit, miseros autem,
+qui etiamsi apud Scythas causam dixissent innocentes
+judicarentur, morte damnavit (II Mach IV).
+
+401
+01:15:50,701 --> 01:15:58,751
+Et Origenes in quinta homilia super Lucam: Zachariam
+patrem Joannis quia non credidit angelo,
+dicit esse damnatum silentio.
+
+402
+01:15:58,751 --> 01:16:12,047
+Damnatio ergo qua
+Adam damnatus est, illa videtur esse de qua superius
+dictum est: Maledicta terra in opere tuo,
+spinas et tribulos germinabit tibi: In sudore vultus
+tui vesceris pane (Gen III).
+
+403
+01:16:12,047 --> 01:16:14,087
+CAPUT XXVII.
+
+404
+01:16:14,087 --> 01:16:26,534
+Denique et ille homo, qui juxta Evangelicam parabolam
+descendit de Jerusalem in Jericho, et incidit
+in latrones (Luc X), Adam fuisse intelligitur, et quod
+de illo dictum est, huic specialiter convenire asseritur.
+
+405
+01:16:26,534 --> 01:16:43,853
+Quam parabolam cum super ipso Adam quidam sapiens interpretaretur; Jerusalem dixit esse paradisum, Jericho mundum, latrones contrarias potestates, vulnera inobedientiam, sacerdotem legem, leviten prophetas, Samaritanum Christum, jumentum corpus Christi, stabulum Ecclesiam, stabularium Ecclesiae
+
+406
+01:16:43,853 --> 01:16:49,078
+praesidem, duos denarios Patrem et Filium; reditum Samaritani, secundum Christi adventum.
+
+407
+01:16:49,078 --> 01:16:58,354
+Quae omnia Origenes in trigesima tertia
+homelia super Lucam dicit pulchre et rationabiliter
+dicta esse, et ea non omni homini, sed huic specialiter
+convenire.
+
+408
+01:16:58,354 --> 01:17:08,100
+Et notandum quod illum non mortuum,
+sed seminecem latrones reliquerunt, qui, etsi
+delictorum vulnera crudeliter inflixerunt, non tamen
+spem sanandi eidem abstulerunt.
+
+409
+01:17:08,100 --> 01:17:21,721
+Item Origenes
+in decima sexta homelia in Genesim, quod dicit:
+Revocabo te inde in finem, hoc esse arbitror,
+quod in finem saeculorum unigenitus Filius suus pro
+salute mundi usque ad inferna descendit, et inde
+protoplastum revocavit.
+
+410
+01:17:21,721 --> 01:17:36,574
+In hoc ergo verius quam
+in Jacob adimplebitur quod dictum est: Quia revocabo
+te inde in finem. Augustinus in libro De
+baptismo parvulorum: Sicut illi primi homines postea
+juste vivendo merito creduntur per Domini
+sanguinem liberati ab aeterno supplicio.
+
+411
+01:17:36,574 --> 01:17:47,200
+Gregorius
+papa, cum in Registro de Adam loqueretur, ait:
+Non est ejus anima ita mortua ut non esset, sed
+ita mortua, ut beata non esset, qui tamen Adam
+post per poenitentiam rediit.
+
+412
+01:17:47,200 --> 01:17:59,764
+Quis de Adae poenitentia
+audeat dubitare, cum eam tam aperte Augustinus
+et Gregorius audeant affirmare? Joannes
+quoque episcopus, in sermone qui de lapsu primi
+hominis titulatur, salutem ejusdem hominis attestatur.
+
+413
+01:17:59,764 --> 01:18:08,159
+Ait enim: Dominus Deus et saevitiam exsecratus
+est hostis, et casum miseratus est hominis, deceptum
+hominem paterna pietate condoluit.
+
+414
+01:18:08,159 --> 01:18:21,798
+Denique
+Dominus Deus: Ubi es, inquit, Adam? Ad confessionem
+provocat, peccatum vult fateri, quaerit
+misereri, veniam cogitat, objurgat culpam, ut possit
+retribuere veniam, ut quos formare non voluit instruendo,
+purgare possit confitendo.
+
+415
+01:18:21,798 --> 01:18:36,588
+Et subjungit:
+Accipiunt vestimenta pellicea, ut qui confessi
+delictum jam fuerant, veniam cultus humilitate perciperent. Ostendit Dominus quidem beneficiis possint
+delicta purgari, ostendit confessione et deformitate
+cultus veniam posse facillime impetrari.
+
+416
+01:18:36,588 --> 01:18:48,846
+Haec
+sunt verba Joannis Chrysostomi de Adam. Quod ergo
+doctores ecclesiastici, imo tota, ut ait Augustinus,
+Ecclesia de illo sentit, debemus et nos sentire, unde
+nulla Scripturarum invenitur auctoritas dissentire.
+
+417
+01:18:48,846 --> 01:19:00,068
+Denique Enchratitae, qui et Tatiani dicti sunt haereticae
+pravitatis, teste Augustino, arguuntur, pro
+eo quod inter caetera quae perverse et sentiunt et
+dicunt, saluti primi hominis contradicunt.
+
+418
+01:19:00,068 --> 01:19:15,549
+Quia
+vero, ut verum fateor, 361 diutius quam proposueram,
+sum locutus, dum quae dicenda sunt de
+Adam, etsi non ut debui, sum tamen ut potui prosecutus,
+jam tempus est ut calcem ponam huic meae
+responsioni, cum ea quae dicta sunt, fratrum possint
+sufficere inquisitioni.
+
+419
+01:19:15,549 --> 01:19:23,087
+Sic ergo finem accipiat ista
+responsio: Transibo ad aliam, reparatus paulisper
+silentio. <span class="text-blue-600 font-bold"
+

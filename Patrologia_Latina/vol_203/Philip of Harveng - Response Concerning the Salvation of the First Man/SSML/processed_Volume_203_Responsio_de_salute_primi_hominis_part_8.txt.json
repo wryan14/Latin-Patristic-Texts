@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT VII.",
+      "cleaned_english_translation": "<speak>\n    Chapter Seven<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    In the book of Exodus, when God was speaking to Moses about making the tabernacle of the covenant and the ark of testimony, there was no craftsman available for such a significant task. So, He said, <break time=\"500ms\"/> \"Look, I have called by name Bezalel, son of Uri, from the tribe of Judah, and I have filled him with the spirit of God, with wisdom, understanding, and knowledge in all work, and I have given him a partner, Oholiab.\" <break time=\"500ms\"/> And He concludes, <break time=\"500ms\"/> \"They will do everything I have commanded you.\" <break time=\"500ms\"/> The full meaning of all these tasks that Bezalel is said to accomplish is beyond what I can explain here. However, know this: the prophet particularly praises those who remember and follow God's commandments <break time=\"500ms\"/> (Psalm One Hundred Three). From this, we can understand that Bezalel is not called by the Lord without purpose. Grace is given to him to fulfill what is commanded, especially since he is said to be called by name and filled with the spirit of God, a distinction rarely mentioned except for the righteous. <break time=\"500ms\"/> For the Lord not only knows the path of the righteous but also their names. Hence, it is said to Moses, <break time=\"500ms\"/> \"I know you by name\" <break time=\"500ms\"/> (Exodus Thirty-Three). And the prophet speaks about God, <break time=\"500ms\"/> \"He numbers the multitude of stars, and calls them all by name\" <break time=\"500ms\"/> (Psalm One Hundred Forty-Seven). In the gospel parable, while the name of the unjust rich man is left unmentioned as if unknown, the beggar is called by name Lazarus <break time=\"500ms\"/> (Luke Sixteen).\n  </p>\n</speak>",
+      "original_latin": " In eodem Exodi libro, cum de faciendo tabernaculo\nfoederis et arca testimonii Deus ad Moysen\nloqueretur, et tanti operis artifex nusquam inveniretur,\nEcce, inquit, vocavi ex nomine Beseleel,\nfilium Uri, de tribu Juda, et implevi eum spiritu\nDei, sapientia, intelligentia, et scientia in omni\nopere, dedique ei socium Ooliab, etc. (Exod XXXI) Et concludit: Omnia quae praecepi tibi, facient\n(ibid). Quid sibi velint haec omnia quae Beseleel\n dicitur facere, nec mearum est virium, nec hujus\nloci exponere. Verumtamen hoc dilectio vestra noverit,\nquia illos praecipue commendat propheta, qui\nmemores sunt mandatorum Dei ad faciendum ea\n(Psal CII). Unde colligi potest quia non infructuose\na Domino Beseleel vocatur, cui datur et gratia ut\nfaciat quod mandatur, praesertim cum impletus spiritu\nDei dicatur ex nomine vocari, quod nisi de\njustis dictum raro potest inveniri. Non solum enim\nDominus viam justorum, sed et nomina novit eorum. Unde et ad Moysen dicitur: Novi te ex nomine\n(Exod XXXIII). Et propheta de Deo: Qui numerat,\ninquit, multitudinem stellarum, et omnibus eis\nnomina vocans (Psal CXLVI). Et in evangelica\n parabola cum injusti divitis nomen tanquam incognitum\ntaceatur, mendicus tamen ex nomine Lazarus\nappellatur (Luc XVI).",
+      "voice": "Matthew"
+    }
+  ]
+}

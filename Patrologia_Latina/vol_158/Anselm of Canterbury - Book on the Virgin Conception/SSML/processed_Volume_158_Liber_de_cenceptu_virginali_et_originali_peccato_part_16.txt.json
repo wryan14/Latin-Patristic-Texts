@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Fifteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>How a sinful mass is not entirely sinful.</s>\n        <s>Just as blindness isn't present in every part of a person, even though we call them blind, it's only in the eye where sight should be.</s>\n        <s>It's not in the hand or the foot.</s>\n        <s>Similarly, deafness is only in the ear when we say someone is deaf.</s>\n        <s>In the same way, while humanity is often called a sinful mass, sin isn't in every part of it.</s>\n        <s>As mentioned, it's only in the will, which isn't known to have any seed at conception.</s>\n    </p>\n    <p>\n        <s>Therefore, with no true or plausible reason to argue otherwise, if we consider what was said earlier, we can conclude that there's no reason, truth, or understanding that suggests anything should be attributed to the man conceived from the Virgin alone from the sin of the sinful mass, even though he was taken from it, even if he weren't God.</s>\n    </p>\n</speak>",
+      "original_latin": " Quomodo massa peccatrix non sit tota peccatrix. Nam quemadmodum caecitas non est in aliqua\n parte hominis, quamvis homo dicatur caecus,\n nisi in oculo ubi debet esse visus; non enim est in\n manu, vel in pede: nec surditas est nisi  in aure,\ncum homo dicitur surdus; ita licet massa generis\nhumani peccatrix nominetur, non tamen in ulla parte\nejus est peccatum , nisi, ut dixi, in voluntate\n, quam in nulla  hominis conceptione semen\nhabere cognoscitur. Quamobrem nulla ratione vera\naut verisimili contradicente, si considerentur quae\nsupra dicta sunt, jam libere possumus concludere\nquia nulla ratio, nulla veritas, nullus intellectus\npermittit ad hominem ex sola Virgine  conceptum\nde peccato massae peccatricis, quamvis de\nilla sit assumptus, aliquid potuisse aut debuisse\naccedere, etiamsi non esset Deus.",
+      "voice": "Matthew"
+    }
+  ]
+}

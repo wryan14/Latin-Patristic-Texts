@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. X. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Ten<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About Berenger, the fourth abbot.</s>\n        <s>During this time, scholarly pursuits were thriving among the monks and clerics of our city, flourishing just as much as religious devotion, perfectly complementing the state of the churches.</s>\n        <s>\"How beautiful are your tents, Jacob, and your tabernacles, Israel, like wooded valleys, like gardens by the rivers, like tabernacles set up by the Lord, like cedars by the waters\" (Numbers 24).</s>\n        <s>Liege was rich in virtues, disciplines, and wealth.</s>\n        <s>However, being well-educated was considered more admirable than being wealthy.</s>\n        <s>And since blessed is the land whose king is noble, our Church at that time aspired to the studies of true happiness, with Berenger, the fourth abbot, who was more noble in spirit than in flesh, presiding.</s>\n        <s>Although he was of humble birth, as a wise person once said, the eye of God looked upon him favorably; He lifted him from his humility and exalted his head, and many were amazed by him.</s>\n        <break time=\"500ms\"/>\n        <s>Indeed, he was renowned for his wisdom, like a lamp on a candlestick, notable in both the kingdom and the Church.</s>\n        <s>Nevertheless, the brothers who lived under him could be compared to lilies by the water, as many of them possessed both the purity of religion and the fragrance of a good reputation, enriched with literary knowledge.</s>\n    </p>\n</speak>",
+      "original_latin": "De Berengero quarto abbate. Summopere apud monachos seu clericos Urbis\nnostrae studia tunc vigebant scholaria, diuque viguerant,\nnec minus religio, ut statui ecclesiarum\nsplendide illud congrueret. Quam pulchra tabernacula\n tua, Jacob, et tentoria tua, Israel, ut valles nemorosae,\nut horti juxta fluvios irrigui, ut tabernacula\nquae fixit Dominus, quasi cedri propter aquas (Num XXIV). Virtutibus ac disciplinis Leodium florebat nec\nnon divitiis. Erat spectabilior tamen bene litteratus,\nquam bene nummatus. Et cum beata sit terra, cujus\nrex nobilis est, studia verae beatitudinis nostra\ntunc temporis aemulabatur Ecclesia, dum praeesset\nBerengerus abbas quartus spiritu quam carne nobilior,\ncognatione quidem humilis, verum ut sapientis\ncujusdam utar verbis, oculus Dei respexit illum\nin bono; et erexit illum ab humilitate ipsius, et\nexaltavit caput ejus, et mirati sunt in illo multi. Etenim sagacitate admodum famosus ad instar lucernae\nsuper candelabrum positae regno conspicuus\n erat et Ecclesiae. Nihilominus et qui sub illo degerent\nfratres, liliis, quae sunt in transitu aquae, serio\ncompararim, quia pluribus nec candor religionis,\nnec odor bonae deerat opinionis, cum litteraria quoque\nirrigarentur scientia.",
+      "voice": "Matthew"
+    }
+  ]
+}

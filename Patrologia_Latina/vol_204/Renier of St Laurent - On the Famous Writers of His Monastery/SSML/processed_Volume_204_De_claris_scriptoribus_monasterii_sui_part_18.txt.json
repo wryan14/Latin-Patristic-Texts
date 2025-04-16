@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XVI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Sixteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>About John the monk, brother of Gislebert.</s>\n    </p>\n    <p>\n        <s>John, both spiritually and physically a brother to Gislebert, was a scholar in both learning and duty.</s>\n        <s>As a boy, I often felt his discipline, much like no one ever wielded the club of Hercules more.</s>\n    </p>\n    <p>\n        <s>Oh, how many times, while he examined or critiqued our small works, did he look at the tablets in his hooked hands with a sidelong glance!</s>\n        <s>Oh, how many times I felt as though I had run into him as if he were the one-eyed Polyphemus from Virgil!</s>\n    </p>\n    <p>\n        <s>When he was once ill, in a rather miraculous way, he seemed to transcend himself and saw many memorable things.</s>\n        <s>He documented these experiences in writing for the purpose of edification.</s>\n    </p>\n    <p>\n        <s>He also composed two songs, one about Saint Christopher the martyr, and another about Saint Mary of Egypt.</s>\n        <s>He went through the story of Tobit and the Martyrdom of Saint Stephen, the first martyr, in heroic meter, and sang parts of the Song of Songs in an antiphonal style.</s>\n    </p>\n</speak>",
+      "original_latin": "De Joanne monacho, Gisleberti fratre. Quin etiam Joannes tam spiritu quam carne illius\nfrater, scholasticus et eruditione et officio fuit,\ncujus extremui plerumque ferulam puer, ut clavam\nHerculis nemo nunquam plus extremuerit. Heu\nquoties, dum nostra exigit aut discutit opuscula, et\naduncis correptas manibus obliquo tabellas oculo\nintuetur! Heu quoties illum Virgilii monoculum\nme putavi Polyphemum incurrisse! Idem aliquando\n infirmatus, miroque satis ordine extra se et supra\nse factus plurima vidit memoratu digna, quae et\ngratia aedificationis scripto edidit. Binos etiam cantus\ncomposuit, id est de sancto Christophoro martyre,\net de sancta Maria Aegyptia, Historiam Tobiae,\nitemque Martyrium S. Stephani protomartyris heroico\npede percurrit, et Cantica canticorum aliquanta\nex parte antiphonatim modulatus est.",
+      "voice": "Matthew"
+    }
+  ]
+}

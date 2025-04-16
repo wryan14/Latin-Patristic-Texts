@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twelve<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    Adam's wrongdoings do not affect this man in any way. Understanding why the Son of the Virgin is not burdened by sin or Adam's debt is also straightforward.\n  </p>\n  <p>\n    Adam was originally created righteous, free from the often-discussed sin and debt, and free from its penalties. He was given the ability to always maintain the righteousness he received, along with the freedom and happiness that came with it.\n  </p>\n  <p>\n    Since Adam could have kept these blessings without any trouble, but chose not to, he lost them and ended up with their opposites. Consequently, he became a slave to sin, or injustice, and incurred a debt he couldn't repay, along with the misery of being unable to regain what he lost.\n  </p>\n  <p>\n    Just as he couldn't take away the good things he had or attract the evils he didn't have, except by failing to preserve those goods when he could, he also couldn't take away those same goods from anyone else or impose those evils, except by failing to preserve the goods for those he had the power to help.\n  </p>\n  <p>\n    However, he could only preserve those goods for those whose generation he had the power to influence by his will. Therefore, he couldn't pass on the aforementioned evils to anyone, no matter how they were descended from him, if he had neither the means to influence their generation nor the ability to do so.\n  </p>\n  <p>\n    Thus, there is no reason or right for Adam's aforementioned evils to affect the man conceived by the Virgin.\n  </p>\n</speak>",
+      "original_latin": "Quod mala Adae nulla rectitudine ad illum hominem\ntranseant. Quomodo autem filius Virginis non subjaceat \npeccato, aut debito Adae, sic quoque difficile non est\nintelligere. Si quidem Adam factus est justus  et\n liber a peccato et debito saepefato, et a poena peccati,\n et beatus pote s servare semper acceptam justitiam;\net per justitiam eam, quam dixi, libertatem\net beatitudinem. Quoniam ergo Adam, cum  haec\nbona sine omni difficultate posset semper servare\n sibi, non servavit; ea sibi ipse abstulit, et horum\nse contrariis subjecit. Factus est itaque servus peccati,\nsive injustitiae, et debiti, quod reddere nequit\n, et miseriae, de qua est  impotentia bona\nperdita recuperandi . Sicut igitur aliter nequivit\nsibi auferre bona quae habebat, et attrahere mala\nquae non habebat, quam non servando sibi bona,\ncum potuit : ita nulli alii valuit eadem bona\nauferre, atque mala inferre, nisi non servando bona\ncui servare  quivit. Servare autem nulli potuit\nea bona, nisi illis quorum generationis potestatem\n voluntati subditam accepit. Nulli ergo personae\nquamvis de se propagatae  transmittere mala\npraedicta potuit in cujus generatione nec natura illi\ndata est  propagandi, nec voluntas ejus quidquam\noperata est, aut operari valuit. Quare Adae mala\npraedicta nulla ratione aut rectitudine ad hominem\nconceptum de Virgine pertranseunt.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT II. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Two<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n The concept that God is the Father, the Son, and the Holy Spirit is explained like this.\n    </s>\n    <s>\n      The Lord Himself states in the law: <break time=\"500ms\"/> \"Listen, Israel, the Lord your God is one God.\"\n    </s>\n    <s>\n      And the Apostle affirms: <break time=\"500ms\"/> \"There is no God but one.\"\n    </s>\n  </p>\n  <p>\n    <s>\n      Similarly, he also declares: <break time=\"500ms\"/> \"One God, one faith, one baptism.\" <break time=\"500ms\"/> Ephesians Chapter 4.\n    </s>\n    <s>\n      Likewise, the Apostle James states: <break time=\"500ms\"/> \"You believe that there is one God, you do well; even the demons believe and tremble.\" <break time=\"500ms\"/> James Chapter 2.\n    </s>\n  </p>\n  <p>\n    <s>\n      The demons tremble at this faith, which they did not want to accept as true.\n    </s>\n    <s>\n      The Lord Himself declares: <break time=\"500ms\"/> \"I am God, and there is no other besides me.\"\n    </s>\n    <s>\n      Also, in Psalm 18: <break time=\"500ms\"/> \"Who is God besides the Lord, or who is God except our God?\"\n    </s>\n  </p>\n  <p>\n    <s>\n      And they themselves acknowledge that the Son is also God.\n    </s>\n    <s>\n      Let them explain how He is one, unless it is because the Father, the Son, and the Holy Spirit are one.\n    </s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Quod unus Deus Pater, et Filius, et Spiritus sanctus,\nsic docetur. Ipse Dominus in lege dicit: Audi,\nIsrael, Dominus Deus tuus Deus unus est. Et Apostolus\ndicit: Nullus est Deus, nisi unus. Item ipse dicit:\nunus Deus, una fides, unum baptisma (Eph IV). Item\napostolus Jacobus dicit: Tu credis quia unus est Deus,\nbene facis; et daemones credunt et contremiscunt (Jac II). Hanc fidem contremiscunt daemones quam veram\nesse noluerunt. Ipse Dominus dicit: Ego sum Deus\net non est alius praeter me. Item in psalm. XXVII: Quis\nDeus praeter Dominum, aut quis Deus praeter Deum\n nostrum? Et ipsi confitentur quia et Filius Deus est. Ostendant mihi quomodo unus est, nisi quia Pater,\net Filius, et Spiritus sanctus unus est.",
+      "voice": "Matthew"
+    }
+  ]
+}

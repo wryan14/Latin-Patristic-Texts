@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Seventeen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Against the statement: everything exists from the Father through the Son in the Holy Spirit.</s>\n    <s>Listen carefully, because you'll find it said that everything was made not only from the Father, but also from the Son and the Holy Spirit.</s>\n    <s>In the Letter to the Ephesians, the Apostle speaks about the Son: <break time=\"500ms\"/> \"But speaking the truth in love, let us grow in every way into him who is the head, Christ, from whom the whole body is joined and held together.\"</s>\n    <s>Consider this about the Son: <break time=\"500ms\"/> now listen about the Holy Spirit: <break time=\"500ms\"/> \"Unless one is born of water and the Holy Spirit, he cannot see the kingdom of God.\"</s>\n    <s>And once more, it's written in the Gospel: <break time=\"500ms\"/> \"So it is with everyone who is born of the Spirit.\"</s>\n  </p>\n</speak>",
+      "original_latin": "Contra id quod dicunt: ex Patre per Filium in\nSpiritu sancto esse omnia. Audi quia non solum ex\nPatre, sed et ex Filio, et Spiritu sancto facta omnia\ninvenies dictum. Apostolus ad Ephesios sic dicit de\nFilio: Veritatem autem facientes in caritate augeamur\nin illo per omnia, qui est caput Christus, ex quo totum\ncorpus connexum et compactum. Ecce ex Filio: audi\n et ex Spiritu sancto: Si quis non renatus fuerit ex\naqua et Spiritu sancto, non potest videre regnum Dei. Et iterum in Evangelio legitur: Sic est omnis qui\nnatus est ex Spiritu.",
+      "voice": "Matthew"
+    }
+  ]
+}

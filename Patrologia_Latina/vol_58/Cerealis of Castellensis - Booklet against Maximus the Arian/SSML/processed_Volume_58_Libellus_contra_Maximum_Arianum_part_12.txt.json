@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>The idea that the Spirit is the giver of life is explained as follows.</s>\n        <s>The Apostle says: The letter kills, but the Spirit gives life.</s>\n        <s>First Corinthians chapter three.</s>\n        <s>Also, in the Gospel: It is the Spirit who gives life; the flesh is of no benefit.</s>\n        <s>John chapter six.</s>\n        <s>In Ezekiel, it is commanded and said to the dry bones of the children of Israel, through the prophet: I will put my Spirit in you, and you will live.</s>\n        <s>The Apostle also mentions: If the Spirit of Him who raised Jesus Christ from the dead lives in you, then He will give life to your mortal bodies through His Spirit living in you.</s>\n        <s>Romans chapter eight, verse eleven.</s>\n        <s>Therefore, mortal bodies are given life by the Holy Spirit.</s>\n    </p>\n</speak>",
+      "original_latin": "Quia vivificator est Spiritus, sic docetur. Apostolus\ndicit: Littera occidit, Spiritus autem vivificat (I Cor III). Item in Evangelio: Spiritus est qui vivificat,\ncaro autem non prodest quidquam (Joan VI). In Ezechiele\nad ossa arida filiorum Israel mandatur et dicitur,\nper prophetam: Dabo Spiritum meum in vobis,\net vivetis. Item Apostolus dicit: Si autem Spiritus\nejus qui suscitavit Jesum Christum a mortuis\nhabitat in vobis, vivificabit et mortalia corpora vestra\nper habitantem Spiritum ejus in vobis (Rom VIII 11). Ergo mortalia corpora vivificantur a Spiritu\nsancto.",
+      "voice": "Matthew"
+    }
+  ]
+}
