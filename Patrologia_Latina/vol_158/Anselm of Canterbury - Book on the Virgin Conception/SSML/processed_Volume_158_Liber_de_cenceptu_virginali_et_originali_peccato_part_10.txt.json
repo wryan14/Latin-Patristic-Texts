@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT IX. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Nine<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Why is the sin that condemned the human race attributed more to Adam than to Eve, since he sinned after and through her?</s>\n  </p>\n  <p>\n    <s>First, let's consider why the sin that condemned humanity is more often attributed to Adam rather than Eve, even though she sinned first and Adam's sin followed hers.</s>\n    <s>The Apostle states: <break time=\"500ms\"/> \"But death reigned from Adam to Moses, even over those who did not sin in the likeness of Adam's transgression\" <break time=\"500ms\"/> (Romans 5:14).</s>\n    <s>Many other passages also seem to place more blame on Adam than Eve.</s>\n    <s>I believe this happens because the union of the two is entirely encompassed in the name of the principal part; much like how a whole is often represented by a part.</s>\n    <s>Or perhaps because Adam, with his rib, although it was made into a woman, could still be referred to as Adam, as it is written: <break time=\"500ms\"/> \"God made them male and female, and blessed them\" <break time=\"500ms\"/> (Genesis 1:27).</s>\n    <s>And he called their name Adam on the day they were created.</s>\n    <s>Or maybe because if Adam hadn't sinned, but only Eve, it wouldn't have been necessary for the entire human race to perish, just Eve.</s>\n    <s>God could have made another woman from Adam, in whom he had created the seed of all humans, allowing God's purpose with Adam to be fulfilled.</s>\n  </p>\n  <p>\n    <s>For these reasons, I will refer to both of them by the name of Adam, unless it is necessary to distinguish them.</s>\n  </p>\n</speak>",
+      "original_latin": "Cur peccatum quo damnatur humanum genus, magis\nimputetur   Adae quam Evae; cum ille post et\nper illam peccaverit. Ad quod mihi videtur quaerendum in primis, cur\nsaepius et specialius peccatum, quo damnatum est\n humanum genus, magis imputetur Adae quam Evae:\n cum illa prior  peccaverit, et Adam  post et\nper illam. Dicit enim Apostolus: Sed regnavit mors\nab Adam usque ad Moysen, etiam in eos qui non peccaverunt\nin similitudinem praevaricationis Adae (Rom V 14). Multa quoque alia leguntur, quae magis Adam\nquam Evam criminari videntur. Quod ideo fieri\nexistimo quia illa duorum copula tota intelligitur\nin nomine principalis partis; sicut saepe per partem\ntotum solet significari: aut quoniam Adam cum\ncosta sua, quamvis in mulierem aedificata, dici poterat\nAdam, sicut legitur: quia Deus Masculum et\nfeminam fecit eos, et benedixit eis (Gen I 17). Et\nvocavit nomen eorum Adam in die quo creati sunt:\naut idcirco, quia si non Adam, sed sola Eva peccasset;\nnon necesse erat totum humanum genus \n perire, sed solam Evam. Poterat namque Deus de\nAdam, in quo semen omnium hominum creaverat\n, aliam facere mulierem, per quam de Adam propositum\nDei perficeretur. Eisdem rationibus significabo \nper nomen Adae eos ambos, nisi cum necesse\nerit eos discernere.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. IX. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Nine<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s> About the Monk Engelbert.</s>\n    <s>Engelbert, a diligent examiner and follower of calculations, compiled several useful theorems for mathematicians.</s>\n    <s>Much like Bootes in the celestial sphere, while constantly engaged in this art, he keeps the chariot of memory continuously revolving without letting it rest.</s>\n    <s>Through this dedication, he gained significant knowledge.</s>\n    <s>Thus, I honor him with these verses from Virgil:</s>\n  </p>\n  <p>\n    <s>He who knows the numbers and paths of the sky, who understands the stars, the various eclipses of the sun, and the phases of the moon.</s>\n    <s>Why the earth trembles, by what force the deep seas swell when barriers are broken, and then settle back again.</s>\n    <s>Why the suns in winter rush so eagerly to plunge into the ocean, or what delay causes the long nights.</s>\n  </p>\n</speak>",
+      "original_latin": "De Engelberto monacho. Engelbertus compoti ventilator et assecla, quaedam\ntheoremata computistis utilia compaginavit. Nam, quemadmodum Bootes in cardine coeli, dum\n sic jugiter in hac versatur arte, et plaustrum memoriae\nvolvi quidem, sed nequaquam patitur occidere,\nmultam exinde comparavit notitiam, quapropter\nMaronis eum his versibus illustrarim:\nQui numeros coelique vias, qui sidera nosset,\nDefectus solis varios, lunaeque labores;\nUnde tremor terris, qua vi maria alta tumescant\nObicibus ruptis, rursusque in se ipsa residant. Quid tantum Oceano properent se tingere soles\nHiberni, vel quae tardis mora noctibus obstet.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XXI . ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twenty-One<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Why He Could Not Have Personal Injustice.</s>\n  </p>\n  <p>\n    <s>It's unnecessary to discuss personal injustice in His case because it simply didn't apply to Him.</s>\n    <s>Human nature was never separate from the divine in Him, nor was His soul ever burdened against His will or constrained by a corruptible body.</s>\n  </p>\n  <p>\n    <s>This soul, being both the whole man and the Word of God, always existed as a single person.</s>\n    <s>He was never without perfect justice, wisdom, and power, which He possessed from Himself as God.</s>\n    <s>While in human form, He received what He had from the divine.</s>\n  </p>\n  <p>\n    <s>I do not deny that there might be another reason, higher than this one, for how God took on human form from a sinful mass without sin, like unleavened bread from leavened.</s>\n    <s>Besides the one I've presented here, and the one mentioned elsewhere in Book Two, Chapter Sixteen.</s>\n    <s>If another reason is shown to me, I will gladly accept it, and if it can be demonstrated that mine could go against the truth, I will not hold onto them.</s>\n  </p>\n</speak>",
+      "original_latin": "Quare non potuit habere personalem injustitiam. At de personali  injustitia superfluum est disputare,\nquod ad illum  non attigerit; quoniam\nhumana natura nunquam in illo sine divina fuit, nec\nillius anima unquam aggravata contra voluntatem,\naut ullo modo impedita est corpore corruptibili. Quae anima, quoniam ipsa, imo totus ille homo et\nVerbum Dei Deus, una persona semper exstitit ,\nnunquam sine perfecta justitia, et sapientia, et potestate\nfuit, quam semper a seipso ille secundum\npersonam, sicut Deus, habuit; licet in naturis humana\na divina, quod  habuit; acceperit :\n altiorem autem aliam rationem, quomodo Deus\nassumpsit hominem de massa peccatrice sine peccato,\nvelut azymum de fermentato , praeter\nistam, quam hic; et illam quam alibi posui (lib. II,\ncap. 16) esse non nego: quam, si mihi ostensa\nfuerit, libenter accipio; et meas, si (quod non arbitror)\ncontra veritatem esse potuerint  ostendi,\nnon teneo.",
+      "voice": "Matthew"
+    }
+  ]
+}

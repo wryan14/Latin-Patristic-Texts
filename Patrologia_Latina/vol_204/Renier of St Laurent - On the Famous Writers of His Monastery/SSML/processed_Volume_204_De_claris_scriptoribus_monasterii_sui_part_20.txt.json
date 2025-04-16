@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XVIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Eighteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>About Others Not Named Specifically.</s>\n    <s>We have specifically mentioned those brothers we found to have written something.</s>\n    <s>There were also many others commendable for both their knowledge and their faith, whose memory is both sweet and useful.</s>\n    <s>However, we have not written more about them at this time.</s>\n    <s>We earnestly wish for, and implore you, O Christ, who counts the multitude of stars and calls them all by name, who is the most knowledgeable of the saints, that you may write upon them the name of your God, and the name of the city of New Jerusalem, which descends from heaven from your God, and your new name, so that you may give them, I say, a white stone, and on the stone a new name written, which no one knows except the one who receives it.</s>\n  </p>\n</speak>",
+      "original_latin": "De aliis pluribus nominatim non\nrecensitis. Eos quidem, quos aliqua scripsisse comperimus\nfratres nominatim nostros expressimus, quanquam\nfuerint plures quoque alii tum scientia, tum religione\n commendabiles, quorum meminisse et dulce\net utile sit. Verum de his plura scribere noster\nnunc calamus non suscepit. Hoc omnimodis optamus,\nhoc te, o Christe, imploramus, qui numeras\nmultitudinem stellarum, et omnibus eis nomina\nvocas, qui sanctorum scientissimus es calculator,\nut scribas super eos nomen Dei tui, et nomen civitatis\nnovae Jerusalem, quae descendit de coelo a\nDeo tuo, et nomen tuum novum, ut des, inquam,\nillis calculum candidum, et in calculo nomen novum\nscriptum, quod nemo scit nisi qui accipit.",
+      "voice": "Matthew"
+    }
+  ]
+}

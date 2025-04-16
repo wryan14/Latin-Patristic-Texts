@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Eighteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>Against the claim: Because the Father bears witness to the Son.</p>\n    <p>\n        <s>In the Gospel, Christ himself says: <break time=\"500ms\"/> I am the one who bears witness about myself.</s>\n        <s>So, he testifies about himself.</s>\n    </p>\n    <p>\n        <s>The prophets bore witness to the Son, but are the prophets greater than the Son?</s>\n        <s>The apostles also bore witness to the Son, but are they greater than the Son of God?</s>\n    </p>\n    <p>\n        <s>Since I've shown that he himself bore witness about himself, there's nothing left for the adversaries to say:</s>\n        <s>I am, says the Son, the one who testifies about myself.</s>\n    </p>\n</speak>",
+      "original_latin": "Contra id quod dicunt: Quia Pater perhibet testimonium\nFilio. Ipse Christus dicit in Evangelio: Ego\nsum qui testimonium perhibeo de me. Ergo ipse testificatur\nde se. Prophetae perhibuerunt Filio testimonium,\nnunquid majores sunt prophetae Filio? Apostoli\nperhibuerunt testimonium Filio, nunquid majores\nsunt apostoli Filio Dei? Sed cum ostenderim\nquia ipse sibi perhibuit testimonium, non erit quod\nab adversariis respondeatur: Ego sum, inquit Filius,\nqui testificor de me.",
+      "voice": "Matthew"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Twelve<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>The Holy Spirit is also the creator, as is taught.</s>\n    <s>In Job, we read: It is the divine Spirit who made me.</s>\n    <s>In the psalm: Send out your spirit and they will be created. <break time=\"500ms\"/> Psalm One Zero Four.</s>\n    <s>In the Gospel: Mary was found to be with child from the Holy Spirit.</s>\n    <s>To whom it was said: The Holy Spirit will come upon you, and the power of the Most High will overshadow you. <break time=\"500ms\"/> Matthew One.</s>\n    <s>In the psalm: By the word of the Lord the heavens were made firm, and by the spirit of his mouth all their power. <break time=\"500ms\"/> Psalm Thirty Three.</s>\n    <s>If the Holy Spirit made the Son of God in the womb of the virgin, what is lacking to God that he did not create?</s>\n    <s>In the Gospel: Unless one is born of water and the Holy Spirit, he cannot see the kingdom of God.</s>\n    <s>It is greater to regenerate than to create: see, the Holy Spirit regenerates when we are reborn through him in baptism.</s>\n  </p>\n</speak>",
+      "original_latin": "Quia et creator est Spiritus sanctus, sic docetur. In Job legimus: Spiritus divinus est qui fecit me. In\n psalmo: Emitte spiritum tuum et creabuntur (Psal CIII). In Evangelio: Inventa est Maria habens de Spiritu\nsancto. Cui fuerat dictum: Spiritus sanctus superveniet\nin te, et virtus Altissimi obumbrabit tibi (Matth I). In psalmo: Verbo Domini coeli firmati sunt, et Spiritu\noris ejus omnis virtus eorum (Psal XXXII). Si in\nutero virginis Spiritus sanctus Filium Dei fecit, quid\nDeo defuit quod non creavit? In Evangelio: Si quis\nnon renatus fuerit ex aqua et Spiritu sancto, non potest\nvidere regnum Dei. Amplius est enim regenerare\nquam creare: ecce Spiritus sanctus regenerat, quando\nin baptismo renascimur per ipsum.",
+      "voice": "Matthew"
+    }
+  ]
+}

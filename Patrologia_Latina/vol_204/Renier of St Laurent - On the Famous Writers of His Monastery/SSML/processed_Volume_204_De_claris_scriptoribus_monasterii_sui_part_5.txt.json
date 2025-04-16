@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. III. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Three<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>About Saint Wolbodo, Bishop of Liege.</p>\n    <p>Since there is no one who lacks glory everywhere, I will briefly share who Wolbodo was. He came from Flemish origins, and his noble and wealthy parents were made even more distinguished by his remarkable life and knowledge.</p>\n    <p>He began as a canon and schoolmaster at the church in Utrecht before becoming the bishop of Liege. Some of our elders have written about his life as a bishop. It's important to note his deep devotion to Saint Lawrence the martyr, as he dedicated his care and resources to our place during his life and was laid to rest here after his death.</p>\n    <p>Indeed, he was buried in our crypt of the Holy Mother of God, in a carefully crafted tomb, which includes this epitaph in gilded letters:</p>\n    <p>\n        <s>Great is the honor of the flesh, but greater is the grace of character,</s>\n        <s>Placing you in the office and seat of the bishop. The rich and poor alike felt your presence in all things,</s>\n        <s>From you comes salvation to some, food to others. Hence, the same flesh is present to all of us,</s>\n        <s>And we honor the life-giving tomb.</s>\n    </p>\n    <p>Thus, the small garden of our Church flourishes with the dual beauty of the rose and lily, as both the martyr with part of his relics and the confessor with his whole body, enhance it with their protection and merits.</p>\n</speak>",
+      "original_latin": "De Sancto Wolbodone episcopo\nLeodiensi. Sed quia inglorius usquequaque filius non est,\nqui gloriosos recenseat viros, antedictus Wolbodo\nquisnam fuerit parumper recenseo. Flandrensis\ngenere fuit, et claros nobilitate ac possessionibus parentes\ngloriosa reddidit vita, illustrique scientia\n clariores, apud Ultrajectensem ecclesiam primo\nquidem canonicus atque scholarum magister, postea\nLeodiensis episcopus. De quo aliqua majores paginis\nmandavere, quibus declaratum est, quam vixerit\nepiscopaliter. Hoc autem praeterire non debui, quod\nunice sancto martyri Laurentio devotus, nostro se\nloco totum impenderit cura et rebus, dum viveret,\ncorpore post obitum. Apud nos siquidem in crypta\nsanctae Dei Genitricis operoso conditus est monumento,\nquod apicibus auratis tale praefert\nepitaphium:\nIngens carnis honor, sed morum gratia major,\nPraesulis officio te locat et solio. Sensit dives egens, ut eras ad singula praesens,\nIstis unde salus, his fluit unde cibus. Hinc eadem nobis assunt et viscera cunctis\nInde salutiferum excolimus tumulum. Nostrae ergo areola Ecclesiae pulchrescit gemino\nflore rosa et lilio, dum et martyr aliquanta reliquiarum\nparte, confessor illam insigniat toto corpore,\npatrocinio ac meritis uterque.",
+      "voice": "Matthew"
+    }
+  ]
+}

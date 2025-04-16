@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XIX. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Nineteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s> How this explanation and another given elsewhere agree and differ.</s>\n        <s>These two explanations each seem sufficient on their own to address the question, but together they provide a deep satisfaction for the mind seeking the power of reason and the beauty of action.</s>\n        <s>Although they aim for the same goal, they differ in this way: the explanation I presented here shows that God, even from the substance of a sinful Virgin, ought to produce a righteous offspring, indeed only a righteous one, because sin exists in human nature only through will, and there is no reason to oppose such propagation.</s>\n    </p>\n    <p>\n        <s>The other explanation proves that even if there were sin in the entire essence of the Virgin, she could still be made pure through faith for such a conception.</s>\n        <s>Moreover, in this explanation, all necessity of death and any corruption or toil are clearly excluded from that man; while in the other, a question seems to arise about this very point.</s>\n        <s>But it is resolved with sufficient reasoning, if carefully considered.</s>\n    </p>\n    <p>\n        <s>Therefore, from both explanations, it is clear that our Lord and Redeemer endured nothing in all that he suffered except by a holy will.</s>\n    </p>\n</speak>",
+      "original_latin": "Quomodo ista ratio, et altera alibi data concordent\net differant. Quae duae rationes  intellectui meo videntur ad\nquaestionem unaquaeque per se sufficere; sed ambae\nsimul animo vim rationis et decorem actionis quaerenti\ncopiose satisfacere. Et quamvis ad idem tendant,\nin hoc tamen differunt, quod ista quidem,\n quam  hic protuli, monstrat Deum etiam de\npeccatricis Virginis substantia, quoniam nusquam\nest in hominis natura praeter voluntatem peccatum,\nprolem debere justam, imo non nisi justam, nulla\nratione repugnante, tali propagatione producere. Illa vero probat quod etiam si in tota Virginis essentia\npeccatum esset, tamen ad hujusmodi conceptionis\nmunditiam, per fidem munda fieri posset . Atque in ista omnis mortis necessitas, et cujuslibet\ncorruptionis sive laboris ab illo homine  aperte\nexcluditur: in illa autem  quaestio oriri de hoc\n ipso videtur; sed sufficienti ratione, si diligenter\n perspecta fuerit, dissolvitur . Quapropter ex\nutraque palam est quia nihil nisi pia voluntate Dominus\nnoster et redemptor sustinuit in omnibus, quae\npassus est.",
+      "voice": "Matthew"
+    }
+  ]
+}

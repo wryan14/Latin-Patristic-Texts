@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Sixteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n      \n        <s>This is how the Son is taught to be invisible:</s>\n        <s>No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him.</s>\n        <s>It is written about Christ in the Apostle:</s>\n        <s>He is the invisible firstborn of all creation.</s>\n        <s>Also: Christ Jesus came into this world to save sinners, of whom I am the foremost.</s>\n        <s>But I received mercy for this reason, that in me, as the foremost, Christ Jesus might display his entire patience as an example to those who would believe in him for eternal life:</s>\n        <s>to the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever.</s>\n    </p>\n    <p>\n        <s>Therefore, the Son is invisible, who came to save sinners.</s>\n        <s>If the Son is seen, the Father is seen as well, because it is written:</s>\n        <s>Whoever sees me sees the Father.</s>\n    </p>\n</speak>",
+      "original_latin": "Quia invisibilis est Filius, sic docetur: Nemo novit\nFilium nisi Pater, neque Patrem quis novit nisi Filius,\net cui voluerit Filius revelare. In Apostolo de Christo\nscriptum est: Hic invisibilis primogenitus totius creaturae. Item: Christus Jesus venit in hunc mundum\npeccatores salvos facere, quorum primus ego sum; sed\nideo misericordiam consecutus sum, ut in me primo\n ostenderet Christus Jesus omnem longanimitatem in\nformationem eorum qui credituri sunt illi in vitam aeternam:\nregi autem saeculorum immortali, invisibili,\nsoli Deo honor et gloria in saecula saeculorum. Invisibilis\nest ergo Filius, qui venit peccatores salvos facere. Si videtur Filius, videtur et Pater, quoniam\nscriptum est: Qui me videt, videt et Patrem.",
+      "voice": "Matthew"
+    }
+  ]
+}

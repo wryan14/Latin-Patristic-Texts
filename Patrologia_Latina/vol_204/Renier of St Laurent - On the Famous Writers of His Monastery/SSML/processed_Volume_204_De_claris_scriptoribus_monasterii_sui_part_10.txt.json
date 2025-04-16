@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. VIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Eight<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s> About David the Monk</s>\n    </p>\n    <p>\n        <s>David was a diligent worker who carried the light and easy burden of Christ's yoke into his old age.</s>\n        <s>He dedicated himself to church duties day and night.</s>\n        <s>He spent his time praying, reading, and writing the works of learned men for his brothers to read and reflect upon.</s>\n    </p>\n    <p>\n        <s>These are the defenses of David's tower, adorned with a thousand shields, the complete armor of the mighty.</s>\n        <s>Despite the fierceness of Phalaris's brazen, fiery bulls, the envy of the Sicilian tyrant found no greater torment than what our Methuselah endured, as he earnestly admonished the negligent and guided the youth to avoid the bread of idleness.</s>\n    </p>\n    <p>\n        <s>Though bent with age, David remained unwavering in kindness; his tireless efforts bore fruit, and he wrote the Passion of Saint Blaise and the Life of Saint Eucherius of Orleans.</s>\n        <s>Even if his work wasn't finely crafted, it began with a coarser, hemp-like thread.</s>\n    </p>\n</speak>",
+      "original_latin": "De Davide monacho. David asinus fortis, qui usque in senectam et senium\nad portandum Christi jugum suave et onus\nleve supposuerit humerum. Die ac nocte ecclesiasticis\ninsudabat muniis. Nunc orationi, nunc vacabat\nlectioni, nunc digiti ejus apprehendebant calamum,\net quos legerent, quos meditarentur fratres, scribebat\ndoctorum libros. Nam Davidicae turris haec\nsunt propugnacula, hi mille clypei, qui pendent ex\n ea, omnis armatura fortium. Aeneis porro ardentibusque\nPhalaris bobus saevierit, tamen invidia Siculi\nnon invenere tyranni majus tormentum qua\nnoster Mathusalan carens, in negligentes magnopere\nzelabatur, juventutique imminebat, ne panem\notiosa comederet. David senio quidem, sed nunquam\nbenevolentia incessit curvus; qui ut aliquem\nfructum indefessi edidisset laboris, Passionem sancti\nBlasii, Vitam denique sancti Eucherii Aurelianensis\nquamlibet locuplete contextu, attamen grossiore et\nquasi cannabino telam orditus est stamine.",
+      "voice": "Matthew"
+    }
+  ]
+}

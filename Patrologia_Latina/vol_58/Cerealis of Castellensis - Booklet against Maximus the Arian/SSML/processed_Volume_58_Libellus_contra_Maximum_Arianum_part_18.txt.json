@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XIX.",
+      "cleaned_english_translation": "<speak>\n    Chapter Nineteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n\n        <s>Addressing the question: Why is the Father named first, then the Son.</s>\n    </p>\n    <p>\n        <s>Consider how the Son is sometimes mentioned first by the Father.</s>\n        <s>In the letter to the Galatians, the Apostle says: Not from men, nor through man, but through Jesus Christ and God the Father.</s>\n        <s>Likewise, in the letter to the Thessalonians, he mentions: Now may our Lord Jesus Christ himself and God our Father, who loved us and gave us eternal comfort, etc.</s>\n        <s>Here, the Son is named first.</s>\n    </p>\n    <p>\n        <s>Notice also when the Holy Spirit is mentioned first.</s>\n        <s>The Apostle states: One body and one Spirit, just as you were called to one hope of your calling, one Lord, one faith, one baptism, one God and Father of all.</s>\n        <s>Here, the Spirit is named first, followed by the Father.</s>\n    </p>\n    <p>\n        <s>But should we say that Jacob was greater than Isaac, or Isaac greater than Abraham, just because in Leviticus, in one sentence, Jacob is named first, then Isaac, and finally Abraham, as it is written: And I will remember my covenant with Jacob, says the Lord, and my covenant with Isaac, and my covenant with Abraham.</s>\n        <s>Why should it be an issue if sometimes the Father is named first by the Son, or the Son by the Holy Spirit, or the Holy Spirit first by the Father?</s>\n    </p>\n</speak>",
+      "original_latin": " Contra id quod dicunt: Quare prius Pater, deinde\nFilius nominatur. Audi et Filium priorem nominari\na Patre. Apostolus dicit ad Galatas: Non ab hominibus,\nneque per hominem, sed per Jesum Christum et\nDeum Patrem. Item ad Thessalonicenses ipse dicit:\nIpse autem Dominus noster Jesus Christus et Deus Pater\nnoster, qui dilexit nos, et dedit consolationem aeternam,\netc. Ecce prior est Filius nominatus. Audi et\nSpiritum sanctum priori loco nominari. Apostolus\ndicit. Unum corpus et unus Spiritus, sicut vocati estis\nin una spe vocationis vestrae, unus Deus, una fides,\nunum baptisma, unus Deus et Pater omnium. Ecce\nprius Spiritum, et postea Patrem nominavit. Sed dico,\n nunquid quia legimus in Levitico proprio loco\nsub una sententia nominatum Jacob, secundo Isaac,\ntertio Abraham, ideo dicendum est meliorem fuisse\nJacob ab Isaac, aut majorem Isaac Abraham patre\nsuo, sicut enim scriptum est: Et memorabor testamenti\nJacob, dicit Dominus, et testamenti Isaac, et testamenti\nAbraham. Hominibus non praejudicatis, taxatio\nDeo praejudicium cur infert, si forte alicubi prior\ntaxatur Pater a Filio, aut Filius a Spiritu sancto\npriori loco a Patre taxatum.",
+      "voice": "Matthew"
+    }
+  ]
+}

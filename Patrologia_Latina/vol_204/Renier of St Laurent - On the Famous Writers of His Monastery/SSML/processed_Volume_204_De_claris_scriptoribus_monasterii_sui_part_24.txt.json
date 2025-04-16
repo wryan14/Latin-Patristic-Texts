@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. III. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Three<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>\n    Other Works of Reinerius.\n    </s>\n  </p>\n  <p>\n    <s>\n      I've described the conversion of Saint Pelagia in two books, titled: <phoneme alphabet=\"ipa\" ph=\"ˈmɪrər\">Mirror</phoneme> of Repentance.\n    </s>\n    <s>\n      Then, I detailed the Passion of the Virgin Mary of Cappadocia in another two books, calling them Virginal Triumph.\n    </s>\n    <s>\n      After that, I put together the Life of Theobald the Hermit in two books, which I named the Flower of the Desert.\n    </s>\n  </p>\n  <p>\n    <s>\n      Previously, these works were written in a rough style of dictation, but I refined them as best I could with some knowledge, following the advice of certain friends.\n    </s>\n    <s>\n      It's important to follow friends who offer pious guidance.\n    </s>\n  </p>\n  <p>\n    <s>\n      The deeds of the saints are seen as common material, and those engaged in pious studies shouldn't be noted for vanity.\n    </s>\n  </p>\n  <p>\n    <s>\n      Lastly, I composed a piece titled: A Little Book of Funeral Verses on the Death of a Friend, to which I added a quatrain to be inscribed on the tomb.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "Alia Reineri opuscula. Geminis ergo libellis conversionem descripsi sanctae\nPelagiae, opusculumque hoc illustravi titulo: Speculum\npoenitentiae. Dehinc Passionem virginis Mariae Cappadocis aeque\nduplici libella explicavi ita praetitulando: Palmarium\n virginale. Subsequenter Vitam Tiebaldi eremitae duobus itidem\nlibellis complexus sum, appellavique Florem\neremi. Atque haec antea quidem sed scabro dictationum\nfuerant stylo descripta, quae ego monitu quorumdam\nscientiolae qua potui lima purgavi. Parendum est\nquippe amicis pia injungentibus. Sanctorum vero\nres gestae communis censentur materiae, nec vanitatis\n pungendus est nota, quem pietatis exercent\nstudia. Opusculum denique confeci quod sic titulatur:\nLibellus cujusdam funebris super morte amici, cui et\ntetrastichon superscribendum tumulo adjeci.",
+      "voice": "Matthew"
+    }
+  ]
+}

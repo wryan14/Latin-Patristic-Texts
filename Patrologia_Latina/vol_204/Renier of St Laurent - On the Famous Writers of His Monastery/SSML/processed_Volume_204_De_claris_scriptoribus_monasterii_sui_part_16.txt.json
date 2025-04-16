@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XIV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Fourteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About the Monk Lambert.</s>\n        <s>Lambert explained the fables of Aesop.</s>\n        <s>He skillfully used these stories to influence human behavior as the original author intended.</s>\n        <s>However, our commentator ignored the moral lessons and focused unwisely on allegory, trying to make something sacred out of them, as if one could gather figs from thorns or grapes from brambles.</s>\n    </p>\n    <p>\n        <s>So, on the first of March, that book was read in the mouse senate, debated, rejected, and received harsh criticism.</s>\n        <s>Then mice rushed in from the fields and the Palestinian villages, attacked with fierce teeth, gnawed, and scattered the written points.</s>\n        <s>But what hope did we have of recovery?</s>\n        <s>We lacked the famous treasures of the Philistines, who could offer golden mice for their vows, and we didn't even have parchment.</s>\n        <s>Pergamum, the first to give its name to parchments in both use and abundance, was too hard and difficult for us to reach.</s>\n        <s>Thus, that Aesopian sacrament was lost.</s>\n    </p>\n</speak>",
+      "original_latin": "De Lamberto monacho. Lambertus fabulas Aesopi commentatus est. Has\nvero ad figurandos hominum mores auctor sagaciter\npraescriptus finxit. Sed commentator noster moralitate\nposthabita insudavit allegoriae, in hoc minime\nsagax, qui ex rebus hujusmodi sacratas voluerit res\nprocudere quasi de spinis colligantur ficus, aut de\nrubo vindemientur uvae. Igitur Kalendis Martialibus\nliber ille in senatu soricum recitatus est, discussus\nest, abjudicatus est, sententiamque accepit corrosivam. Irruerunt proinde ex agris, irruerunt ex\nvillis Palaestinorum mures, ac effero dente invaserunt,\ncorroserunt, dissipaverunt apices praescriptos. Quae autem spes recuperandi? deerat Philistinorum\nnobis inclyta supellex, qui mures potuerunt\naureos in sua expendere vota, ne pergamena quidem\nsuppetebat. Pergamum vero, quae scilicet prima\npergamenis tam usu quam copia nomen indidit,\nadire arduum nobis ac difficile nimis. Ergo Aesopicum\nillud ita disperiit sacramentorium.",
+      "voice": "Matthew"
+    }
+  ]
+}

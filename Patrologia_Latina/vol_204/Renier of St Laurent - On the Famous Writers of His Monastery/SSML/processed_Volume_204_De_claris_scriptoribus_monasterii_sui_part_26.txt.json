@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. V. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Five<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>Grateful Heart of Reiner Towards Heavenly Healers</s>\n    <s>A Vision of Divine Judgment.</s>\n  </p>\n  <p>\n    <s>After I regained my strength, I offered what little gifts I could, like a humble prayer to the merciful mother of spirit.</s>\n    <s>This prayer was rhythmically expressed and elaborated into a divine melody about the confessor himself.</s>\n  </p>\n  <p>\n    <s>Finally, I don't think it's pointless to share what one brother witnessed about another brother at that time.</s>\n    <s>One was dying, and the other was lying very ill.</s>\n  </p>\n  <p>\n    <s>Early one morning, while awake, he clearly saw in the same house a person of judicial authority seated at a tribunal.</s>\n    <s>Certain worthy men were advocating for the dying man, responding to accusations or objections from demons clamoring outside.</s>\n  </p>\n  <p>\n    <s>By some divine power, these demons were prevented from breaking in.</s>\n    <s>Their appearance was nothing short of hideous, and their envy and malice were revealed through their eyes with an almost sulfurous horror.</s>\n    <s>They surrounded the place like a siege.</s>\n  </p>\n  <p>\n    <s>As the soul finally departed and the judge withdrew with the blessed spirits, the demons followed with unbearable commotion and chaotic shouting.</s>\n    <s>It seemed as if the entire air was struggling with terrible storms.</s>\n  </p>\n  <p>\n    <s>Oh, what a tearful hour!</s>\n    <s>Oh, what a terrifying trial!</s>\n    <s>Oh, what a dreadfully compelling necessity!</s>\n    <s>How blessed is the one whose good conscience keeps him safe at that time!</s>\n  </p>\n</speak>",
+      "original_latin": "Gratus Reineri erga coelestes medicos animus\nVisio cujusdam de judicio divino. Posteaquam sospitate vigoratus sum, quae possem,\ninops exsolvi munuscula, scilicet ad ipsam misericordiae\n matrem spiritus contribulati orationem\nrhythmice expressam, atque in divina elaboratam\npraeconia de ipso confessore melodiam. Denique haud puto supervacaneum, si attexam\nquid unus fratrum de alio fratre tunc viderit. In\nmortem hic agonizabat, ille admodum jacebat infirmus. Quodam diluculo dum vigilaret, vidit in eadem\nmanifeste domo quamdam judiciariae auctoritatis\npersonam posito tribunali resedisse, apud quam\ncandidati quidam viri causam morientis agebant\naccusationibus vel objectis respondentes daemonum\nforis tumultuantium. Divina etenim quadam vi, ne\nirrumperent, inhibebantur. Illorum specie nihil\ntetrius, quorum etiam livor et malitia felitis quodammodo\n et horrore sulphureo tabescentibus patebat ex\noculis, ac velut indagine locum obsederant. Egrediente\ntandem anima et judice illo cum beatis spiritibus\nrecedente, tum vero intolerabili tumultu et\nincondita vociferatione prosecuti sunt, ut nimiis\ntotum aerem procellis crederes laborare. O lacrymabilem\nhoram! o terribile examen! o pavendam\nnimium necessitatem illam! Quam beatus, quem\nbona tunc reddiderit tutum conscientia!",
+      "voice": "Matthew"
+    }
+  ]
+}

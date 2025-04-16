@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAPUT XVI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Sixteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>Why John and others conceived through a miracle are not inherently free from sin.</s>\n        <s>If John the Baptist and others born from barren women-where the ability to conceive had died due to old age-are presented as objections, suggesting they should have been born without sin because they were conceived miraculously, it's important to understand that the reasoning which exempts the virginal conception from the necessity of sin is entirely different.</s>\n    </p>\n    <p>\n        <s>There's a difference between doing something unheard of, unimaginable, and unknown to nature, and healing nature weakened by age or defect to restore its function.</s>\n        <s>If Adam had not sinned, he would not have been weakened by old age or any other cause, and the nature of procreation, created in him and under his control, wouldn't have been hindered by any circumstance.</s>\n    </p>\n    <p>\n        <s>Therefore, in John and others like him, nothing new is added to Adam's nature, unlike with the son of the Virgin. Instead, what was weakened is understood to have been restored.</s>\n        <s>Thus, because they were generated through the natural procreation given to Adam, they cannot and should not be considered similar to him in the miraculous conception we're discussing, to suggest they could be freed from the bond of original sin.</s>\n    </p>\n</speak>",
+      "original_latin": "Cur Joannes, et alii qui similiter concepti sunt per\nmiraculum, non sint per se liberi   a peccato. Quod si objiciuntar mihi Joannes Baptista et alii\nqui de sterilibus, et in quibus, prae senectute, natura\ngenerandi jam erat emortua, propagati sunt, et\nquasi per similem rationem putantur debuisse nasci\nsine peccato et poena peccati, quia per miraculum\nconcepti sunt; valde utique intelligenda est ab istis\naliena, ratio illa quae virginalem conceptionem liberam\nab omni peccati monstrat necessitate. Aliud\nest enim aliquid inauditum  et inopinabile atque\nnaturae incognitum facere: et aliud naturam aut\naetate aut aliquo vitio debilitatam sanare, et ad\nsuum opus revocare. Nam si Adam non peccasset,\nsicut ipse nulla senectute, nulla causa infirmaretur :\nsic natura propagandi creata in illo et ad\n utendum, ut jam dictum est, ejus potestati subdita,\nnullo casu a suo cursu impediretur. Non ergo in\nJoanne, et similibus, est aliquid novum naturae\nAdae, sicut est in filio Virginis, datum; sed quod\nsuis causis infirmatum erat, cognoscitur esse reparatum. Quare quoniam illi per propagationem naturalem\ndatam Adae sunt generati, nequaquam possunt\naut debent ei de quo agimus, in conceptionis\nassimilari miraculo, ut ab originalis  vinculo\npeccati absoluti possint ostendi .",
+      "voice": "Matthew"
+    }
+  ]
+}

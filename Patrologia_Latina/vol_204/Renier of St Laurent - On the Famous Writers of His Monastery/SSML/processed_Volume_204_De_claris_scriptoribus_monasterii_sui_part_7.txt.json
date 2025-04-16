@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. V. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Five<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    Concerning the elder monk and Deacon Louis.\n  </p>\n  <p>\n    The elder Louis, fondly remembered, had previously documented the journey of Saint Lawrence's relics from Rome to us.\n  </p>\n</speak>",
+      "original_latin": "De Ludovico seniore monacho et\ndiacono. Ludovicus bonae recordationis senior qualiter\nab urbe Roma reliquiae nobis sancti delatae sunt\nLaurentii, jam ante excripserat.",
+      "voice": "Matthew"
+    }
+  ]
+}

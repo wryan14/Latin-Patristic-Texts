@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Fifteen\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>About Gislebert the Monk.</p> \n    <p>Gislebert honed his sharp and clear mind through continuous practice, always keeping himself engaged by either thinking or writing. He crafted the Story of Joseph in heroic verse, compiling it into a single book, and divided the Deeds of David into twelve parts using the same meter. His writing style is straightforward and easy to understand, yet praiseworthy because, as he said in his own verses, achieving simplicity is often a difficult task:</p>\n    <p>\"I composed poems and completed them with joyful effort, setting a challenging rule for myself: to carefully render word for word. Indeed, it is a task worthy of much praise, an excellent endeavor to move from plain speech, from humble prose to lively verse, and to follow a broad path, so that anyone might aspire to do the same, sweat a lot, and work in vain.\"</p>\n    <p>His works possess a unique charm, especially when he embellishes historical narratives with the mystical elements of allegory. Although he excelled in various arts, he was particularly adept at creating sweet melodies in music, as demonstrated in the songs he composed about Saint George the martyr, Saint Ragenufla the virgin, and Saint Begga.</p>\n</speak>",
+      "original_latin": "De Gisleberto monacho. Gislebertus agile clarumque ingenium exercitio\neffecit agilius, usu perinde clarius. Pectus etenim\nmanumque jugiter conversabat vel meditando aliquid\nvel scriptitando. Itaque versu heroico scripsit\nHistoriam de Joseph, unumque in volumen extendit. Deinde Gesta David eodem metro partiens opus\n per libellos XII. Planus et facilis est, verumtamen\ndigne laudabilis, quia facile usus difficili est opera\nsecundum hos suimet versiculos:\nCarmina composui gratoque labore peregi\nSane difficilem proponendo mihi legem. Lex fuit, ut verbum curarem reddere verbo. Ardua res certe multa dignissima laude\nEt labor egregius est ex sermone pedestri,\nEx humili prosa salienti currere versu,\nAtque sequi cyclum patulum, sic ut sibi quivis\nSperet idem, sudet multum, frustraque laboret. Neque illius opuscula gratae sunt utilitatis aliena,\n quando historicae narrationis campum mysticis amoenet\nfloribus allegoriarum. Qui dum caeteris polleret\nartibus, maxime tamen in musica dulces faciebat\nmodos, quemadmodum liquet in cantibus, quos vel\nde sancto Georgio martyre, vel de sancta Ragenufla\nvirgine, nec non et de sancta Begga composuit.",
+      "voice": "Matthew"
+    }
+  ]
+}

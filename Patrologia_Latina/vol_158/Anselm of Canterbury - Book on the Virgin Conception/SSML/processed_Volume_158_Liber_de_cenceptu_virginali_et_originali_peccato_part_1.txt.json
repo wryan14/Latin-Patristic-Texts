@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "PROLOGUS . ",
+      "cleaned_english_translation": "<speak>\n    Prologue<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        I want to honor all your religious wishes as best as I can, dear brother and son Boso. I feel especially obligated when I see these wishes arise for your sake.\n    </p>\n    <p>\n        I am confident that when you read the book <phoneme alphabet=\"ipa\" ph=\"waɪ\">Why</phoneme> God Became Man, which you strongly encouraged me to write and in which I included you as my discussion partner, you might uncover another reason beyond the one I provided there. This reason explains how God took on human form from the sinful mass of humanity without sin.\n    </p>\n    <p>\n        Your keen mind is eager to explore what that reason might be. Therefore, I would feel unfair to you if I kept my thoughts on this matter from you.\n    </p>\n    <p>\n        So, I will briefly share my feelings on this, in a way that respects all faithful opinions on the subject, and I won't stubbornly cling to my own view if it can be reasonably shown to contradict the truth. However, I believe the reasoning I provided in that same work is completely valid and sufficient if considered carefully. After all, there can be multiple reasons for the same thing, each sufficient on its own.\n    </p>\n</speak>",
+      "original_latin": "Cum in omnibus religiosae tuae voluntati velim, si\npossim, obsequi, et frater  et fili charissime Boso,\ntunc utique maxime debitorem me judico, cum eam\na me in te excitari intelligo. Certus autem sum cum\nin libro: Cur Deus Homo (quem ut ederem tu maxime\ninter alios me impulisti, in quo te mecum disputantem\nassumpsi) legis aliam prae illam quam ibi\nposui, posse videri rationem, quomodo Deus accepit\nhominem de massa peccatrice humani generis sine\n peccato: quia studiosa mens tua ad quaerendum\nquaenam sit illa non parum provocatur. Quapropter\ninjustus tibi videri  timeo; si quid inde mihi videtur,\ndilectioni tuae abscondo. Dicam igitur sic\nbreviter de hoc quod sentio, ut nullius de eadem re\nfidelem improbem sententiam: nec meam (si veritati\nrepugnare rationabiliter poterit ostendi )\npervicaciter  defendam. Illam tamen ejusdem rei\nrationem, quam in eodem opusculo posui, omnino\nratam et sufficientem  (si bene consideretur) existimo:\n nihil enim prohibet ejusdem rei rationes\nplures esse, quarum unaquaeque sola potest sufficere.",
+      "voice": "Matthew"
+    }
+  ]
+}

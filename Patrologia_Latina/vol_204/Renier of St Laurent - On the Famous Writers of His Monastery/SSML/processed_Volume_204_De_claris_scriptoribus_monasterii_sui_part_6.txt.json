@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. IV. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Four<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>About Everard the Third, Abbot of Saint Laurence.</s>\n    <s>The third pastor chosen by Stephen was Everard, a monk from the Church of Florennes.</s>\n    <s>He was a man rich in experience, whose virtues created a peaceful presence.</s>\n    <s>He tended the Lord's flock with a pure heart and guided it with wisdom.</s>\n  </p>\n  <p>\n    <s>However, his time was short.</s>\n    <s>He passed away before even a year had gone by.</s>\n    <s>Yet, the bright intentions and care he displayed were already taking root and should not be forgotten.</s>\n  </p>\n  <p>\n    <s>So, let him be remembered as if he had served a full year.</s>\n    <s>And with the righteous, may he inherit a place where life is long and fulfilling, where there is light and peace.</s>\n  </p>\n</speak>",
+      "original_latin": "De Everardo III, abbate Sancti\nLaurentii. Tertium sortiti a Stephano pastorem sumus\nEverardum ecclesiae Florinensis monachum pollentem\nexperientia virum, quo virtutes veluti pacato\nutebantur habitaculo, qui haereditatem Domini pasceret\nin innocentia cordis sui et in intellectibus\nmanuum suarum deduceret eam. Sed paucitas dierum\nobstitit. Nam finitus est brevi, ut ne integro\n quidem anno adviveret. Lucidae porro intentionis\net curae jam bene florentis non careat fructu. Itaque\nin diebus veri computetur anni, et cum justis\nscriptus haereditate capiat terram, ubi est longiturnitas\nvitae et victus, ubi est lumen oculorum et\npax.",
+      "voice": "Matthew"
+    }
+  ]
+}

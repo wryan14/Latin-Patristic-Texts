@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. I. ",
+      "cleaned_english_translation": "<speak>\n    Chapter One<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About Lambert, the Second Abbot.</s>\n        <s>Lambert, our second abbot, was incredibly useful in many respects.</s>\n        <s>He authored the Life of Saint Heribert, the Archbishop of Cologne, and meticulously documented his miracles.</s>\n        <s>He also composed music about him, drawing on his remarkable talent for writing verses.</s>\n    </p>\n</speak>",
+      "original_latin": "De Lamberto secundo abbate. Lambertus abbas noster secundus multimodae\nhomo utilitatis, accurato satis stylo Vitam sancti\nHeriberti Coloniorum archiepiscopi et miracula descripsit. Quin etiam musice quaedam de ipso composuit,\nin versibus quoque faciendis claro fretus\ningenio.",
+      "voice": "Matthew"
+    }
+  ]
+}

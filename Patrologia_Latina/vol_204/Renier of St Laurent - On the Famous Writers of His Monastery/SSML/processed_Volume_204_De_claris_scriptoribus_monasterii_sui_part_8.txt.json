@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. VI. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Six<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>About Falchalino, a student of Ludovicus.</s>\n        <s>Falchalinus, who was also a master of schools, had become well-established in his teachings.</s>\n        <s>He worked with Franconius, the scholar of Saint Lambert, on projects about the squaring of the circle and the fasts of the Four Seasons.</s>\n    </p>\n</speak>",
+      "original_latin": "De Falchalino Ludovici\ndiscipulo. Falchalinus etiam scholarum magister, ejus\ncoaluerat disciplinis. Iste Franconi scholastico\n Sancti Lamberti in opusculis de quadratura circuli,\net de jejuniis Quatuor temporum cooperatus est.",
+      "voice": "Matthew"
+    }
+  ]
+}

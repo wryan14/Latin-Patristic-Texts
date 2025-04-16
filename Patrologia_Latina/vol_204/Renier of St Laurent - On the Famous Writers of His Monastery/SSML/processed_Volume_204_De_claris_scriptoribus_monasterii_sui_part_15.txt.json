@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "CAP. XIII. ",
+      "cleaned_english_translation": "<speak>\n    Chapter Thirteen<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n    <p>\n      \n        <s>Wazelinus the First, abbot of Saint Lawrence by this name.</s>\n    </p>\n    <p>\n        <s>Another Wazelinus had come before him at the abbey. Although simple by nature, he diligently performed his church duties from youth to old age with a true zeal for religion.</s>\n        <s>Sometimes he read, other times he sang psalms, and often he prayed, like a strong ox tirelessly threshing on the Lord's threshing floor.</s>\n    </p>\n    <p>\n        <s>He was gentle and approachable, much like the holy Moses, in contrast to Nabal the Carmelite, who was as stubborn as a camel, never speaking directly or peacefully.</s>\n    </p>\n    <p>\n        <s>Let those who are diligent remember Wazelinus.</s>\n        <s>Wazelinus cared for the diligent like a father.</s>\n    </p>\n    <p>\n        <s>Free from the bitterness of envy, he would often sweetly say:</s>\n        <s>\"Lord, I have loved the beauty of your house\" Psalm 26.</s>\n    </p>\n</speak>",
+      "original_latin": "Wazelinus I hujus nominis abbas S. Laurentii. Alter hunc in abbatia Wazelinus antecesserat, qui\nsimplex quidem ingenio, sed religionis solers studio\na juventute in senectutem ecclesiastica rite exsecutus\nest officia nunc legendo, nunc psallendo, nunc\norando veluti bos nervosus sedule triturans in area\nDomini. Mansuetus erat et affabilis, ut Moysen sanctum\nmagis quam Nabal imitaretur illum Carmeliten,\nqui plus camelo tortuosus nil aliquando rectum,\nnil effaretur pacificum. Wazelinum recolant studiosi. Wazelinus paterne coluit studiosos. Ipse amaro carens\n invidiae illud dulciter frequentare solebat: Domine,\ndilexi decorem domus tuae (Psal XXV).",
+      "voice": "Matthew"
+    }
+  ]
+}

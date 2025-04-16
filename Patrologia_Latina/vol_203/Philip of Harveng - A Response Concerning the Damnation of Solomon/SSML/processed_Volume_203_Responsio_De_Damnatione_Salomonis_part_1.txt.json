@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "original_latin": "PROLOGUS. ",
+      "cleaned_english_translation": "<speak>\n    Prologue<break time=\"500ms\"/>\n</speak>",
+      "voice": "Ruth",
+      "chunk_number": 1
+    },
+    {
+      "chunk_number": 2,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>It's easy to discuss obscure topics without much pushback because no one dares to challenge the speaker.</s>\n    <s>However, when someone tries to shed light on a controversial issue and people openly oppose their efforts, it creates even more doubt among the listeners since they don't know whom to believe.</s>\n    <s>Unless, perhaps, one of them is proven right by stronger and more convincing evidence.</s>\n    <break time=\"500ms\"/>\n    <s>Therefore, in this second response, we must pray to God to guide my steps on the path of truth and to strengthen the truth of what I say with unwavering support.</s>\n  </p><break time=\"500ms\"/>\n</speak>",
+      "original_latin": "Facile est de obscuris quibuslibet utcunque disputare;\ncum nullus disputanti praesumit obviare. Cum\nvero aliquid dubium in lucem producere quis conatur,\net ejus conatibus aperte quilibet reluctatur:\napud auditores major dubitatio generatur: dum cui\npotius credendum sit, ignoratur, nisi forte alter\n eorum pluribus et validioribus testimoniis convincatur. In hac igitur secunda responsione, orandus\nest Deus, ut gressus meos dirigat in semita veritatis\net vera quae dixero, muniat invictae patrocinio firmitatis.",
+      "voice": "Matthew"
+    }
+  ]
+}
