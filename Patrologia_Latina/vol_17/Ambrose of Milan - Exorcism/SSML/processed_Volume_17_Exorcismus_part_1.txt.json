@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nNotice<break time=\"500ms\"/>\n\nThe following exorcism, transcribed from a Vatican codex of six hundred years, is attributed to Ambrose. Although it is also found in the Roman Ritual, since it is there dissected into various parts and differs in some places with additions or changes, we have presented it here according to the manuscript's fidelity, especially due to the brevity of the writing.<break time=\"500ms\"/>\n</speak>",
+      "original_latin": "MONITUM. Sequens exorcismus e Vaticano codice annorum 600, in quo Ambrosium auctorem praefert, exscriptus \nfuit. Quamvis autem in Romano Rituali idem habeatur; quia tamen illic dissecatus est in varias partes, ac \nlocis etiam nonnullis aut additis aut immutatis diversus, eum ad manuscripti fidem hic exhibere, maxime \nob scripti brevitatem, non sumus gravati.",
+      "voice": "Ruth"
+    }
+  ]
+}
