@@ -18,3 +18,5 @@ An audio version of this work is available on Archive.org for free download:
 * [Letter on the Death of Paulinus by Uranus - Archive.org](https://archive.org/details/letter-on-the-death-of-paulinus)
 * [Predestined or the Heresy of the Predestinators three books by Anonymous - Archive.org](https://archive.org/details/predestined-or-the-heresy-of-the-predestinators-three-books)
 * [Book on the Three Dwellings by Saint Patrick - Archive.org](https://archive.org/details/book-on-the-three-dwellings)
+* [Conflicts on the Trinity Book One by Arnobius the Younger - Archive.org](https://archive.org/details/conflicts-on-the-trinity-book-one)
+* [Conflicts on the Trinity Book Two by Arnobius the Younger - Archive.org](https://archive.org/details/conflicts-on-the-trinity-book-two)
