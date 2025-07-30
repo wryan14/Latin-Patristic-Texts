@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\nThat he suffered from prolonged gout pain<break time=\"500ms\"/>\n    <p>\n        <s>Suffering from a long bout of gout, he finally returned to Cologne.</s>\n        <s>He soon began to be severely troubled by the illness called gout.</s>\n        <s>Yet, burning with devotion to the Lord, he attended the usual solemn mass on the feast of Saint Gereon.</s>\n        <s>He was so overcome with weakness that he could barely complete the sacraments.</s>\n        <s>From there, he took to his bed of pain, where he suffered for about nine weeks.</s>\n        <s>By the end, only shriveled skin remained clinging to his dried-up bones.</s>\n    </p>\n</speak>",
+      "original_latin": "(Quod longo podagre dolore confectus sit) \nDenique Coloniam regressus eo, qui podagra dicitur, morbo mox acriter vexari cepit. Ardens tamen in Domino ad consueta missarum solemnia festo sancti Geronis consisterat, ubi tantam incidit defectionem, ut ad sacramentorum vix sufficeret completionem. Inde lectum doloris ascendit, quo novem circiter septimanis exercebatur, quousque pellis tantum marcida hereret ossibus exsiccatis.",
+      "voice": "Matthew"
+    }
+  ]
+}

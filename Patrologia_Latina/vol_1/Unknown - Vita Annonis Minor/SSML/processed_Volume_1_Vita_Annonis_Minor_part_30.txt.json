@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            That Hildolf would succeed him in the bishopric.\n        </s><break time=\"500ms\"/>\n        <s>\n            The blessed man, as partly explained by the above, also had a great gift of foresight, through which he was known to have predicted some future events by the Spirit.\n        </s>\n        <s>\n            Among these is the instance when he was attending the public assemblies of the kingdom's elders in Goslar.\n        </s>\n        <s>\n            A certain clerk, named Hildolf, who was close to the king, asked him as a favor to give him the notable book of sacraments he had.\n        </s>\n    </p>\n    <p>\n        <s>\n            He said, \"You will have to wait for this request until everything contained within my chapel's furnishings is given to you.\"\n        </s>\n        <s>\n            <break time=\"500ms\"/>\n        </s>\n        <s>\n            He said this because he foresaw that Hildolf would succeed him next in the episcopal seat, which indeed happened.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "(Quod Hildolfum sibi in episcopatu successurum predixerit.)\nVII. Habebat autem vir beatus, ut ex predictis partim declaratur, magnam quoque prescientie gratiam, qua futura nonnulla per Spiritum predixisse compertus est. In quibus est illud, quod, cum in Goslaria publicis maiorum regni conventibus interesset, a quodam ex latere regis clerico, nomine Hildolfo, familiaritatis intuitu rogatus, ut codicem sacramentorum, quem habebat, insignem donaret eidem: „Hanc\", inquit, „interim postulatione carebis, donec iuri tuo conferantur omnia, que in capelle mee supellectili continentur\". Dicebat vero, quod et evenit, quoniam hunc sibi proximum in cathedra episcopali successurum previdebat.",
+      "voice": "Matthew"
+    }
+  ]
+}
