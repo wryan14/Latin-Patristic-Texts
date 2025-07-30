@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n    <p>\n        <s>\n            About the young man whose swollen belly was relieved by water blessed by him.\n        </s>\n    </p><break time=\"500ms\"/>\n    <p>\n        <s>\n            Meanwhile, a certain young man with a greatly swollen belly, which made him useless to himself and others, was brought by vehicle to the presence of Annon, seeking relief from such great pain.\n        </s>\n        <s>\n            Then the holy man, pitying the one afflicted by the severity of the illness, blessed some water, made the dying man drink it, and sprinkled him with it.\n        </s>\n        <s>\n            He made the sign of the cross on the swollen belly and ordered him to be quickly taken back home, promising certain healing despite his absence.\n        </s>\n    </p>\n    <p>\n        <s>\n            The next night, the humor, which had long been causing distress, was expelled from his body through intestinal discharge, freeing the man from his suffering.\n        </s>\n        <s>\n            Fully healed, he returned on his own feet the next morning to the holy man, praising God and God's servant with loud voices of great praise.\n        </s>\n    </p>\n</speak>",
+      "original_latin": "(De iuvene cuius venter per aquam ab eo benedictam detumuit) \nV. Inter hec adolescens quidam ventre in immensum turgente sibi suisque factus inutilis ad Annonis presentiam vehiculo tractus tanti doloris efflagitabat remedium. Tunc sanctus immantiate languoris afflictum miserans aquam benedixit, ex ipsa moribundum potavit et aspersit, signoque crucis alvo turgenti impresso iubet eum celeriter ad sua reduci spondens absentium certissimam saniatatem. Nocte protinus insecuta diu male concretus humor profluvio ventris egestus hominem pernicie absolvit. Qui integre sanatus propriis pedibus luce proxima ad sanctum recurrit Deum Deique servum magnis exaltans laudum vocibus.",
+      "voice": "Matthew"
+    }
+  ]
+}

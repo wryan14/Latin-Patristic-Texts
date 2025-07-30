@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    He also established two other monasteries in different locations. <break time=\"500ms\"/>\n    <s>Seeing that time was granted to him for the increase of piety, he established more communities of monks from the aforementioned, one in Westphalia at a place called Graschaf, and another on the border of the Thuringians and Slavs at a place called Salveld.</s>\n    <s>He enriched them with the necessary resources and set them to live according to the rule of the monks of Sieburg, bringing brothers from that monastery.</s>\n  </p>\n  <p>\n    <s>Then, prepared by the five lamps of the Gospel, he eagerly extended his hope towards the prize of his goal with the help of so many intercessions, purifying all his senses.</s>\n    <s>Whenever he could be away from the clamor and duties of Martha, he would withdraw and retreat to Salveld, where, like Mary, he would savor the sweetness of eternal Sabbath contemplation.</s>\n    <s>Focused on spiritual pursuits, he would compose songs or hymns of divine praise.</s>\n  </p>\n</speak>",
+      "original_latin": "(Quod et alia duo cenobia diversis locis constituit) \nXVIII. Videns quoque ad pietatis augmentum vitae sibi tempora concedi e praenominatis adhuc instituit monachorum congregationes, unam in Westfalia loco, qui dicitur Graschaf, alteram in confinio Duringorum et Sclavorum loco, qui Salveld nuncupatur. Quas necessariis subsidiis locupletatas ad normam Siebergensium vivere constituit adductis illo eiusdem cenobii fratribus. Tum demum quinario evangelicarum lampadum praeparatus ad sponsi renitentis cursum tantorum interventu cunctis sensibus expurgatorius ad destinatum bravium spem extendebat alacris. Quotiensque tumultibus et Marthae officiis abesse licuisset, elongabat declinans usque in Saleveld, ubi cum Maria vacans theoriae perpetui sabbatismi suavitatem praegustabat et spiritualibus studiis intentus divinae laudis carmina vel hymnos componebat.",
+      "voice": "Matthew"
+    }
+  ]
+}

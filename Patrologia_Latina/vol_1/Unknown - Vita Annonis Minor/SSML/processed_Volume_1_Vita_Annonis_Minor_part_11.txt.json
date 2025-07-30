@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    In honor of the Mother of God, a new work was established in the place called \"ad Gradus.\"\n  </p><break time=\"500ms\"/>\n  <p>\n    <s>\n      First, in Cologne, he built the monastery of the holy Mother of God, which is at \"ad Gradus\" near the temple of the prince of the apostles.\n    </s>\n    <s>\n      He constructed it from the ground up and generously endowed it with estates for the support of thirty canons.\n    </s>\n    <s>\n      Fully dedicated to the Mother of the Lord, he frequently visited the place, staying vigilant in prayers.\n    </s>\n    <s>\n      Often spending entire nights without sleep, at the break of dawn, he would lie down on the floor, barely catching a little sleep before rising again.\n    </s>\n  </p>\n</speak>",
+      "original_latin": "(Quod in honorem Dei Genitricis novum opus erexit loco qui dicitur ad Gradus) \nXI. Primo igitur Coloniae monasterium sanctae Dei Genitricis, quod est ad Gradus iuxta templum principis apostolorum, a fundamentis erexit et praediis ad triginta canonicorum stipendia copiose dotavit. Ubi totus matri Domini deditus locum frequentabat precibus invigilans et, cum totas saepe noctes duceret insomnes, sub ipso lucis exortu pavimento se reclinans vix sopore libato consurgebat.",
+      "voice": "Matthew"
+    }
+  ]
+}

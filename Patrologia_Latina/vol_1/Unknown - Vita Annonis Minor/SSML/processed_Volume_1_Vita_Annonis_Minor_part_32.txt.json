@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "cleaned_english_translation": "<speak>\n  <p>\n    <s>How Anno wrote to Bishop Egilberto of Minden, asking for his burial commendation.</s><break time=\"500ms\"/>\n    <s>To Egilberto, his former teacher, when he became the bishop of Minden, Anno wrote a personal letter, ending with these words:</s>\n    <s>\"And you shall commend me to the earth.\"</s>\n  </p>\n  <p>\n    <s>When Egilberto read this, he was puzzled.</s>\n    <s>But when they later met, he said he couldn't understand what Anno meant by those words.</s>\n    <s>\"Especially,\" he added, \"since my advanced age and declining strength make it more likely that I should expect this from you.\"</s>\n  </p>\n  <p>\n    <s>To this, Anno replied:</s>\n    <s>\"Not at all, for the outcome of events will contradict your expectations, and what the letter conveyed to you, my living voice now reaffirms: you shall commend me to the earth.\"</s>\n  </p>\n  <p>\n    <s>The truth of these words was proven by events, as the older man performed the funeral duties for Anno, who had already reached maturity.</s>\n  </p>\n</speak>",
+      "original_latin": "(Qualiter Egilberto Mindonensi episcopo scripsit quod ab eo terre commendandus esset) \nVIIII. Ad Egilbertum, suum quondam preceptorem, cum idem presulatum Mindonensium suscepisset, familiarem scripsit epistolam, quam in hec verba terminavit: \"Et tu me terre commendes.\" Quibus ille lectis subinde hesitabat; cum vero dehinc uterque convenissent, quam verbis illis fidem accomodaret, se dixit conicere non possee: \"Presertim\", inquiens, \"cum me prolixior etas iam viribus defectum, quod scripsisti, potius a te sperare compellat.\" Ad hec Anno: \"Nequaquam\", ait, \"nam verbis tuis rei exitus te superstitie refragabitur et, quod tibi litera sonuit, viva (fol 297) vox denuo confirmat: tu me terre commendes\". Huius quoque dicti veritatem probavit eventus, et huic iam maturo provectior ille funeris officium persolvit.",
+      "voice": "Matthew"
+    }
+  ]
+}
