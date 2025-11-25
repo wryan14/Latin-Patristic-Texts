@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "volume_id": "PL_ADELBOLD_TRAJECTENSIS_SPHERE",
+    "title": "A Short Work on the Method of Finding the Volume of a Sphere",
+    "author": "Adelbold, Bishop of Utrecht",
+    "century": "11th century",
+    "source": "Patrologia Latina, from manuscripts of Tegernsee and Saint Peter's Salzburg monasteries, edited by Alphonsus Hueber",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-06-14T00:00:00Z",
+    "total_chunks": 22,
+    "estimated_duration_minutes": 18,
+    "known_issues": [
+      "Manuscript contains geometric diagrams that cannot be rendered in audio format",
+      "Mathematical terminology may require additional context for non-specialist listeners",
+      "Some textual variants between Tegernsee and Saint Peter's manuscripts noted in original",
+      "Final section references a diagram with the phrase 'let it be illustrated' but no complete visual description follows"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "A Short Work by Adelbold, Bishop of Utrecht, of the Order of Saint Benedict, on the Method of Finding the Volume of a Sphere, addressed to Pope Sylvester the Second",
+      "latin": "ADELBOLDI PISCOPI TRAJECTENSIS. ORDINIS S. BENEDICTI LIBELLUS DE RATIONE INVENIENDI CRASSITUDINEM SPHAERAE. AD SILVESTRUM II P. M.",
+      "english": "A Short Work by Adelbold, Bishop of Utrecht, of the Order of Saint Benedict, on the Method of Finding the Volume of a Sphere, addressed to Pope Sylvester the Second",
+      "notes": "Adelbold was Bishop of Utrecht in the early 11th century. Pope Sylvester II (Gerbert of Aurillac) was renowned as a scholar and mathematician."
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Prodit nunc primum in lucem ex codd. mss. inclytorum monasteriorum Tegernseensis et Sanct-Petrensis Salisb., opera adm. R. D. P. Alphonsi Hueber, ascetae Tegernseensis.",
+      "english": "This work now appears for the first time in print, from manuscripts of the celebrated monasteries of Tegernsee and Saint Peter's in Salzburg, through the efforts of the most reverend Father Alphonsus Hueber, monk of Tegernsee.",
+      "notes": "Editorial note from the 18th-century editor Bernard Pez"
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Preface",
+      "latin": "[PRAEFATIO.]",
+      "english": "Preface",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Domino SILVESTRO summo et pontifici et philosopho ADELBOLDUS scholasticus vitae et felicitatis perpetuitatem.",
+      "english": "To Lord Sylvester, supreme pontiff and philosopher, Adelbold the scholar wishes perpetual life and happiness.",
+      "notes": "Formal medieval salutation combining ecclesiastical and academic titles"
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Valde peccare est publicis intentum utilitatibus privatis inquietare conventionibus. Sed hoc ingenio vestro confido, ut simul et reipublicae possit sufficere, et mihi, ex hoc quod quaero, satisfacere.",
+      "english": "It is a grave offense to disturb someone devoted to the public good with private requests. But I trust in your ability to attend both to the needs of the commonwealth and to answer what I am asking.",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et tamen temere ago, et non ignoranter pecco, quod tantum virum quasi conscholasticum juvenis convenio. Sed confessio peccati veniam non tantum, dico, quaerit, sed exigit.",
+      "english": "And yet I act rashly, and I sin knowingly, that I, a young man, approach so great a man as though he were my fellow student. But confession of sin not only seeks pardon, I say, but demands it.",
+      "notes": "Adelbold uses the humility topos common in medieval correspondence"
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Fortasse cogitatis ut sic peccem ut me peccasse poenitere nolim, ac ideo sine fructu poenitentiae confessio nec veniam debeat quaerere, nec remissionem aliquam exigere. Ad haec respondebo quia, si benignitatem vestram in hac conventione offendero, ultra quam credere possitis, me vos convenisse dolebo: ac ideo dolenti et poenitenti, simulque se peccasse fatenti, et deinceps ab ejusmodi peccato se abstinere volenti veniam concedendam esse censebo, ab eo maxime qui vicem illius tenet, cui dictum est: «Non dico tibi usque septies, sed usque septuagies septies (Matth. XVIII, 22).»",
+      "english": "Perhaps you think that I sin in such a way that I do not wish to repent of having sinned, and therefore my confession, being without the fruit of repentance, should neither seek pardon nor demand any remission. To this I will respond that if I offend your kindness in this approach, I will regret having approached you more than you could believe. And therefore I judge that pardon ought to be granted to one who grieves and repents, who confesses his sin, and who wishes to abstain from such offense in the future—especially by one who holds the place of him to whom it was said, as recorded in the Gospel of Matthew, chapter eighteen, verse twenty-two: I do not say to you seven times, but seventy times seven.",
+      "notes": "Biblical quotation linking papal authority to Christ's teaching on forgiveness"
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Si autem non offendero, sed id quaesiero quod cum benevolentia vestra adeptus fuero, utpote quia in adeptione mea et mihi et multis prodesse gaudebo, quaestiones, quas jam auctoritati vestrae transmisi, quia non resolvuntur, me in eis aut vos offendisse timeo, aut pro dilatione solutionis aliquid grande futurum spero.",
+      "english": "But if I do not offend, and if I seek what I will obtain through your goodwill—since in obtaining it I will rejoice to benefit both myself and many others—then regarding the questions I have already sent to your authority, since they have not been answered, I either fear that I have offended you with them, or I hope that something great will come from the delay in their solution.",
+      "notes": "Refers to previous correspondence that apparently went unanswered"
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed non aliud quoddam proponam, ut aut ex hoc, quod timeo, magis doleam, et doloris magnitudo vos flectat ad veniam: aut ex hoc, quod spero, magis gaudeam, et gaudii mei plenitudo remunerationem vobis imploret futuram.",
+      "english": "But I will not propose yet another question, so that either from what I fear I might grieve more, and the magnitude of my grief might move you to pardon, or from what I hope I might rejoice more, and the fullness of my joy might implore future reward for you.",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et hoc quidem quod nunc proponere volo, quibus rationibus discuti et ad intellectum usque deduci possit, videor videre; sed ad determinandum diligentiam vestram exspecto, ut tanti viri auctoritas praeceptionis meae fiat aut correctio aut integritas.",
+      "english": "And indeed, regarding what I now wish to propose, I seem to see by what reasoning it can be analyzed and brought to understanding. But I await your careful attention to settle the matter definitively, so that the authority of so great a man may either correct or confirm my understanding.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quid ergo sit, quibusque imaginationibus circa illud et delusus habear et certus tenear, jam nunc aperiam, ut, vulnere aperto haesitationis, a vobis praesto sit medicamentum certitudinis.",
+      "english": "What the problem is, then, and by what thought processes I am both misled and held to certainty concerning it, I will now reveal, so that once the wound of hesitation is opened, the medicine of certainty may be ready from you.",
+      "notes": "Medical metaphor common in medieval rhetoric"
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 1",
+      "latin": "&#0167; I.",
+      "english": "Section 1",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Macrobius super Somnium Scipionis, ubi loquitur de magnitudine coeli, terrae, solis et lunae, eorumque rotunda globositate, compertum esse ait apud geometras peritissimos, ut in duobus circulis, si diametrum unius duplum sit diametro alterius, ejus circuli crassitudo, cujus diametrum duplum sit, octupla sit crassitudini illius circuli cujus subduplum est diametrum.",
+      "english": "Macrobius, in his commentary on the Dream of Scipio, where he speaks about the size of the heavens, earth, sun, and moon, and their spherical roundness, says that it has been discovered by the most expert geometers that with two circles, if the diameter of one is double the diameter of the other, the volume of the circle whose diameter is double is eight times the volume of the circle whose diameter is half.",
+      "notes": "Refers to Macrobius's 5th-century commentary on Cicero's work. Crassitudo here means volume or solidity of a sphere."
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "De diametro circulum, de circulo diametrum, de diametro et circulo aream invenire, ac ideo diametrum ad diametrum, et circulum ad circulum, et aream ad aream comparare illis facile est qui de talibus consueverunt curare.",
+      "english": "To find the circumference from the diameter, the diameter from the circumference, and the area from the diameter and circumference, and therefore to compare diameter to diameter, circumference to circumference, and area to area—this is easy for those who are accustomed to dealing with such matters.",
+      "notes": "Circulum here means circumference rather than circle as an object"
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Crassitudinem autem ad crassitudinem quomodo potest comparare, qui necdum quid sit crassitudo percepit? Duarum enim rerum notitiam earumdem comparatio non praecedit, sed subsequitur. Unde fit ut crassitudinem aliquam crassitudini alterius octuplam esse comprehendere nequeat, qui nescit unde cujusque circuli crassitudo concrescat.",
+      "english": "But how can someone compare volume to volume who has not yet grasped what volume is? For the comparison of two things does not precede knowledge of them, but follows it. Hence it happens that one cannot understand that one volume is eight times another volume if one does not know how the volume of each sphere is calculated.",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quid autem jam inde mihi percepissem, aperiam, non, ut aiunt, Minervam litteras, sed ut monstrem quid sentiam; quatenus, si erro, ad viam a sagacitate vestra reducar: si viam titubans teneo, auctoritati vestri assensus innitar. Sed ut ad id quod volo perveniam, ab his quae pluribus nota sunt incipiam.",
+      "english": "What I have already understood from this I will reveal—not, as they say, teaching Minerva her letters, but to show what I think, so that if I err, I may be led back to the path by your wisdom, or if I hold the path though stumbling, I may be supported by reliance on your authority. But to reach what I aim for, I will begin with things that are known to many.",
+      "notes": "Proverbial expression: teaching Minerva (goddess of wisdom) is like teaching an expert"
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 2",
+      "latin": "&#0167; II.",
+      "english": "Section 2",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Diametrum 7 pedum mihi facio. Ex hoc circulum sic quaero. Triplico illud, et ejus septimam triplicationi illi superaddo, et sic circulum in viginti duos pedes habeo.",
+      "english": "I take a diameter of seven feet. From this I find the circumference as follows: I triple it, and add one seventh of that tripled amount to it, and thus I have a circumference of twenty-two feet.",
+      "notes": "Uses the approximation π ≈ 22/7, giving circumference = 7 × 3 + 7 × 3/7 = 22"
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Medietate autem diametri, quod est 3 et semis, et medietate circuli, quae est 11, invicem multiplicatis, venit mihi area ejusdem circuli 38 pedes et semis.",
+      "english": "Now when I multiply half the diameter, which is three and one half, by half the circumference, which is eleven, I get an area of thirty-eight and one half square feet for this same circle.",
+      "notes": "Area = (7/2) × (22/2) = 3.5 × 11 = 38.5 square feet"
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ecce diametrum, ecce circulum, ecce aream habeo! Sed ut crassitudinem inveniam, diametrum idem cubico, et cubum mihi ejusmodi facio, qui globositatem sphaerae lateribus contingat, angulis autem et lineis ab angulo in angulum procedentibus excedat.",
+      "english": "So now I have the diameter, I have the circumference, I have the area! But to find the volume, I cube this same diameter, and I construct a cube of such a kind that it touches the roundness of the sphere on its faces, but exceeds it at the corners and along the lines running from corner to corner.",
+      "notes": "Describes a sphere inscribed in a cube"
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ab hujusmodi cubo crassitudinem illam, quae a globositate usque ad angulos et lineas procedit, necesse est recidere, ut hac recisa solius sphaerae soliditas remaneat.",
+      "english": "From such a cube it is necessary to cut away that volume which extends from the spherical surface to the corners and lines, so that when this is cut away, only the solid volume of the sphere remains.",
+      "notes": null
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hanc recisionem hoc modo facio. Summam totius cubi per vicesimas primas divido. Hinc tollo vicesimam primam partem de cubo, quae est 16: multiplico decies, et habeo recisiones cubi. Postea undecies, et habeo globositatem sphaerae, id est, ex his vigesimis primis excisionibus cubi deputo 10; reliquas crassitudini [cod. Petr. crassitudines] sphaerae relinquo.",
+      "english": "I make this reduction in the following way. I divide the total of the whole cube into twenty-first parts. From this I take one twenty-first part of the cube, which is sixteen: I multiply it by ten, and I have the portions cut away from the cube. Then by eleven, and I have the volume of the sphere. That is, from these twenty-first parts I assign ten to the excised portions of the cube; the remaining ones I leave to the volume of the sphere.",
+      "notes": "Proposes the formula: sphere volume = (11/21) × cube volume. For cube of 343, one twenty-first is 343/21 ≈ 16.33"
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quod idem esset, si totius cubi summam undecies ducerem, et ex illa concretione unam vicesimam primam subducerem [Petr. ducerem]. Haec enim vicesima prima tanta est [Tegern. esset], quantae illae 11 quae vicesimae primae ex simplici cubo tollebantur.",
+      "english": "This would be the same if I multiplied the total of the whole cube by eleven, and from that product subtracted one twenty-first. For this twenty-first part is as large as those eleven twenty-first parts that were taken from the simple cube.",
+      "notes": "Alternative calculation method: (11 × cube) - (1/21) of that product = sphere volume"
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 3",
+      "latin": "&#0167; III.",
+      "english": "Section 3",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ut lucidius fiat quod dicimus, certis numeris crassitudines duas assignabimus, ut assignatas invicem comparare possimus: non ut haec aut veriora sint, aut vos ignorare credamus, sed ut, viis nostris vestrae diligentiae monstratis a vobis deinceps ducti errare nesciamus.",
+      "english": "To make what we are saying clearer, we will assign definite numbers to two volumes so that we can compare the assigned values to each other—not because these are more accurate, or because we believe you are ignorant of them, but so that having shown our methods to your careful attention, we may henceforth be guided by you and not go astray.",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Circuli, cujus diametrum est 7 pedum, crassitudinem sic quaero. Cubico diametrum, et dico: septies septem fiunt 49. Rursus septies 49 fiunt 343. Ecce cubus ejus quadrati, cujus unumquodque latus 7 sit pedum, et hic cubus globositatem sphaerae ex toto concludit.",
+      "english": "For a circle whose diameter is seven feet, I find the volume as follows. I cube the diameter and say: seven times seven makes forty-nine. Again, seven times forty-nine makes three hundred forty-three. Behold the cube of that square whose each side is seven feet, and this cube completely encloses the spherical volume.",
+      "notes": "7³ = 343 cubic feet for the circumscribing cube"
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ut autem supercedentia recidantur, sic facio. Tollo vigesimam primam ex 343 quae est 16 et SS. Hanc si decies duco, habeo 163 et SS, excessiones scilicet cubi. Si undecies, habeo 179 et SS, sphaerae scilicet crassitudinem.",
+      "english": "But to cut away the excess portions, I do this: I take one twenty-first of three hundred forty-three, which is sixteen and two thirds. If I multiply this by ten, I have one hundred sixty-three and one third, namely the excess portions of the cube. If by eleven, I have one hundred seventy-nine and two thirds, namely the volume of the sphere.",
+      "notes": "343/21 = 16.333...; 10 × 16.333 = 163.333 (waste); 11 × 16.333 = 179.666 (sphere volume)"
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ut manifestius fiat quod dicimus, cum quadrato circulum subpingamus [Tegern. subpingimus], ut visa in planitie facilius intelligantur [Petr. intelligatur] in crassitudine.",
+      "english": "To make what we are saying more evident, let us draw a circle within a square, so that what is seen in the plane may be more easily understood in three dimensions.",
+      "notes": "References a diagram that would have been in the original manuscript"
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ecce in hac sphaera diametrum est 7 pedum, circulus 22, area 38 et semis, soliditas 179 et SS.",
+      "english": "Behold, in this sphere the diameter is seven feet, the circumference twenty-two, the area thirty-eight and one half, and the volume one hundred seventy-nine and two thirds.",
+      "notes": "Summary of calculated values for the example sphere"
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Non est autem mirandum si cubus in excessionibus suis fere medietatem crassitudinis obtineat, cum hic quadratus in planitie in supergressionibus suis vix [Petr. nec tert.] tertiam partem retineat.",
+      "english": "Now it is not surprising if the cube obtains nearly half of its volume in its excess portions, since this square in the plane retains scarcely a third in its projecting portions.",
+      "notes": "Compares 2D to 3D ratios: waste in square vs. waste in cube"
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hic quippe in quadratura cum unumquodque latus 7 sit pedum, secundum laterum dimensionem [Tegern. divisionem], aream 49 habebit. Cumque circulus ex his sibi 38 et acceperit, quadratura suis excisuris non nisi 10 et S retinebit.",
+      "english": "For in this square, when each side is seven feet, it will have an area of forty-nine according to the measurement of the sides. And when the circle has taken thirty-eight and one half of these for itself, the square will retain only ten and one half in its cut-away corners.",
+      "notes": "49 - 38.5 = 10.5 square feet in the four corners outside the inscribed circle"
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 4",
+      "latin": "&#0167; IV.",
+      "english": "Section 4",
+      "notes": null
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quare autem mihi ita esse videatur, si vobis non sit fastidiosum audire, mihi non erit onerosum dicere.",
+      "english": "Why this seems to me to be so, if it is not tedious for you to hear, will not be burdensome for me to say.",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hic namque id est: quadratus, si septies in altum tollatur, 343 pedes reddit, excessiones scilicet suas et aream circuli secum in altum deducens [Petr. ducens]. Septies enim 10 et semis, id est excessiones, fiunt 73 et semis; et septies 38 et semis, id est area circuli, fiunt 269 et semis. Sed 73 et semis, et 269 et semis, reddunt 343.",
+      "english": "For here is what happens: if the square is raised upward seven times in height, it yields three hundred forty-three cubic feet, carrying upward with it both its excess portions and the area of the circle. For seven times ten and one half, that is the excess portions, makes seventy-three and one half; and seven times thirty-eight and one half, that is the area of the circle, makes two hundred sixty-nine and one half. But seventy-three and one half and two hundred sixty-nine and one half make three hundred forty-three.",
+      "notes": "Explains extrusion: (10.5 × 7) + (38.5 × 7) = 73.5 + 269.5 = 343"
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quare quadratum in altum tollere nihil est aliud nisi excessiones suas et circuli aream secum deducere.",
+      "english": "Therefore, raising the square upward is nothing other than carrying along with it its excess portions and the area of the circle.",
+      "notes": "Conceptual explanation of how a prism is formed"
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ab illo igitur cubo, qui ex area 49 pedum consurrexerat, si quis septies 10 et S., id est 73 et S. reciderit, nondum sphaericam globositatem expolivit, sed secundum formam modii ab aequali area in aequalem aream deductam constituit, in pedes scilicet 269 et S.",
+      "english": "Therefore from that cube which had risen from an area of forty-nine square feet, if someone cuts away seven times ten and one half, that is seventy-three and one half, he has not yet achieved spherical roundness, but has established something shaped like a bushel measure, carried from equal circular area to equal circular area, namely into two hundred sixty-nine and one half cubic feet.",
+      "notes": "Modius = cylindrical grain measure; describes a cylinder of height 7 and circular cross-section"
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ex hac autem forma non medietatem, ne in modum trochi ex utraque parte acueretur, sed tertiam partem, quae est 89 et SSS, tollere debemus, ut sphaeram expoliamus.",
+      "english": "But from this cylinder we should remove not half, lest it be sharpened on both sides like a spinning top, but one third, which is eighty-nine and three ninths, in order to shape the sphere.",
+      "notes": "269.5 ÷ 3 ≈ 89.833; recognizes that tapering from cylinder to sphere requires removing less than half"
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed haec tertia non tamen omnino rotundae formae, id est [cod. Petr. Sed haec t. rotundae formae non tamem de numero id est, etc.] 89 et SSS et 7 excessiones, id est 73 et S., idem reddunt quod 10 vicesimae primae, quae ob hoc integro cubo tollebantur, ut sphaera undique rotundaretur; et hae decem vigesimae primae ad medietatem cubi fere pervenirent, nisi quadragesima secunda ejusdem cubi impediret [Tegern. impedirentur].",
+      "english": "But this third part, together with the corner excess portions, though not yet completely spherical in form—that is, eighty-nine and three ninths plus the seven corner excesses, that is seventy-three and one half—yields the same as the ten twenty-first parts which were removed from the whole cube in order to round the sphere on all sides. And these ten twenty-first parts would nearly reach half of the cube, except that one forty-second part of the same cube prevents it.",
+      "notes": "89.833 + 73.5 = 163.333; this equals 10/21 of 343; notes this is slightly less than half (171.5)"
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 5",
+      "latin": "&#0167; V.",
+      "english": "Section 5",
+      "notes": null
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Jam facile est videre, cum quadratus nec tertia [Petr. nec in tertia] sui circulum devincat, quare cubus fere sui medietate sphaerae globositatem supervadat.",
+      "english": "Now it is easy to see, since the square does not surpass the circle by even a third of itself, why the cube exceeds the spherical volume by nearly half of itself.",
+      "notes": "Concluding observation about the dimensional scaling from 2D to 3D"
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed haec forma modii, quae recisis undique lateribus cubi rotundatur, quamvis ad plenum non possit, aliquatenus tamen subscribatur, ut quod inertia linguae occultat, veritas picturae aperiat",
+      "english": "But this cylinder-shaped form, which is rounded by cutting away the sides of the cube on all sides, although it cannot be fully represented, let it nevertheless be illustrated to some degree, so that what the inadequacy of words conceals, the truth of a drawing may reveal.",
+      "notes": "Text ends with promise of diagram; manuscript likely contained geometric illustrations"
+    }
+  ]
+}
