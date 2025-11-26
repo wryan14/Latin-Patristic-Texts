@@ -7,13 +7,12 @@
     "source": "Patrologia Latina, from manuscripts of Tegernsee and Saint Peter's Salzburg monasteries, edited by Alphonsus Hueber",
     "translator": "claude-sonnet-4.5",
     "translation_date": "2025-06-14T00:00:00Z",
-    "total_chunks": 22,
-    "estimated_duration_minutes": 18,
+    "total_chunks": 54,
+    "estimated_duration_minutes": 14,
     "known_issues": [
       "Manuscript contains geometric diagrams that cannot be rendered in audio format",
       "Mathematical terminology may require additional context for non-specialist listeners",
-      "Some textual variants between Tegernsee and Saint Peter's manuscripts noted in original",
-      "Final section references a diagram with the phrase 'let it be illustrated' but no complete visual description follows"
+      "Some textual variants between Tegernsee and Saint Peter's manuscripts noted in original"
     ]
   },
   "chunks": [
@@ -384,7 +383,124 @@
       "chapter_title": null,
       "latin": "Sed haec forma modii, quae recisis undique lateribus cubi rotundatur, quamvis ad plenum non possit, aliquatenus tamen subscribatur, ut quod inertia linguae occultat, veritas picturae aperiat",
       "english": "But this cylinder-shaped form, which is rounded by cutting away the sides of the cube on all sides, although it cannot be fully represented, let it nevertheless be illustrated to some degree, so that what the inadequacy of words conceals, the truth of a drawing may reveal.",
-      "notes": "Text ends with promise of diagram; manuscript likely contained geometric illustrations"
+      "notes": "References a diagram that would have been in the original manuscript"
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ecce videri potest quantum post recisionem acuminum de cubo recidendum sit de medio ut pura globositas sphaerae remaneat.",
+      "english": "Behold, it can be seen how much must be cut away from the middle of the cube after the removal of the pointed corners, so that the pure spherical volume may remain.",
+      "notes": "References visual diagram showing the shaping process"
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ecce satis dictum esse videtur quomodo ex diametro 7 pedum crassitudo sphaerae concrescat. Jam nunc aliam statuamus, quae ex duplo diametro proveniat.",
+      "english": "Behold, enough seems to have been said about how the volume of a sphere is calculated from a diameter of seven feet. Now let us establish another, which comes from double the diameter.",
+      "notes": "Transition to the second example that will demonstrate the 8:1 ratio"
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sit 14 diametrum. Hoc cubico: quaterdecies 14 quaterdecies fiunt 2744. Hic est cubus sphaeram concludens.",
+      "english": "Let the diameter be fourteen. I cube this: fourteen times fourteen times fourteen makes two thousand seven hundred forty-four. This is the cube enclosing the sphere.",
+      "notes": "14³ = 2744 cubic feet for the larger circumscribing cube"
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hujus si vigesimam primam partem accepero, quae est 130 et SS, et eam decies duxero, venient mihi 1306 et SS; et hic cubus sphaeram excedit. Si autem undecies, fiunt 1437 et SS; et haec est crassitudo sphaerae.",
+      "english": "If I take one twenty-first part of this, which is one hundred thirty and two thirds, and multiply it by ten, I get one thousand three hundred six and two thirds; and by this amount the cube exceeds the sphere. But if by eleven, it makes one thousand four hundred thirty-seven and two thirds; and this is the volume of the sphere.",
+      "notes": "2744/21 ≈ 130.67; 10 × 130.67 = 1306.67 (waste); 11 × 130.67 = 1437.33 (sphere volume)"
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quam si quis eisdem rationibus velit informare quibus superiorem informavimus, scilicet ut eam de cubo in formam modii, de modii forma in suam globositatem velit deducere, non tantum istam, sed et omnes, de quocunque diametro processerint, simili modo rotundare poterit.",
+      "english": "If anyone wishes to shape this sphere by the same reasoning by which we shaped the previous one—that is, to derive it from the cube into the form of a cylinder, and from the cylindrical form into its spherical shape—he will be able to round not only this one, but all spheres, from whatever diameter they may proceed, in a similar manner.",
+      "notes": "States the general applicability of the method to any diameter"
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed uterque circulus depingatur, et is qui 7, et is qui 14 habet pedes in diametro, ut numerus cuique suae soliditatis ascriptus demonstret quantum minor a majore vincatur.",
+      "english": "But let both circles be drawn, both the one which has seven feet in diameter and the one which has fourteen, so that the number of each one's volume written beside it may demonstrate how much the smaller is exceeded by the larger.",
+      "notes": "References comparative diagram of the two spheres"
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Diameter et circulus sphaerae majoris diametro et circulo minoris dupla proportione junguntur; area vero areae quadrupla; crassitudo autem crassitudini octupla.",
+      "english": "The diameter and circumference of the larger sphere are joined to the diameter and circumference of the smaller in a double proportion; the area to the area in a quadruple proportion; but the volume to the volume in an eightfold proportion.",
+      "notes": "Key result: when diameter doubles, circumference doubles (2:1), area quadruples (4:1), volume octuples (8:1)"
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Bis enim 7 et bis 22, quod est diameter et circulus minoris, fiunt 14. Et 14, qui est diameter et circulus majoris, et quater 38 et S. quod est area minoris, fiunt 154, quod est area majoris; et octies 179 et SS quod est soliditas minoris, reddunt 1437 et SS, quod est soliditas majoris.",
+      "english": "For twice seven and twice twenty-two, which are the diameter and circumference of the smaller, make fourteen. And fourteen is the diameter and circumference of the larger. And four times thirty-eight and one half, which is the area of the smaller, makes one hundred fifty-four, which is the area of the larger. And eight times one hundred seventy-nine and two thirds, which is the volume of the smaller, yields one thousand four hundred thirty-seven and two thirds, which is the volume of the larger.",
+      "notes": "Numerical verification: 2×7=14, 2×22=44 (should be 44 for circumference), 4×38.5=154, 8×179.67=1437.33"
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Section 6",
+      "latin": "§ VI.",
+      "english": "Section 6",
+      "notes": null
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Jam nunc quidem nihil dubitarem quin haec esset ratio sphaericam crassitudinem inveniendi, si proprium esset sphaericae tantum crassitudinis, ut, si duplicitas in diametro constaret, octuplicitas in soliditate reperiretur.",
+      "english": "Now indeed I would have no doubt that this is the method for finding the volume of a sphere, if it were unique to spherical volume alone that when the diameter is doubled, an eightfold increase is found in the volume.",
+      "notes": "Adelbold raises a doubt about the uniqueness of the 8:1 ratio"
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed hanc eamdem causam et rationem in omnibus cubis invenio. Si enim ex binario unum fecero cubum, et quaternario alterum, quia quaternarius duplus est binarius, cubus quaternarii octuplus erit cubo binarii, etiam areae binarii quadrupla erit area quaternarii.",
+      "english": "But I find this same cause and reasoning in all cubes. For if I make one cube from two and another from four, because four is double two, the cube of four will be eight times the cube of two, and likewise the area of four will be quadruple the area of two.",
+      "notes": "Observes that 4³ = 64 = 8 × 8 = 8 × 2³; the 8:1 ratio applies to cubes too"
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et non tantum in cubis, sed etiam invenitur idem in puteorum profunditatibus.",
+      "english": "And not only in cubes, but the same is found also in the depths of wells.",
+      "notes": "Extends observation to cylindrical volumes (wells)"
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In his omnibus, si erro, oro ut ad viam veritatis reducar. Si viam teneo, nihilominus peto ut via quae me dubitantem tenet in tenebris, vestri assensus auctoritate illustrata reluceat.",
+      "english": "In all these matters, if I err, I pray that I may be led back to the path of truth. If I hold the path, I nonetheless ask that the way which holds me doubting in darkness may shine forth, illuminated by the authority of your assent.",
+      "notes": "Formal closing: humble request for Pope Sylvester's guidance and confirmation"
     }
   ]
 }
