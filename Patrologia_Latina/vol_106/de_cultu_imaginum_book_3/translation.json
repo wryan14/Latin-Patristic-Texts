@@ -1,0 +1,1285 @@
+{
+  "metadata": {
+    "volume_id": "UNKNOWN",
+    "title": "Book Three Against Claudius on the Veneration of Relics",
+    "author": "Unknown",
+    "century": "9th or 10th century",
+    "source": "Unknown Latin manuscript",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-09T00:00:00Z",
+    "total_chunks": 157,
+    "estimated_duration_minutes": 53,
+    "known_issues": [
+      "The reference to Matthew chapter 24 in chunk 146 should be Matthew 23:2-3 based on the quotation about the scribes and Pharisees",
+      "The reference to Romans chapter 11 in chunk 155 should be Romans 14:4 based on the context about not judging another's servant",
+      "The opponent 'Claudius' may be Claudius of Turin (d. 827), known iconoclast, but this is not certain",
+      "The conclusion indicates this is the end of the work, confirming this is the final chunk of Book Three",
+      "The Latin text contains 'Ebr. XI' which has been expanded to 'Paul's letter to the Hebrews' though authorship of Hebrews was debated even in the patristic period",
+      "Greek transliterations provided where original likely contained Greek script",
+      "Classical allusions in chunk 101 (Mercury, Nocturnius, Liber Pater) may be difficult for modern audiences unfamiliar with Roman mythology",
+      "Exact dating uncertain - appears to be Carolingian or post-Carolingian period based on style and references",
+      "Author identity uncertain",
+      "Some biblical citations may need verification against modern critical editions"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Preface to Book Three",
+      "latin": "LIBRI TERTII PRAEFATIO.",
+      "english": "Preface to Book Three",
+      "notes": "Standard chapter heading marking the beginning of the third book"
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In duobus qui hunc praecedunt exactis libellis, non ex asse, tuis, o Claudi, refragatum est absurdissimis et inhonestissimis propositionibus.",
+      "english": "In the two books that precede this one, I have not exhaustively refuted all your most absurd and shameful propositions, Claudius.",
+      "notes": null
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Attamen ad ea refellenda et improbanda quae aeque ut venerandam crucem adoranda praedicare non erubuisti, satis abundeque, quantum Deus annuit, ut reor, stylo obviationis nostrae prosecutum est.",
+      "english": "Nevertheless, to refute and disprove what you were not ashamed to preach should be adored equally with the venerable cross, enough and more than enough has been pursued by the pen of our opposition, as much as God has granted, I believe.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "rimanda, et ad liquidum sano sobrioque intellectu discutienda, ac telis sanctarum Scripturarum et paginis eximiorum doctorum perimenda, quae immemor reverentiae sacerdotalis fraternaeque dilectionis existens, adversus jam saepe memoratum venerabilem virum Theodemirum abbatem, te, imperante charitate, monentem, et a superstitionibus tuis, quibus inutiliter inserviebas et miserabiliter irretiebaris, revocare volentem, absque ullo discretionis et moderationis obstaculo, et, ut verius dicam, impudentissimo ore specialiter eructasti.",
+      "english": "Now we must thoroughly examine with sound and sober understanding, and destroy with the weapons of Holy Scripture and the pages of distinguished doctors, those things which you, forgetful of priestly reverence and brotherly love, specifically belched forth with most shameless mouth against the often-mentioned venerable man Abbot Theodemirus, who was warning you at charity's command and wanting to call you back from your superstitions, in which you were uselessly serving and miserably ensnared, without any obstacle of discretion or moderation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si igitur tot tantisque nugarum tuarum naeniis quae supradicto continentur excerpto, non nisi tribus libellis, propter enormitatem inconcinnarum et vitiosarum dictionum tuarum resultatum est, quantae putas prolixitatis, quantae magnitudinis libri necessario congerendi et exarandi erunt, cum integer totius hujusce inepti et exsecrabilis operis tui codex, quem contra auctoritatem et simplicitatem ecclesiasticae disciplinae digessisti, et jam fato venerabili viro Theodemiro abbati misisti, in manus peritorum virorum devenerit?",
+      "english": "If therefore we have had to respond with no fewer than three books to the many and great nonsensical ditties of yours contained in the above-mentioned excerpt, because of the enormity of your discordant and faulty expressions, how much length and how much magnitude of books will necessarily have to be compiled and written when the complete codex of this entire foolish and execrable work of yours, which you arranged against the authority and simplicity of ecclesiastical discipline and have already sent to the venerable man Abbot Theodemirus, comes into the hands of expert men?",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicut enim ea testantur, et cernentibus atque legentibus fidem attribuunt, quae a te in eodem excerpto scripta leguntur multo sceleratiora et detestabiliora in eodem perversissimo codice tuo reperientur, quae adversus sanctam matrem et altricem nostram catholicam apostolicam Ecclesiam vituperationis et insultationis gratia scriptitasti.",
+      "english": "For just as those things written by you in that same excerpt bear witness and grant credibility to those who see and read them, much more wicked and detestable things will be found in that same most perverse codex of yours, which you have written for the sake of abuse and insult against the holy mother and nurse of us all, the Catholic and Apostolic Church.",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quapropter necesse est ut si adhuc in tenebris involutus delitescit, in lucem proferatur, ut videatur, legatur, exametur, et quidquid erroris et blasphemiae contra nos a te jaculatum continet, sciatur, eique ecclesiasticis accusenibus juste rationabiliterque refragetur.",
+      "english": "Therefore it is necessary that if it still lies hidden wrapped in darkness, it be brought into the light, so that it may be seen, read, examined, and whatever error and blasphemy hurled by you against us it contains may be known, and may be justly and reasonably opposed with ecclesiastical condemnation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quoniam nisi moderno tempore, maturoque quaesitu inventus et in medium prolatus, solertique studio examinatus et repudiatus, ignique traditus fuerit, verendum est ne si futuris temporibus ad notitiam simplicium fratrum delatus fuerit, textus illius exitiabilis ab eis lectus atque praecognitus, mortifero sui erroris morbo eos contaminato sauciosque efficiat, et pestiferam perniciem animabus eorum flebiliter infundat.",
+      "english": "For unless it is found in our present time through careful search and brought into the open, examined with diligent study and rejected, and handed over to the fire, it is to be feared that if in future times it is brought to the knowledge of simple brothers, that destructive text, read and learned by them, may contaminate and wound them with the deadly disease of its error, and lamentably pour pestilential destruction into their souls.",
+      "notes": null
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Claudius's Attack on Pilgrimage to Rome",
+      "latin": "Ecce jam tempus instat et ordo rei de qua agitur exposcit ut tandem veniamus ad ea quae specialiter memorato Theodemiro venerabili abbati, o Claudi, objecisti, et per eum eadem in nos callide retorquenda praeparasti, quia dum missili tuo alium te ferire simulasti, eodem nos aperte fraudulenterque lanceare voluisti",
+      "english": "Chapter 1: Claudius's Attack on Pilgrimage to Rome",
+      "notes": "Beginning of the main argument section"
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce jam tempus instat et ordo rei de qua agitur exposcit ut tandem veniamus ad ea quae specialiter memorato Theodemiro venerabili abbati, o Claudi, objecisti, et per eum eadem in nos callide retorquenda praeparasti, quia dum missili tuo alium te ferire simulasti, eodem nos aperte fraudulenterque lanceare voluisti:",
+      "english": "Now the time presses and the order of the matter at hand demands that we finally come to those things which you, Claudius, specifically objected against the aforementioned venerable Abbot Theodemirus, and through him you cleverly prepared to twist the same things against us, because while you pretended to strike another with your missile, you openly and fraudulently wanted to pierce us with the same weapon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "nam et cum multis aliis insani dogmatis tui naeniis nos inficere tentaveris, adeo te etiam inimicum adversariumque sanctae Dei Ecclesiae constituisti, ut divini cultus honorem, quem religiosi tenemus et veneramur, annullare, et sanctorum Dei intercessionem penitus et parvipendendam inverecunda fronte praesumeres dogmatizare.",
+      "english": "For with many other nonsensical songs of your insane doctrine you have tried to infect us, and you have so constituted yourself an enemy and adversary of the holy Church of God that you presumed with shameless face to teach as dogma that the honor of divine worship, which we religious hold and venerate, should be annulled, and that the intercession of God's saints should be completely disregarded.",
+      "notes": null
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Proinde scriptis tuis sensim legendo peragratis et animadversis, contra singula tua falso objecta, et pro nobis, et pro eodem venerabili abbate, imo pro defensione sanctae matris Ecclesiae nostrae catholicae, incongrua veritateque referta responsa, et lima sancti Spiritus arma apostolica exacuta, in hoc libello contra ponenda statuimus.",
+      "english": "Therefore, having carefully read through and considered your writings, we have determined to set forth in this little book, against your individual false objections, responses filled with truth on behalf of ourselves and on behalf of that same venerable abbot, indeed for the defense of the holy mother our Catholic Church, with apostolic weapons sharpened by the file of the Holy Spirit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Processus sane prosecutionis tuae qua te totum in jam dictum venerabilem abbatem Theodemirum effreniter ac praecipitanter invehis, ita se habet:",
+      "english": "Now the course of your prosecution, in which you hurl yourself wholly and unbridledly and rashly against the already mentioned venerable Abbot Theodemirus, proceeds as follows:",
+      "notes": "Beginning of quotation from Claudius"
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Quod vero ais quod ego prohibeam homines poenitentiae causa pergere Romam, falsum tu loqueris.",
+      "english": "You quote him as saying: 'What you claim, that I forbid people to go to Rome for the sake of penance, is a lie on your part.'",
+      "notes": "Direct quote from Claudius"
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Valde, nec tamen scio si digne, ammiratore, adeo te mente captum, aut certe ita hebetasse tibi mentem oblivione, ut haec praemittens nequaquam in praecedentibus eorum memineris.",
+      "english": "I am greatly astonished, though I do not know if worthily, that you are so captured in mind, or certainly that you have so dulled your mind with forgetfulness, that in putting forward these things you in no way remember them in what came before.",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inveniris namque in posterioribus tuis dictis, non modo iter illud, quantum in te fuit, prohibuisse, sed etiam Romam pergentes, et per illud iter apostolicam intercessionem quaerentes, ruptis moderationis habenis, toto suffusus felle, in eorum contumeliam debacchasse, insipientiaeque atque stultitiae notam eis impegisse.",
+      "english": "For you are found in your later statements not only to have forbidden that journey, as much as was in you, but also, with the reins of moderation broken and completely suffused with bile, to have raged in insult against those going to Rome and seeking apostolic intercession through that journey, and to have branded them with the mark of foolishness and stupidity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed agit hoc lymphatica et inanis stabilitatisque nescia levitas, quae quod radicitus tanquam arbor sapientiae aquis non irrigatur divinis, veluti pulvis pertenuis, et flatu levitatis raptabilis, quaquaversum visum fuerit incaute inscienterque discurrit.",
+      "english": "But this is the work of frenzied and empty fickleness ignorant of stability, which because it is not rooted and irrigated with divine waters like a tree of wisdom, rushes carelessly and ignorantly in whatever direction seems good, like very fine dust that can be snatched away by a breath of lightness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde et notam falsitatis, quam fratri tuo invehere conaris, ex verbis tuis incurrisse convinceris, et eumdem venerabilem virum effugisse, quantum ad praesentem rationem attinet, testaris.",
+      "english": "Hence you are shown to have incurred from your own words the mark of falsehood which you try to cast upon your brother, and you bear witness that the same venerable man has escaped it, as far as the present argument is concerned.",
+      "notes": null
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ipse enim alienus a falsitate exstitit, quia quod tu in dictando detestaris, te prohibuisse dixit: et teipsum falsarium comprobas, quia quod hic prohibuisse te negas, in sequentibus detestando et insultando, quid de hac re sentias, aperte demonstras.",
+      "english": "For he himself proved free from falsehood, because he said you had forbidden what you detest in your statement, and you prove yourself a liar, because what you deny having forbidden here, in what follows, by your detesting and insulting, you openly demonstrate what you think about this matter.",
+      "notes": null
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod autem quasi rationem redditurus subnectis:",
+      "english": "But what you add as if giving a reason:",
+      "notes": null
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Ego enim iter illud non approbo.",
+      "english": "You say: 'For I do not approve that journey.'",
+      "notes": "Quote from Claudius"
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et veluti exponens quare dixeris, deduce:",
+      "english": "And as if explaining why you said this, you lead on:",
+      "notes": null
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Quia scio quod nec omnibus obest, nec omnibus prodest, nec omnibus proficit, nec omnibus officit.",
+      "english": "You continue: 'Because I know that it neither harms everyone, nor benefits everyone, nor profits everyone, nor injures everyone.'",
+      "notes": "Quote from Claudius"
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid his verbis stolidius reperiri possit, non facile invenerim.",
+      "english": "I would not easily find what could be discovered more foolish than these words.",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid enim? Nunquid ea quae media in vitae nostrae actibus dicuntur, id est, quae in bonam malamve partem a sese utentibus inflecti queunt, nequaquam sunt approbanda;",
+      "english": "For what then? Are those things which are called neutral in the actions of our life, that is, which can be turned toward good or evil by those using them, not to be approved at all?",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "nunquidnam, ut multa praeteriens de aliquibus breviter perstringam, abjicienda sunt jejunia, corporisque extenuati abstinentiae, quia aliis quidem gloriam praeparant futuram aeternamque satietatem, dicente judice: Venite, benedicti Patris mei, percipite regnum quod vobis paratum est ab origine mundi; esurivi enim, et dedistis mihi manducare, ecc.",
+      "english": "Are we then to reject fasting and bodily abstinences, to pass over many things and touch briefly on some, because for some they prepare future glory and eternal satisfaction, with the Judge saying, 'Come, blessed of my Father, receive the kingdom prepared for you from the foundation of the world; for I was hungry, and you gave me food,' and so on,",
+      "notes": "Biblical reference to Matthew chapter twenty-five, verses thirty-four through thirty-five"
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "alios autem per inanem ostentationem, et propter aurae popularis appetitum peracta, vacuos mercede detrudant se sectantes in poenam gehennalem, dicente cordis inspectore: Amen, dico vobis, recepistis mercedem vestram.",
+      "english": "but for others, done through empty ostentation and for the sake of popular applause, they thrust those following them into gehenna's punishment empty of reward, with the inspector of hearts saying, 'Truly I say to you, you have received your reward'?",
+      "notes": "Biblical reference to Matthew chapter six, verse two"
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nunquid castitas reprobatur, quae sectatores suos non solum in futura beatitudine angelis coaequabit, sed etiam in mortalibus adhuc corporibus imitationem angelicam videre contendit, dicente Domino., propterea quia multi, cum non appropinquent corporibus mulierum, pudor tamen in eis patiatur naufragium, aut per immundum appetitum, aut certe per jactantiae vitium:",
+      "english": "Is chastity to be rejected, which will not only make its followers equal to the angels in future blessedness, but even in still-mortal bodies strives to show forth angelic imitation, with the Lord saying so, even though many, while they do not approach the bodies of women, still suffer shipwreck of modesty either through unclean desire or certainly through the vice of boastfulness?",
+      "notes": "Reference to Matthew chapter twenty-two, verse thirty on the resurrection"
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "forte eleemosynarum largitio hac occasione annullabitur, de qua Scriptura dicit quod resistat peccatis sicut aqua exstinguitur igni (Eccli. III), quia data pecunia alii ad tenuem sustentandam vitam abutuntur, forsan per ejus liberalitatem ad res obscenas delabuntur:",
+      "english": "Perhaps the giving of alms will be annulled on this account, of which Scripture says that it resists sins as water extinguishes fire, as referenced in the book of Sirach chapter three, because some misuse money given to sustain meager life, perhaps falling into shameful things through its generosity?",
+      "notes": "Biblical reference to Sirach (Ecclesiasticus) chapter three, verse thirty"
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "sed et dantium alii futurum exspectant praemium, alii favorem, pro his requirentes humanum fructum, non requirunt divinum.",
+      "english": "But also among those giving, some expect future reward, others seek favor, and in seeking human fruit for these things, they do not seek the divine.",
+      "notes": null
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Satius itaque erat te hoc opus ex mentis pensasse judicio: et sicut alia media bona, ita et hoc quoque, aut cordis devotione judicasse utile, vel certe ob indevotionem minus profuturum sanxisse.",
+      "english": "It would therefore have been better for you to have weighed this work with the judgment of your mind, and just as with other neutral goods, so also this one, either to have judged it useful through devotion of heart, or certainly to have determined it less profitable on account of lack of devotion.",
+      "notes": null
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim cuilibet proficit, alii autem officit, non istud ex natura procedit operis, sed ex qualitate operantis, qui hoc quod sibi profuturum erat in ramis operis, laesit in radicetentionis, et quia non habuit purum oculum intentis, ideo totum corpus tenebras perpessum est operationis.",
+      "english": "For if it profits someone but harms another, this does not proceed from the nature of the work but from the quality of the one working, who injured in the root of intention what would have profited him in the branches of the work, and because he did not have a pure eye of intention, therefore the whole body of action has suffered darkness.",
+      "notes": "Reference to Matthew chapter six, verse twenty-two on the eye as lamp of the body"
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Novimus certe quosdam id studii habuisse ut sanctorum limina adirent apostolorum, et eorum intercessionem humiliter quaererent, ac non modo a sanctis viris laudatos esse, sed ut ab hac intende non desinerent admonitos divinitus fuisse,",
+      "english": "We certainly know that some have made it their practice to visit the thresholds of the holy apostles and humbly seek their intercession, and not only were they praised by holy men, but they were divinely warned not to cease from this intention,",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "sicut de quodam scribit beato Gregorius in libro Dialogorum, qui cum id haberet studii inter caetera bonorum actuum exercitia, ut singulis annis reliquias apostolorum adiret, admonitus est ut ageret quod agebat, manus et pes ejus nequaquam cessaret, et natali apostolorum, quorum erat assiduus visitatore, meritorum suorum mercedem recepturus esset.",
+      "english": "as blessed Gregory writes in his book of Dialogues about a certain man who, when he had this practice among other exercises of good actions, that he would visit the relics of the apostles every year, was warned to do what he was doing, that his hand and foot should by no means cease, and on the feast day of the apostles, whose constant visitor he was, he would receive the reward of his merits.",
+      "notes": "Reference to Pope Gregory the Great's Dialogues"
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Neque enim novitia res est loca quaedam intuitu orationis conventibus frequentari humanis, sed potius auctoritate patrum priscorum et divinorum ad id agendum provocamur auctoritate eloquiorum.",
+      "english": "Nor is it a new thing for certain places to be frequented by human gatherings for the sake of prayer, but rather we are provoked to do this by the authority of the ancient fathers and by the authority of divine words.",
+      "notes": null
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Licet namque Deus ubique praesens sit et omnia loca manus ejus fundaverint, tamen beati Abraham fidem probaturus, non in quocunque loco, sed in monte quo sibi placuit, filium offerri praecepit, et trium dierum spatio ad eumdem locum supradictum virum ire voluit.",
+      "english": "For although God is present everywhere and his hand has founded all places, nevertheless to test the faith of blessed Abraham, he commanded his son to be offered not in any place whatsoever, but on the mountain that pleased him, and he wanted the aforementioned man to go to that same place over the space of three days.",
+      "notes": "Reference to Genesis chapter twenty-two, Abraham and Isaac"
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Eumdem autem locum postea ob id fuisse clarum atque insignem traditur, atque a multis frequentatum, unde et nomine, In mente Dominus videbit, est insignitus.",
+      "english": "And that same place is reported to have become famous and distinguished because of this, and frequented by many, whence it is distinguished by the name 'On the mountain the Lord will provide.'",
+      "notes": "Genesis chapter twenty-two, verse fourteen"
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Beatus idem Mosè, qui populum Israel docuerat Domini esse terram et plenitudinem ejus coelum et coelos coelorum, tamen praecepit eis ne in omni loco quem vidissent, id est, qui eis placuisset, victimas et hostias offerrent; sed locum quem Dominus Deus eorum elegisset, ascendere eos jussit, et ibi immolare hostias (Deut. XXXII).",
+      "english": "Blessed Moses himself, who had taught the people of Israel that the earth and its fullness belong to the Lord, heaven and the heavens of heavens, nevertheless commanded them not to offer victims and sacrifices in every place they saw, that is, which pleased them, but he ordered them to go up to the place which the Lord their God had chosen, and to sacrifice victims there, as stated in the book of Deuteronomy chapter twelve.",
+      "notes": "Reference to Deuteronomy chapter twelve, verse five"
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ubi quanquam subtiliori intellectu sanctae Ecclesiae unitatem per unius loci voluerit significare positionem, attamen Deus, pensans humani generis mentem, nequaquam cultum suum per multorum voluit vilescere ac tepescere multitudinem locorum, sed potius commendabilem reddere per unius loci conventum celebrem.",
+      "english": "Where, although in a more subtle understanding he wished to signify the unity of the holy Church through the position of one place, nevertheless God, considering the mind of the human race, by no means wished his worship to become cheap and lukewarm through the multitude of many places, but rather to make it commendable through the famous assembly of one place.",
+      "notes": null
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim locus retinens arcam insensibili ligno compactam, et a foris intusque deauratam, continentem urnam manna plenam, et virgam unam tabulasque lapideas, meruit nobilitari, tantaque frequentia populi honorari (Es. XXV; Ebr. IX):",
+      "english": "For if a place containing the ark fashioned from insensible wood, gilded inside and out, containing the urn full of manna and the rod and the stone tablets, deserved to be ennobled and honored by such a great frequency of people, as described in the book of Exodus chapter twenty-five and the letter to the Hebrews chapter nine,",
+      "notes": "References to Exodus 25 and Hebrews 9 on the Ark of the Covenant"
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "cujus putandus est ille religionis, qui complectitur corpus Apostoli, tanquam coelestis thesauri arcam, corpore et animo virtute conspicuam, intus tegentem vas animae splendidum sapientiae dulcedine refertum, legemque spiritalem non in tabulis lapideis, sed tabulis cordis carnalibus (II Cor. V) exaratam, insuper et virgam pastoralis auctoritatis, qua possit parcere piis et debellare superbos?",
+      "english": "of what religion should that place be thought, which embraces the body of an Apostle, like an ark of heavenly treasure, conspicuous in body and soul by virtue, inwardly covering the splendid vessel of the soul filled with the sweetness of wisdom, and the spiritual law written not on stone tablets but on the fleshly tablets of the heart, as mentioned in Paul's second letter to the Corinthians chapter three, and moreover the rod of pastoral authority by which he can spare the pious and conquer the proud?",
+      "notes": "Reference to 2 Corinthians 3:3 on hearts as tablets"
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Longum est etiam enumerare quomodo sparsim in sanctis Scripturis hujusce rei, tanquam flosculi purpureo atque roseo vernantes fulgore, reperiantur testimonianza.",
+      "english": "It would also be lengthy to enumerate how testimonies of this matter are found scattered throughout the Holy Scriptures, like little flowers blooming with purple and rosy splendor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quomodo scilicet David a Domino praeceptum acceperit, ut in area Areuna placandum offerret sacrificium (II Reg. XXIV).",
+      "english": "How, for instance, David received the command from the Lord to offer a sacrifice of appeasement on the threshing floor of Araunah, as recorded in the second book of Samuel chapter twenty-four.",
+      "notes": "Reference to 2 Samuel 24 on David's sacrifice"
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et Salomon prius dicens Domino: Si enim coelum et coeli coelorum te capere non possunt, quanto minus domus haec quam aedificavi (II Par. VII)?",
+      "english": "And Solomon first saying to the Lord, 'If indeed heaven and the heavens of heavens cannot contain you, how much less this house which I have built?' as found in the second book of Chronicles chapter six.",
+      "notes": "Reference to 2 Chronicles 6:18"
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "posthaec orans ut in loco eorum oculi Domini aperti essent atque aures intentae, devotissime precatur, et ipsius Domini testimonio exauditum esse refertur, tam pro indigenis ibidem exorantibus, quam undequaque confluentibus, seu de ultimis terrae finibus oratum eumdem locum adeuntibus.",
+      "english": "After this, praying that in their place the eyes of the Lord might be opened and his ears attentive, he prays most devoutly, and by the testimony of the Lord himself he is reported to have been heard, both for the natives praying there and for those flowing together from everywhere, or even coming to that same place to pray from the farthest ends of the earth.",
+      "notes": "Continuation of 2 Chronicles passage"
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quomodo beato Elias non novum altare constituerit, sed antiquum adiens curaverit, qualiter montem Carmelum orationis gratia frequenter inviserit (III Reg. XVIII).",
+      "english": "How blessed Elijah did not establish a new altar but repaired an ancient one when he came to it, how he frequently visited Mount Carmel for the sake of prayer, as told in the third book of Kings chapter eighteen.",
+      "notes": "Reference to 1 Kings 18 on Elijah"
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quibus omnibus docemur non improbandos nec more tuo stultos insipientesque appellandos eos qui, devotionis augmentandae gratia intercessionisque per suffragia quaerendae, apostolorum adeunt limina:",
+      "english": "By all these things we are taught not to disapprove, nor in your manner to call foolish and senseless, those who approach the thresholds of the apostles for the sake of increasing devotion and seeking intercession through their prayers,",
+      "notes": null
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quia credimus quod per haec non solummodo eorum mentibus adolescat amor circa divini cultus servitutem, sed etiam laboris sui atque itineris, quae subito volunttentione divini amoris, mercede donenttur.",
+      "english": "because we believe that through these things not only does love for the service of divine worship grow warm in their minds, but also they are rewarded for their labor and journey, which they suddenly undertook with the intention of divine love.",
+      "notes": null
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sane est etiam proprium humanae menti non adeo compungi ex auditis sicut ex visis. Sicut enim, teste beato Hieronymo, melius Scripturas divinas intelligit, qui nomina locorum atque civitatum peragrando circuit:",
+      "english": "Indeed it is also proper to the human mind not to be as compunct from things heard as from things seen. For just as, according to blessed Jerome's testimony, one understands the divine Scriptures better who travels around visiting the names of places and cities,",
+      "notes": null
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ita credendum est eos amplioris posse fieri devotionis, qui loca apostolorum adeunt, et in alio quidem audiunt unumquemque eorum, in alio autem tortum, in alio decollatum, aut certe crucifixum, alibi vero terrae mandatum, oculis etiam corporeis perlustrant.",
+      "english": "so it is to be believed that they can become of greater devotion who approach the places of the apostles and in one place indeed hear about each of them, in another see where one was tortured, in another beheaded, or certainly crucified, in another place entrusted to the earth, which they survey even with bodily eyes.",
+      "notes": null
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde beatus Hieronymus lapsum cujusdam demirans, qui intra consepta speluncae in qua Dei Filius ortus est, tractarat de stupro, stupore afficitur quare a facinore concepto nec locorum deterretur visione sanctorum, dicens:",
+      "english": "Hence blessed Jerome, marveling at the fall of a certain man who within the enclosure of the cave in which the Son of God was born had been negotiating about fornication, is struck with astonishment at why he was not deterred from his conceived crime even by the sight of holy places, saying:",
+      "notes": "Beginning of extended quotation from Jerome against Vigilantius"
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "infelicissime mortalium, tu spelucam illam, in qua Dei Filius natus est et Veritas de terra orta, et terra dedit fructum suum, de stupro condicturus ingrederis; non times ne de praesepio infans vagiat, ne puerpera virgo te videat, ne mater Domini contempletur?",
+      "english": "Jerome exclaims: 'Most wretched of mortals, do you enter that cave in which the Son of God was born and Truth arose from the earth and the earth gave its fruit, to make an appointment about fornication? Do you not fear lest the infant cry from the manger, lest the virgin mother see you, lest the mother of the Lord behold you?",
+      "notes": "Quote from Jerome's Against Vigilantius"
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Angeli clamant, pastores currunt, stella desuper rutilat, Magi adorant, Herodes terretur, Hierosolyma conturbatur, et tu in cubiculum Virginis, virginem decepturus irrepis?",
+      "english": "The angels cry out, the shepherds run, the star shines from above, the Magi adore, Herod is terrified, Jerusalem is troubled, and you creep into the chamber of the Virgin to deceive a virgin?'",
+      "notes": "Continuation of Jerome quote"
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Et post pauca: Deinde curris ad pastorum locum, et angelorum desuper strepitu concinente, in eadem verba testaris. Itemque post non multa: Jam iter depositum, decreta navigia, condicta dies, fuga animo pertractata. Et ecce angelus ille cubiculi Mariae bidello, cunarum Domini custos, et infantis Christi gerulus, coram quo tanta faciebas, ipse te prodidit.",
+      "english": "And after a little: 'Then you run to the place of the shepherds, and with the noise of angels singing above, you bear witness to the same words. And likewise after not much: Now the journey laid down, the ships decreed, the day appointed, the flight considered in mind. And behold that angel, the doorkeeper of Mary's chamber, guardian of the Lord's cradle, and bearer of the infant Christ, before whom you were doing such things, he himself betrayed you.'",
+      "notes": "Continuation of Jerome quote"
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Certe ut ad apostolos veniamus, novimus eos, quandiu Hierosolymiticum templum stetit, crebro illuc orandi gratia convenisse, unde et in Actibus apostolorum leguntur omni die in templo et circa domos docuisse, et in panis fractione mysteria corporis Domini celebrasse, et populis sumenda tradidisse.",
+      "english": "Certainly, to come to the apostles, we know that as long as the Jerusalem temple stood, they frequently came together there for the sake of prayer, whence in the Acts of the Apostles they are read to have taught daily in the temple and around houses, and to have celebrated the mysteries of the Lord's body in the breaking of bread, and to have given them to the people to receive.",
+      "notes": "Reference to Acts of the Apostles on early Christian practice"
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inde est quod nona hora, ut se habet mos ecclesiasticus, templum adoraturi Petrus et Joannes adeunt, claudum ad limina domus Domini jacentem imperiosa auctoritate divinis vinctum vinculis absolvunt (Atto IX).",
+      "english": "Hence it is that at the ninth hour, as is the ecclesiastical custom, Peter and John approach to worship at the temple, and with commanding authority they free the lame man lying at the threshold of the Lord's house, bound with divine bonds, as recorded in the Acts of the Apostles chapter three.",
+      "notes": "Reference to Acts 3 on Peter healing the lame man"
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hinc est quod Paulus magnopere exoptat, et toto nisu festinat, ut diem Pentecostes Hierosolymis faciat.",
+      "english": "Hence it is that Paul greatly desires and hastens with all his effort to keep the day of Pentecost in Jerusalem.",
+      "notes": "Reference to Acts 20:16"
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dum ergo ita se habeant, facesat, ut ita dicam, tandem tua irrationabilis ratio, qua muliercularum sensibus persuadere niteris, et scorpionis more, ore palpando, clanculo cauda venenum infundere conaris, ut ab amore sanctorum locorum atque apostolorum animos fidelium avertere possis.",
+      "english": "Since therefore these things are so, let your irrational reasoning finally depart, so to speak, by which you strive to persuade the minds of little women, and in the manner of a scorpion, stroking with the mouth, you secretly try to pour poison with the tail, so that you might be able to turn away the minds of the faithful from love of the holy places and apostles.",
+      "notes": null
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Posthaec quasi cornutum perplectens syllogismum, eumdem venerabilem virum te, quanto in tali actu intelligi decet, charitatis officio corripientem, coinvolgere conaris hoc modo:",
+      "english": "After this, as if weaving a horned syllogism, you try to entangle that same venerable man who was correcting you, as much as should be understood in such an action, with the duty of charity, in this manner:",
+      "notes": "Beginning of another section quoting Claudius's argument"
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Teipsum primum interrogare volo: Si poenitentiam agere esse Romam pergere nosti, cur tu tanto tempore tantas animas perdidisti, quas in monasterio retinuisti, et poenitentiae causa in monasterio recepisti, et non eas Romam misisti, sed potius tibi servire fecisti?",
+      "english": "You say: 'I want to ask you first: If you know that doing penance means going to Rome, why have you for so long destroyed so many souls, which you retained in the monastery and received into the monastery for the sake of penance, and did not send them to Rome, but rather made them serve you?'",
+      "notes": "Quote from Claudius attacking Abbot Theodemirus"
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnis qui sano intellectus cerebro sanctae Ecclesiae gremio continetur, variis professionum ordinibus, non diversa fide, distanti tamen conversazionee, eam consistere novit:",
+      "english": "Everyone who is contained in the bosom of the holy Church with sound brain of understanding knows that it consists of various orders of professions, not diverse in faith but distinct in way of life:",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "aliosque esse qui conjugio operam dent, alios qui caelibatui vacent, alios qui obedientiam praelatis exhibeant, alios autem qui subditos sibi greges sub norma divinitus tradita constringant, alios qui libertate generali quaquaversum pro libitu suo per diversa orbis climata dicurrunt, atque alios qui freno regulari atque canonico coerciti, nullum quo pedem ferant referantque sibi reliquerunt aditum, per majorum ac sibi praelatorum jussum.",
+      "english": "that there are some who give attention to marriage, others who are free for celibacy, others who show obedience to prelates, others who constrain the flocks subject to them under a divinely given rule, others who with general liberty run about in whatever direction they please through diverse climates of the world, and others who, restrained by regular and canonical bridle, have left themselves no access by which they might carry or bring back their foot, except by the command of their superiors and prelates.",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "His ita se habentibus, voce ejusdem venerabilis abbatis respondemus: Ideo, o Claudi, tanto tempore tot animas non perdidi, quas in monasterio retinui, quia patris nostri praecepta secutus, videlicet beati Benedicti, officinam ubi instrumenta bonorum exerceantur, claustra monasterii, et stabilitatem in Congregazione Novi.",
+      "english": "These things being so, we respond in the voice of that same venerable abbot: Therefore, Claudius, for so long a time I have not destroyed so many souls which I retained in the monastery, because I have followed the precepts of our father, namely blessed Benedict, who called the cloister of the monastery the workshop where the instruments of good works are exercised, and I have known stability in the congregation.",
+      "notes": "Reference to Rule of St. Benedict"
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et sententiam canonum, quam tu periculo animae tuae nescire probaris, huic sententiae concordantem retineo, quae in synodo Chalcedonensi, act..., ita legitur:",
+      "english": "But I also retain the sentence of the canons, which you are proved not to know to the peril of your soul, concordant with this sentence, which is read thus in the Council of Chalcedon:",
+      "notes": "Beginning of quotation from Council of Chalcedon, 451 AD"
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Monachos per unamquamque civitatem aut regionem placet subjectos esse episcopo, et quietem diligere, et intentos esse tantummodo jejunio et orationibus, in locis quibus renuntiaverint saeculo permanentes:",
+      "english": "The Council states: 'It pleases us that monks in each city or region be subject to the bishop and love quiet, and be intent only on fasting and prayers, remaining in the places where they renounced the world.",
+      "notes": "Canon from Council of Chalcedon on monastic life"
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "nec ecclesiasticis vero, nec saecularibus negotiis communicent, vel alicui sint molesti, propria deserentes monasteria, nisi forte eis praecipiatur propter opus necessarium ab episcopo civitatis.",
+      "english": "They should not participate in either ecclesiastical or secular business, nor be troublesome to anyone, deserting their own monasteries, unless perhaps they are commanded for necessary work by the bishop of the city.",
+      "notes": "Continuation of Chalcedon canon"
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Et post non multa: Transgredientem vero hanc nostram definitionem excommunicatum esse decrevimus, ne nomen Dei blasphemetur.",
+      "english": "And after not much: We have decreed that one transgressing this our definition is to be excommunicated, lest the name of God be blasphemed.'",
+      "notes": "End of Chalcedon canon quotation"
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hi namque qui hac professione non arcentur, si ob amorem coelestis patriae tantorum itinerum subeunt laboriosa discrimina, et quia necdum spiritibus eorum jungi queunt, terunt tamen apostolorum basilicas, et humiliter ipsorum expetunt suffragia, laude dignos duco.",
+      "english": "For those who are not restrained by this profession, if they undergo the laborious dangers of such great journeys for love of the heavenly homeland, and because they cannot yet be joined to their spirits, they nevertheless visit the basilicas of the apostles and humbly seek their intercession, I judge them worthy of praise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia et si Apostolus dicit: Volo vos viros orare in omni loco, levantes puras manus sine ira et discrepatione (I Tim. II), propter eos dictum accipio qui nesciunt orare, nisi ubi viderint erectum altare aut certe sanctorum reliquias adesse.",
+      "english": "For even if the Apostle says in Paul's first letter to Timothy chapter two, 'I want you men to pray in every place, lifting up pure hands without anger or disputing,' I understand this said for the sake of those who do not know how to pray unless where they have seen an altar erected or certainly the relics of saints to be present.",
+      "notes": "Reference to 1 Timothy 2:8"
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quam autem opinionem hujusce rei habuerit ipse testis est, qui templum adoraturus adiit, in quo et comprehensus est, ad quod ut diem Pentecostem inibi faceret, festinabat (Act. XX).",
+      "english": "But what opinion he himself had of this matter, he is a witness, who went to worship at the temple, in which he was also arrested, to which he was hastening so that he might keep the day of Pentecost there, as told in the Acts of the Apostles chapter twenty.",
+      "notes": "Reference to Acts 20:16 on Paul's desire to be in Jerusalem"
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hi autem qui ut securi ab externis tumultibus esse queant monasterii secretum petunt, si causa vagationis extrinsecae saecularia negotia adire tentaverint, improbo, reprehendo et ad perditionem animarum illorum pertinere non ambigo,",
+      "english": "But those who seek the seclusion of the monastery so that they may be secure from external tumults, if they attempt to pursue secular business for the sake of external wandering, I disapprove, I reprove, and I do not doubt that it pertains to the perdition of their souls,",
+      "notes": null
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quia magistri mei dicentis sententiam recolo, ut non sit necessitas monachis vagandi foras, quia omnino non expedit animabus eorum.",
+      "english": "because I recall the sentence of my master saying that there is no necessity for monks to wander outside, because it is altogether not expedient for their souls.",
+      "notes": "Another reference to Rule of St. Benedict"
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod autem dicis eos mihi servire fecisse, quanquam me ab hac re immunim non judicem, ut pote cui multae sunt deformitates morum quibus serviat in supportando devotio pia fratrum, tamen auctoritatem divinam in hac re sequi conor ita dicentis:",
+      "english": "But what you say, that I made them serve me, although I do not judge myself immune from this matter, inasmuch as I have many deformities of character which the pious devotion of the brothers serves in supporting, nevertheless I try to follow the divine authority saying thus in this matter:",
+      "notes": null
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Qui vult inter vos esse major, sit vester minimus; et: Qui praecessor est, sicut ministrator.",
+      "english": "Scripture says: 'Whoever wants to be greater among you, let him be your least,' and 'Let the one who is foremost be as one who serves.'",
+      "notes": "References to Gospel passages on servant leadership"
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Est etiam nobis reciproco servitus, de quastitutionis nostrae praecepta continente ita: Fratres invicem sibi serviant; et alibi: Infirmitates suas, sive corporum, sive morum, pazientissime tolleranti. Itemque obedientiam sibi certatim impendant.",
+      "english": "There is also reciprocal service for us, concerning which the precepts of our rule contain thus: 'Let the brothers serve one another,' and elsewhere: 'Let them most patiently bear their infirmities, whether of bodies or of character.' And likewise: 'Let them eagerly show obedience to one another.'",
+      "notes": "More quotations from Rule of St. Benedict"
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et Apostolus: Per charitatem, inquit, spiritus servite invicem (Gal. V).",
+      "english": "But also the Apostle says in the letter to the Galatians chapter five: 'Through love of the Spirit, serve one another.'",
+      "notes": "Reference to Galatians 5:13"
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hac ergo exceptiona, privatam me servitutem, nec imporre subditis debere scio, nec imposuisse recolo, sed voce Gedeonis circa subditos utor: Non dominabor ego vestri, nec dominabitur in vobis filius meus, sed dominabitur Dominus.",
+      "english": "With this exception therefore, I know I should not impose private servitude on subjects, nor do I recall having imposed it, but I use the voice of Gideon concerning subjects: 'I will not rule over you, nor will my son rule over you, but the Lord will rule.'",
+      "notes": "Reference to Judges 8:23"
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vereor namque ne mihi cum superbis infidelibusque pastoribus pars ponatur, et a pastorum pastore in terribili examin, cum eis dicatur: Cum auctoritate imperabatis eis et cum potentia.",
+      "english": "For I fear lest my portion be placed with proud and unfaithful shepherds, and by the shepherd of shepherds in the terrible judgment it be said to me with them: 'You ruled them with authority and with power.'",
+      "notes": "Reference to Ezekiel 34:4 on bad shepherds"
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Imo, si voluntatis effectus non negetur, opto cum Apostolo veraciter dicere: Quis infirmatur, et ego non infirmor? Quis scandalizatur, et ego non uror? (II Cor. XI. )",
+      "english": "Indeed, if the effect of the will is not denied, I desire with the Apostle to say truthfully: 'Who is weak, and I am not weak? Who is scandalized, and I do not burn?' as Paul writes in his second letter to the Corinthians chapter eleven.",
+      "notes": "Reference to 2 Corinthians 11:29"
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Itemque: Factus sum parvulus in medio vestrum. tanquam si nutrix foveat filios suos (II Tess. II).",
+      "english": "And likewise: 'I became small in your midst, as if a nurse cherishes her own children,' from Paul's first letter to the Thessalonians chapter two.",
+      "notes": "Reference to 1 Thessalonians 2:7"
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et sapientissimi viri salubre consilium audi dicentis: Rectorem te constituerunt?noli extolli, sed esto in eis quasi unus ex ipsis (Eccli. XXXII).",
+      "english": "But also hear the salutary counsel of the most wise man saying in the book of Sirach chapter thirty-two: 'Have they made you a ruler? Do not be exalted, but be among them as one of them.'",
+      "notes": "Reference to Sirach (Ecclesiasticus) 32:1"
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod vero adjungis, quasi meis verbis:",
+      "english": "But what you add, as if in my words:",
+      "notes": "Transitioning to address another point from Claudius"
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "latin": "Habere me catervam monachorum centum quadraginta, qui omnes poenitentiae causa ad me venerint;",
+      "english": "You claim I said: 'That I have a band of one hundred forty monks, who all came to me for the sake of penance,'",
+      "notes": "Quote attributed to Theodemirus by Claudius"
+    },
+    {
+      "chunk_id": 84,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "numerum vero recognosco, lateria autem non modo a me dicta abnego, sed dici ab alio perhorresco.",
+      "english": "I recognize the number indeed, but I not only deny that the rest was said by me, but I am horrified that it was said by another.",
+      "notes": "Theodemirus's response through the author"
+    },
+    {
+      "chunk_id": 85,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cuncti namque illi qui poenitentiae causa, ut se habet veritas, monasterio tradiderunt, non ad me, ut tu asseris, venerunt, sed ad Domini misericordiam convolaverunt, cui per Psalmistam dicitur: Ad te omnis caro veniet (Sal. LXIV);",
+      "english": "For all those who, as truth has it, entrusted themselves to the monastery for the sake of penance, did not come to me, as you assert, but flew to the mercy of the Lord, to whom it is said through the Psalmist in Psalm sixty-four: 'To you all flesh will come.'",
+      "notes": "Reference to Psalm 65:2 (numbered 64 in Vulgate)"
+    },
+    {
+      "chunk_id": 86,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "et cui poenitens in psalmo loquebatur: Domine, ad te confugi, doce me facere voluntatem tuam, quia Deus meus es tu (Sal. CXLII);",
+      "english": "And to whom the penitent was speaking in Psalm one hundred forty-two: 'Lord, I have fled to you, teach me to do your will, for you are my God.'",
+      "notes": "Reference to Psalm 143:10 (numbered 142 in Vulgate)"
+    },
+    {
+      "chunk_id": 87,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "et cui per Jeremiam: Domine, fortitudo mea, et robur meum, ad te omnes gentes venient ab extremis terrae (Ger. XVI).",
+      "english": "And to whom through Jeremiah in chapter sixteen: 'Lord, my strength and my refuge, to you all nations will come from the ends of the earth.'",
+      "notes": "Reference to Jeremiah 16:19"
+    },
+    {
+      "chunk_id": 88,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Recte namque Scriptura divina (IV Reg. XX) principem justissimum atque piissimum (Ezechiam dico) his verbis Dominum offendisse indicat.",
+      "english": "For rightly does divine Scripture in the fourth book of Kings chapter twenty indicate that the most just and pious prince, I mean Hezekiah, offended the Lord with these words.",
+      "notes": "Reference to 2 Kings 20 (4 Kings in Vulgate numbering) on Hezekiah"
+    },
+    {
+      "chunk_id": 89,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postquam enim naturae quodammodo jus abstulit, et rapido solis discursu pro libitu suo obviavit, venientibus de prodigio interrogare externae gentis nuntiis, cum interrogaretur a propheta unde venerint viri illi, non ut sese habebat veritas, ad Dominum interrogandum venisse eos respondit, sed elatione tumidiore distentus ait: De terra longinqua venerunt ad me, de Babylone,",
+      "english": "For after he in a way took away the right of nature and met the rapid course of the sun according to his desire, when messengers of a foreign nation came to inquire about the prodigy, when he was asked by the prophet where those men had come from, he did not respond as truth had it, that they had come to inquire of the Lord, but swollen with excessive pride he said: 'From a distant land they came to me, from Babylon.'",
+      "notes": "Hezekiah's pride in claiming visitors came to him rather than to God"
+    },
+    {
+      "chunk_id": 90,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jam quidem in superioribus, prout occorrent, testimoniis ab ecclesiasticis viris sumptis, approbavimus, falso te toties prosecutum, quod sancti viri pro viventibus non exorent.",
+      "english": "We have already demonstrated in the preceding sections, by drawing upon testimonies from ecclesiastical writers as they arose, that you have falsely pursued so many times the claim that holy men do not pray for the living.",
+      "notes": null
+    },
+    {
+      "chunk_id": 91,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quare tanta rabie inflammeris, ut apostolorum martyrumque reliquiis honorem potentiamque a Divinitate collatam annihilare coneris, quia a nobis forsitan audire dignaris, verbis sanctorum doctorum necesse est percellaris.",
+      "english": "But as to why you are inflamed with such rage that you attempt to destroy the honor and power conferred by the Divinity upon the relics of the apostles and martyrs—since you perhaps do not deign to hear it from us—you must be struck down by the words of the holy doctors themselves.",
+      "notes": null
+    },
+    {
+      "chunk_id": 92,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Beatus enim Augustinus in libro de Civitate Dei octavo (cap. 26) quemdam Hermen dicit dolendo praedixisse quod sui temporis celebrata templa fierent postmodum martyrum sepulcra, in haec verba: Tunc terra ista sanctissima sedes delubrorum atque templorum, sepulcrorum erit mortuorumque plenissima, et contra haec tam illi, quam tibi paria dolenti, ita respondet.",
+      "english": "For blessed Augustine in his book The City of God, book eight, chapter twenty-six, says that a certain Hermes predicted with lamentation that the celebrated temples of his time would later become the tombs of martyrs, in these words: 'Then this most holy land, seat of shrines and temples, will be full of sepulchers and the dead.' And against these words, which bring equal grief to him as to you, Augustine responds thus.",
+      "notes": null
+    },
+    {
+      "chunk_id": 93,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nempe spiritus fallax cujus instinctu Hermes ista dicebat, per eum ipsum coactus est confiteri marmellata nunc terram illam, sepulcrorum et mortuorum quos pro diis colebant esse plenissimam.",
+      "english": "'Indeed, the deceitful spirit at whose instigation Hermes spoke these things was compelled through that same man to confess that the land is now filled with tombs and the dead whom they worshiped as gods.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 94,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed dolor daemonum per eum loquebatur, qui suas futuras poenas apud sanctorum martyrum memorias imminere moerebat.",
+      "english": "'But it was the anguish of demons speaking through him, who grieved that their future punishments were imminent at the memorials of the holy martyrs.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 95,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In multis enim talibus locis torquentur, et confitentur, et de possessis hominum corporibus ejiciuntur.",
+      "english": "'For in many such places they are tormented, they confess, and they are cast out from the bodies of possessed human beings.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 96,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et Hieronymus adversus Vigilantium: Sed responde, quomodo in vilissimo pulvere et favilla nescio quae tanta sit signorum virtutumque praesentia.",
+      "english": "And Jerome, writing against Vigilantius, says: 'But answer me this: how is it that in the most worthless dust and ashes there is such a great presence of signs and powers?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 97,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sentio, sentio, infelicissime mortalium, quid doleas, quid timeas?",
+      "english": "'I perceive, I perceive, most wretched of mortals, what grieves you, what you fear.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 98,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Spiritus iste immundus, qui haec te cogit scribere, saepe vilissimo hoc tortus est pulvere, imo hodieque torquetur, et qui in te plagas dissimulat, in caeteris confitetur, nisi forte in morem gentilium impiorum Porphyrii et Eunomii has praestigias daemonum esse confingis, et non vere clamare daemones, sed sua dissimulare tormenta.",
+      "english": "'This unclean spirit, which compels you to write these things, has often been tortured by this most worthless dust—indeed, it is tortured to this very day—and what it conceals in you, pretending its wounds do not exist, it confesses in others, unless perhaps in the manner of the impious pagans Porphyry and Eunomius you fabricate that these are mere tricks of demons, and that demons do not truly cry out but merely pretend to conceal their torments.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 99,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si quid tibi agendum sit talibus irretito, modernorum virorum consiliis acquiescere detrectas: saltem praedicti reverendi doctoris oportet ut consiliis pareas.",
+      "english": "'If something must be done for you who are ensnared by such things, you refuse to accept the counsel of modern men—at least you ought to obey the counsel of the aforementioned reverent doctor.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 100,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Do consilium, ingredere basiliche martyrum et aliquando purgaberis.",
+      "english": "'I give you this advice: enter the basilica of the martyrs and at last you will be purged.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 101,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Invenies ibi multos socios tuos, et nequaquam cereis martyrum qui tibi displicent, sed flammis invisibilibus comburere, et tunc fateberis quod nunc negas, et tuum nomen, qui in Vigilantio loqueris, libere proclamabis te esse aut Mercurium, propter nummorum cupiditatem, aut Nocturnium juxta Planti Amphitryonem, quo dormiente, in Alcmenae adulterio duas noctes Jupiter copulavit, ut magnae fortitudinis Hercules nasceretur; aut certe Liberum Patrem pro ebrietate, et cantharo ex humeris depende, et sempre rubente facie, et spumantibus labris, effrenatisque conviciis.",
+      "english": "'You will find many companions of yours there, burned not by the candles of the martyrs that displease you, but by invisible flames. And then you will confess what you now deny, and you will freely proclaim your name—you who speak in Vigilantius—declaring yourself to be either Mercury, on account of your greed for money, or Nocturnius according to Plautus's Amphitryon, during whose sleep Jupiter joined two nights together in adultery with Alcmena so that Hercules of great strength might be born; or certainly Liber Pater on account of drunkenness, hanging a tankard from your shoulders, with your face always red, your lips foaming, and your insults unbridled.'",
+      "notes": "Classical allusions to gods associated with greed, debauchery, and drunkenness used as rhetorical insults against the opponent"
+    },
+    {
+      "chunk_id": 102,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sano id quod adjungis. Quia nisi eamdem fidem, justitiam et veritatem teneat, quam illi tenuerunt, per quam placuerunt Deo, salvus esse non poterit, scimus quidem quia sine fide impossibile est placere Deo (Ebr. XI), et eo quisque longe a salute est, quo un fide procul.",
+      "english": "Now, regarding what you add—that unless one holds the same faith, justice, and truth that they held, by which they pleased God, one cannot be saved—we know indeed that without faith it is impossible to please God, as Paul's letter to the Hebrews, chapter eleven, says, and that each person is as far from salvation as he is far from faith.",
+      "notes": null
+    },
+    {
+      "chunk_id": 103,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed si justitiam, quae generale nomen est totius corporis bonarum virtutum, veritatemque teneat quam sancti tenuerunt, et per haec placeat Deo sicut illi placuerunt, quomodo indigeat eorum intercessione quorum par est merito, non satis video.",
+      "english": "But if someone holds the justice—which is the general name for the whole body of good virtues—and the truth that the saints held, and through these pleases God just as they pleased him, I do not sufficiently see how such a person needs the intercession of those whose merit he equals.",
+      "notes": null
+    },
+    {
+      "chunk_id": 104,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed scio et veraciter cognosco quod fides quidem, nisi imutilata in quolibet perduraverit, eum a coelestis regni aditu infidelitas secernit.",
+      "english": "But I know and truly recognize that unless faith endures unimpaired in anyone, unfaithfulness cuts him off from entrance to the heavenly kingdom.",
+      "notes": null
+    },
+    {
+      "chunk_id": 105,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si autem in injustitiam aut certe in aliquam falsitatem incurrerit, et secundum Apostolum (I Cor. III), super fundamentum fidei ligna, fenum stipulamque aedificaverit, id est, solubilia et levia peccata commiserit, haec necesse erit igne tribulationis decoqui, et ut citius ab his absolvi possit, sanctorum intercessionibus sublevari.",
+      "english": "But if someone has fallen into injustice or indeed into some falsehood, and according to the Apostle in Paul's first letter to the Corinthians, chapter three, has built wood, hay, and stubble upon the foundation of faith—that is, has committed venial and light sins—these must necessarily be burned away by the fire of tribulation, and so that he may be absolved from them more quickly, he must be lifted up by the intercessions of the saints.",
+      "notes": "Reference to purgatorial purification and the efficacy of saints' intercession"
+    },
+    {
+      "chunk_id": 106,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim credimus mutuis nos intercessionum suspiriis a peccatis purgari, apostolo dicente: Confitemini alterutrum peccata vestra, et orate pro invicem, ut salvemini (Jac. V); quanto magis credibile est eorum nos citissime posse veniam promereri precibus, qui Deo junguntur familiarius, si tamen cor nostrum poenitentiae conteratur cruciatibus?",
+      "english": "For if we believe that we are purged from sins by the mutual sighs of intercessions, the Apostle saying in the letter of James, chapter five: 'Confess your sins to one another, and pray for one another, that you may be saved,' how much more credible is it that we can most swiftly merit pardon through the prayers of those who are more intimately joined to God, provided that our heart is crushed by the torments of repentance?",
+      "notes": null
+    },
+    {
+      "chunk_id": 107,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Perpende ergo te minus caute in hoc quoque locutum, et ut deinceps tam lethiferam doctrinam caveas memento.",
+      "english": "Consider therefore that you have spoken less carefully in this matter too, and remember to avoid such deadly doctrine from now on.",
+      "notes": null
+    },
+    {
+      "chunk_id": 108,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Post haec subsequeris: Audite hoc, insipientes in populo, et stulti aliquando sapite, qui intercessionem apostoli Romam pergendo quaeritis, quid contra vos dicat saepe dictus beato Augustinus.",
+      "english": "After this you continue: 'Hear this, you foolish ones among the people, and you fools, be wise at last, you who seek the intercession of the apostle by going to Rome—hear what the oft-mentioned blessed Augustine says against you.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 109,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Debuerat jam tandem os tuum impurum, et si non onesti parendo, saltem pudori cedendo, ab injuriis membrorum Christi feriatum obtundi, et quae poena contumeliosos maneat reminisci.",
+      "english": "Your impure mouth should at last have been stopped from insulting the members of Christ, if not by obeying what is honorable, at least by yielding to shame, and you should have remembered what punishment awaits those who revile others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 110,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam cum Dominus terribiliter dicat: Quicunque dixerit fratri suo, Fatue, reus erit gehennae ignis (Mt. V), quod tibi confugium arbitraris, ne tali sententia plectaris, quin fratribus tuis insipientiae et stultitiae sine causa elogium objicis?",
+      "english": "For when the Lord says terribly in the Gospel of Matthew, chapter five: 'Whoever says to his brother, You fool, shall be guilty of the fire of hell,' what refuge do you think you have to avoid being struck by such a sentence, when you cast the reproach of foolishness and stupidity upon your brothers without cause?",
+      "notes": null
+    },
+    {
+      "chunk_id": 111,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Beatus namque David his verbis jure abusus est contra eos qui putabant Deum oculos aliis dedisse: et ipsum, ea quae gererentur a mortalibus, non videre; auditum aliis tribuisse, et ipsum auditu carere, et caetera ita dicendo: Audite, insipientes in populo, et stulti, aliquando sapite.",
+      "english": "For blessed David rightly used these words against those who thought that God had given eyes to others but that he himself did not see what mortals were doing, had given hearing to others but that he himself lacked hearing, and so forth, saying: 'Hear this, you foolish ones among the people, and you fools, be wise at last.'",
+      "notes": "Reference to Psalm 94 (Vulgate 93)"
+    },
+    {
+      "chunk_id": 112,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui plantavit aurem, non audiet; et qui finxit oculum non considerat? Qui corripit gentes, non argumentet, qui docet hominem scientiam?",
+      "english": "'He who planted the ear, shall he not hear? And he who formed the eye, shall he not see? He who disciplines nations, shall he not reprove, he who teaches man knowledge?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 113,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quid contra haec ipse sentiat, eorum errorem damnans subjungendo manifestat: Dominus scit cogitationes hominum quoniam vanae sunt.",
+      "english": "And what he himself thinks against these things, condemning their error, he makes clear by adding: 'The Lord knows the thoughts of men, that they are vain.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 114,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Patet ergo te hoc testimonio, non modo inepte, sed et callide abusum.",
+      "english": "It is therefore evident that you have misused this testimony not only ineptly but also craftily.",
+      "notes": null
+    },
+    {
+      "chunk_id": 115,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inepte quidem, ut pote qui tot tantisque viris qui modo in sanctae Ecclesiae florent studiis, voluisti illudere.",
+      "english": "Ineptly indeed, inasmuch as you wished to mock so many and such great men who now flourish in the studies of the holy Church.",
+      "notes": null
+    },
+    {
+      "chunk_id": 116,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quantum autem tibi visum est callide, qui ea quae alterius intellectus sunt, pro alio ponens, ut aliquos tui sensus complices habere possis, quasi de divinis Scripturis eum roborare conatus es.",
+      "english": "But as craftily as it seemed to you, you who placed words that belong to one understanding in place of another, so that you might have some accomplices to your interpretation, attempted to strengthen it as if from divine Scripture.",
+      "notes": null
+    },
+    {
+      "chunk_id": 117,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod autem contra eos qui Romam oratum pergunt, beatum Augustinum haec verba ejus dixisse prosecutus es, nequaquam veritati ullo modo concordat.",
+      "english": "But what you have pursued—that blessed Augustine spoke these words of his against those who go to Rome to pray—in no way whatsoever agrees with the truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 118,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Item namque venerabilis Pater cum in libro quem ipse notasti, id est, octavo de Trinitate, conaretur mentes hominum ab eorum quae legunt vel audiunt in sanctis Scripturis imaginibus revocare, ut scilicet nullus legentium de Deo aliquam sibi phantasticam imagineem confingere audeat, adducit in exemplum non solum beatum Paulum, sed et beatam virginem Mariam, et ipsum Domini nostri Jesu Christi vultum, et ratione ostendit quia, sicut vultum eorum aut effigis nequaquam sicut fuerunt vere aliquis imaginatur, aut certe credere debeat quod ita fuerit sicut eis mens effigiat, ita eos homines vere fuisse nullo modo dubitare debeat.",
+      "english": "For the venerable Father, in the book you yourself noted—that is, book eight On the Trinity—when he was attempting to call back the minds of men from the images of what they read or hear in the holy Scriptures, so that none of the readers would dare to fashion for themselves any fanciful image of God, brought forward as examples not only blessed Paul but also the blessed Virgin Mary and the very face of our Lord Jesus Christ, and he demonstrated by reason that just as no one imagines their faces or forms exactly as they truly were, or ought to believe that they were exactly as the mind pictures them, so one ought in no way to doubt that these people truly existed.",
+      "notes": "Reference to Augustine's De Trinitate book 8, on avoiding corporeal imagination of spiritual realities"
+    },
+    {
+      "chunk_id": 119,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inter caetera ergo sic dicit: Redi ergo mecum, ad eam scilicet rationem, unde ad momentum discesserat; ostendere enim coeperat quod effigiem quidem Apostoli quisque de ejus vultu conceptam corde abolere deberet: quod autem homo fuerit, nequaquam dubitare, et admonuerat istum eum fuisse non solum credere, sed et amare unumquemque debere.",
+      "english": "Among other things, therefore, he says this: 'Return therefore with me to that reasoning from which we departed for a moment'—for he had begun to show that each person ought to abolish from the heart the image of the Apostle's face that had been conceived, but ought in no way to doubt that he was a man, and he had admonished that each person ought not only to believe but also to love that he had existed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 120,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Consideremus, inquit, cur diligamus Apostolum. Nunquidnam propter humanam speciem, quam notissimam habemus, eo quod credimus eum hominem fuisse? Non utilizzato.",
+      "english": "'Let us consider,' he says, 'why we love the Apostle. Is it on account of his human appearance, which we know very well, because we believe he was a man? By no means.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 121,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alioquin nunc non est quem diligamus, quandoquidem homo ille jam non est: anima enim ejus a corpore separata est.",
+      "english": "'Otherwise there is now no one for us to love, since that man no longer exists—for his soul has been separated from the body.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 122,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed id quod in illo amamus, etiam nunc vivere credimus.",
+      "english": "'But what we love in him, we believe even now lives.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 123,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid ergo contra eos faciat hic sermo venerabilis Augustini qui suffragia expetunt apostolica non video.",
+      "english": "Therefore I do not see how this discourse of the venerable Augustine stands against those who seek the apostolic intercessions.",
+      "notes": null
+    },
+    {
+      "chunk_id": 124,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dicit enim quod non propter humanam speciem diligat Apostolum, quod nec aliquis agit fidelium.",
+      "english": "For he says that one does not love the Apostle on account of his human appearance, which indeed no one among the faithful does.",
+      "notes": null
+    },
+    {
+      "chunk_id": 125,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Neque enim vel minuit dilectionem nostram, sive fuerit prolixioris corporis, sive brevioris; neque interest nostra utrum (sicut habet rumor) calvities frontem ejus nudaverit, an capillorum densitas texerit.",
+      "english": "For our love is not diminished whether he was of taller or shorter body, nor does it matter to us whether, as rumor has it, baldness laid bare his forehead or a thickness of hair covered it.",
+      "notes": "Addressing the tradition of Paul's baldness"
+    },
+    {
+      "chunk_id": 126,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed neque propterea quod homo fuerit, sed quia justus fuerit, amatur.",
+      "english": "But he is loved not because he was a man, but because he was just.",
+      "notes": null
+    },
+    {
+      "chunk_id": 127,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod autem subjungit, Nunc non est quem diligamus, quandoquidem homo ille jam non est, subjungendo exponit: Anima enim ejus a corpore separata est, liquido ostendens de vultus ejus se dixisse effigie, quam utique non possunt servare artus ejus in pulverem redacti.",
+      "english": "But when he adds, 'Now there is no one for us to love, since that man no longer exists,' he explains by adding: 'For his soul has been separated from the body,' clearly showing that he spoke of the image of his face, which his limbs reduced to dust certainly cannot preserve.",
+      "notes": null
+    },
+    {
+      "chunk_id": 128,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non ergo eum propter illa lineamenta corporis aliquis fidelium dixerit, aut tumulum ejus aliquando visitavit, quae utique, sicut ipse dixit, jam non sunt: sed ideo quia justus fuerit, et meritis exigentibus apud Deum vivat et intercessio ejus plurimum valeat.",
+      "english": "Therefore no one among the faithful would say or ever visit his tomb on account of those bodily features, which indeed, as he himself said, no longer exist—but rather because he was just, and because his merits require that he lives with God and his intercession is most powerful.",
+      "notes": null
+    },
+    {
+      "chunk_id": 129,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Igitur non contra nos, ut falso, Claudi, asseris, haec verba beati Augustini faciunt, sed pro nobis, qui ideo sancti Apostoli reliquias veneratione dignas ducimus eo quod eum vivere, justitiae facientibus meritis, scimus, et charitate exigente cineres illos qui in justitiae operibus exercendis animo paruerunt justo visitamus.",
+      "english": "Therefore, Claudius, these words of blessed Augustine are not against us, as you falsely assert, but for us—we who consider the relics of the holy Apostle worthy of veneration precisely because we know he lives through the merits wrought by justice, and compelled by charity we visit those ashes that obeyed the just mind in exercising the works of justice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 130,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ultimam tuam responsionem discutiamus ex his duntaxat tuis lictis quae in nostras devenerunt manus quae hujusmodi est, respondens supradicto abbati: Quinta tua in me objectio est, et displicere tibi dicis, eo quod dominus apostolicus indignatus sit mihi.",
+      "english": "Let us examine your final response, at least from those writings of yours that have come into our hands, which is of this kind, responding to the aforementioned abbot: 'Your fifth objection against me is that you say it displeases you because the apostolic lord has been indignant with me.'",
+      "notes": "Claudius quoting the abbot's fifth objection"
+    },
+    {
+      "chunk_id": 131,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quantum ex verbis tuis cognoscimus, magnus charitatis erga te iste venerabilis vitae abbas exstitit, quae te vanae docentem benigne corripuit, et salubri consilio ut te ab his compesceres admonuit, et quia Romanae Ecclesiae praesul tibi indignatus fuerit indoluit.",
+      "english": "As far as we understand from your words, this abbot of venerable life showed great charity toward you, who kindly corrected you when you were teaching vain things, and admonished you with salutary counsel that you should restrain yourself from these matters, and grieved that the prelate of the Roman Church had been indignant with you.",
+      "notes": null
+    },
+    {
+      "chunk_id": 132,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quo animo haec ejus a te accepta sit castigatio, audiamus. Hoc dixisti, inquis, de Paschali Ecclesiae Romanae episcopo, qui praesente jam corruit vita.",
+      "english": "But with what spirit you received this correction from him, let us hear. You say: 'You said this about Paschal, bishop of the Roman Church, who has already fallen from present life.'",
+      "notes": "Reference to Pope Paschal I (817-824)"
+    },
+    {
+      "chunk_id": 133,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid enim? Nunquid si Paschalis decessit, nullus erit qui tuis vel levitatis actibus, vel improbis verbis resistere possit?",
+      "english": "What then? Just because Paschal has died, will there be no one who can resist your frivolous actions or wicked words?",
+      "notes": null
+    },
+    {
+      "chunk_id": 134,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed improbitas hominum habet proprium, ex eo sibi scelerum promittere impunitatem, si eos contingat evadere judicii humani severitatem: ideoque cum debueris ad temetipsum vel admonitus reverti, et ne quid tibi succenseri possit sinistri, caute cavere, ex obliquo ejusdem Paschalis vitam morsu oblocutionis cerneris impetere, cum addis: Apostolicus autem dicitur quasi apostoli custos.",
+      "english": "But the wickedness of men has this characteristic: they promise themselves impunity from their crimes if they happen to escape the severity of human judgment. And so, when you should have returned to yourself even though admonished, and carefully guarded against anything sinister that might provoke anger against you, you are seen to attack the life of that same Paschal obliquely with the bite of slander, when you add: 'But the apostolic one is called, as it were, the guardian of the apostle.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 135,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod ahorret a ratione. Qua enim de causa Apostolicus dicitur apostoli custos, cum non apostoli tanquam paedagogus vel certe aedituus adhibeatur, sed tanquam vicarius apostolo sostituitur?",
+      "english": "This is contrary to reason. For why would the Apostolic one be called the guardian of the apostle, when he is not employed as the apostle's pedagogue or indeed as his sacristan, but is substituted for the apostle as his vicar?",
+      "notes": "Discussion of papal title and authority"
+    },
+    {
+      "chunk_id": 136,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde et sequens tua interpretatio, quanquam vitiose posita juxta structuram verborum, proxima tamen invenitur juxta veritatis intelligentiam.",
+      "english": "Hence your following interpretation, although defectively placed according to the structure of the words, is nevertheless found to be close to the understanding of truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 137,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum dicere debueris: Apostoli fungens officio, accusativum casum pro ablativo vitiose posuisti.",
+      "english": "When you should have said, 'Performing the office of the apostle,' you defectively placed the accusative case instead of the ablative.",
+      "notes": "Grammatical criticism of Claudius's Latin"
+    },
+    {
+      "chunk_id": 138,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Apostolicus namque dicitur apostoli similis; unde et aspectum angelicum dicimus, quasi angelorum similim: urbicum jus, simile eorum qui urbibus continentur.",
+      "english": "For 'Apostolic' means similar to the apostle, just as we say 'angelic appearance,' meaning similar to angels, or 'urban law,' meaning similar to those who are contained in cities.",
+      "notes": "Etymological explanation of the term 'apostolic'"
+    },
+    {
+      "chunk_id": 139,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia autem haec tua interpretatio ad carpendam supradicti viri tendat vitam, subjuncta manifestat persecutio tua, ita dicendo: Certe non ille dicendus est Apostolicus, qui in cathedra sedet apostoli, sed qui apostolicum implet officium.",
+      "english": "But that this interpretation of yours tends toward attacking the life of the aforementioned man, your subsequent assault makes clear, when you say: 'Certainly he should not be called Apostolic who sits in the chair of the apostle, but he who fulfills the apostolic office.'",
+      "notes": "Claudius's attack on Pope Paschal I"
+    },
+    {
+      "chunk_id": 140,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verum quidem esse fatemur non aliquem sedili apostolico ad apostolorum sublevari dignitatem, nisi eum constiterit implere apostolicam operationem.",
+      "english": "We admit it to be true that no one seated on the apostolic throne is raised to the dignity of the apostles unless it is established that he fulfills the apostolic work.",
+      "notes": null
+    },
+    {
+      "chunk_id": 141,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed cavere te decuerat, ne incaute eum reprehensione tua laederes, quem tibi praelatum nosses, juxta consilium Sapientis: Fili, ne contemnas patris tui senectam, et si defecerit sensu, veniam da (Eccli. III).",
+      "english": "But you should have taken care not to rashly harm with your reproof one whom you knew was set over you, according to the counsel of the Wise Man in the book of Sirach, chapter three: 'Son, do not despise your father's old age, and if his understanding fails, grant him pardon.'",
+      "notes": "Reference to Sirach/Ecclesiasticus"
+    },
+    {
+      "chunk_id": 142,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quomodo namque ejus onus charitate duce supportasses, si eum exorbitare a veritatis itinere vidisses, quem portare nequisti, dum tuarum reprehensorem nugarum sensisti?",
+      "english": "For how would you have borne his burden under charity's guidance if you had seen him stray from the path of truth, when you could not bear him when you perceived him to be a reprover of your trifles?",
+      "notes": null
+    },
+    {
+      "chunk_id": 143,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Audi denique quid beatus Gregorius de incautis reprehensoribus dicat in homilia sancti Evangelii vicesima sexta: Is autem qui sub manu pastoris est, ligari timeat, vel injuste: nec pastoris sui judicium temere reprehendat, ne, et si injuste ligatus est, ex ipsa tumidae reprehensionis superbia, culpa quae non erat, fiat.",
+      "english": "Hear at last what blessed Gregory says about rash critics in his twenty-sixth homily on the holy Gospel: 'But he who is under the hand of a pastor should fear to be bound, even unjustly, and should not rashly criticize his pastor's judgment, lest even if he has been unjustly bound, from the very pride of his arrogant reproof there arise a fault that was not there before.'",
+      "notes": "Reference to Gregory the Great's Gospel Homilies"
+    },
+    {
+      "chunk_id": 144,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Debuerat etiam te beati David commonere exemplum.",
+      "english": "The example of blessed David should also have warned you.",
+      "notes": null
+    },
+    {
+      "chunk_id": 145,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui cum sciret se, reprobato Saule, electum esse in regnum, et eum cerneret saepe maligni spiritus furiis agitatum, et se perciperet ejus persecutionibus valde gravari, non modo se ab ejus laesione temperavit, sed ne comitum quisquam suorum in eum insurgeret inhibuit, dicendo: Quis enim mittet manum suam in Christum Domini, et innoxius erit (I Reg. XXVI)?",
+      "english": "When David knew that he had been chosen for the kingdom after Saul was rejected, and saw that Saul was often agitated by the furies of an evil spirit, and perceived that he himself was greatly burdened by Saul's persecutions, not only did he refrain from harming him, but he prevented any of his companions from rising up against him, saying in the first book of Samuel, chapter twenty-six: 'For who shall lay his hand on the Lord's anointed and be innocent?'",
+      "notes": "David's restraint toward King Saul"
+    },
+    {
+      "chunk_id": 146,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad postremum evangelicum exemplum quasi eo confirmans tuam sententiam annectis subdens: De illis qui eum locum tenent, et non implent officium, Dominus dicit: Super cathedram Moysi sederunt Scribae et Pharisaei: omnia ergo quaecunque dixerint vobis, servate et facite; seconda opera vero eorum nolite facere (Mt. XXIV).",
+      "english": "Finally, you attach a Gospel example as if confirming your opinion by it, adding: 'Concerning those who hold that place but do not fulfill the office, the Lord says in the Gospel of Matthew, chapter twenty-three: The scribes and Pharisees sit on Moses' seat. Therefore whatever they tell you, observe and do; but do not follow their works.'",
+      "notes": "Matthew 23:2-3, cited as chapter 24 in error"
+    },
+    {
+      "chunk_id": 147,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec quidem verba veritatis plenitudine gaudent, ut pote ab eo prolata cujus sententia non incurrit in aliquam falsitatis decipulam.",
+      "english": "These words indeed rejoice in the fullness of truth, as they were uttered by him whose judgment does not fall into any trap of falsehood.",
+      "notes": null
+    },
+    {
+      "chunk_id": 148,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed sciendum est tunc bona bene dici, cum bono animo proferuntur, tunc autem etiam bene dicta, quantum ad dicentem pertinet, perdere vim bonitatis, cum non procedunt ex fonte dilectionis.",
+      "english": "But it must be known that good things are well spoken when they are brought forth with a good spirit, but even well-spoken things, as far as the speaker is concerned, lose the force of goodness when they do not proceed from the fountain of charity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 149,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Lege dicta amicorum sancti Giobbe, qui multa bona et salubria suis dictis inseruerunt, sed sententia judicis, animum potius quam verba pensantis, reprehendi meruerunt, ita dicentis: Non estis coram me recte locuti, sicut servus meus Giobbe (Giobbe XLII).",
+      "english": "Read the words of the friends of holy Job, who inserted many good and salutary things in their speeches, but deserved to be reproved by the sentence of the Judge, who weighs the spirit rather than the words, saying thus in the book of Job, chapter forty-two: 'You have not spoken rightly before me, as my servant Job has.'",
+      "notes": "Job 42:7-8"
+    },
+    {
+      "chunk_id": 150,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pharisaei ergo a Domino juste reprehendi potuerunt, et tali notari correptione, tanquam a cordis inspectore, et qui immunis perseveraret ab omni contagio.",
+      "english": "Therefore the Pharisees could justly be reproved by the Lord and marked with such correction, as by an inspector of the heart and one who remained immune from all contagion.",
+      "notes": null
+    },
+    {
+      "chunk_id": 151,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Attamen quia praelati erant, et sibi sacerdotii honorem vindicabant, cum fecisset quod suum erat, id est, horum tortuosos actus correctione dignos demonstrasset, quid nobis reverentiae talibus impendendum sit lateri sermone nos instruit.",
+      "english": "Nevertheless, because they were prelates and claimed for themselves the honor of the priesthood, when he had done what was his part—that is, demonstrated that their crooked actions were worthy of correction—he instructs us by indirect speech what reverence we ought to pay to such persons.",
+      "notes": null
+    },
+    {
+      "chunk_id": 152,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hortatur enim ut subjiciamur eis, non opera sed doctrinam considerantes.",
+      "english": "For he exhorts us to be subject to them, considering not their works but their teaching.",
+      "notes": null
+    },
+    {
+      "chunk_id": 153,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Recordare percussionis Ozae (II Reg. VI; I Par. XIII), qui quoniam arcam Dei praesumptuose sustentare voluit, sententiam mortis illico experiri meruit.",
+      "english": "Remember the striking down of Uzzah in the second book of Samuel, chapter six, and the first book of Chronicles, chapter thirteen—who, because he presumptuously wished to support the ark of God, immediately deserved to experience the sentence of death.",
+      "notes": "Uzzah struck dead for touching the Ark of the Covenant"
+    },
+    {
+      "chunk_id": 154,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tangit namque hoc exemplum eos qui incaute praelatos sibi indigne reprehendendo et despiciendo, quasi casuram eorum vitam manu reprehensionis sustentare nituntur, et Deum offendunt cujus hi qui praesunt in praelatione vice funguntur.",
+      "english": "For this example touches those who rashly criticize and despise their prelates unworthily, as if trying to support their falling life with the hand of reproof, and they offend God, in whose stead those who preside exercise their leadership.",
+      "notes": null
+    },
+    {
+      "chunk_id": 155,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Disce item vel apostolo Paulo (Rom. XI) credens alienum servum suo domino stantem aut cadentem non judicare, et deinceps a tam superflua levitatisque plena reprehensione animum atque ora compesce.",
+      "english": "Learn also, even by believing the Apostle Paul in his letter to the Romans, chapter eleven, not to judge another's servant who stands or falls before his own master, and henceforth restrain your mind and mouth from such superfluous and frivolity-filled reproof.",
+      "notes": "Reference should be Romans 14:4, not chapter 11"
+    },
+    {
+      "chunk_id": 156,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Navis interea hujus operis per aequoris mundialis scilicet pelagi discrimina discurrens, gubernante Christo Spirituque sancto flante, et a ventis contrariis, impuris videlicet spiritibus, sese muniente, suaque carbasa prospere in directum extendente, tandem hic tuto optatoque potitur littore.",
+      "english": "Meanwhile the ship of this work, running through the perils of the worldly sea, with Christ as pilot and the Holy Spirit blowing, defending itself from contrary winds—that is, from unclean spirits—and prosperously extending its sails straight ahead, finally gains here the safe and desired shore.",
+      "notes": "Nautical metaphor for conclusion of the work"
+    },
+    {
+      "chunk_id": 157,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "At si quispiam lectorum aut auditorum hoc reprehensione dignum judicaverit, pro eo quod modicis brevibusque objectis plus justo longa et grandia sint contra objecta, ideo merito sit repudiandum, quaeso suppliciter et per Dominum obsecro, ut ipse secundum capaciorem perfectioremque suae scientiae sensum, ad supra memorata objecta frustranda quae utique adversus religionem Christianam sunt jaculata, brevius strictiusque condat opus; et illud ad manus legere, et audire, vel habere volentium, sinat proferri placatus.",
+      "english": "But if any reader or hearer should judge this worthy of reproof because, in response to brief and modest objections, excessively long and elaborate counter-objections have been raised, and therefore it deserves to be rejected, I humbly ask and beseech through the Lord that such a person, according to the fuller and more perfect understanding of his own knowledge, compose a shorter and more concise work to refute the aforementioned objections that have been hurled against the Christian religion, and allow it to be brought forth with graciousness into the hands of those who wish to read, hear, or possess it.",
+      "notes": "Author's concluding apologia for the length of his response"
+    }
+  ]
+}
