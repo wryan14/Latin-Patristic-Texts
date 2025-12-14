@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "volume_id": "UNKNOWN",
+    "title": "Three Letters of Count Bulgaranus",
+    "author": "Bulgaranus (Count)",
+    "century": "7th century",
+    "source": "Unknown patristic collection",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-10T00:00:00Z",
+    "total_chunks": 13,
+    "estimated_duration_minutes": 18,
+    "known_issues": [
+      "Author's exact identity uncertain - appears to be a Visigothic count",
+      "Dating uncertain, likely early 7th century based on references to King Gundemar of the Visigoths (reigned 610-612)",
+      "References to Theudebert, Brunhild, and Theuderic suggest Frankish-Visigothic diplomatic context",
+      "Some textual corruptions in original, particularly references to 'Abates' (likely 'Avares' - the Avars)",
+      "Place name 'Irapinas' uncertain",
+      "Letter 3 begins abruptly without clear addressee identification beyond 'bishop'"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Letter 1: Request for United Prayer Against Barbarian Invasion",
+      "latin": "BULGARANI COMITIS EPISTOLAE TRES. EPISTOLA I.",
+      "english": "Three Letters of Count Bulgaranus. Letter 1.",
+      "notes": "Opening of correspondence collection"
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Interea notescimus sanctitati vestrae ad nos opinione vulgata pervenisse Brunigildem virginem et Theudericum regem amarissima sub dispositione assueta diffundentes venena, in excidium unitae gentis contra gloriosum Theutibertum regem atrocissimum barbarorum excitasse dimicare regem.",
+      "english": "Meanwhile, we inform your holiness that common report has reached us: the virgin Brunhild and King Theuderic, spreading their usual bitter poison with malicious intent, have incited the most savage king of the barbarians to fight against the glorious King Theudebert, seeking to destroy a united people.",
+      "notes": "Brunhild was a Visigothic princess and Frankish queen, a major political figure of the era. Theuderic II was king of Burgundy. Theudebert II was king of Austrasia. This refers to Frankish civil conflict circa 610-612 CE."
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod si specialiter ita res agitur, quid necesse est, nisi ut ante arma bellica cunctus in hac parte precibus elaboret divinum populus implorando suffragium, unde petimus evidentiam rei nobis significari?",
+      "english": "If this matter is truly unfolding as described, what is necessary except that before military weapons are taken up, all the people of God in this region should labor in prayer, imploring divine assistance? Therefore we ask that you inform us of the clear facts of the situation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ut et nos participes effecti fidelium pari fidei flagrantia consurgentes, cum universis sacerdotibus, clero, cunctaque hujus provinciae Christianorum plebe, indictis letaniis redemptorem omnium Dominum supplicationibus adeamus; ut invictam potentiae suae in defensione catholicorum praetendat dexteram, et aemulantis perfidi hostis condignum meritis adsit intentionis interitum; atque jurgiorum auctores, vetusti serpentis machinatione nudatos in exemplum reserata clareat cunctis per circuitu justa nostri Domini ultione prostratos poscentes.",
+      "english": "Then we too, made participants with the faithful and rising up with equal fervor of faith, together with all the priests, clergy, and the entire Christian population of this province, will approach the Lord, redeemer of all, with prayers through appointed litanies. We will ask that he extend the unconquered right hand of his power in defense of Catholics, and that he bring about the destruction deserved by the intention of the jealous, treacherous enemy. We will request that the authors of this conflict, stripped bare by the scheming of the ancient serpent, be laid low by the just vengeance of our Lord, made clear as an example to all around.",
+      "notes": "'Ancient serpent' is a reference to Satan, as in Revelation chapter twelve, verse nine"
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ut si scripta quae paulo ante glorioso Theutiberto regi directa, sicut polliciti estis, destinare procurastis: aut si missi vestri jam reversi sunt, vel quod reciperetis responsum, vel si usque hic placita deportantes, aut certe si ad praesentiam gloriosissimi domini mei Gundemari regii praeparaturi advenerint, certius sciamus Quomodo aut tibi pecunia praeparetur, nos veraciter ut confidimus una cum beatitudine vestra sospitatem reciprocatis formare jubeatis affectibus.",
+      "english": "Please let us know more certainly: whether you have sent the letters directed to the glorious King Theudebert as you promised, or whether your messengers have already returned, what response you received, whether they are bringing back agreements to this place, or whether they have come to prepare for an audience with my most glorious lord King Gundemar. Also inform us how money is being prepared for you, so that we may truly, as we trust, shape reciprocal feelings of good will together with your blessedness and yours.",
+      "notes": "Gundemar was Visigothic king 610-612 CE. The financial reference suggests diplomatic subsidies or tribute payments between kingdoms."
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Letter 2: Peace Negotiations with the Goths and the Avar Threat",
+      "latin": "EPISTOLA II.",
+      "english": "Letter 2.",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Etsi universus axe sub aethereo limes terrarum Domino cernitur opifice constitutus, et omnium potestate pollentium ipsius mirabile constet ordinatione divisus, necesse est ut ejus evangelicam vocem custodientes, vel quaerere eos quos una in Christum fides consociat, vel diligere; et quamlibet a temporali dominatione segregemur imperii, congruet ut praeceptis principis non dissociemur aeterni.",
+      "english": "Although the entire boundary of lands under the heavenly axis is seen to be established by the Lord as creator, and the division of all who flourish in power is confirmed by his marvelous ordering, it is nevertheless necessary that we, keeping his gospel voice, should both seek out and love those whom one faith in Christ unites. And however much we may be separated by temporal dominion of empire, it is fitting that we not be divided from the precepts of the eternal prince.",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde beatitudinem vestram gratia coelesti diffusione florentem, et spirituali largitione exuberantem quam Domino propitiante intercurrente stylo effici volumus charitate devinctum, his destinatis cum summo desiderio litteris; non solum inquirimus, sed et salutis cum debito necessariarum rerum alloquio impertimus.",
+      "english": "Therefore, we address your blessedness, flourishing with the spreading grace of heaven and abounding with spiritual generosity, whom we wish to bind in charity through this intervening letter with the Lord's favor. With these letters sent with greatest desire, we not only make inquiry but also share greetings with due discussion of necessary matters.",
+      "notes": null
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia non immerito praecipuum te pastorem suo Christus dedicavit ovili, ut cum velut sanguinis generositate mihi, beatissime Pater, praepolleas, ita de suarum innumeras ovium geras sollicitudinem animarum. Tali quippe in usu persistere quibus vel major vel minor cura in populis adhibenda committit: ut quantum divina efficiuntur in pensione sublimiores, tantum debent circa his quibus praeponuntur existere indesinenter pervigiles.",
+      "english": "Christ has not undeservedly dedicated you as chief shepherd to his sheepfold, so that just as you excel through nobility of blood, most blessed father, so too you bear responsibility for the countless souls of his sheep. Indeed, such is the custom that persists for those to whom is committed greater or lesser care in oversight of peoples: that the more they are made sublime in divine regard, the more they ought to remain unceasingly vigilant concerning those over whom they are placed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quia latere beatitudinem vestram non arbitror quod filius vester dominus Theutibertus cum gente Gothorum a decidentibus velut olim existit colligata principibus, nunc per peritorum allegatione pacem per legatis ejusdem gentis devovit roborare perpetuam. Ex quo aliquod gratiae merito pecuniae, numerum gentis pollicitus est impertire Francorum.",
+      "english": "And because I do not think it is hidden from your blessedness that your son, lord Theudebert, has been bound together with the people of the Goths by princes falling away as in former times, he has now vowed through the representation of experts to strengthen perpetual peace through ambassadors of that same people. As a result, he has promised to bestow some amount of money as a gift of favor to the Frankish people.",
+      "notes": "Text possibly corrupt; 'gentis Francorum' placement uncertain"
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde jam me constat, memorato filio vestro domino Theutiberto per venerabilem fratrem vestrum dominum et in Christo mihi patrem verum episcopum destinasse scripta, per quas innotui quod jam pecunia a filio vestro domno meo Gundemaro rege directa. Hic mihi in Gallias esse dignoscitur, ut prudentes ex suo dirigat conspectu legatos: et ea quae ob charitatem gens Gothorum sperat universa, promittit tradentibus placita saltem contradamus hominibus.",
+      "english": "Therefore I have already sent letters to your aforementioned son, lord Theudebert, through your venerable brother, a lord and true bishop who is a father to me in Christ. Through these letters I made known that money has already been sent by your son, my lord King Gundemar. He is known to me to be in Gaul, so that he may send prudent ambassadors from his presence. And that we might deliver at least to his appointed men all those things which the Gothic people hope for out of charity, he promises to hand over the agreements.",
+      "notes": null
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Obinde tuam sanctitatem debita humilitate deposco, ut quantum Dominum diligis Jesum, qui pacem praeteritis saeculis dereliquit futuris, hujus confirmatione pro pacis tantum intendere digneris delectabiliter. Et si agnoscitis eam quam direximus ad domnum Theutibertum paginam pervenisse; aut si ea quae per legatis Gothorum sunt sub definitione inita, si manebunt veraciter allegata, vel quantum praedictus filius vester in Abatorum bellica triumphatus est acie, vestris mereamur affectibus informari.",
+      "english": "Therefore I ask your holiness with due humility that, as much as you love the Lord Jesus, who left peace for future ages after past ages, you would deign to attend delightfully only to the confirmation of this peace. And if you know that the letter we directed to lord Theudebert has arrived, or if those things which have been agreed upon with clear definition through the ambassadors of the Goths will remain truly as alleged, or to what extent your aforementioned son has triumphed in battle line against the Avars, may we deserve to be informed by your good will.",
+      "notes": "Text reads 'Abatorum' but clearly means 'Avarorum' (the Avars), a steppe people who invaded central Europe in the 6th century"
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam et nobis currenti est opinione plebis compertum, quod Brunigildes reginae et Theuderici regis ipsos Abates ad bellandum domni Theutiberti convocatos et de suis sedibus transmigrare provinciam: quod enuntiare catholicorum infandum est auribus, ut Christiana sub religione personas revera procul a Domino constitutas, in Christianorum provocarent desaevire. Nec credimus eos ab illis existere meliores, sed ita manifeste socios comprobamus qui de mundum debitis scelerum ministrat retamenta personas.",
+      "english": "For indeed, it has become known to us through current popular opinion that Queen Brunhild and King Theuderic have summoned these same Avars to make war against lord Theudebert, and to migrate from their own territories into his province. It is unspeakable to declare to Catholic ears that persons under Christian religion, truly established far from the Lord, would provoke savages to rage against Christians. Nor do we believe they are better than those Avars, but we manifestly prove them to be allies who minister to the world the entangling bonds of owed crimes.",
+      "notes": "Again 'Abates' corrected to Avars. Strong condemnation of Christian rulers allying with pagan invaders"
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc igitur vestra sanctitas si evidenter agnovit, quod ex praedictorum regum consilio super orthodoxi principis regionem impia se fudit hostilitate caterva, per vestro nobis declarare jubeatis stylo, ut hac filii vestri gloriosi domini mei Gundemari regis ad ordinationem nostram pertinente provincia, indicta sacerdotes cum populo omnipotenti celebrent jejuniorum solemnia; ut accedentium injuste atque longe a domino corda virorum, siderea confringat virtute bellantium, et gente Christianae fidei dogma custodienti laudabilem coelesti pietate jubeatis conferre tropaeum.",
+      "english": "If therefore your holiness has clearly learned that an impious horde has poured out in hostility against the region of an orthodox prince by the counsel of the aforementioned kings, please declare this to us through your writing. Then in this province pertaining to our jurisdiction, belonging to your son, my glorious lord King Gundemar, let priests proclaim with the people solemn fasts to the Almighty, so that he may shatter with starry power the hearts of men who approach unjustly and far from the Lord, and who make war. And command that a praiseworthy trophy be conferred by heavenly mercy upon the people who guard the teaching of the Christian faith.",
+      "notes": null
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Letter 3: Reproach for Diplomatic Deception and Detained Ambassadors",
+      "latin": "EPISTOLA III. Dilectissimo atque in Christo reverendissimo Patri episcopo Bulgaranus.",
+      "english": "Letter 3. To the most beloved and most reverend father and bishop in Christ, from Bulgaranus.",
+      "notes": "This letter's addressee is not named, only identified as a bishop"
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Notum est Domino omnipotenti qui justum indicat servum, et injustum justa damnationis ultione perimet, quia ante hos dies, quod tuam non reor latuisse beatitudinem, chartas gloriosissimorum regum idemque filiorum vestrorum Brunigildes reginae et Theuderici regis, per eodem nobis fuere transmissas.",
+      "english": "It is known to the Lord Almighty, who judges the just servant and will destroy the unjust with just vengeance of condemnation, that some days ago—which I do not think has escaped your blessedness—letters from the most glorious kings and your same sons, Queen Brunhild and King Theuderic, were transmitted to us by the same messenger.",
+      "notes": "Interesting that Brunhild is called 'king' (rex) along with Theuderic; reflects her actual political power"
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ut eas ipso praeciperemus tradente, memoratorum series scriptorum denuntiavisse, qui eadem suorum scripta dominorum una cum suam ad nos usque suggestionem deduxi, et ut aditum ad nos perciperet commeandi supplex scribendo nostram ordinationem poscit.",
+      "english": "And the sequence of the aforementioned writings announced that we should hand them over as that man himself commanded, who brought the same writings of his lords to us along with his own petition. He humbly requests in writing our authorization to receive access to come to us.",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam nullo cum desiderio, neque exquirere elegit nos, neque ab nullis indigimus intueri materiis; et quam neque si venisset pro responso dominorum suorum denuntiando annueramus: tantum quia minime properavit, nequissimus nam de homine vestrum illum cujus ad praesentiam filii vestri gloriosi domini Gundemari regis efflagitare videmini aditum, debet mens vestra in summo propositionis tabescere exordio, dum veritas vobis experto lumine fulgeat, et justitiam quam speculo interiori prospicitis, injusta verborum excusatione dissimuletis.",
+      "english": "For with no desire did he choose to seek us out, nor do we need to look into any matters with him. And even if he had come to announce a response from his lords, we would not have agreed. But since he scarcely hurried—for he is a most wicked man—concerning that man of yours for whom you seem to demand access to the presence of your son, my glorious lord King Gundemar: your mind ought to waste away at the very beginning of this proposal. For truth shines upon you with experienced light, and you conceal with unjust verbal excuses the justice which you perceive in the mirror of your interior self.",
+      "notes": "Tone becomes sharply critical here"
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quis vestrae non prospiciat sanctitatis ingenium, et ea quae actibus exasperastis illicitis, blandis intenditis eloquiorum lenire tendiculis? Talem enim vestram, si veniam tribuitis, dissimulationem censemus. Quale si quisque debitor humano pudore sublato, proterviae incitamento, praerogativis feneratorem pulset objectionibus et veritatem habeus pusilentus creditor tegat, quam calumniator loquendo penitus erubescat.",
+      "english": "Who does not see through the character of your holiness, that you try to soothe with flattering snares of eloquence those things which you have made bitter by illicit actions? For we judge such dissimulation on your part, if you grant pardon for the expression, to be like this: as if some debtor, having removed human shame and driven by shamelessness, should strike the money-lender with preemptive objections, while the creditor who has the truth covers it timidly, and the slanderer is thoroughly shameless in speaking.",
+      "notes": "Vivid financial analogy for diplomatic hypocrisy"
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Manet enim filio vestro glorioso domno meo Gundemaro regi cunctaeque genti Gothorum non exigua sed magna pecuniae repetitio, ut nobiles ejusdem gentis legatos vestra magnificentissime cum consolato veritatis gratia discurrentes ab vestro injuste principe capti. Geminata malitiae largitate dedecus omne relegationis perferant egestatis opprobrio.",
+      "english": "For there remains to your glorious son, my lord King Gundemar, and to the entire Gothic people not a small but a great claim for return of money. Noble ambassadors of that same people, traveling magnificently with the consolation of truth's favor, were unjustly captured by your prince. With doubled generosity of malice they endure every disgrace of banishment in the reproach of poverty.",
+      "notes": "Complaint about detained Gothic ambassadors and seized funds"
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pateat vero Totilanem et Gundrimirum viros illustres a serenissimo domino meo Gundemaro rege directos, in finibus vestris in locum Irapinas post illatam eorum despectionem inter praeceptione clausistis, et ad vos usque succedere loculenter aditum denegastis.",
+      "english": "Moreover, let it be clear that you imprisoned Totila and Gundirmir, illustrious men sent by my most serene lord King Gundemar, within your borders in a place called Irapinas, after inflicting contempt upon them. You shut them up by command and denied them access to come fully to you.",
+      "notes": "Totila and Gundirmir appear to be Gothic ambassadors. Irapinas is an uncertain place name."
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce quae pars vestra commiserit vestris non sunt incognita mentibus; et tantum a vobis injuriae acerbitatem vehentibus insuper vestrorum ad praesentia inclyti domini mei legatorum, vestri simulando litteris, viam aperire conqueritis.",
+      "english": "Behold, the things which your side has committed are not unknown to your minds. And while carrying so much bitterness of injury from you, you now complain in your dissembling letters about opening a way for your ambassadors to come to the presence of my illustrious lord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Videat altissimus a coelesti solio princeps hanc causam; et divina partem ultione confodiat qui injuste parti alterius visus est conferre molestiam, et qui charitatem respuendo pacem excelsae potestatis violaverit captiose dilectam.",
+      "english": "Let the most high prince see this cause from his heavenly throne, and let him strike down with divine vengeance the party who is seen to have unjustly brought trouble upon the other party, and who by rejecting charity has deceitfully violated the peace beloved by the lofty power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Licet dum filiorum regum idemque vestrorum litteras accepissem, eorum protinus reformavi rescriptum quod si memorati gloriosi principes acceperunt, sive in vestra fuerit cognitione deductum, nullo denuntiante comperimus.",
+      "english": "Although when I had received letters from your royal sons, I immediately composed a reply to them—whether the aforementioned glorious princes received it, or whether it was brought to your knowledge, we have learned from no one announcing it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et vestrae itaque honorificentiae declaramus, si remoto simulationis pacem typo servare desideratis, quae dominio maxima sors esse cognoscitur, et Christum diligenda concordes cum Gothis corde aptatis permanere devoto; non oportet ut ea tantum labiis fallentibus proferatis, sed pacem quam nobis servantibus ipsi prius irruere, perfectis demonstrandum operibus demonstretis.",
+      "english": "But we also declare to your honor that if you desire to keep peace with the pretense of simulation removed—which is known to be the greatest lot of lordship—and if you wish to remain fitted with devout heart in harmony with the Goths in love of Christ, it is not fitting that you merely speak these things with deceiving lips. Rather, you should demonstrate by completed works the peace into which you first broke while we were keeping it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dignum est vestri ut primum in sua dignitate Gothorum restituantur legati; et inter affinem sanguinis gentem servantem pacem, Domino adjuvante, vestrorum, si necesse est, ad praesentiam gloriosi domini mei libertas maneat itineris legatorum.",
+      "english": "It is worthy of you that first the Gothic ambassadors be restored to their dignity, and that among a kindred people of blood keeping peace, with the Lord's help, the freedom of journey remain for your ambassadors, if necessary, to come to the presence of my glorious lord.",
+      "notes": "Appeal to shared Gothic-Frankish ethnic ties"
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam de locis unde intimastis Jubiniano et Corneliano, quae in provincia Gothorum noscitur domna Brunigildes possedisse, ut suis post ejus jure aditum tribuamus hominibus; ordinandam miramur tuam sic nos hortare beatitudinem, ut loca quae pro stabilitate concordiae sanctae memoriae dominus noster Recharedus rex in jure memoratae contradidit domnae ut a partibus vestris scandalum nutrientibus foedus sit charitatis disruptum: et pars jura quae stimulum illicite suscitat, jura debeat gentis possidere Gothorum.",
+      "english": "Now concerning the places about which you notified us, at Jubinianus and Cornelianus, which lady Brunhild is known to have possessed in the province of the Goths—that we should grant access to her men by her right after this: we marvel that your blessedness urges us to arrange this. For those places which our lord King Reccared of holy memory granted by right to the aforementioned lady for the stability of concord have now had the bond of charity disrupted by scandal nourished by your side. And the party which illicitly stirs up conflict should possess rights of the Gothic people?",
+      "notes": "Reccared I was Visigothic king 586-601, known for converting from Arianism to Catholicism. Reference to disputed territorial rights held by Brunhild in Visigothic territory."
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Arbitror enim ut ea quae pars vestra injuste noscitur admisisse, si emendare malueritis, poterit gentem vestramque in charitate connexam, eadem suo jure domna Brunigildes defendere loca.",
+      "english": "For I judge that if you prefer to make amends for those things which your side is known to have unjustly committed, then the same lady Brunhild will be able by her own right to defend those places, with your people and nation joined in charity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Te quippe, beatissime vir, dum hactenus benignis animis, et saecularibus evigilantem studiis, nimisque formidare omnipotentem meminimus? Quomodo cures si tantis temporibus charitas utriusque illaesa agentis es Deo dicatus antistes a principibus, ut quae pax olim a prioribus gentium utrarum gentibus colligata, nunc maneat dissoluta, dum vestro debuit ex consilio in perpetuum existere roborata?",
+      "english": "For you, most blessed man, whom we remember as being until now of benign spirit and vigilant in secular affairs and greatly fearing the Almighty—how can you take care, if in such times you are a bishop dedicated to God by princes to act for the unharmed charity of both sides, that the peace once bound together by the former leaders of both peoples now remains dissolved, when by your counsel it ought to have been strengthened to exist in perpetuity?",
+      "notes": "Concluding reproach: the bishop has failed in his duty as peacemaker between the Franks and Visigoths"
+    }
+  ]
+}
