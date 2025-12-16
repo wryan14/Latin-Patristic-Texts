@@ -3,7 +3,7 @@
     "volume_id": "UNKNOWN",
     "title": "De planctu Naturae",
     "author": "Alain de Lille (Alanus de Insulis)",
-    "century": "12th century",
+    "century": 12,
     "source": "Text appears to be from a critical edition, possibly Patrologia Latina Volume 210",
     "translator": "claude-sonnet-4.5",
     "translation_date": "2025-05-18T12:00:00Z",
@@ -29,7 +29,9 @@
       "The work ends abruptly with the narrator waking, which is typical of medieval dream-vision literature",
       "The Latin text contains several marginal glosses and variant readings in brackets which have been incorporated where they clarify meaning",
       "Some classical and mythological references (Tantalus, Hippolytus, Daphne, etc.) are left as proper names without extensive explanation"
-    ]
+    ],
+    "title_latin": "De Planctu Naturae",
+    "title_english": "The Complaint of Nature"
   },
   "chunks": [
     {
