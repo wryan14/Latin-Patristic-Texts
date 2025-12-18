@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "volume_id": "UNKNOWN",
+    "title": "Three Sermons on the Nativity of the Lord",
+    "author": "Unknown",
+    "century": "Unknown - likely 5th-12th century based on style",
+    "source": "Latin patristic text, source unspecified",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-10",
+    "total_chunks": 168,
+    "estimated_duration_minutes": 85,
+    "known_issues": [
+      "Author identity uncertain - text contains no clear attribution",
+      "Dating uncertain - style suggests late patristic or early medieval period",
+      "Some textual variants noted in manuscript (marked with 'f.' for variant readings)",
+      "Greek transliterations may vary from standard forms",
+      "Biblical citation locations follow Vulgate numbering which may differ from modern translations",
+      "Reference to 'Rabanus' suggests Rabanus Maurus (9th century) but context unclear"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "First Sermon on the Nativity",
+      "latin": "IN NATIVITATE DOMINI SERMO PRIMUS . De nativitate Domini.",
+      "english": "First Sermon on the Nativity of the Lord: Concerning the Birth of the Lord",
+      "notes": "This marks the beginning of the first of three Christmas sermons"
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "«Domini est assumptio nostra sancti Israel regis nostri (Psal. LXXXVIII, 19).»",
+      "english": "As Scripture says: Our assumption belongs to the Lord, even the Holy One of Israel, our King. This comes from Psalm eighty-eight, verse nineteen.",
+      "notes": "Citation from Psalm 88:19 in Vulgate numbering"
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dominus dominantium, Rex regum, cui nomen est Omnipotens, humanae infirmitatis consortium non aspernatus, nec dedignatus, «semen Abraham, non angelos apprehendit,» ut ait Apostolus (Hebr. II, 16).",
+      "english": "The Lord of lords, the King of kings, whose name is Almighty, did not spurn or disdain fellowship with human weakness. As the Apostle says in Paul's letter to the Hebrews, chapter two, verse sixteen: He took hold of the seed of Abraham, not of angels.",
+      "notes": "Establishes the theme of divine condescension in the Incarnation"
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non enim angelicae naturae data est haec dignitas, ut Deus ei in unam personam jungeretur, sed carnem de Abraham suscepit, ut filios ejus salvaret.",
+      "english": "This dignity was not given to angelic nature, that God should be joined to it in one person. Rather, he took flesh from Abraham in order to save his children.",
+      "notes": "Important theological distinction about why the Incarnation involved human rather than angelic nature"
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde Isaias: «Educam de Jacob semen, et de Juda possidentem montes summos, et haereditabunt haereditatem mei electi; ibi servi mei habitabunt (Isa. LXV, 9).»",
+      "english": "Hence Isaiah says in chapter sixty-five, verse nine: I will bring forth offspring from Jacob, and from Judah one who shall possess my highest mountains, and my chosen ones shall inherit it; there my servants shall dwell.",
+      "notes": "Isaiah 65:9 citation"
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc est semen Abrahae promissum, cui est a Domino dictum: «In semine tuo benedicentur omnes gentes (Gen. XXII, 18).»",
+      "english": "This is the promised seed of Abraham, to whom the Lord said in the book of Genesis, chapter twenty-two, verse eighteen: In your seed all nations shall be blessed.",
+      "notes": "Genesis 22:18 - connects to the promise to Abraham"
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic est Christus semen dictus Abrahae, quia semen Abrahae apprehendit. Non enim secum de coelo carnem tulit, nec aliunde novam carnem reformavit. Sed de massae humanae conspersionis assumpsit nubem sanctificationis, ut esset gigas geminae substantiae, biformisque naturae, in quo humanae naturae dignitas, et Dei misericordia et gratia, qua hoc facere dignatus est, et cura quam de nobis habuit, insinuatur;",
+      "english": "This is Christ, called the seed of Abraham because he took hold of Abraham's seed. He did not bring flesh with him from heaven, nor did he fashion new flesh from some other source. Rather, from the common mass of human corruption, he assumed a cloud of sanctification, becoming a giant of two substances and two natures. In him is shown forth the dignity of human nature, the mercy and grace of God by which he deigned to do this, and the care he had for us.",
+      "notes": "Key christological passage on Christ's two natures and the source of his humanity"
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "fugientem quippe ante ipsum humanam naturam, et longe fugientem, longe quidem eminus, quia longe a peccatoribus est salus, insecutus apprehendit: quod quia est magnum et mirabile, et stupore plenum, infirmitatem nostrae carnis sic exaltavit, ut Verbo Patris in unitate personae societur.",
+      "english": "For human nature was fleeing before him, fleeing far away—indeed, salvation is far from sinners—yet he pursued and took hold of it. Because this is great and wonderful and full of amazement, he so exalted the weakness of our flesh that it might be joined to the Word of the Father in unity of person.",
+      "notes": "Vivid metaphor of Christ pursuing fleeing humanity"
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec est mulier, quae, ut evangelica tradit parabola, accendit lucernam, et drachmam quae perdita fuerat, eversa domo reperit. Perdito enim homine in protoplasto, qui fuit origo perditionis, nos autem propago patris, sapientia ut drachmam perditam reperiret, id est hominem nomine regis et imagine inscriptum reperiret, accendit lucernam, id est lumen posuit in testa, quia lumine divinitatis accendit testam humanae infirmitatis,",
+      "english": "This is the woman who, as the Gospel parable recounts, lit a lamp and found the coin that had been lost by sweeping the house. For when man was lost in the first father, who was the origin of perdition, and we became the offspring of that father, divine wisdom sought to find the lost coin—that is, to find man stamped with the name and image of the King. Wisdom lit the lamp, that is, placed light in an earthen vessel, because she kindled the vessel of human weakness with the light of divinity.",
+      "notes": "Extended allegorical interpretation of the parable of the lost coin (Luke 15:8-9)"
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "et eversa domo, id est mundo in malignitate posito, dextera Excelsi in melius mutato, reperta est drachma, et prodigus ille filius, qui perierat, ad patrem de longinqua peregrinatione regrediens, est inventus.",
+      "english": "And when the house was swept—that is, when the world lying in wickedness was changed for the better by the right hand of the Most High—the coin was found, and that prodigal son who had perished was found returning to his father from a distant land.",
+      "notes": "Conflates the parables of the lost coin and the prodigal son"
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Naturae jura solventur, ubi Deus humanatur; et hic [f. et homo] deificatur, ubi natus in matre generatur sine patre.",
+      "english": "The laws of nature are dissolved when God becomes human, and here man is deified, where one born of a mother is begotten without a father.",
+      "notes": "Concise statement of the mutual exchange in the Incarnation"
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Laetentur ergo coeli, et exsultet terra, quia Verbo sociata est nostra natura, et quae in terris sunt, et quae in coelis restaurata, et pace hominibus in terra data, facta est Deo in excelsis gloria, dum angelicae ruinae reparantur dispendia.",
+      "english": "Therefore let the heavens rejoice and let the earth exult, because our nature has been joined to the Word. What is on earth and what is in heaven has been restored, and peace has been given to humanity on earth, glory has been made to God in the highest, while the losses from the angelic fall are being repaired.",
+      "notes": "Echoes the angelic hymn from Luke 2:14"
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde ab angelis canitur: «Gloria in excelsis Deo (Luc. II, 14);» glorificant enim Deum de suae diminutionis reparatione. Laudant Deum de naturae reconciliatione, qua cuncta sunt peracta, quia apparuit benignitas et humanitas Salvatoris nostri Dei; id est, Deus benignus et humanatus apparuit, cum venit quaerere et salvum facere quod perierat.",
+      "english": "Hence the angels sing, as recorded in the Gospel of Luke, chapter two, verse fourteen: Glory to God in the highest. For they glorify God for the restoration of their diminished number. They praise God for the reconciliation of nature, by which all things have been accomplished, because the kindness and humanity of God our Savior has appeared—that is, God appeared as kind and made human when he came to seek and save what was lost.",
+      "notes": "Angels rejoice because human salvation repairs the angelic ranks depleted by the fall of Satan and his angels"
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Solus Patris Filius, non Pater ipse, vel Spiritus sanctus, carnem assumpsit; ut Deus, qui in sapientia sua mundum condiderat, secundum illud: «Omnia in sapientia fecisti (Psal. CIII, 24).» Domine, ut eadem quae in coelis sunt et in terris, salvaret, missus eidem [supp. mundo] Filius, non Pater, vel Spiritus sanctus, ut alius [ut non alius] in divinitate esset Filius, alius in humanitate.",
+      "english": "The Son of the Father alone—not the Father himself, nor the Holy Spirit—took on flesh. For God who created the world in his wisdom, according to the word in Psalm one hundred three, verse twenty-four: Lord, you have made all things in wisdom—in order that he might save what is in heaven and on earth, the Son was sent to the world, not the Father or the Holy Spirit, so that the Son would not be one person in divinity and another in humanity.",
+      "notes": "Important trinitarian and christological clarification about why specifically the Son became incarnate"
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ne idem esset Pater qui Filius, si Deus Pater de homine nasceretur, in magno Dei concilio et ineffabili sapientia, non Pater carnem assumpsit, vel Spiritus sanctus, sed Filius tantum, ut qui erat in divinitate Filius Dei, ipse fieret in homine hominis Filius; natus pro veritate, nasceretur ex homine hominis filius, ut veritas geniti, non adoptione, vel appellatione, sed in utraque nativitate nascendo filii nomen haberet.",
+      "english": "And lest the Father and Son be the same person—which would happen if God the Father were born of a human—in the great council and ineffable wisdom of God, it was not the Father who took on flesh, nor the Holy Spirit, but the Son alone. Thus he who was the Son of God in divinity would himself become the Son of Man in humanity. Born for the sake of truth, he would be born from a human as the son of man, so that the truth of his being begotten would not rest on adoption or mere designation, but that he would have the name of Son in both nativities by actually being born.",
+      "notes": "Explains why confusion of persons in the Trinity is avoided by having only the Son incarnate"
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hujus utramque nativitatem Isaias admirans, ultra [supp. quam dici potest] profundidatis horrore percussus, et ultra abyssi altitudinem attonitus, ait: «Antequam parturiret, peperit; antequam veniret partus ejus, peperit masculum. Quis audivit unquam tale, et quis vidit unquam huic simile?» (Isa. LXVI, 7, 8.)",
+      "english": "Marveling at both of his births, Isaiah, struck with awe at depths beyond what can be expressed and astonished beyond the height of the abyss, says in chapter sixty-six, verses seven and eight: Before she was in labor, she gave birth; before her pain came upon her, she delivered a male child. Who has heard such a thing? Who has seen anything like this?",
+      "notes": "Isaiah 66:7-8 interpreted as referring to Christ's two births"
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Mens deficit, vox silet. Idem alibi ait: «Generationem ejus quis enarrabit?» (Isa. LIII, 8.)",
+      "english": "The mind fails, the voice falls silent. The same prophet says elsewhere in chapter fifty-three, verse eight: Who can declare his generation?",
+      "notes": "Isaiah 53:8 - emphasizes the ineffability of Christ's generation"
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod non de aeterna generatione tantum, sed etiam de temporali intelligendum est.",
+      "english": "This should be understood not only of his eternal generation, but also of his temporal birth.",
+      "notes": "Important hermeneutical note applying the verse to both divine and human generation"
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam et Joannes ab utero sanctificatus, quo inter natos mulierum non surrexit major, se et infirmum ostendit incomparabilis generationis explicatione, dicens: «Veniet fortior me post me, cujus non sum dignus solvere corrigiam calceamentorum (Joan. I, 17);» id est ligaturam mysterii incarnationis, modum [f. nodum] secreti aperire non sufficio.",
+      "english": "For even John, sanctified from the womb, than whom none greater has arisen among those born of women, showed himself weak when it came to explaining the incomparable generation, saying in the Gospel of John, chapter one, verse seventeen: One mightier than I is coming after me, the strap of whose sandals I am not worthy to untie—that is, I am not sufficient to open the binding of the mystery of the incarnation, to reveal the knot of the secret.",
+      "notes": "Allegorical interpretation of John the Baptist's statement about untying sandal straps"
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et recte caro dicitur calceamentum, quia ea quasi calceata ad nos divinitas venit.",
+      "english": "And rightly is the flesh called a sandal, because divinity came to us as if shod with it.",
+      "notes": "Explains the sandal metaphor - flesh as protective covering for divinity"
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quod ait: Antequam parturiret, peperit, etc. Hoc involucrum interpres veritatis, quasi excutiens, ait: Antequam parturiret Virgo, Deus Pater peperit, id est Filium genuit, antequam veniret partus ejus, scilicet Mariae, Deus Pater peperit masculum, id est Filium fortem, per quem omnia facta sunt et subsistunt.",
+      "english": "But regarding what Isaiah said—before she was in labor, she gave birth—the interpreter of truth, shaking out this covering as it were, says: Before the Virgin was in labor, God the Father gave birth, that is, begot the Son. Before her delivery came, namely Mary's, God the Father gave birth to a male child, that is, the strong Son through whom all things were made and subsist.",
+      "notes": "Interprets 'before she was in labor' as referring to the Father's eternal generation of the Son before Mary's temporal birth"
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde masculus dicitur, non propter sexuum discretionem, sed ob virtutis magnitudinem, sicut et brachium, de quo: «Et brachium Domini cui revelatum est (Ps. LXIII, 1).»",
+      "english": "He is called male not because of sexual distinction, but because of the magnitude of his power, just as he is also called the arm of God, of which it is said in Psalm sixty-three, verse one: To whom has the arm of the Lord been revealed?",
+      "notes": "'Male' (masculus) interpreted as signifying strength rather than biological sex; conflates with Isaiah 53:1"
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quis autem unquam vel vidit simile, ut idem hic sit natus, et primo de patre sine matre, et secundo de matre sine patre.",
+      "english": "Who has ever seen anything like this: that the same one was born, first from a father without a mother, and second from a mother without a father?",
+      "notes": "Crystallizes the paradox of Christ's two births"
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ne [igitur] admireris, cum et Patrem peperisse fateamur, cum ipse dicat! «Nunquid ego qui alios parere facio, ipse non pariam?» (Isa. LXVI, 9.)",
+      "english": "Do not be amazed, therefore, when we confess that even the Father gave birth, since he himself says in Isaiah chapter sixty-six, verse nine: Shall I who cause others to give birth not give birth myself?",
+      "notes": "Uses Isaiah 66:9 to support the idea of the Father 'giving birth' to the Son eternally"
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Peperit ergo Deus Pater, et parturiit Virgo, non duos, sed unum eumdemque Dei Filium, De quo: «Puer natus est nobis, et filius datus est nobis (Isa. IX, 6).»",
+      "english": "Therefore God the Father gave birth, and the Virgin gave birth—not to two different persons, but to one and the same Son of God, of whom it is said in Isaiah chapter nine, verse six: A child is born to us, and a son is given to us.",
+      "notes": "Isaiah 9:6 - emphasizes the unity of the person born of both Father and Virgin"
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Magnus est et excelsus puer iste, cujus ineffabilis est nativitas, de quo Ecclesiasticus ait: «Melior est puer pauper et sapiens rege sene et stulto, qui nescit providere in posterum; cum de carcere catenisque egrediatur quis ad regnum, et alius natus in regno inopia consumatur (Eccli. IV, 13, 14).»",
+      "english": "Great and exalted is this child, whose birth is ineffable, of whom Ecclesiastes says in chapter four, verses thirteen and fourteen: Better is a poor and wise child than an old and foolish king who does not know how to look ahead to the future; for one comes forth from prison and chains to reign, while another born in the kingdom is consumed by poverty.",
+      "notes": "Ecclesiastes 4:13-14 allegorically applied to Christ vs. Satan"
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic est puer electus e millibus, de quo Pater ait: «Ecce puer meus quem elegi (Isa. XLII, 1; Matth. XII, 18).»",
+      "english": "This is the child chosen from thousands, of whom the Father says in Isaiah chapter forty-two, verse one, and in the Gospel of Matthew, chapter twelve, verse eighteen: Behold my child whom I have chosen.",
+      "notes": "Conflates Isaiah 42:1 and Matthew 12:18"
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic puer, licet pauper, plures habet pueros sibi obtemperantes, propter quos et ipse factus est puer. Cum enim esset dives Deus apud Deum Patrem, per quem omnia facta sunt, factus est pro nobis pauper, ut nostram assumendo paupertatem, nobis suas communicaret divitias.",
+      "english": "This child, though poor, has many children obedient to him, for whose sake he himself became a child. For though he was rich as God with God the Father, through whom all things were made, he became poor for our sake, so that by assuming our poverty, he might share his riches with us.",
+      "notes": "Echoes 2 Corinthians 8:9"
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ut enim se pauperavit, membra coelestibus donis ditavit. Repletus est enim in quantum homo Spiritu sancto, qui datus est ei sine mensura, et de plenitudine ejus nos omnes accepimus.",
+      "english": "For as he impoverished himself, he enriched his members with heavenly gifts. For insofar as he is human, he was filled with the Holy Spirit, who was given to him without measure, and from his fullness we have all received.",
+      "notes": "Refers to John 3:34 and John 1:16"
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicut humilis factus est ut nos exaltaret, et pauper, ut nobis pauperibus spiritu regnum coelorum daret, ita et puer ut suos faceret pueros, de quibus Isaias ait: «Ecce ego et pueri mei, quos dedit mihi Dominus (Isa. VIII, 18).»",
+      "english": "Just as he became lowly to exalt us, and poor to give the kingdom of heaven to us who are poor in spirit, so also he became a child to make his own children, of whom Isaiah says in chapter eight, verse eighteen: Behold, I and the children whom the Lord has given me.",
+      "notes": "Isaiah 8:18 - Christ and his disciples/followers as children"
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saepe quidem in prophetis dicitur puer propter puritatis privilegium, qui peccatum non fecit, nec inventus est dolus in ore ejus, «qui non abiit in via peccatorum, et in consilio impiorum non stetit, et in cathedra pestilentiae non sedit (Psal. I, 1).»",
+      "english": "Indeed, he is often called a child in the prophets because of the privilege of purity—he who committed no sin, nor was deceit found in his mouth, who did not walk in the way of sinners, nor stand in the counsel of the wicked, nor sit in the seat of scoffers, as it says in Psalm one, verse one.",
+      "notes": "Conflates 1 Peter 2:22 with Psalm 1:1"
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde omnes qui volunt esse sui discipuli, pueros fieri oportet, quia, «puerum assumens, statuit [eum] in medio, dicens: Qui non se humiliaverit sicut parvulus iste, non intrabit in regnum coelorum (Marc. IX, 35).»",
+      "english": "Therefore all who wish to be his disciples must become children, because, as the Gospel of Mark records in chapter nine, verse thirty-five, taking a child, he set him in their midst, saying: Whoever does not humble himself like this little child will not enter the kingdom of heaven.",
+      "notes": "Actually conflates Mark 9:36 with Matthew 18:3-4"
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inde est etiam quod puerorum innocentium primitiae dedicatae sunt, qui non loquendo, sed moriendo confessi sunt ipsum, ut his in puritate vitae conformari studeant, quicunque Deo hostiam offerre volunt.",
+      "english": "Hence also the first fruits of the innocent children were dedicated—those who confessed him not by speaking but by dying—so that all who wish to offer sacrifice to God might strive to be conformed to them in purity of life.",
+      "notes": "Refers to the Holy Innocents massacred by Herod"
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Propter hujuscemodi pueros, ut eos liberaret de manu perditoris, factus est puer, animam et carnem participans, similis eis in poena, sed non in culpa.",
+      "english": "For the sake of children such as these, to free them from the hand of the destroyer, he became a child, sharing in soul and flesh, like them in suffering but not in guilt.",
+      "notes": "Key distinction: Christ shared human nature and suffering but not sin"
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde Apostolus: «Quia pueri communicaverunt carni et sanguini, et ipse similiter participavit eisdem, ut per mortem suam destrueret eum qui habebat mortis imperium,» id est diabolum, «et liberaret eos qui timore mortis obnoxii erant servituti (Hebr. II, 14, 15).»",
+      "english": "Hence the Apostle says in Paul's letter to the Hebrews, chapter two, verses fourteen and fifteen: Because the children share in flesh and blood, he likewise partook of the same things, so that through his death he might destroy the one who has the power of death—that is, the devil—and free those who through fear of death were subject to lifelong slavery.",
+      "notes": "Hebrews 2:14-15 - central text for understanding the purpose of the Incarnation"
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Fuit quidem alius modus nostrae liberationis Deo possibilis, sed nullus nostrae miseriae sanandae fuit convenientior, ut homo qui per superbiam corruerat, per humilitatem resurgeret, et qui hominem per astutiam atque fallaciam sibi subjugaverat, ab homine per sapientiam et justitiam vinceretur, ut sicut homo hominem perdidit, ita homo hominem de manu diaboli liberaret.",
+      "english": "Indeed, another mode of our liberation was possible for God, but none was more fitting for healing our misery than this: that man who had fallen through pride should rise through humility, and that the one who had enslaved man through cunning and deceit should be conquered by man through wisdom and justice, so that just as man destroyed man, so man would free man from the hand of the devil.",
+      "notes": "Explains the fittingness (convenientia) of God becoming man rather than using divine power directly"
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nisi enim homo esset qui diabolum vinceret, non juste, sed violenter homo extolli videretur, qui se illi sponte subjecit; sed, si homo vicit, iterum diabolus hominem perdidit, et ut homo vincat, necesse est ut Deus sit homo, ne peccare valeat.",
+      "english": "For unless it were a man who conquered the devil, man who had willingly subjected himself to the devil would seem to be exalted not justly but by force. But if a mere man conquered, the devil would have destroyed man again. Therefore, for man to conquer, it is necessary that God be man, so that he cannot sin.",
+      "notes": "Explains why Christ must be both fully human (to fight justly) and fully divine (to fight successfully without sin)"
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim per [f. pure] se homo esset, vel angelus, in homine facile peccaret cum utramque naturam per se constet cecidisse.",
+      "english": "For if he were merely a man by himself, or an angel, he would easily sin in human form, since both natures are known to have fallen by themselves.",
+      "notes": "Both angels and humans have proven capable of sin; therefore neither alone could be the Redeemer"
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia ergo pueri communicaverunt carni et sanguini, id est homines erant corruptibiles constantes ex corpore et anima, quae per sanguinem accipitur, sed Christus participavit eisdem, id est carni et animae; et hic similiter, quia fuit passibilis, mortalis, «tentatus per omnia pro similitudine absque peccato (Hebr. IV, 15),» ut per mortem suam destrueret diabolum, et eos qui illi erant obnoxii liberaret, deletis peccatis, per quae sub illo captivi eramus.",
+      "english": "Therefore, because the children shared in flesh and blood—that is, humans were corruptible beings consisting of body and soul, which is understood by blood—Christ likewise partook of these same things, namely flesh and soul. And he was similar in this way, because he was capable of suffering, mortal, tested in all things according to our likeness yet without sin, as it says in Paul's letter to the Hebrews, chapter four, verse fifteen. This was so that through his death he might destroy the devil and free those who were subject to him, by blotting out the sins through which we were held captive under him.",
+      "notes": "Extended commentary on Hebrews texts explaining the mechanism of redemption"
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Incideramus enim in principem hujus saeculi, qui eduxit [f. seduxit] Adam, eumque fecit suum, et coepit nos quasi vernaculos possidere.",
+      "english": "For we had fallen into the hands of the prince of this world, who seduced Adam and made him his own, and began to possess us as though we were his household slaves.",
+      "notes": "Explains humanity's captivity to the devil through Adam's sin"
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed venit Redemptor, et victus est deceptor; et quid facit Redemptor captivatori nostro? Tetendit ei muscipulam, et posuit ibi quasi escam sanguinem suum.",
+      "english": "But the Redeemer came, and the deceiver was conquered. And what did the Redeemer do to our captor? He stretched out a mousetrap for him and placed his own blood there as bait.",
+      "notes": "Famous mousetrap metaphor for Christ's humanity as bait that trapped the devil"
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ille autem fudit sanguinem innocentem, et tunc jussus est recedere a nocentibus. Quia enim manum extendit in eum, in quo nihil juris habuit, merito illos perdidit, in quibus aliquid juris habere videbatur.",
+      "english": "But the devil shed innocent blood, and then was commanded to depart from the guilty. For because he stretched out his hand against one in whom he had no rightful claim, he justly lost those over whom he seemed to have some claim.",
+      "notes": "Legal/juridical metaphor: devil overstepped his rights by killing the sinless one"
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non enim tenebat nos nisi vinculis peccatorum nostrorum. Istae erant catenae captivorum. Sed venit puer pauper et sapiens, et alligavit fortem vinculis passionis suae.",
+      "english": "For he held us by nothing except the chains of our own sins. These were the fetters of the captives. But the poor and wise child came and bound the strong man with the chains of his own passion.",
+      "notes": "Alludes to binding the strong man (Matthew 12:29)"
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Intravit in domum ejus, id est in corda eorum, ubi ipse habitabat, et vasa ejus diripuit qui illa amaritudine sua impleverat. Puer autem ea eripiens, et sua faciens, fudit amaritudinem, et replevit ea dulcedine.",
+      "english": "He entered into his house—that is, into the hearts where the devil himself dwelt—and plundered his vessels, which he had filled with his own bitterness. But the child, seizing them and making them his own, poured out the bitterness and filled them with sweetness.",
+      "notes": "Continues the strong man metaphor - hearts as vessels to be captured and cleansed"
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sapiens ergo est puer natus et bonus. Melior est utique rege [sene] et stulto.",
+      "english": "Therefore the child who is born is wise and good. He is certainly better than the old and foolish king.",
+      "notes": "Returns to Ecclesiastes 4:13 allegory"
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Iste revera bonus, cujus bonitatis non est numerus, cui non aliud est esse bonum, et esse Deum, quia ejus bonitas divina est natura, cujus sapientia divina est essentia.",
+      "english": "This one is truly good, whose goodness has no measure, for whom being good and being God are not two different things, because his goodness is divine nature, and his wisdom is divine essence.",
+      "notes": "Philosophical point about divine simplicity - God's attributes are identical with his essence"
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ipse enim est sapientia quae ex Altissimi ore prodiit, et primogenita quaedam emanatio claritatis omnipotentis sincera, candor lucis aeternae et speculum sine macula Dei majestatis, et imago bonitatis illius.",
+      "english": "For he is the Wisdom who came forth from the mouth of the Most High, a firstborn emanation as it were of the glory of the Almighty, pure, the brightness of eternal light and the spotless mirror of the majesty of God, and the image of his goodness.",
+      "notes": "Quotes from Wisdom 7:25-26, describing divine Wisdom"
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic est puer, non faciem, sed posteriora [ostendens,] cujus facies nimio fulgore splendens, invisibilis est mortali oculo, posteriora autem videre possunt.",
+      "english": "This is the child who shows not his face but his back parts, whose face shining with excessive brightness is invisible to mortal eyes, though his back parts can be seen.",
+      "notes": "Refers to Exodus 33:20-23 where Moses sees God's 'back' but not his face"
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde Moysi quaerenti faciem ejus videre, respondit: «Non videbit homo faciem meam, et vivet;» et addidit: «Sta in foramine petrae, et posteriora mea videbis, cum pertransiero (Exod. XXXV, 20, et seqq.).»",
+      "english": "Hence when Moses sought to see his face, he responded in the book of Exodus, chapter thirty-three, verse twenty and following: No one shall see my face and live. And he added: Stand in the cleft of the rock, and you shall see my back parts when I pass by.",
+      "notes": "Exodus 33:20-23 citation (note: text says chapter 35 but correct reference is chapter 33)"
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui ergo non potest videre faciem veri pueri, videat saltem posteriora, sed in transitu. Facies est divinitatis claritas, posteriora humanae susceptionis humilitas.",
+      "english": "Therefore, whoever cannot see the face of the true child, let him at least see the back parts, but in passing. The face is the brightness of divinity; the back parts are the humility of the assumption of humanity.",
+      "notes": "Allegorical interpretation: face = divinity, back = humanity"
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Facies est: «In principio erat Verbum, et Verbum erat apud Deum (Joan. I, 1);» Posteriora; «Verbum caro factum est (ibid.).»",
+      "english": "The face is: In the beginning was the Word, and the Word was with God, as the Gospel of John says in chapter one, verse one. The back parts are: The Word became flesh, from the same passage.",
+      "notes": "John 1:1 and 1:14 distinguished as face and back"
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nemo igitur vivens in his sensibus carnis mortalis, quantumcunque provectus, etiam sicut Moyses, potest videre faciem hujus pueri, id est unitatis et trinitatis mysterium mentis intuitu penetrare.",
+      "english": "Therefore no one living in these senses of mortal flesh, however advanced—not even like Moses—can see the face of this child, that is, penetrate with the mind's intuition the mystery of the unity and Trinity.",
+      "notes": "Even the greatest saints in this life cannot fully comprehend the Trinity"
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc enim sanctis in futuro reservatur ad gloriam, secundum illud: «Haec est autem vita aeterna, ut cognoscant te, et quem misisti Jesum Christum (Joan. XVII, 3),» esse unum solum ac verum Deum.",
+      "english": "For this is reserved for the saints in the future as glory, according to what is written in the Gospel of John, chapter seventeen, verse three: This is eternal life, that they may know you and Jesus Christ whom you have sent to be the one, only, and true God.",
+      "notes": "John 17:3 - full knowledge of God reserved for the beatific vision"
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec est magna multitudo dulcedinis Dei, quam abscondit timentibus se.",
+      "english": "This is the great abundance of the sweetness of God, which he has hidden for those who fear him.",
+      "notes": "Alludes to Psalm 31:19"
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si autem non potes videre faciem, videas posteriora stans in foramine petrae cum transierit, id est Verbi incarnationem sic intelligas, ut credas eum postea resurrexisse in gloria.",
+      "english": "But if you cannot see the face, see the back parts by standing in the cleft of the rock when he has passed by—that is, understand the incarnation of the Word in such a way that you believe he afterward rose in glory.",
+      "notes": "Application: standing in the rock = faith in Christ's passion and resurrection"
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ipse enim per mortem transiit ad vitam, de terra ad coelum, de mundo ad Patrem.",
+      "english": "For he passed through death to life, from earth to heaven, from the world to the Father.",
+      "notes": "Christ's 'passing by' = his paschal mystery"
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non enim sufficit mortuum credere; quod et iniqui fatentur. Sed respondendum est eis in via veritatis, ut in virtute resurrexisse credatur, quod facit ille qui stat fixus in foramine petrae, id est in fide passionis Christi.",
+      "english": "For it is not sufficient to believe he died, which even the wicked acknowledge. Rather, one must respond to them on the path of truth by believing that he rose in power, which is what the one does who stands fixed in the cleft of the rock—that is, in faith in the passion of Christ.",
+      "notes": "Distinguishes Christian faith (death AND resurrection) from mere historical acknowledgment"
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "«Petra enim erat Christus,» ut ait Apostolus (I Cor. X, 4). Stat ergo in foramine petrae qui Deum credit esse hominem, qui passus est.",
+      "english": "For the rock was Christ, as the Apostle says in Paul's first letter to the Corinthians, chapter ten, verse four. Therefore, the one who believes that God is the man who suffered stands in the cleft of the rock.",
+      "notes": "1 Corinthians 10:4 - Christ as the rock; the 'cleft' = the wound in his side or the mystery of his suffering"
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non enim inde fides erat credentibus passionem, quia homo credebatur pati sicut videbatur, sed, quia Deus homo credebatur, qui moriebatur.",
+      "english": "For the faith of believers regarding the passion did not consist in believing that a man suffered as it appeared, but in believing that the one who was dying was God made man.",
+      "notes": "The distinctively Christian claim: not just that a man died, but that God died"
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nec Thomas, cui dictum est: «Quia vidisti me, credidisti (Joan. XX, 28),» illud credidit quod vidit; vidit hominem, et Deum confessus est, dicens: «Dominus meus et Deus meus (ibid., 29).»",
+      "english": "Nor did Thomas, to whom it was said in the Gospel of John, chapter twenty, verse twenty-eight: Because you have seen me, you have believed—he did not believe what he saw. He saw a man and confessed God, saying as recorded in verse twenty-nine: My Lord and my God.",
+      "notes": "Thomas saw humanity but confessed divinity - model of proper faith"
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Humanitatem ergo cernebat, et divinitatem credebat. Qui sic credit, stat in foramine petrae, et videt posteriora pueri in transitu, a quibus usque ad contemplationem faciei ascendit.",
+      "english": "Therefore he perceived the humanity and believed the divinity. Whoever believes in this way stands in the cleft of the rock and sees the back parts of the child in his passing, from which he ascends even to the contemplation of the face.",
+      "notes": "Faith in the humanity leads to contemplation of the divinity"
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Etsi enim facies posteriora praecesserit, non tamen a facie ad posteriora, sed ab ipsis ad faciem pervenitur, ut a minoribus ad altiora sit progressus.",
+      "english": "For even though the face preceded the back parts, nevertheless one arrives not from the face to the back parts, but from the back parts to the face, so that there is progress from lesser things to higher.",
+      "notes": "Pedagogical order: we learn about God through the humanity of Christ first, then ascend to understanding his divinity"
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec sunt vetustissima et nova, quae projectis veteribus sunt edenda, sicut ait Moyses: «Comedetis vetustissima veterum, et vetera novis supervenientibus projicietis (Levit. XXVI, 10).»",
+      "english": "These are the most ancient and the new things, which are to be eaten when the old things have been cast aside, as Moses says in Leviticus, chapter twenty-six, verse ten: You shall eat the oldest of the old, and when new comes you shall cast out the old.",
+      "notes": "Leviticus 26:10 allegorically interpreted"
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tria hic sunt, vetustissima, vetera et nova. Vetustissima semper habuit puer iste, nova incepit, suscepit vetera, id est signa novorum praemisit; vetustissima sunt immutabilia, non facta, sed facienda; nova fecit, vetera dixit.",
+      "english": "There are three things here: the most ancient, the old, and the new. This child always possessed the most ancient things, began the new things, and took up the old things—that is, he sent ahead signs of the new things. The most ancient things are unchangeable, not made but making; he did the new things, he spoke the old things.",
+      "notes": "Distinguishes three categories in salvation history"
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vetustissima ergo sunt geniti cum gignente aequalitas, coaeternitas, et consubstantialitas; nova, temporalis de Virgine nativitas, Vetera, venturi Emmanuel in lege et prophetis signa et praeconia.",
+      "english": "Therefore the most ancient things are the equality, co-eternity, and consubstantiality of the begotten with the begetter. The new thing is the temporal birth from the Virgin. The old things are the signs and proclamations in the Law and the Prophets of the Emmanuel who was to come.",
+      "notes": "Three categories defined: (1) eternal divine attributes, (2) the Incarnation, (3) Old Testament prophecies"
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vetustissima igitur comedenda sunt, quia eorum intelligentia, qui esuriunt et sitiunt justitiam, satiabuntur, secundum illud: «Satiabor, cum apparuerit gloria tua (Psal. XVI, 15),» vel misericordia.",
+      "english": "Therefore the most ancient things are to be eaten, because those who hunger and thirst for righteousness will be satisfied by understanding them, according to the verse in Psalm sixteen, verse fifteen: I shall be satisfied when your glory appears—or, your mercy.",
+      "notes": "Psalm 17:15 in modern numbering; alludes to Matthew 5:6"
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nova quoque sunt edenda, ut dum hic parvuli sumus, pane angelorum, id est, lacte [f. in lac] infantium converso nutriamur.",
+      "english": "The new things also are to be eaten, so that while we are little ones here, we may be nourished by the bread of angels—that is, converted into milk for infants.",
+      "notes": "Metaphor of milk for infants from 1 Corinthians 3:2, Hebrews 5:12-13"
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Panem namque angelorum manducavit homo, etsi non in speciei sinceritate qua fruuntur angeli, in nube tamen qua voluit videri.",
+      "english": "For man ate the bread of angels, though not in the pure form in which angels enjoy it, but nevertheless in the cloud in which he chose to be seen.",
+      "notes": "Psalm 78:25 reference; the 'cloud' = Christ's humanity veiling his divinity"
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Novis ergo supervenientibus vetera sunt projicienda, quia luce veritatis coruscante, cujus signacula sunt tollenda, quae erant quasi verba promittentia, tandiu existit nobis promissor Deus, donec factus est solutor.",
+      "english": "Therefore when the new things arrive, the old things are to be cast aside, because when the light of truth shines forth, the signs of which are to be removed—which were like words of promise—God exists for us as promiser only until he becomes fulfiller.",
+      "notes": "When Christ comes, Old Testament types and promises are superseded"
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ubi implevit pollicitum, mutavit verbum, sustulit lignum. Non ait: Dabo, sed dedi. Non autem dicitur: Lux fulgebit, sed puer natus est nobis.",
+      "english": "When he fulfilled what was promised, he changed the word, he removed the wood. He does not say: I will give, but I have given. Nor is it said: Light will shine, but a child is born to us.",
+      "notes": "Shift from future promises to present fulfillment; 'removed the wood' possibly refers to end of animal sacrifices"
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cessat promissio, quia [fit] veritatis exhibitio. Transeunt vetera, quia succedunt nova, secundum illud Apostoli: «Si qua ergo nova in Christo creatura est, vetera transierunt, ecce facta sunt ei omnia nova (II Cor. V, 17).»",
+      "english": "The promise ceases because the manifestation of truth occurs. The old things pass away because new things succeed them, according to what the Apostle says in Paul's second letter to the Corinthians, chapter five, verse seventeen: Therefore if anyone is a new creation in Christ, the old things have passed away; behold, all things have become new for him.",
+      "notes": "2 Corinthians 5:17"
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vetus enim error abiit, quia veritas de terra prodiit; dedit enim terra fructum [suum,] cum Maria genuit Verbum bonum.",
+      "english": "For the old error has departed, because truth has sprung up from the earth. For the earth gave its fruit when Mary brought forth the good Word.",
+      "notes": "Psalm 85:11-12; Mary as the 'earth' bearing divine fruit"
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Bonus est puer iste pauper et sapiens, et utique melior «rege sene et stulto, qui nescit providere sibi in posterum (Eccle. IV, 13).»",
+      "english": "This poor and wise child is good, and certainly better than the old and foolish king who does not know how to provide for himself in the future, as Ecclesiastes says in chapter four, verse thirteen.",
+      "notes": "Returns to the Ecclesiastes allegory for extended interpretation"
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quis est iste rex senex et stultus? Ille utique intelligitur, qui merito suae perversitatis princeps mundi dicitur, de quo puer sapiens ait: «Venit princeps mundi hujus, et in me non habet quidquam (Joan. XV, 30).»",
+      "english": "Who is this old and foolish king? He is understood to be the one who, by reason of his perversity, is called the prince of this world, of whom the wise child says in the Gospel of John, chapter fourteen, verse thirty: The prince of this world is coming, and he has no claim on me.",
+      "notes": "Identifies the 'old foolish king' as Satan; actual reference is John 14:30, not 15:30"
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et item: «Nunc judicium est mundi, nunc princeps hujus mundi ejicietur foras (Joan. XII, 31)»",
+      "english": "And likewise in the Gospel of John, chapter twelve, verse thirty-one: Now is the judgment of this world; now the prince of this world will be cast out.",
+      "notes": "John 12:31"
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Princeps autem mundi dicitur, non quia mundialis creaturae Dominus et auctor exstiterit, sed quia princeps atque dux mundana amantium.",
+      "english": "He is called the prince of this world not because he was the Lord and maker of worldly creation, but because he is the prince and leader of those who love worldly things.",
+      "notes": "Clarifies that Satan's 'rule' is not ontological but moral - he rules those who choose evil"
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Iste ergo rex senex stultus est. Rex, quia in regno conditus, in empyreo coelo, scilicet igneo.",
+      "english": "Therefore this king is old and foolish. He is a king because he was created in a kingdom, in the empyrean heaven—that is, the fiery heaven.",
+      "notes": "Empyrean = highest heaven where angels were created"
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Rabanus [ait] quod coelum nomen habet a splendore, non a calore, quia a mundi volubilitate secretum, mox ut est creatum, sanctis angelis est repletum, inter quos Lucifer erat, et eminebat.",
+      "english": "Rabanus says that heaven has its name from splendor, not from heat, because separated from the turning of the world, as soon as it was created it was filled with holy angels, among whom Lucifer was and stood out preeminently.",
+      "notes": "References Rabanus Maurus (9th century); etymological note on 'caelum' (heaven)"
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde Dominus ait: «Ubi eras, cum me laudabant astra matutina, et jubilarent omnes filii Dei?» (Job XXXVIII, 7.)",
+      "english": "Hence the Lord says in the book of Job, chapter thirty-eight, verse seven: Where were you when the morning stars praised me, and all the sons of God shouted for joy?",
+      "notes": "Job 38:7 - 'morning stars' = angels at creation"
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Astra matutina vocat angelos in primordio humanae conditionis.",
+      "english": "He calls the angels morning stars at the beginning of human creation.",
+      "notes": "Interprets 'morning stars' as angels present at creation"
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Merito ergo et rex dicitur et senex: Rex, quia, ut ait Ezechiel, «perfectione plenus et decorus in deliciis Dei fuit, et signaculum similitudinis ejus (Ezech. XXVIII, 13).»",
+      "english": "Therefore he is rightly called both king and old. King, because as Ezekiel says in chapter twenty-eight, verse thirteen: He was full of perfection and beautiful in the delights of God, and the signet of his likeness.",
+      "notes": "Ezekiel 28:12-13, part of the oracle against the king of Tyre traditionally applied to Satan's fall"
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Senex quia, testante Job, ipse principium viarum Dei (Job XL, 14), quia inter prima Dei opera conditus est; sed stultus quia non providit sibi in posterum.",
+      "english": "Old, because as Job testifies in chapter forty, verse fourteen, he himself is the beginning of the ways of God, since he was created among the first works of God. But foolish, because he did not provide for himself in the future.",
+      "notes": "Job 40:19 in Vulgate, describing Behemoth but applied to Satan"
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Conditus enim in eminentia et sublimitate verae scientiae, altitudine tantum intumult, ut Altissimo aequari posse praesumpserit.",
+      "english": "For though he was created in the eminence and sublimity of true knowledge, he became so swollen with pride in that height that he presumed he could be made equal to the Most High.",
+      "notes": "Describes Satan's fall through pride"
+    },
+    {
+      "chunk_id": 84,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dixit enim in corde suo, ut Isaias ait: «In coelum conscendam,» id est, ad aequalitatem Dei, «super astra coeli exaltabo solium meum,» id est super alios angelos, «et similis ero Altissimo (Isa. XVI, 13, 14).»",
+      "english": "For he said in his heart, as Isaiah recounts in chapter fourteen, verses thirteen and fourteen: I will ascend to heaven—that is, to equality with God. I will exalt my throne above the stars of heaven—that is, above the other angels. And I will be like the Most High.",
+      "notes": "Isaiah 14:13-14 (text incorrectly references chapter 16); classic text on Satan's prideful fall"
+    },
+    {
+      "chunk_id": 85,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed, quanto magis praesumpsit, tanto magis corruit. Unde Isaias: «Quomodo cecidisti de coelo, Lucifer, qui mane oriebaris? Corruisti in terram, et usque ad infernum detraheris in profundum laci (ibid., XXII, 15).»",
+      "english": "But the more he presumed, the more he fell. Hence Isaiah says in chapter fourteen, verse twelve: How you have fallen from heaven, O Lucifer, who rose in the morning! You have fallen to the earth, and you are dragged down even to hell, into the depths of the pit.",
+      "notes": "Isaiah 14:12,15 (text says verse 22:15 incorrectly)"
+    },
+    {
+      "chunk_id": 86,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Veritas in Evangelio ait: «Videbam Satanam tanquam fulgur de coelo cadentem (Luc. X, 18).»",
+      "english": "Truth says in the Gospel according to Luke, chapter ten, verse eighteen: I saw Satan fall like lightning from heaven.",
+      "notes": "Luke 10:18 - Jesus' vision of Satan's fall"
+    },
+    {
+      "chunk_id": 87,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Stultus ergo rex iste, licet senex, in posterum non sibi providens, suis non contentus aliena usurpare fuit ausus.",
+      "english": "Therefore this king is foolish, though old, not providing for his own future, not content with what was his own but daring to usurp what belonged to another.",
+      "notes": "Satan not content with his angelic dignity, sought divine equality"
+    },
+    {
+      "chunk_id": 88,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde suis est spoliatus, quia aliis angelis splendidior conditus, et ob hoc Lucifer appellatus, suo vitio cadens factus est hesperus.",
+      "english": "Therefore he was despoiled of what was his own, because though he was created more splendid than the other angels and for this reason was called Lucifer—light-bearer—by falling through his own fault he became Hesperus—the evening star.",
+      "notes": "Wordplay: Lucifer (morning star/light bearer) became Hesperus (evening star) through his fall"
+    },
+    {
+      "chunk_id": 89,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De empyreo in caliginem hujus aeris praecipitatus, ad illudendum ei puer pauper et sapiens, de carcere et catenis egressus est ad regnum, cum ille natus in regno inopia consumatur.",
+      "english": "Cast down from the empyrean into the darkness of this air, to mock him the poor and wise child went forth from prison and chains to a kingdom, while the one born in a kingdom is consumed by poverty.",
+      "notes": "Contrast: Christ from prison/death to kingdom; Satan from kingdom to poverty"
+    },
+    {
+      "chunk_id": 90,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Mirare pueri pauperis sapientiam, et regis senis stultitiam. Ille enim in regno natus inopia consumitur; ambulat enim per loca inaquosa et arida quaerens requiem, et non invenit (Luc. XI, 24), quia veram requiem deseruit.",
+      "english": "Marvel at the wisdom of the poor child and the foolishness of the old king. For the one born in a kingdom is consumed by poverty; he walks through waterless and dry places seeking rest and finds none, as the Gospel of Luke records in chapter eleven, verse twenty-four, because he abandoned true rest.",
+      "notes": "Luke 11:24 - the unclean spirit seeking rest; applied to Satan's restlessness"
+    },
+    {
+      "chunk_id": 91,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "«Dormit sub umbra calami, et in humentibus locis (Job XL, 16).» teste Job, qui inter cedros paradisi gloriosus florebat, sed puer pauper et sapiens de carcere catenisque ad requiem venit et regnum.",
+      "english": "As Job testifies in chapter forty, verse twenty-one: He sleeps under the shadow of the reeds and in marshy places—he who once flourished gloriously among the cedars of paradise. But the poor and wise child came from prison and chains to rest and a kingdom.",
+      "notes": "Job 40:21 describing Behemoth, applied to Satan's degradation; contrast with Christ's exaltation"
+    },
+    {
+      "chunk_id": 92,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Captus est enim injuste a Judaeis, captus atque ligatus; sed patienter haec omnia secundum voluntatem Patris passus clavis cruci affixus est, sed per hanc obedientiam regnum est adeptus.",
+      "english": "For he was unjustly captured by the Jews, captured and bound; but patiently enduring all these things according to the will of the Father, he was fastened to the cross with nails. Yet through this obedience he obtained the kingdom.",
+      "notes": "Christ's voluntary passion as the path to kingship"
+    },
+    {
+      "chunk_id": 93,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "«Factus est enim principatus ejus super humerum ejus (Isa. IX, 6).»",
+      "english": "For as Isaiah says in chapter nine, verse six: His dominion was placed upon his shoulder.",
+      "notes": "Isaiah 9:6 - the cross on his shoulder becomes his throne"
+    },
+    {
+      "chunk_id": 94,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Propter hoc enim «exaltavit illum Deus, et dedit illi nomen quod est super omne nomen (Phil. II, 9).»",
+      "english": "For this reason, as Paul writes in his letter to the Philippians, chapter two, verse nine: God exalted him and gave him the name that is above every name.",
+      "notes": "Philippians 2:9 - exaltation through humiliation"
+    },
+    {
+      "chunk_id": 95,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui enim patiendo apparuit infirmus, resurgendo innotuit Deus.",
+      "english": "For he who appeared weak in suffering was made known as God in rising.",
+      "notes": "Paschal paradox: weakness reveals divinity"
+    },
+    {
+      "chunk_id": 96,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jubilemus ergo, et sapienter psallamus, quia talis puer natus est nobis, de quo ait angelus pastoribus: «Ecce evangelizo vobis gaudium magnum, quod erit omni populo, quia natus est vobis hodie Salvator, qui est Christus Dominus in civitate David (Luc. II, 10);»",
+      "english": "Therefore let us rejoice and sing psalms wisely, because such a child is born to us, of whom the angel said to the shepherds, as recorded in the Gospel of Luke, chapter two, verses ten and eleven: Behold, I bring you good news of great joy that will be for all the people, for to you is born this day in the city of David a Savior, who is Christ the Lord.",
+      "notes": "Luke 2:10-11 - the angelic announcement"
+    },
+    {
+      "chunk_id": 97,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "scilicet, Bethlehem, quae interpretatur domus panis, quia ibi natus est panis qui de coelo descendit, qui dat vitam mundo.",
+      "english": "That is, Bethlehem, which is interpreted as house of bread, because there was born the bread that came down from heaven and gives life to the world.",
+      "notes": "Bethlehem etymology and connection to John 6:33,51"
+    },
+    {
+      "chunk_id": 98,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ibi reclinatus est in praesepio, ubi pascebatur bos cum asino, quia propter hoc dignatus est nasci ut duos populos Deo reconciliaret, ac coelesti pane reficeret.",
+      "english": "There he was laid in a manger where the ox and donkey were fed, because for this purpose he deigned to be born: to reconcile two peoples to God and refresh them with heavenly bread.",
+      "notes": "Traditional allegory: ox and donkey = Jews and Gentiles; manger = place of feeding with divine word"
+    },
+    {
+      "chunk_id": 99,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jubilate ergo scienter, et psallite sapienter. Beatus enim populus, qui scit jubilationem, id est, qui intelligit rationem et modum jubilationis et psalmi.",
+      "english": "Therefore rejoice knowingly and sing psalms wisely. For blessed is the people who know the joyful shout—that is, who understand the reason and manner of rejoicing and psalm-singing.",
+      "notes": "Psalm 89:15 - knowing how and why to praise"
+    },
+    {
+      "chunk_id": 100,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Est enim jubilus gaudium ineffabile, quod nec verbis explicari potest, nec reticeri valet. Psalmus, operatio bona.",
+      "english": "For jubilation is ineffable joy, which can neither be expressed in words nor kept silent. A psalm is good work.",
+      "notes": "Definition of jubilus as wordless joy; psalm as deed not just song"
+    },
+    {
+      "chunk_id": 101,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jubilemus ergo mente, et psallamus opere, praeparantes regi nostro habitacula pectoris, et lavantes inter innocentes manus nostras, quia «Domini est assumptio nostra, et sancti Israel regis nostri (Psal. LXXXVIII, 19);»",
+      "english": "Therefore let us rejoice in mind and sing psalms in deed, preparing dwelling places in our hearts for our king, and washing our hands among the innocent, because as Psalm eighty-eight, verse nineteen says: Our assumption belongs to the Lord, even the Holy One of Israel, our King.",
+      "notes": "Returns to opening text; Psalm 26:6 allusion about washing hands"
+    },
+    {
+      "chunk_id": 102,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "id est nostram suscepit naturam Dominus et Rex noster, qui nos hic sanctificat, ut in futuro Israel faciat, id est, Deum videntes, qui velociter spolia praedoni nostro detraxit; qui infirmis salutem, captivis libertatem, exsulibus haereditatem donavit, atque inimicis destructis pacem nobis dedit, unde sit ei honor et gloria in saecula saeculorum. Amen.",
+      "english": "That is, our Lord and King took up our nature, he who sanctifies us here so that in the future he may make us Israel—that is, ones who see God. He who swiftly snatched the spoils from our plunderer; who gave health to the sick, freedom to captives, inheritance to exiles; and having destroyed our enemies, gave us peace. To him be honor and glory forever and ever. Amen.",
+      "notes": "Concluding doxology summarizing Christ's saving work; Israel etymology = 'one who sees God'"
+    },
+    {
+      "chunk_id": 103,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Second Sermon on the Nativity",
+      "latin": "IN NATIVITATE DOMINI SERMO SECUNDUS . De nativitate Domini.",
+      "english": "Second Sermon on the Nativity of the Lord: Concerning the Birth of the Lord",
+      "notes": "Beginning of second Christmas sermon"
+    },
+    {
+      "chunk_id": 104,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sanctam ac venerabilem, gloriosam et singularem solemnitatem, hoc est, Nativitatem Domini nostri Jesu Christi, fratres charissimi, devotione fidelissima suscepturi, totis viribus nos debemus cum ipsius adjutorio praeparare, et omnes animae nostrae latebras diligenter inspicere, ne forte aliquod peccatum sit absconditum, quod et conscientiam nostram confundat, et oculos divinae majestatis offendat.",
+      "english": "Dearest brothers, as we prepare to receive with most faithful devotion the holy and venerable, glorious and singular solemnity—that is, the Nativity of our Lord Jesus Christ—we ought with all our strength and with his help to prepare ourselves and diligently inspect all the hidden places of our soul, lest perhaps some sin lie hidden there that would confuse our conscience and offend the eyes of the divine majesty.",
+      "notes": "Exhortation to moral preparation for Christmas"
+    },
+    {
+      "chunk_id": 105,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam licet Christus Dominus noster post passionem suam resurrexerit, et in coelum ascenderit, considerat tamen, ut credimus, et diligenter attendit qualiter se unusquisque servorum ejus sine avaritia et ira, et sine superbia et luxuria, ad celebrandam ejus Nativitatem studeat praeparare et componere,",
+      "english": "For although Christ our Lord rose after his passion and ascended into heaven, nevertheless we believe that he observes and carefully attends to how each of his servants strives to prepare and compose himself—without greed and anger, without pride and lust—for celebrating his Nativity.",
+      "notes": "Christ's ongoing surveillance of moral preparation"
+    },
+    {
+      "chunk_id": 106,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Secundum [enim] quod unumquemque bonis moribus viderit, ita illi gratiam suae misericordiae dispensabit.",
+      "english": "For according to how he sees each person in good conduct, so will he dispense to that person the grace of his mercy.",
+      "notes": "Moral worthiness affects reception of grace"
+    },
+    {
+      "chunk_id": 107,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim viderit eum charitatis luce vestitum, justitiae vel misericordiae margaritis ornatum, castum, humilem, misericordem, benignum et sobrium; si talem agnoverit, corpus et sanguinem suum ei non ad judicium, sed ad remedium per sacerdotum suorum ministerium dispensabit.",
+      "english": "For if he sees someone clothed with the light of charity, adorned with the pearls of justice and mercy, chaste, humble, merciful, kind, and sober—if he recognizes such a person, he will dispense his body and blood to him through the ministry of his priests not for judgment but for healing.",
+      "notes": "Virtues as wedding garment for Eucharistic reception"
+    },
+    {
+      "chunk_id": 108,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si vero viderit aliquem ebriosum, cupidum, suspiciosum, timeo ne illi hoc dicatur quod Dominus in Evangelio ait: «Amice, quomodo huc intrasti non habens vestem nuptialem?» (Matth. XXII, 12.)",
+      "english": "But if he sees someone drunk, greedy, suspicious, I fear that what the Lord says in the Gospel will be said to him. As recorded in the Gospel of Matthew, chapter twenty-two, verse twelve: Friend, how did you come in here without a wedding garment?",
+      "notes": "Matthew 22:12 - parable of the wedding feast"
+    },
+    {
+      "chunk_id": 109,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et (quod Dominus avertat!) fiat illi quod sequitur: «Ligatis manibus et pedibus projicite eum in tenebras exteriores; ibi erit filetus, et stridor dentium (ibid., 13).»",
+      "english": "And—which may the Lord avert!—let what follows happen to him, as verse thirteen records: Bind his hands and feet and cast him into the outer darkness; there will be weeping and gnashing of teeth.",
+      "notes": "Matthew 22:13 - judgment on unworthy guest"
+    },
+    {
+      "chunk_id": 110,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce sententiam qualem in die judicii suscipiet qui, sine remedio poenitentiae, ad festivitatem Domini vitiorum sordibus iniquinatus accesserit.",
+      "english": "Behold what kind of sentence will be received on the day of judgment by one who, without the remedy of repentance, approaches the feast of the Lord polluted with the filth of vices.",
+      "notes": "Warning about unworthy reception"
+    },
+    {
+      "chunk_id": 111,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Natale enim Domini, quasi in nuptiis spiritualibus, sponsae suae, id est Ecclesiae Christus adjunctus est.",
+      "english": "For on the Nativity of the Lord, Christ was joined to his bride—that is, the Church—as in a spiritual wedding.",
+      "notes": "Nativity as wedding of Christ and Church"
+    },
+    {
+      "chunk_id": 112,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc enim «veritas de terra orta est, tunc justitia de coelo prospexit (Psal. LXXXIV, 12),» tunc processit sponsus de thalamo suo, hoc est Verbum Dei Patris de utero virginali; processit enim cum sponsa sua, id est Ecclesia, [cum] humanam carnem assumpsit.",
+      "english": "For then, as Psalm eighty-four, verse twelve says, truth sprang up from the earth, and justice looked down from heaven. Then the bridegroom came forth from his chamber—that is, the Word of God the Father from the virginal womb. For he came forth with his bride, that is the Church, when he assumed human flesh.",
+      "notes": "Psalm 85:11-12 in modern numbering; bridal chamber = Mary's womb"
+    },
+    {
+      "chunk_id": 113,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad istas ergo tam sanctas nuptias invitati, et ad convivium Patris, et Filii, et Spiritus sancti intraturi, videte quibus indumentis debeamus ornari.",
+      "english": "Therefore, invited to this most holy wedding and about to enter the banquet of the Father, Son, and Holy Spirit, see with what garments we ought to be adorned.",
+      "notes": "Trinitarian banquet requires proper spiritual attire"
+    },
+    {
+      "chunk_id": 114,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ideo debemus, quantum possumus cum adjutorio Dei, corda simul et corpora nostra praeparare, ut coelestis ille invitator nihil in nobis sordidum, nihil foedum, nihil obscurum, nihil oculis suis deprehendat indignum.",
+      "english": "Therefore we ought, as much as we can with God's help, to prepare both our hearts and our bodies, so that the heavenly host may find nothing in us sordid, nothing foul, nothing dark, nothing unworthy in his sight.",
+      "notes": "Holistic preparation - heart and body"
+    },
+    {
+      "chunk_id": 115,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc igitur, fratres charissimi, non transitorie, sed cum ingenti tremore debemus attendere.",
+      "english": "Therefore, dearest brothers, we ought to attend to this not casually but with great trembling.",
+      "notes": "Philippians 2:12 echo - 'with fear and trembling'"
+    },
+    {
+      "chunk_id": 116,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Invitati enim sumus ad Dominicas nuptias, ut nos ipsi, si bene agamus, Sponso adhaereamus.",
+      "english": "For we have been invited to the Lord's wedding, so that we ourselves, if we act well, may cling to the Bridegroom.",
+      "notes": "Goal: mystical union with Christ"
+    },
+    {
+      "chunk_id": 117,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cogitemus ad quales nuptias, ad qualem sponsum, ad quale conjugium invitati sumus. Invitati enim sumus ad mensam, ubi non invenitur cibus hominum, sed panis angelorum.",
+      "english": "Let us consider to what kind of wedding, to what kind of bridegroom, to what kind of marriage we have been invited. For we have been invited to a table where the food is not the food of humans but the bread of angels.",
+      "notes": "Psalm 78:25 - Eucharist as angelic bread"
+    },
+    {
+      "chunk_id": 118,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ideo videamus ne forte in anima, ubi debemus bonorum operum margaritis ornari, ibi appareamus pannis veteribus involuti, et [ne] quando eos qui boni sunt in oculis Dei, et quos castitas reddidit candidos, tunc eos qui mali sunt, luxuria reddat sordidos.",
+      "english": "And therefore let us take heed lest perhaps in the soul, where we ought to be adorned with the pearls of good works, we appear wrapped in old rags, and lest when chastity has made those who are good in God's eyes radiant, luxury makes those who are evil filthy.",
+      "notes": "Contrast between spiritual adornment and spiritual rags"
+    },
+    {
+      "chunk_id": 119,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ideo quotiescunque aut diebus Natalis Domini, aut festivitatibus reliquis advenientibus, sicut frequenter admonui, non solum ab infelici concubinarum consortio, sed ab ipsis uxoribus abstinere, et ab omni iracundia alienos nos facere debemus, ut praeterita peccata per eleemosynas et poenitentias redimantur.",
+      "english": "And therefore, whenever the days of the Nativity of the Lord or other feast days approach, as I have frequently admonished, we ought to abstain not only from the unfortunate company of concubines but even from our own wives, and make ourselves free from all anger, so that past sins may be redeemed through almsgiving and penances.",
+      "notes": "Counsel for sexual abstinence during holy seasons - applies even to married couples"
+    },
+    {
+      "chunk_id": 120,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Contra nullum hominem odium in corde teneatur. Quod solebat vanitas per gulam [f. superbiam], incipiat justitia per misericordiam erogare pauperibus; quod luxuria vel gula dispensavit [f. dissipavit] in mundo, pietas reponat in coelo.",
+      "english": "Let no hatred be held in the heart against any person. What vanity used to spend through gluttony or pride, let justice begin to distribute to the poor through mercy. What luxury or gluttony squandered in the world, let piety store up in heaven.",
+      "notes": "Conversion of vices to virtues through charity"
+    },
+    {
+      "chunk_id": 121,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et licet expediat ut semper eleemosynas facere debeamus, praecipue tamen in sanctis solemnitatibus secundum vires nostras abundantius erogare debemus; pauperes autem ante omnia frequentius ad convivium revocemus.",
+      "english": "And although it is fitting that we should always give alms, nevertheless especially on holy solemnities we ought to distribute more abundantly according to our strength. But above all, let us invite the poor more frequently to our feast.",
+      "notes": "Intensified charity on feast days"
+    },
+    {
+      "chunk_id": 122,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non est enim justum ut in sancta solemnitate, in populo Christiano ad unum Deum pertinente, alii inebrientur, alii fame et [vitae] periculo crucientur.",
+      "english": "For it is not just that on a holy solemnity, among a Christian people belonging to one God, some should get drunk while others are tormented by hunger and danger to their lives.",
+      "notes": "Social justice dimension - contrasts excess with deprivation"
+    },
+    {
+      "chunk_id": 123,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et nos [enim] et omnis populus unius Dei servi sumus, et si bene agimus ad unam beatitudinem pariter perveniemus.",
+      "english": "For both we and all the people are servants of the one God, and if we act well, we shall arrive together at one blessedness.",
+      "notes": "Equality of all before God"
+    },
+    {
+      "chunk_id": 124,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ergo, fratres, Natalem Domini suscepturi ab omni conscientiae faece mundemur. Occurramus [ei] non in sericis vestibus, sed in operibus pretiosis.",
+      "english": "Therefore, brothers, as we prepare to receive the Nativity of the Lord, let us cleanse ourselves from all the dregs of conscience. Let us go out to meet him not in silk garments but in precious works.",
+      "notes": "Works more important than fine clothes"
+    },
+    {
+      "chunk_id": 125,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vestimenta enim nuda membra operire possunt, conscientiam ornare non possunt nisi quod majoris verecundiae est, nitidum membris incedere, et pollutum sensibus ambulare.",
+      "english": "For garments can cover naked limbs but cannot adorn the conscience. Rather, it is more shameful to walk with gleaming limbs but to go about with polluted senses.",
+      "notes": "Priority of inner over outer adornment"
+    },
+    {
+      "chunk_id": 126,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Interioris igitur hominis prius ornemus affectum, ut exterioris hominis amictus sit ornatior. Spirituales maculas abluamus, ut non carnalia in nobis fulgeant vestimenta; sed haec quae suggessimus, vestrae charitatis sensibus renatis inhaereant, quae breviter dicta sunt, et quae brevius iteramus.",
+      "english": "Therefore let us first adorn the affection of the interior man, so that the garment of the exterior man may be more becoming. Let us wash away spiritual stains, so that it is not carnal garments that shine in us. But may these things which we have suggested cling to the renewed senses of your charity—things briefly spoken and which we repeat even more briefly.",
+      "notes": "Inner/outer person distinction (2 Corinthians 4:16)"
+    },
+    {
+      "chunk_id": 127,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec enim admonemus, fratres charissimi, quia Natale Domini imminet. [Igitur] tanquam ad nuptiale et coeleste conjugium ab omni luxuria alieni, et bonis operibus adornati, nos per Christi adjutorium praeparemus, eleemosynas pauperibus erogemus, iracundiam vel odium, sicut venenum, de cordibus nostris respuamus, castitatem fideliter teneamus.",
+      "english": "For we admonish these things, dearest brothers, because the Nativity of the Lord is approaching. Therefore, as for a nuptial and heavenly marriage, free from all lust and adorned with good works, let us prepare ourselves with Christ's help. Let us distribute alms to the poor. Let us cast out anger and hatred like poison from our hearts. Let us faithfully maintain chastity.",
+      "notes": "Summary of moral preparation"
+    },
+    {
+      "chunk_id": 128,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad convivium nostrum pauperes frequentius revocemus. Ad vigilias matutinas surgite, in Ecclesia stantes adorate vel psallite.",
+      "english": "Let us invite the poor more frequently to our banquet. Rise for the morning vigils; standing in the church, worship or sing psalms.",
+      "notes": "Liturgical and charitable practices for Christmas"
+    },
+    {
+      "chunk_id": 129,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verba otiosa aut saecularia, nec ipsi ex ore proferte, et eos qui proferre voluerint castigate; pacem cum omnibus custodite, et quos discordes agnoscitis, ad concordiam revocate.",
+      "english": "Do not yourselves speak idle or worldly words from your mouth, and rebuke those who wish to speak them. Keep peace with all, and call back to concord those whom you recognize as discordant.",
+      "notes": "Speech discipline and peacemaking"
+    },
+    {
+      "chunk_id": 130,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec si fideliter Christo adjuvante volueritis implere, et in [hoc] saeculo Dominicum ad altare secura conscientia poteritis accedere, et in futuro ad aeternam beatitudinem fideliter pervenire, praestante Domino nostro Jesu Christo.",
+      "english": "If you faithfully wish to fulfill these things with Christ's help, both in this age you will be able to approach the Lord's altar with secure conscience, and in the future you will faithfully arrive at eternal blessedness, through our Lord Jesus Christ.",
+      "notes": "Promise for those who follow the exhortations"
+    },
+    {
+      "chunk_id": 131,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Third Sermon on the Nativity",
+      "latin": "IN NATIVITATE DOMINI SERMO TERTIUS . De nativitate Domini.",
+      "english": "Third Sermon on the Nativity of the Lord: Concerning the Birth of the Lord",
+      "notes": "Beginning of third Christmas sermon"
+    },
+    {
+      "chunk_id": 132,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "«Apparuit benignitas et humanitas Salvatoris nostri Dei, non ex operibus justitiae quae fecimus nos, sed secundum misericordiam suam salvos nos fecit (Tit. III, 5).»",
+      "english": "As Paul writes in his letter to Titus, chapter three, verses four and five: The kindness and love for humanity of God our Savior appeared, and he saved us not because of works of righteousness that we did, but according to his mercy.",
+      "notes": "Titus 3:4-5 - opening text for third sermon"
+    },
+    {
+      "chunk_id": 133,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Acquisierat sibi, fratres, genus humanum astutia diabolicae fraudis. Subdiderat [illud] suae dilectioni [f. ditioni] per peccatum primi parentis.",
+      "english": "Brothers, the human race had been acquired for himself by the cunning of diabolical fraud. He had subjected it to his dominion through the sin of the first parent.",
+      "notes": "Humanity enslaved through Adam's sin"
+    },
+    {
+      "chunk_id": 134,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dominus vero, justus judex, qui nec adversario aliquid injustum vult irrogare, sed omnia sive per misericordiam, sive per justitiam facere, sic voluit genus humanum per gratiam redimere, ut nec diabolo injuriam videretur inferre.",
+      "english": "But the Lord, the just judge, who does not wish to inflict anything unjust even on his adversary but to do all things either through mercy or through justice, chose to redeem the human race through grace in such a way that he would not seem to inflict injury on the devil.",
+      "notes": "God's respect for justice even toward Satan"
+    },
+    {
+      "chunk_id": 135,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum ergo Satanas contra hominem astute egisset per fallaciam, voluit Dominus contra Satanam propter hominem prudenter agere per sapientiam.",
+      "english": "Therefore, since Satan acted cunningly against man through deception, the Lord wished to act prudently against Satan on behalf of man through wisdom.",
+      "notes": "Cunning vs. wisdom - contrasting strategies"
+    },
+    {
+      "chunk_id": 136,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tali igitur consilio egit Dominus de humana reparatione. Necessarium erat ut contra diabolum pugnaturus talis mitteretur, qui nec succumberet, et rationabiliter ageret, et cum sapientia omnia tractaret.",
+      "english": "Therefore with such a plan the Lord acted concerning human restoration. It was necessary that one be sent to fight against the devil who would not succumb, who would act rationally, and who would handle all things with wisdom.",
+      "notes": "Requirements for the Redeemer"
+    },
+    {
+      "chunk_id": 137,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Adam purus homo fuit, et ideo ex humana fragilitate tentationibus diabolicis succubuit; et propterea purus homo ad redemptionem mittendus non foret, qui vel per se, vel cum tentaretur, peccare potuisset.",
+      "english": "Adam was a mere man, and therefore from human frailty he succumbed to diabolical temptations. And for this reason a mere man was not to be sent for redemption, who either by himself or when tempted could have sinned.",
+      "notes": "Why a mere man cannot be Redeemer"
+    },
+    {
+      "chunk_id": 138,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Angelus tamen non erat mittendus in hac militia, quia peccare poterat, qui prius peccavit in superbia.",
+      "english": "Yet an angel was not to be sent in this warfare, because he could sin—and angels had previously sinned through pride.",
+      "notes": "Why an angel cannot be Redeemer"
+    },
+    {
+      "chunk_id": 139,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Necessario igitur mittendus erat qui peccare non poterat. Sed nulla creatura est rationabilis quae peccare non possit, nisi solus Deus.",
+      "english": "Therefore it was necessary to send one who could not sin. But there is no rational creature who cannot sin except God alone.",
+      "notes": "Only God cannot sin"
+    },
+    {
+      "chunk_id": 140,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quare ergo non est missus Pater, non est missus Spiritus sanctus, sed solus Filius?",
+      "english": "Why then was the Father not sent, why was the Holy Spirit not sent, but only the Son?",
+      "notes": "Raises the question of why specifically the Son incarnates"
+    },
+    {
+      "chunk_id": 141,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia, ut superius dictum est, contra [hostem] astutum agendum erat per sapientiam. Sapientia autem et prudentia Patris est Filius, per quem omnia facta sunt et provisa.",
+      "english": "Because, as was said above, it was necessary to act through wisdom against the cunning enemy. But the wisdom and prudence of the Father is the Son, through whom all things were made and foreseen.",
+      "notes": "Son as divine Wisdom (1 Corinthians 1:24)"
+    },
+    {
+      "chunk_id": 142,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia prudentia est, egit rationabiliter; quia sapientia est, egit sapienter; et quia Deus exstitit, peccare non potuit.",
+      "english": "Because he is prudence, he acted rationally; because he is wisdom, he acted wisely; and because he is God, he could not sin.",
+      "notes": "Threefold rationale for the Son's mission"
+    },
+    {
+      "chunk_id": 143,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Missus est ergo Filius, qui cum esset prudentia, omnia rationabiliter egit; cum esset sapientia, sapienter omnia pertractavit; cum esset Deus peccare non potuit.",
+      "english": "Therefore the Son was sent who, being prudence, did all things rationally; being wisdom, handled all things wisely; being God, could not sin.",
+      "notes": "Recapitulation of why the Son"
+    },
+    {
+      "chunk_id": 144,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed rationi congruum erat ut sicut homo superatus captus [f. captivus] erat, sic homo superando [daemonem] naturam humanam liberaret.",
+      "english": "But it was fitting to reason that just as man when conquered had been made captive, so man by conquering the demon would free human nature.",
+      "notes": "Man must defeat what man was defeated by"
+    },
+    {
+      "chunk_id": 145,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non ergo purus homo missus est, sed Deus et homo; homo qui pugnaret, Deus qui pugnantem sustentaret.",
+      "english": "Therefore not a mere man was sent, but God and man—man to fight, God to sustain the fighter.",
+      "notes": "Two natures with distinct roles"
+    },
+    {
+      "chunk_id": 146,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Est et alia ratio. Magna discordia erat inter Deum et homines per veterem hominem; facta est concordia per novum mediatorem.",
+      "english": "There is also another reason. Great discord existed between God and humans through the old man; concord was made through the new mediator.",
+      "notes": "Adam vs. Christ as old and new man"
+    },
+    {
+      "chunk_id": 147,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed, cum mediator esset, dignum erat ut cum utroque affinitatem haberet. Itaque cum hominem Deo reconciliaturus erat, qui erat inter utrumque Deus et homo esse debuit.",
+      "english": "But since he was a mediator, it was fitting that he have kinship with both. Therefore, since he was going to reconcile man to God, he who was between both had to be God and man.",
+      "notes": "Classical argument for two natures from mediatorial role (1 Timothy 2:5)"
+    },
+    {
+      "chunk_id": 148,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Apparuit ergo benignitas et humanitas Salvatoris nostri Dei, id est Deus et homo.",
+      "english": "Therefore the kindness and humanity of God our Savior appeared—that is, God and man.",
+      "notes": "'Humanitas' = both humanity and kindness"
+    },
+    {
+      "chunk_id": 149,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non tamen ex operibus justitiae quae fecimus nos, sed secundum misericordiam suam salvos nos fecit.",
+      "english": "Yet he saved us not because of works of righteousness that we did, but according to his mercy.",
+      "notes": "Salvation by mercy not merit"
+    },
+    {
+      "chunk_id": 150,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Bene autem apparuit. Revelata est enim Dei [f. Christi] nativitas multis modis. Revelata est per angelos pastoribus; revelata est per stellam regibus.",
+      "english": "And he appeared well. For the birth of Christ was revealed in many ways. It was revealed through angels to shepherds; it was revealed through a star to kings.",
+      "notes": "Dual revelation: angels and star"
+    },
+    {
+      "chunk_id": 151,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Audivimus enim in Evangelio, quod «pastores erant in regione eadem vigilantes, et custodientes vigilias noctis super gregem suum. Et ecce angelus Domini stetit juxta illos; et timuerunt timore magno. Et dixit eis angelus: Nolite timere. Ecce enim evangelizo vobis gaudium magnum, quod erit omni populo, quia natus est vobis hodie Salvator, qui est Christus Dominus (Luc. II, 8, et seq.).»",
+      "english": "For we heard in the Gospel that shepherds were in that same region keeping watch and guarding their flock during the watches of the night. And behold, an angel of the Lord stood beside them, and they feared with great fear. And the angel said to them: Do not be afraid. For behold, I bring you good news of great joy that will be for all the people, for to you is born today a Savior, who is Christ the Lord. This comes from the Gospel of Luke, chapter two, verse eight and following.",
+      "notes": "Luke 2:8-11 - angelic announcement to shepherds"
+    },
+    {
+      "chunk_id": 152,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ubi est natus? «In civitate David,» id est Bethlehem. «Et hoc vobis signum: Invenietis infantem pannis involutum et positum in praesepio. Et subito facta est cum angelo multitudo militiae coelestis exercitus laudantium Deum, et dicentium: Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis (ibid.).»",
+      "english": "And where was he born? In the city of David—that is, Bethlehem. And this will be a sign to you: You will find an infant wrapped in swaddling cloths and lying in a manger. And suddenly there was with the angel a multitude of the heavenly host praising God and saying: Glory to God in the highest, and on earth peace to people of good will. This continues in the same passage.",
+      "notes": "Luke 2:11-14"
+    },
+    {
+      "chunk_id": 153,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc audientes pastores venerunt usque Bethlehem, et viderunt sicut dictum fuerat ad illos per angelum.",
+      "english": "Hearing this, the shepherds came to Bethlehem and saw just as had been told to them by the angel.",
+      "notes": "Luke 2:15-16"
+    },
+    {
+      "chunk_id": 154,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Merito hoc angelus nuntiavit, quia Rex angelorum natus erat. Et dignum erat ut cum magna luce apparuisset angelus, quia solem justitiae, lumen in tenebris declaravit exortum.",
+      "english": "The angel rightly announced this, because the King of angels had been born. And it was fitting that the angel appeared with great light, because he declared that the sun of righteousness, the light shining in darkness, had risen.",
+      "notes": "Malachi 4:2; John 1:5 allusions"
+    },
+    {
+      "chunk_id": 155,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pastoribus nuntiatum est, quia natus est ille qui ait: «Ego sum pastor bonus (Joan. X, 11).»",
+      "english": "It was announced to shepherds because he was born who says in the Gospel of John, chapter ten, verse eleven: I am the good shepherd.",
+      "notes": "John 10:11 - connection between shepherds as recipients and Christ as Good Shepherd"
+    },
+    {
+      "chunk_id": 156,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per stellam apparuit regibus, quia ortus erat Rex et stella. Rex, unde scriptum est: «Ego autem costitutus sum Rex ab eo (Psal. II, 6); stella, unde scriptum est: «Orietur stella ex Jacob (Num. XXIV, 17).»",
+      "english": "He appeared through a star to kings because one had risen who was both King and Star. King, as it is written in Psalm two, verse six: I have been established as King by him. Star, as it is written in the book of Numbers, chapter twenty-four, verse seventeen: A star shall rise from Jacob.",
+      "notes": "Psalm 2:6 and Numbers 24:17"
+    },
+    {
+      "chunk_id": 157,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Merito itaque apparuit pastoribus et regibus, quia ipse erat rex et sacerdos natus de regali et sacerdotali genere. De regali semine, quia de semine David; de sacerdotali, quia Maria cognata Elisabeth erat.",
+      "english": "Therefore he rightly appeared to shepherds and kings, because he himself was king and priest, born from royal and priestly lineage. From royal seed, because from the seed of David; from priestly lineage, because Mary was a relative of Elizabeth.",
+      "notes": "Christ's dual genealogy as king (Davidic) and priest (Aaronic through Mary's kinship with Elizabeth)"
+    },
+    {
+      "chunk_id": 158,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Satis commendabilis fuit nuntius, quia angelus, et cum magna voce, de qua legitur in Evangelio: «Et erat uxor Zachariae de filiabus Aaron, et nomen ejus Elisabeth (Luc. I, V).»",
+      "english": "The messenger was quite commendable—an angel with a great voice, concerning whom it is read in the Gospel according to Luke, chapter one, verse five: Zacharias' wife was from the daughters of Aaron, and her name was Elizabeth.",
+      "notes": "Luke 1:5 - Elizabeth's priestly lineage"
+    },
+    {
+      "chunk_id": 159,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed audite quid attulit: Ecce evangelizo vobis gaudium magnum, quia natus est vobis hodie Salvator. Vere gaudium magnum. Captivi eramus in carcere, jacebamus in infirmitate. Natus est medicus. Ecce gaudium magnum.",
+      "english": "But hear what he brought: Behold, I bring you good news of great joy, for to you is born today a Savior. Truly great joy! We were captives in prison, we lay in sickness. A physician has been born. Behold, great joy!",
+      "notes": "Metaphors of captivity and sickness healed by Christ the physician"
+    },
+    {
+      "chunk_id": 160,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Multo magis gaudium erat hominibus, cum angeli gauderent, et dicerent: Gloria in excelsis Deo. Gaudium erat apud angelos de restauratione diminuti ordinis. Laudabant Dominum de reparatione hominum, ad restaurationem angelorum.",
+      "english": "There was much more joy for humans when the angels rejoiced and said: Glory to God in the highest. There was joy among the angels about the restoration of their diminished order. They praised the Lord for the restoration of humans, which led to the restoration of angels.",
+      "notes": "Angels rejoice because human salvation fills the ranks depleted by fallen angels"
+    },
+    {
+      "chunk_id": 161,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et hominibus est pax, quia discordiam cum Deo et cum angelis habuimus; sed per mediatorem reconciliati sumus.",
+      "english": "And there is peace for humans, because we had discord with God and with angels, but through the mediator we have been reconciled.",
+      "notes": "Christ as mediator reconciling humanity to God and angels"
+    },
+    {
+      "chunk_id": 162,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia peccando extranei eramus, ideo et extraneos nos a suo consortio deputabant angeli. Adeo angeli vilipendebant homines, quod se ab eis adorari permittebant.",
+      "english": "Because we were strangers through sin, the angels also considered us strangers from their fellowship. The angels so despised humans that they allowed themselves to be worshiped by them.",
+      "notes": "Before Christ, angels accepted human worship due to human degradation"
+    },
+    {
+      "chunk_id": 163,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hinc est enim, quod Lot et Abraham angelos adorabant, nec ipsi prohibentur ante adventum Christi.",
+      "english": "For this is why Lot and Abraham worshiped angels, and they were not forbidden before the advent of Christ.",
+      "notes": "Genesis 18-19 examples of patriarchs worshiping angels"
+    },
+    {
+      "chunk_id": 164,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed nato Domino, cum Joannes voluit adorare angelum in Apocalypsi, idem angelus ne se debeat adorare compescit, dicens: «Vide ne feceris, conservus tuus sum, et fratrum tuorum (Apoc. XIX, 10).»",
+      "english": "But after the Lord was born, when John wished to worship an angel in the book of Revelation, that same angel restrained him from worshiping, saying in chapter nineteen, verse ten: See that you do not do that; I am your fellow servant and of your brothers.",
+      "notes": "Revelation 19:10 (also 22:9) - angels now refuse worship after the Incarnation restored human dignity"
+    },
+    {
+      "chunk_id": 165,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Prius naturam humanam despiciebant angeli, ut inferiorem; sed, postquam eam assumptam super se conspiciunt, prostratam sibi videre pertimescunt, nec dedignantur hominem socium, qui super se adorant hominem Deum.",
+      "english": "Previously the angels looked down on human nature as inferior. But after they see it assumed above themselves, they fear to see it prostrate before them, nor do they disdain man as a companion—they who worship above themselves the God-man.",
+      "notes": "Reversal: angels now see humanity exalted in Christ above themselves"
+    },
+    {
+      "chunk_id": 166,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pax nuntiatur hominibus, sed non omnibus, imo hominibus bonae voluntatis. Ac si dicerent: Illi reconciliabuntur, qui habent bonam voluntatem reconciliandi. Illi vero habent voluntatem reconciliandi qui vovent se Creatori, nec faciunt contrarium voluntati ejus.",
+      "english": "Peace is announced to humans, but not to all—rather, to people of good will. As if to say: Those will be reconciled who have a good will to be reconciled. And those have the will to be reconciled who devote themselves to the Creator and do not act contrary to his will.",
+      "notes": "'Good will' = willingness to be reconciled, not self-generated merit"
+    },
+    {
+      "chunk_id": 167,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Notandum est quare dixit, bonae voluntatis, et non actionis, quia voluntas bona sufficit, si facultas operationis desit. Itaque bona voluntas valet aliquando, sine operatione bona; operatio vero nunquam sine bona voluntate. Maluit ergo dicere, bonae voluntatis, quod commune est omnibus salvatis.",
+      "english": "It should be noted why he said of good will and not of action, because good will suffices if the ability to act is lacking. Thus good will sometimes avails without good action, but action never avails without good will. Therefore he preferred to say of good will, which is common to all who are saved.",
+      "notes": "Important pastoral note: good will counts even when circumstances prevent good works; but works without good will are worthless"
+    },
+    {
+      "chunk_id": 168,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "natus est Christus, non aperta porta Virginis, quae virgo ante partum, virgo in partu, virgo post partum. De hac porta Virginis dixit Dominus ad Ezechielem: «Porta haec quam vides, clausa erit, et non aperietur, et vir non intrabit per eam (Ezech. XLIV, 2),» quam ingressus est Dominus Deus Israel, et semper erit clausa. Magnum meritum, magnum donum, magna gratia! Ancilla peperit Dominum; creatura Creatorem, filia patrem, filia divinitatis, mater humanitatis. Duas nativitates Domini accepimus, unam divinam, alteram humanam. Illam sine matre, istam sine patre. Hodie, fratres charissimi, celebramus temporalem nativitatem propter nos acceptam. Gaudeamus propter reparationem nostram. Hodie suscepit infirmus sanitatem, hodie captivus libertatem, hodie recuperavit exsul haereditatem. Suscipiamus ergo hodie Regem venientem, praeparemus ei habitacula pectorum contra talem imperatorem, ut nos dignetur suscipere, in coelesti Jerusalem, qui vivit et regnat per omnia saecula saeculorum. Amen.",
+      "english": "Christ was born without opening the gate of the Virgin, who remained a virgin before giving birth, a virgin during birth, and a virgin after birth. Concerning this gate of the Virgin, the Lord spoke to Ezekiel, saying, \"This gate that you see shall remain closed and shall not be opened, and no man shall enter through it,\" as we read in the book of Ezekiel, chapter forty-four, verse two. The Lord God of Israel entered through it, and it will remain closed forever. What great merit, what great gift, what great grace! The handmaid gave birth to the Lord; the creature bore the Creator; the daughter bore her father; the daughter of divinity became the mother of humanity. We acknowledge two births of the Lord: one divine, the other human. The first was without a mother, the second without a father. Today, dearest brothers and sisters, we celebrate his birth in time, which he accepted for our sake. Let us rejoice because of our restoration. Today the sick person has received health, today the captive has received freedom, today the exile has recovered his inheritance. So let us today receive the King who comes. Let us prepare dwellings in our hearts for such an emperor, that he may graciously receive us into the heavenly Jerusalem, who lives and reigns forever and ever. Amen.",
+      "notes": "The sermon emphasizes Mary's perpetual virginity using the image of the closed gate from Ezekiel as a theological type. The rhetorical structure uses parallelism (hodie...hodie...hodie) for emphasis in oral delivery. The phrase 'habitacula pectorum' (dwellings of hearts) has been rendered idiomatically as 'dwellings in our hearts' for natural English flow."
+    }
+  ]
+}
