@@ -2,7 +2,7 @@
   "metadata": {
     "volume_id": "UNKNOWN",
     "title": "Three Sermons on the Nativity of the Lord",
-    "author": "Unknown",
+    "author": "Hildebert of Lavardin",
     "century": "Unknown - likely 5th-12th century based on style",
     "source": "Latin patristic text, source unspecified",
     "translator": "claude-sonnet-4.5",
@@ -16,7 +16,10 @@
       "Greek transliterations may vary from standard forms",
       "Biblical citation locations follow Vulgate numbering which may differ from modern translations",
       "Reference to 'Rabanus' suggests Rabanus Maurus (9th century) but context unclear"
-    ]
+    ],
+    "title_english": "Three Sermons on the Nativity of the Lord",
+    "title_latin": "Sermones Tres in Nativitate Domini",
+    "volume": "171"
   },
   "chunks": [
     {
