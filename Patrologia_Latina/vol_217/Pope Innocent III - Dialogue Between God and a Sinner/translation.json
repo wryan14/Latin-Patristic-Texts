@@ -1,0 +1,720 @@
+{
+  "metadata": {
+    "volume_id": "PL217",
+    "title": "Dialogue Between God and a Sinner",
+    "title_latin": "Dialogus inter Deum et Peccatorem",
+    "author": "Pope Innocent III",
+    "century": "13th century",
+    "source": "Patrologia Latina Volume 217, cols. 691-702",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-06-15T00:00:00Z",
+    "total_chunks": 83,
+    "estimated_duration_minutes": 45,
+    "known_issues": [
+      "Translation completed in three passes due to initial truncation"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Editorial Notice on the Manuscript",
+      "latin": "DIALOGUS INTER DEUM ET PECCATOREM. MONITUM.",
+      "english": "Dialogue Between God and a Sinner. Editorial Notice.",
+      "notes": "This heading introduces the entire work and the editorial preface that follows."
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alterum Innocentii in bibliotheca Vaticana monumentum reperi, Palatino codici 365 insertum, inscriptumque Dialogus Innocentii tertii inter Deum et peccatorem, quem dialogum utrum ante an post pontificatum scripserit ignoro, neque enim ipse de se Innocentius loquitur, sed cujuslibet peccatoris personam cum Deo loquentem introducit; nec vero quisquam miretur, dialogum hunc in Gestis non recenseri, multa enim alia sive edita, sive inedita Innocentii scripta auctori Gestorum ignota fuerunt.",
+      "english": "I discovered another work by Innocent in the Vatican Library, inserted in Palatine manuscript three hundred sixty-five, inscribed as Dialogue of Innocent the Third Between God and a Sinner. I do not know whether he wrote this dialogue before or after becoming pope, for Innocent does not speak about himself in it, but rather presents the character of any sinner whatsoever speaking with God. No one should be surprised that this dialogue is not mentioned in the Gesta, for many other writings of Innocent, both published and unpublished, were unknown to the author of the Gesta.",
+      "notes": "The editor (Mai) introduces the manuscript discovery and addresses questions of dating and authenticity."
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Accipiat igitur Christiana Ecclesia hanc quoque a nobis magni pontificis lucubrationem, quae dum religiosissimum auctoris animum comprobat, legentium pariter pietatem excitat morumque emendationem impense suadet.",
+      "english": "Let the Christian Church therefore receive from us this literary work of the great pontiff, which, while it demonstrates the deeply religious spirit of its author, equally stirs the piety of readers and urgently commends the reform of their conduct.",
+      "notes": "Mai concludes his editorial notice with a statement about the work's spiritual value."
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's Opening Plea",
+      "latin": "DIALOGUS INTER DEUM ET PECCATOREM.",
+      "english": "Dialogue Between God and a Sinner",
+      "notes": "This marks the beginning of the actual dialogue text."
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia pius et misericors Dominus, fratres charissimi, permittit, imo gratum ei, a miseris se mortalibus invocari, erigitur mihi quoque audacia, licet indigno et peccatori, clamandi ad Deum voce magna, et ipsius clementiam invocandi.",
+      "english": "Because the merciful and compassionate Lord, dearest brothers, permits—indeed, welcomes—being called upon by wretched mortals, boldness rises even in me, though I am unworthy and a sinner, to cry out to God with a loud voice and to invoke his mercy.",
+      "notes": "The narrator introduces the dialogue in first person, addressing an audience of brothers."
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non igitur onerosum sit vobis, quia proficere poterit Domino adjuvante ad poenitentiae fructum, quasi dialogum in auribus charitatis vestrae constituam quoddam colloquium inter peccatorem et Deum.",
+      "english": "Let it not be burdensome to you, since with the Lord's help it may prove beneficial toward the fruit of repentance, that I establish in the hearing of your charity a kind of conversation between a sinner and God, like a dialogue.",
+      "notes": "The author explains his pedagogical intention for the dialogue format."
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non enim dedignatur Altissimus hujusmodi colloquia servorum suorum, dicente ad eum Job: «Loquere et ego respondebo tibi, aut certe ego loquor et tu responde mihi.» Ipso itaque attendente de coelo et residente in excelso gloriae suae, tanquam immutabili Deo apud quem non est transmutatio neque vicissitudinis obumbratio, ego prostratus in terra et adhaerens humiliter pavimento, tanto competentius personam assumam peccatoris in hoc colloquio, quanto prae caeteris reum et culpabilem immundum et peccatorem esse me fateor et agnosco.",
+      "english": "For the Most High does not disdain such conversations with his servants, as Job says to him, 'Speak and I will answer you, or else I will speak and you answer me,' from the book of Job, chapter thirteen. With him therefore watching from heaven and dwelling in the heights of his glory, as the unchangeable God in whom there is no variation or shadow of alteration, while I lie prostrate on the earth and humbly cling to the ground, I will all the more fittingly take on the character of the sinner in this conversation, inasmuch as I confess and acknowledge that I am more guilty and blameworthy, more defiled and sinful than others.",
+      "notes": "Job 13 provides biblical precedent for human-divine dialogue. The author emphasizes his personal unworthiness."
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Incipiens ergo et aperiens mentis meae desiderium sic loquor verbis meis ad eum:",
+      "english": "Beginning therefore and opening the desire of my mind, I speak to him with these words:",
+      "notes": "Transition to the actual dialogue exchange."
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's First Prayer Attempt",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner to God",
+      "notes": "First direct speech section begins."
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Deus aeterne, cujus natura bonitas, et opus misericordia est, qui etiam cum iratus fueris, misericordiae recordaberis, quibus verbis digne te potero invocare ut et tu digneris invocantem misericorditer exaudire?",
+      "english": "Eternal God, whose nature is goodness and whose work is mercy, who even when angry will remember mercy—with what words will I be able to invoke you worthily, so that you may mercifully deign to hear the one calling upon you?",
+      "notes": "The sinner begins with traditional attributes of God but immediately expresses uncertainty about how to pray properly."
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Scio quia Redemptor meus, Filius tuus, doctor veritatis et sapientiae, cum ad eum diceret unus ex discipulis suis: Domine, doce me orare; ait: «Dicite: Pater noster qui es in coelis.» Si igitur, Domine, sic orando invocavero te, poterone percipere quod verbum illud a fideli propheta tuo probatum in me impleatur?",
+      "english": "I know that my Redeemer, your Son, the teacher of truth and wisdom, when one of his disciples said to him, 'Lord, teach me to pray,' replied, 'Say: Our Father who art in heaven,' from the Gospel of Luke, chapter eleven. If therefore, Lord, I invoke you by praying in this way, will I be able to obtain the fulfillment in me of that word proven by your faithful prophet?",
+      "notes": "References Luke 11 and the Lord's Prayer as the standard Christian prayer formula."
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Challenges the Sinner's Relationship",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God to the Sinner",
+      "notes": "God's first response section begins."
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Pro certo quod sic orare docuit te Filius consubstantialis mihi et coaeternus; sed quia tu temetipsum mihi non exhibes sicut filium, non potes in oratione praedicta digne invocare me sicut patrem.",
+      "english": "Certainly my Son, who is consubstantial and coeternal with me, taught you to pray in this way. But because you do not present yourself to me as a son, you cannot worthily invoke me as father in that prayer.",
+      "notes": "God immediately challenges the sinner's use of 'Our Father' by questioning whether the sinner acts like a son."
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Nam ex persona mea dicit propheta: «Si ego Pater, ubi est amor meus?» Si autem me tanquam Patrem, homo quem creavi, diligeres, mandata mea tanquam filius qui patrem diligit custodires; exhibitio enim operis, probatio est dilectionis.",
+      "english": "For the prophet speaks in my person: 'If I am Father, where is my honor?' from the prophet Malachi, chapter one. But if you loved me as Father—you, the human being whom I created—you would keep my commandments as a son who loves his father. For the demonstration of works is the proof of love.",
+      "notes": "Malachi 1:6 is cited to show that calling God 'Father' requires obedience as evidence of genuine love."
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sed consideranti mihi omne genus hominum et universum statum in carne viventium, rarus occurrit in praelatis et subditis, in regibus et ministris, in claustralibus et professis, in dominis et servis, in clericis et laicis, qui adimpleat meam voluntatem in exsequendis mandatis meis, et tanquam patri amorem exhibeat mihi filialem.",
+      "english": "But as I consider every kind of human being and every condition of those living in the flesh, rarely do I encounter—among prelates and subjects, among kings and ministers, among monastics and those under vows, among lords and servants, among clerics and laity—anyone who fulfills my will by carrying out my commandments and shows me the love of a son toward a father.",
+      "notes": "God surveys the entire spectrum of medieval social hierarchy and finds universal disobedience."
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Omnis sexus et aetas corrupit viam suam, ut eat post concupiscentias suas contemnendo universam traditionem evangelicam et doctrinam.",
+      "english": "Every sex and every age has corrupted its way, going after its own desires while despising the entire evangelical tradition and teaching.",
+      "notes": "Universal corruption across all demographics is emphasized."
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner Tries David's Prayer",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner to God",
+      "notes": "The sinner responds and attempts a different prayer formula."
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Mirabilis facta est scientia tua, Domine, contra me, et non potero ad eam. Claudis os meum et obstruis rationibus tuis, ut ad invocationem tuam prosilire non audeam verbis orationis praefatae.",
+      "english": "Your knowledge has become too wonderful for me, Lord, and I cannot attain it. You close my mouth and block me with your arguments, so that I dare not rush forward to invoke you with the words of that prayer.",
+      "notes": "The sinner acknowledges defeat in the first attempt and recognizes his unworthiness to use the Lord's Prayer."
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "«Loquor tamen ad Dominum meum, cum sim pulvis et cinis,» mutabo verbum, si forte digna inveniatur invocatio mea in auribus tuis; assumam ad te invocandum illam orationem fidelis prophetae tui David, cui perhibuisti testimonium tuum dicens: Inveni virum secundum cor meum.",
+      "english": "'Yet I will speak to my Lord, though I am dust and ashes,' from the book of Genesis, chapter eighteen. I will change my words, in case my invocation may be found worthy in your hearing. I will adopt for invoking you that prayer of your faithful prophet David, to whom you gave testimony saying, 'I have found a man after my own heart,' from Psalm eighty-eight.",
+      "notes": "Genesis 18:27 (Abraham's humility) and Psalm 89 (God's testimony about David) are cited as the sinner tries a new approach."
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sic enim orando clamabo ad te, Domine: «Miserere mei.» Et itidem ego dixi: «Domine, miserere mei;» et alibi: «Miserere mei, Domine, et exaudi orationem meam.»",
+      "english": "For praying in this way, I will cry out to you, Lord: 'Have mercy on me.' And likewise I said, 'Lord, have mercy on me,' and elsewhere, 'Have mercy on me, Lord, and hear my prayer,' from Psalm four.",
+      "notes": "The sinner now attempts to use the Davidic formula 'Miserere mei' from the Psalms."
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Questions the Sinner's Fear",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God to the Sinner",
+      "notes": "God's second response section."
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Non bene sonat oratio illa in ore tuo, quia non habes me pro Domino, quia non times me sicut servus timere debet dominum suum, licet diffiteri non possis te servum meum.",
+      "english": "That prayer does not sound right in your mouth, because you do not regard me as Lord, because you do not fear me as a servant ought to fear his master, though you cannot deny that you are my servant.",
+      "notes": "God now challenges the sinner's use of 'Lord' by questioning whether the sinner actually fears God as a servant should."
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Ego quidem qui per prophetam dixi contra filios inobedientiae: «Si ego Pater, ubi est amor meus?» per eumdem clamavi contra servos qui sunt sine timore: «Si ego Dominus, ubi est timor meus?»",
+      "english": "I, who spoke through the prophet against the sons of disobedience, 'If I am Father, where is my honor?'—through the same prophet I cried out against servants who are without fear: 'If I am Lord, where is my fear?'—both from the prophet Malachi, chapter one.",
+      "notes": "God again cites Malachi 1:6, now emphasizing the master-servant relationship and the lack of fear."
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Quod autem non timeas me, vel non habeas me pro Domino, de facili tibi probo. Si enim esses in aliquo loco secreto solus cum sola muliere aliqua, quam valde diligeres, paratus et valde accensus in eam ut libidinem corporalem impleres, nonne si aliquis quem tu formidares irrumperet, statim dimitteres opus incoeptum, et fugeres prae timore illius, vel saltem ne videreris ab illo prae verecundia et timore seu pudore, si posses, ad latibulum aliquod convolares?",
+      "english": "But that you do not fear me, or do not regard me as Lord, I easily prove to you. For if you were in some secret place alone with a woman whom you greatly desired, prepared and greatly inflamed toward her to fulfill bodily lust, would you not, if someone whom you feared burst in, immediately abandon the deed begun and flee in fear of him, or at least, lest you be seen by him—out of shame and fear or embarrassment—if you could, would you not rush to some hiding place?",
+      "notes": "God uses a vivid hypothetical scenario of sexual sin to demonstrate the sinner's priorities in fear."
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Pro me vero non dimittis vicinis oculis talia operari, cui etiam displicere, et ne facias, inhibere cognoscis? De me enim ait propheta: «Nunquid Deus e vicino?» En Deus a longinquo ego sum. Nunquid si absconderit se homo, ego non videbo eum?",
+      "english": "But for my sake you do not refrain from doing such things even before nearby eyes, though you know that it displeases me and that I forbid you to do it. For the prophet says concerning me, 'Am I a God at hand?' from the prophet Jeremiah, chapter twenty-three. Behold, I am a God afar off. If a man hides himself, shall I not see him?",
+      "notes": "Jeremiah 23:23-24 is cited to emphasize God's omnipresence and omniscience, contrasting with human witnesses."
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Unde magis illum quam me timere convinceris; imo illum metuere tanquam dominum, qui similis est tibi homo mortalis et corruptibilis; et me, qui sum omnipotens et aeternus, et velis nolis, Dominus tuus, contemnere comprobaris. Non ergo digne convenit tibi ut sic invoces me dicendo, Domine, miserere.",
+      "english": "From this you are proven to fear him more than me—indeed, to dread him as lord, though he is like you, a mortal and corruptible human being—while you are shown to despise me, who am almighty and eternal, and whether you wish it or not, your Lord. Therefore it is not fitting for you to invoke me by saying, 'Lord, have mercy.'",
+      "notes": "God concludes that the sinner fears other humans more than God, rendering the prayer 'Lord, have mercy' inappropriate."
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner Tries the Tax Collector's Prayer",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner to God",
+      "notes": "Third attempt at finding an appropriate prayer."
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Convincis me Domine, evidenter et concludis argumentando irrefragabiliter. Ad hoc cum loquor ad Dominum meum homo ego putredo, et filius hominis vermis, occurrit, Domine, menti meae oratio illa peccatoris et publicani, quam tu misericors acceptasti, cum orans in templo et nolens levare oculos in coelum, percuteret pectus suum, dicens: «Deus, propitius esto mihi peccatori.»",
+      "english": "You convict me, Lord, clearly, and you conclude your argument irrefutably. In this situation, when I, a human being who am rottenness, and a son of man who am a worm, speak to my Lord, there comes to my mind, Lord, that prayer of the sinner and tax collector which you mercifully accepted, when praying in the temple and unwilling to lift his eyes to heaven, he beat his breast saying, 'God, be merciful to me, a sinner,' from the Gospel of Luke, chapter eighteen.",
+      "notes": "Luke 18:13 provides the tax collector's prayer, which the sinner now attempts to use as a model."
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Ipsius exemplo et similibus verbis ad te clamabo, si forte sic invocantem exaudias, et propitieris peccato meo, multum est enim.",
+      "english": "Following his example and with similar words I will cry out to you, in case you might hear one invoking you in this way and be merciful to my sin, for it is great.",
+      "notes": "The sinner expresses hope that this third prayer formula might be acceptable."
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Exposes the Sinner's Idolatry",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God to the Sinner",
+      "notes": "God's third response, introducing the concept of idolatry through vice."
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Si Dominus Deus tuus ego sum, qui solus certe sum, omnino irrisorie ad me clamare videris, utens ad invocandum me verbis orationis praedictae; cum aliud sit praeter me quod colis ut Deum, ad quod principaliter dirigis affectum tuum. Illud enim est Deus tuus quod magis a te diligitur.",
+      "english": "If I am the Lord your God, which I alone certainly am, you seem to be calling upon me in complete mockery by using the words of that prayer to invoke me, since there is something other than me that you worship as God, toward which you principally direct your affection. For that is your god which is more loved by you.",
+      "notes": "God introduces the key argument that whatever one loves most becomes one's functional god."
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Si enim avarus es, pecuniam tanquam idololatra colis et amas ut Deum. Avaritia siquidem, teste Apostolo meo, «idolorum est servitus.» Si gastrimargus sive gulosus, venter est Deus tuus, quia de his curam habes quae maxime ingluviem ventris incendunt. Dicitur a praedicto Apostolo: «Hi sunt quorum Deus venter eorum est.»",
+      "english": "For if you are greedy, you worship and love money as an idolater worships God. For avarice, as my apostle testifies, 'is the service of idols,' from Paul's letter to the Ephesians, chapter five. If you are a belly-worshiper or glutton, your belly is your god, because you care about those things that most inflame the appetite of the belly. The same apostle says, 'These are the ones whose god is their belly,' from Paul's letter to the Philippians, chapter three.",
+      "notes": "Ephesians 5:5 and Philippians 3:19 are cited to demonstrate how sins become functional gods."
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Unde si alium Deum praeter me habes, istud scilicet vitium quod plus amas quam me, qui verus sum Deus, ad propitiandum tibi digne non invocabis me.",
+      "english": "Therefore, if you have another god besides me—namely, that vice which you love more than me, who am the true God—you will not worthily invoke me to be merciful to you.",
+      "notes": "God concludes that loving sin more than God makes prayer to God inappropriate."
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Imo videtur quod velles irridere me, et velut ironice Deum invocare, si cultum et amorem mihi debitum alii exhibendo, ad me clamares: «Deus, propitius esto mihi peccatori;» cum haec stulta opinio contraria sit Scripturae dicenti: «Deus non irridetur.»",
+      "english": "Indeed, it seems that you would be mocking me and invoking God ironically if, while rendering to another the worship and love due to me, you cried out to me, 'God, be merciful to me, a sinner'—since this foolish notion is contrary to Scripture, which says, 'God is not mocked,' from Paul's letter to the Galatians, chapter six.",
+      "notes": "Galatians 6:7 emphasizes that God cannot be deceived by false piety while the heart serves other gods."
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sed tu facis sicut adultera, quae habens ex una parte legitimum virum suum, ex alia recipit amatorem suum. Nam me, qui sum sponsus tuus, tanquam meretrix impudica contemnis, et excludis thalamo animae tuae, ubi tecum deberem delicioso et sancto amore quiescere, quia deliciae sunt mihi esse cum filiis hominum.",
+      "english": "But you act like an adulteress who, having on one side her legitimate husband, receives her lover on the other side. For you despise me—who am your spouse—like a shameless prostitute, and you exclude me from the bridal chamber of your soul, where I should rest with you in delightful and holy love, because my delight is to be with the children of humanity.",
+      "notes": "The marriage metaphor is introduced, with the soul as bride and God as spouse, corrupted by spiritual adultery with sin."
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Non sine injuria mea diabolum velut amatorem externum inducis ad lasciviendum cum eo in concupiscentiis et desideriis tuis. Quibus vere dicit Scriptura: «Augustum, inquit, est stratum, ita ut alter decidat.»",
+      "english": "Not without injury to me, you bring in the devil like an external lover to indulge with him in your lusts and desires. To such persons Scripture truly says, 'The bed is so narrow that one of the two must fall off,' from the prophet Isaiah, chapter twenty-eight.",
+      "notes": "Isaiah 28:20 is applied metaphorically: the soul cannot simultaneously accommodate both God and the devil."
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Ideo relinquo stratum, et recessi a te, quia in fornicationibus suis alii inhaerendo impudenter anima reliquit me, virum utique pubertatis suae, cui debuerat inseparabiliter adhaerere.",
+      "english": "Therefore I leave the bed and withdraw from you, because the soul, clinging shamelessly to another in its fornications, has abandoned me, the husband of its maturity, to whom it should have clung inseparably.",
+      "notes": "God explains his departure from the soul as the consequence of the soul's spiritual adultery."
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Caeterum quando credis te posse me invocare ut respondeam tibi, cum non sim in te? quare pertransis clausis oculis? et vim illius verbi quod ponit Propheta, scilicet: «Invocabis, et Dominus exaudiet te,» non attendis? Invocare enim dicitur quasi intus orare, ad eum scilicet qui intus est vociferando clamare.",
+      "english": "Moreover, when do you think you can invoke me so that I will answer you, when I am not in you? Why do you pass by with closed eyes? And why do you not pay attention to the force of that word which the prophet sets forth, namely, 'You will call, and the Lord will hear you,' from the prophet Isaiah, chapter fifty-eight? For to invoke means, as it were, to pray inwardly—that is, to cry out to him who is within.",
+      "notes": "Isaiah 58 is cited to explain that 'invoke' etymologically means to call upon one who is present within. God cannot be invoked if he has withdrawn."
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Certe si saepe pulsando clamares ad ostium alicujus domus in qua nullus esset, tota die clamare posses, et quia nemo intus esset qui te audiret, nemo tibi clamanti, quamvis fortiter et frequenter, responderet.",
+      "english": "Certainly, if you were to cry out by knocking frequently at the door of a house in which no one was present, you could cry out all day long, and because no one would be inside to hear you, no one would respond to you crying out, however loudly and frequently.",
+      "notes": "God uses the analogy of knocking on an empty house to explain why prayers go unanswered when God has departed from the soul."
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sic est de me, qui cum dimiserim habitaculum animae tuae a quo me exire coegisti propter immunditiam ejus, longe factus a te jam audire non possum clamorem vocis tuae, nedum quod te debeam, donec operaris ea quae mihi displicent, favorabiliter exaudire.",
+      "english": "So it is with me. Since I have left the dwelling of your soul, from which you compelled me to depart because of its filth, having been made far from you I cannot now hear the cry of your voice, much less should I favorably hear you while you do things that displease me.",
+      "notes": "God explains that his withdrawal makes prayer impossible until the sinner reforms."
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner Asks How to Restore God's Presence",
+      "latin": "PECCATOR AD DEUM",
+      "english": "The Sinner to God",
+      "notes": "The sinner responds by asking for practical guidance."
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Quid ergo, piissime Domine, faciam ut redeas ad me, a quo te propter iniquitates meas, proh dolor! elongasti? ut sic intus existens respondeas invocanti, et salvus fiam, qui fueram a te derelictus, cum scriptum sit: «Longe a peccatoribus salus.»",
+      "english": "What then, most merciful Lord, shall I do so that you may return to me, from whom—alas!—you have distanced yourself because of my iniquities? So that, being thus within, you may answer one who invokes you, and I may be saved, I who had been abandoned by you, since it is written, 'Salvation is far from sinners,' from Psalm one hundred eighteen.",
+      "notes": "Psalm 119:155 is cited. The sinner acknowledges his abandoned state and seeks restoration."
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Prescribes Contrition and Confession",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God to the Sinner",
+      "notes": "God's fourth major response, outlining the sacramental path of restoration."
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Audi Scripturae sanctae consilium, et si feceris illud, reduces me statim ut invocantem exaudiam te ad hospitium tuum. Habe contritionem cordis, et dole fortiter, quia offendisti me peccatis tuis; juxta quod tibi et tibi similibus ait propheta: «Scindite corda vestra et non vestimenta vestra.» Item: «Juxta est Dominus his qui tribulato sunt corde, et humiles spiritu salvabit.»",
+      "english": "Hear the counsel of sacred Scripture, and if you do it, you will immediately bring me back to your dwelling so that I may hear you when you invoke me. Have contrition of heart and grieve strongly because you have offended me with your sins, according to what the prophet says to you and those like you: 'Rend your hearts and not your garments,' from the prophet Joel, chapter two. Likewise, 'The Lord is near to the brokenhearted, and he will save the humble in spirit,' from Psalm thirty-three.",
+      "notes": "Joel 2:13 and Psalm 34:18 establish the foundation for true repentance through interior contrition rather than external show."
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "In ipsa quoque contritione propone constanter peccata tua sacerdoti veraciter confiteri, dicente propheta David: «Dixi, confitebor adversum me injustitiam meam Domino, et tu remisisti impietatem peccati mei.»",
+      "english": "In that very contrition, resolve firmly to confess your sins truthfully to a priest, as the prophet David says: 'I said, I will confess my transgressions to the Lord, and you forgave the iniquity of my sin,' from Psalm thirty-one.",
+      "notes": "Psalm 32:5 establishes the scriptural basis for sacramental confession to a priest."
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "In quo potes manifeste intelligere quam magna et quam incomparabilis sit clementia mea, quae ad tale propositum relaxat et dolet crimina universa.",
+      "english": "In this you can clearly understand how great and how incomparable is my mercy, which at such a resolution forgives and remits all crimes.",
+      "notes": "God emphasizes that forgiveness comes even at the moment of firm resolution to confess, before the actual confession."
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Concessa vero tibi copia confiteri, dicente propheta et clamante: «Dic tu iniquitates tuas, ut justificeris;» id ipsum Apostolo: «Confitemini alterutrum peccata vestra.»",
+      "english": "When opportunity is granted to you to confess, the prophet says and cries out, 'You declare your iniquities, that you may be justified,' from the prophet Isaiah, chapter forty-three. The apostle says the same: 'Confess your sins to one another,' from the letter of James, chapter five.",
+      "notes": "Isaiah 43:26 and James 5:16 are combined to establish the biblical command to confess sins."
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sed et Filius meus tanquam magni consilii angelus venit salvum facere populum suum a peccatis eorum, confessionem, quam apostolus suus expresse praecepit, significative et figurative mandans curatis a lepra corporali per ipsum: «Ite et ostendite vos sacerdotibus;» per haec innuens quod poenitens qui conteritur cum proposito confitendi, a sordibus peccatorum, in anima tanquam spirituali lepra mundatus est; quia cum poenae remanent debiti, ad confessionis sacramentum accedant humiliter, sacerdotum arbitrio se devote committant, et opere satisfaciant juxta illud quod sacerdotes mandaverint.",
+      "english": "But also my Son, as the angel of great counsel, came to save his people from their sins. He commanded confession—which his apostle expressly prescribed—both symbolically and figuratively when he commanded those cured of bodily leprosy by him, 'Go and show yourselves to the priests,' from the Gospel of Luke, chapter seventeen. Through this he indicated that the penitent who is contrite with the intention of confessing is cleansed from the filth of sins, from leprosy in the soul as it were. Because temporal punishments remain as debts, they should humbly approach the sacrament of confession, devoutly commit themselves to the judgment of priests, and make satisfaction in deed according to what the priests command.",
+      "notes": "Luke 17:14 (lepers showing themselves to priests) is interpreted as a typological command for sacramental confession and satisfaction."
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner Cannot Produce Contrition Alone",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner to God",
+      "notes": "The sinner raises the problem of his inability to produce contrition by himself."
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Magna est et ineffabilis, Domine, virtus contritionis per quam tu justificas impium, et de perverso bonum mirabiliter facis. Sed ego peccator eam mereri non possum, et nisi per infusionem gratiae tuae non potero illam aliquatenus obtinere.",
+      "english": "Great and ineffable, Lord, is the power of contrition, through which you justify the ungodly and marvelously make good from evil. But I, a sinner, cannot merit it, and unless through the infusion of your grace, I will not be able to obtain it in any way.",
+      "notes": "The sinner acknowledges the theological problem: contrition is necessary but cannot be merited by the sinner in his current state."
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Quid enim illa contritio sit nescio, sed quod solius tuae gratiae donum sit non ignoro, a quo tanquam a Patre luminum descendit omne datum optimum et omne donum perfectum.",
+      "english": "For what that contrition is I do not know, but that it is a gift of your grace alone I do not fail to recognize, from whom, as from the Father of lights, descends every best gift and every perfect gift, from the letter of James, chapter one.",
+      "notes": "James 1:17 establishes that contrition, like all good things, comes from God alone."
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Cur autem, Domine, requiris a me ut per contritionem bonum me faciam, qualem me ipsum facere non possum? cum etiam tanquam reus et sordidatus eam mereri nequeam, nisi per inaestimabilem gratiam misericordiae tuae.",
+      "english": "Why then, Lord, do you require of me that I make myself good through contrition, when I cannot make myself such? Since also, as one guilty and defiled, I cannot merit it except through the inestimable grace of your mercy.",
+      "notes": "The sinner articulates the apparent paradox of divine command and human inability."
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Explains Congruent Merit and Cooperation",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God to the Sinner",
+      "notes": "God responds with sophisticated scholastic theology about disposition and grace."
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Noli errare vel te ipsum decipere; non enim requiro a te ut te facias bonum, qualem te scio facere non posse, cum hoc sit in me; sed ut applicando liberum arbitrium tuum ad me, divina super beneficia meditando, reddas te mihi habilem.",
+      "english": "Do not err or deceive yourself. For I do not require of you that you make yourself good—something which I know you cannot do, since this is in me—but that by applying your free will to me and meditating on divine benefits, you make yourself suitable to me.",
+      "notes": "God introduces the key distinction between justification (God's work) and disposition (human cooperation through free will)."
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Quod si feceris, cum hoc sit in te, indubitanter gratiae meae recipies influxionem, quam semper de bonitate mea paratus sum dare cuilibet eam efficaciter volenti recipere; quamvis habilitas illa non de merito, sed de congruo infusionem gratiae meae praecedat in peccatore.",
+      "english": "If you do this—since this is within you—you will undoubtedly receive the infusion of my grace, which I am always ready to give from my goodness to anyone who effectively wills to receive it. Although that suitability precedes the infusion of my grace in the sinner not from merit but from congruity.",
+      "notes": "This is classical scholastic theology: the sinner's disposition (de congruo) makes grace fitting but does not earn it (de merito)."
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Unde Augustinus: «Praecedit quoddam in peccatoribus, qui licet non justificentur, digni tamen justificationibus et habiles inveniuntur.»",
+      "english": "Whence Augustine says: 'Something precedes in sinners who, although they are not justified, are nevertheless found worthy of justification and suitable.'",
+      "notes": "An Augustinian quotation (possibly paraphrased) supports the theological framework of congruent merit."
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sic est in eo qui clausos habet oculos, a quo nihil exigitur ut videant, nisi tantum illud quod in eo est posse facere, scilicet oculos aperire, cum exterius parata sit claritas solis, quae protinus ad videndum apertos oculos illustrabit.",
+      "english": "So it is with one who has closed eyes. Nothing is required for them to see except only what is within his power to do—namely, to open his eyes—since the brightness of the sun is prepared outside, which will immediately illuminate the opened eyes for seeing.",
+      "notes": "The famous analogy of opening eyes to receive sunlight illustrates the cooperation between free will and grace."
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Tali exemplo considera manifeste quod ad infundendum se homini divina gratia sit parata, solius habilitatis in eo requiritur congruentia per liberi arbitrii applicationem inventa.",
+      "english": "By this example, consider clearly that divine grace is prepared to infuse itself into a person; only the congruity of suitability in him is required, found through the application of free will.",
+      "notes": "God concludes the theological explanation: grace is always ready; human cooperation through free will application is the only prerequisite."
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's Recognition of Divine Instruction",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner Speaks to God",
+      "notes": null
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Evidenter agnosco, Domine, quod mirabiliter informat et erudit me inscrutabilis altitudo scientiae tuae. Meditabor ergo sollicite beneficia tua, piissime Deus, quibus multipliciter obligasti me, dirigens intellectum meum et applicans tenuiter prout possum sicut terra sine aqua tibi, si forte per hujusmodi cogitationes congruum me, pater misericordiarum, invenias cui rorem gratiae tuae quam non merui dignanter infundas, cujus etiam adminiculo valeam excitatus ad bonum de commissis impietatibus meis sufficienter in corde atteri, cum proposito easdem humiliter confitendi.",
+      "english": "I clearly recognize, Lord, that the unfathomable depth of your knowledge wonderfully instructs and teaches me. Therefore I will carefully meditate on your kindnesses, most gracious God, by which you have bound me to yourself in many ways. I direct my understanding and apply myself feebly as best I can, like parched earth turning toward you, hoping that through such reflections you might find me suitable, Father of mercies, and graciously pour into me the dew of your grace which I have not deserved. With this help I might be awakened to goodness and sufficiently crushed in heart over the wicked deeds I have committed, with the intention of humbly confessing them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quamvis haec ipsa meditatio beneficiorum tuorum sine te menti meae innasci non possit ex me, dicente Apostolo: «non sumus sufficientes aliquid a nobis quasi ex nobis, sed sufficientia nostra ex Deo est (II Cor. III).» Verumtamen miser ego quid faciam, quia compunctus ex gratia tua propono saepius confiteri; sed multa occurrunt mihi, quae me impediunt et revocant ab exsecutione propositi?",
+      "english": "Yet this very meditation on your kindnesses cannot arise in my mind without you, as the Apostle says in his second letter to the Corinthians, chapter three: we are not sufficient to think anything as coming from ourselves, but our sufficiency is from God. But what shall I do, miserable as I am? For though I am stirred by your grace and often resolve to confess, many things come up that hinder me and draw me back from carrying out my intention.",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Primum impedimentum est verecundia magna quae tota die contra me est, et confusio vultus mei quae operuit me. Dispono multoties ad sacerdotem accedere, sed quia valde pudenda sunt quae commisi, declino a tali proposito prae pudore. Multoties sacerdotem adire disposui, sed et iniquitatem meam devote revelaturus adivi, et cum pedibus ejus assisterem, stimulante me conscientia mea, irruit super me confusio repentina, et turbatus in seipso spiritus meus fluctuare coepit et dicere: Heu quid agam? referamne scelus? poterone referre? Sicque praevalente in me verecundia mea, confessione postposita, sine medicamento salutis a poenitentiali foro recessi, corruptaeque sunt et deteriores effectae cicatrices meae a facie insipientiae meae.",
+      "english": "The first obstacle is the great shame that weighs on me all day long, and the confusion of my face that has covered me. I resolve many times to approach a priest, but because what I have done is deeply shameful, I turn away from such a resolution out of embarrassment. Many times I have determined to go to a priest, and I have gone intending to reveal my sin devotedly, but when I stood at his feet, my conscience prodding me, sudden confusion rushed over me. My spirit began to waver in turmoil within itself, saying: What shall I do? Shall I report this crime? Will I be able to tell it? And so with shame prevailing in me, confession postponed, I left the tribunal of penance without the medicine of salvation. The wounds in my soul became corrupted and grew worse because of my foolishness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Rebukes False Shame",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God Speaks to the Sinner",
+      "notes": null
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Stultus nimis et indiscretus argueris fore, dum sicut luna mutaris, et confiteri peccata tua prae verecundia et pudore dimittis. Laudabile est si confunderis et invadit te pudor, quando ad memoriam tuam scelera tua reducis, Jeremia propheta dicente: «Confusus sum et erubui, quia sustinui opprobrium adolescentiae meae (Jer. XXXI).» Sed cavere debes omnino, ne talis sit verecundia quae te revocet a confessione peccati; quia ejusmodi confusio reatum accumulat, non diminuit, cum poenitentem non sinit confitendo detegere quod commisit.",
+      "english": "You are shown to be extremely foolish and lacking in judgment when you change like the moon and abandon confessing your sins out of embarrassment and shame. It is praiseworthy if you are confused and shame invades you when you recall your crimes to memory, as the prophet Jeremiah says in chapter thirty-one: I was ashamed and I blushed, because I bore the reproach of my youth. But you must be entirely careful that your shame not be of the kind that draws you back from confessing sin, because such confusion increases guilt rather than diminishing it, since it does not allow the penitent to uncover through confession what he has committed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Est confusio adducens gloriam, et est confusio adducens reatum; nam culpabilis est si confessionem excludit, laudanda si sic pudet, ut etiam confitendi comes existat, jactantiae siquidem potius quam devotionis signum exponere sine rubore peccatum. Cur autem insipiens pudet te dicere semel, quod non puduit commisisse frequenter? Loquere tamen ante, si tentaris, et dicito: Non erubescam Deo in ministro suo, qui mei similis homo mortalis est, confiteri quod non potest ab oculis majestatis suae abscondi. Non erubescam homini reatum meum exponere in vita praesenti, quem si non detexero ei, scio fore omnibus manifestum in die judicii. Si autem hic illum revelavero, Deus illum conteget et abscondet de inaestimabili bonitate, et faciet me de numero beatorum, «quorum remissae sunt iniquitates et quorum tecta sunt peccata (Psal. XXXI).»",
+      "english": "There is a shame that brings glory, and there is a shame that brings guilt. For it is blameworthy if it excludes confession, but praiseworthy if the shame is such that it accompanies confession. Indeed, to expose sin without any embarrassment is a sign of boasting rather than devotion. But why, foolish one, are you ashamed to say once what you were not ashamed to commit repeatedly? Yet speak beforehand if you are tempted, and say: I will not be ashamed to confess to God through his minister, who is a mortal man like myself, what cannot be hidden from the eyes of his majesty. I will not be ashamed to expose my guilt to a man in this present life, because if I do not reveal it to him, I know it will be made manifest to everyone on the day of judgment. But if I reveal it here, God will cover it and hide it out of his immeasurable goodness, and will make me one of the blessed, as the psalm says in chapter thirty-one, whose iniquities are forgiven and whose sins are covered.",
+      "notes": null
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's Fear of Severe Penance",
+      "latin": "PECCATOR AD DEUM",
+      "english": "The Sinner Speaks to God",
+      "notes": null
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Confortasti me, Domine, verbis tuis et corroborasti sermonibus sanctis, et non prae verecundia jam dimittam quando ad ministrum tuum excessus meos per confessionem revelaturus accedam. Sed aliud est, mi Domine, quod ne confitear magnum mihi praestat obstaculum, scilicet timor poenae. Peccavi, Domine, super numerum arenae maris, et multiplicata sunt peccata mea; quare timeo valde ad confessionem accedere, quia si juxta quantitatem culpae injungenda est quantitas poenae, tanta potero satisfactionis sarcina praegravari, quae juxta meorum aestimationem reatuum mihi debebit imponi, quod si longissimo tempore viverem, eam explere miserrimus non valeam.",
+      "english": "You have strengthened me, Lord, with your words and fortified me with holy teachings, and I will no longer hold back out of shame when I approach your minister to reveal my transgressions through confession. But there is something else, my Lord, that presents a great obstacle to my confessing: namely, fear of punishment. I have sinned, Lord, beyond the number of the sand of the sea, and my sins have multiplied. Therefore I am very afraid to approach confession, because if the amount of punishment must be imposed according to the amount of guilt, I could be weighed down by such a burden of satisfaction, which ought to be imposed on me according to the assessment of my offenses, that even if I lived for a very long time, I would be unable in my wretchedness to complete it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Promises Merciful Penance",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God Speaks to the Sinner",
+      "notes": null
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Adhuc stultitia tua te non deserit, et indiscreta opinio in cor tuum ascendit. Nunquam credere debes, quod Deus praecipiat homini impossibile, vel eam tibi jubeat imponi poenam quam tu nequeas sustinere. Vicarius meus papa, quem ego constitui loco mei in terris judicem tuum, dolorem confitentis mitigabit attentis circumstantiis peccatorum. Et quia potestatem a me ligandi pariter et solvendi, ministerio quidem non auctoritate suscepit, moderabitur poenam juxta suae discretionis arbitrium, et talem injunget poenitentiam, ut per eam, me cooperante, justitiae recipias incrementum: qui etiam tantum in te dolorem, amaritudinem, et contritionis invenire poterit vehementiam, quod postmodum de injuncta poena partem maximam vel forte totam de bonitate Dei praesumas relaxandam.",
+      "english": "Your foolishness still does not desert you, and an unwise opinion has risen in your heart. You must never believe that God commands the impossible for a human being, or that he orders a punishment imposed on you that you cannot bear. My vicar the pope, whom I have established in my place on earth as your judge, will mitigate the pain of one who confesses, taking into account the circumstances of the sins. And because he has received from me the power of binding and loosing alike, in ministry though not in authority, he will moderate the punishment according to the judgment of his discretion, and will impose such penance that through it, with my cooperation, you may receive growth in righteousness. He will also be able to find in you such sorrow, bitterness, and vehemence of contrition that afterward you may presume the greatest part or perhaps even all of the imposed punishment will be relaxed through the goodness of God.",
+      "notes": null
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed et tu, quem timor poenae praesentis retrahit a proposito confitendi, quare non consideras et revolvis mente, quod poena hujus vitae quantumcunque sit longa, brevis est respectu aeternae; quantumcunque amara, dulcis est infernali poenae collata. Quamobrem melius est tibi hic poenitere, quam intolerabiliter postmodum et amarissime cruciari. Ne tibi contingat quod ait Job: «Qui timet pruinam, irruet super eum grando (Job VI);» et qui poenam metuit temporalem, indubitanter aeternam incurret. Item «Fugiet arma ferrea, et irruet in arcum aereum (Job XX).» Poena siquidem praesens quae cito transit et consumitur, per arma ferrea designatur, quae per rubiginem consummantur; poena vero aeterna quae finiri non potest, per arcum aereum, qui aes est incorruptible significatur.",
+      "english": "But you, whom fear of present punishment draws back from the intention of confessing, why do you not consider and turn over in your mind that the punishment of this life, however long it may be, is brief compared to eternal punishment? However bitter it may be, it is sweet when compared to the punishment of hell. Therefore it is better for you to do penance here than to be tortured unbearably and most bitterly afterward. May what the book of Job says in chapter six not happen to you: He who fears the frost, hail will fall upon him. And he who fears temporal punishment will undoubtedly incur eternal punishment. Likewise, as Job says in chapter twenty: He will flee from weapons of iron and fall into a bow of bronze. Indeed, present punishment, which quickly passes and is consumed, is designated by iron weapons, which are consumed by rust. But eternal punishment, which cannot be finished, is signified by a bronze bow, for bronze is incorruptible.",
+      "notes": null
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Maxime tamen fructuosa sit in hoc mundo, infructuosa vero penitus, imo perniciosa poenitentia in futuro. Illud etiam Apostoli verbum tibi debet praestare solatium, et ad sustinentiam temporalis poenae te fortiter animare quod dicitur: «Non sunt condignae passiones hujus temporis ad futuram gloriam quae revelabitur in nobis (Rom. VIII).» Item hoc leve et momentaneum tribulationis nostrae, sublime pondus operatur in aeternitate.",
+      "english": "Yet penance is most fruitful in this world, but completely unfruitful, indeed destructive, in the next. That word of the Apostle should also provide you consolation and strongly encourage you to endure temporal punishment, where Paul says in his letter to the Romans, chapter eight: The sufferings of this present time are not worthy to be compared with the future glory that will be revealed in us. Likewise, this light and momentary affliction of ours works for us a sublime weight in eternity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's Attachment to Worldly Affairs",
+      "latin": "PECCATOR AD DEUM.",
+      "english": "The Sinner Speaks to God",
+      "notes": null
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Jucunda sunt, Domine, eloquia tua servo tuo, super mel et favum ori meo dulciora (Psal. CXVIII), licet indignus sum altitudinem inspicere. Non dedigneris adhuc, supplico, sustinere quid modicum insipientiae meae. Ecce, Domine, jam non impediet in me confessionem pudor culpae vel timor poenae. Sed est aliud quod retardat me modicum, imo revocat a confessione cor meum, temporalium scilicet rerum affectus vel desiderium. Considero apud me ipsum et colloquor menti meae: si delicta mea confessus fuero sacerdoti, forsitan injunget mihi ut Hierosolymam proficiscar, vel laborem alicujus peregrinationis assumam vel saltem ut ecclesias visitem, et in eis diutius vacaturus orationes frequentem; et possem interim temporalibus lucris insistere, et acquisitionibus multis et mihi et meis hujus mundi substantiam ampliare; sed si qua penes me sint, oportebit minui potius quam augeri, donec assumpta peregrinatio valeat peragi, vel quandiu spiritualibus exercitiis me contigerit occupari. Quapropter utilius est mihi a confessione desistere, quam acquisitionis mundanae studium impedire.",
+      "english": "Your words are delightful to your servant, Lord, sweeter than honey and the honeycomb to my mouth, as psalm one hundred eighteen says, though I am unworthy to look upon such heights. Do not disdain still, I beg, to bear with a little more of my foolishness. Behold, Lord, shame over my guilt or fear of punishment will no longer hinder confession in me. But there is something else that delays me a little, or rather draws my heart back from confession: namely, affection for or desire of temporal things. I consider within myself and speak to my mind: If I confess my offenses to a priest, perhaps he will order me to journey to Jerusalem, or undertake the labor of some pilgrimage, or at least visit churches and spend much time in them devoted to frequent prayers. Meanwhile I could be pursuing worldly profits and increasing the substance of this world for myself and my family through many acquisitions. But if I have anything with me, it will need to diminish rather than increase while an undertaken pilgrimage must be completed, or as long as I happen to be occupied with spiritual exercises. Therefore it is more useful for me to desist from confession than to hinder my pursuit of worldly gain.",
+      "notes": null
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God Condemns Worldly Attachment",
+      "latin": "DEUS AD PECCATOREM.",
+      "english": "God Speaks to the Sinner",
+      "notes": null
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Vana est cogitatio illa, imo tentatio Satanae, quae te apprehendit. Ut autem cogitationem illam procul a te expellas, recordare quod Scriptura evangelica proclamat: «Vae praegnantibus et nutrientibus in illa die (Matth. XXIV).» Praegnantes quidem sunt animae perversae, quae per illicita desideria temporalium, vel alicujus iniquitatis consensum, tanquam a diabolo malitiae semine injecto mente concipiunt. Nutrientes vero animae dicuntur illae quae terrenas delicias non desinunt per avaritiam cumulare, vel de perpetratis iniquitatibus, delectabiliter perseverantes in eis, differunt poenitere.",
+      "english": "That thought is vain, indeed it is a temptation of Satan that has seized you. But to drive that thought far from you, remember what the gospel Scripture proclaims in the Gospel of Matthew, chapter twenty-four: Woe to those who are pregnant and to those who are nursing in that day. Indeed, perverse souls are pregnant, which conceive in their minds through illicit desires for temporal things or consent to some wickedness, as if by a seed of malice injected by the devil. But nursing souls are called those who do not cease through greed to heap up earthly pleasures, or who, persevering delightfully in the iniquities they have perpetrated, delay repenting.",
+      "notes": null
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Veniet procul dubio mors super illos, et descendent in infernum viventes, quoniam nequitia in hospitiis et in medio mentis eorum. Certe si sane saperes, quando te ad sui concupiscentiam res istae mundanae sollicitant, meditari deberes quia quaecunque concupiscibilia videntur in mundo, sunt transitoria; quae vero a Deo promittuntur, aeterna; ista terrena, illa coelestia; ista modica, illa magna; illa mentita, illa certa; ista infima, illa superna; ista minima, illa maxima; ista cum labore acquiruntur, cum timore et sollicitudine conservantur, cum dolore et angustia amittuntur. Licet autem in his acquirendis sit labor, quia «regnum coeleste vim patitur et violenti rapiunt illud (Matth. XI),» de ipsorum tamen custodia nullo modo possessores eorum pungi possunt sollicitudinum stimulo, nec dolore torqueri de ipsorum amissione vel damnatione, quia «ibi aerugo vel tinea non demolitur, nec fures effodiunt et furantur (Matth. VI).»",
+      "english": "Death will undoubtedly come upon them, and they will descend into hell alive, because wickedness is in their dwellings and in the midst of their minds. Certainly if you were truly wise, when these worldly things stir you to desire them, you ought to meditate on the fact that whatever seems desirable in the world is transitory, but what is promised by God is eternal. These things are earthly, those are heavenly. These are small, those are great. These are false, those are certain. These are lowest, those are highest. These are minimal, those are maximal. These are acquired with labor, preserved with fear and anxiety, and lost with pain and distress. But although there is labor in acquiring those heavenly things, because as the Gospel of Matthew says in chapter eleven, the kingdom of heaven suffers violence and the violent take it by force, nevertheless their possessors can in no way be pricked by the sting of anxieties about guarding them, nor tortured by pain over their loss or destruction, because as the Gospel of Matthew says in chapter six, there neither rust nor moth destroys, nor do thieves break in and steal.",
+      "notes": "The author contrasts the temporary, anxiety-laden nature of earthly possessions with the permanent, secure nature of heavenly rewards."
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Sinner's Struggle with Repeated Falls",
+      "latin": "Ne irascaris, Domine, si et hac vice modo, loquendi audaciam in conspectu altitudinis tuae vilissimum [Col. 0699A] figmentum ego assumo; et sicut in aliis, in eo quod propositurus sum inveniam apud abyssum sapientiae tuae tanquam positus in perturbatione consilium.",
+      "english": "The Sinner Addresses God. Do not be angry, Lord, if once again this worthless creature dares to speak boldly in the presence of your majesty. Just as in other matters, may I find counsel from the depths of your wisdom in what I am about to propose, even though I stand here troubled and confused.",
+      "notes": null
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Est adhuc quiddam quod valde me concutit, et difficilius caeteris mihi confessionis impedimentum apponit, unde desperationem incurro ex gravi difficultate resistendi peccato. Infelix ego multoties cecidisse me memini, qui et postmodum poenitendo, te adjuvante, surrexi, sed stare non praevalens, relapsus sum, et redii multoties in idipsum, revertens iterum atque iterum tanquam canis ad vomitum et sus ad luti volutabrum (II Petr II). Unde cum lubricus et instabilis tanquam cereus sim in vitium flecti, de mea stabilitate despero, et propterea penitus de confessione [Col. 0699B] desisto, existimans nihil prodesse si erigor et resurgo qui sum casurus in proximo, et stare diffido brevi temporis intervallo, existimans nihilominus veniam impetrare non posse de facili, qui frequenter erectus, et frequenter ad peccatum relapsus, ingratus et indevotus invenior erigenti.",
+      "english": "There is something that deeply troubles me and creates a greater obstacle to confession than anything else. It fills me with despair because resisting sin seems impossibly difficult. I remember, miserable as I am, how many times I have fallen. Afterward, with your help, I repented and got back up, but I couldn't stay standing. I relapsed and returned to the same sins over and over again, like a dog returning to its vomit and a pig to wallowing in mud, as Peter's second letter describes. Since I am as slippery and unstable as wax, easily bent toward vice, I despair of ever being stable. That's why I completely stop confessing. I think to myself, what's the point of being lifted up and rising again if I'm just going to fall down soon afterward? I have no confidence that I can stand even for a brief period. And I think I can't easily obtain forgiveness when I'm repeatedly lifted up and repeatedly fall back into sin. The one who lifts me up must find me ungrateful and lacking devotion.",
+      "notes": null
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God's Response: Trust Divine Mercy, Not Your Own Strength",
+      "latin": "In eo quod modo proponis non tam insensatus quam insanus esse probaris. Nam recte facis si de te ipso diffidas, et fragilitatem tuam attendens, de tuis viribus non praesumens, existimes quod postquam surrexeris, de tua virtute sperare non possis.",
+      "english": "God Addresses the Sinner. In what you're now proposing, you prove yourself not so much foolish as actually insane. You're right to distrust yourself and recognize your fragility. You're right not to presume on your own strength and to think that after you've risen, you cannot hope in your own power to stay standing.",
+      "notes": null
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed de me sperare debes, quod licet infirmus et debilis sis [Col. 0699C] ex te, possum tamen si de mea misericordia voluero, quamvis debilem stabilire, et quantumvis infirmum ne corruas confirmare. Cur autem de me desperes, qui nolo mortem peccatoris sed magis ut convertatur et vivat (Ezech. XVIII), qui utique misericors sum et praestabilis super malitia? Attende quia si desperes de me, peccatum incurris irremissibile, quod est peccatum in Spiritum sanctum; nec est peccatum huic comparabile, quia ipsum est solum quod nec in hoc saeculo neque in futuro creditur remittendum. Attende, quia, si de me desperes, tanto gravius me offendis quanto clementius potentiam meam exstinguere, et meam mihi benignitatem, quam non ex accidentali dono, sed naturalem habeo, auferre conatus sis, et omnipotentiam meam [Col. 0699D] a me interim separare. Ego enim sum cui dicitur: «Deus cui proprium est misereri semper et parcere.» Ego ad quem congregatio fidelium clamat: «Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas.» Cur, infelix, de me debeas desperare qui gaudium mihi reputo et angelis meis super uno peccatore poenitentiam agente; qui et nonaginta novem ovibus in deserto relictis, misi pastorem earum ut unam perditam quaereret, inventam portaret in humeris suis; qui filium prodigum revertentem laetanter excepi, stolam primam et annulum ei dedi, et faciens grande convivium pro eo, vitulum saginatum occidi (Luc. XV). Ego sum qui tanquam mater filiis etiam delinquentibus viscera pietatis aperio; qui offendentes me multoties [Col. 0700A] usque ad finem vitae sustineo, et punire differens ut poeniteant patienter exspecto.",
+      "english": "But you must hope in me. Even though you are weak and feeble in yourself, I can, if I choose in my mercy, stabilize you no matter how weak you are and strengthen you no matter how frail, so that you won't collapse. Why would you despair of me? As the prophet Ezekiel in chapter eighteen tells us, I do not want the death of a sinner but rather that he should turn back and live. I am indeed merciful and ready to forgive wickedness. Pay attention, because if you despair of me, you commit the unforgivable sin, which is the sin against the Holy Spirit. No sin compares to this one, because it alone is believed to be unforgivable both in this age and in the age to come. Understand this: if you despair of me, you offend me all the more gravely because you're trying to extinguish my power and take away from me my kindness, which I possess not as some accidental gift but as part of my very nature. You're attempting to separate my omnipotence from me. I am the one of whom it is said: God, whose very nature is always to show mercy and to spare. I am the one to whom the assembly of the faithful cries out: God, you reveal your omnipotence most clearly by showing mercy and compassion. Why, miserable one, should you despair of me? I consider it joy for myself and my angels when even one sinner repents. I left ninety-nine sheep in the wilderness and sent their shepherd to seek the one that was lost, and when he found it, he carried it on his shoulders. I joyfully welcomed back the prodigal son when he returned. I gave him the finest robe and a ring. I threw a great feast for him and killed the fattened calf, as Luke's Gospel in chapter fifteen recounts. I am like a mother who opens her heart of compassion even to children who have done wrong. I patiently endure those who offend me many times throughout their entire lives, and I wait patiently, delaying punishment so they might repent.",
+      "notes": "The text references multiple Biblical passages with rich theological significance about divine mercy and patience."
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "De me siquidem propheta clamat dicens: «Audite, domus Jacob et residuum Israel, quoniam portamini a meo utero, et gestamini a mea vulva; ego feci, et ego feram, et usque ad canos ego portabo (Isai. XLVI).» Cur de me debeas desperare qui postquam creavi hominem, ut facerem eum gloriae meae participem, ex nimia charitate qua eum dilexi, unigenitum meum in mundum misi, qui eum venundatum sub peccato non corruptibilibus auro et argento redemit, sed pretioso sanguine suo quem pro eo abunde effudit? Scito et videto qui renuis confiteri, pro eo quod ipsa eadem, quae saepe confessus es, nimis iterans, vias tuas viliter corrupisti; [Col. 0700B] quia cum malum sit et amarum reliquisse te Dominum Deum tuum, longe deterius revelatur perseverare in malo, et ipsius amore postposito, elongare te jugiter et avertere vultum tuum ab eo. Quare non consideras tu quod saepius cadis, et saepius surgis, quod minus malum cadere sit alternatim et surgere, quam in peccato continuo permanere? Potest enim ex Dei benignitate quando sic surgis, in bono statu temporali te mors intercipere ut salveris. Si vero permanens in peccato perversus fueris in fine vitae tuae repertus, procul dubio deportaberis ad aeterna supplicia condemnandus; quia, dicente Scriptura, judicat Dominus fines terrae et finalia opera (Psal. XCV); et arbor si ad aquilonem [Col. 0700C] vel ad austrum ceciderit, prius ut reor eligeret ab ipso luto extrahi, et inde postea cadere, quam in illo jugiter permanere.",
+      "english": "The prophet cries out about me, saying in the book of Isaiah chapter forty-six: Listen, house of Jacob and remnant of Israel, you whom I have carried from the womb, whom I have borne from birth. I have made you and I will bear you. Even to your gray hairs I will carry you. Why should you despair of me? After I created humanity to make them sharers in my glory, out of the immense love with which I loved them, I sent my only-begotten Son into the world. He redeemed humanity, sold into slavery under sin, not with perishable gold and silver but with his own precious blood, which he poured out abundantly. Know this and see it clearly, you who refuse to confess because you keep repeating the very same sins you've often confessed before, and you've shamefully corrupted your ways. While it is evil and bitter to abandon the Lord your God, it is far worse to persist in evil, to push aside his love, to continually distance yourself from him and turn your face away from him. Why don't you consider this: you fall often and you rise often. Isn't it less evil to fall and rise alternately than to remain continuously in sin? Through God's kindness, when you rise like this, death might catch you in a good state at that moment, and you would be saved. But if you persist in sin and are found perverted at the end of your life, without doubt you will be carried off to eternal punishment and condemnation. As Scripture says in Psalm ninety-five, the Lord judges the ends of the earth and final deeds. A tree that has fallen, whether to the north or to the south, would, I believe, prefer to be pulled out of the mud first and then fall again rather than remain stuck in it permanently.",
+      "notes": "The tree metaphor draws on Ecclesiastes and illustrates the preference for attempting righteousness even with failure over never trying at all."
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sic etiam qui laborat aliqua febre, nonne gravius reputaretur eam pati continue, quam ab ea interpolatim vexari? Ita et tu duobus malis propositis, scilicet cadere in peccatum et surgere consequenter ab eo, vel irregressibiliter et irreverenter perseverare in malo, potius debes fugere secundum quam primum. Noli ergo tanquam diffidens et desperans de Deo, te a confessione retrahere, sed quoties miseriam pateris ea quae confessus es iterum committendo, tu nihilominus eadem iterum confitere. Nam sicut aqua vestimentum, quod saepius inquinatur, quandocunque illud abluit, mundat a sordibus et efficit quasi novum; [Col. 0700D] sic et confessio quoties ad eam recurritur, restituit animae cum, quem amittit decorem ex reiteratione peccati, munditiae candidatum. Te autem confitente peccatum, et expulso ab anima tua veneno nequitiae per confessionis antidotum, statim ad eam regrediar tanquam ad domum meam unde prius exivi. Et ex tunc si me invocaveris, exaudiam te, et tanquam intus habitans sine mora respondebo clamanti.",
+      "english": "Similarly, someone suffering from a fever would surely consider it worse to endure it continuously than to be troubled by it intermittently. In the same way, faced with two evils, namely falling into sin and then rising from it, or persisting in evil irreversibly and irreverently, you should flee the second rather than the first. So don't hold back from confession as though distrusting and despairing of God. Instead, whenever you suffer the misery of committing again what you've already confessed, confess those same things again. Just as water, whenever it washes a garment that has been soiled many times, cleanses it from dirt and makes it almost like new, so too confession, whenever you return to it, restores to your soul the beauty of purity that it loses through repeated sin. When you confess your sin and expel the poison of wickedness from your soul through the antidote of confession, I will immediately return to your soul as to my own house from which I previously departed. And from that point on, if you call upon me, I will hear you, and dwelling within you I will respond without delay to the one who cries out.",
+      "notes": "The metaphors of washing garments and returning to a house emphasize the repeatable, restorative nature of confession."
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Domine Deus salutis meae, verba sunt vitae aeternae, quae loqueris, et salutaria monita quae hortaris. Adjutus ergo a te requiram devote ministrum tuum, et effundam coram illo sicut aquam cor meum, aperiam in conspectu ejus labia mea locuturus [Col. 0701A] in amaritudine animae meae. Sicut qui digitum ingerit gutturi suo, scrutabor scrutinio conscientiam meam et non desistam, donec evomam illam amaram super absinthium et fel, quae latet intrinsecus, meorum saniem peccatorum; ut sic evomita foris et ejecta putredine, cujus fetor abominabilis [Col. 0702A] te relinquere fecerat mentis meae hospitium, cum inaestimabili fragrantia unguentorum tuorum clementer in illud regredi et inhabitare digneris, juxta sanctum et ineffabile tuum promissum; qui es benedictus in saecula saeculorum. Amen.",
+      "english": "The Sinner Responds. Lord God of my salvation, the words you speak are words of eternal life, and the guidance you offer brings healing. Helped by you, therefore, I will devoutly seek out your minister. I will pour out my heart before him like water. I will open my lips in his presence and speak in the bitterness of my soul. Like someone who puts a finger down their throat, I will thoroughly examine my conscience and will not stop until I vomit out the corruption of my sins, which lies hidden within, more bitter than wormwood and gall. When this rottenness is vomited out and expelled, whose abominable stench had caused you to leave the dwelling place of my mind, may you mercifully deign to return and dwell there with the immeasurable fragrance of your ointments, according to your holy and ineffable promise. You who are blessed forever and ever. Amen.",
+      "notes": "The vivid imagery of self-induced vomiting as a metaphor for confession reflects medieval penitential sensibilities and the therapeutic understanding of confession as purging spiritual poison."
+    }
+  ]
+}
