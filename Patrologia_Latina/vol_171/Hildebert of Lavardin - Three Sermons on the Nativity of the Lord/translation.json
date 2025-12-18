@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "volume_id": "UNKNOWN",
+    "volume_id": "PL171",
     "title": "Three Sermons on the Nativity of the Lord",
     "author": "Hildebert of Lavardin",
-    "century": "Unknown - likely 5th-12th century based on style",
-    "source": "Latin patristic text, source unspecified",
+    "century": "12th",
+    "source": "Patrologia Latina Volume 171",
     "translator": "claude-sonnet-4.5",
     "translation_date": "2025-01-10",
     "total_chunks": 168,
     "estimated_duration_minutes": 85,
     "known_issues": [
-      "Author identity uncertain - text contains no clear attribution",
-      "Dating uncertain - style suggests late patristic or early medieval period",
+      "Attribution traditionally to Hildebert of Lavardin, though modern scholarship debates whether these sermons are by Nicholas of Clairvaux",
       "Some textual variants noted in manuscript (marked with 'f.' for variant readings)",
       "Greek transliterations may vary from standard forms",
       "Biblical citation locations follow Vulgate numbering which may differ from modern translations",
