@@ -1,0 +1,660 @@
+{
+  "metadata": {
+    "volume_id": "PL170",
+    "title": "Dispute Between a Monk and a Cleric: Whether a Monk May Preach",
+    "author": "Rupert of Deutz",
+    "century": "12th century",
+    "source": "Unknown Latin patristic collection",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-06-17T00:00:00Z",
+    "total_chunks": 37,
+    "estimated_duration_minutes": 28,
+    "known_issues": [
+      "Source manuscript details unknown",
+      "No critical apparatus available for variant readings",
+      "Some rhetorical repetition condensed for audio clarity"
+    ],
+    "volume": 170
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Introduction: The Cleric Silences the Monk",
+      "latin": "ALTERCATIO MONACHI ET CLERICI, QUOD LICEAT MONACHO PRAEDICARE EDITA A DOMINO RUPERTO ABBATE TUITIENSI.",
+      "english": "Dispute Between a Monk and a Cleric: Whether a Monk May Preach. Written by Lord Rupert, Abbot of Deutz.",
+      "notes": null
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Inique agis, resistens mihi in faciem et opprimens os meum, ut non audeam aperire os in medio Ecclesiae, et verbum Dei annuntiare. Dic tandem, qua te auctoritate posse putas os meum oppilare?",
+      "english": "The Monk speaks: You act unjustly by resisting me to my face and shutting my mouth so that I dare not open it in the midst of the Church to proclaim God's word. Tell me finally, by what authority do you think you can silence me?",
+      "notes": null
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Dicam, et me non inique agere aequitatis ratione convincam. Primo, quia, dum profitearis monachum, confiteris te esse mortuum. Monachus enim non est, qui non est saeculo mortuus; mortuus autem quomodo est, cujus vox foris auditur? Igitur monachus non est, qui saeculo vivere, ex ipso praedicationis suae clamore comprobatur.",
+      "english": "The Cleric responds: I will tell you, and I will prove by reason of equity that I do not act unjustly. First, because when you profess to be a monk, you confess that you are dead. For he is not a monk who is not dead to the world. But how can a man be dead whose voice is heard outside? Therefore, he is not a monk who, by the very noise of his preaching, proves himself to be alive to the world.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Fortiter et argute, ut tibi videtur, percussisti me. Sed jam nunc hoc ipsum telum, quod in me jecisti, retorqueo in te. Dico enim: Mortuus es et tu. Siquidem tam tibi quam mihi dicit Apostolus: Mortui estis, et vita vestra abscondita est cum Christo in Deo (Col. III). An putas, quod solis hoc monachis dicatur?",
+      "english": "The Monk replies: You have struck me forcefully and cleverly, as you think. But now I turn this very weapon you hurled at me back against you. For I say: you too are dead. Indeed, the Apostle says both to you and to me, in his letter to the Colossians, chapter three: You have died, and your life is hidden with Christ in God. Do you think this is said only to monks?",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nunquid omnes Colossenses, et alii quibus scribebatur, erant monachi? Aut nunquid de mortificatione professionis monachicae hoc dicit, et non potius de mortificatione baptismi? Dicit enim in Epistola ad Romanos: Quicunque baptizati sumus in Christo Jesu, in morte ipsius baptizati sumus, consepulti cum ipso per baptismum in morte (Rom. VI), etc.",
+      "english": "Were all the Colossians, and others to whom he wrote, monks? Or does he say this about the death of monastic profession, and not rather about the death of baptism? For he says in his letter to the Romans, chapter six: All of us who have been baptized into Christ Jesus were baptized into his death, buried with him through baptism into death, and so on.",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Aut ergo tu quoque sic mortuus, tace de verbo vitae, aut sine me tecum mortuum cum mortuo, eos qui adhuc saeculo vivunt mortificare.",
+      "english": "Either you too, being thus dead, be silent about the word of life, or allow me, dead along with you, one dead man with another, to put to death those who still live for the world.",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Non faciam. Nunquam hoc tibi licere concedam. Sacri canones vetant, authentici scriptores negant. Nam Pius papa decernit ut Monachus praedicare non audeat quantaecunque scientiae sit. Et Hieronymus dicit quia monachus non habet docentis officium, sed lugentis.",
+      "english": "The Cleric answers: I will not do so. I will never grant that this is permitted to you. The sacred canons forbid it, and authoritative writers deny it. For Pope Pius decrees that a monk may not dare to preach, however great his learning may be. And Jerome says that a monk does not have the office of teaching, but of mourning.",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Clerice, aperto ore, sed clausis oculis Scripturam legis. Si enim ita, ut tu sentis, haec accipiantur dicta Hieronymi, consequitur Hieronymum ipsum, sibi nimis contrarium, ipsum Pium adversus suam sententiam jacis, ut monachus praedicare non audeat cujuscunque scientiae sit",
+      "english": "The Monk responds: Cleric, you read Scripture with open mouth but closed eyes. For if Jerome's words are taken as you understand them, it follows that Jerome himself is too greatly contradicting himself. You cast Pius himself against his own opinion, that a monk may not dare to preach regardless of his learning",
+      "notes": null
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "cum beatum Gregorium monachico habitu praefulgentem, et alios quamplurimos hujus ordinis viros apostolica sedes admisit ad officium apostolici fastigii, quod et usque hodie facere non desinit.",
+      "english": "when the apostolic see has admitted blessed Gregory, shining in monastic habit, and very many other men of this order, to the office of apostolic dignity, which it continues to do even to this day.",
+      "notes": "Reference to Pope Gregory the Great, who was a Benedictine monk"
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et Hieronymus, qui ait: Monachus non habet docentis officium, sed lugentis, monachus est, dum hoc ipsum docendi officio dicit, et dum teta vita non solum docendo, sed etiam mansuram doctrinam scribendo, inter summos doctores meretur computari.",
+      "english": "And Jerome, who says that a monk does not have the office of teaching but of mourning, is himself a monk when he says this very thing in his teaching office, and throughout his entire life, not only by teaching but also by writing lasting doctrine, he deserves to be counted among the greatest teachers.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hieronymum, cujus patronam habes sententiam, monachum fuisse nesciebas? Non ergo mirer, quod tu adversus monachos tam inepte blateras, dum adeo sacrarum litterarum inexpertus sis, ut Hieronymum et Gregorium, caeteraque coelestis palatii sidera monachos fuisse audiens attonitus stupeas.",
+      "english": "Did you not know that Jerome, whose opinion you have as your patron, was a monk? I should not be surprised, then, that you babble so foolishly against monks, since you are so inexperienced in sacred letters that you are astonished and amazed to hear that Jerome and Gregory, and the other stars of the heavenly palace, were monks.",
+      "notes": null
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Quomodo ergo non sibi contrarius est quis eorum, dum facit ipse, quod alienum esse ait ab officio monachorum? Dic, tu, quomodo ergo Scripturam clausis oculis lego, quid aliud in tam manifestis sententiis invenisti, unde sensum meum corrigere possis, dummodo, praesumptione tua, Scripturae vim non facias.",
+      "english": "The Cleric asks: How then is either of them not contradicting himself, when he does what he says is foreign to the office of monks? Tell me, how then do I read Scripture with closed eyes? What else have you found in such clear statements by which you can correct my understanding, provided that you do not, by your presumption, do violence to Scripture?",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Faciam, si mihi prius paululum ad interrogata respondeas.",
+      "english": "The Monk says: I will do so, if you will first answer a few questions for me.",
+      "notes": null
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Interroga ut libet.",
+      "english": "The Cleric responds: Ask as you wish.",
+      "notes": null
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "chapter_heading",
+      "speaker": "monachus",
+      "chapter_title": "The Nature of Clerical Office",
+      "latin": "MONACHUS. Tu qui clericorum propugnator, monachorum tam vehemens expugnator es, qui gloriaris in clericatu, et cum hac professione super monachum suffultus et elatus, scisne hoc ipsum, cur dicaris clericus, et quid sit clericatus?",
+      "english": "The Monk asks: You who are a defender of clerics and such a vehement opponent of monks, who glory in your clerical status and are propped up and elevated by this profession above the monk, do you know why you are called a cleric, and what the clerical state is?",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Anne hujus nominis quod est clericus, etymologiam requiris?",
+      "english": "The Cleric asks: Are you asking for the etymology of this name, which is cleric?",
+      "notes": null
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Illam quidem est facile exponere. Dicitur enim clericus, sorte electus. Amplius volo. Rem ipsam a te quaero, quae significatur hoc nomine, quod est clericatus. Quid haeres? Vel dic, vel minor, audi.",
+      "english": "The Monk responds: That is indeed easy to explain. For a cleric is called one chosen by lot. I want more than that. I am asking you about the reality itself that is signified by this name, which is the clerical state. Why do you hesitate? Either speak, or if you cannot, listen.",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Audio.",
+      "english": "The Cleric says: I am listening.",
+      "notes": null
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Clericatus, non scientia litterarum non tonsura vel habitus tuus, sed altaris est officium. Et hoc idcirco tali censetur nomine, quia, cum in veteri lege tribubus Israel sorte divideret, Dominus terram in funiculo distributionis (Psal. LXXVII), tribus Levi, quae in sanctuario ministrare debebat, sortem non aliam quam ipsum Dominum, id est altare Domini, accepit",
+      "english": "The Monk explains: The clerical state is not your knowledge of letters, not your tonsure or your habit, but the office of the altar. And it is reckoned by this name because, when in the old law the Lord divided the land among the tribes of Israel by lot, as it says in Psalm seventy-seven, in the cord of distribution, the tribe of Levi, which was to minister in the sanctuary, received no lot other than the Lord himself, that is, the altar of the Lord",
+      "notes": null
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "videlicet ut altario serviens, de altario viveret. Igitur clerici sunt quicunque altario serviunt, nec aliud clericatus significat quam altaris officium.",
+      "english": "namely, that serving the altar, it should live from the altar. Therefore, clerics are whoever serve the altar, and the clerical state signifies nothing other than the office of the altar.",
+      "notes": null
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Accipio.",
+      "english": "The Cleric says: I accept this.",
+      "notes": null
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Itaque concedere oportet, quod non ob aliud clericus dicaris vel sis, nisi quia fungeris ordinibus altaris.",
+      "english": "The Monk continues: Therefore it must be granted that you are called or are a cleric for no other reason than that you perform the orders of the altar.",
+      "notes": null
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Concedo.",
+      "english": "The Cleric says: I concede this.",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Ast ego quoque eisdem ordinibus fungor. Nempe et cum auctoritate Regulae meae functus sum sacerdotio. Et fortassis dum adhuc Evangelium fectitas tantum, ego jam missas celebro.",
+      "english": "The Monk replies: But I also perform these same orders. Indeed, with the authority of my Rule, I have performed the priesthood. And perhaps while you are still only reading the Gospel, I am already celebrating masses.",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Negare nequeo.",
+      "english": "The Cleric says: I cannot deny it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Igitur et ego clericus sum.",
+      "english": "The Monk concludes: Therefore I too am a cleric.",
+      "notes": null
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Echo. Non (forte Ergo non) tu monachus es.",
+      "english": "The Cleric responds: Wait. Are you not then a monk?",
+      "notes": "Latin includes editorial note suggesting textual uncertainty"
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Nihilominus. Tibi vero haec opposita videntur, scilicet monachatus et clericatus, simulque esse non posse, somniat tuus, monachos non aeque aspiciens, oculus.",
+      "english": "The Monk answers: Nevertheless I am. To you indeed these seem opposed, namely the monastic state and the clerical state, and your eye, which does not look equally upon monks, dreams that they cannot exist together.",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "At illa quidem diversa sunt, unde et singula sine alterutro esse possunt, ut in te vel in illo clericatus sine monachatu est; itemque in laico quolibet converso monachatus absque clericatu.",
+      "english": "But they are indeed different, and therefore each can exist without the other, as in you or in that man the clerical state exists without the monastic state; likewise, in any lay convert, the monastic state exists without the clerical state.",
+      "notes": null
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cui parem te esse non nego cum auctoritate canonum, qui monacho nullos gradus habenti, si in crimine lapsus fuerit, eumdem poenitentiae modum praescribunt, quem et clerico, qui est levitici ordinis.",
+      "english": "I do not deny that you are equal to him according to the authority of the canons, which prescribe the same manner of penance for a monk who has no orders, if he falls into crime, as for a cleric who is of the Levitical order.",
+      "notes": null
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Mihi autem qui cum splendore monachici ordinis, honore quoque sacerdotalis ac levitici fungor ordinis, nullatenus aequalem te videri patior. Nam sicut verissime ait quidam: Maria virgo, et Joannes virgo. Sed major proportio in Maria, quia Joannes tantummodo virgo. Maria autem et mater et virgo",
+      "english": "But I, who with the splendor of the monastic order also perform the honor of the priestly and Levitical order, do not allow you to seem in any way equal to me. For as someone very truly says: Mary was a virgin, and John was a virgin. But the proportion is greater in Mary, because John was only a virgin. But Mary was both mother and virgin",
+      "notes": "Reference to Virgin Mary and John the Evangelist"
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "sic nimirum major proportio in me quam in te. Nam tu clericus tantum, ego et monachus et clericus sum. Diversa, inquam, ut dicere coeperam haec sunt, sed non contraria; quippe quae simul in eodem sunt.",
+      "english": "so indeed the proportion is greater in me than in you. For you are only a cleric, but I am both monk and cleric. These are different, I say, as I had begun to say, but not contrary, since they exist together in the same person.",
+      "notes": null
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Jam nunc tenes quid confectum sit, scilicet me, qui monachus sum, etiam esse clericum, videlicet quia sacri altaris ordinibus functus sum.",
+      "english": "Now you grasp what has been established, namely that I, who am a monk, am also a cleric, because I have performed the orders of the sacred altar.",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS Negare nequeo.",
+      "english": "The Cleric says: I cannot deny it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Tu autem ex eo quod clericus es, auctoritatem praedicandi tibi ascribis.",
+      "english": "The Monk continues: But you, from the fact that you are a cleric, ascribe to yourself the authority of preaching.",
+      "notes": null
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Et hoc ita est.",
+      "english": "The Cleric says: And this is so.",
+      "notes": null
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Mihi ergo hoc ipsum praedicandi jus detrahere non potes absque injuria.",
+      "english": "The Monk concludes: Therefore you cannot take away from me this very right of preaching without doing me an injustice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Vellem quidem, sed quia conclusus sum, nisi vinculum conclusionis hujus rupero, quidquam efficere non potero.",
+      "english": "The Cleric responds: I would like to do so, but because I am trapped, unless I break the chain of this argument, I will not be able to accomplish anything.",
+      "notes": null
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Nunc interim propositum peragendum est.",
+      "english": "The Monk says: Now in the meantime the proposition must be carried through.",
+      "notes": null
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Quod propositum?",
+      "english": "The Cleric asks: What proposition?",
+      "notes": null
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Videlicet illud propter quod ista confecta sunt.",
+      "english": "The Monk answers: The one for which these things have been established.",
+      "notes": null
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Quid illud est?",
+      "english": "The Cleric asks: What is that?",
+      "notes": null
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Scilicet ut appareat, quomodo Hieronymus doctor cum sit monachus non sibi sit contrarius dicendo, quod monachus non docentis habeat officium, sed plangentis, etc.",
+      "english": "The Monk explains: Namely, that it may appear how Jerome the teacher, though he is a monk, is not contradicting himself when he says that a monk does not have the office of teaching, but of mourning, and so forth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Age, argumentare ut libet.",
+      "english": "The Cleric says: Go on, argue as you wish.",
+      "notes": null
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "chapter_heading",
+      "speaker": "monachus",
+      "chapter_title": "Jerome's Meaning: Teaching Monks Versus Preaching Clerics",
+      "latin": "MONACHUS. Primo sciendum, quia haec adversus Vigilantii blasphemias dicta sunt, in defensionem eorum, qui relinquentes saeculum et omnia sua dantes pauperibus vitam solitariam amplectebantur.",
+      "english": "The Monk begins: First, it must be known that these words were spoken against the blasphemies of Vigilantius, in defense of those who, abandoning the world and giving all their possessions to the poor, embraced the solitary life.",
+      "notes": "Vigilantius was a fourth-century priest who opposed monasticism"
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "De quibus paulo superius ait: Nec a suo studio monachi deterrendi sunt a te linguis vipereis et morsibus saevissimis, quibus argumentaris et dicis: Si omnes se recluserint et fuerint in solitudine, quis celebrabit ecclesias, quis saeculares homines lucrifaciet?",
+      "english": "Concerning them, Jerome says a little earlier: Nor are monks to be deterred from their purpose by your viperous tongues and most savage bites, by which you argue and say: If everyone shuts themselves away and lives in solitude, who will celebrate in the churches, who will win secular men for Christ?",
+      "notes": null
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et paulo post: Monachus non doctoris habet officium, sed plangentis. Et haec quidem dicta sunt de vita monachorum tantum.",
+      "english": "And a little later: A monk does not have the office of teacher, but of one who mourns. And these things were indeed said about the life of monks only.",
+      "notes": null
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Caeterum ad Nepotianum scribit de vita monachorum et clericorum, id est eorum qui monachi pariter et clerici sunt.",
+      "english": "However, in his letter to Nepotian, he writes about the life of monks and clerics, that is, of those who are both monks and clerics at the same time.",
+      "notes": "Nepotian was Jerome's correspondent, both monk and priest"
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Hem, tu hunc titulum sensu tuo perverse exponis.",
+      "english": "The Cleric objects: Wait, you are expounding this title perversely according to your own understanding.",
+      "notes": null
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Quinam perversus ego?",
+      "english": "The Monk asks: How am I perverse?",
+      "notes": null
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Non sic accipi debet.",
+      "english": "The Cleric says: It should not be taken that way.",
+      "notes": null
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Quomodo ergo? An putas quod scribere proponat hinc regulam monachorum, hinc regulam clericorum? Lege sequentia non dormitantibus oculis, et ita invenies ut dixi.",
+      "english": "The Monk responds: How then? Do you think that he proposes to write one rule for monks here, and another rule for clerics there? Read what follows with eyes that are not drowsy, and you will find it as I said.",
+      "notes": null
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nam et Nepotianus, ad quem vel propter quem scribit, unus idemque monachus pariter et clericus est. Ait enim illi post aliqua. Scio quidem ab avunculo tuo beato Heliodoro, qui nunc pontifex Christi est, et didicisse quae sancta sunt, et quotidie discere, normamque vitae ejus, exemplum habere virtutum.",
+      "english": "For Nepotian, to whom or for whose sake he writes, is one and the same person, both monk and cleric at once. For he says to him after some remarks: I know indeed that from your uncle, blessed Heliodorus, who is now a bishop of Christ, you have learned what things are holy, and daily learn them, and that you have the pattern of his life as an example of virtues.",
+      "notes": "Heliodorus was Bishop of Altinum and Jerome's friend"
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed et nostra qualiacunque suscipe, et libellum hunc, libello illius copulato, ut, cum ille monachum te erudierit, hic clericum doceat esse perfectum. Ita incipiens instituit eos in hoc uno Nepotiano, qualiter se habeant hi qui utriusque ordinis, id est clericalis et monachici sunt.",
+      "english": "But also receive my offerings, whatever they may be, and join this little book to his, so that, when he has instructed you as a monk, this may teach you to be a perfect cleric. Thus beginning, he instructs in this one Nepotian how those should conduct themselves who belong to both orders, that is, the clerical and the monastic.",
+      "notes": null
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Verbi gratia, cum sicut in sequentibus ait propte, officium clericatus, aut vidua visitatur, aut virgo. Idcirco epistola illa sic intitulatur De vita clericorum vel monachorum, quorum ut ipse in eadem ait, et sacerdotium proposito, et propositum ornatur sacerdotio.",
+      "english": "For example, as he says later, because of the office of the clerical state, either a widow or a virgin is visited. Therefore that letter is so titled, On the Life of Clerics or Monks, of whom, as he himself says in the same letter, both the priesthood is adorned by their purpose, and their purpose is adorned by the priesthood.",
+      "notes": null
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ad eum autem, qui solummodo monachus est, et hoc ipsum perdit, illius epistola dicta sunt quam ad Heliodorum scripsit.",
+      "english": "But to one who is only a monk, and who loses even that, those words of the letter which he wrote to Heliodorus are addressed.",
+      "notes": "Jerome's famous letter urging Heliodorus to embrace ascetic life"
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Unde ita colligis?",
+      "english": "The Cleric asks: From where do you gather this?",
+      "notes": null
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Ex ipsius epistolae verbis. Nam cum illum argueret eo quod propter affectus parentum, et propter exspectationem haereditatis in turba esset, et diceret ei: Quid facis in turba, qui solus es, post aliqua subjungens, si te, inquit, ad clericatus ordinem pia fratrum blandimenta sollicitant, gaudebo de ascensu, timebo de lapsu.",
+      "english": "The Monk answers: From the words of that letter itself. For when he was reproaching him because he was in a crowd on account of affection for his parents and expectation of an inheritance, and was saying to him, What are you doing in a crowd, you who are alone?, after some remarks he adds: If the pious blandishments of the brothers incite you to the order of the clerical state, I will rejoice at your ascent, but I will fear your fall.",
+      "notes": null
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Siquidem quod ibidem ait: Mihi ante presbyterum sedere non licet, etenim non in sua persona loquitur, cum et ipse sit presbyter, sed in persona ipsius cui scribit, qui, cum solum sit monachus, nondum pervenire meruit ad illum ordinem clericorum, quo, ut ibidem ait, apostolico gradui succedentes Christi corpus sacro ore conficiunt.",
+      "english": "Indeed, when he says there: It is not permitted to me to sit before a priest, he is certainly not speaking in his own person, since he himself is a priest, but in the person of the one to whom he writes, who, since he is only a monk, has not yet deserved to attain to that order of clerics by which, as he says there, succeeding to the apostolic rank, they consecrate the body of Christ with a sacred mouth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Itemque epistola illa ad Paulinum indicat ipsum Paulinum solummodo esse monachum, et ideo non habere quid faciat in urbibus. Ait enim illi: Si officium vis habere presbyteri, si episcopatus te vel opus vel honor forte delectat, vive in urbibus et castellis, et aliorum salutem lucrum fac animae tuae.",
+      "english": "Likewise, that letter to Paulinus indicates that Paulinus himself was only a monk, and therefore had nothing to do in cities. For he says to him: If you wish to have the office of a priest, if the work or honor of the episcopate perhaps delights you, live in cities and towns, and make the salvation of others the profit of your soul.",
+      "notes": "Paulinus of Nola, who later became bishop"
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Itaque non sibi contrarius Hieronymus, quia non solum sibi, sed et omnibus docendi auctoritatem tribuit, quorum et sacerdotium proposito, et propositum ornatur sacerdotio.",
+      "english": "Therefore Jerome is not contradicting himself, because he grants the authority of teaching not only to himself, but also to all whose priesthood is adorned by their purpose, and whose purpose is adorned by the priesthood.",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Neque contra suam sententiam agit sedes apostolica in eo quod et monachos praedicare vetans, monachos tamen admittit ad officium apostolici fastigii. Cum dilatas os ad loquendum, prius, quaeso, aperi oculos ad legendum.",
+      "english": "Nor does the apostolic see act against its own judgment in that, while forbidding monks to preach, it nevertheless admits monks to the office of apostolic dignity. When you open your mouth to speak, first, I beg you, open your eyes to read.",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Iracunde loqueris?",
+      "english": "The Cleric asks: Are you speaking angrily?",
+      "notes": null
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Imo zelo zelatus sum pro domo Domini. Tu potius, quia victus es, iratus es, et quia deficis sententiis, ad injurias prorumpis. Sed, quaeso te, paulisper sustine. Adhuc unum est, quod te non patior ignorare.",
+      "english": "The Monk responds: Rather, I have been zealous with zeal for the house of the Lord. You rather, because you are defeated, are angry, and because you are running out of arguments, you burst into insults. But please, endure a little while. There is still one thing that I do not allow you to be ignorant of.",
+      "notes": "Allusion to Psalm 69:9 and John 2:17"
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Quid illud est?",
+      "english": "The Cleric asks: What is that?",
+      "notes": null
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "chapter_heading",
+      "speaker": "monachus",
+      "chapter_title": "The Authority to Preach Comes from Ordination",
+      "latin": "MONACHUS. Cur apostolicae sedis auctoritas, vel praedicta Hieronymi sententia, monachos illos qui absque clericatu sunt ab officio praedicationis arceat?",
+      "english": "The Monk asks: Why does the authority of the apostolic see, or the aforementioned opinion of Jerome, exclude those monks who are without the clerical state from the office of preaching?",
+      "notes": null
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Age, quantum vis loquere, quoniam coepisti mira et inopinata proferre.",
+      "english": "The Cleric says: Go ahead, speak as much as you wish, since you have begun to bring forth wonderful and unexpected things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Mira plane et magna. Cui tamen haec mira vel magna videntur, magnus vel mirandus non est, quia parum in Scripturis se profecisse sibi testis est.",
+      "english": "The Monk replies: Wonderful indeed and great. Yet to whom these things seem wonderful or great is neither great nor wonderful himself, because he bears witness to himself that he has made little progress in the Scriptures.",
+      "notes": null
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "dialogue",
+      "speaker": "clericus",
+      "chapter_title": null,
+      "latin": "CLERICUS. Dic tandem quidquid illud est.",
+      "english": "The Cleric says: Tell me at last whatever it is.",
+      "notes": null
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "dialogue",
+      "speaker": "monachus",
+      "chapter_title": null,
+      "latin": "MONACHUS. Apostolus loquens de praedicatoribus; Quomodo, inquit, praedicabunt, nisi mittantur? (Rom. VI.) Videlicet non a seipso debet praedicator officium praedicandi praesumere. Sed, ut ait Christus, sicut misit me Pater, et ego mitto vos (Joan. XX).",
+      "english": "The Monk explains: The Apostle, speaking about preachers, says in his letter to the Romans, chapter six: How shall they preach unless they are sent? Clearly a preacher should not presume the office of preaching from himself. But, as Christ says in the Gospel of John, chapter twenty: As the Father has sent me, so I send you.",
+      "notes": "Actually Romans 10:15, not chapter 6 as the Latin text states"
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Pater Christum, Christus apostolos, apostoli archiepiscopos, archiepiscopi episcopos, episcopi presbyteros mittunt, videlicet quando ordinant eos. Ab hac autem missione tunc monachus immunis est, quando sacris ordinibus adhuc functus non est. Quomodo ergo praedicabit?",
+      "english": "The Father sends Christ, Christ sends the apostles, the apostles send archbishops, archbishops send bishops, bishops send priests, namely when they ordain them. But the monk is exempt from this sending when he has not yet performed sacred orders. How then shall he preach?",
+      "notes": null
+    }
+  ]
+}
