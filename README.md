@@ -6,7 +6,7 @@ Welcome to the Latin Patristic Texts repository! This repository houses plain te
 
 ```
 Patrologia_Latina/
-├── README.md                             # Works catalog (225 works, 124 authors)
+├── README.md                             # Works catalog
 └── vol_XXX/                              # Volume number from Migne's Patrologia Latina
     └── Author Name - Work Title/
         ├── Latin/
@@ -21,11 +21,6 @@ Production artifacts for YouTube video generation (`SSML/`, `Subtitles/`) may al
 ## About the Translations
 
 Translations were generated using AI (Claude, GPT-4) and should be treated as introductory guides rather than scholarly editions. Audio versions were produced using OpenAI TTS and Amazon Polly.
-
-## Statistics
-
-- **225 works** across **67 volumes** of the Patrologia Latina
-- Texts from the 2nd through 13th centuries
 
 ## License
 

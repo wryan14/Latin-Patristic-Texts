@@ -2,8 +2,6 @@
 
 This catalog lists all translated works organized by author. Each entry includes the English title, Latin title (where available), volume number, and links to available resources.
 
-**225 works** from **124 authors** across **67 volumes**
-
 ---
 
 ## Adelbold of Utrecht
