@@ -985,6 +985,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/on-the-miracles-of-saint-maximinus) | [YouTube](https://www.youtube.com/watch?v=aV_uArzZA3o) | [GitHub](vol_133/Sigehard%20of%20Trier%20-%20On%20the%20Miracles%20of%20Saint%20Maximinus)
 
 
+## Taio of Zaragoza
+
+**The First Book of Sentences** (*Sententiarum Liber Primus*) — Vol. 80
+  [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20First%20Book%20of%20Sentences)
+
 ## Theodulf of Orleans
 
 **Concerning the Holy Spirit** — Vol. 105
