@@ -987,6 +987,9 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Taio of Zaragoza
 
+**The Third Book of Sentences** (*Sententiarum Liber Tertius*) — Vol. 80
+  [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20Third%20Book%20of%20Sentences)
+
 **The Second Book of Sentences** (*Sententiarum Liber Secundus*) — Vol. 80 [7th century]
   [Blog](https://bibliothecarius-modernus.github.io/2026/01/sententiarum-liber-primus/) | [Archive](https://archive.org/details/taio-zaragoza-sententiarum-liber-secundus) | [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20Second%20Book%20of%20Sentences)
 
