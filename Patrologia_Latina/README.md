@@ -987,6 +987,9 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Taio of Zaragoza
 
+**The Fourth Book of Sentences** (*Sententiarum Liber Quartus*) — Vol. 80
+  [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20Fourth%20Book%20of%20Sentences)
+
 **The Third Book of Sentences** (*Sententiarum Liber Tertius*) — Vol. 80
   [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20Third%20Book%20of%20Sentences)
 
