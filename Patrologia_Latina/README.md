@@ -40,6 +40,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Blog](https://bibliothecarius-modernus.github.io/2025/12/de-planctu-naturae-alain-de-lille-alanus-de-insulis/) | [Archive](https://archive.org/details/de-planctu-naturae-alan-of-lille) | [YouTube](https://www.youtube.com/watch?v=ed0n_UFGJWQ) | [GitHub](vol_210/Alain%20de%20Lille%20-%20The%20Plaint%20of%20Nature)
 
 
+## Alcuin of York
+
+**Verses on the Cuckoo** (*Versus de Cuculo*) — Vol. 101
+  [Archive](https://archive.org/details/verses-on-the-cuckoo) | [GitHub](vol_101/Alcuin%20of%20York%20-%20Verses%20on%20the%20Cuckoo)
+
 ## Ambrose of Milan
 
 **One Book on the Flight from the World** — Vol. 14

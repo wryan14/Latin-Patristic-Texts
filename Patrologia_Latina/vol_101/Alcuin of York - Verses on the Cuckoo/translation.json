@@ -1,0 +1,454 @@
+{
+  "metadata": {
+    "volume_id": "PLPL101",
+    "title": "Verses on the Cuckoo",
+    "latin_title": "Versus de Cuculo",
+    "author": "Alcuin of York",
+    "century": "8 century",
+    "source": "Patrologia Latina Volume PL101",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-10T00:00:00Z",
+    "total_chunks": 48,
+    "estimated_duration_minutes": 3,
+    "known_issues": [
+      "The identity of 'Daphnin' and 'Menalca' is debated; they may represent Alcuin's students or allegorical figures",
+      "The phrase 'saeva noverca' (cruel stepmother) may refer to political or ecclesiastical circumstances forcing separation",
+      "The 'cuckoo' likely symbolizes a departed student or friend, possibly forced to leave by Bacchus (representing worldly temptation or a specific authority figure)",
+      "Translation note: This pastoral elegy uses conventional Latin poetic names (Daphnin, Menalca) borrowed from Virgil's Eclogues, making it a learned allusion to classical tradition"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Plangamus cuculum, Daphnin dulcissime, nostrum,",
+      "english": "Let us mourn for our cuckoo, sweetest Daphnis,",
+      "notes": null
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quem subito rapuit saeva noverca suis.",
+      "english": "whom a cruel stepmother has suddenly snatched away from his own people.",
+      "notes": null
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Plangamus pariter querelosis vocibus illum,",
+      "english": "Let us mourn for him together with voices of lament;",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Incipe tu senior, quaeso, Menalca prior.",
+      "english": "please begin first, elder Menalcas.",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! cuculus nobis fuerat cantare suetus,",
+      "english": "Alas! The cuckoo used to sing for us,",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quae te nunc rapuit hora nefanda tuis?",
+      "english": "but what unspeakable hour has now seized you from your own?",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! cuculus, cuculus, qua te regione reliqui,",
+      "english": "Alas! Cuckoo, cuckoo, in what land have I left you behind?",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Infelix nobis illa dies fuerat:",
+      "english": "That day was unfortunate for us.",
+      "notes": null
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Omne genus hominum cuculum cum plangat ubique,",
+      "english": "When every kind of person mourns the cuckoo everywhere,",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Perditus est; cuculus, heu! perit ecce meus!",
+      "english": "he is lost; look, alas, my cuckoo has perished!",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Non pereat cuculus, veniet sub tempore veris,",
+      "english": "May the cuckoo not perish! He will come in the springtime,",
+      "notes": null
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et nobis veniens carmina laeta ciet.",
+      "english": "and coming to us, he will stir up joyful songs.",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quis scit, si veniat? Timeo est submersus in undis,",
+      "english": "Who knows if he will come? I fear he has been submerged in the waves,",
+      "notes": null
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Vorticibus raptus, atque necatus aquis.",
+      "english": "seized by whirlpools and drowned in the waters.",
+      "notes": null
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu mihi! si cuculum Bacchus demersit in undis",
+      "english": "Woe to me! If Bacchus has plunged the cuckoo into the waves,",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Qui rapiet juvenes vortice pestifero.",
+      "english": "he who seizes young men in his deadly whirlpool.",
+      "notes": null
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Si vivat, redeat, nidosque recurrat ad almos,",
+      "english": "If he lives, may he return and run back to his nurturing nests,",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nec corvus cuculum dissecet ungue fero.",
+      "english": "and may no raven tear the cuckoo apart with savage claw.",
+      "notes": null
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! quis te, cuculus, nido rapit ecce paterno?",
+      "english": "Alas! Who is now snatching you, cuckoo, from your father's nest?",
+      "notes": null
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! rapuit, rapuit, nescio si veniat.",
+      "english": "Alas! He has been seized, seized! I do not know if he will come.",
+      "notes": null
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Carmina si curas, cuculus, dum currere possis,",
+      "english": "If you care for songs, cuckoo, while you are still able to run,",
+      "notes": null
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Te Daphnin juvenis optat habere tuus.",
+      "english": "your young Daphnis longs to have you back.",
+      "notes": null
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Tempus adest veris, cuculus, modo rumpe soporem,",
+      "english": "The time of spring is here, cuckoo; now break your slumber!",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Te cupit et senior atque Menalca pater.",
+      "english": "Both the elder and father Menalcas desire you.",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "En tandem nostri librorum prata juvenci,",
+      "english": "Look, at last the meadows of our books await the young oxen,",
+      "notes": "Translation note: 'librorum prata juvenci' is a metaphor for students grazing in the pastures of learning"
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Solus abest cuculus, quis, rogo, pascit eum?",
+      "english": "but the cuckoo alone is absent. Who, I ask, is feeding him?",
+      "notes": null
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! male pascit eum Bacchus, reor, impius ille,",
+      "english": "Alas! That impious Bacchus is feeding him badly, I think,",
+      "notes": null
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Qui sub cuncta cupit vertere corda male.",
+      "english": "he who desires to turn all hearts to evil beneath him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Plangite nunc cuculum, cuculum nunc plangite cuncti,",
+      "english": "Mourn now for the cuckoo; let everyone now mourn for the cuckoo!",
+      "notes": null
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ille recessit ovans, flens redit ille puto.",
+      "english": "He departed rejoicing, but I think he will return weeping.",
+      "notes": null
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Opto tamen flentem cuculum habeamus ut illum,",
+      "english": "Nevertheless, I hope that we may have that cuckoo back, even if weeping,",
+      "notes": null
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et nos plangamus cum cuculo pariter.",
+      "english": "and that we may lament together with the cuckoo.",
+      "notes": null
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Plange tuos casus lacrymis, puer inclyte, plange:",
+      "english": "Weep for your misfortunes with tears, noble boy, weep!",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et casus plangunt viscera tota tuos.",
+      "english": "And let your whole heart mourn for your misfortunes.",
+      "notes": null
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Si non dura silex genuit te, plange, precamur,",
+      "english": "If hard flint did not give birth to you, weep, we beg you;",
+      "notes": null
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Te memorans ipsum plangere forte potes.",
+      "english": "remembering yourself, perhaps you are able to weep.",
+      "notes": null
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Dulcis amor nati cogit deflere parentem,",
+      "english": "Sweet love for a son compels the parent to weep,",
+      "notes": null
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Natus ab amplexu dum rapitur subito.",
+      "english": "when the son is suddenly torn from his embrace.",
+      "notes": null
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Dum frater fratrem germanum perdit amatum,",
+      "english": "When a brother loses his beloved brother,",
+      "notes": null
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quid nisi jam faciat semper et ipse fleat?",
+      "english": "what else should he do now but always weep?",
+      "notes": null
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Tres olim fuimus, junxit quos spiritus unus,",
+      "english": "Once we were three, whom one spirit joined together,",
+      "notes": null
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Vix duo nunc pariter, tertius ille fugit.",
+      "english": "but now scarcely two remain together; that third one has fled.",
+      "notes": null
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Heu! fugiet, fugiet, planctus quapropter amaru",
+      "english": "Alas! He will flee, he will flee, and therefore bitter lamentation",
+      "notes": null
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nunc nobis restat, charus abit cuculus.",
+      "english": "now remains for us; the dear cuckoo departs.",
+      "notes": null
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Carmina post illum mittamus, carmina luctus,",
+      "english": "Let us send songs after him, songs of mourning;",
+      "notes": null
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Carmina deducunt forte, reor, cuculum.",
+      "english": "songs perhaps, I believe, will lead the cuckoo back.",
+      "notes": null
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sis semper felix utinam, quocunque recedas,",
+      "english": "May you always be happy, wherever you go,",
+      "notes": null
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sis memor et nostri, semper ubique vale!",
+      "english": "and be mindful of us. Farewell always and everywhere!",
+      "notes": null
+    }
+  ]
+}
