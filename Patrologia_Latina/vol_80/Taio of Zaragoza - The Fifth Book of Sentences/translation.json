@@ -1,0 +1,1817 @@
+{
+  "metadata": {
+    "volume_id": "PLPL080",
+    "title": "The Fifth Book of Sentences",
+    "latin_title": "Sententiarum Liber Quintus",
+    "author": "Taio of Zaragoza",
+    "century": "7th century",
+    "source": "Patrologia Latina Volume PL080",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-15",
+    "total_chunks": 221,
+    "estimated_duration_minutes": 99,
+    "known_issues": [
+      "References to Antichrist and eschatological themes reflect medieval theological perspectives that may require contextual understanding for modern audiences.",
+      "The work contains extensive biblical citations that have been fully expanded per the translation guidelines.",
+      "Some passages contain dense theological argumentation that may be challenging for audio comprehension without visual reference to the Latin text.",
+      "Text is a compilation of excerpts from Gregory the Great's works, primarily the Moralia in Job, organized thematically by Taio",
+      "Some cross-references to 'Moral.' 'In Ezech.' and 'In Evang.' indicate source texts within Gregory's corpus",
+      "Translation assumes continuity between excerpts that may have been originally separated in their source contexts",
+      "Multiple citations reference specific chapters and sections of Gregory's works"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Book Five: Lovers of the World",
+      "latin": "LIBER QUINTUS. CAPUT PRIMUM. De dilectoribus mundi.",
+      "english": "Book Five. Chapter One: Lovers of the World",
+      "notes": "This opens the fifth book of Taio's Sentences, a florilegium of Gregory the Great's writings"
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnes iniqui, dum corde transire ad aeterna negligunt, et cuncta praesentia, quia fugiunt, non intuentur, mentem in amore vitae praesentis figunt, et quasi longae habitationis in ea sibi fundamentum construunt, quia in terrenis rebus per desiderium solidantur.",
+      "english": "All the wicked neglect to turn their hearts toward eternal things, and because they do not pay attention to how quickly present things pass away, they fix their minds on love of this present life. They build themselves a foundation as if for a long habitation here, because they are anchored in earthly things through their desires.",
+      "notes": "Citation is from Gregory's Moralia, book sixteen, chapter ten"
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Primus Cain civitatem construxisse describitur (Gen. IV), ut aperte monstretur quia ipse in terra fundamentum posuit, qui a soliditate aeternae patriae alienus fuit.",
+      "english": "Cain is described as the first to build a city, as recorded in the book of Genesis, chapter four. This openly demonstrates that he laid his foundation on earth because he was alienated from the stability of the eternal homeland.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Peregrinus quippe a summis, fundamentum in imis posuit, qui intentionem cordis in terrena delectatione collocavit.",
+      "english": "A person who is an exile from the heights lays his foundation in the depths when he places the intention of his heart in earthly pleasure.",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Cain stirpe Enoch, qui dedicatio interpretatur, primus nascitur. In electorum vero progenie Enoch septimus fuisse memoratur, quia videlicet reprobi in hac vita, quae ante est, semetipsos aedificando dedicant. Electi vero aedificationis suae dedicationem in fine temporis, id est, in septimo exspectant.",
+      "english": "In Cain's lineage, Enoch, whose name means dedication, is born first. But in the line of the elect, Enoch is recorded as the seventh. This is because the reprobate dedicate themselves by building in this present life, which comes before eternity. But the elect await the dedication of their building at the end of time, that is, in the seventh age.",
+      "notes": "The number seven represents completion and the end of time in biblical symbolism"
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerumque videmus, plurimos sola cogitare temporalia, honores quaerere, ambiendis rebus inhiare, nihil post hanc vitam quaerere. Quid itaque isti nisi in prima se generatione dedicant?",
+      "english": "Very often we see that most people think only of temporal things, seek honors, pant after worldly ambitions, and seek nothing beyond this life. What are such people doing except dedicating themselves in the first generation?",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "E contrario videmus electos nihil praesentis gloriae quaerere, libenter inopiam sustinere, mala mundi aequanimiter perpeti, ut possint in fine coronari. Electis ergo Enoch in septima generatione nascitur, quia sui dedicationem gaudii in extremae retributionis gloria requirunt.",
+      "english": "On the other hand, we see that the elect seek nothing of present glory, gladly endure poverty, and bear the evils of the world with equanimity so that they may be crowned at the end. So for the elect, Enoch is born in the seventh generation, because they seek the dedication of their joy in the glory of final reward.",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnes iniqui se in primordiis dedicant, quia in hac vita, quae ante est, cordis radicem plantant, ut hic ad votum floreant, et a sequentis patriae deliciis funditus arescant.",
+      "english": "All the wicked dedicate themselves at the beginning, because they plant the root of their hearts in this life which comes first, so that they may flourish here according to their wishes but completely wither away from the delights of the homeland that follows.",
+      "notes": null
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Amatores hujus saeculi tanto magis exteriora incolunt, quanto interiora sua inculta derelinquunt.",
+      "english": "Lovers of this age dwell all the more in external things, the more they leave their interior life uncultivated.",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per quemdam Sapientem dicitur: Non apparebis in conspectu Domini vacuus (Exod. XXIII, 15; Moral. VII, c. 29, n. 38). In conspectu Domini vacuus apparet quisquis, praesentem mundum diligens, nihil secum de fructu sui laboris portat.",
+      "english": "As a certain wise man says in the book of Exodus, chapter twenty-three, verse fifteen: You shall not appear before the Lord empty-handed. Anyone who loves the present world appears empty before the Lord, because he brings with him nothing from the fruit of his labor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quicunque terrena et non coelestia diligunt, alius adipiscendis honoribus exsudat, alius multiplicandis facultatibus aestuat, alius promerendis laudibus anhelat. Sed quia cuncta haec hic quisque moriens deserit, ante Dominum vacuus apparet, quia secum ante Judicem nihil tulit.",
+      "english": "Whoever loves earthly things and not heavenly things, one person sweats to obtain honors, another burns to multiply his wealth, another pants to earn praises. But because everyone leaves all these things behind when dying, he appears empty before the Lord, because he brought nothing with him before the Judge.",
+      "notes": null
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnis arbor in suo robore juxta terram vasta subsistit, sed crescendo superius angustatur. Et quanto paulisper sublimior, tanto in altum subtilior redditur.",
+      "english": "Every tree stands robust and thick near the ground, but as it grows it becomes narrower above. And the higher it rises, the more slender it becomes at the top.",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quibus itaque talia arbusta, nisi terrenis mentibus inveniuntur esse similia inferius vasta, superius angusta? Omnes hujus saeculi dilectores in terrenis rebus fortes sunt, in coelestibus debiles; nam pro temporali gloria usque ad mortem desudare appetunt, et pro spe perpetua ne parum quidem in labore subsistunt.",
+      "english": "To what are such trees similar except to earthly minds, thick below and narrow above? All lovers of this age are strong in earthly things but weak in heavenly things. For they desire to labor until death for temporal glory, yet for the sake of eternal hope they do not endure even a little labor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Amatores saeculi pro terrenis lucris quaslibet injurias tolerant; et pro coelesti mercede, vel tenuissimi verbi ferre contumelias recusant. Curis enim saecularibus intenti tanto insensibiliores intus efficiuntur, quanto ad ea quae foris sunt studiosiores intus efficiuntur.",
+      "english": "Lovers of this age tolerate any injuries for the sake of earthly profits, yet for heavenly reward they refuse to bear even the slightest verbal insult. For the more intent they are on worldly concerns, the more insensible they become within, and the more zealous they are for external things, the more hardened they become inside.",
+      "notes": "Text appears to have a scribal error: 'studiosiores intus' likely should be 'studiosiores exterius' given the context"
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnes qui cogitatione terrena huic saeculo conformantur, per omne quod agunt huic mundo relinquere sui memoriam conantur. Alii bellorum titulis, alii altis aedificiorum moenibus, alii dissertis doctrinarum saecularium libris instanter elaborant, sibique memoriae nomen aedificant.",
+      "english": "All who conform themselves to this age through earthly thinking strive in everything they do to leave a memory of themselves to this world. Some labor intensely through the glory of wars, others through towering buildings, others through learned books of secular teaching, and they build for themselves a name in memory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed cum ipsa ad finem celerius vita percurrat, quid in ea fixum stabit, quando et ipsa celeriter mobilis pertransit? Quantumlibet quisque pro facienda gloria sui nominis elaboret, memoriam suam quasi cinerem posuit, quia hanc citius ventus mortalitatis rapit.",
+      "english": "But since life itself runs more swiftly to its end, what will stand fixed in it when life itself passes by so quickly? No matter how much anyone labors to make the glory of his name, he has placed his memory like ashes, because the wind of mortality snatches it away more quickly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et omne quod ex hoc mundo inhianter diligit, protinus amittit. Per Psalmistam dicitur: Qui non accepit in vanum animam suam (Psal. XXIII, 4; Moral. lib. VII, c. 20, n. 38). In vanum namque animam suam accipit, qui ejus vitam negligens, ei curam carnis anteponit; qui sola praesentia cogitans quae se sequantur in perpetuum non attendit.",
+      "english": "And he immediately loses everything he greedily loves from this world. As the psalmist says in Psalm twenty-three, verse four: He who has not received his soul in vain. For he receives his soul in vain who, neglecting its life, prefers to it the care of the flesh; who, thinking only of present things, does not attend to what will follow him forever.",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Vanity of Fine Clothing",
+      "latin": "CAPUT II. De cultu vestimentorum.",
+      "english": "Chapter Two: The Vanity of Fine Clothing",
+      "notes": null
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nemo existimet in fluxu atque studio vestium peccatum deesse, quia si hoc culpa non esset, nullo modo Joannem Dominus de vestimenti sui asperitate laudasset.",
+      "english": "Let no one think that there is no sin in the pursuit and preoccupation with clothing, because if this were not a fault, the Lord would in no way have praised John for the roughness of his garment.",
+      "notes": "Refers to John the Baptist"
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si cultus vestium culpa non esset, nequaquam Petrus apostolus per Epistolam feminas a pretiosarum vestium appetitu compesceret, dicens: Non in veste pretiosa (I Pet. III, 3).",
+      "english": "If the cultivation of clothing were not a fault, the apostle Peter would not have restrained women from the desire for costly garments through his letter, saying in Peter's first letter, chapter three, verse three: Not in costly clothing.",
+      "notes": null
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pensandum nobis summopere est de cultu vestium, quae culpa sit, hoc etiam viros appetere, a quo curavit pastor Ecclesiae et feminas prohibere.",
+      "english": "We must consider most carefully regarding the cultivation of clothing what fault it is that even men desire this, from which the shepherd of the Church took care to prohibit even women.",
+      "notes": "'Pastor Ecclesiae' refers to Peter"
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De Joanne Baptista Veritas ait: Quid existis videre in deserto? hominem mollibus vestitum? ecce qui mollibus vestiuntur in domibus regum sunt (Matth. XI, 8).",
+      "english": "The Truth says concerning John the Baptist in the Gospel of Matthew, chapter eleven, verse eight: What did you go out into the desert to see? A man clothed in soft garments? Behold, those who wear soft clothing are in the houses of kings.",
+      "notes": "'Veritas' (Truth) is a standard patristic way of referring to Christ"
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Camelorum etenim pilis contextis vestibus Joannes vestitus fuisse describitur. Et quid est dicere: Ecce qui mollibus vestiuntur in domibus Regum sunt, nisi aperta sententia demonstrare quia non coelesti, sed terreno regno militant hi qui pro Deo perpeti aspera refugiunt, sed solis exterioribus dediti praesentis vitae mollitiem et delectationem quaerunt?",
+      "english": "For John is described as having been clothed in garments woven from camel's hair. And what does it mean to say: Behold, those who wear soft clothing are in the houses of kings, except to demonstrate with open statement that those fight for an earthly kingdom, not a heavenly one, who refuse to endure harsh things for God but, devoted only to external things, seek the softness and pleasure of present life?",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Those Bound by Earthly Desires",
+      "latin": "CAPUT III. De his qui terrenis desideriis astringuntur.",
+      "english": "Chapter Three: Those Bound by Earthly Desires",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui terrenarum rerum amore vinciuntur, in Deo nullatenus delectantur, quia mundi hujus oblectationibus irretiuntur. Sine delectatione esse anima nunquam potest, nam aut infimis delectatur, aut summis; et quanto acriori cura inardescit ad infima, tanto tempore damnabili frigescit a summis.",
+      "english": "Those who are bound by love of earthly things take no delight in God, because they are ensnared by the pleasures of this world. The soul can never exist without delight, for it delights either in the lowest things or in the highest. And the more keenly it burns with concern for the lowest things, the more it grows cold toward the highest things in that condemnable time.",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Utraque enim simul et aequaliter amari non possunt. Joannes apostolus sciens spinas amorum saecularium supernae charitatis messem germinare non posse, priusquam aeterni amoris semina proferat, de audientium cordibus sancta verbi manu messem amorum saecularium eradicat, dicens: Nolite diligere mundum, neque ea quae in mundo sunt (I Joan. II, 15).",
+      "english": "For both cannot be loved simultaneously and equally. The apostle John, knowing that the thorns of worldly loves cannot allow the harvest of heavenly charity to spring up, first eradicates the harvest of worldly loves from the hearts of his hearers with the holy hand of the word before he spreads the seeds of eternal love, saying in John's first letter, chapter two, verse fifteen: Do not love the world or the things that are in the world.",
+      "notes": null
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De mundi hujus vana dilectione idem apostolus subjungit, dicens: Si quis diligit mundum, non est charitas Patris in eo. Ac si aperte dicat: Utrique se amores in uno corde non capiunt; nec in eo seges supernae charitatis pullulat, in quo illam spinae infimae delectationis necant.",
+      "english": "Concerning the vain love of this world, the same apostle adds, saying: If anyone loves the world, the charity of the Father is not in him. As if he were saying openly: Both loves cannot contain themselves in one heart, nor does the crop of heavenly charity sprout in that heart where the thorns of base pleasure kill it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Idem Joannes apostolus ex mundi hujus infima delectatione nascentes punctiones enumerat, dicens: Omne quod est in mundo, concupiscentia carnis et concupiscentia oculorum est, et superbia vitae, quae non est ex Patre, sed de hoc mundo est; et mundus transit, et concupiscentia ejus (Ibid., II, 16).",
+      "english": "The same apostle John enumerates the stinging wounds born from the base pleasure of this world, saying: All that is in the world is the lust of the flesh and the lust of the eyes and the pride of life, which is not from the Father but from this world, and the world passes away and its lust.",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Delectari in Deo hujus mundi dilectioni substratus homo non valet, quia in ejus mente desideria superna non prodeunt, quam profecto spinae terreni amoris premunt. Cum in hoc saeculo quisque effectum quaesitae felicitatis invenerit, auctorem qui hanc ipsam felicitatem tribuit non requirit, quia privato amore mundum istum assequi non erubescit.",
+      "english": "A person laid low by love of this world cannot take delight in God, because heavenly desires do not come forth in his mind, which the thorns of earthly love surely press down. When anyone in this age finds the result of the happiness he sought, he does not seek the Author who granted this very happiness, because he is not ashamed to pursue this world with selfish love.",
+      "notes": null
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Wise of This World",
+      "latin": "CAPUT IV. De sapientibus hujus saeculi.",
+      "english": "Chapter Four: The Wise of This World",
+      "notes": null
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sapientes hujus saeculi admonendi sunt, ut amittant scire quae sciunt, et appetant scire quae nesciunt. Hoc primum destruendum est in illis, quod se sapientes arbitrantur. Scriptum quippe est: Sapientia hujus mundi stultitia est apud Deum (I Cor. III, 19).",
+      "english": "The wise of this age must be admonished to lose the knowledge they have and to desire to know what they do not know. This first thing must be destroyed in them: that they think themselves wise. For it is written in Paul's first letter to the Corinthians, chapter three, verse nineteen: The wisdom of this world is foolishness with God.",
+      "notes": null
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dicendum est hujus mundi sapientibus ut sapientius stulti fiant, stultam sapientiam deserant, et sapientem Dei stultitiam discant, sicut scriptum est: Si quis videtur inter vos sapiens esse in hoc saeculo, stultus fiat, ut sit sapiens (Ibid., 18).",
+      "english": "The wise of this world must be told to become wisely foolish, to abandon foolish wisdom and learn the wise foolishness of God, as it is written: If anyone among you seems to be wise in this age, let him become a fool that he may be wise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerumque sapientes hujus saeculi ratiocinationis argumenta melius quam exempla convertunt, ut in suis allegationibus victi jaceant, qui in suis obstinationibus rigidi stabant.",
+      "english": "Very often the wise of this age are better converted by arguments of reasoning than by examples, so that they may lie defeated by their own arguments who stood rigid in their own obstinacy.",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Magister egregius Paulus apostolus sapientibus et insipientibus debitor, cum Haebraeorum quosdam sapientes, quosdam vero etiam tardiores admoneret, de completione Testamenti Veteris loquens, eorum sapientiam argumento superavit, dicens: Quod enim antiquatur et senescit, prope interitum est (Heb. VIII, 13). Quatenus illos victrix ratio frangeret, et ad meliora argumento loquelae blandae suaderet.",
+      "english": "The outstanding teacher, the apostle Paul, debtor to both the wise and foolish, when admonishing some of the Hebrews who were wise and some who were even slower of understanding, speaking about the fulfillment of the Old Testament, overcame their wisdom with an argument, saying in the letter to the Hebrews, chapter eight, verse thirteen: For what is becoming obsolete and growing old is ready to vanish away. So that victorious reasoning might break them and persuade them to better things by the argument of gentle speech.",
+      "notes": null
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Those Hardened by God's Judgment",
+      "latin": "CAPUT V. De his qui judicio Dei obdurantur.",
+      "english": "Chapter Five: Those Hardened by God's Judgment",
+      "notes": null
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicut nemo obsistit largitati Dei vocantis, ita nullus obviat justitiae relinquentis. Non enim cor peccantis Dominus indurat, sed obdurare dicitur, cum ab obduratione non liberat.",
+      "english": "Just as no one resists the generosity of God when He calls, so no one opposes the justice of God when He abandons. For the Lord does not harden the heart of the sinner, but He is said to harden when He does not free from hardening.",
+      "notes": null
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Obdurare se per justitiam dicit, cum cor reproborum per gratiam non emollit. Recludere Dei est clausis non aperire, sed in suorum operum tenebris peccatores relinquere.",
+      "english": "He says He hardens through justice when He does not soften the hearts of the reprobate through grace. For God to shut is not to open what is closed, but to leave sinners in the darkness of their own works.",
+      "notes": null
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Misericors Deus tempus nobis relaxat ad poenitentiam, sed cum ejus gratiae patientiam nos ad augmentum vertimus culpae, hoc ipsum tempus, quod ad parcendum pie disposuit, districtius ad feriendum vertit.",
+      "english": "Merciful God grants us time for repentance, but when we turn the patience of His grace into an increase of guilt, He turns that very time which He mercifully appointed for sparing into a stricter time for striking.",
+      "notes": null
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum reverti quisque ab erroris sui tenebrosis itineribus etiam spatio temporis accepto noluerit, per hoc mala sua ad reatum auget, per quod ea diluere potuit, si converti voluisset.",
+      "english": "When anyone, even after receiving time, has refused to return from the dark paths of his error, he increases his guilt for his evils through that very means by which he could have washed them away if he had been willing to turn back.",
+      "notes": null
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Worldly Labor for Earthly Gain",
+      "latin": "CAPUT VI. De his qui prae amore mundi vel praesentium rerum cupiditate spontaneos tribulationum labores adeunt.",
+      "english": "Chapter Six: Those Who Voluntarily Undergo Tribulations for Love of the World",
+      "notes": null
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui prae amore praesentis saeculi a sensu rationis alienus, dum quidquid pro mundo sustinet, leve deputat, laboris amaritudinem, quam tolerat, ignorat, quia nimirum delectabiliter ad cuncta ducitur, in quibus poenaliter fatigatur.",
+      "english": "He who, out of love for the present age, is alienated from the sense of reason, while he considers whatever he endures for the world as light, does not perceive the bitterness of the labor he tolerates, because he is led delightfully to all things in which he is painfully exhausted.",
+      "notes": null
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jeremias propheta, humanum genus debriatum voluptatibus suis aspiciens, ait: Inebriavit me absynthio, replevit me amaritudinibus (Thren. III, 16). Ebrius quippe quod patitur nescit. Qui vero absynthio debriatur, et hoc quod sumpsit amarum est, et tamen non intelligit eamdem amaritudinem, qua repletur.",
+      "english": "The prophet Jeremiah, seeing the human race drunk on its own pleasures, says in the book of Lamentations, chapter three, verse sixteen: He has made me drunk with wormwood, He has filled me with bitterness. For a drunk man does not know what he suffers. But he who is made drunk with wormwood, what he has taken is bitter, and yet he does not perceive the very bitterness with which he is filled.",
+      "notes": null
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sic nimirum sunt amatores hujus saeculi, qui et multimodis laborum tribulationum angustiis amarescunt, et tamen velut ebrii per cupiditatis vesaniam insensibiles redduntur.",
+      "english": "Just so are the lovers of this age, who become bitter through manifold hardships and tribulations of labor, and yet like drunkards are rendered insensible through the madness of desire.",
+      "notes": null
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Humanum genus recto Dei judicio in voluptatibus suis sibi dimissum, atque per easdem voluptates spontaneis tribulationibus traditum, absynthio est ebrium, quia et amara sunt quae pro hujus saeculi amore tolerat, et tamen eamdem amaritudinem caecitate cupiditatis, quasi insensibilitate ebrietatis, ignorat.",
+      "english": "The human race, by the just judgment of God left to its own pleasures and through those same pleasures handed over to voluntary tribulations, is drunk with wormwood. For what it endures for love of this age is bitter, and yet through the blindness of desire, as if through the insensibility of drunkenness, it does not perceive that very bitterness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Mundi quisque gloriam sitiens, dum multas pro ea tribulationes reperit, amarum est quod bibit; sed quia hoc nimis inhianter sumpsit, ejusdem amaritudinis malum discernere prae ipsa ebrietate non sufficit.",
+      "english": "Whoever thirsts for the glory of the world, while he finds many tribulations for it, what he drinks is bitter. But because he has taken it too greedily, he cannot discern the evil of that bitterness because of the very drunkenness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Amant perversi homines pro hujus mundi gloria etiam tribulationes; cunctisque pro ea sudoribus libenter serviunt, et gravium laborum jugo devotissime colla submittunt.",
+      "english": "Perverse people love even tribulations for the sake of this world's glory. They willingly serve with all labors for it and most devotedly submit their necks to the yoke of heavy burdens.",
+      "notes": null
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Prosperity of the Wicked",
+      "latin": "CAPUT VII. De reproborum prosperitate.",
+      "english": "Chapter Seven: The Prosperity of the Wicked",
+      "notes": null
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui a Deo avertitur, et prosperatur, tanto perditioni fit proximus, quanto a zelo disciplinae invenitur alienus.",
+      "english": "He who turns away from God and prospers becomes all the closer to perdition, the more he is found alienated from the zeal of discipline.",
+      "notes": null
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnulli et iniquitates perpetrant, et gaudere non cessant: Qui nimirum laetantur, cum malefecerint, et exsultant in rebus pessimis (Prov. II, 14). Nonnulli reproborum, cum inique agunt et prosperantur, non sospitate eriguntur, sed insania, qua affligi debuerunt, et inde miseri in exsultatione defluunt, unde a bonis flentur.",
+      "english": "Some both perpetrate iniquities and do not cease to rejoice. These indeed rejoice when they have done evil and exult in the worst things, as the book of Proverbs, chapter two, verse fourteen says. Some of the reprobate, when they act wickedly and prosper, are not raised up by health but by insanity with which they ought to be afflicted. And from this, miserable people flow into exultation from which they are wept over by the good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerique reprobi, dum peccatorum suorum vinculis alligantur, ad justitiae tramitem nequaquam revertuntur. Phreneticorum videlicet sensibus similes, qui insaniam qua praevalent virtutem putant; qui ex morbo esse nesciunt hoc quod amplius sanis possunt, et quasi crevisse viribus aestimant, dum ad vitae terminum per augmenta languoris appropinquant.",
+      "english": "Very many of the reprobate, while they are bound by the chains of their sins, in no way return to the path of justice. They are similar to the minds of madmen, who think the insanity by which they excel is virtue, who do not know that what they can do more than healthy people comes from disease, and they think they have grown in strength while they approach the end of life through the increases of sickness.",
+      "notes": "Phrenetic refers to a fever causing delirium or madness"
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnunquam reprobi phreneticis similes, quia rationis sensum non habent, flentur et rident. Et tanto in magna exsultatione se dilatant, quanto et insensibiles malum quod patiuntur ignorant.",
+      "english": "Sometimes the reprobate, similar to madmen because they do not have the sense of reason, are wept over while they laugh. And they expand themselves in great exultation all the more because, being insensible, they do not know the evil they suffer.",
+      "notes": null
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Ecclesiaste libro scriptum est: Vidi servos in equis, et principes ambulantes quasi servos super terram (Eccle. X, 7). Omnis qui peccat servus est peccati. Servi namque in equis sunt, cum peccatores praesentis vitae dignitatibus efferuntur.",
+      "english": "In the book of Ecclesiastes, chapter ten, verse seven, it is written: I saw servants on horses and princes walking like servants on the earth. Everyone who sins is a slave of sin. For servants are on horses when sinners are lifted up by the dignities of present life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Principes vero quasi servi ambulant, cum multos dignitate virtutum plenos nullus honor erigit. Sed summa hic adversitas velut indignos deorsum premit. Per Psalmistam dicitur: Dormitaverunt qui ascenderunt equos (Psal. LXXV), id est, in morte animae mentis oculos a veritatis luce clauserunt qui in praesentis vitae honore confisi sunt.",
+      "english": "But princes walk like servants when many who are full of the dignity of virtues are raised up by no honor, but supreme adversity presses them down as if unworthy. Through the psalmist it is said: Those who mounted horses have slept, that is, in the death of the soul they closed the eyes of the mind from the light of truth who trusted in the honor of present life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Agreement of the Wicked",
+      "latin": "CAPUT VIII. De malorum concordia.",
+      "english": "Chapter Eight: The Agreement of the Wicked",
+      "notes": null
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dum perversorum nequitia in pace jungitur, profecto eorum malis actibus robur augetur. Quia quo sibi in malitia congruunt, tanto se robustius bonorum afflictionibus illidunt.",
+      "english": "When the wickedness of the perverse is joined in peace, strength is certainly increased to their evil deeds. For the more they agree with each other in malice, the more strongly they dash themselves against the afflictions of the good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad beatum Job divina voce pro Leviathan dicitur: Membra carnium ejus cohaerentia sibi (Job. XLI, 14). Corpus ejus scuta fusilia, compactum squamis se prementibus una uni conjungitur, et ne spiraculum quidem incedit per eas (Ibid. VI, 7).",
+      "english": "To blessed Job the divine voice says concerning Leviathan in the book of Job, chapter forty-one, verse fourteen: The parts of his flesh cling to each other. His body is like shields of cast metal, compacted with scales pressing on each other, one joined to another, and not even a breath passes through them.",
+      "notes": "Leviathan is interpreted here as representing Satan"
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sequaces quippe Satanae, quo nulla inter se discordiae adversitate divisi sunt, eo in bonorum gravius nece glomerantur. Qui iniquos pace sociat, iniquitati vires administrat, quia bonos deterius deprimunt, quos et unanimiter persequuntur.",
+      "english": "For the followers of Satan, since they are divided by no adversity of discord among themselves, mass together all the more heavily for the destruction of the good. He who unites the wicked in peace administers strength to wickedness, because they more severely oppress the good whom they unanimously persecute.",
+      "notes": null
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quos similis reatus sociat, concordi pertinacia etiam defensio perversa constipat, ut de facinoribus suis alterna invicem defensione tueantur. Sibi enim quisque metuit, dum admoneri vel corrigi alterum cernit.",
+      "english": "Those whom similar guilt unites, perverse defense also binds together with concordant stubbornness, so that they protect each other regarding their crimes with mutual defense. For each one fears for himself when he sees another being admonished or corrected.",
+      "notes": null
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et idcirco contra corripientium verba unanimiter assurgit, quia se in altero protegit. Dum vicissim mali superba defensione se protegunt, sanctae exhortationis spiracula ad se nullatenus intrare permittunt.",
+      "english": "And therefore they rise up unanimously against the words of those correcting, because each protects himself in the other. While the wicked protect each other by turns with proud defense, they by no means permit the breathing passages of holy exhortation to enter themselves.",
+      "notes": null
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Malorum pestiferam concordiam sub Leviathan squamis beatus Job indicat dicens: Una alteri adhaerebunt et tenentes se nequaquam separabuntur (Job. XLI, 8) Qui enim divisi corrigi poterant, in iniquitatum sua rum pertinacia uniti perdurant.",
+      "english": "Blessed Job indicates the pestilent agreement of the wicked under the scales of Leviathan, saying: One will cling to another and holding each other they will by no means be separated. For those who could be corrected if divided, united they persist in the stubbornness of their iniquities.",
+      "notes": null
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et tanto magis quotidie a cognitione justitiae separabiliores fiunt, quanto a se invicem nulla increpatione separantur. Sicut esse noxium solet, si unitas desit bonis; ita perniciosum est, si non desit malis.",
+      "english": "And daily they become more separated from the knowledge of justice, the more they are not separated from each other by any rebuke. Just as it is usually harmful if unity is lacking to the good, so it is destructive if it is not lacking to the evil.",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Perversos nonnunquam unitas corroborat, dum concordat; et tanto magis incorrigibiles quanto unanimes facit. De unitate concordantium reproborum per Salomonem dicitur: Stupa collecta Synagoga peccantium (Eccli. XXI, 10). De hac Nahum propheta ait: Sicut spinae se invicem complectuntur, sic convivium eorum pariter potantium (Nahum I, 10).",
+      "english": "Sometimes unity strengthens the perverse while it harmonizes, and makes them all the more incorrigible the more unanimous it makes them. Concerning the unity of agreeing reprobates, it is said through Solomon in the book of Sirach, chapter twenty-one, verse ten: The assembly of sinners is like tow gathered together. Concerning this the prophet Nahum says in chapter one, verse ten: As thorns embrace each other, so is their banquet of those drinking together.",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Convivium namque reproborum est delectatio temporalium voluptatum; in quo nimirum convivio pariter potant, quia delectationis suae illecebris sese concorditer debriant.",
+      "english": "For the banquet of the reprobate is the delight of temporal pleasures. In this banquet indeed they drink together, because they make themselves drunk concordantly with the enticements of their pleasure.",
+      "notes": null
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Membra Satanae, id est, iniquos omnes, quos Dei sermo squamarum compactionibus comparat, ad defensionem suam par culpa concordat, sicut ad beatum Job de Leviathan squamis dicitur: Una alteri adhaerebunt, et tenentes se nequaquam separabuntur.",
+      "english": "The members of Satan, that is, all the wicked whom the word of God compares to the joining of scales, equal guilt harmonizes for their defense, just as it is said to blessed Job concerning the scales of Leviathan: One will cling to another, and holding each other they will by no means be separated.",
+      "notes": null
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tenentes enim se nequaquam separari queunt, quia eo ad defensionem suam vicissim constricti sunt, quo se sibi per omnia similes esse meminerunt.",
+      "english": "For holding each other they cannot be separated, because they are mutually bound together for their defense, since they remember that they are in all things similar to each other.",
+      "notes": null
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Exodo scriptum est: Divisa est aqua, et ingressi sunt filii Israel per medium maris sicci (Exodi XIV, 22). Eripiuntur etenim justi, dum per discordiam dividuntur injusti; et electorum vota ad perfectum perveniunt, cum reproborum agmina nexu discordiae confunduntur.",
+      "english": "In the book of Exodus, chapter fourteen, verse twenty-two, it is written: The water was divided, and the children of Israel went through the midst of the sea on dry ground. For the just are rescued when the unjust are divided through discord, and the desires of the elect arrive at perfection when the bands of the reprobate are confused by the bond of discord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum in duas partes unda maris Rubri dividitur, ab electo populo ad terram repromissionis tenditur, quia dum malorum unitas scinditur, bonae mentes ad hoc, quod appetunt, perducuntur.",
+      "english": "When the wave of the Red Sea is divided into two parts, the journey to the promised land is made by the chosen people, because while the unity of the wicked is split, good minds are led to what they desire.",
+      "notes": null
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si malorum unitas noxia non fuisset, nequaquam divina providentia superbientium linguas in tanta diversitate dissipasset. Si malorum unitas noxia non fuisset, de sanctae Ecclesiae hostibus Propheta non diceret: Praecipita, Domine, et divide linguas eorum (Psal. LIV, 10).",
+      "english": "If the unity of the wicked were not harmful, divine providence would never have scattered the tongues of the proud in such diversity. If the unity of the wicked were not harmful, the prophet would not say concerning the enemies of the holy Church in Psalm fifty-four, verse ten: Cast them down, O Lord, and divide their tongues.",
+      "notes": "Reference to the Tower of Babel and the confusion of languages"
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Princes of the World",
+      "latin": "CAPUT IX. De principibus mundi.",
+      "english": "Chapter Nine: Princes of the World",
+      "notes": null
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Principes hujus mundi, quo se multis populorum agminibus praelatos esse cognoscunt, eo se sub sanctae fidei disciplina humili mente prosternant, ut non praeesse solummodo studeant, sed multis prodesse gaudeant.",
+      "english": "The princes of this world, the more they know themselves to be set over many throngs of peoples, should prostrate themselves with humble mind under the discipline of the holy faith, so that they strive not only to preside but rejoice to benefit many.",
+      "notes": null
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam qui subjectarum numerositate plebium attollitur, ipso fastu elationis, quod ad summa conscendere nititur, non immerito casus sui ruina multatur, sicut scriptum est: Dejecisti eos cum allevarentur (Psal. LXXII, 18). Non ait Psalmista, Dejecisti eos postquam elevati sunt; sed Cum allevarentur.",
+      "english": "For he who is lifted up by the multitude of subjected peoples is deservedly punished by the ruin of his fall through the very arrogance of pride, because he strives to climb to the heights, as it is written in Psalm seventy-two, verse eighteen: You have cast them down while they were being lifted up. The psalmist does not say, You cast them down after they were lifted up, but while they were being lifted up.",
+      "notes": null
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hanc ergo primam ruinam principes timeant, qui privatam gloriam semetipsos diligere non formidant, quia eo plerumque intrinsecus corruunt, quo male extrinsecus surgunt.",
+      "english": "Therefore let princes fear this first ruin, who do not fear to love their own private glory, because they usually fall inwardly to the extent that they rise wrongly outwardly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnes qui in hoc mundo principantur densis cogitationum tumultibus in corde premuntur. Dumque desideriorum turbas intra se excitant, prostratam mentem pede miserae frequentationis calcant.",
+      "english": "All who rule in this world are pressed in their hearts by dense tumults of thoughts. And while they stir up crowds of desires within themselves, they trample down the prostrate mind with the foot of wretched busyness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnunquam princeps eo ipso quo praeeminet caeteris, elatione cogitationis intumescit. Et dum ad usum cuncta subjacent, dum ad votum velociter jussa complentur, dum omnes subditi, si qua bene gesta sunt, laudibus efferunt, male gestis autem nulla auctoritate contradicunt, dum plerumque laudant etiam quod objurgare debuerunt, seductus ab his quae infra subduntur, super se ejus animus extollitur, et dum foras immenso favore circumdatur, intus veritate vacuatur.",
+      "english": "Sometimes a prince, by the very fact that he excels others, swells with pride of thought. And while all things are subject to his use, while commands are swiftly fulfilled according to his wishes, while all subjects exalt with praises whatever has been well done but contradict with no authority whatever has been done badly, while they often praise even what they should have rebuked, seduced by these things that are submitted below, his spirit is lifted up above himself. And while he is surrounded outwardly by immense favor, he is emptied inwardly of truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Atque oblitus sui in voces se spargit alienas, talemque se credit, qualem se foris audit, non qualem intus discernere debuit.",
+      "english": "And forgetting himself, he scatters himself into the voices of others, and he believes himself to be such as he hears himself to be outwardly, not such as he should discern inwardly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerumque principes subjectos quosque despiciunt, eosque aequales sibi naturae ordine non agnoscunt; et quos sorte potestatis excesserint, transcendisse se etiam vitae meritis credunt.",
+      "english": "Often princes despise each of their subjects and do not acknowledge them as equals in the order of nature. And they believe they have surpassed in the merits of life those whom they have exceeded by the lot of power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cunctis se aestimant amplius sapere, quibus se vident amplius posse. In quodam quippe se constituunt culmine apud semetipsos. Et quia aequa caeteris naturae conditione constringuntur, ex aequo respicere caeteros dedignantur.",
+      "english": "They esteem themselves wiser than all those over whom they see themselves to have more power. For they establish themselves in a certain height in their own estimation. And because they are bound by the same condition of nature as others, they disdain to regard others equally.",
+      "notes": null
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicque usque ad ejus similitudinem ducuntur, de quo scriptum est: Omne sublime videt, et ipse est rex super universos filios superbiae (Job XLI, 25). Quisquis potestate honoris praeditus elationis fastu supra subjectos attollitur, ad ejus similitudinem ducitur, qui singulare culmen appetens, et socialem angelorum vitam despiciens, ait: Ascendam super altitudinem nubium, similis ero Altissimo (Isai. XIV, 44).",
+      "english": "And so they are led to the likeness of him concerning whom it is written in the book of Job, chapter forty-one, verse twenty-five: He sees everything that is high, and he is king over all the children of pride. Whoever, endowed with the power of honor, is lifted up above his subjects with the arrogance of pride, is led to the likeness of him who, desiring singular height and despising the social life of the angels, said as recorded in the book of Isaiah, chapter fourteen, verse fourteen: I will ascend above the height of the clouds; I will be like the Most High.",
+      "notes": "Reference to Satan's fall"
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Miro ergo judicio intus foveam dejectionis invenit, dum foris se in culmine potestatis extollit. Apostatae quippe angelo similis efficitur, dum homo homini esse similis dedignatur.",
+      "english": "Therefore by a wonderful judgment he finds within the pit of abasement while outwardly he lifts himself up in the height of power. For he becomes similar to the apostate angel when a human being disdains to be similar to another human being.",
+      "notes": null
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saul rex humilitatis merito in tumorem superbiae culmine potestatis excrevit; per humilitatem quippe praelatus est, per superbiam reprobatus, Domino attestante, qui ait: Nonne cum esses parvulus in oculis tuis, caput te constitui in tribubus Israel (I Reg. XV, 17)?",
+      "english": "King Saul, by the merit of humility, grew into the swelling of pride at the height of power. For through humility he was set over others, but through pride he was rejected, as the Lord testified, saying in the first book of Samuel, chapter fifteen, verse seventeen: When you were little in your own eyes, did I not make you head over the tribes of Israel?",
+      "notes": "First Samuel is here labeled with its older name, First Kings"
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Parvulum se idem Saul ante potestatem viderat, sed fultus temporali potentia jam se parvulum non videbat. Caeterorum namque comparatione se praeferens magnum se apud se esse judicabat. Miro autem modo, cum apud se parvulus, apud Dominum magnus, cum autem apud se magnus, apud Dominum parvulus fuit.",
+      "english": "Saul had seen himself as little before power, but supported by temporal power he no longer saw himself as little. For preferring himself by comparison with others, he judged himself to be great in his own estimation. But in a wonderful way, when he was little in his own eyes, he was great before the Lord; but when he was great in his own eyes, he was little before the Lord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerumque dum ex subditorum affluentia principis animus inflatur, in luxum superbiae, ipso potentiae fastigio lenocinante, corrumpitur. Sed aliud est quaelibet bona non esse aliud bona bene habere nescire.",
+      "english": "Often, while the spirit of a prince is inflated by the abundance of subjects, it is corrupted into the excess of pride, with the very height of power acting as procurer. But it is one thing not to have any goods, another thing not to know how to possess goods well.",
+      "notes": null
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In omne quod princeps agit, tribulatione et angustia vallatur. Quia cor ejus anxietate et suspicione confunditur, sicut per beatum Job dicitur: Terrebit eum tribulatio, et angustia vallabit eum, sicut regem, qui praeparatur ad praelium (Job. XV, 24).",
+      "english": "In everything that a prince does, he is surrounded by tribulation and anxiety. For his heart is confused by worry and suspicion, as it is said through blessed Job in chapter fifteen, verse twenty-four: Tribulation will terrify him, and anguish will surround him like a king who is prepared for battle.",
+      "notes": null
+    },
+    {
+      "chunk_id": 84,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quamvis quolibet in loco positus princeps cogitando, loquendo, vel faciendo delinquat, tunc tamen per tria haec animus effrenatius rapitur, cum mundi hujus prosperitate frequentius sublevatur.",
+      "english": "Although a prince positioned in any place sins by thinking, speaking, or doing, yet his spirit is carried away more unbridledly through these three things when he is more frequently lifted up by the prosperity of this world.",
+      "notes": null
+    },
+    {
+      "chunk_id": 85,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum praeire se princeps potestate caeteros conspicit, alta de se elate cogitans sentit. Et cum auctoritati vocis a nullo resistitur, lingua licentius per abrupta diffrenatur. Cum plerumque facere principi quod libet licet, juste sibi omne aestimat licere quod libet.",
+      "english": "When a prince sees that he surpasses others in power, he thinks lofty things about himself with pride. And when the authority of his voice is resisted by no one, his tongue is unbridled more licentiously into precipices. When a prince is usually allowed to do whatever he wishes, he considers that everything he wishes is justly permitted to him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 86,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nabuchodonosor rex Babyloniae, dum elata mente apud se volveret dicens: Nonne haec est Babylon, quam aedificavi (Dan. IV, 27)? in irrationabile animal protinus versus est. Quod enim factus fuerat perdidit, quia humiliter noluit dissimulare quod fecit.",
+      "english": "Nebuchadnezzar, king of Babylon, while turning over in his mind with pride and saying in the book of Daniel, chapter four, verse twenty-seven: Is this not Babylon which I have built? was immediately turned into an irrational animal. For he lost what he had been made, because he did not wish to humbly conceal what he had done.",
+      "notes": null
+    },
+    {
+      "chunk_id": 87,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quia elatione cogitationis suae se super homines extulit, ipsum quem communem cum hominibus habuit sensum hominis amisit.",
+      "english": "And because he lifted himself above human beings by the pride of his thought, he lost the very sense of humanity that he had in common with other people.",
+      "notes": null
+    },
+    {
+      "chunk_id": 88,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saepe principes qui in potestate sunt ad subjectorum passim contumelias erumpunt, et hoc quod invigilantes regimini serviunt, per linguae loquacitatem perdunt.",
+      "english": "Often princes who are in power break out indiscriminately into insults toward their subjects, and they lose through talkativeness of tongue what they serve by being vigilant in governance.",
+      "notes": null
+    },
+    {
+      "chunk_id": 89,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per Salomon dicitur: Vae tibi, terra, cujus rex est puer, et cujus principes mane comedunt (Eccle. X, 16). Rex quippe puer non incongrue dicitur, dum is qui praeest cura regiminis puerilibus actibus delectatur, et a peccati perpetratione nequaquam subtrahitur.",
+      "english": "Through Solomon it is said in the book of Ecclesiastes, chapter ten, verse sixteen: Woe to you, O land, whose king is a boy and whose princes eat in the morning. The king is not inappropriately called a boy when he who presides, despite the care of governance, delights in childish acts and is by no means withdrawn from the perpetration of sin.",
+      "notes": null
+    },
+    {
+      "chunk_id": 90,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde recte Isaias ait: Puer centum annorum morietur, et peccator centum annorum maledictus erit (Isai. LXV, 20), id est, vita quidem pueri in longum trahitur, ut a factis puerilibus corrigatur. Sed si a peccati perpetratione nec temporis longinquitate compescitur, haec ipsa vitae longinquitas, quam per misericordiam accepit, ei ad cumulum maledictionis crescit.",
+      "english": "Whence Isaiah rightly says in chapter sixty-five, verse twenty: The boy of a hundred years will die, and the sinner of a hundred years will be accursed. That is, the life of a boy is indeed drawn out long that he may be corrected from childish deeds. But if he is not restrained from the perpetration of sin even by length of time, this very length of life, which he received through mercy, grows for him into a heap of curse.",
+      "notes": null
+    },
+    {
+      "chunk_id": 91,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quis rectum sapiens ignoret quod reges terrae eo a solitudine longe sunt, quo innumeris obsequentium cuneis constipantur? Difficile quippe hi ad requiem tendunt, qui tam duris rationum multiplicium nexibus astringuntur.",
+      "english": "What wise person of right understanding does not know that the kings of the earth are far from solitude to the extent that they are crowded by countless wedges of attendants? For those who are bound by such hard bonds of multiple responsibilities proceed with difficulty toward rest.",
+      "notes": null
+    },
+    {
+      "chunk_id": 92,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scriptura attestante, quae ait: Judicium durissimum in his qui praesunt fiet (Sap. VI, 6). Unde et in Evangelio Veritas dicit: Cui multum datum est, multum quaeretur ab eo (Luc. XII, 48).",
+      "english": "As Scripture testifies, which says in the book of Wisdom, chapter six, verse six: The harshest judgment will be made on those who preside. Whence also in the Gospel, the Truth says in the Gospel of Luke, chapter twelve, verse forty-eight: To whom much has been given, much will be required of him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 93,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Beatus Job principatus honore perfunctus, quantae celsitudinis quantaeque fuerit benignitatis, insinuat dicens: Principes cessabant loqui, digitum superponebant ori suo (Job. XXIX, 9). Et iterum: Cumque sederem, quasi rex circumstante exercitu, eram tamen moerentium consolator (Ibid., 25).",
+      "english": "Blessed Job, having fulfilled the honor of leadership, suggests how great was his loftiness and how great his kindness, saying in the book of Job, chapter twenty-nine, verse nine: Princes stopped speaking and placed their finger on their mouth. And again in verse twenty-five: And when I sat as king with an army standing around me, I was nevertheless the consoler of those mourning.",
+      "notes": null
+    },
+    {
+      "chunk_id": 94,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saepe qui potestate principantur ea quae recte faciunt, quia elate cogitant, amittunt; dumque se ad cuncta utiles aestimant, etiam impensae utilitatis meritum sibi damnant.",
+      "english": "Often those who rule by power lose the things they do rightly because they think about them with pride. And while they consider themselves useful for everything, they even condemn for themselves the merit of expended usefulness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 95,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ut enim quaelibet principis facta digniora sint, necesse est ei apud se semper indigna videantur, ne eadem bona actio agentis cor sublevet, et sublevando plus auctorem de elatione dejiciat, quam ipsos forte quibus impenditur juvet.",
+      "english": "For in order that the deeds of a prince be more worthy, it is necessary that they always seem unworthy to him in his own estimation, lest the same good action lift up the heart of the doer, and by lifting him up cast down the author more through pride than it perhaps helps those on whom it is expended.",
+      "notes": null
+    },
+    {
+      "chunk_id": 96,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Potestas plerumque cum habetur, et cogitanda est ad multorum utilitatem, et dissimulanda propter tumorem. Quatenus is qui ea utitur, et ut prodesse debeat, posse se sciat, et ut extolli non debeat, posse se nesciat.",
+      "english": "Power, when possessed, should usually both be thought of for the benefit of many and concealed because of swelling. So that he who uses it both knows that he is able so that he should benefit, and does not know that he is able so that he should not be lifted up.",
+      "notes": null
+    },
+    {
+      "chunk_id": 97,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Good Princes",
+      "latin": "CAPUT X. De bonis principibus.",
+      "english": "Chapter Ten: Good Princes",
+      "notes": "This chapter presents a contrast to the previous one"
+    },
+    {
+      "chunk_id": 98,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Magna est potentia principalis, quia habet apud Deum meritum suum de bona administratione regiminis. Bona est ordine suo potentia principalis, sed cauta regentis indiget vita. Bene hanc exercet, qui scit per illam super culpas erigi, et scit cum illa caeteris aequalitate componi.",
+      "english": "Great is princely power, because it has its merit before God from good administration of governance. Princely power is good in its order, but it needs the cautious life of the one governing. He exercises it well who knows to be raised up through it over faults, and knows to be composed with others in equality through it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 99,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Humana mens plerumque extollitur, etiam cum nulla potestate fulcitur; quanto magis in altum se erigit, cum se ei etiam potestas adjungit? Et tamen corrigendis aliorum vitiis apta exsecutione praeparatur. Unde et per Paulum dicitur: Minister enim Dei est vindex in iram (Rom. XIII, 4).",
+      "english": "The human mind is usually lifted up even when it is supported by no power. How much more does it raise itself on high when power is also joined to it? And yet it is prepared with suitable execution for correcting the vices of others. Whence it is also said through Paul in his letter to the Romans, chapter thirteen, verse four: For he is God's minister, an avenger for wrath.",
+      "notes": null
+    },
+    {
+      "chunk_id": 100,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum potentiae principalis culmen suscipitur, summa cura vigilandum est, ut sciat quisque et sumere ex illa quod adjuvat, et expugnare quod tentat.",
+      "english": "When the height of princely power is undertaken, it must be watched with supreme care so that anyone knows both to take from it what helps and to fight against what tempts.",
+      "notes": null
+    },
+    {
+      "chunk_id": 101,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum mundi hujus potestate principes fulciuntur, tanto sub mojori mentis disciplina se redigunt, quantum sibi per impatientiam potestatis suaderi illicita quasi licentius sciunt. Cor namque a consideranda gloria reprimunt, linguam ab immoderata locutione restringunt, opus ab inquietudinis vagatione custodiunt.",
+      "english": "When princes are supported by the power of this world, they reduce themselves under greater discipline of mind to the degree that they know that unlawful things are persuaded to them more licentiously through the impatience of power. For they restrain the heart from considering glory, restrict the tongue from immoderate speech, and guard their work from the wandering of restlessness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 102,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sciendum summopere est, quia rex qui praeparatur ad praelium sic de hoste suspectus est, ut eumdem quoque quem ducit exercitum metuat, ne labefactetur et destitutione militum jaculis pateat inimicorum.",
+      "english": "It must be known most especially that a king who is prepared for battle is so suspicious of the enemy that he also fears the very army he leads, lest it be weakened and he be exposed to the javelins of enemies by the desertion of soldiers.",
+      "notes": null
+    },
+    {
+      "chunk_id": 103,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Plerumque rex qui praeparatur ad praelium nimia vallatur angustia, quia videlicet formidat ne subito suos amittat milites, et per aliquam desidiam incursantium inimicorum insidiis occupetur.",
+      "english": "Often a king who is prepared for battle is surrounded by excessive anxiety, because he fears lest he suddenly lose his soldiers and be seized by the snares of attacking enemies through some neglect.",
+      "notes": null
+    },
+    {
+      "chunk_id": 104,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Princeps terrenam rempublicam gerens aliter punit civem interius delinquentem, atque aliter hostem exterius rebellantem. In illo jura sua consulit, eumque sub verbis dignae invectionis addicit. Contra hostem vero bellum movet, instrumenta perditionis exercet, dignaque ejus malitiae tormenta retribuit: de malo vero ejus quid lex habeat non requirit; neque enim lege necesse est perimi, qui lege nunquam potuit teneri.",
+      "english": "A prince managing an earthly republic punishes differently a citizen sinning within and an enemy rebelling without. In the former case he consults his laws and condemns him under words of worthy rebuke. But against an enemy he wages war, exercises instruments of destruction, and repays torments worthy of his malice. But he does not inquire what the law has concerning his evil, for it is not necessary to be destroyed by law for one who could never be held by law.",
+      "notes": "This analogy is being used to explain God's different treatment of those within and outside the covenant"
+    },
+    {
+      "chunk_id": 105,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Location and Nature of Hell",
+      "latin": "CAPUT XX. De inferno superiore atque inferiore.",
+      "english": "Chapter 20: The Location and Nature of Hell",
+      "notes": null
+    },
+    {
+      "chunk_id": 106,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnulli in quadam terrarum parte infernum esse putaverunt; alii vero hunc sub terra esse aestimant (Dialog. IV, 42). Sed tamen hoc animum pulsat, quia si idcirco infernum dicimus, quia inferius jacet, quod terra ad coelum est, hoc esse infernus debet ad terram. Unde fortasse dicitur: Liberasti animam meam ex inferno inferiori (Psal. LXXXV, 13), ut infernus superior terra, infernus vero inferior sub terra esse videatur.",
+      "english": "Some have thought that hell exists in a certain part of the earth, while others believe it is beneath the earth. But this question troubles the mind: if we call it hell because it lies below the earth as the earth lies below heaven, then hell must be to the earth what the earth is to heaven. This may be why Scripture says, as in the Psalms, chapter eighty-five, verse thirteen, 'You have delivered my soul from the lower hell'—suggesting that there is an upper hell, which would be the earth, and a lower hell beneath the earth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 107,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Joannis vox in ea aestimatione concordat, qui cum signatum librum septem sigillis vidisse se diceret, quia nemo inventus est dignus, neque in coelo, neque in terra, neque subtus terram aperire librum, et solvere signacula ejus, adjunxit: Et ego flebam multum (Apoc. V, 4). Quem tamen postmodum librum per leonem de tribu Juda dicit aperiri.",
+      "english": "The voice of John agrees with this estimation. When he said he saw a book sealed with seven seals, he added—as recorded in the book of Revelation, chapter five, verse four—'And I wept much, because no one was found worthy, neither in heaven, nor on earth, nor under the earth, to open the book and loose its seals.' Yet he says that afterward the book was opened by the Lion of the tribe of Judah.",
+      "notes": null
+    },
+    {
+      "chunk_id": 108,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In quo videlicet libro, quid aliud quam sacra Scriptura signatur? Quam solus Redemptor noster aperuit, qui homo factus moriendo, resurgendo, ascendendo, cuncta mysteria quae in ea fuerant clausa patefecit. Nullus in coelo dignus inventus est aperire librum, quia neque angelus; nullus in terra, quia neque homo vivens in corpore; nullus subtus terram, quia neque animae corpore exutae aperire nobis, praeter Dominum, sacri eloquii secreta potuerunt.",
+      "english": "What else is signified in that book but Sacred Scripture? Only our Redeemer opened it—he who became human and, by dying, rising, and ascending, revealed all the mysteries that had been sealed within it. No one in heaven was found worthy to open the book, not even an angel; no one on earth, not even a man living in the body; no one under the earth, because not even souls stripped of their bodies could open for us the secrets of sacred Scripture, except the Lord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 109,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum ad solvendum librum nullus sub terra inventus dignus dicitur, quid obstet non video ut sub terra esse infernus credatur.",
+      "english": "Since no one under the earth was found worthy to open the book, I see no obstacle to believing that hell is under the earth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 110,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Purgatorial Fire and Post-Mortem Purification",
+      "latin": "CAPUT XXI. De igne purgatorio, quod post mortem peccata laxari credantur.",
+      "english": "Chapter 21: Purgatorial Fire and Post-Mortem Purification",
+      "notes": null
+    },
+    {
+      "chunk_id": 111,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omne pondus fabricae fundamentum portat, quia mores simul omnium solus Redemptor noster tolerat (Lib. II, in Ezech., homil. 1, n. 5). Scriptum quippe est: Fundamentum enim aliud nemo potest ponere praeter id quod positum est, qui est Christus Jesus (I Cor. III, 11). Portat fundamentum lapides, et a lapidibus non portatur; quia Redemptor noster omnia nostra tolerat, sed in ipso malum non fuit quod tolerari debuisset.",
+      "english": "The foundation bears the whole weight of the building, because our Redeemer alone bears the conduct of all people. For it is written, in Paul's first letter to the Corinthians, chapter three, verse eleven: 'No one can lay a foundation other than that which has been laid, which is Jesus Christ.' The foundation bears the stones, and is not borne by the stones, because our Redeemer bears all that is ours, but in him there was no evil that needed to be borne.",
+      "notes": null
+    },
+    {
+      "chunk_id": 112,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ipse quippe fundamentum fundamentorum est, quia et origo est inchoantium, et constantia robustorum (Moral. XXVIII, c. 5, n. 14; Dial. IV, 39). Egregius praedicator ait: Si quis autem superaedificat supra fundamentum hoc aurum, argentum, lapides pretiosos, ligna, fenum, stipulam, uniuscujusque opus manifestum erit. Dies enim Domini declarabit, quia in igne revelabitur; et uniuscujusque opus, quale sit, ignis probabit. Si cujus opus manserit, quod superaedificavit, mercedem accipiet. Si cujus opus arserit, detrimentum patietur; ipse autem salvus erit, sic tamen quasi per ignem (I Cor. III, 12).",
+      "english": "He is the foundation of foundations, because he is the source for beginners and the strength of those who are strong. The excellent preacher says, in Paul's first letter to the Corinthians, chapter three, verse twelve: 'If anyone builds on this foundation with gold, silver, precious stones, wood, hay, or straw, each one's work will become manifest. For the Day of the Lord will declare it, because it will be revealed by fire; and the fire will test each one's work, of what sort it is. If anyone's work which he has built endures, he will receive a reward. If anyone's work is burned, he will suffer loss; but he himself will be saved, yet so as through fire.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 113,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quamvis hoc, quod superius protulimus de igne tribulationis in hac nobis vita adhibito possit intelligi, tamen si quis hoc de igne futurae purgationis accipiat, pensandum sollicite est quia illum dixit per ignem posse salvari, non qui super hoc fundamentum ferrum, aes, vel plumbum aedificat, id est, peccata majora, et idcirco duriora, atque tunc jam insolubilia; sed ligna, fenum, stipulam, id est, peccata minima, atque levissima, quae ignis facile consumat.",
+      "english": "Although what we have said above can be understood as referring to the fire of tribulation applied to us in this life, if anyone takes it to mean the fire of future purgation, we must carefully consider that he said the person can be saved through fire—not one who builds on this foundation iron, brass, or lead, that is, greater sins that are therefore harder and already insoluble, but wood, hay, and straw, that is, the smallest and lightest sins, which fire easily consumes.",
+      "notes": null
+    },
+    {
+      "chunk_id": 114,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc tamen sciendum est, quia illic saltem de minimis nil quisque purgationis obtinebit, nisi bonis hoc actibus in hac adhuc vita positus, ut illic obtineat, promereatur.",
+      "english": "Yet it must be known that no one will obtain any purification there, even for the smallest sins, unless while still placed in this life he merits it through good deeds, so that he may obtain it there.",
+      "notes": null
+    },
+    {
+      "chunk_id": 115,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "God's Wrath and Unchanging Justice",
+      "latin": "CAPUT XXII. De ira vel indignatione Dei.",
+      "english": "Chapter 22: God's Wrath and Unchanging Justice",
+      "notes": null
+    },
+    {
+      "chunk_id": 116,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ira omnipotentis Dei in hoc quotidie vim suae districtionis peragit, quod viventes indigne dignis suppliciis demergit (Moral. XII, c. 10, n. 14). Quae ira nunc equidem transit, sed in fine pertransit, quia modo agitur, sed in mundi termino consummatur. Iste furor quantum ad electorum animas, in Redemptoris nostri adventum pertransiit, quia eas ab inferni claustris ad paradisi gaudia mediator Dei et hominum, dum ipse illuc pie descenderet, reduxit.",
+      "english": "The wrath of almighty God daily carries out the force of his strict judgment in that he plunges those living unworthily into deserved punishments. This wrath is passing even now, but it will fully pass at the end, because it is now at work, but will be consummated at the world's end. This fury, as far as the souls of the elect are concerned, passed away at the coming of our Redeemer, because he—the mediator between God and humanity—brought them back from the prisons of hell to the joys of paradise when he descended there in mercy.",
+      "notes": null
+    },
+    {
+      "chunk_id": 117,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sciendum est quod furoris nomen Divinitati non congruit, quia naturam Dei simplicem perturbatio nulla confundit; unde ei dicitur: Tu autem dominator virtutis cum tranquillitate judicas, et cum magna reverentia disponis nos (Sap. XII, 18; Moral. XXXII, c. 7, n. 9). Creator omnium eo summe immortalis est, quo creaturae more mutabilis non est. Scriptum quippe est: Tu autem, Domine, cum tranquillitate judicas (Ibid.).",
+      "english": "We must know that the name of fury does not properly belong to the Divinity, because no disturbance confounds the simple nature of God. As the book of Wisdom, chapter twelve, verse eighteen says: 'You, Lord of power, judge with tranquility, and with great reverence you dispose of us.' The Creator of all is supremely immortal in that he is not changeable in the manner of creatures. For it is written: 'You, Lord, judge with tranquility.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 118,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et iterum: Deserta facta est terra a facie irae columbae, a facie furoris Domini (Jer. XXV, 38). Quod propheta iram columbae praedixerat, hoc furorem Domini subjunxit. Columba namque valde simplex est animal, et quia in Deum nulla furoris inaequalitas serpit, furorem Domini iram columbae nominavit. Ut vim divinae districtionis propheta imperturbabilem demonstraret, et iram dixit, et columbae; ac si apertius diceret: districtum judicium inconcussus exerit, qui permanens mansuetus punit.",
+      "english": "And again, from the prophet Jeremiah, chapter twenty-five, verse thirty-eight: 'The land has been made desolate before the wrath of the dove, before the fury of the Lord.' What the prophet foretold as the wrath of the dove, he then called the fury of the Lord. For the dove is a very simple creature, and because no inequality of fury creeps into God, he called the fury of the Lord the wrath of the dove. So that the prophet might demonstrate the undisturbed force of divine judgment, he spoke of both wrath and the dove—as if saying more openly: he who remains gentle exercises strict judgment, and punishes without disturbance.",
+      "notes": null
+    },
+    {
+      "chunk_id": 119,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Divine Chastisements: Purposes and Types",
+      "latin": "CAPUT XXIII. De flagellis divinis electis, vel reprobis illatis.",
+      "english": "Chapter 23: Divine Chastisements: Purposes and Types",
+      "notes": null
+    },
+    {
+      "chunk_id": 120,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Percussionum diversa sunt genera (Praef. in B. Job, c. 5, n. 12). Alia namque est percussio, qua peccator percutitur, ut sine retractatione puniatur; alia, qua peccator percutitur, ut corrigatur; alia, qua nonnunquam quisque percutitur, non ut praeterita corrigat, sed ne ventura committat; alia, qua plerumque percutitur, per quam nec praeterita culpa corrigitur, nec futura prohibetur; sed ut dum inopinata salus percussionem sequitur, salvantis virtus cognita ardentius ametur; cumque innoxius flagello atteritur, ei per patientiam meritorum summa cumuletur.",
+      "english": "There are different kinds of blows. One kind of blow is when a sinner is struck to be punished without possibility of retraction. Another is when a sinner is struck to be corrected. Another is when someone is sometimes struck, not to correct past sins, but to prevent future ones. Another is when someone is often struck, through which neither past guilt is corrected nor future sin prevented, but rather, when unexpected deliverance follows the blow, the power of the Savior becomes known and is loved more ardently; and when an innocent person is worn down by the scourge, the highest sum of merits is heaped up for him through patience.",
+      "notes": null
+    },
+    {
+      "chunk_id": 121,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aliquando peccator percutitur, ut absque retractatione puniatur, sicut periturae Judaeae dicitur: Plaga inimici percussi te castigatione crudeli (Jer. XXX, 14). Et rursum: Quid clamas ad me super contritione tua? Insanabilis est dolor tuus (Ibid., 15).",
+      "english": "Sometimes a sinner is struck to be punished without retraction, as is said to doomed Judea in the prophet Jeremiah, chapter thirty, verse fourteen: 'I have struck you with the blow of an enemy, with cruel chastisement.' And again, verse fifteen: 'Why do you cry out to me over your crushing? Your pain is incurable.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 122,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aliquando peccator percutitur, ut corrigatur, sicut cuidam in Evangelio dicitur: Ecce sanus factus es, jam noli peccare, ne tibi deterius aliquid contingat (Joan. V, 14). Verba enim Salvatoris indicant quia peccata praecedentia habiti vim doloris exigebant.",
+      "english": "Sometimes a sinner is struck to be corrected, as is said to someone in the Gospel of John, chapter five, verse fourteen: 'See, you have been made well; sin no more, lest something worse happen to you.' For the Savior's words indicate that previous sins demanded the force of suffering experienced.",
+      "notes": null
+    },
+    {
+      "chunk_id": 123,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aliquando quisque non pro praeterita culpa diluenda, sed pro futura vitanda percutitur, quod aperte Paulus de semetipso testatur, dicens: Ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meae, angelus Satanae, qui me colaphizet (II Cor. XII, 7). Qui enim non ait Quia extulit, sed Ne extollat, aperte indicat quod percussione illa, ne eveniat, compescitur, non autem, quae evenit, culpa purgatur.",
+      "english": "Sometimes someone is struck not to wash away past guilt, but to avoid future sin, as Paul openly testifies about himself in his second letter to the Corinthians, chapter twelve, verse seven: 'Lest the greatness of the revelations should exalt me, a thorn in my flesh was given to me, an angel of Satan to buffet me.' For since he does not say 'because it exalted' but 'lest it exalt,' he openly indicates that by that blow he is restrained lest it happen, not that guilt which has happened is purged.",
+      "notes": null
+    },
+    {
+      "chunk_id": 124,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnunquam quisque nec pro praeterita nec pro futura iniquitate percutitur, sed ut sola divinae virtutis potentia ex amputata percussione monstretur. Unde cum Domino in Evangelio de caeco nato diceretur: Hic peccavit, aut parentes ejus, ut caecus nasceretur (Joan. IX, 2)? Respondit Dominus, dicens: Neque hic peccavit, neque parentes ejus, sed ut manifestentur opera Dei (Ibid., 3). In qua manifestatione quid agitur, nisi ut ex flagello meritorum virtus augeatur, et cum nulla praeterita iniquitas tergitur, magna de patientia fortitudo generetur (Moral. XII, 38, n. 43)?",
+      "english": "Sometimes someone is struck neither for past nor future iniquity, but so that the power of divine virtue alone might be shown through the removal of the blow. Thus when it was said to the Lord in the Gospel of John, chapter nine, verse two, about the man born blind: 'Did this man sin, or his parents, that he was born blind?' The Lord answered, saying in verse three: 'Neither this man sinned, nor his parents, but that the works of God might be manifested.' In this manifestation, what is accomplished except that virtue of merits is increased by the scourge, and when no past iniquity is wiped away, great strength is generated from patience?",
+      "notes": null
+    },
+    {
+      "chunk_id": 125,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnipotens Deus prave agentibus, non solum ventura supplicia reservat, sed eorum corda hic etiam ubi delinquunt, poenis implicat, ut eo ipso quo peccant, semetipsos feriant, ut semper trepidi, semperque suspecti mala ab aliis pati metuant, quae se aliis fecisse meminerunt. Qui ita percutitur, ut vires illius a percussione superentur, non hunc Dominus jam quasi filium per disciplinam, sed quasi hostem per iram ferit (Moral. XIV, 37, n. 45). Cum virtutem nostrae patientiae flagella transeunt, valde metuendum est ne, peccatis nostris exigentibus, non quasi filii a patre, sed quasi hostes a Domino feriamur.",
+      "english": "Almighty God reserves not only future punishments for those acting wickedly, but also entangles their hearts here, even where they sin, with penalties, so that by the very act of sinning they strike themselves, always trembling, always suspicious, fearing to suffer from others the evils they remember having done to others. When someone is so struck that his strength is overcome by the blow, the Lord no longer strikes him as a son through discipline, but as an enemy through wrath. When blows exceed the strength of our patience, we must greatly fear lest, our sins demanding it, we be struck not as sons by a father, but as enemies by the Lord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 126,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The World's End and Its Sufferings",
+      "latin": "CAPUT XXIV. De variis percussionibus mundi.",
+      "english": "Chapter 24: The World's End and Its Sufferings",
+      "notes": null
+    },
+    {
+      "chunk_id": 127,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui Deum diligunt, ex mundi fine vel percussione gaudere atque hilarescere jubentur, quia videlicet eum quem amant mox inveniunt, dum transit is quem non amaverunt (Lib. I in Ev., homil. 1, n. 3). Absit ne fidelis quisque Deum videre non desideret, et de mundi percussionibus lugeat, quem finiri eis ipsis percussionibus non ignorat.",
+      "english": "Those who love God are commanded to rejoice and be glad at the world's end or its blows, because they will soon find the one they love, while that which they did not love passes away. God forbid that any faithful person should not desire to see God, and should mourn the world's blows, knowing that the world is being ended by those very blows.",
+      "notes": null
+    },
+    {
+      "chunk_id": 128,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scriptum est: Quicunque voluerit amicus esse saeculi hujus, inimicus Dei constituitur (Jacob. IV, 4). Qui ergo appropinquante mundi fine non gaudet, amicus illius esse testatur, ac per hoc inimicus Dei esse convincitur. Absit hoc a fidelium cordibus, ut de mundi fine non hilarescant. Absit ab his qui et esse aliam vitam per fidem credunt, et eam per operationem diligunt.",
+      "english": "It is written in the letter of James, chapter four, verse four: 'Whoever desires to be a friend of this world is constituted an enemy of God.' Therefore, whoever does not rejoice as the world's end approaches testifies that he is its friend, and is thereby proven to be an enemy of God. God forbid that it should be far from the hearts of the faithful that they not rejoice at the world's end. God forbid that this be true of those who believe through faith that another life exists, and love it through their actions.",
+      "notes": null
+    },
+    {
+      "chunk_id": 129,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ex mundi destructione lugere, eorum est qui radices cordis in ejus amore plantaverunt, qui sequentem vitam non quaerunt, qui illam neque esse suspicantur. Nos, qui illa coelestis patriae gaudia aeterna cognovimus, festinare ad ea quantocius debemus. Optandum nobis est citius pergere, atque ad illam vitam felicitate perpetua pervenire.",
+      "english": "To mourn the world's destruction belongs to those who have planted the roots of their hearts in love of it, who do not seek the life to come, who do not even suspect that it exists. We, who have come to know the eternal joys of the heavenly homeland, ought to hasten toward them as quickly as possible. We should desire to go more swiftly and to reach that life of perpetual happiness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 130,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quibus malis non mundus urgetur? Quae nos tristitia, quae adversitas non angustat? Quid est vita mortalis, nisi via? Et quale sit primo opere perpendamus, in labore viae lassescere, et tamen eamdem viam nolle finiri. Quod autem calcari mundus ac despici debeat, Redemptor noster provida comparatione manifestat, cum in Evangelio dicit: Videte ficulneam et omnes arbores, cum producunt jam ex se fructum, scitis quoniam prope est aestas. Ita et vos cum videritis haec fieri, scitote quoniam prope est regnum Dei. Ac si aperte dicens: Quia sicut ex fructu arborum vicina aestas agnoscitur; ita ex ruina mundi prope esse cognoscitur regnum Dei.",
+      "english": "By what evils is the world not pressed? What sorrow, what adversity does not afflict us? What is mortal life but a journey? And what a thing it is—consider it first—to grow weary in the labor of the journey, yet not wish for that same journey to end. But that the world should be trampled and despised, our Redeemer makes clear by a wise comparison when he says in the Gospel: 'Look at the fig tree and all the trees; when they now put forth fruit, you know that summer is near. So also, when you see these things happening, know that the kingdom of God is near.' As if saying openly: Just as the approach of summer is recognized from the fruit of trees, so from the ruin of the world the kingdom of God is known to be near.",
+      "notes": null
+    },
+    {
+      "chunk_id": 131,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Conversion of the Jews at the End",
+      "latin": "CAPUT XXV. De Judaici populi circa finem mundi conversionem.",
+      "english": "Chapter 25: The Conversion of the Jews at the End",
+      "notes": null
+    },
+    {
+      "chunk_id": 132,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sancta Ecclesia in primitiis suis multitudine gentium fecundata, vix in mundi fine Judaeos quos invenerit suscipiet (In Praef. l. IV, Mor. c. 4). Extrema colligens, eos quasi reliquias frugum ponet. De quibus Judaici populi reliquiis Esaias dicit: Si fuerit numerus filiorum Israel quasi arena maris, reliquiae salvae fient (Isai. X, 22).",
+      "english": "The holy Church, made fruitful in its beginnings by the multitude of nations, will scarcely at the world's end receive the Jews whom it finds. Gathering the last remnants, it will place them like the remnants of crops. Concerning these remnants of the Jewish people, the prophet Isaiah, chapter ten, verse twenty-two says: 'If the number of the children of Israel be as the sand of the sea, a remnant shall be saved.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 133,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Elia veniente, promittitur quod reducat corda filiorum ad patres eorum ut doctrina quae nunc a Judaeorum corde ablata est, tunc, miserante Domino, redeat, quando hoc de Domino intelligere coeperint filii, quod praedicaverunt patres (Malach. IV, 6; Moral. XI, c. 15, n. 24). Esau, qui tarde ad patrem redit, significat quod Judaicus populus ad placendum Deo sero revertitur (Lib. I in Ezech., homil. 6, n. 6). Cui hoc in benedictione dicitur: Tempusque erit, cum solvatur jugum de collo tuo (Gen. XXVII, 40).",
+      "english": "With Elijah's coming, it is promised that he will turn the hearts of the children back to their fathers—as the prophet Malachi, chapter four, verse six says—so that the teaching which has now been taken from the heart of the Jews will then return, the Lord having mercy, when the children begin to understand concerning the Lord what the fathers preached. Esau, who returns late to his father, signifies that the Jewish people returns late to pleasing God. To him this is said in the blessing in the book of Genesis, chapter twenty-seven, verse forty: 'And the time will come when you will shake off his yoke from your neck.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 134,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Judaicus populus in fine mundi liberabitur a servitute peccati, sicut scriptum est: Donec plenitudo gentium intraret, et sic omnis Israel salvus fieret (Rom. XI, 25). Et sicut Propheta ait: Si fuerit numerus filiorum Israel sicut arena maris, reliquiae salvae fient (Isai. X, 22). Sancta Ecclesia adhuc in hac vita posita pro laboribus quos sustinet duplicia munera recipit (Praef. in B. Job, c. X, n. 20); cum, susceptis, ut diximus, plene gentibus, in fine mundi Judaeorum etiam ad se corda convertit, sicut scriptum est: Donec plenitudo gentium intraret, et sic omnis Israel salvus fieret (Rom. XI, 25).",
+      "english": "The Jewish people will be freed from the servitude of sin at the world's end, as it is written in Paul's letter to the Romans, chapter eleven, verse twenty-five: 'Until the fullness of the Gentiles has come in, and so all Israel will be saved.' And as the Prophet says in Isaiah, chapter ten, verse twenty-two: 'If the number of the children of Israel be as the sand of the sea, a remnant shall be saved.' The holy Church, still placed in this life, receives double gifts for the labors it sustains, since, having received the Gentiles fully as we said, at the world's end it also converts the hearts of the Jews to itself, as it is written: 'Until the fullness of the Gentiles has come in, and so all Israel will be saved.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 135,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Times of Antichrist",
+      "latin": "CAPUT XXVI. De Antichristi temporibus.",
+      "english": "Chapter 26: The Times of Antichrist",
+      "notes": null
+    },
+    {
+      "chunk_id": 136,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Antiquus hostis extrema mundi atrocius tentaturus aggreditur, quia tanto fit ferventior ad saevitiam, quanto se viciniorem sentit ad poenam (Moral., lib. XXXIV, c. 1, n. 1). Considerat quippe quod juxta sit ut licentiam nequissimae libertatis amittat; et quantum brevitate temporis angustatur, tantum multiplicitate crudelitatis expanditur. In Apocalypsi dicitur: Vae terrae, et mari, quia descendit diabolus ad vos habens iram magnam, sciens quod modicum tempus habet (Apoc. XII, 12).",
+      "english": "The ancient enemy approaches to tempt more terribly at the world's end, because he becomes all the more fervent toward cruelty the closer he feels himself to punishment. For he considers that it is near that he should lose the license of his most wicked freedom; and the more he is constrained by the brevity of time, the more he expands in the multiplication of cruelty. In the book of Revelation, chapter twelve, verse twelve, it says: 'Woe to the earth and the sea, because the devil has come down to you having great wrath, knowing that he has little time.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 137,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc ergo in magnae irae fervorem se dilatat, ne qui in beatitudine stare non potuit in damnationis suae foveam cum paucis ruat. Quidquid diabolus nequiter valuerit, in fine mundi callidius exquirit; tunc cervicem superbiae altius erigit, et per damnatum illum quem gestat hominem omne quod temporaliter praevalet nequiter ostendit.",
+      "english": "Then he expands himself in the fervor of great wrath, lest he who could not stand in blessedness should fall into the pit of his own damnation with only a few. Whatever the devil has wickedly been able to do, he pursues more cunningly at the world's end. Then he raises the neck of pride higher, and through that damned man whom he carries, he wickedly displays all that temporarily prevails.",
+      "notes": null
+    },
+    {
+      "chunk_id": 138,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Idem Joannes ait: Cauda draconis trahebat tertiam partem stellarum coeli, et misit eas in terram (Ibid., XII, 4). Coelum namque est Ecclesia, quae in hac nocte vitae praesentis, dum in se innumeras sanctorum virtutes continet, radiantibus desuper sideribus fulget (Moral. lib. XXXII, c. 15, n. 25). Draconis cauda in terram stellas dejicit, quia illa Satanae extremitas, per audaciam assumpti hominis erecta, quosdam, quos velut electos Dei in Ecclesia invenit, obtinendo reprobos ostendit.",
+      "english": "The same John says in Revelation, chapter twelve, verse four: 'The dragon's tail drew a third part of the stars of heaven, and cast them to the earth.' For heaven is the Church, which in this night of the present life, while it contains in itself the countless virtues of the saints, shines with stars radiating from above. The dragon's tail casts stars to the earth, because that extremity of Satan, raised up through the audacity of the man he has assumed, shows certain ones whom he finds in the Church as if they were God's elect to be reprobate by prevailing over them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 139,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Stellas de coelo in terram cadere, est relicta nonnullos spe coelestium, illo duce ad ambitum gloriae saecularis inhiare. Iste igitur draco misit caudam, et extraxit tertiam partem stellarum (Moral., lib. IV, c. 10, n. 17). Draconis enim cauda stellarum pars trahitur, quia extrema persuasione Antichristi quidam qui videntur lucere rapientur.",
+      "english": "For stars to fall from heaven to earth means that some, abandoning the hope of heavenly things, under that leader's guidance gape after the pursuit of worldly glory. Therefore this dragon cast forth his tail and drew out a third part of the stars. For a part of the stars is drawn by the dragon's tail, because by the final persuasion of Antichrist, certain ones who seem to shine will be snatched away.",
+      "notes": null
+    },
+    {
+      "chunk_id": 140,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonnulli de Tribu Dan venire Antichristum ferunt, sicut per Jacob patriarcham dicitur: Fiat Dan coluber in via, cerastes in semita, et mordens ungulas equi, ut cadat ascensor ejus retro (Gen. XLIX, 17; Moral., lib. XXXI, c. 24, n. 43). Hoc in loco Dan et coluber asseritur, et mordens. Unde non immerito dum Israeliticus populus terras in castrorum partitione susciperet, primus Dan ad aquilonem castrametatus est: illum scilicet signans qui in corde suo dixerat: Sedebo in monte testamenti, in lateribus Aquilonis; ascendam super altitudinem nubium, similis ero Altissimo (Isai. XIV, 13).",
+      "english": "Some report that Antichrist will come from the tribe of Dan, as is said through the patriarch Jacob in the book of Genesis, chapter forty-nine, verse seventeen: 'Let Dan be a serpent in the way, a horned viper in the path, biting the horse's heels so that its rider falls backward.' In this place Dan is declared both serpent and biting. Hence not undeservedly, when the Israelite people received lands in the division of camps, Dan first camped toward the north—signifying him who said in his heart, as Isaiah chapter fourteen, verse thirteen records: 'I will sit on the mount of assembly, in the far reaches of the north; I will ascend above the heights of the clouds; I will make myself like the Most High.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 141,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De quo et per prophetam dicitur: A Dan auditus est fremitus equorum ejus (Jerem. VIII, 16). Antichristus scilicet non solum coluber, sed etiam cerastes vocatur. Kerata enim Graece cornua dicitur; serpensque hic cornutus esse perhibetur, per quem digne ejusdem Antichristi adventus asseritur, quia contra vitam fidelium cum morsu pestiferae praedicationis armatur etiam cornibus potestatis.",
+      "english": "And concerning him the prophet Jeremiah, chapter eight, verse sixteen says: 'From Dan was heard the snorting of his horses.' Antichrist is called not only serpent but also horned viper. For in Greek, kerata means horns, and this serpent is said to be horned, through which the coming of that same Antichrist is fittingly asserted, because against the life of the faithful he is armed not only with the bite of pestilent preaching but also with the horns of power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 142,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quis nesciat semitam angustiorem esse quam viam? Fit ergo Dan coluber in via, quia in praesentis vitae latitudine eos ambulare provocat, quibus quasi parcendo blanditur; sed in via mordet, quia eos, quibus libertatem tribuit, erroris sui veneno consumit. Fit cerastes in semita, quia quos fideles reperit, et sese ad praecepti coelestis angusta itinera constringentes, non solum nequitia callidae persuasionis impetit, sed etiam terrore potestatis premit; et in persecutionis languore, post beneficia fictae dulcedinis, exercet cornua potestatis.",
+      "english": "Who does not know that a path is narrower than a way? Therefore Dan becomes a serpent in the way, because in the breadth of the present life he provokes them to walk whom he flatters as if sparing them; but in the way he bites, because those to whom he grants liberty, he consumes with the venom of his error. He becomes a horned viper in the path, because those whom he finds faithful and constraining themselves to the narrow roads of heavenly commandment, he attacks not only with the wickedness of cunning persuasion but also oppresses with the terror of power; and in the languor of persecution, after the benefits of feigned sweetness, he exercises the horns of power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 143,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Equus iste, cujus ungulas cerastes mordere dicitur, hunc mundum insinuat, qui per elationem suam incursu labentium temporum spumat. Et quia Antichristus extrema mundi apprehendere nititur, cerastes iste equi ungulas mordere perhibetur. Ungulas quippe equi mordere, est extrema saeculi feriendo contingere: Ut cadat ascensor ejus retro (Gen. XLIX, 17). Plebs infidelis Judaea erroris sui laqueis capta, pro Christo Antichristum exspectat.",
+      "english": "This horse, whose hooves the horned viper is said to bite, suggests this world, which through its exaltation foams with the rushing of passing times. And because Antichrist strives to seize the world's extremities, this horned viper is said to bite the horse's hooves. To bite the horse's hooves is to strike and reach the world's end, 'so that its rider falls backward.' The faithless Jewish people, caught in the snares of their error, await Antichrist instead of Christ.",
+      "notes": null
+    },
+    {
+      "chunk_id": 144,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Bene Jacob eodem loco repente in electorum voce conversus est, dicens: Salutare tuum exspectabo, Domine (Ibid. 18), id est, non sicut infideles Antichristum, sed eum qui in redemptionem nostram venturus est verum credo fideliter Christum.",
+      "english": "Well does Jacob, in that same place, suddenly turn to speak in the voice of the elect, saying in verse eighteen: 'I will await your salvation, Lord'—that is, not like the faithless awaiting Antichrist, but I faithfully believe that the one who is to come for our redemption is the true Christ.",
+      "notes": null
+    },
+    {
+      "chunk_id": 145,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Salomon in Proverbiis ait: Et qui stultus apparuit, postquam in sublime elevatus est. Si enim intellexisset, ori imposuisset manum (Prov. XXX, 32; Moral., lib. XXX, c. 3, n. 10). Antichristus quippe in sublime elevabitur, cum Deum se esse mentietur. Sed elevatus in sublime stultus apparebit, quia in ipsa elatione sua per adventum veri Judicis deficiet. Quod si intellexisset, ori imposuisset manum, id est, si supplicium suum, cum superbire exorsus est, praevidisset, bene aliquando conditus, in tanta jactatione superbiae non fuisset elatus.",
+      "english": "Solomon says in the book of Proverbs, chapter thirty, verse thirty-two: 'He who appeared foolish after he was elevated on high—if indeed he had understood, he would have put his hand over his mouth.' For Antichrist will be elevated on high when he lies that he is God. But elevated on high he will appear foolish, because in that very exaltation he will fail at the coming of the true Judge. But if he had understood, he would have put his hand over his mouth—that is, if he had foreseen his punishment when he began to be proud, he who was once well hidden would not have been exalted in such boasting of pride.",
+      "notes": null
+    },
+    {
+      "chunk_id": 146,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In fallacia sua Antichristus gradietur, sed juxta breve tempus vitae praesentis ipsa sibi fallacia prosperabitur. Unde per Danielem prophetam dictum est: Robur datum est ei contra juge sacrificium, propter peccata, et prosternetur veritas in terra, et faciet et prosperabitur (Dan. VIII, 12). Quod Salomon ait: Incedit feliciter (Prov. XXX, 29; Moral., lib. XIV, c. 23, n. 27), hoc Daniel dicit: Faciet, prosperabitur.",
+      "english": "Antichrist will walk in his deceit, but according to the brief time of the present life, that very deceit will prosper for him. Hence it is said through the prophet Daniel, chapter eight, verse twelve: 'Strength was given to him against the continual sacrifice, because of sins, and truth will be cast down to the ground, and he will act and prosper.' What Solomon says in Proverbs, chapter thirty, verse twenty-nine, 'He walks prosperously,' this Daniel says: 'He will act and prosper.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 147,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scriptum quippe est de Antichristi temporibus: In diebus ejus stupebunt novissimi, et primos invadet horror (Job. XVIII, 20). Tanta enim tunc contra justos iniquitate effrenabitur, ut etiam electorum corda non parvo pavore feriantur. Ita ut in errorem inducantur, si fieri potest, etiam electi (Matth. XXIV, 24). Quod videlicet dicitur, non quia electi casuri sunt, sed magnis terroribus trepidaturi.",
+      "english": "For it is written of Antichrist's times in the book of Job, chapter eighteen, verse twenty: 'In his days the last ones will be stunned, and horror will invade the first.' For then he will be so unbridled in iniquity against the just that even the hearts of the elect will be struck with no small fear—as the Gospel of Matthew, chapter twenty-four, verse twenty-four says: 'So as to lead into error, if it were possible, even the elect.' This is said not because the elect will fall, but because they will tremble with great terrors.",
+      "notes": null
+    },
+    {
+      "chunk_id": 148,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc contra Antichristum certamen justitiae et novissimi electi habere narrantur et primi, quia scilicet et hi qui in fine mundi electi reperientur in morte carnis prosternendi sunt, et illi etiam qui a prioribus mundi partibus processerunt, Enoch scilicet et Elias, ad medium revocabuntur, et crudelitatis ejus saevitiam in sua adhuc mortali carne passuri sunt.",
+      "english": "Then both the last and the first of the elect are said to have the contest of justice against Antichrist, because both those who will be found elect at the world's end must be laid low in the death of the flesh, and those also who proceeded from the earlier parts of the world—namely Enoch and Elijah—will be called back to the middle, and will suffer the savagery of his cruelty still in their mortal flesh.",
+      "notes": null
+    },
+    {
+      "chunk_id": 149,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Antiquus hostis viribus suis traditus, pauco quidem in tempore, sed in multa contra nos virtute, laxatur (Moral., lib. XXXII, c. 15, n. 22, 23). Quem quia vis saevitiae ad crudelitatem dilatat, superna tamen misericordia dierum brevitate coangustat. Hinc enim per semetipsam Veritas dicit: Erit tunc tribulatio magna, qualis non fuit ab initio mundi usque modo, neque fiet (Matth. XXIV, 21). Hinc rursum ait: Nisi breviati fuissent dies illi, non fieret salva omnis caro (Ib., 22).",
+      "english": "The ancient enemy, given over to his own powers, is loosed for a short time indeed, but with much strength against us. Because the force of savagery expands him toward cruelty, yet heavenly mercy constrains him by the brevity of days. For Truth itself says in the Gospel of Matthew, chapter twenty-four, verse twenty-one: 'Then there will be great tribulation, such as has not been from the beginning of the world until now, nor ever will be.' And again it says in verse twenty-two: 'Unless those days had been shortened, no flesh would be saved.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 150,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia enim et superbos nos et infirmos Dominus conspicit, dies, quos singulariter malos intulit, misericorditer breviatos dicit (Moral. XXXII, c. 15, n. 27). Profecto ut et superbiam terreat de adversitate temporis, et infirmitatem refoveat de brevitate.",
+      "english": "Because the Lord sees us both proud and weak, he mercifully calls shortened the days he brought forth as singularly evil—certainly so that he might terrify pride by the adversity of the time, and comfort weakness by its brevity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 151,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Daniel Propheta, de Antichristi temporibus loquens, ait: Considerabam cornua decem, et ecce cornu aliud parvulum ortum est de medio eorum, et tria de cornibus primis evulsa sunt a facie ejus: et ecce oculi quasi oculi hominis erant in cornu isto, et os loquens ingentia (Dan. VII, 8). Quia enim per undenarium numerum transgressio exprimitur, hujus bestiae cornu undecimo ipse auctor transgressionis indicatur.",
+      "english": "The prophet Daniel, speaking of Antichrist's times, says in chapter seven, verse eight: 'I was considering the ten horns, and behold, another little horn sprang up from among them, and three of the first horns were plucked up before it; and behold, eyes like the eyes of a man were in this horn, and a mouth speaking great things.' Because transgression is expressed by the number eleven, the author of transgression himself is indicated by the eleventh horn of this beast.",
+      "notes": null
+    },
+    {
+      "chunk_id": 152,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod videlicet parvulum oritur, quia purus homo generatur: sed immaniter crescit, quia usque ad conjunctam sibi vim Angelicae fortitudinis proficit. Damnatus ille homo in fine mundi tria cornua, quae ante faciem sunt, evellit, quia ditioni suae regna totidem, quae sibi vicina sunt, subigit.",
+      "english": "It rises small because a mere man is generated, but it grows monstrously, because it advances even to the angelic strength joined to it. That damned man at the world's end will pluck up three horns that are before his face, because he will subjugate to his dominion three kingdoms that are near to him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 153,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cujus oculi sunt ut oculi hominis, sed os ingentia loquitur; quia in illo humana quidem forma cernitur, sed verbis suis ultra homines elevatur. Quod per Paulum Apostolum dicitur: Extollens se supra omne quod dicitur Deus, aut quod colitur (II Thess. II, 4), hoc Daniel propheta testatur dicens: Os loquens ingentia.",
+      "english": "His eyes are like the eyes of a man, but his mouth speaks great things, because in him human form is indeed seen, but by his words he is elevated beyond men. What is said through Paul the Apostle in his second letter to the Thessalonians, chapter two, verse four—'Exalting himself above all that is called God or that is worshiped'—this the prophet Daniel testifies, saying: 'A mouth speaking great things.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 154,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod vero illum vel Daniel ingentia eloqui, vel Paulus perhibet supra cultum deitatis extolli, hoc est, quod a beato Job divino eloquio cedro comparatur (Job XL, 12). More enim cedri quasi ad alta nititur, dum in omni fastu fallaciae, et virtutis robore, et culminis elatione prosperatur.",
+      "english": "That Daniel reports he speaks great things, and Paul testifies he is exalted above the worship of deity—this is what blessed Job compares to a cedar in divine discourse, chapter forty, verse twelve. For in the manner of a cedar he strives toward the heights, while he prospers in all the pomp of deceit, both in the strength of power and in the exaltation of his summit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 155,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Antichrist and His Members",
+      "latin": "CAPUT XXVII. De Antichristo vel ejus membris.",
+      "english": "Chapter 27: Antichrist and His Members",
+      "notes": null
+    },
+    {
+      "chunk_id": 156,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Fortitudo Antichristi non suis viribus roboratur, quia Satanae virtute in gloriam perditionis attollitur, sicut scriptum est: Consurget rex impudens facie, et intelligens propositiones, et roborabitur fortitudo ejus, sed non in viribus suis (Dan. VIII, 23; Moral. lib. XXXII, c. 15, n. 26).",
+      "english": "The strength of Antichrist is not strengthened by his own powers, because he is raised up to the glory of perdition by Satan's power, as it is written in the prophet Daniel, chapter eight, verse twenty-three: 'A king shall arise, shameless in face and understanding dark schemes, and his strength shall be made strong, but not by his own powers.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 157,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Daniel propheta de eodem Antichristo ait: Dejecit de fortitudine, et de stellis, et conculcavit eas, et usque ad Principem fortitudinis magnificatus est, et ab eo abstulit juge sacrificium et dejecit locum sanctificationis ejus. Robur autem datum ei est contra juge sacrificium propter peccata; et prosternetur veritas in terra (Ibid. 10, 11, 12).",
+      "english": "The prophet Daniel says of the same Antichrist in verses ten through twelve: 'He cast down some of the host and some of the stars, and trampled them, and he magnified himself even up to the Prince of the host, and from him he took away the continual sacrifice and cast down the place of his sanctuary. And strength was given to him against the continual sacrifice because of sins, and truth will be cast down to the ground.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 158,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ille principaliter damnatus homo est, qui alarum cymbalum vocatur (Isai. XVIII, 1; Moral. lib. XIII, c. 10, n. 13), quia hi qui per superbiam in altitudinem cogitationis evolant eumdem perversum hominem praedicando sonant. Quae scilicet terra recte trans flumina Aethiopiae esse perhibetur. Aethiopia etenim nigrum populum mittit; et omnem hominem mundus iste, quia peccatorem profert, quasi nigrum Aethiopia populum parit.",
+      "english": "That principally damned man is the one called the whirring of wings, as Isaiah chapter eighteen, verse one says, because those who fly through pride into the height of thought sound forth by preaching that same perverse man. This land is rightly said to be beyond the rivers of Ethiopia. For Ethiopia sends forth a black people, and this world brings forth every man as a sinner, just as Ethiopia produces a black people.",
+      "notes": null
+    },
+    {
+      "chunk_id": 159,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed terra cui vae dicitur trans flumina Aethiopiae esse perhibetur, quia damnatus ille homo tanta immensitate iniquus est, ut omnium peccantium peccata transcendat. Perversus ille homo in mari legatos mittit, quia ipse praedicatores suos in saeculum spargit. De quibus recte subditur qualiter mittantur, dum dicitur: In vasis papyri super aquas (Isai. XVIII, 1). Ex papyro quippe charta est. Quid itaque per papyrum nisi saecularis scientia designatur? Vasa ergo papyri sunt corda doctorum saecularium.",
+      "english": "But the land to which woe is said is reported to be beyond the rivers of Ethiopia, because that damned man is so immensely wicked that he transcends the sins of all who sin. That perverse man sends envoys on the sea, because he scatters his preachers throughout the world. Concerning them it is rightly added how they are sent, when it says in Isaiah chapter eighteen, verse one: 'In vessels of papyrus on the waters.' For from papyrus comes parchment. What therefore is designated by papyrus but secular learning? Therefore vessels of papyrus are the hearts of secular teachers.",
+      "notes": null
+    },
+    {
+      "chunk_id": 160,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Apocalypsi per Joannem dicitur: Vidi aliam bestiam ascendentem de terra (Apoc. XIII, 11; Moral. lib. XXXIII, c. 35, n. 59). Priorem quippe bestiam, id est, Antichristum, superiori descriptione narraverat. Post quem haec alia bestia ascendisse dicitur, quia post eum multitudo praedicatorum illius ex terrena potestate crassatur. De terra quippe ascendere est de terrena gloria superbire.",
+      "english": "In the book of Revelation, John says in chapter thirteen, verse eleven: 'I saw another beast ascending from the earth.' For he had narrated the first beast—that is, Antichrist—in the earlier description. After him this other beast is said to have ascended, because after him the multitude of his preachers is made thick from earthly power. For to ascend from the earth is to be proud of earthly glory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 161,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quae bestia habet duo cornua agni similia, quia per hypocrisim sanctitatis eam quam in se veraciter Dominus habuit singularem sibi inesse et sapientiam mentitur et vitam. Sed quia sub agni specie auditoribus reprobis serpentinum virus infunditur, recte illic subditur: Et loquebatur ut draco (Apoc. XIII, 11). Ista ergo bestia, id est praedicantium multitudo, si aperte ut draco loqueretur, agno similis non appareret; sed assumit agni speciem, ut draconis exerceat operationem.",
+      "english": "This beast has two horns like a lamb, because through the hypocrisy of holiness it falsely claims to possess in itself the unique wisdom and life that the Lord truly had. But because under the appearance of a lamb, serpentine poison is poured into reprobate hearers, it is rightly added there in verse eleven: 'And it spoke like a dragon.' Therefore this beast—that is, the multitude of preachers—if it spoke openly like a dragon, would not appear like a lamb; but it assumes the appearance of a lamb in order to carry out the operation of a dragon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 162,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Amaritudo perversarum mentium in hoc tempore non erumpit exterius in vocem pravae libertatis: veniet profecto tempus quando perversi atque carnales aperta voce praedicent quod nunc occulta cogitatione moliuntur (Moral., lib. XIX, c. 9, n. 15). Veniet tempus quando catholicam Ecclesiam non solum injustis vocibus, sed etiam crudelibus plagis premant.",
+      "english": "The bitterness of perverse minds does not in this time break out externally into the voice of depraved license. The time will certainly come when the perverse and carnal will preach with open voice what they now contrive in hidden thought. The time will come when they will oppress the Catholic Church not only with unjust voices but also with cruel blows.",
+      "notes": null
+    },
+    {
+      "chunk_id": 163,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Evangelio Veritas dicit: Surgent pseudo-christi et pseudo-prophetae, et dabunt signa magna et prodigia, ita ut in errorem mittantur, si fieri potest, etiam electi (Matth. XXIV, 24). Nunc fideles nostri mira faciunt, cum perversa patiuntur; tunc autem Antichristi satellites, etiam cum perversa inferunt, mira facturi sunt (Moral. lib. XXXII, c. 15, n. 24).",
+      "english": "In the Gospel, Truth says in Matthew chapter twenty-four, verse twenty-four: 'False christs and false prophets will arise, and will give great signs and wonders, so as to lead into error, if it were possible, even the elect.' Now our faithful ones work wonders when they suffer perverse things; but then the satellites of Antichrist will work wonders even as they inflict perverse things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 164,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pensamus quae erit humanae mentis illa tentatio temporibus Antichristi, quando pius martyr et corpus tormentis subjicit, et tamen ante ejus oculos miracula tortor facit. Cujus tunc virtus non ab ipso cogitationum fundo quatiatur, quando his qui flagris cruciat signis coruscat? Quia nimirum et altus tunc erit veneratione prodigii, et durus crudelitate tormenti. Non enim sola tunc potestate erigitur, sed etiam signorum ostensione fulcitur (N. 25).",
+      "english": "Let us consider what will be that temptation of the human mind in the times of Antichrist, when the devout martyr both subjects his body to torments, and yet before his eyes the torturer works miracles. Whose virtue will not then be shaken from the very depth of thoughts, when he who tortures with scourges flashes with signs? Because certainly he will then be exalted by veneration of the prodigy, and harsh by the cruelty of the torment. For he will not then be raised up by power alone, but will also be supported by the display of signs.",
+      "notes": null
+    },
+    {
+      "chunk_id": 165,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Surgent, inquit, pseudo-christi et pseudo-prophetae et dabunt signa magna et prodigia, ita ut in errorem inducantur, si fieri potest, etiam electi. Qua in re valde quaerendum est quomodo aut hi qui electi sunt induci in errorem possint, aut cur si fieri potest, quasi ex dubietate subditur, cum quid faciendum sit Dominus omnia praesciens praestolatur (Moral. XXXIII, c. 36, n. 61).",
+      "english": "He says: 'False christs and false prophets will arise and will give great signs and wonders, so as to lead into error, if it were possible, even the elect.' In this matter it must be greatly asked how those who are elect can be led into error, or why 'if it were possible' is added as if from doubt, when the Lord who foreknows all things awaits what is to be done.",
+      "notes": null
+    },
+    {
+      "chunk_id": 166,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Electorum cor temporibus Antichristi et trepida cogitatione concutietur, et tamen eorum constantia non movebitur. Una hac sententia Dominus utrumque complexus est, dicens: Ita ut in errorem inducantur, si fieri potest, etiam electi. Quasi enim jam errare est in cogitatione titubare; sed protinus si fieri potest subjungitur, quia procul dubio fieri non potest ut in errore plene electi capiantur.",
+      "english": "The heart of the elect in the times of Antichrist will be shaken by trembling thought, yet their constancy will not be moved. With this one sentence the Lord embraced both, saying: 'So as to lead into error, if it were possible, even the elect.' For to waver in thought is as if already to err; but immediately 'if it were possible' is added, because without doubt it cannot happen that the elect be fully caught in error.",
+      "notes": null
+    },
+    {
+      "chunk_id": 167,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Second Coming of Christ",
+      "latin": "CAPUT XXVIII. De secundo adventu Domini nostri Jesu Christi.",
+      "english": "Chapter 28: The Second Coming of Christ",
+      "notes": null
+    },
+    {
+      "chunk_id": 168,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Mediator Dei et hominum homo Christus Jesus sicut humilis venit ad passionem, ita in extremo judicio terribilis apparebit in reproborum ultione. Ipse Dominus in Evangelio ait: Virtutes coelorum commovebuntur, et tunc videbunt Filium hominis venientem in nubibus in potestate magna et majestate (Luc. XXI, 26, 27; Lib. I in Ev., hom. 1, n. 2).",
+      "english": "The Mediator between God and humanity, the man Christ Jesus, just as he came humbly to his passion, so will he appear terrible in the final judgment in the vengeance upon the reprobate. The Lord himself says in the Gospel of Luke, chapter twenty-one, verses twenty-six and twenty-seven: 'The powers of heaven will be shaken, and then they will see the Son of Man coming in clouds with great power and majesty.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 169,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid enim Dominus virtutes coelorum, nisi angelos, archangelos, thronos, dominationes, principatus et potestates, appellat? Quae angelorum multitudo in adventu districti Judicis nostris tunc oculis visibiliter apparebunt, ut stricte tunc a nobis exigant hoc quod nos modo invisibilis conditor aequanimiter portat. In potestate et majestate Christum visuri sunt, quem in humilitate positum audire noluerunt, ut virtutem ejus tanto tunc districtius sentiant, quanto nunc cervicem cordis ad ejus patientiam non inclinant.",
+      "english": "For what does the Lord call the powers of heaven but angels, archangels, thrones, dominations, principalities, and powers? This multitude of angels will appear visibly to our eyes at the coming of the strict Judge, so that they may then strictly demand from us what the invisible Creator now bears with us equably. They will see Christ in power and majesty who refused to hear him when he was placed in humility, so that they may then feel his power all the more strictly as they now do not incline the neck of their heart to his patience.",
+      "notes": null
+    },
+    {
+      "chunk_id": 170,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Isaias propheta ait: Dominus ad judicium veniet cum senioribus populi sui et principibus ejus (Isai. III, 14; Moral. XXVI, c. 27, n. 51). Cum eis Christus ad judicium veniet, de quibus ipse in Evangelio dicit: Vos, qui secuti estis me, in regeneratione, cum sederit Filius hominis in sede majestatis suae, sedebitis et vos super duodecim sedes, judicantes duodecim tribus Israel (Matth. XIX, 28).",
+      "english": "The prophet Isaiah says in chapter three, verse fourteen: 'The Lord will come to judgment with the elders of his people and its princes.' Christ will come to judgment with those of whom he himself says in the Gospel of Matthew, chapter nineteen, verse twenty-eight: 'You who have followed me, in the regeneration, when the Son of Man sits on the throne of his majesty, you also will sit on twelve thrones, judging the twelve tribes of Israel.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 171,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc judicium, cum ad retributionem sanctae Ecclesiae Salomon propinquare conspiceret, dixit: Nobilis in portis vir ejus, quando sederit cum senatoribus terrae (Prov. XXXI, 23). Ac si aperte dicat: Quia ultimi judicii sententiam cum sanctis ejusdem Ecclesiae praedicatoribus decernit.",
+      "english": "When Solomon saw this judgment approaching for the reward of the holy Church, he said in the book of Proverbs, chapter thirty-one, verse twenty-three: 'Her husband is noble in the gates, when he sits with the senators of the land.' As if saying openly: Because he pronounces the sentence of the final judgment with the holy preachers of that same Church.",
+      "notes": null
+    },
+    {
+      "chunk_id": 172,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Resurrection of the Dead",
+      "latin": "CAPUT XXIX. De resurrectione mortuorum.",
+      "english": "Chapter 29: The Resurrection of the Dead",
+      "notes": null
+    },
+    {
+      "chunk_id": 173,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sunt nonnulli qui de resurrectione carnis incerti sunt, et dum carnem in putredinem ossaque in pulverem redigi per sepulcra conspiciunt, reparari ex pulvere carnem et ossa diffidunt; sicque apud se quasi ratiocinantes dicunt: Quando ex pulvere homo reducitur? quando agitur, ut cinis animetur (Lib. II in Ev., homil. 26, n. 12)?",
+      "english": "There are some who are uncertain about the resurrection of the flesh, and when they see flesh reduced to rot and bones to dust through the graves, they doubt that flesh and bones can be restored from dust. And so, reasoning among themselves, they say: When is man brought back from dust? When does it happen that ash is animated?",
+      "notes": null
+    },
+    {
+      "chunk_id": 174,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Longe minus est Deo reparare quod fuit, quam creasse quod non fuit. Aut quid mirum, si hominem ex pulvere resuscitet, qui simul omnia ex nihilo creavit? mirabilius est Deo coelum ac terram ex nullis existentibus rebus condidisse, quam ipsum hominem ex terra reparare.",
+      "english": "It is far less for God to restore what has been than to create what has not been. Or what wonder is it if he raises man from dust, who created all things at once from nothing? It is more wonderful for God to have established heaven and earth from things that did not exist than to restore man himself from earth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 175,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hominis mortui cinis in sepulcro attenditur, et in carnem redire posse desperatur, et divinae operationis virtus comprehendi quasi ex ratione quaeritur. Quid mirum est, si ossa, nervos, carnem capillosque, Deus reducat ex pulvere, qui lignum, fructus, folia in magna mole arboris ex parvo quotidie semine restaurat?",
+      "english": "The ash of a dead man is observed in the grave, and it is despaired that it can return to flesh, and the power of divine operation is sought to be comprehended as if by reason. What wonder is it if God restores bones, sinews, flesh, and hair from dust, who daily restores wood, fruits, and leaves in the great mass of a tree from a small seed?",
+      "notes": null
+    },
+    {
+      "chunk_id": 176,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum ergo dubitans animus de resurrectionis potentia rationem quaerit, earumdem rerum ei quaestiones inferendae sunt, quae et incessanter fiunt, et tamen ratione comprehendi nequaquam possunt. Ut dum non valet ex visione rei penetrare quod conspicit, de promissione divinae potentiae credat quod audit.",
+      "english": "When therefore the doubting mind seeks a rational explanation for the power of resurrection, questions must be brought to it about those very things that are done continually yet cannot at all be comprehended by reason—so that while it cannot penetrate by seeing what it beholds, it may believe from the promise of divine power what it hears.",
+      "notes": null
+    },
+    {
+      "chunk_id": 177,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "David psalmista ait: Exsurge, Domine, in requiem tuam, tu et arca sanctificationis tuae (Psal. CXXXI, 8; lib. II in Ezech., homil. 8, n. 6). Exsurrexit enim Dominus in requiem suam, cum carnem suam de sepulcro suscitavit. Post hunc quoque exsurgit et arca, quia resurgit Ecclesia.",
+      "english": "David the psalmist says in Psalm one hundred thirty-one, verse eight: 'Arise, Lord, into your rest, you and the ark of your sanctification.' For the Lord arose into his rest when he raised his flesh from the tomb. After him the ark also arises, because the Church rises.",
+      "notes": null
+    },
+    {
+      "chunk_id": 178,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per Ezechielem prophetam dicitur: Ossa arida, audite verbum Domini. Haec dicit Dominus Deus ossibus his: Ecce ego intromittam in vobis spiritum, et vivetis (Ezech. XVII, 4 seq.). Hinc est quod propheta alius per resurrectionem humanum genus vidit in fine suscitari atque ait: Vivificabit nos post duos dies, in die tertia suscitabit nos, et vivemus in conspectu ejus (Osee, VI, 3).",
+      "english": "Through the prophet Ezekiel, chapter seventeen, verses four and following, it says: 'Dry bones, hear the word of the Lord. Thus says the Lord God to these bones: Behold, I will cause spirit to enter into you, and you shall live.' Hence it is that another prophet saw the human race raised up at the end through resurrection and says in the prophet Hosea, chapter six, verse three: 'He will revive us after two days; on the third day he will raise us up, and we shall live in his sight.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 179,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum de semetipso Dominus loqueretur, ait: Nolite mirari hoc, quia venit hora in qua omnes qui in monumentis sunt audient vocem ejus. Et procedent qui bona fecerunt in resurrectionem vitae; qui vero mala egerunt, in resurrectionem judicii (Joan. V, 28, 29).",
+      "english": "When the Lord spoke about himself, he said in the Gospel of John, chapter five, verses twenty-eight and twenty-nine: 'Do not marvel at this, for the hour is coming in which all who are in the tombs will hear his voice. And they will come forth—those who have done good, to the resurrection of life; but those who have done evil, to the resurrection of judgment.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 180,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hinc Paulus ait: Unde etiam Salvatorem exspectamus Dominum Jesum Christum, qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae (Philip. III, 20). Hinc iterum dicit: Si enim credimus quod Jesus mortuus est, et resurrexit; ita et Deus eos qui dormierunt per Jesum adducet cum eo (I Thess. IV, 14). Qui rursus ait: Primitiae dormientium Christus (I Cor. XV, 20). Si enim nos a mortis somno non resurgimus, quomodo resurrectionem dominicam primitias habemus?",
+      "english": "Hence Paul says in his letter to the Philippians, chapter three, verse twenty: 'From which also we await the Savior, the Lord Jesus Christ, who will transform the body of our humility, conformed to the body of his glory.' Hence again he says in his first letter to the Thessalonians, chapter four, verse fourteen: 'For if we believe that Jesus died and rose again, even so God will bring with him those who sleep through Jesus.' Who again says in his first letter to the Corinthians, chapter fifteen, verse twenty: 'Christ the firstfruits of those who have fallen asleep.' For if we do not rise from the sleep of death, how do we have the resurrection of the Lord as firstfruits?",
+      "notes": null
+    },
+    {
+      "chunk_id": 181,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce veteres ac novi Patres uno sibi spiritu de carnis resurrectione concordant (Lib. II in Ezech., hom. 8, n. 7). Ecce ipsa per se Veritas prius voce docuit, quod de resurrectione carnis postmodum opere demonstravit; et tamen adhuc quorumdam infirmitas fidem non habet, in domo fidei stans.",
+      "english": "Behold, the old and new Fathers agree with one spirit about the resurrection of the flesh. Behold, Truth itself first taught by voice what it afterward demonstrated by deed concerning the resurrection of the flesh; and yet still the weakness of some has no faith, though standing in the house of faith.",
+      "notes": null
+    },
+    {
+      "chunk_id": 182,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ipsa nobis elementa, ipsae rerum species resurrectionis imaginem praedicant. Sol enim quotidie nostris oculis moritur, quotidie resurgit. Stellae matutinis horis nobis occidunt, vespere resurgunt. Arbusta aestivis temporibus plena foliis ac fructibus videmus, quae hiemali tempore nuda foliis, floribus, ac fructibus, et quasi arida remanent; sed vernali sole redeunte, cum a radice humor surrexerit, suo iterum decore vestiuntur.",
+      "english": "The very elements themselves, the very appearances of things, proclaim to us the image of resurrection. For the sun daily dies to our eyes and daily rises. The stars set for us in the morning hours and rise in the evening. We see trees full of leaves and fruits in summer, which in winter remain bare of leaves, flowers, and fruits, and as if dried up; but when the spring sun returns, when moisture rises from the root, they are clothed again in their beauty.",
+      "notes": null
+    },
+    {
+      "chunk_id": 183,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cur ergo de hominibus diffiditur, quod fieri in lignis videtur? Saepe infidi homines, dum pulverem putrescentis carnis aspiciunt, dicunt: Unde caro et capilli poterunt in resurrectione reparari? Haec itaque requirentes parva semina ingentium arborum videant, atque, si possunt, dicant: Ubi in eis latet tanta moles roboris, tanta diversitas ramorum, tanta multitudo et viriditas foliorum, tanta species florum, tanta ubertas, sapor, atque odor fructuum?",
+      "english": "Why then is it doubted concerning men what is seen to happen in trees? Often faithless men, when they look at the dust of rotting flesh, say: From where will flesh and hair be able to be restored in the resurrection? Therefore, seeking these things, let them see the small seeds of huge trees, and if they can, let them say: Where in them is hidden such a mass of strength, such a diversity of branches, such a multitude and greenness of leaves, such an appearance of flowers, such an abundance, taste, and smell of fruits?",
+      "notes": null
+    },
+    {
+      "chunk_id": 184,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nunquidnam semina arborum odorem vel saporem habent quem ipsae post arbores in suis fructibus proferunt? Si ergo ex semine arboris, quod videri non potest, produci potest, cur de pulvere carnis humanae diffiditur quia ex eo reparari forma valeat quae non videtur?",
+      "english": "Do the seeds of trees have the smell or taste that the trees themselves afterward put forth in their fruits? If therefore it can be produced from a tree's seed, which cannot be seen, why is it doubted concerning the dust of human flesh that from it can be restored the form which is not seen?",
+      "notes": null
+    },
+    {
+      "chunk_id": 185,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si non potes resurrectionis effectum ratione comprehendere, perpende quanta multa sunt quae non intelligis, qualiter sint, et tamen esse non dubitas (N. 7). Dic, rogo, si nosti gyrum coeli, terrae cardines, aquarum abyssos, ubi finiuntur, ubi suspensi sunt? Scimus autem quia quod ex nihilo factum est pendet in nihilo. Cur de resurrectionis gloria disputando et discutiendo dubitas, qui tam multa mysteria sine discussione credidisti (N. 10)?",
+      "english": "If you cannot comprehend the effect of resurrection by reason, consider how many things there are that you do not understand how they are, and yet you do not doubt that they are. Tell me, I ask, if you know the circuit of heaven, the hinges of the earth, the abysses of the waters, where they end, where they are suspended? But we know that what was made from nothing hangs in nothing. Why do you doubt the glory of resurrection by disputing and examining it, you who have believed so many mysteries without examination?",
+      "notes": null
+    },
+    {
+      "chunk_id": 186,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qui tamen si resurrectionem carnis non credis, omnia sine causa credidisti, quia in hoc angelorum spectaculo videris quidem velociter currere, sed postquam cursum peregeris, ne bravium accipias, adversaris. Per Paulum apostolum dicitur: Sic currite, ut comprehendatis (I Cor. IX, 24). Qui rursus ait: Si in hac vita in Christo tantum sperantes sumus, miserabiliores sumus omnibus hominibus (I Cor. XV, 19).",
+      "english": "Yet if you do not believe in the resurrection of the flesh, you have believed everything for nothing, because in this spectacle of angels you seem indeed to run swiftly, but after you have completed the course, you oppose receiving the prize. Through Paul the apostle it says in his first letter to the Corinthians, chapter nine, verse twenty-four: 'Run in such a way that you may obtain it.' Who again says in chapter fifteen, verse nineteen: 'If in this life only we have hope in Christ, we are of all men most miserable.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 187,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Divinae autem virtutis mysteria, quae comprehendi non possunt, non intellectu discutienda sunt, sed fide veneranda. Sciendum nobis est quia quidquid ratione hominis comprehendi potest mirum esse jam non potest, sed sola est in miraculis ratio potentia facientis.",
+      "english": "But the mysteries of divine power, which cannot be comprehended, are not to be examined by understanding but venerated by faith. We must know that whatever can be comprehended by human reason can no longer be wonderful, but the only reason in miracles is the power of the one who does them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 188,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicut citius homo dormiens excitatus a somno vigilat, ita concite ad conditoris nutum a morte corporis resurgit. Praedicator egregius mortem Domini mortem vocat: mortem autem servorum Domini non mortem, sed somnum nominat, quia infirma corda audientium respiciens medicamentum praedicationis suae mira arte componit; et illum, quem jam resurrexisse noverant, eis mortuum insinuare non dubitat (Moral., lib. XII, c. 8, n. 12).",
+      "english": "Just as a sleeping man, roused from sleep, awakens more quickly, so he rises swiftly at the Creator's nod from the death of the body. The excellent preacher calls the death of the Lord death, but the death of the Lord's servants he calls not death but sleep, because looking to the weak hearts of his hearers, he composes the medicine of his preaching with wonderful art; and he does not hesitate to suggest to them as dead him whom they knew had already risen.",
+      "notes": null
+    },
+    {
+      "chunk_id": 189,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Eos vero, qui necdum resurrexerant, ut spem resurrectionis insinuet, non mortuos, sed dormientes vocat. Non verebatur Apostolus dicere Christum mortuum, quem auditores jam resurrexisse cognoverant, et verebatur dicere mortuos, quos resurgere vix credebant.",
+      "english": "But those who had not yet risen, to suggest the hope of resurrection, he calls not dead but sleeping. The Apostle was not afraid to say Christ was dead, whom his hearers knew had already risen, and he was afraid to say dead those whom they scarcely believed would rise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 190,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In illa resurrectionis gloria erit corpus nostrum subtile quidem per effectum spiritualis potentiae, sed palpabile per veritatem naturae. De vera corporis resurrectione beatus Job loquens, ait: Rursum circumdabor pelle mea, et in carne mea videbo Deum, quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius (Job, XIX, 26; Moral., lib. XIV, c. 56, n. 72, 76).",
+      "english": "In that glory of resurrection our body will be subtle indeed through the effect of spiritual power, but palpable through the truth of nature. Blessed Job, speaking of the true resurrection of the body, says in chapter nineteen, verse twenty-six: 'Again I shall be clothed with my skin, and in my flesh I shall see God, whom I myself shall behold, and my eyes shall look upon, and not another.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 191,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce veram resurrectionem: ecce pellem, ecce carnem apertis vocibus fatetur. Quid ergo remanet, unde possit mens nostra dubitare? Nos autem beati Job fidem sequentes, et Redemptoris nostri post resurrectionem corpus palpabile veraciter credentes, fatemur carnem nostram post resurrectionem futuram et eamdem et diversam: eamdem per naturam, diversam per potentiam (Cap. 57, n. 77).",
+      "english": "Behold the true resurrection: behold he confesses with open words skin, behold flesh. What then remains by which our mind can doubt? But we, following the faith of blessed Job, and truly believing that our Redeemer's body after resurrection was palpable, confess that our flesh after resurrection will be both the same and different: the same by nature, different by power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 192,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Erit post resurrectionem caro nostra subtilis, erit palpabilis, quia non amittet essentiam veracis naturae. In terra videlicet mortui, non spiritu, sed corpore descendunt (Lib. II in Ezech., homil. 8, n. 6). In conspectu ergo Domini procedunt, qui in terram descendunt, quia resurgendo ad judicium veniunt, qui nunc in pulvere putrescunt, sicut scriptum est: In conspectu ejus procedent universi qui descendunt in terram (Psal. XXI, 29).",
+      "english": "After resurrection our flesh will be subtle, it will be palpable, because it will not lose the essence of true nature. In the earth the dead descend, not in spirit but in body. Therefore they proceed in the sight of the Lord who descend into the earth, because they come to judgment by rising, who now rot in dust, as it is written in the Psalms, chapter twenty-one, verse twenty-nine: 'In his sight shall proceed all who descend into the earth.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 193,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Idem Psalmista iterum dicit: Sitivit in te anima mea, quam multipliciter et caro mea (Psal. LXII, 2). Sitit anima, ut Deum videat. Caro, quid sitit, nisi ut resurgat? Hinc rursum ait: Aufer spiritum eorum, et deficient, et in pulverem suum revertentur (Psal. CIII, 29). Moxque de carnis resurrectione subjungit: Emitte spiritum tuum, Deus, et creabuntur, et renovabis faciem terrae (Ibid. 30).",
+      "english": "The same psalmist again says in Psalm sixty-two, verse two: 'My soul has thirsted for you, how manifold also has my flesh.' The soul thirsts to see God. The flesh, what does it thirst for but to rise again? Hence again he says in Psalm one hundred three, verse twenty-nine: 'Take away their spirit, and they will fail, and will return to their dust.' And immediately he adds about the resurrection of the flesh in verse thirty: 'Send forth your Spirit, God, and they shall be created, and you shall renew the face of the earth.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 194,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Dreadful Judgment of the Eternal King",
+      "latin": "CAPUT XXX. De tremendo aeterni Regis judicio.",
+      "english": "Chapter 30: The Dreadful Judgment of the Eternal King",
+      "notes": null
+    },
+    {
+      "chunk_id": 195,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnipotens Deus Filius, cum Judex mortuorum ac vivorum advenerit, et blandus justis, et terribilis apparebit injustis (Lib. II in Ev., homil. 21, n. 3). Istos in judicium veniens per lenitatis mansuetudinem demulcet. Illos vero per justitiae districtionem terret.",
+      "english": "God the Almighty Son, when he comes as Judge of the dead and the living, will appear both gentle to the just and terrible to the unjust. Coming to judgment, he caresses the former through the gentleness of mercy, but terrifies the latter through the strictness of justice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 196,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tempestas cum oritur, prius lenes undae, et postmodum volumina majora concitantur; ad extremum fluctus se in alta erigunt, et navigantes quosque ipsa sua altitudine subvertunt (Moral., lib. XXI, c. 22, n. 35). Sic sic nimirum extrema illa properat, quae universum mundum subruat, tempestas animarum. Tempestas futuri judicii nunc bellis et cladibus, quasi quibusdam undis sua nobis exordia ostendit; et quanto ad finem quotidie propinquiores efficimur, tanto graviora irruere tribulationum volumina videmus.",
+      "english": "When a storm arises, first gentle waves, and afterward greater swellings are stirred up; finally the waves raise themselves to the heights, and overturn all navigators by their very height. So, so indeed that final tempest hastens, which will overthrow the entire world, a tempest of souls. The tempest of the coming judgment now shows us its beginnings with wars and calamities, like certain waves; and the closer we become daily to the end, the more we see heavier volumes of tribulations rushing in.",
+      "notes": null
+    },
+    {
+      "chunk_id": 197,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad extremum vero, commotis omnibus elementis, supernus Judex veniens finem omnium apportat, quia videlicet et tunc tempestas fluctus in coelum levat; unde et dicitur: Adhuc modicum et ego movebo non solum terram, sed etiam coelum (Aggae. II, 7). Quam scilicet tempestatem, quia sancti viri vigilanter aspiciunt, quasi tumentes super se quotidie fluctus expavescunt, atque ex tribulationibus quae mundum feriunt praevident quae sequantur.",
+      "english": "But finally, when all elements are shaken, the Judge from above coming brings the end of all, because then indeed the tempest lifts the waves to heaven; whence it is also said in the prophet Haggai, chapter two, verse seven: 'Yet once more, and I will shake not only the earth but also heaven.' This tempest, because holy men watchfully behold it, they tremble daily as if swelling waves were upon them, and from the tribulations that strike the world they foresee what will follow.",
+      "notes": null
+    },
+    {
+      "chunk_id": 198,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid tremendus Judex facturus est, cum per semetipsum venerit, et in ultionem peccatorum ira ejus exarserit, si nunc portari non potest, cum nos per tenuissimam nubem ferit (Lib. I in Evang., homil. 1, n. 6)? In irae ejus praesentia quae caro subsistet, si ventum movit, et terram subruit, concitavit aera et tot aedificia stravit? Hanc districtionem venturi Judicis Paulus considerans, ait: Horrendum est incidere in manus Dei viventis (Hebr. X, 3).",
+      "english": "What will the dreadful Judge do when he comes in himself and his wrath burns for the vengeance of sins, if now it cannot be endured when he strikes us through the thinnest cloud? In the presence of his wrath what flesh will stand, if he moved the wind and overthrew the earth, stirred the air and laid low so many buildings? Paul, considering this strictness of the coming Judge, says in his letter to the Hebrews, chapter ten, verse three: 'It is a fearful thing to fall into the hands of the living God.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 199,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hanc Psalmista exprimit, dicens: Deus manifeste veniet, Deus noster, et non silebit. Ignis in conspectu ejus ardebit, et in circuitu ejus tempestas valida (Psal. XLIX, 3). Districtionem quippe tantae justitiae tempestas ignisque comitantur, quia tempestas examinat quos ignis exurat.",
+      "english": "The psalmist expresses this, saying in Psalm forty-nine, verse three: 'God shall come manifestly, our God, and shall not be silent. Fire shall burn before him, and round about him a mighty tempest.' For the tempest and fire accompany the strictness of such justice, because the tempest examines those whom the fire will consume.",
+      "notes": null
+    },
+    {
+      "chunk_id": 200,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per Sophoniam prophetam dicitur: Juxta est dies Domini magnus, et velox nimis. Vox diei Domini amara, tribulabitur ibi fortis. Dies irae, dies illa, dies tribulationis et angustiae, dies calamitatis et miseriae, dies tenebrarum et caliginis, dies nebulae et turbinis, dies tubae et clangoris super omnes civitates munitas, et super omnes angulos excelsos (Sophon. I, 14 seq.).",
+      "english": "Through the prophet Zephaniah, chapter one, verses fourteen and following, it says: 'Near is the great day of the Lord, and exceedingly swift. The voice of the day of the Lord is bitter; the strong man shall be troubled there. That day is a day of wrath, a day of tribulation and distress, a day of calamity and misery, a day of darkness and obscurity, a day of clouds and whirlwind, a day of trumpet and alarm over all fortified cities and over all lofty corners.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 201,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dies Domini vindictae, atque animadversionis plena super civitates munitas et super angulos excelsos venit, quia ira extremi judicii humana corda et defensionibus contra veritatem clausa destruit, et duplicitatibus involuta dissolvit (Reg. Past., part. III, c. 12). Tunc munitae civitates cadunt, quia mentes Deo impenetratae damnabuntur. Tunc excelsi anguli corruunt, quia corda quae se per impuritatis prudentiam erigunt per justitiae sententiam prosternuntur.",
+      "english": "The day of the Lord full of vengeance and punishment comes upon fortified cities and upon lofty corners, because the wrath of the final judgment destroys human hearts both closed by defenses against truth and dissolves them wrapped in duplicities. Then fortified cities fall, because minds impenetrable to God will be condemned. Then lofty corners collapse, because hearts that raise themselves through the prudence of impurity are cast down by the sentence of justice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 202,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De hac die judicii Dominus iterum per prophetam dicit: Adhuc semel, et ego movebo non solum terram, sed etiam et coelum (Aggae. II, 22; Lib, I in Evang., homil. 1, n. 9). Si cum aerem movit, et terra non subsistit, quis ferat, cum coelum moverit? Terrores quos modo cernimus sequentis irae praecones sunt.",
+      "english": "Concerning this day of judgment the Lord again says through the prophet Haggai, chapter two, verse twenty-two: 'Yet once more, and I will shake not only the earth but also heaven.' If when he moved the air, the earth does not stand, who will endure when he moves heaven? The terrors we now see are heralds of the coming wrath.",
+      "notes": null
+    },
+    {
+      "chunk_id": 203,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde considerare necesse est quia ab illa tribulatione ultima tantum sunt tribulationes istae dissimiles, quantum a potentia judicis persona praeconis distat. Illum ergo terribilem diem tota intentione cogitemus, vitam moresque corrigamus, mala tentantia resistendo vincamus, perpetrata autem fletibus puniamus. Adventum namque aeterni Judicis tanto securiores quandoque videbimus, quanto nunc districtionem illius timendo praevenimus.",
+      "english": "Hence it is necessary to consider that these tribulations are as different from that final tribulation as the person of the herald is distant from the power of the judge. Therefore let us ponder that terrible day with all intentness, let us correct our life and conduct, let us conquer tempting evils by resisting, and let us punish those perpetrated with tears. For we will someday see the coming of the eternal Judge all the more securely as we now anticipate his strictness by fearing it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 204,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In tremendi Judicis examine electi omnes a reprobis divisi gaudebunt, quia cum iniquos omnes extrema ultio percutit, ipsi de gloria dignae retributionis hilarescunt (Moral. VI, c. 30, n. 48). In aeterna vita justi constituti damnatis jam tunc ex humanitate non compatiuntur, quia divinae justitiae per speciem inhaerentes inconcusso districtionis intimae vigore solidantur.",
+      "english": "In the examination of the dreadful Judge, all the elect, separated from the reprobate, will rejoice, because when final vengeance strikes all the wicked, they themselves rejoice in the glory of worthy retribution. The just, established in eternal life, do not then sympathize from humanity with the damned, because cleaving to divine justice through vision, they are made solid by the unshaken vigor of inner strictness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 205,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Redemptori generis humani ad aedificationem nostram minime sufficit quod in extremo judicio dicturum se esse perhibuit: Quandiu fecistis uni ex his fratribus meis minimis, mihi fecistis (Matth. XXV, 40; Lib. II in Evang., homil. 39, n. 10), nisi et ante judicium hoc in se ostenderet quod dixisset, ut videlicet demonstraret quia bona quisquis nunc opera indigentibus exhibet, ei haec specialiter impendit, cujus haec amore exhibuerit.",
+      "english": "It is hardly sufficient for the Redeemer of the human race for our edification that he declared he would say in the final judgment, as the Gospel of Matthew, chapter twenty-five, verse forty records: 'As long as you did it to one of these my least brothers, you did it to me'—unless he also showed in himself before judgment what he had said, so that he might demonstrate that whoever now performs good works for the needy, renders them especially to him, for love of whom he has performed them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 206,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Fruitless Repentance of the Reprobate",
+      "latin": "CAPUT XXXI. De poenitentia reproborum sine fructu.",
+      "english": "Chapter 31: Fruitless Repentance of the Reprobate",
+      "notes": null
+    },
+    {
+      "chunk_id": 207,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aeterno Judice veniente, unusquisque reproborum ad cor suum reducitur, ut sancta jam cum agere non valet, sentiat, et rectum quod sequi debuit ex tortitudinis suae poena cognoscat (Moral., lib. XXVII, c. 24, n, 45). Per Jeremiam prophetam dicitur: Congrega eos quasi gregem ad victimam, et sanctifica eos in die occisionis (Jerem. XII, 3). In die enim occisionis sanctificantur reprobi, quia tunc sancta quae debuerunt agere sentiunt, cum digna pravitatis suae supplicia jam declinare non possunt.",
+      "english": "When the eternal Judge comes, each of the reprobate is brought back to his heart, so that when he can no longer do holy things, he may feel it, and may know from the punishment of his perversity the right way he should have followed. Through the prophet Jeremiah, chapter twelve, verse three, it says: 'Gather them like a flock for sacrifice, and sanctify them in the day of slaughter.' For on the day of slaughter the reprobate are sanctified, because then they feel the holy things they should have done, when they can no longer avoid the punishments worthy of their wickedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 208,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Reprobi omnes tunc feriri pertimescunt, cum ultione extrema per sententiam Judicis feriuntur, eosque tunc terror ejus a somno sui torporis exsuscitat, cum vindicta perturbat (Moral. XI, c. 29, n. 41). Per prophetam dicitur: Et tantum sola vexatio intellectum dabit auditui (Isai. XXVIII, 19). Cum enim de praeceptis Dei contemptis atque despectis verberari per vindictam iniqui coeperint, tunc intelligunt quod audierunt.",
+      "english": "All the reprobate then fear to be struck when they are struck by the final vengeance through the sentence of the Judge, and his terror then awakens them from the sleep of their torpor when vengeance disturbs them. Through the prophet Isaiah, chapter twenty-eight, verse nineteen, it says: 'And vexation alone will give understanding to the hearing.' For when the wicked begin to be scourged through vengeance for the commandments of God that were despised and rejected, then they understand what they heard.",
+      "notes": null
+    },
+    {
+      "chunk_id": 209,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et Psalmista ait: Cum occideret eos, tunc quaerebant eum (Psal. LXXVII, 34). Omnes impii in die extremi judicii cognita sua damnatione dicturi sunt: Erravimus a via veritatis, et lumen justitiae non luxit nobis, et sol non ortus est nobis (Sap. V, 6; Moral. XXXIV, c. 14, n. 25). Ac si aperte dicant: Interni nobis luminis radius non refulsit.",
+      "english": "And the psalmist says in Psalm seventy-seven, verse thirty-four: 'When he slew them, then they sought him.' All the wicked on the day of final judgment, having known their damnation, will say, as the book of Wisdom, chapter five, verse six records: 'We have erred from the way of truth, and the light of justice has not shone for us, and the sun has not risen upon us.' As if saying openly: The ray of inner light has not shone back to us.",
+      "notes": null
+    },
+    {
+      "chunk_id": 210,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nescit impius mala quae fecit, nisi cum pro eisdem malis puniri jam coeperit (Moral. XV, c. 51, n. 58). Tunc namque intelligit quod audivit, cum se jam pro contemptu vexari doluerit, sicut scriptum est: Et tantummodo sola vexatio intellectum dabit auditui (Isai. XXVIII, 19; Moral. VII, c. 27, n. 33). Reprobi aeterna non intelligunt, nisi cum temporalibus jam sine emendatione puniuntur.",
+      "english": "The wicked man does not know the evils he has done unless he has already begun to be punished for those same evils. For then he understands what he heard, when he has already grieved to be vexed for his contempt, as it is written: 'And vexation alone will give understanding to the hearing.' The reprobate do not understand eternal things unless they are already punished with temporal things without amendment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 211,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc namque mens aestuat, et infructuosae poenitentiae se ignibus inflammat, duci ad supplicium timet, praesentem vitam ex desiderio retinet; sed de loco suo solvitur, quia oblectamenta carnis deserens, ejus duritia per supplicium liquatur.",
+      "english": "For then the mind burns, and inflames itself with the fires of fruitless repentance; it fears to be led to punishment, it holds onto the present life out of desire; but it is dissolved from its place, because abandoning the delights of the flesh, its hardness is melted through punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 212,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Damnation of the Devil and Demons",
+      "latin": "CAPUT XXXII. De damnatione diaboli vel daemonum.",
+      "english": "Chapter 32: Damnation of the Devil and Demons",
+      "notes": null
+    },
+    {
+      "chunk_id": 213,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aeterno Judice terribiliter apparente, astantibus legionibus angelorum, assistente cuncto ministerio coelestium potestatum, atque electis omnibus ad hoc spectaculum deductis, diabolus crudelis et fortis bellua in medium captiva deducitur, et cum suo corpore, id est, cum reprobis omnibus aeternis gehennae incendiis mancipatur, cum dicitur: Discedite a me, maledicti, in ignem aeternum, qui praeparatus est diabolo et angelis ejus (Matth. XXV, 41; Moral. XXXIII, c. 20, n. 37).",
+      "english": "When the eternal Judge appears terribly, with legions of angels standing by, with all the ministry of heavenly powers assisting, and with all the elect brought to this spectacle, the devil—cruel and strong beast—is led captive into the midst, and with his body, that is, with all the reprobate, is consigned to the eternal fires of hell, when it is said in the Gospel of Matthew, chapter twenty-five, verse forty-one: 'Depart from me, you cursed, into the eternal fire that has been prepared for the devil and his angels.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 214,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "O quale erit illud spectaculum, quando haec immanissima bestia electorum oculis ostendetur, quae hoc belli tempore nimis illos terrere potuerat, si videretur! Sed occulto ac miro Dei consilio agitur ut et nunc per ejus gratiam a pugnantibus non visa vincatur, et tunc a laetis victoribus jam captiva videatur.",
+      "english": "Oh what a spectacle it will be when this most monstrous beast is shown to the eyes of the elect, which in this time of war could have terrified them greatly if it had been seen! But it is done by the hidden and wonderful counsel of God that now through his grace it is conquered by the fighters without being seen, and then is seen as already captive by the joyful victors.",
+      "notes": null
+    },
+    {
+      "chunk_id": 215,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc justi divino adjutorio quantum debitores sunt plenius recognoscunt, quando tam fortem bestiam viderint, quam nunc infirmi vicerunt. Et in hostis sui immanitate conspiciunt quantum debeant gratiae defensoris sui (Moral. lib. IV, c. 5, n. 10).",
+      "english": "Then the just more fully recognize how much they are debtors to divine help, when they will have seen so strong a beast, which they have now conquered while weak. And in the enormity of their enemy they see how much they owe to the grace of their defender.",
+      "notes": null
+    },
+    {
+      "chunk_id": 216,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Antiquus hostis nequitiae suae vinculis astrictus, aliud est quod nunc patitur, aliud quod in fine patietur, quia enim a lucis intimae ordine cecidit, nunc semetipsum intrinsecus erroris caligine confundit. Antiquus hostis damnationis suae tempore amaritudine involvitur, quia ex merito spontaneae caliginis aeterno gehennae tormento cruciatur.",
+      "english": "The ancient enemy, bound by the chains of his wickedness, suffers one thing now and another at the end, because since he fell from the order of intimate light, he now confounds himself inwardly with the darkness of error. The ancient enemy at the time of his damnation is wrapped in bitterness, because from the merit of spontaneous darkness he is tortured by the eternal torment of hell.",
+      "notes": null
+    },
+    {
+      "chunk_id": 217,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Recte de Antichristo beatus Job ait: Occupet eum caligo, involvatur amaritudine (Job. III, 5). Omne quippe quod involutum est finem suum quasi nusquam indicat, quia sicut non ostendit quo incipit, ita non detegit quo desinit. Involvi ergo amaritudine antiquus hostis dicitur, quia superbiae ejus supplicia, non solum omnimoda, sed etiam infinita praeparantur.",
+      "english": "Rightly blessed Job says of Antichrist in chapter three, verse five: 'Let darkness seize upon him, let him be wrapped in bitterness.' For everything that is wrapped indicates its end nowhere, as it were, because just as it does not show where it begins, so it does not reveal where it ends. Therefore the ancient enemy is said to be wrapped in bitterness, because the punishments of his pride are prepared not only in every way but also infinitely.",
+      "notes": null
+    },
+    {
+      "chunk_id": 218,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Antichristi poena tunc initium accipit, cum districtus ad extremum judicium Judex venit; unde et bene subditur: Noctem illam tenebrosus turbo possideat (Job, III, 6; Moral. IV, c. 6, n. 11). Tenebrosus ergo turbo hanc noctem possidet, quia apostatam spiritum a conspectu districti Judicis ad aeterna supplicia pavenda illa tempestas rapit. Turbine ergo nox ista possidetur, quia superba ejus caecitas districta animadversione percutitur.",
+      "english": "The punishment of Antichrist then receives its beginning when the Judge comes strictly to final judgment; whence it is also well added in verse six: 'Let a dark whirlwind possess that night.' Therefore the dark whirlwind possesses this night, because that fearful tempest snatches the apostate spirit from the sight of the strict Judge to eternal punishments. Therefore this night is possessed by the whirlwind, because its proud blindness is struck by strict punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 219,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Eternal Punishments of the Reprobate",
+      "latin": "CAPUT XXXIII. De aeternis suppliciis reproborum.",
+      "english": "Chapter 33: The Eternal Punishments of the Reprobate",
+      "notes": null
+    },
+    {
+      "chunk_id": 220,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omnipotentis Dei justitia futurorum praescia ab ipsa mundi origine gehennae ignem creavit, qui in poena reproborum esse semel inciperet, sed ardorem suum, etiam sine lignis nunquam finiret (Moral. XV, c. 29, n. 35). Sciendum est quod omnes reprobi qui ex anima simul et carne peccaverunt illic in aeterno supplicio in anima pariter et carne cruciabuntur.",
+      "english": "The justice of almighty God, foreknowing the future, created the fire of hell from the very origin of the world—fire that would once begin to exist in the punishment of the reprobate, but would never end its burning, even without wood. It must be known that all the reprobate who sinned with both soul and flesh will there be tortured in eternal punishment equally in soul and flesh.",
+      "notes": null
+    },
+    {
+      "chunk_id": 221,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per David prophetam dicitur: Pones eos ut clibanum ignis in tempore vultus tui (Psal. XX, 10). Clibanus namque intrinsecus ardet. Is vero qui ab igne devoratur ab exteriori incipit parte concremari. Ut ergo sacra eloquia ardere et exterius et interius reprobos demonstrarent, eos et ab igne devorari, et sicut clibanum poni, testantur, ut per ignem crucientur in corpore, et per dolorem ardeant in mente.",
+      "english": "Through David the prophet it says in Psalm twenty, verse ten: 'You will make them as an oven of fire in the time of your countenance.' For an oven burns inwardly. But one who is devoured by fire begins to be consumed from the outer part. Therefore, so that the sacred words might demonstrate that the reprobate burn both outwardly and inwardly, they testify that they are both devoured by fire and placed like an oven, so that they are tortured by fire in the body and burn through pain in the mind.",
+      "notes": null
+    }
+  ]
+}
