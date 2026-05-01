@@ -102,6 +102,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/letter-to-the-synod-convened-at-ingelheim) | [YouTube](https://www.youtube.com/watch?v=YpMlPeSJak8) | [GitHub](vol_133/Arthaldus%20of%20Reims%20-%20Letter%20to%20the%20Synod%20Convened%20at%20Ingelheim)
 
 
+## Atto of Vercelli
+
+**The Polypticum which is called Perpendiculum (alternative recension)** (*Polypticum quod appellatur Perpendiculum (textus alter)*) — Vol. 134
+  [GitHub](vol_134/Atto%20of%20Vercelli%20-%20The%20Polypticum%20which%20is%20called%20Perpendiculum%20%28alternative%20recension%29)
+
 ## Augustine of Hippo
 
 **Exchange with Maximus Grammaticus** — Vol. 33
