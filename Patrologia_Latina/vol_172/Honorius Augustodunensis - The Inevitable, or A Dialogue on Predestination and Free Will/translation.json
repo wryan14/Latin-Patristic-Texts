@@ -1,0 +1,2542 @@
+{
+  "metadata": {
+    "volume_id": "PL172",
+    "title": "The Inevitable, or A Dialogue on Predestination and Free Will",
+    "latin_title": "Inevitabile sive Dialogus de Praedestinatione et Libero Arbitrio",
+    "author": "Honorius Augustodunensis",
+    "century": "12th century",
+    "source": "Patrologia Latina Volume PL172",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-10",
+    "total_chunks": 305,
+    "estimated_duration_minutes": 98,
+    "known_issues": [
+      "Several Biblical citations appear to have errors in the original manuscript (e.g., Hebrews 1:33 which only has 14 verses; John 16:18 should be 13:18)",
+      "Acts 13:21 citation should be Acts 14:22 for the tribulations saying",
+      "Text at chunk 217 contains an ellipsis suggesting possible corruption or missing text in the original manuscript",
+      "Translation note: The text shows significant dependence on Anselm of Canterbury's thought, particularly his treatises on grace, free will, and predestination",
+      "Greek transliterations and technical theological vocabulary maintained throughout",
+      "Some sections contain very harsh characterizations of different groups (clergy, monks, nuns, women) that reflect medieval polemical style rather than balanced description",
+      "The dialogue format is pedagogical rather than adversarial, with the student progressively learning from the master",
+      "The citation to Luke 22:7 for the hairs of the head saying should be Luke 12:7",
+      "The dialogue continues but is cut off at the chunk boundary",
+      "The work ends abruptly with the Disciple's final blessing, suggesting this may be the complete conclusion",
+      "Several cross-references to Anselm's works are embedded in the Latin text",
+      "Matthew 10:6 cited for vineyard parable which is actually Matthew 20",
+      "Text ends abruptly mid-sentence in Psalm citation at column 1216D",
+      "Some marginal notes appear incorporated into the body text",
+      "Some biblical citations follow medieval conventions that differ from modern chapter-verse divisions"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Opening: The Brothers Request Teaching on Predestination",
+      "latin": "INEVITABILE SIVE DE PRAEDESTINATIONE ET LIBERO ARBITRIO INTER MAGISTRUM ET DISCIPULUM DIALOGUS.",
+      "english": "The Inevitable, or A Dialogue on Predestination and Free Will Between Master and Student",
+      "notes": null
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISCIPULUS. Fratres in domo Dei ambulantes cum consensu, sunt pro tua salute orationi instantes: diligentiae quidem tuae, orationes; Clavi autem David Christo, gratiarum solvunt actiones: qui ob Genitricis suae merita, tot eis in Canticis, de ea per te reseravit mysteria. Ob hanc causam, et ob alia quae multis incognita, elucidans in laudem ejus, debitores fecisti.",
+      "english": "Student: The brothers who walk in unity in God's house are praying earnestly for your wellbeing. They offer prayers for your diligence, and they give thanks to Christ, the Key of David, who through your work has unlocked so many mysteries about his Mother in the Song of Songs, because of her merits. For this reason, and for clarifying many other things unknown to most in praise of her, you have made them your debtors.",
+      "notes": "The 'Key of David' is a messianic title from Isaiah 22:22 and Revelation 3:7. The reference to the Song of Songs commentary indicates Honorius's Marian exegetical work."
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Illorum ergo nunc fungor legatione, et ipsi summa deposcunt devotione, ut solvas eis nodum liberi arbitrii inextricabilem: Si soli Praedestinati (ut quidam aiunt) quidquid etiam fecerint, salvantur: liberum arbitrium penitus tolli aestimatur, et hi qui damnantur, non solum jam sine culpa, sed etiam injuste puniri putantur.",
+      "english": "So now I act as their representative, and they ask with deepest devotion that you untangle for them the inextricable knot of free will. If only the predestined are saved, no matter what they do, as some people claim, then free will seems to be completely eliminated, and those who are damned appear to be punished not only without fault, but even unjustly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Unde rogo te, de hac re latius disserere; nec minimum scrupulum alicui hebeti vel caeco ultra relinquere.",
+      "english": "Therefore I ask you to discuss this matter more fully, and not to leave even the smallest difficulty for anyone dull or blind to understanding.",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAGISTER. Cum summi doctores de hac materia multa ediderunt opuscula, quid a me amplius poscitis qui ad comparationem illorum sum elinguis?",
+      "english": "Master: Since the greatest teachers have published many treatises on this subject, why do you ask anything more from me? Compared to them, I am tongue-tied.",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Illi quidem egregie disputaverunt: sed diversa (ut nobis videtur) sentientes, incertiores nos reddiderunt. Tu autem (ut verum fatear) facis nobis breviter quodammodo palpabile, quod ipsi longis tractatibus non fecerunt saltem conspicabile.",
+      "english": "Student: They certainly argued brilliantly, but because they seem to hold different opinions, they left us more uncertain. You, however, to tell the truth, make tangible for us briefly what they did not make even visible in their lengthy treatises.",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Quod petis, non denego; quia non mea, sed quae sunt charitatis quaero. Phaleras verborum contemno, dum fratrum simplicitati consulo: lividos quoque dentes invidorum despicio: quia auxilium meum a Domino.",
+      "english": "Master: I do not refuse what you ask, because I seek not my own interests but those of charity. I despise verbal ornaments when I am concerned with the simplicity of the brothers, and I also disregard the envious fangs of the jealous, because my help comes from the Lord.",
+      "notes": "'Phaleras' refers to decorative metalwork on horses, hence metaphorically verbal ornamentation."
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Quaeso ut me vere insipientem sufferas, et ignorantiam per me sciscitantium, verbo veritatis corrigas.",
+      "english": "Student: I ask that you bear with me, who am truly foolish, and correct with the word of truth the ignorance of those who inquire through me.",
+      "notes": "Echoes Paul's second letter to the Corinthians, chapter eleven, verse nineteen: 'You gladly put up with fools.'"
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Veritas se quaerentes de tenebris erroris liberabit, et luce suae claritatis illustrabit. Si enim insipientem te facit causa charitatis, occurret tibi sapientia cum lumine veritatis.",
+      "english": "Master: Truth will free those who seek it from the darkness of error and illuminate them with the light of its clarity. For if the cause of charity makes you foolish, wisdom will meet you with the light of truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DIS. Tres nodi nexu nimis perplexo se invicem complicant; quos vix aliquis transit, quin eis inhaereat. Unus, quo asseritur: quod soli praedestinati salvantur. Alter, quo astruitur: quod per solam gratiam homines salutem consequantur. Tertius, quo dicitur: quod solum liberum arbitrium salutem operetur.",
+      "english": "Student: Three knots intertwine with one another in an exceedingly perplexing tangle, which scarcely anyone passes through without getting stuck in them. The first asserts that only the predestined are saved. The second maintains that people attain salvation through grace alone. The third says that free will alone accomplishes salvation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In primis itaque seca nodum Praedestinationis; qui quadam violentia, cardinem obligat totius quaestionis. Putant enim quidam, quod Praedestinatio ad electos solos pertineat, cum Apostolus dicat: Quos autem praedestinavit, hos et vocavit, justificavit, magnificavit.",
+      "english": "So first cut through the knot of predestination, which with a certain force binds the hinge of the entire question. For some people think that predestination pertains only to the elect, since the Apostle says in his letter to the Romans, chapter eight, verses twenty-nine and thirty: 'Those whom he predestined, he also called, justified, and glorified.'",
+      "notes": "Reference is to Romans 8:29-30."
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Unde primitus obsecro, ut dicas, quid sit Praedestinatio.",
+      "english": "Therefore I first beg you to say what predestination is.",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Nihil aliud est Praedestinatio, quam pro meritis cujusque, vel ad gloriam, vel ad poenam, aeterna Dei praeparatio.",
+      "english": "Master: Predestination is nothing other than God's eternal preparation of each person, according to their merits, either for glory or for punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Est autem gemina Praedestinatio; una, bonorum ad gloriam; altera malorum ad poenam.",
+      "english": "There is a twofold predestination: one of the good to glory, the other of the wicked to punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed quia quidam etiam de Providentia et Praescientia mussitant; quasi hae necessitatem omnibus inferant: sciendum est, quod nec Providentia aliquem compellit ad boni studium; nec Praedestinatio ullum violenter trabit ad vitae praemium. Similiter Praescientia neminum cogit ad peccatum; et Praedestinatio nullum impellit necessitate ad supplicium.",
+      "english": "But because some people also grumble about providence and foreknowledge, as if these impose necessity on everyone, it must be understood that providence does not compel anyone to pursue the good, nor does predestination drag anyone by force to the reward of life. Likewise, foreknowledge forces no one to sin, and predestination drives no one by necessity to punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Porro qui praevisi sunt in bonis permansuri, ad gloriam sunt praedestinati: qui vero praesciti in malo vitam finituri, ad poenam sunt utique praeordinati.",
+      "english": "Moreover, those who are foreseen as persevering in good are predestined to glory, while those who are foreknown as ending their lives in evil are certainly preordained to punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ergo quos Deus praescivit in Filium suum credituros, et mandata ejus voluntarie servaturos, hos ante saecula praedestinavit: hos suo tempore ad fidem vocavit: hos per Baptisma justificavit: hos virtutibus magnificavit: hos vasa misericordiae glorificavit.",
+      "english": "Therefore those whom God foreknew would believe in his Son and would willingly keep his commandments, he predestined before the ages. He called them to faith in their own time, justified them through baptism, magnified them with virtues, and glorified them as vessels of mercy.",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quos autem minime facturos praescivit, hos a regno gloriae reprobavit; et vasa irae et contumeliae, apta ad poenam praedestinavit.",
+      "english": "But those whom he foreknew would not do these things, he rejected from the kingdom of glory and predestined as vessels of wrath and disgrace, prepared for punishment.",
+      "notes": "Echoes Romans 9:22-23 regarding vessels of wrath and vessels of mercy."
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Cum scriptum sit: Pater, dilexisti eos ante mundi constitutionem; videntur necessitate salvari, qui ante mundi exordium sunt dilecti.",
+      "english": "Student: Since it is written in the Gospel of John, chapter seventeen, verse twenty-four, 'Father, you loved them before the foundation of the world,' those who were loved before the world's beginning seem to be saved by necessity.",
+      "notes": "The citation is from John 17:24 in Jesus's high priestly prayer."
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Deo nihil est futurum: sed omnia sunt ei praesentia, quae jam sunt, et quae futura sunt. Omnes ergo futuri semper in Dei praesentia fuerunt, et ideo ante mundi constitutionem sunt dilecti: sed suo tempore pro meritis ad gloriam electi.",
+      "english": "Master: Nothing is future to God. Rather, all things are present to him, both what already exists and what will exist. Therefore all future people were always present in God's sight, and for this reason they were loved before the foundation of the world. But they were chosen for glory in their own time according to their merits.",
+      "notes": "This reflects the classical theological concept of God's eternal present."
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quos ergo Deus ante mundi constitutionem praedestinando elegit, hos non necessitas, sed proprium meritum ad gloriam traxit. Quibus ipse in fine mundi dicturus erit: Venite, benedicti Patris mei, percipite regnum quod vobis paratum est ab origine mundi.",
+      "english": "Therefore those whom God chose by predestining them before the foundation of the world were drawn to glory not by necessity but by their own merit. To them he will say at the end of the world, as recorded in the Gospel of Matthew, chapter twenty-five, verse thirty-four: 'Come, blessed of my Father, receive the kingdom prepared for you from the foundation of the world.'",
+      "notes": "Citation is from Matthew 25:34 in the parable of the sheep and goats."
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et quod hoc regnum pro meritis eis detur, divina vox ostendit, quae mox eorum bona replicando exsequitur.",
+      "english": "And that this kingdom is given to them according to their merits is shown by the divine voice, which immediately follows by recounting their good deeds.",
+      "notes": "Refers to Matthew 25:35-36 where Christ enumerates the corporal works of mercy."
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Remoto ergo repagulo Praedestinationis, eia jam ingredere silvam exspectatae disputationis. Ut quid sit liberum arbitrium. Et quomodo ei non repugnet Praedestinatio vel Praescientia. Et qualiter concordet Gratiae, resera, et quaecunque inde capita surgentia ense rationis reseca.",
+      "english": "Student: Now that the barrier of predestination has been removed, come, enter the forest of the expected discussion. Unlock what free will is, and how predestination and foreknowledge do not contradict it, and how it harmonizes with grace. Cut down with the sword of reason whatever branches spring up from this.",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Dic tu mihi, quid sit liberum arbitrium, et quid arbitreris.",
+      "english": "Master: You tell me what free will is and what you think about it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Mihi videtur, liberum arbitrium dici libertas bonum vel malum eligendi.",
+      "english": "Student: It seems to me that free will is called the freedom to choose good or evil.",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Haec definitio licet plerisque placeat, vereor ne perspicax ratio eam abnuat.",
+      "english": "Master: Although this definition pleases most people, I fear that penetrating reason rejects it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Electio namque non nisi de duabus vel pluribus rebus dicitur; ubi optio eligendi de multis proponitur. Angelo autem vel homini, quibus solis datum est liberum arbitrium, non nisi sola justitia proponebatur, qua servata, aeterna beatitudine fruerentur.",
+      "english": "For choice is only spoken of regarding two or more things, where the option of choosing among many is proposed. But to the angel and to the human being, to whom alone free will is given, only justice alone was proposed, by keeping which they would enjoy eternal blessedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Igitur definitio non videtur conveniens libero arbitrio.",
+      "english": "Therefore the definition does not seem fitting for free will.",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Quid si dicatur: quod mors et vita homini proposita sint; et ipse mortem elegerit?",
+      "english": "Student: What if it is said that death and life were proposed to the human being, and he chose death?",
+      "notes": "Allusion to Deuteronomy 30:19 and Sirach 15:17."
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Non hoc est verum: non enim mortem elegit, sed deceptus altiorem scientiam concupivit.",
+      "english": "Master: This is not true. He did not choose death, but being deceived, he desired higher knowledge.",
+      "notes": "Reference to Genesis 3 and the temptation narrative."
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Quid si dicatur: quod bonum a Deo proponatur; malum autem a diabolo suadeatur, et in libero arbitrio hominis sit, quid eligere velit?",
+      "english": "Student: What if it is said that good is proposed by God, evil is urged by the devil, and it is in the human being's free will to choose what he wishes?",
+      "notes": null
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. De homine hoc utrumque dici; de Angelo non potest, cum nemo fuerit, qui ei aliquid mali persuaserit. Porro inter bonum et malum nihil est medium. Sed si homo in aliquo medio constitutus videretur, tunc fortassis, recte, libertas bonum vel malum eligendi ei inesse diceretur. Sed cum in bono tantum sit constitutus, et nihil aliud sit mali electio, quam quaedam animi in bono defectio, cum videlicet deserit justitiam, quam servare debuit, et ad injustitiam declinat, quam devitandam non ignorat.",
+      "english": "Master: Both of these can be said about the human being, but not about the angel, since there was no one who persuaded him of anything evil. Moreover, there is no middle ground between good and evil. But if the human being seemed to be placed in some middle position, then perhaps rightly the freedom to choose good or evil would be said to exist in him. But since he is established only in the good, and the choice of evil is nothing other than a certain falling away of the soul from the good—namely when it abandons the justice it ought to preserve and declines toward injustice, which it knows it should avoid.",
+      "notes": "This reflects Augustinian theology of evil as privation rather than positive reality."
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Sed quae sit ejus definitio magnopere exspecto.",
+      "english": "Student: But I greatly await what its definition is.",
+      "notes": null
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Arbitrium est propriae voluntatis judicium quid velit, quidque nolit. Hoc liberum dicitur: quia non est necessarium, sed quibus inest ratio, inest etiam volendi nolendique libertas.",
+      "english": "Master: Free judgment is the determination of one's own will regarding what it wishes and what it does not wish. This is called free because it is not necessary, but in those who have reason, there also exists the freedom of willing and not willing.",
+      "notes": "This definition closely follows Anselm of Canterbury."
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et quia liberum arbitrium pro sola justitia servanda (in qua salus animae consistit) datur, ejus definitio sic congrua aestimatur.",
+      "english": "And because free will is given solely for preserving justice, in which the salvation of the soul consists, its definition is considered fitting in this way.",
+      "notes": null
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Libertas arbitrii est potestas servandi rectitudinem voluntatis, propter ipsam rectitudinem. Recta quippe voluntas est, velle quod vult Deus. Deus autem vult, ut rationalis creatura ei non coacte, sed sponte subdita sit, ut ei bene sit; quando et hoc ipsa vult, tunc voluntas ejus recta est.",
+      "english": "The freedom of choice is the power to preserve the rightness of the will for the sake of that rightness itself. For the right will is to will what God wills. God wills that the rational creature be subject to him not by compulsion but voluntarily, so that it may be well with the creature. When the creature also wills this, then its will is right.",
+      "notes": "This is a direct adaptation of Anselm's definition from De Libertate Arbitrii."
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ad hanc rectitudinem servandam est libera, nulla necessitate constricta: rectitudo autem voluntatis est justitia. Si ergo justitiam non propter aliud quam propter ipsam justitiam diligit Deum (qui est justitia, et summa beatitudo) praemium habebit.",
+      "english": "The will is free to preserve this rightness, constrained by no necessity. The rightness of the will is justice. Therefore if it loves God, who is justice and supreme blessedness, not for any other reason than for the sake of justice itself, it will have its reward.",
+      "notes": null
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Igitur convenientissima definitio liberi arbitrii est: potestas servandi rectitudinem voluntatis propter ipsam rectitudinem, per quam jure possidet aeternam beatitudinem.",
+      "english": "Therefore the most fitting definition of free will is this: the power to preserve the rightness of the will for the sake of that rightness itself, through which one rightfully possesses eternal blessedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Sed quomodo, nunc habet liberum arbitrium ad servandam justitiam; cum non habeat justitiam?",
+      "english": "Student: But how does one now have free will for preserving justice when one does not have justice?",
+      "notes": "This addresses the problem of fallen humanity lacking original justice."
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Sicut aliquis habet visum, ad videndum solem, cum ipse absit, quem utique videre potest si adsit: ita homo habet naturaliter liberum arbitrium, ad servandam justitiam, etiamsi ipsa desit, quam servare potest si adsit.",
+      "english": "Master: Just as someone has sight for seeing the sun when it is absent, which he certainly can see if it is present, so the human being naturally has free will for preserving justice, even if it is absent, which he can preserve if it is present.",
+      "notes": "Classic Anselmian analogy distinguishing capacity from actuality."
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hanc autem non habitam, per se habere non potest: quia nullus (excepto Deo) habet quod non accepit, quae si ei datur, gratia ejus est, qui ait: Sine me nihil potestis facere. Acceptam autem justitiam non deserere, liberi arbitrii est. Hanc autem servare, meritum est.",
+      "english": "But this justice which he does not possess, he cannot possess by himself, because no one except God has what he has not received, as stated in Paul's first letter to the Corinthians, chapter four, verse seven. If it is given to him, it is the grace of the one who says in the Gospel of John, chapter fifteen, verse five: 'Without me you can do nothing.' Not to abandon the justice one has received is a matter of free will. To preserve this justice is merit.",
+      "notes": "Combines 1 Corinthians 4:7 and John 15:5."
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ideo non volentis est: subaudi quod vult: nec currentis, subaudi quod currit: sed miserentis Dei: qui (nullis praecedentibus meritis, sed gratis) gratia eum praevenit, dando, ut justus sit: et subsequitur, ut in stadio justitiae currat, quatenus bravium vitae suscipiat, aut percipiat.",
+      "english": "Therefore, as stated in Paul's letter to the Romans, chapter nine, verse sixteen, it does not depend on the one who wills—understand, what he wills—nor on the one who runs—understand, what he runs—but on God who shows mercy. God's grace goes before him without any preceding merits, but freely, by giving him the ability to be just, and follows him so that he may run in the stadium of justice, so that he may receive or obtain the prize of life.",
+      "notes": "Romans 9:16 with metaphor from 1 Corinthians 9:24 regarding the race."
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sicuti, si egens nudus a divite vestiatur: non est ipsius, quod vestitur, sed ejus qui vestem largitur. In suo autem arbitrio est, utrum vestem portet, aut deponat. Sic est de gratia praeveniente, libero arbitrio comitante.",
+      "english": "Just as if a poor naked person is clothed by a rich person, it is not his doing that he is clothed, but the doing of the one who gives the clothing. But it is in his own choice whether he wears the garment or takes it off. So it is with prevenient grace and accompanying free will.",
+      "notes": "Illustrates the cooperation of grace and free will."
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "MAG. Cum Apostolus dicat: Antequam vel bonum vel malum scirent, dictum est: Jacob dilexi, Esau autem odio habui: videntur quidam non secundum merita, sed secundum propositum Dei salvari, vel damnari: aut Deus videtur quorumdam facta punire, antequam perpetrentur. Nam ob quod meritum Jacob diligi meruit, qui nondum bonum facere scivit? Ob quem etiam reatum Esau odio habitus, qui necdum aliquid mali operatus est?",
+      "english": "Student: Since the Apostle says in his letter to the Romans, chapter nine, verses eleven through thirteen: 'Before they were born or had done anything good or evil, so that God's purpose according to election might stand, not from works but from the one who calls, it was said, The older will serve the younger, as it is written, Jacob I loved, but Esau I hated'—some people seem to be saved or damned not according to merit but according to God's purpose, or God seems to punish some people's deeds before they commit them. For on account of what merit did Jacob deserve to be loved, when he did not yet know how to do good? And for what guilt was Esau held in hatred, when he had not yet done anything evil?",
+      "notes": "Romans 9:11-13, one of the most difficult passages regarding predestination."
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "DISC. Sicut superius dictum est: Deo nihil est futurum. Sacra Scriptura testatur Jacob simplicem, Esau profanum. Et quod ipsi suo tempore per liberum arbitrium erant futuri, hoc, antequam nati essent, erant in conspectu Domini.",
+      "english": "Master: As was said earlier, nothing is future to God. Sacred Scripture testifies that Jacob was upright and Esau profane. And what they were going to become in their own time through free will, this they already were in the Lord's sight before they were born.",
+      "notes": "References Genesis 25:27 describing Jacob as 'a quiet man' and Hebrews 12:16 calling Esau 'profane' or 'godless.'"
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ergo quia Jacob in conspectu Domini simplex fuit, ideo Dominus eum dilexit: quia vero Esau profanus erat, ideo eum odio habuit.",
+      "english": "Therefore because Jacob was upright in the Lord's sight, the Lord loved him. But because Esau was profane, he held him in hatred.",
+      "notes": null
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Dilexi autem praeteritum tempus, propter aeternitatem posuit: quia sicut praeteritum, semper est praeteritum, ita immutabile est omne, quod aeternitas praevidet fiendum.",
+      "english": "He used the past tense 'I loved' because of eternity, for just as the past is always past, so everything that eternity foresees as going to happen is immutable.",
+      "notes": "Explains why God speaks in past tense about future contingents from his eternal perspective."
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Porro quia injustitia non est apud Deum, nullum sine praecedente injustitia punit, sed multis perpetrata peccata misericorditer ignoscit.",
+      "english": "Moreover, because there is no injustice with God, as Romans chapter nine, verse fourteen states, he punishes no one without preceding injustice, but mercifully forgives many sins that have been committed.",
+      "notes": "Romans 9:14."
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Igitur licet necesse sit, omne fieri, quod Deus fieri proposuit, praescivit, praedestinavit: tamen propositum, praescientia, praedestinatio, nullam vim necessitatis alicui inferunt; quin quisque libero arbitrio facit quod vult.",
+      "english": "Therefore, although it is necessary that everything happen which God has purposed, foreknown, and predestined to happen, nevertheless purpose, foreknowledge, and predestination impose no force of necessity on anyone. Rather, each person does what he wills by free will.",
+      "notes": "Key thesis reconciling divine sovereignty and human freedom."
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et qui per liberum arbitrium declinant a malo et faciunt bonum, hi sunt populus et oves pascuae ejus; et his praeparavit pascua vitae, et hos elegit in Christo ante mundi constitutionem.",
+      "english": "And those who through free will turn away from evil and do good, these are his people and the sheep of his pasture, as stated in Psalm seventy-eight, verse thirteen. For these he prepared the pastures of life, and these he chose in Christ before the foundation of the world, as Ephesians chapter one, verse four declares.",
+      "notes": "Combines Psalm 78:13 (or 79:13 in Septuagint numbering) and Ephesians 1:4."
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vid. D. Anselmum et divers. locis illius libri. ] Qui autem a libertate deficiunt, et nulla necessitate cogente, sed sponte se servituti subjiciunt, dum servi peccati effecti (Joan. VIII, 34) , daemonibus, qui vitiis praestant, jugiter serviunt; hi sunt populus Pharaonis, et non sunt ex ovibus Domini, sed sunt oves in inferno ponendae, quas mors depascet (Psal. XLVIII, 15) . Hi tales, tot doctrinis auditis, tot signis visis, tot plagis perpessis, incorrigibiles sunt, et eos Dominus abjicit, cum eos juste in injustitia derelinquit.",
+      "english": "See Anselm and various places in his book. But those who abandon their freedom, and with no necessity compelling them, but willingly submit themselves to slavery, having become servants of sin, as the Gospel of John, chapter eight, verse thirty-four states, continually serve the demons who preside over vices. These are the people of Pharaoh, and they are not among the sheep of the Lord, but are sheep to be placed in hell, whom death will devour, as Psalm forty-eight, verse fifteen declares. Such people, having heard so many teachings, seen so many signs, suffered so many plagues, remain incorrigible, and the Lord rejects them when he justly abandons them in their injustice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Itaque Praedestinatio et Praescientia Dei immutabiles et fixae manent: quia omnia, quae fienda praescit, et praedestinat Deus, indeclinabiliter fient. [Col. 1202B] Gratia autem et liberum arbitrium, salutem hominis concordi foedere operatur: homo vero a libertate sola voluntate deficiens, ad peccatum inclinatur.",
+      "english": "Therefore God's Predestination and Foreknowledge remain unchangeable and fixed, because all things that God foreknows and predestines to happen will happen without deviation. But grace and free will work together in harmonious covenant for the salvation of humanity. Yet man, failing in his freedom by his will alone, inclines toward sin.",
+      "notes": null
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quia nodum liberi arbitrii per adjutricem gratiam eleganter enodasti: rogant, insinues, si diabolus ad beatitudinem conditus sit.",
+      "english": "Student: Since you have elegantly untied the knot of free will through the help of grace, they ask that you explain whether the devil was created for blessedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Constat quod rationalis creatura ad beatitudinem sit condita: Diabolus autem rationalis creatura est: igitur ad beatitudinem est conditus. Scriptum quippe de illo est: plenus sapientia et perfectus decore, in deliciis paradisi Dei fuisti (Ezech. XXVIII, 12, 13) .",
+      "english": "Master: It is established that every rational creature was created for blessedness. But the devil is a rational creature; therefore he was created for blessedness. For it is written of him in the book of Ezekiel, chapter twenty-eight, verses twelve and thirteen: You were full of wisdom and perfect in beauty, you were in the delights of God's paradise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et quid est, quod de eo Dominus dicit: [Col. 1202C] quod in veritate non stetit (Joan. VIII, 44) .",
+      "english": "Student: And what about what the Lord says of him, that he did not stand in the truth, as the Gospel of John, chapter eight, verse forty-four records?",
+      "notes": null
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Id est, in rectitudine voluntatis non permansit: justitiam enim sponte deseruit. Et ideo juste beatitudinem amisit.",
+      "english": "Master: That is, he did not remain in the rightness of his will. For he willingly abandoned justice, and therefore justly lost his blessedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quid est Beatitudo?",
+      "english": "Student: What is blessedness?",
+      "notes": null
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Omnium bonorum sufficientia, sine omni indigentia.",
+      "english": "Master: The sufficiency of all good things, without any need whatsoever.",
+      "notes": null
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur non fecit eum talem, ut hanc amittere non posset?",
+      "english": "Student: Why didn't God make him such that he could not lose this?",
+      "notes": null
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Si talem eum fecisset, tunc necessitati ut bestia subjacuisset. Fecit autem cum justum, beatum, liberum. Justum, ut vellet, quod Deus voluit: beatum, ut semper Deo frueretur: liberum, ut sponte justitiam vellet, et hoc pro merito jure semper beatus foret.",
+      "english": "Master: If God had made him that way, he would have been subjected to necessity like a beast. But God made him just, blessed, and free. Just, so that he would want what God wanted; blessed, so that he would always enjoy God; free, so that he would voluntarily want justice, and by this merit would rightfully always be blessed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "[Col. 1202D] DISC. Et cur ab hac gloria cecidit diabolus?",
+      "english": "Student: And why did the devil fall from this glory?",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia hoc appetiit, quod non debuit, et quod Deus noluit, et similis Altissimo esse voluit (Isa. XIV, 14) .",
+      "english": "Master: Because he desired what he should not have, and what God did not will, and he wanted to be like the Most High, as Isaiah chapter fourteen, verse fourteen states.",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quomodo similis?",
+      "english": "Student: In what way similar?",
+      "notes": null
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Deus dici voluit; et ut Deus ab angelis adorari voluit.",
+      "english": "Master: He wanted to be called God, and he wanted to be worshiped by the angels as God.",
+      "notes": null
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "[Col. 1203A] DISC. Cum sit illocalis, ut puta incorporeus ( Angelus ): unde et quomodo cecidit?",
+      "english": "Student: Since he is not located in a place, being incorporeal as an angel, from where and how did he fall?",
+      "notes": null
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Sicut aliquis in luce solis stans, si subito visum amitteret, diceretur in tenebras incidisse, cum locum non mutaverit, praesertim cum in nullo fuerit.",
+      "english": "Master: Just as someone standing in the light of the sun, if he suddenly lost his sight, would be said to have fallen into darkness, even though he has not changed location, especially since he was not in any particular place. ",
+      "notes": null
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cum Deus per omnia beatus, et sibi semper sufficiens fuerit, quae causa exstitit, quod aliquid creare voluit?",
+      "english": "Student: Since God was completely blessed in all things and always sufficient to himself, what was the reason that he wanted to create anything?",
+      "notes": null
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Propter bonitatem suam creavit omnia, ut essent, in quos effueret suae bonitatis abundantia Prov. XVI, 4. Universa propter semetipsum operatus est Dominus, impium quoque ad diem malum. ] : Omnis namque creatura aliquo modo fruitur bonitate creatoris Dei. Quaedam, quod sunt; quaedam, quod vivunt; quaedam, quod sentiunt; quaedam, [Col. 1203B] quod intelligunt. Singula ergo sunt bona; universa considerata valde bona Eccli. XXXIX, 21. Opera Domini universa bona valde. ] .",
+      "english": "Master: Because of his goodness he created all things, so that they might exist, into which the abundance of his goodness might flow, as the book of Proverbs, chapter sixteen, verse four declares: The Lord has made all things for himself, even the wicked for the day of evil. For every creature in some way enjoys the goodness of God the Creator. Some in that they exist; some in that they live; some in that they feel; some in that they understand. Therefore each thing is good, and all things considered together are very good, as Ecclesiasticus chapter thirty-nine, verse twenty-one says: All the works of the Lord are very good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Angelicam autem naturam et humanam, ad se videndum condidit; quae ut aliquod proprium meritum apud eum haberent, quod remunerare deberet; justitiam eis dedit. Ut autem plenum gaudium haberent, liberum arbitrium addidit, quo non coacti, sed liberi, justitiam datam servarent; et sic semper cum eo bene regnarent.",
+      "english": "But he created angelic and human nature to see him. And so that they might have some proper merit with him which he ought to reward, he gave them justice. And so that they might have full joy, he added free will, by which they would keep the justice given to them not by compulsion but freely, and thus would always reign well with him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et si ad beatitudinem conditi sunt, cur tot pereunt?",
+      "english": "Student: And if they were created for blessedness, why do so many perish?",
+      "notes": null
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia per liberum arbitrium a bono deficiunt, et peccato se subjiciunt; juste gloria beatitudinis privantur, et poenis mancipantur.",
+      "english": "Master: Because through free will they fall away from the good and submit themselves to sin. They are justly deprived of the glory of blessedness and handed over to punishments.",
+      "notes": null
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et quomodo verum est quod Deus vult [Col. 1203C] omnes salvos fieri? (I Tim. II, 4.)",
+      "english": "Student: And how is it true that God wills all people to be saved, as Paul's first letter to Timothy, chapter two, verse four states?",
+      "notes": null
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Deus condidit rationalem creaturam ad gloriam; sed angeli et homines, rationales creaturae sunt: ergo omnes ad gloriam creati sunt. Quod autem ad gloriam eos condidit, hoc volens aut nolens fecit.",
+      "english": "Master: God created rational creatures for glory. But angels and humans are rational creatures; therefore all were created for glory. And that he created them for glory, he did this either willingly or unwillingly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Nolens non potuit.",
+      "english": "Student: He could not have done so unwillingly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Volens ergo fecit.",
+      "english": "Master: Therefore he did it willingly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Hoc sequitur.",
+      "english": "Student: That follows.",
+      "notes": null
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quod autem semel Deus vult, hoc semper vult. Est enim voluntas ejus immutabilis. Igitur semper omnes vult salvos fieri.",
+      "english": "Master: And what God wills once, he always wills. For his will is unchangeable. Therefore he always wills all to be saved.",
+      "notes": null
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et si vult, cur omnes non salvantur? Voluntati enim ejus quis resistit? (Rom. IX, 19.)",
+      "english": "Student: And if he wills this, why are not all saved? For who can resist his will, as Paul's letter to the Romans, chapter nine, verse nineteen asks?",
+      "notes": null
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "[Col. 1203D] MAG. Perditio pereuntium non procedit ex voluntate Dei, quia non vult mortem peccatoris (Ezech. XVIII, 32) , et qui mortem non fecit, nec laetatur in perditione morientium Sap. I, 13. Nec laetatur in perditione vivorum. ] ; sed ex libero arbitrio, quo sponte justitiam, quae est pactum beatitudinis, deserunt: qua deserta, beatitudinem amittunt; et sic semper miseri erunt.",
+      "english": "Master: The perdition of those who perish does not proceed from the will of God, because he does not will the death of the sinner, as Ezekiel chapter eighteen, verse thirty-two declares, and he who did not make death does not rejoice in the perdition of the dying, as the book of Wisdom chapter one, verse thirteen says: Nor does he rejoice in the perdition of the living. Rather it comes from free will, by which they willingly abandon justice, which is the covenant of blessedness. Having abandoned this, they lose blessedness, and thus will always be wretched.",
+      "notes": null
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quomodo ex libero arbirio?",
+      "english": "Student: How does this come from free will?",
+      "notes": null
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Angelus nulla praedestinatione, nulla necessitate trahente; sed sola libera voluntate, justitiam deseruit dum Deo similis esse voluit (Isa. XIV, 14) . Et quia propria voluntate, vinculum beatitudinis, [Col. 1204A] quod erat justitia, abrupit; juste amissa beatitudine in miseriam incidit, de qua, justitia dictante, nunquam eripi meruit.",
+      "english": "Master: The angel, with no predestination and no necessity drawing him, but by free will alone, abandoned justice when he wanted to be like God, as Isaiah chapter fourteen, verse fourteen recounts. And because by his own will he broke the bond of blessedness, which was justice, he justly fell into misery having lost blessedness, from which, as justice dictates, he never merited to be rescued.",
+      "notes": null
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc ratio justitiae exegit: etenim qui nullo impellente corruit, juste a nullo levari debuit.",
+      "english": "The principle of justice demanded this. For he who fell with no one pushing him ought justly to be lifted by no one.",
+      "notes": null
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quid est de homine?",
+      "english": "Student: What about man?",
+      "notes": null
+    },
+    {
+      "chunk_id": 84,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Homo similiter nulla vi coactus, nulla necessitate impulsus, sed libera voluntate justitiam deseruit, et injustitiae se subdidit, dum sicut Deus esse concupivit.",
+      "english": "Master: Man similarly, forced by no power, compelled by no necessity, but by free will abandoned justice and submitted himself to injustice when he desired to be like God.",
+      "notes": null
+    },
+    {
+      "chunk_id": 85,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur hic lapsus erigi meruit?",
+      "english": "Student: Why did this fallen one merit to be raised up?",
+      "notes": null
+    },
+    {
+      "chunk_id": 86,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hujus reparatio, gratia fuit; sed et ratio justitiae hoc fieri poposcit: etenim qui alio impellente cecidit, juste ab alio levari debuit.",
+      "english": "Master: His restoration was grace, but the principle of justice also demanded that this happen. For he who fell because another pushed him ought justly to be lifted by another.",
+      "notes": null
+    },
+    {
+      "chunk_id": 87,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Deum, ut arbitror, eis liberum arbitrium [Col. 1204B] dare non decuit, per quod eos peccaturos praescivit.",
+      "english": "Student: I think it was not fitting for God to give them free will, through which he foreknew they would sin.",
+      "notes": null
+    },
+    {
+      "chunk_id": 88,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc est tale, quale dicas: Scientiam eis dare non oportuit, qua eos abuti praescivit. Si scientiam eis non dedisset, quid a brutis animalibus distarent? Si liberum arbitrium non dedisset: necessitati per omnia, ut bestiae, subjacerent, nec ullum meritum apud Deum haberent.",
+      "english": "Master: That's like saying: He ought not to have given them knowledge, which he foreknew they would abuse. If he had not given them knowledge, how would they differ from brute animals? If he had not given them free will, they would be subjected to necessity in all things like beasts, and would have no merit before God.",
+      "notes": null
+    },
+    {
+      "chunk_id": 89,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Oportuit ergo ut eis scientiam daret, qua Creatorem agnoscerent. Liberum etiam arbitrium adderetur, quo libere justitiam servarent, per quam semper beati forent.",
+      "english": "Therefore it was necessary that he give them knowledge by which they would recognize the Creator, and that free will also be added, by which they would freely keep justice, through which they would always be blessed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 90,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Si Deus omnia praescit; tunc utique eos male acturos, et per hoc aeternum supplicium passuros praescivit: cur ergo voluit eos creare, qui tot et [Col. 1204C] tanta flagitia et facinora erant facturi; et pro his aeternas poenas laturi.",
+      "english": "Student: If God foreknows all things, then surely he foreknew that they would act wickedly and through this would suffer eternal punishment. Why then did he want to create those who were going to commit so many and such great crimes and misdeeds, and for these would bear eternal punishments?",
+      "notes": null
+    },
+    {
+      "chunk_id": 91,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Deus omnia praescivit; et hoc aeternitati ejus congruit, qui nihil futurum, quasi fiendum; nec aliquid praeteritum, quasi transactum novit; sed omnia fienda et transacta, immutabili intuitu praesentia inspicit.",
+      "english": "Master: God foreknew all things, and this befits his eternity. He knows nothing as future, as if it were yet to be done, nor anything as past, as if it were finished. Rather, he beholds all things to be done and all things done as present with unchangeable vision.",
+      "notes": null
+    },
+    {
+      "chunk_id": 92,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod autem angelum vel hominem creavit, quem utrumque male acturum praescivit: hoc ratio justitiae et potentiae poposcit. Potentiae, quia praescivit, quod illorum malitia nihil sibi penitus nocere potuit, et quanta bona ipse de malis eorum in universitate facere disposuit. Justitiae autem, quia justum erat, ut omne id Deus faceret, quod ad aliquid in universitate utile [Col. 1204D] foret. Quam utiles autem, et quam necessarii in Dei republica sint daemones vel mali homines, non ignorant sapientes.",
+      "english": "But that he created the angel or man, each of whom he foreknew would act wickedly, this the principle of justice and power demanded. Power, because he foreknew that their malice could utterly harm him not at all, and how many good things he planned to make from their evils in the universe. Justice, because it was just that God should do everything that would be useful for something in the universe. And the wise do not fail to see how useful and how necessary demons or evil men are in God's commonwealth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 93,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Creatis ergo justitiam dedit, quam eos minime servaturos praescivit; imo eos justos condidit, quia hoc bonitati ejus congruit, ut nihil nisi justum et rectum faceret. Quibus etiam liberum arbitrium dedit, id est suae voluntatis compotes fecit; quia hoc suae perfectioni convenit, ut nihil nisi perfectum absolveret: perfecti enim non essent, si liberi non essent. Et si liberi non essent, necessitati, ut bestiae, subjacerent. Ergo [Col. 1205A] totum fecit, ut voluit, et ut facere debuit.",
+      "english": "Therefore he gave justice to those he created, which he foreknew they would not keep at all. Indeed, he created them just, because it befits his goodness to do nothing except what is just and right. To them also he gave free will, that is, he made them masters of their own will, because it befits his perfection to accomplish nothing except what is perfect. For they would not be perfect if they were not free. And if they were not free, they would be subjected to necessity like beasts. Therefore he did everything as he willed and as he ought to have done.",
+      "notes": null
+    },
+    {
+      "chunk_id": 94,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur eos Deus a malo non prohibuit cum posset? si voluit et non potuit, cur impotens fuit; si autem potuit et noluit, cur eos peccare, et consequenter pati poenas voluit? Et cum peccare permisit, peccatis utique consensit. Si enim aliquis princeps praescit, quod sibi quilibet subjectus perimere velit; et non prohibet dum possit, utique homicidis consentit, dum illud fieri permittit. Si autem volens permittit, impotentem se ostendit.",
+      "english": "Student: Why did God not prohibit them from evil when he could have? If he willed it and could not, why was he powerless? But if he could and would not, why did he will them to sin and consequently to suffer punishments? And since he permitted them to sin, he surely consented to their sins. For if any prince foreknows that some subject wants to kill him, and does not prohibit it when he can, he surely consents to the homicide when he permits it to happen. But if he permits it willingly, he shows himself powerless.",
+      "notes": null
+    },
+    {
+      "chunk_id": 95,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quod eos Deus a malo non prohibuit, hoc ratio immutabilitatis vetuit. Deus namque condidit eos ad plenum gaudium, plenum autem gaudium non haberent, si liberi non essent. [Col. 1205B] Ut ergo plenum gaudium haberent, dedit eis liberum arbitrium; imo creavit eos liberos, id est suae voluntatis compotes, ut libere in laetitia delectarentur; et non necessitate coacti vel violentia compulsi, gaudio fruerentur.",
+      "english": "Master: That God did not prohibit them from evil, this the principle of immutability forbade. For God created them for full joy, but they would not have full joy if they were not free. Therefore, so that they might have full joy, he gave them free will. Indeed, he created them free, that is, masters of their own will, so that they might freely delight in happiness, and not enjoy happiness forced by necessity or compelled by violence.",
+      "notes": null
+    },
+    {
+      "chunk_id": 96,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Libertatem autem quam semel eis dedit, immutabilis Deus auferre non debuit, nec etiam potuit. Si enim abstulisset, tunc nollet eos justitiam velle, quod impossibile est; voluit enim eos velle justitiam. Nihil enim aliud est peccare quam justitiam nolle. Et ideo malum vel peccatum nihil est per substantiam, sicut injustitia. Injustitia autem nihil aliud est quam ubi non est justitia. Sicut silentium, ubi non est vox, sicut tenebrae ubi non est lux. Malum itaque facere non est aliud quam a justa voluntate [Col. 1205C] deficere. Libertatem autem quodammodo Deus eis abstulisset, si ab eo cohibiti, peccare non possent. Et si coacti justitiam servassent, meritum justitiae non haberent.",
+      "english": "But the freedom which he once gave them, the immutable God ought not to have taken away, nor could he have. For if he had taken it away, then he would not want them to want justice, which is impossible, since he willed them to want justice. For to sin is nothing other than to not want justice. And therefore evil or sin is nothing by substance, just like injustice. But injustice is nothing other than where justice is not, just as silence is where there is no voice, just as darkness is where there is no light. Therefore to do evil is nothing other than to fail from a just will. And God would in some way have taken away their freedom if, restrained by him, they could not sin. And if they had kept justice by compulsion, they would not have had the merit of justice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 97,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quid? nonne boni angeli peccare non possunt?",
+      "english": "Student: What? Can't the good angels sin?",
+      "notes": null
+    },
+    {
+      "chunk_id": 98,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc non est ex impotentiae necessitate, sed ex magnae potentiae procedit voluntate; magna quippe est potentia semper velle, quod quis deberet, et decet, verbi gratia semper sanum et sapientem esse. Maxima vero impotentia, imo dementia, velle quod non debet nec decet, ut se velle interimere. Etenim aliis angelis ad injustitiam declinantibus, ipsi boni angeli justitiam libera voluntate servaverunt: et pro hoc merito, mox in hac voluntate sic [Col. 1205D] confirmati sunt, ut ultra malum nolint. Et ideo dicitur: Quod non possunt.",
+      "english": "Master: This is not from the necessity of impotence, but proceeds from the will of great power. For it is great power to always want what one ought and what befits, for example to always be healthy and wise. But it is maximum impotence, indeed madness, to want what one ought not and what does not befit, such as wanting to kill oneself. For when other angels declined toward injustice, the good angels themselves kept justice by free will, and for this merit they were immediately so confirmed in this will that they no longer want evil. And therefore it is said that they cannot.",
+      "notes": null
+    },
+    {
+      "chunk_id": 99,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Sed, ut dictum est, Deus videtur peccato eorum consensisse, quos peccare permisit; vel potius ad poenas creasse, quos a peccato non prohibuit.",
+      "english": "Student: But as was said, God seems to have consented to their sin when he permitted them to sin, or rather to have created them for punishments when he did not prohibit them from sin.",
+      "notes": null
+    },
+    {
+      "chunk_id": 100,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Veritas consulta longe aliud ostendit. Quamvis viae Domini a viis hominum elongentur, quantum coeli a terra exaltantur Isa. LV, 8. Non enim cogitationes meae cogitationes vestrae; neque viae vestrae, viae meae, dicit Dominus. [Col. 1206D] Quia sicut exaltantur coeli a terra, sic exaltatae sunt viae meae a viis vestris etc.] ; tamen non multum a cogitationibus nostris haec res discrepat, quam nobis perspecta ratio sic elucidat.",
+      "english": "Master: When truth is consulted, it shows something quite different. Although the ways of the Lord are as far removed from the ways of men as the heavens are exalted above the earth, as Isaiah chapter fifty-five, verse eight declares—For my thoughts are not your thoughts, nor are your ways my ways, says the Lord. Because as the heavens are exalted above the earth, so are my ways exalted above your ways—nevertheless this matter does not differ greatly from our thoughts, which clear reasoning thus illuminates for us.",
+      "notes": null
+    },
+    {
+      "chunk_id": 101,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Non semper sequitur, ut qui aliquid fieri permittit, [Col. 1206A] in fiendo consentiat, si prohibere possit. Nam cum aliquis in agro suo spinas nasci permittit, cum prohibere possit; nec tamen consentit, neque ad sepis munimentum, neque ad ignium nutrimentum crescere sinit, cum ad utrumque aptae sint; sic Deus, cum eos peccare permisit, peccato tamen non consensit, nec ad poenas creavit; quos tamen post peccata poenis mancipavit, sed libera voluntate, sibi, qui est summa beatitudo, inhaerentes, gloria et honore coronavit (Psal. VIII, 6) : libera nihilominus voluntate, a se qui est aeterna justitia, recedentes congruis suppliciis multavit; et illorum asperitate, ut spinis sepem, istorum gloriam firmat, et illorum concrematione universum opus suum illustravit.",
+      "english": "It does not always follow that whoever permits something to happen consents to its happening, if he could prohibit it. For when someone permits thorns to grow in his field, though he could prohibit it, he nevertheless does not consent, nor does he allow them to grow for the fortification of a hedge or for fuel for fires, though they are suitable for both. So God, when he permitted them to sin, nevertheless did not consent to sin, nor did he create them for punishments. However, after their sins he handed them over to punishments. But those who by free will cling to him who is supreme blessedness, he crowned with glory and honor, as Psalm eight, verse six declares. But those who by free will depart from him who is eternal justice, he punished with fitting torments. And by their harshness, as with thorns for a hedge, he strengthens the glory of the former, and by their burning he illuminated his entire work.",
+      "notes": null
+    },
+    {
+      "chunk_id": 102,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur illos Deus creavit, quos justitiam minime [Col. 1206B] servaturos, et ideo gloriam amissuros praescivit, et non illos solummodo, quos pro servanda justitia praescivit permansuros in gloria?",
+      "english": "Student: Why did God create those whom he foreknew would not keep justice at all and therefore would lose glory, and not only those whom he foreknew would remain in glory for keeping justice?",
+      "notes": null
+    },
+    {
+      "chunk_id": 103,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc est tale, quale causeris, cur Deus noctem permiserit esse, cum sit tenebrosa; dies autem lucidus, quasi sit inutilis, et non necessaria: cum potius ipsa nox sit requies laborantium et reparatio virium. Sic bonum per malum commendatur. Justi enim injustis comparati gloriosiores apparent, sicut dies nocti collatus, gratiosior claret. Ratio ergo boni poscebat, ut Deus malum esse permitteret, per quod reciprocis modulis, per contrarietates suas in omnibus consonaret. Quamvis enim malum nihil sit per substantiam; et ideo aeternae Dei dispositioni nullam ingerat dissonantiam; substantia [Col. 1206C] tamen per idipsum quod est, facit omnes substantias bonas apparere; et innotescit quam bonum sit summo bono inhaerere.",
+      "english": "Master: This is like complaining why God permitted night to exist, since it is dark, as if day were useless and unnecessary, when rather night itself is the rest of laborers and the restoration of strength. So good is commended through evil. For the just compared to the unjust appear more glorious, just as day compared to night shines more graciously. Therefore the principle of good demanded that God permit evil to exist, through which, by reciprocal measures, through its contraries it might harmonize in all things. For although evil is nothing by substance, and therefore brings no dissonance to God's eternal disposition, nevertheless substance through the very fact that it exists makes all substances appear good, and it becomes known how good it is to cling to the supreme good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 104,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Valde mirum de bonitate Dei videtur: quod aliquid creare voluit, quod aeternis doloribus, aternisque cruciatibus subderetur, cum videretur multo melius, aliquam rem non subsistere, quam misere subsistere aut ut lapidem insensibilem esse, quam aeternos dolores tolerare.",
+      "english": "Student: It seems very amazing about the goodness of God that he wanted to create something that would be subjected to eternal pains and eternal torments, when it would seem much better for something not to exist than to exist miserably, or to be an insensible stone than to endure eternal pains.",
+      "notes": null
+    },
+    {
+      "chunk_id": 105,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Sapienti Deo melius visum est, esse quod utrumque est, quam nullo modo esse. Et ideo fecit esse, quod est. Quod autem non fecit omnia aequalia, sed disparia, per hoc cognoscitur et ineffabilis sapientia artificis, et inaestimabilis adornata plenitudo operis. [Col. 1206D] Et quamvis Deus poenas fecerit, nihil tamen ad poenas creavit: alioquin praestantior insensibilis creatura, quam sensibilis esset: quae sine fine, dolorem poenae sentiret.",
+      "english": "Master: It seemed better to wise God that what is both exist, than not to exist at all. And therefore he made to exist what exists. But that he did not make all things equal, but unequal, through this both the ineffable wisdom of the craftsman is known, and the inestimably adorned fullness of the work. And although God made punishments, he nevertheless created nothing for punishments. Otherwise insensible creation would be superior to sensible creation, which would feel the pain of punishment without end.",
+      "notes": null
+    },
+    {
+      "chunk_id": 106,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Rationalis creatura porro dum sponte justitiam habitam abjecit, tunc propositam gloriam amisit; sicque miseriam incidit. Est autem miseria, inde dolere quod amisit, nec posse habere quod cupit, et his in quibus est, affligi; nec his posse exui. Poenis autem cruciari, non est aliud, quam sibi contrarium contra voluntatem pati.",
+      "english": "Furthermore, when rational creation willingly cast off the justice it possessed, then it lost the glory set before it, and thus fell into misery. Misery is to grieve over what was lost, and not to be able to have what one desires, and to be afflicted by the things in which one exists, and not to be able to escape these things. But to be tormented by punishments is nothing other than to suffer something contrary to oneself against one's will.",
+      "notes": null
+    },
+    {
+      "chunk_id": 107,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ob decorem autem universitatis, creavit Deus duo, [Col. 1207A] et duo Eccli. XXXIV, 15. Contra malum bonum est, et contra mortem vita: sic et contra unum justum peccator. Et sic intuere omnia opera Altissimi duo et duo et unum contra unum. ] , sibi contraria, ut aquam igni, et terram aeri; et in his creata alia, de contrariis dolorem patiuntur, sicut in aquis vel in terris formata in igne cruciantur. Salamandra quippe vivit in flamma, moritur in unda; piscis autem in aqua nutritus, in igne moritur.",
+      "english": "But for the beauty of the universe, God created two and two things, as Ecclesiasticus chapter thirty-four, verse fifteen says: Against evil is good, and against death is life, so also against the just person is the sinner. And thus contemplate all the works of the Most High, two and two and one against one. He created things contrary to each other, like water against fire and earth against air. And other things created in these suffer pain from contraries, just as things formed in water or earth are tormented in fire. For the salamander lives in flame and dies in water, while the fish nourished in water dies in fire.",
+      "notes": null
+    },
+    {
+      "chunk_id": 108,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Rationali itaque naturae, sentire dolorum amaritudinem, est, non habere suavitatis beatitudinem. Ratio namque justitiae poscit ut semper sint in amaritudine miseriae, qui sponte se exuerunt beatitudine gloriae. Ut autem hoc sine fine sit, est haec causa: quod immortales creati sint.",
+      "english": "Therefore for rational nature, to feel the bitterness of pains is to not have the sweetness of blessedness. For the principle of justice demands that those who willingly stripped themselves of the blessedness of glory should always be in the bitterness of misery. And that this should be without end, this is the reason: that they were created immortal.",
+      "notes": null
+    },
+    {
+      "chunk_id": 109,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cum ab aeterno esset a Deo dispositum, ut Filius ejus incarnaretur, videtur necessario homo peccasse, quatenus propositum Dei compleretur. Si [Col. 1207B] enim ipse non peccasset, Filius Dei incarnatus non esset; sicque statutum Dei irritum fieret. Ergo ex necessitate videtur utrumque pendere; et illum peccasse, et istum incarnatum fuisse.",
+      "english": "Student: Since it was arranged by God from eternity that his Son would be incarnated, it seems man necessarily sinned so that God's purpose would be fulfilled. For if man had not sinned, the Son of God would not have been incarnated, and thus God's decree would be made void. Therefore both seem to depend on necessity: that man sinned and that the Son was incarnated.",
+      "notes": null
+    },
+    {
+      "chunk_id": 110,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Deus praescivit ab aeterno hominis lapsum, et ideo ab aeterno proposuit Filium suum pro ejus redemptione incarnandum. Porro homo nulla necessitate, sed sola libera voluntate peccavit: et ideo Dominus peccatum illi imputavit: qui si necessario peccasset, reus non esset, cum hoc faceret quod vitare non posset.",
+      "english": "Master: God foreknew from eternity man's fall, and therefore from eternity he purposed that his Son would be incarnated for his redemption. But man sinned by no necessity, but by free will alone, and therefore the Lord imputed sin to him. For if he had sinned by necessity, he would not be guilty, since he would be doing what he could not avoid.",
+      "notes": null
+    },
+    {
+      "chunk_id": 111,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quia Dominus eum de peccato praemonuit, et ei poenam mortis proposuit, et ipse divina monita contempsit, idcirco reus exstitit: Quod autem Filius Dei est incarnatus, seu pro [Col. 1207C] homine immolatus, quantum ad ipsum, sola fuit voluntas; quantum ad hominem, summa necessitas. Nisi enim hic incarnaretur, ille nunquam salvaretur. Necesse ergo fuit homini, ut ille vellet incarnari.",
+      "english": "But because the Lord forewarned him about sin and set before him the punishment of death, and he despised the divine warnings, for this reason he became guilty. But that the Son of God was incarnated, or immolated for man, as far as he himself was concerned, was will alone; as far as man was concerned, it was absolute necessity. For unless the Son became incarnate, man would never be saved. Therefore it was necessary for man that he will to become incarnate.",
+      "notes": null
+    },
+    {
+      "chunk_id": 112,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur non angelus vel homo pro redimendo homine est missus, sed Dei Filius.",
+      "english": "Student: Why was not an angel or a man sent to redeem man, but the Son of God?",
+      "notes": null
+    },
+    {
+      "chunk_id": 113,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Ratio justitiae hoc poposcit. Angelus enim pro homine mitti non debuit, quia nihil homo ad angelicam naturam pertinuit. Homo vero mitti non debuit, quia omnis homo peccator fuit, et peccator peccatorem redimere non potuit. Illum ergo mitti oportuit, qui solus sine peccato, Deo hominem reconciliare potuit Rom. III, 10. Quia non est justus quisquam, [Col. 1208D] etc. Et Rom. V, 12. Sicut per unum hominem peccatum in hunc mundum intravit et per peccatum mors, et ita in omnes homines mors pertransiit in quo omnes peccaverunt. ] .",
+      "english": "Master: The principle of justice demanded this. For an angel ought not to have been sent for man, because man pertained nothing to angelic nature. But man ought not to have been sent, because every man was a sinner, and a sinner could not redeem a sinner. Therefore it was necessary that he be sent who alone without sin could reconcile man to God, as Paul's letter to the Romans, chapter three, verse ten says: Because there is no one just. And Romans chapter five, verse twelve: As through one man sin entered into this world and through sin death, and so death passed to all men in whom all sinned.",
+      "notes": null
+    },
+    {
+      "chunk_id": 114,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur nec Pater, nec Spiritus sanctus; sed [Col. 1207D] solus Filius est incarnatus?",
+      "english": "Student: Why was neither the Father nor the Holy Spirit, but the Son alone incarnated?",
+      "notes": null
+    },
+    {
+      "chunk_id": 115,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Justitia hoc exegit. Ipse enim quasi secundo loco post Patrem, est Deus, non dignitate, sed ordine. Aequalis est enim Deo Patri; ut puta, unum cum eo. Unde et similitudo Dei dicitur; diabolus autem sibi hoc privilegium usurpavit, dum similis Altissimo esse voluit, scilicet Deus dici, et ab angelis, ut Deus adorari. Et quia in coelo ab angelis hoc non obtinuit, in mundo ab hominibus, se ut Deum coli, et ut Deum adorari docuit. Oportuit ergo, ut [Col. 1208A] cui injuria facta est, veniret; et se verum Deum, et illum fallacem ostenderet.",
+      "english": "Master: Justice demanded this. For he is God in a second place after the Father, not in dignity but in order. For he is equal to God the Father, that is, one with him. From this he is also called the likeness of God. But the devil usurped this privilege for himself when he wanted to be like the Most High, namely to be called God and to be adored by angels as God. And because he did not obtain this from angels in heaven, in the world he taught men to worship him as God and to adore him as God. Therefore it was necessary that he to whom the injury was done should come, and show himself to be the true God and the devil to be a deceiver.",
+      "notes": null
+    },
+    {
+      "chunk_id": 116,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et cur in homine venit?",
+      "english": "Student: And why did he come as man?",
+      "notes": null
+    },
+    {
+      "chunk_id": 117,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Ut ipse innocens homo pro homine reo (Hebr. I, 33) , Deo Patri satisfaceret et per hominem tyrannum reprimeret, atque hominem ab eo deceptum erueret.",
+      "english": "Master: So that he, an innocent man, might make satisfaction to God the Father for guilty man, as the letter to the Hebrews, chapter one, verse thirty-three states, and through man might restrain the tyrant, and rescue man who had been deceived by him.",
+      "notes": "The citation appears erroneous in the original; Hebrews has only 14 verses in chapter 1"
+    },
+    {
+      "chunk_id": 118,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Per quid perdidit diabolus hominem quem quondam possedit?",
+      "english": "Student: Through what did the devil lose man whom he once possessed?",
+      "notes": null
+    },
+    {
+      "chunk_id": 119,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Per justitiam Dei et potentiam. In potentiam enim Dei, ut caecus graviter offendit; quia jam non solum Deo se aequavit; sed super Deum se exaltavit (Isa. XIV, 14) , dum se a Dei Filio, Patri coaequali in tentatione adorari imperavit. Offensam vero justitiae Dei graviter in passione incurrit, dum [Col. 1208B] justum et innocentem hominem occidit.",
+      "english": "Master: Through God's justice and power. For as one blind, he gravely offended the power of God, because now he not only made himself equal to God but exalted himself above God, as Isaiah chapter fourteen, verse fourteen records, when he commanded that he be worshiped by the Son of God, coequal with the Father, in the temptation. But he gravely incurred offense against God's justice in the passion, when he killed a just and innocent man.",
+      "notes": null
+    },
+    {
+      "chunk_id": 120,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ergo per justitiam expertus est potentiam. Nam, dum justus homo injuste occiditur, injustus tyrannus juste opprimitur; et homo deceptus, injuste oppressus, per justitiam redimitur, atque per potentiam super angelum (quem ut Deum coluit) constituitur. Unde adhuc prosperae res secundae dicuntur; quia per justitiam pervenitur ad aeternam potentiam.",
+      "english": "Therefore through justice he experienced power. For when a just man is unjustly killed, the unjust tyrant is justly oppressed, and deceived man, unjustly oppressed, is redeemed through justice and established through power above the angel whom he worshiped as God. From this, favorable circumstances are still called secondary, because through justice one arrives at eternal power.",
+      "notes": null
+    },
+    {
+      "chunk_id": 121,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Est in infantibus liberum arbitrium?",
+      "english": "Student: Is there free will in infants?",
+      "notes": null
+    },
+    {
+      "chunk_id": 122,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Naturaliter inest eis liberum arbitrium; sed ut ignis in silice latens, nihil in eis operatur.",
+      "english": "Master: Free will is naturally present in them, but like fire hidden in flint, it accomplishes nothing in them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 123,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur non omnes pueri pro redemptione salvantur, in quibus liberum arbitrium adhuc nihil [Col. 1208C] operatur?",
+      "english": "Student: Why are not all children saved through redemption, in whom free will as yet accomplishes nothing?",
+      "notes": null
+    },
+    {
+      "chunk_id": 124,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc ex ratione justitiae procedit, quia nihil homini praeter poenam debitum est.",
+      "english": "Master: This proceeds from the principle of justice, because nothing is owed to man except punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 125,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et quare plurimi salvantur, in quibus aeque liberum arbitrium nihil operatur?",
+      "english": "Student: And why are very many saved in whom free will equally accomplishes nothing?",
+      "notes": null
+    },
+    {
+      "chunk_id": 126,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc autem ex gratia descendit, quae etiam immeritis sua dona tribuit. Si alicujus civitatis populus regem offenderit, ipse quosdam juste puniret, quosdam clementer absolveret; sic cum totus mundus Deum offendisset, de quibusdam supplicium per justitiam sumpsit; quibusdam autem per misericordiam ignovit.",
+      "english": "Master: But this descends from grace, which also bestows its gifts on the undeserving. If the people of some city offended the king, he would justly punish some and mercifully absolve others. So when the whole world offended God, he exacted punishment through justice on some, but forgave others through mercy.",
+      "notes": null
+    },
+    {
+      "chunk_id": 127,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Unde est quod jam multi liberi arbitrii [Col. 1208D] compotes salvantur, et plurimi non salvantur?",
+      "english": "Student: From what source is it that now many who possess free will are saved, and very many are not saved?",
+      "notes": null
+    },
+    {
+      "chunk_id": 128,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Eadem causa est quae dicta est. Illi qui salvantur, ex gratia et libero arbitrio, et ex dono Dei, et non ex proprio merito salvantur homines. Ex gratia Dei quippe est, quod a Deo praeventi bonum volunt; ex libero arbitrio, quod bonum non deserunt. Cujus boni perseverantia, dono Dei, et merito hominis ascribitur: pro quo et vitae praemio remunerabitur. Qui enim perseveraverit usque in finem, salvus erit (Matth. XXIV, 13) .",
+      "english": "Master: The reason is the same as was stated. Those who are saved are saved from grace and free will, and from the gift of God, and not from their own merit. For it is from God's grace that, being preceded by God, they want the good; it is from free will that they do not abandon the good. Perseverance in this good is attributed both to God's gift and to man's merit, for which he will be rewarded with the prize of life. For whoever perseveres to the end will be saved, as the Gospel of Matthew, chapter twenty-four, verse thirteen declares.",
+      "notes": null
+    },
+    {
+      "chunk_id": 129,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "[Col. 1209A] DISC. Unde est quod quidam inveterati in malis tandem salvantur?",
+      "english": "Student: From what source is it that some who have grown old in evils are finally saved?",
+      "notes": null
+    },
+    {
+      "chunk_id": 130,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Ex gratia et libero arbitrio: ex gratia quippe praevenienti bona voluntas divinitus gratis inspiratur; ex libero arbitrio ipsi oblatae cooperantur, et pro hoc merito salvantur.",
+      "english": "Master: From grace and free will. For from prevenient grace, good will is divinely inspired as a gift; from free will they cooperate with what is offered to them, and for this merit they are saved.",
+      "notes": null
+    },
+    {
+      "chunk_id": 131,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec duo, ut anima et corpus, simul sunt. Per gratiam namque arbitrium (ut corpus per animam) vivificatur; arbitrium vero gratiae, ut corpus animae, cooperatur. Gratia sine libero arbitrio est per se potens ad salvandum; liberum arbitrium sine gratia, est impotens ad bonum operandum.",
+      "english": "These two are together like soul and body. For through grace, free will is vivified, as body through soul. But free will cooperates with grace as body with soul. Grace without free will is powerful in itself to save; free will without grace is powerless to work good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 132,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Igitur per gratiam liberum arbitrium multum operatur, cujus perseverantia primo coronatur. Gratia est, quod per plures annos, dum a pueritia usque [Col. 1209B] ad decrepitum, in malitia insatiabiliter grassantur, in ipso vitae exitu per poenitentiam ab ipsis diaboli faucibus rapiuntur, et paradisi amoenitate confruendi deducuntur.",
+      "english": "Therefore through grace, free will accomplishes much, and its perseverance is crowned first. It is grace that, through many years, while from childhood to decrepit old age they rage insatiably in wickedness, at the very end of life they are snatched through repentance from the very jaws of the devil and led to enjoy the pleasantness of paradise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 133,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Et cur alii non salvantur?",
+      "english": "Student: And why are others not saved?",
+      "notes": null
+    },
+    {
+      "chunk_id": 134,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hoc ex justitia et libero arbitrio esse non ignoratur. Ex justitia; quia gratia ad bonum non emolliuntur, sed indurari permittuntur, licet saepius fons gratiae in eos affluat, et eis poenitentiam ad horam tribuat, quam ipsi mox abjiciunt, et ut canes ad vomitum redeunt (Prov. XXVI, 11; Petr. II, 22) .",
+      "english": "Master: This is known to come from justice and free will. From justice, because they are not softened by grace unto good, but are permitted to be hardened, although often the fountain of grace flows over them and grants them repentance for a time, which they immediately cast off and return like dogs to their vomit, as the book of Proverbs, chapter twenty-six, verse eleven, and Peter's second letter, chapter two, verse twenty-two record.",
+      "notes": null
+    },
+    {
+      "chunk_id": 135,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ex libero arbitrio; quia justitiam oblatam recipere nolunt, et iniquitatem magis deligunt. Illis supradictis est verbum Dei causa salutis, et [Col. 1209C] via ad vitam; istis autem, causa mortis et testimonium ad interitum. Illi sunt vasa misericordiae, praeparata in honorem; isti vasa irae (Rom. IX, 22) , praeparata in contumeliam. De illis nemo perire poterit; de istis nemo salvus erit. Illis est praeparatum regnum a constitutione mundi; istis caminus ignis cum diabolo et angelis ejus Matth. XXV, 34. Monachi et eremitae. ] .",
+      "english": "From free will, because they refuse to receive the justice offered to them, and choose iniquity instead. For those mentioned above, the word of God is a cause of salvation and the way to life; but for these others, it is a cause of death and testimony to destruction. The former are vessels of mercy, prepared for honor; the latter are vessels of wrath, as Paul's letter to the Romans, chapter nine, verse twenty-two states, prepared for dishonor. Of the former, no one will be able to perish; of the latter, no one will be saved. For the former, a kingdom is prepared from the foundation of the world; for the latter, a furnace of fire with the devil and his angels, as the Gospel of Matthew, chapter twenty-five, verse thirty-four declares.",
+      "notes": "The marginal note 'Monachi et eremitae' appears to be a scribal note indicating the next section topic"
+    },
+    {
+      "chunk_id": 136,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ex hac varietate evenit quod plerique in monasteriis sub magna districtione vitam transigunt; quamplurimi in eremo degentes summa abstinentia vitam solitariam ducunt; ad extremum ad ima barathri descendunt.",
+      "english": "From this variety it happens that many pass their lives in monasteries under great strictness, and very many dwelling in the desert lead a solitary life with supreme abstinence, yet in the end descend to the depths of the abyss.",
+      "notes": null
+    },
+    {
+      "chunk_id": 137,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Hoc est omni admiratione stupendum.",
+      "english": "Student: This is stupefying beyond all wonder.",
+      "notes": null
+    },
+    {
+      "chunk_id": 138,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Accipe causas singulorum. Qui in monasteriis [Col. 1209D] pereunt, in sua prudentia confidunt; praelatorum monita contemnunt; in inobedientia obeunt. Qui vero in eremo intereunt, sine discretione vivunt, quando sibi eligunt ut sanctorum sectentur exempla, patris praecepta despiciendo aspernantur. De his scribitur: Sunt viae quae videntur hominibus justae, quarum finis deducit ad interitum Prov. XIV, 12, et XV, 25. Est via quae videtur homini justa, novissima autem ejus deducunt ad mortem. ] .",
+      "english": "Master: Receive the causes of each. Those who perish in monasteries trust in their own prudence, despise the warnings of their superiors, and die in disobedience. But those who perish in the desert live without discretion, when they choose for themselves to follow the examples of the saints while scorning and rejecting their father's precepts. Of these it is written in the book of Proverbs, chapters fourteen, verse twelve, and fifteen, verse twenty-five: There are ways that seem just to men, whose end leads to destruction.",
+      "notes": null
+    },
+    {
+      "chunk_id": 139,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quamobrem in eadem culpa pares, quidam salvantur, quidam reprobantur?",
+      "english": "Student: Why are some saved and some reproved when they are equal in the same fault?",
+      "notes": null
+    },
+    {
+      "chunk_id": 140,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Hinc incomprehensibilia Dei judicia praedicantur Rom. XI, 33. O altitudo divitiarum. ] , qui terribilis in consiliis super filios hominum (Psal. LXV, 5) affirmatur: qui eligit per misericordiam, [Col. 1210A] quem vult: et reprobat per justitiam, quem vult, cui nemo potest dicere: cur ita facis? Cujus universae viae misericordia et veritas (Psal. XXIV, 10) .",
+      "english": "Master: From this the incomprehensible judgments of God are proclaimed, as Paul's letter to the Romans, chapter eleven, verse thirty-three says: O the depth of riches. He is affirmed to be terrible in his counsels over the sons of men, as Psalm sixty-five, verse five declares. He chooses through mercy whom he wills, and reproves through justice whom he wills, to whom no one can say: Why do you do this? All his ways are mercy and truth, as Psalm twenty-four, verse ten states.",
+      "notes": null
+    },
+    {
+      "chunk_id": 141,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Utrum magis gratiae, an libero arbitrio salus ascribitur?",
+      "english": "Student: Is salvation attributed more to grace or to free will?",
+      "notes": null
+    },
+    {
+      "chunk_id": 142,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Summa salutis gratiae Dei attribuitur; cui etiam merita ascribuntur; quia nemo potest venire ad Filium ( qui est vita aeterna ) nisi Pater per gratiam, id est Spiritum sanctum, attraxerit eum (Joan. VI, 44) . Sine illo enim nihil possumus facere (Joan. XV, 5) . Deus quippe in nobis operatur et velle et posse, pro bona voluntate Philip. II, 13. Operatur velle et percefire, etc] .",
+      "english": "Master: The summit of salvation is attributed to God's grace, to which also merits are ascribed, because no one can come to the Son, who is eternal life, unless the Father through grace, that is the Holy Spirit, draws him, as the Gospel of John, chapter six, verse forty-four declares. For without him we can do nothing, as the Gospel of John, chapter fifteen, verse five states. For God works in us both the willing and the doing for good will, as Paul's letter to the Philippians, chapter two, verse thirteen declares.",
+      "notes": "The Latin marginal note 'Operatur velle et percefire' appears garbled"
+    },
+    {
+      "chunk_id": 143,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Si Deus operatur, quae merces homini imputatur? [Col. 1210B] MAG. Et Deus operatur, et electi cooperantur. Deus operatur in electis suis, sua gratia praeveniendo velle, et subsequendo posse. Cooperantur ipsi per liberum arbitrium, consentiendo bona voluntate.",
+      "english": "Student: If God works, what reward is imputed to man? Master: Both God works and the elect cooperate. God works in his elect, by his grace going before them to will and following to enable. They cooperate through free will by consenting with good will.",
+      "notes": null
+    },
+    {
+      "chunk_id": 144,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec bona voluntas remuneratur in eis, ut scriptum est: Accepimus gratiam pro gratia (Joan. I, 16) . Gratiam accipimus, cum nos Deus praevenit, ut velimus; et subsequitur, ut possimus. Pro hac gratia illam gratiam dabit; cum nos in gloria remunerabit.",
+      "english": "This good will is rewarded in them, as it is written in the Gospel of John, chapter one, verse sixteen: We have received grace for grace. We receive grace when God goes before us so that we may will, and follows so that we may be able. For this grace he will give that grace when he will reward us in glory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 145,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Solent quidam dicere, quod praedestinati necessario salventur. Quod si ita est, cur quidquam laborant? aut cur gentibus praedicatur ut convertantur? vel cur verbum admonitionis quotidie a sacerdotibus administratur populo, ut in proposito [Col. 1210C] Dei proficiant servitio?",
+      "english": "Student: Some are accustomed to say that the predestined are necessarily saved. If this is so, why do they labor at all? Or why is it preached to the gentiles that they should convert? Or why is the word of admonition administered daily by priests to the people so that they may advance in service to God's purpose?",
+      "notes": null
+    },
+    {
+      "chunk_id": 146,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Praedestinatio quidem Dei neminem violenter salvat, vel damnat. Olim pro meritis ad regnum praedestinati, tunc quidem necessario salvantur, cum ex justitia proposita gloria eorum meritis recompensatur: sed quia nullus se praedestinatum praesumit (cum nec vas electionis Paulus hoc de se praesumpserit) necesse est toto conamine labori incumbere, quo valeant praedestinationem obtinere.",
+      "english": "Master: God's predestination violently saves or damns no one. Those once predestined to the kingdom for their merits are indeed necessarily saved when from justice the proposed glory is recompensed to their merits. But because no one presumes himself predestined—since not even Paul, the vessel of election, presumed this of himself—it is necessary to apply oneself to labor with all effort, by which they may be able to obtain predestination.",
+      "notes": null
+    },
+    {
+      "chunk_id": 147,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per laborem namque praedestinatio vitae adipiscitur, ut in sacra auctoritate dicitur - Per multas tribulationes oportet nos introire in regnum Dei (Act. XIII, 21) . Infantibus itaque per mortis acerbitatem; juvenibus [Col. 1210D] per operis exercitationem in extremis poenitentiam agentibus, datur praedestinatio per purgatorii cruciatus examinationem.",
+      "english": "For through labor, predestination of life is obtained, as it is said in sacred authority: Through many tribulations we must enter the kingdom of God, as the Acts of the Apostles, chapter thirteen, verse twenty-one declares. Therefore to infants through the bitterness of death, to the young through the exercise of work, to those doing penance in their final moments, predestination is given through examination by the torments of purgatory.",
+      "notes": "The citation appears to be Acts 14:22, not 13:21 in standard Bible editions"
+    },
+    {
+      "chunk_id": 148,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Gentibus vero ideo praedicatur, quia praedestinati foris, in foro otiose stantes in vineam Domini ad laborem convocantur (Matth. X, 6) . Quibus etiam denarius in mercede proponitur: quia praedestinata gloria usque in finem laborantibus dabitur.",
+      "english": "But to the gentiles it is preached because the predestined who are outside, standing idle in the marketplace, are called into the Lord's vineyard for labor, as the Gospel of Matthew, chapter ten, verse six indicates. To whom also a denarius is proposed as reward, because the predestined glory will be given to those laboring to the end.",
+      "notes": "The parable reference is actually Matthew 20, not chapter 10"
+    },
+    {
+      "chunk_id": 149,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saepe quoque quidam de reprobis, cum eis in vineam ingrediuntur; sed in initio laboris ab opere deficiunt, et aut de vinca blasphemantes exeunt, aut in vinea manentes, laborantes impediunt. De [Col. 1211A] his dicitur: Ex nobis exierunt: sed non erant ex nobis I Joan. II, 19. Ex nobis prodierunt. ] . Et iterum: Multiplicati sunt super numerum (Psal. XXXIX, 6) : scilicet ad vitam praedestinatorum.",
+      "english": "Often also some of the reprobate enter the vineyard with them, but in the beginning of labor they fail from the work, and either leave the vineyard blaspheming, or remaining in the vineyard, they impede those laboring. Of these it is said in John's first letter, chapter two, verse nineteen: They went out from us, but they were not of us. And again in Psalm thirty-nine, verse six: They have multiplied beyond number—namely beyond the number of those predestined to life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 150,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Multi quidem per fidem sagenae Petri inhaeserunt (Matth. XIII, 47) ; sed quia in numero electorum praecogniti non sunt, in fluctus vitiorum, rupto reti, resilierunt.",
+      "english": "Many indeed clung through faith to Peter's net, as the Gospel of Matthew, chapter thirteen, verse forty-seven describes, but because they were not foreknown in the number of the elect, they sprang back into the waves of vices when the net broke.",
+      "notes": null
+    },
+    {
+      "chunk_id": 151,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Populus autem fidelium, in labore pii operis fatigatus, verbo admonitionis, ne deficiat, sublevatur. Sicut aeger ad ecclesiam vadens, sed in via deficiens, ut iter peragat, ab aliquo sustentatur.",
+      "english": "But the people of the faithful, wearied in the labor of pious work, are lifted up by the word of admonition lest they fail, just as a sick person going to church, but failing on the way, is sustained by someone so that he may complete the journey.",
+      "notes": null
+    },
+    {
+      "chunk_id": 152,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verbum quippe Dei est verum semen (Luc. VIII, 11) ; ager vero, corda hominum. Cum hoc semen per Dei agricultores spargitur; semen Dei gratia est. [Col. 1211B] Si autem ab agricultura recipitur, liberum arbitrium est: quod per fidem receptum, si germen bonorum operum emiserit, messis in praedestinata gloria erit.",
+      "english": "For the word of God is the true seed, as the Gospel of Luke, chapter eight, verse eleven declares; but the field is the hearts of men. When this seed is scattered by God's farmers, the seed is God's grace. But if it is received by the agriculture, it is free will. And this, received through faith, if it sends forth the sprout of good works, the harvest will be in predestined glory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 153,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cum haec cuncta, perspicua ratio, de luce veritatis proferat, oportet ut cunctis studiosis, per omnia valde complaceant. Porro me multum movet, quod angelica natura cadere potuit, si ad beatitudinem condita fuit: videtur enim, quod quaedam vis eam impulerit, quod ita irrecuperabiliter corruit. Nam nimis de lapsu hominis moveor quod de tanta gloria in tantam miseriam devenire potuit, si nulla necessitas eum impulit. [Col. 1211C] Unde rogo ut effundas cor tuum, et eructes veritatis arcanum.",
+      "english": "Student: Since clear reason brings forth all these things from the light of truth, they ought to please all the studious greatly in all respects. But I am much moved that angelic nature could fall if it was created for blessedness, for it seems that some force impelled it, that it fell so irrecoverably. For I am exceedingly moved about the fall of man, that he could descend from such great glory into such great misery if no necessity impelled him. Therefore I beg that you pour out your heart and bring forth the secret of truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 154,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Breviter tibi pandam Dei occulta, et reclusa cordis diligenter ausculta.",
+      "english": "Master: I will briefly lay open to you the hidden things of God, and listen carefully with the opened heart.",
+      "notes": null
+    },
+    {
+      "chunk_id": 155,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Antequam Deus conderet mundum, praescivit et angeli et hominis casum: quem ideo fieri permisit, quia bonum malo illustrari censuit.",
+      "english": "Before God created the world, he foreknew both the fall of angel and of man. He permitted this to happen because he judged that good should be illuminated by evil.",
+      "notes": null
+    },
+    {
+      "chunk_id": 156,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praescivit etiam, qui et quot secum essent permansuri, qui et quot essent recessuri, qui et quot ad se reversuri. Si enim hoc ignorasset, praescius futurorum non esset. Et si certus numerus electorum non esset, tunc regnum Dei, non ordinata dispositione, sed fortuito casu constaret, ad quod incerti numeri frequentia conflueret. Sed cum apud Deum sit certus numerus capillorum Matth. X, 30 et Luc. XXII, 7. Capilli capitis vestri omnes numerati sunt. ] , multo [Col. 1211D] magis est apud Deum praefixus numerus electorum.",
+      "english": "He also foreknew who and how many would remain with him, who and how many would depart, who and how many would return to him. For if he had not known this, he would not be foreknowing of future things. And if there were not a fixed number of the elect, then the kingdom of God would consist not by ordered disposition but by random chance, to which a crowd of uncertain number would flow together. But since with God there is a fixed number of hairs, as the Gospel of Matthew, chapter ten, verse thirty, and Luke, chapter twenty-two, verse seven declare: All the hairs of your head are numbered, much more is there with God a predetermined number of the elect.",
+      "notes": "The Luke citation appears erroneous; this saying is in Luke 12:7, not 22:7"
+    },
+    {
+      "chunk_id": 157,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quot autem sunt in hoc numero a Deo praescripti hi ante mundi constitutionem sunt ad beatitudinem electi. De his nullus peribit, sed ad praedestinatam gloriam toto conamine quisque festinabit. Qui autem super hunc numerum multiplicantur, inter oves Christi non numerantur.",
+      "english": "But however many are inscribed in this number by God, these were chosen for blessedness before the foundation of the world. Of these, no one will perish, but each one will hasten with all effort to predestined glory. But those who are multiplied beyond this number are not numbered among the sheep of Christ.",
+      "notes": null
+    },
+    {
+      "chunk_id": 158,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quia hic numerus angelis cadentibus est imminutus, hominibus nascentibus est restitutus. Et ideo sicut ab uno numerare incipimus, sic ab uno [Col. 1212A] homine numerus est incoeptus. Et, sicut numerus crescit ad perfectionem, ita propago humana successit usque ad electorum completionem.",
+      "english": "And because this number was diminished by the angels falling, it was restored by humans being born. And therefore just as we begin to count from one, so from one man the number was begun. And as the number grows to perfection, so human offspring succeeded until the completion of the elect.",
+      "notes": null
+    },
+    {
+      "chunk_id": 159,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic ergo sacer numerus, soli Deo cognitus, et ab eo, aeterna certitudine praefixus, est quasi cujusdam civitatis ambitus, intra quem necesse sit omnes contineri, cui hujus civitatis cives ab aeterno sunt praecogniti. Lex autem civitatis, inviolabilis justitia est a justissimo rege instituta, ac hujus servatores, justi cognominantur, et hi soli inter cives connumerantur.",
+      "english": "Therefore this sacred number, known to God alone and predetermined by him with eternal certainty, is like the boundary of a certain city, within which all must be contained, whose citizens of this city have been foreknown from eternity. But the law of the city is inviolable justice instituted by the most just king, and the keepers of this are called just, and these alone are numbered among the citizens.",
+      "notes": null
+    },
+    {
+      "chunk_id": 160,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Privilegium hujus sacrae civitatis, est libertas. Regnum ejus, beatitudo. Ergo omnes habitatores hujus civitatis sunt justi, liberi erant, legem hujus civitatis servare nolebant. Et ideo inter cives ejus numerari non poterant. Ad Dominium autem [Col. 1212B] ejus aspirabant, dum uterque ut Deus in ea esse appetebat.",
+      "english": "The privilege of this sacred city is freedom. Its kingdom is blessedness. Therefore all the inhabitants of this city are just and were free, but they did not want to keep the law of this city. And therefore they could not be numbered among its citizens. But they aspired to dominion over it, while each desired to be as God in it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 161,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Igitur nulla vis; nulla necessitas, eos ab hac urbe expulit; sed lex justitiae violatores juris in ea cives esse vetuit.",
+      "english": "Therefore no force, no necessity expelled them from this city, but the law of justice forbade violators of the law to be citizens in it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 162,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. O quam in excelsam speculam me duxisti, in qua plurima conspicio! sed quia adhuc aliqua sunt clausa, illa mihi aperiri postulo.",
+      "english": "Student: O how high a watchtower you have led me to, in which I see very many things! But because some things are still closed, I demand that they be opened to me.",
+      "notes": null
+    },
+    {
+      "chunk_id": 163,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Si homo per liberum arbitrium cadit, cur per liberum arbitrium non resurgit?",
+      "english": "If man falls through free will, why does he not rise again through free will?",
+      "notes": null
+    },
+    {
+      "chunk_id": 164,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Homo potest se de alto monte in profundum praecipitium per seipsum mittere; non potest autem, nisi per alium adjutus, redire. Ita per liberum arbitrium, justitiam quidam deserere; non per se autem, sed per solam gratiam potest eam recipere. A [Col. 1212C] quo enim quis vincitur, illius et servus efficitur II Petr. II, 19. A quo quis superatus est, [Col. 1212D] hujus et servus est. ] .",
+      "english": "Master: Man can throw himself from a high mountain into a deep precipice by himself, but he cannot return unless helped by another. So through free will, someone can abandon justice, but not by himself, but only through grace alone can he receive it back. For by whom someone is conquered, of that one he also becomes a servant, as Peter's second letter, chapter two, verse nineteen states: By whom someone is overcome, of that one he is also a servant.",
+      "notes": null
+    },
+    {
+      "chunk_id": 165,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam qui sponte luxuriae vel cuilibet vitio, cui praeest, addicitur; jam non valet per liberum arbitrium se de jugo dominationis ejus excutere, cujus dominio se libere voluit subjicere, nisi gratia Dei praeveniat eum, ut bonum quod sprevit cupiat; et subsequatur, ut illud implere praevaleat.",
+      "english": "For he who willingly addicts himself to luxury or to any vice over which it presides can no longer through free will shake off the yoke of its domination, to whose dominion he freely chose to subject himself, unless God's grace goes before him so that he desires the good which he scorned, and follows so that he may prevail to fulfill it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 166,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cum voluntas hominis sit facta libera, unde est ad malum tam prona, et ad bonum tam pigra?",
+      "english": "Student: Since man's will was made free, why is it so prone to evil and so sluggish toward good?",
+      "notes": null
+    },
+    {
+      "chunk_id": 167,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Omnis rationalis voluntas naturaliter cupit summum bonum; sed errore decepta labitur in falsum, quod est malum. Quilibet enim vult esse beatus, et ideo id quisque quam maxime appetit, in [Col. 1212D] quo se sperat fore beatum. Sed quia summum bonum, vel beatitudo, nonnisi in solo Deo consistit; quisquis aliquid infra Deum positum pro summo bono appetit, errat.",
+      "english": "Master: Every rational will naturally desires the supreme good, but deceived by error it slips into the false, which is evil. For everyone wants to be happy, and therefore each person most greatly desires that in which he hopes to be happy. But because the supreme good, or blessedness, consists in God alone, whoever desires something placed below God as the supreme good errs.",
+      "notes": null
+    },
+    {
+      "chunk_id": 168,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hujus autem erroris causa haec est: Deus condidit hominem justum et beatum, sine omni indigentia, in bonorum omnium sufficientia Eccl. VII, 30. Inveni quod Deus fecerit hominem rectum, et ipse infinitis miscuerit quaestionibus. ] , et dedit liberam voluntatem, justitiae et beatitudinis, ut voluntate justitiae, corpori subdito imperaret; voluntate beatitudinis, Deo obediret. Habuit ergo justitiam, ad honorem Dei; beatitudinem, ad commodum [Col. 1213A] suum. Et si servata justitia Deum honorasset, ad summam angelorum beatitudinem pervenisset.",
+      "english": "But the cause of this error is this: God created man just and blessed, without any need, in the sufficiency of all good things, as Ecclesiastes chapter seven, verse thirty declares: I found that God made man upright, and he himself mixed infinite questions. And God gave free will of justice and blessedness, so that by the will of justice he would rule over the subjected body, and by the will of blessedness he would obey God. Therefore he had justice for God's honor, and blessedness for his own advantage. And if, having kept justice, he had honored God, he would have attained to the supreme blessedness of the angels.",
+      "notes": null
+    },
+    {
+      "chunk_id": 169,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quia justitiam deseruit, beatitudinem amisit. Sed voluntatem beatitudinis retinuit. Quia ergo fervet desiderio commodorum; sed commoda rationalis naturae competentia, quae perdidit, habere non valet, ad falsa et brutorum commoda et bestiales appetitus se convertit. Et quia jumentis insipientibus similis factus est Psal. XLVIII, 13. Homo cum in honore esset, non intellexit; comparatus est jumentis insipientibus et similis factus est illis. ] : ideo per concupiscentiam ut bestia coit; cum dolore parit; lacte infantes, ut bestia catulos, nutrit; et sola commoda corporis appetit.",
+      "english": "But because he abandoned justice, he lost blessedness. Yet he retained the will for blessedness. Therefore, because he burns with desire for advantages, but cannot have the advantages befitting rational nature which he lost, he turns to false and brutish advantages and bestial appetites. And because he was made like senseless beasts, as Psalm forty-eight, verse thirteen declares: Man when he was in honor did not understand; he was compared to senseless beasts and made like them—therefore through concupiscence he mates like a beast, gives birth with pain, nurses infants with milk like a beast nurses cubs, and desires only the advantages of the body.",
+      "notes": null
+    },
+    {
+      "chunk_id": 170,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur bestiae pro his non damnantur?",
+      "english": "Student: Why are beasts not damned for these things?",
+      "notes": null
+    },
+    {
+      "chunk_id": 171,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Appetitus in brutis animalibus non sunt peccatum; sed sunt naturales, in hominibus vero [Col. 1213B] irrationales: caetera namque animantia feruntur necessitate; homo regitur libertate. Unde scribitur: Qui hoc fecerit, quod homo facere non debet, tollatur de hominibus.",
+      "english": "Master: Appetites in brute animals are not sin but are natural, but in humans they are irrational. For other living creatures are driven by necessity; man is governed by freedom. From this it is written: Whoever does this, which man ought not to do, let him be removed from among men.",
+      "notes": null
+    },
+    {
+      "chunk_id": 172,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quid est, quod quidam immenso conatu nituntur, ut bene vivant; et nihil proficiunt? aut post magnum profectum a proposito decidunt? Nonne aliqua occulta vis eos retrahit, ne coeptum opus implere possint?",
+      "english": "Student: What is it that some strive with immense effort to live well and accomplish nothing? Or after great progress they fall from their purpose? Does not some hidden force draw them back so that they cannot complete the work they began?",
+      "notes": null
+    },
+    {
+      "chunk_id": 173,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Nulla eos necessitas retrahit; sed sola voluntas eos avertit, dum magis volunt quod suggerit eis tentatio, quam quod persuadet ratio. Quidam etiam de arbitrio magis quam de gratia praesumunt; et cuncta suis meritis ascribunt: [Col. 1213C] ideo eos gratia deserente, juste laborem suum perdunt.",
+      "english": "Master: No necessity draws them back, but will alone turns them away, when they want more what temptation suggests to them than what reason persuades. Some also presume more on their own will than on grace, and attribute all things to their own merits. Therefore, with grace deserting them, they justly lose their labor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 174,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur Deus facit hominis arbitrium ita mutabile?",
+      "english": "Student: Why does God make man's will so changeable?",
+      "notes": null
+    },
+    {
+      "chunk_id": 175,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Ob magnum ejus proficuum: quod enim potest converti ad malum, potest iterato converti ad bonum. Si homo semel lapsus non esset mutabilis, nunquam esset ad bonum convertibilis.",
+      "english": "Master: For his great advantage. For what can be turned to evil can again be turned to good. If man once fallen were not changeable, he would never be convertible to good.",
+      "notes": null
+    },
+    {
+      "chunk_id": 176,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quare non fecit eum Deus, ut in bono esset immutabilis?",
+      "english": "Student: Why did God not make him so that he would be unchangeable in good?",
+      "notes": null
+    },
+    {
+      "chunk_id": 177,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Tunc esset Deo aequalis; hoc enim solius Dei est.",
+      "english": "Master: Then he would be equal to God; for this belongs to God alone.",
+      "notes": null
+    },
+    {
+      "chunk_id": 178,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Si quisque operatur libero arbitrio, quomodo operatur Deus omnia in omnibus?",
+      "english": "Student: If each person works by free will, how does God work all things in all?",
+      "notes": null
+    },
+    {
+      "chunk_id": 179,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Universa quae fiunt bona, sive in coelo, sive [Col. 1213D] in terra, seu in omni creatura, Deus solus bonus, per electos vel angelos vel homines operatur, cooperantibus eis per liberum arbitrium consentiendo.",
+      "english": "Master: All good things that happen, whether in heaven or on earth or in every creature, God alone who is good works through the elect, whether angels or men, with them cooperating by consenting through free will.",
+      "notes": null
+    },
+    {
+      "chunk_id": 180,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Operatur Deus per electos, ut per apostolos gentes convertit; ipse interius inspirando et incrementum dando: cooperantur ipsi per exterius ministerium, plantando et rigando.",
+      "english": "God works through the elect, as he converted the gentiles through the apostles, he himself inspiring within and giving increase. They cooperate through external ministry, planting and watering.",
+      "notes": null
+    },
+    {
+      "chunk_id": 181,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si quid autem electi, contrarii egerunt, ut in [Col. 1214A] Uria David (II Reg. XI, 1) , Deus hoc juste fieri permittit, quod tamen ipse in laudem sui convertit, dum post lapsum exstiterunt humiliores, et sibi grates referunt uberiores; quibus etiam ipsa peccata cooperantur in bonum Rom. VIII, 28. Diligentibus Deum omnia cooperantur in bonum. ] . Ergo omnia ex ipso et per ipsum (Rom. XI, 36) .",
+      "english": "But if the elect have done anything contrary, as David did with Uriah in the second book of Kings, chapter eleven, verse one, God justly permits this to happen, which nevertheless he himself converts to his praise, since after the fall they became more humble and render more abundant thanks to him. For them even sins themselves cooperate unto good, as Paul's letter to the Romans, chapter eight, verse twenty-eight states: For those who love God, all things cooperate unto good. Therefore all things are from him and through him, as Romans chapter eleven, verse thirty-six declares.",
+      "notes": null
+    },
+    {
+      "chunk_id": 182,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Per reprobos quoque Deus operatur, dum judicium suum per eos exercet, sicut per Chaldaeos Hierusalem destruxit (Jer. LII, 24) . Ecce unum et idem opus Deus et Chaldaei, diverso modo operati sunt; et tamen hic inde laudatur, et illi damnantur. Et quod ipse per justitiam, hoc ipsi per saevitiam egerunt.",
+      "english": "Through the reprobate also God works when he exercises his judgment through them, just as through the Chaldeans he destroyed Jerusalem, as Jeremiah chapter fifty-two, verse twenty-four records. Behold, one and the same work God and the Chaldeans accomplished in different ways, and yet he is praised for it and they are condemned. And what he did through justice, they did through cruelty.",
+      "notes": null
+    },
+    {
+      "chunk_id": 183,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Similiter per Judam Deus Filium suum tradidit (Matth. XXVI, 48) , et mundum a morte redemit. En [Col. 1214B] Deus et Judas, unum opus diversa mente operati sunt. Sed dum totus orbis inde Deum veneratur, Judam vero detestatur; quia quod Deus ob humani generis amicitiam, hoc Judas egit per avaritiam.",
+      "english": "Similarly through Judas, God handed over his Son, as the Gospel of Matthew, chapter twenty-six, verse forty-eight records, and redeemed the world from death. Behold, God and Judas accomplished one work with different minds. But while the whole world venerates God for this and detests Judas, it is because what God did for love of the human race, Judas did through greed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 184,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Audenter dico, quia Deus etiam per diabolum operatur, quod de justitia, per eum in reprobis exerceri decernitur. Sed quod Deus per justissimam aequitatem, hoc agit diabolus per nequissimam crudelitatem. Qui tamen non plus potest saevire in eos, quam permittitur. Unde Deus laudabiliter magnificatur; ille vero pro eodem damnabiliter reprobatur.",
+      "english": "I boldly say that God even works through the devil, in that what pertains to justice is determined to be exercised through him in the reprobate. But what God does through most just equity, the devil does through most wicked cruelty. Yet he cannot rage against them more than is permitted. From this God is praiseworthily magnified, but the devil is damnably reproved for the same thing.",
+      "notes": null
+    },
+    {
+      "chunk_id": 185,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quaecunque autem a reprobis per liberum arbitrium contra instituta committuntur, a Deo quidem [Col. 1214C] fieri sinuntur, et in laudem ejus vertuntur, dum juste ab eo poenis subiguntur. Igitur Deus omnia operatur, aut favendo aut sinendo.",
+      "english": "But whatever is committed by the reprobate through free will against what is established is indeed permitted by God to happen and is turned to his praise, when they are justly subjected by him to punishments. Therefore God works all things, either by favoring or by permitting.",
+      "notes": null
+    },
+    {
+      "chunk_id": 186,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quia ex ipso, ut in lib. Sap. legitur: A Deo bona et mala Eccli. XI, 14. Bona et mala, vita et mors, paupertas et honestas a Deo sunt. ] , omnia sunt bona, et nihil est malum, nisi quod amarum est his, qui aliquid asperi patiuntur, id malum appellatur. Et ideo omnia ad laudem et gloriam Dei, qui miseretur cui vult Rom. IX, 18. Cujus vult miseretur, et quem vult indurat. ] , gratiam largiendo; et indurat quem vult, in malitia relinquendo.",
+      "english": "And because from him, as is read in the book of Wisdom—from God come both good and evil, as Ecclesiasticus chapter eleven, verse fourteen says: Good and evil, life and death, poverty and honor are from God—all things are good, and nothing is evil except what is bitter to those who suffer something harsh, and that is called evil. And therefore all things are to the praise and glory of God, who has mercy on whom he wills, as Paul's letter to the Romans, chapter nine, verse eighteen declares: On whom he wills he has mercy, and whom he wills he hardens, bestowing grace and hardening whom he wills by leaving them in malice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 187,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Nunquam haec audita sunt in mundo?",
+      "english": "Student: Have these things never been heard in the world?",
+      "notes": null
+    },
+    {
+      "chunk_id": 188,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Imo, quotidie in Scripturis audiuntur Matth. XVIII, 18. Quaecunque solveritis super terram, erunt soluta et in coelo. Et n. 19: Quia si duo ex vobis consenserint super terram, de omni re quamcunque petierint, fiet illis a Patre meo qui in coelis est. Et XXVIII, 19: Euntes docete omnes gentes. ] ; sed a desidiosis et negligentibus non attenduntur: et ideo non intelliguntur. Cum vero in disputatione a doctis haec audierint, quasi a somno excitati stupescunt. [Col. 1214D] Vera esse dubitant, quia nusquam esse scripta putant. A studiosis autem leguntur, audiuntur, attenduntur, discutiuntur et intelliguntur, et in memoriam reducuntur.",
+      "english": "Master: Indeed, they are heard daily in the Scriptures, as the Gospel of Matthew, chapter eighteen, verse eighteen says: Whatever you loose on earth will be loosed in heaven. And verse nineteen: Because if two of you consent on earth about any matter whatever they ask, it will be done for them by my Father who is in heaven. And chapter twenty-eight, verse nineteen: Go and teach all nations. But they are not attended to by the lazy and negligent, and therefore are not understood. But when they hear these things from the learned in disputation, they are astonished as if awakened from sleep. They doubt they are true because they think they are written nowhere. But by the studious they are read, heard, attended to, examined, and understood, and brought back to memory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 189,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sponsus namque Christus abiens, sponsae Ecclesiae claves scientiae reliquit, quibus quotidie pulsantibus filiis, secreta Dei per intellectum reserans, aperit. A canibus autem, et a porcis, margaritas, ne coinquinentur, claudit.",
+      "english": "For the Bridegroom Christ, departing, left to his bride the Church the keys of knowledge, by which daily, to the sons who knock, he opens the secrets of God by unlocking understanding. But from dogs and from swine he closes the pearls lest they be defiled.",
+      "notes": null
+    },
+    {
+      "chunk_id": 190,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "[Col. 1215A] DISC. Cuncta quae proponis, tam validis testimoniis probando per illationem concludis, ut plus caeco probetur errare, qui haec praesumpserit pertinaciter impugnare.",
+      "english": "Student: All things which you propose, proving with such strong testimonies and concluding by inference, demonstrate that he errs more than a blind man who has presumed to attack these things obstinately.",
+      "notes": null
+    },
+    {
+      "chunk_id": 191,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Sed, quaeso, edisseras: Utrum prospera et adversa per liberum arbitrium eveniant.",
+      "english": "But I ask, explain: Do prosperity and adversity come about through free will?",
+      "notes": null
+    },
+    {
+      "chunk_id": 192,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Imo per gratiam et justitiam Dei. Gratia quidem Dei, prospera ministrat; justitia autem, adversa dispensat. Sed justi per prospera ad perennia bona provocantur: injusti autem per prospera, ut dives ille Luc., XVI, 25: Fili, recepisti bona in vita tua et Lazarus similiter mala; nunc autem hic consolatur, tu vero cruciaris. ] , remunerantur. Adversa autem ob tres causas electos tangunt. Primo, ut quidam a peccatis per adversa corrigantur, ut David; secundo, ut quidam tentati magis coronentur, ut Job; tertio, ut quidam a delectatione peccati retrahantur, [Col. 1215B] ut Paulus.",
+      "english": "Master: Rather through God's grace and justice. God's grace indeed dispenses prosperity, but justice dispenses adversity. But the just are provoked through prosperity to eternal goods, while the unjust are rewarded through prosperity, like that rich man in the Gospel of Luke, chapter sixteen, verse twenty-five: Son, you received good things in your life and Lazarus likewise evil things; but now he is consoled here, but you are tormented. But adversity touches the elect for three reasons. First, so that some may be corrected from sins through adversity, like David; second, so that some who are tested may be crowned more, like Job; third, so that some may be drawn back from the delight of sin, like Paul.",
+      "notes": null
+    },
+    {
+      "chunk_id": 193,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Reprobos vero ob duas causas feriunt. Primo, ut electi per eorum plagas corrigantur, ut in exitio Core legitur; secundo, ut ipsi a malitia, ne tantum quantum volunt, noceant, reprimantur, ut de Antiocho et Herode scribitur.",
+      "english": "But they strike the reprobate for two reasons. First, so that the elect may be corrected through their plagues, as is read in the destruction of Korah; second, so that they themselves may be restrained from malice lest they harm as much as they wish, as is written about Antiochus and Herod.",
+      "notes": null
+    },
+    {
+      "chunk_id": 194,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Parietem fodisti, et ecce apparet ostium. Cum Scriptura dicat, quod Pharao a Deo sit induratus Exod. IX, 16. Idcirco posui te ut ostendam in te fortitudinem meam et narretur nomen meum in universa terra. Et Rom. IX, 17: Quia in hoc ipsum excitavi te ut ostendam in te virtutem meam: et ut annuntietur nomen meum in universa terra. ] ; imo in hoc ipsum, ut annuntiaretur nomen Dei in universa terra per eum sit constitutus: quis non videat quod, necessitate cogente, populum afflixerit, cum in hoc ipsum constitutus sit, et quasi quodam fato trahente submersus sit?",
+      "english": "Student: You have dug through the wall, and behold a door appears. Since Scripture says that Pharaoh was hardened by God, as the book of Exodus, chapter nine, verse sixteen declares: For this purpose I have raised you up, that I may show my strength in you and that my name may be declared in all the earth. And Romans chapter nine, verse seventeen: Because for this very thing I raised you up, that I might show in you my power, and that my name might be declared in all the earth—indeed, he was established for this very purpose, that God's name might be declared in all the earth through him. Who does not see that, driven by necessity, he afflicted the people, since he was established for this very purpose and was submerged as if drawn by some fate?",
+      "notes": null
+    },
+    {
+      "chunk_id": 195,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Nota tria: Populum afflictum; Pharaonem [Col. 1215C] affligentem; Deum liberantem.",
+      "english": "Master: Note three things: The people afflicted, Pharaoh afflicting, God liberating.",
+      "notes": null
+    },
+    {
+      "chunk_id": 196,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Deus electos, ut vasa aurea per reprobos, in camino tribulationis, tentando examinat; sed ipsi reprobi non intendunt, quod eorum vexatio istis ad salutem proficiat, quos sola crudelitatis malitia tribulat.",
+      "english": "God tests the elect, like golden vessels through the reprobate, in the furnace of tribulation by trying them. But the reprobate themselves do not intend that their vexation might profit those for salvation whom the malice of cruelty alone afflicts.",
+      "notes": null
+    },
+    {
+      "chunk_id": 197,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Porro diabolum, qui libere justitiam deseruit, in injustitia, ut incudem malleatorum, indurari permisit, eumque fabrum, ad purganda vasa misericordiae constituit: qui faber omnes impios sibi instrumenta fecit. ex quibus Pharao unus exstitit; qui dum per liberum arbitrium Deo servire noluit, Deus, eum induravit; dum eum a malitia, et duritia non liberavit.",
+      "english": "Furthermore, the devil, who freely abandoned justice, God permitted to be hardened in injustice like the anvil of hammers, and established him as a smith for purifying the vessels of mercy. This smith made all the impious his instruments, of whom Pharaoh was one. When through free will he refused to serve God, God hardened him by not freeing him from malice and hardness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 198,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "[Col. 1215D] Et cum populus Dei per afflictionem esset tentandus, et adversitate probandus: Deus in hoc ipsum, Pharaonem ad tentandum populum constituit, dum ipse se per liberum arbitrium (ut puta unus de malleis diaboli) ad tundenda vasa Dei obtulit; sicque Pharao nescius, justis, quasi servus [Col. 1216A] filiis, servivit, dum eos a vasis irae segregans, flagellis erudivit.",
+      "english": "And when God's people were to be tested through affliction and proved through adversity, God for this very purpose established Pharaoh to test the people, when he offered himself through free will—as one of the devil's hammers, so to speak—to pound the vessels of God. And so Pharaoh, unknowing, served the just like a servant serves sons, while by separating them from the vessels of wrath, he instructed them with scourges.",
+      "notes": null
+    },
+    {
+      "chunk_id": 199,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Diabolus et impii malum quidem per se volunt non autem quantum volunt, sed quantum permittuntur facere poterunt. Et cum a Deo electis praevalere permittuntur, in hoc ipsum constitui dicuntur Videri merito debet in hac materia et modo loquendi D. Greg Exposi. moral. lib. XIII in c. 17 [Col. 1216D] Job, c. 12. Et lib. XXXIV, in c. 41, c. 10.] .",
+      "english": "The devil and the impious indeed want evil in themselves, but not as much as they want; rather, only as much as they are permitted can they do. And when they are permitted to prevail over God's elect, they are said to be established for this very purpose. On this matter and manner of speaking, Saint Gregory's Moral Exposition, book thirteen on Job chapter seventeen, chapter twelve, and book thirty-four on Job chapter forty-one, chapter ten, ought rightly to be consulted.",
+      "notes": "This appears to be a marginal scholarly note incorporated into the text"
+    },
+    {
+      "chunk_id": 200,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nomen autem Dei per Pharaonem omnibus innotuit, dum ipse cum omnibus suis juste interiit; et Deus ab eo oppressos, ut vasa jam igne examinata in fornace, signis et prodigiis eripuit.",
+      "english": "But God's name became known to all through Pharaoh, when he justly perished with all his own, and God rescued those oppressed by him, like vessels already tested by fire in the furnace, with signs and prodigies.",
+      "notes": null
+    },
+    {
+      "chunk_id": 201,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. De Juda quoque scribitur: Ut Scriptura impleatur, Qui manducat panem meum, levavit contra me calcaneum suum Joan. XVI, 18: Qui manducat panem meum, etc.] . Et iterum: Nemo periit ex his quos dedisti mihi, nisi filius perditionis, [Col. 1216B] ut Scriptura impleatur Joan. XVII, 12: Quos dedisti mihi custodivi, et nemo ex eis periit nisi filius perditionis, ut Scriptura impleatur. ] .",
+      "english": "Student: Also about Judas it is written: That Scripture might be fulfilled, He who eats my bread has lifted his heel against me, as the Gospel of John, chapter sixteen, verse eighteen records. And again: No one perished of those whom you gave me, except the son of perdition, that Scripture might be fulfilled, as the Gospel of John, chapter seventeen, verse twelve states: Those whom you gave me I have guarded, and no one of them perished except the son of perdition, that Scripture might be fulfilled.",
+      "notes": "The first citation is actually John 13:18, not 16:18"
+    },
+    {
+      "chunk_id": 202,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "Et cum Scripturam, ipso Domino teste, impleri necesse sit, quis nisi per omnia caecus non videat quod Judas quadam vi necessitatis impulsus, Dominum prodiderit; maxime cum Dominus venerat pati, et necesse fuerit eum per aliquem tradi?",
+      "english": "And since Scripture, with the Lord himself as witness, must be fulfilled, who unless blind in all things does not see that Judas, driven by some force of necessity, betrayed the Lord, especially since the Lord had come to suffer and it was necessary that he be handed over by someone?",
+      "notes": null
+    },
+    {
+      "chunk_id": 203,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Dominus quantum ad ipsum, non necessitate, sed liberrima voluntate pati voluit, quia natura divina impassibilis fuit: et hoc nobis fieri valde necessarium fuit; quos necessitas mortis ad interitum impulit.",
+      "english": "Master: The Lord, as far as he himself was concerned, willed to suffer not by necessity but by most free will, because the divine nature was impassible. And this was very necessary to be done for us, whom the necessity of death drove to destruction.",
+      "notes": null
+    },
+    {
+      "chunk_id": 204,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Judam nulla necessitas, sed malitiosa voluntas instigavit ad proditionem; dum Dominum cum Judaeis odisse, quam cum apostolis diligere maluit. Similiter Judaei nulla necessitate compulsi, sed [Col. 1216C] pessima voluntate impulsi eum occiderunt; dum eum gratis odio habuerunt, quem signis et virtutibus constare doluerunt.",
+      "english": "No necessity but malicious will instigated Judas to betrayal, when he preferred to hate the Lord with the Jews rather than to love him with the apostles. Similarly the Jews, compelled by no necessity but driven by the worst will, killed him, when they had gratuitous hatred for him whose signs and virtues they regretted were manifest.",
+      "notes": null
+    },
+    {
+      "chunk_id": 205,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quia Spiritus sanctus, cui omnia futura sunt praesentia, qui talia eos velle facturos praescivit; ita per prophetas in Scripturis praedixit, sicut postmodum totum contigit Psal. CVIII, 8: Fiant dies ejus pauci, et episcopatum ejus accipiat alter. ] : tamen illa Scriptura nullam necessitatem volendi vel faciendi eis intulit. Sicut ego, si bellum praescirem, et illud futurum praedicerem, verba mea non facerent bellum necessarium.",
+      "english": "But because the Holy Spirit, to whom all future things are present, foreknew that they would want to do such things, he thus predicted through the prophets in the Scriptures, just as afterward everything happened, as Psalm one hundred eight, verse eight says: Let his days be few, and let another take his office. Nevertheless that Scripture imposed no necessity of willing or doing on them. Just as if I foreknew a war and predicted it would happen, my words would not make the war necessary.",
+      "notes": null
+    },
+    {
+      "chunk_id": 206,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quid igitur quis hinc colligat, nisi necessarium fuisse, Christum a Judaeis crucifigi, qui venerat ab eis occidi, quod utique non fecisset, si facere [Col. 1216D] non debuisset?",
+      "english": "Student: What therefore should one gather from this, except that it was necessary for Christ to be crucified by the Jews, who had come to be killed by them, which surely he would not have done if he ought not to have done it?",
+      "notes": null
+    },
+    {
+      "chunk_id": 207,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Et credis tu solos Judaeos Christum occidisse? omnes iniqui ab initio usque in finem mundi, consenserunt in necem Christi Psal. LXXXVI, 5: Multiplicati sunt super capillos",
+      "english": "Master: And do you believe that the Jews alone killed Christ? All the wicked from the beginning to the end of the world consented to Christ's death, as Psalm eighty-six, verse five begins: They have multiplied beyond the hairs",
+      "notes": "Text appears to be cut off mid-sentence at column break"
+    },
+    {
+      "chunk_id": 208,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "capitis mei qui oderunt me gratis. ] : quot enim justitiam et veritatem odio habent, hi justos propter justitiam et veritatem, qui est, persequuntur, et omnes mortis Domini rei inveniuntur.",
+      "english": "of my head who have hated me without cause. All who hate justice and truth thereby persecute the just because of justice and truth, which is Christ himself. And so they are found guilty of the Lord's death.",
+      "notes": null
+    },
+    {
+      "chunk_id": 209,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vellent quippe, si possent, justos omnes delere, quo securi possent sua desideria absque contradictione explere. Ergo si illi non fecissent, similes illorum perfecissent.",
+      "english": "For they would gladly destroy all the just, if they could, so that they might pursue their own desires without opposition. Therefore, even if the Jews had not done this deed, others like them would have accomplished it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 210,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Introductus per te interius, multa praeclara considero; sed multa sigillata me non posse cernere doleo. Unde rogo ut, tradita tibi clave scientiae, haec clausa mihi aperias, et ista, involuta evolvens, me inspicere facias.",
+      "english": "DISCIPLE: Led inward by you, I behold many splendid things. But many remain sealed, and I grieve that I cannot perceive them. Therefore I beg you, with the key of knowledge given to you, open what is closed to me. Unfold what is wrapped up, and let me see it clearly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 211,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Tam diligenter pulsanti, Dominus per me prospera respondens, arcana secretorum tibi aperiet.",
+      "english": "MASTER: To one who knocks so diligently, the Lord will answer favorably through me, and reveal to you the hidden mysteries.",
+      "notes": null
+    },
+    {
+      "chunk_id": 212,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quidnam causae esse dicimus, quod Deus permittit eos diu errare, quos praedestinavit, perenniter secum regnare?",
+      "english": "DISCIPLE: Why do we say that God permits those whom he has predestined to reign with him forever to wander in error for so long?",
+      "notes": null
+    },
+    {
+      "chunk_id": 213,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Per hoc longanimitati patientiae suae praerogat, quod etiam diutius in errorem, ut Paulum, tolerat : quod vero eos repente ad poenitentiam, ut idem Paulum et Mariam revocat ; divitias misericordiae suae insinuat. Pro his in mundum venit; pro his et mortem subiit.",
+      "english": "MASTER: By tolerating some in error for a long time, like Paul, God displays the greatness of his patient endurance. And by suddenly calling them to repentance, as he did with Paul and Mary Magdalene, he reveals the riches of his mercy. He came into the world for such people. For such people he even underwent death.",
+      "notes": "References Romans 2:4 and Luke 8 (Mary Magdalene's conversion)"
+    },
+    {
+      "chunk_id": 214,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quamvis pro peccatoribus mortuus sit, Annae et Caiphae, Herodi et Pilato, mors ejus non profuit, sed multum obfuit; non idcirco solum quod in morte Domini conspiraverant, sed ideo, quia bonum gratis odio habuerant, et poenitere neglexerant.",
+      "english": "And although he died for sinners, his death did not profit Annas and Caiaphas, Herod and Pilate. Rather, it harmed them greatly. This was not only because they conspired in the Lord's death, but because they hated goodness without cause and refused to repent.",
+      "notes": "References John 15:25"
+    },
+    {
+      "chunk_id": 215,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Caeterum electi quamplures, in nece Christi, quamvis ignoranter, consenserant, pro quibus ipse et in cruce oravit, dicens: Pater, ignosce illis, quia nesciunt quid faciunt ; et sanguinem post credendo biberunt, quem prius saeviendo fuderunt.",
+      "english": "But many of the elect consented to Christ's death, though ignorantly. For these he prayed even on the cross, saying, Father, forgive them, for they do not know what they are doing. And later, by believing, they drank the blood that they had earlier shed in violence.",
+      "notes": "References Luke 23:34 and Gregory's Moralia in Job 13.11"
+    },
+    {
+      "chunk_id": 216,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cum malefacta hominum Deo nihil noceant, et eorum bene gesta nihil conferant: cur eos post mortem segregat, et non omnes pariter et aequaliter in unum locat?",
+      "english": "DISCIPLE: Since human evil deeds do not harm God, and their good deeds do not benefit him, why does he separate people after death? Why doesn't he place them all together equally in one place?",
+      "notes": null
+    },
+    {
+      "chunk_id": 217,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Rationi justitiae repugnat, ut justi cum injustis, et econtra, locum obtineant, . . . . . . . et multipliciter variando totam picturam distinguit.",
+      "english": "MASTER: It contradicts the principle of justice that the just should occupy the same place as the unjust, or vice versa. God distinguishes the whole picture through manifold variation.",
+      "notes": "Text appears corrupted with ellipsis in original"
+    },
+    {
+      "chunk_id": 218,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ideo, sicut pictor opus suum coloribus variat, sic Deus regnum suum discretis ordinibus egregie clarificat. Quis enim esset decor picturae, si laquear totum cooperiret uno colore? nec pictura etiam posset dici.",
+      "english": "Therefore, just as a painter varies his work with colors, so God magnificently illuminates his kingdom with distinct orders. For what beauty would a painting have if the whole ceiling were covered with one color? Indeed, it could not even be called a painting.",
+      "notes": null
+    },
+    {
+      "chunk_id": 219,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nunc diversos colores diversis locis pingit: et sic opus suum visui delectabile reddit. Sic insignitor lapidum varias gemmas diversis locis imprimit, et sic opus suum pretiosius efficit.",
+      "english": "But now he paints different colors in different places, and thus makes his work delightful to the sight. Similarly, the jeweler sets various gems in different places, and thus makes his work more precious.",
+      "notes": null
+    },
+    {
+      "chunk_id": 220,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Ad quid ultimum judicium restat?",
+      "english": "DISCIPLE: Why does a final judgment remain to come?",
+      "notes": null
+    },
+    {
+      "chunk_id": 221,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Justitiae ratio exigit, ut judicium fiat; ut qui nunc se hypocrisi occultant, iniqui appareant; et qui nunc publice in flagitiis gloriantur, dignis tunc suppliciis juste subdantur;",
+      "english": "MASTER: The principle of justice demands that judgment be made. Those who now hide themselves in hypocrisy will appear as wicked. And those who now publicly glory in their crimes will then justly be subjected to fitting punishments.",
+      "notes": null
+    },
+    {
+      "chunk_id": 222,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "et qui leges contemnunt, justitiam despiciunt, pauperes et justos opprimunt, et per potentiam securi sunt, de rapinis florent, de damno aliorum gaudent, justis insultant, verba Dei calcant, pro talibus et his similibus laudantur, per terrorem ab hominibus honorantur:",
+      "english": "Those who despise laws, scorn justice, oppress the poor and the just, who feel secure through their power, who flourish through robbery, rejoice in others' harm, insult the just, trample God's words, who are praised for such things and similar deeds, who are honored by people through fear:",
+      "notes": null
+    },
+    {
+      "chunk_id": 223,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "hi, inquam, tunc a justis hic oppressis, et gaudio sequestrentur, et injustis in supplicio consocientur. Justi autem qui nunc injuste oppressi sunt, releventur; et qui bene viventes egerunt, remunerentur; et qui propter justitiam in opprobrio erant, honorentur.",
+      "english": "these, I say, will then be separated from joy and united with the unjust in punishment. But the just who are now unjustly oppressed will be raised up. Those who lived and acted well will be rewarded. And those who were in disgrace for the sake of justice will be honored.",
+      "notes": null
+    },
+    {
+      "chunk_id": 224,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Nunc, cur in paradiso positus sit homo, cum ibi permansurus non esset, edicito.",
+      "english": "DISCIPLE: Now tell me why man was placed in paradise when he was not going to remain there.",
+      "notes": null
+    },
+    {
+      "chunk_id": 225,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Protoplastus ad beatitudinem creatus, in paradiso, id est, in loco voluptatis, locatus erat: sed, quia praeceptum Domini servare noluit, ideo contemptor juste exsilium subiit;",
+      "english": "MASTER: The first man was created for blessedness and placed in paradise, that is, in a place of delight. But because he refused to keep the Lord's command, he justly suffered exile as a rebel.",
+      "notes": "'Protoplastus' means 'first-formed' - Adam"
+    },
+    {
+      "chunk_id": 226,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "qui si nihil de paradisi deliciis gustasset, sed acceptum mandatum violasset, nunquam forsitan poenitentiam egisset, et sic semper exsul foret. Postquam vero expertam paradisi dulcedinem, sed cito amissam, ad memoriam revocavit, gravi se poenitentia multavit. Ideo rediit, et ideo reditum meruit.",
+      "english": "If he had tasted nothing of paradise's delights but had violated the command he received, perhaps he would never have repented and would thus have remained an exile forever. But after he recalled to memory the sweetness of paradise that he had experienced but quickly lost, he punished himself with heavy repentance. Therefore he returned, and therefore he merited return.",
+      "notes": null
+    },
+    {
+      "chunk_id": 227,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De cujus mox utero, quasi de quodam castello, geminus exercitus, electorum scilicet et reproborum, prodiit; et acta hac re, certamen implacabili discordia iniit.",
+      "english": "From his womb, as if from a certain fortress, a double army soon came forth, namely of the elect and the reprobate. And when this was done, they joined battle with implacable discord.",
+      "notes": "'His womb' refers to Adam as progenitor of humanity"
+    },
+    {
+      "chunk_id": 228,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In hac itaque pugna magna in utrumque certatur, et victores quidem laureati triumphantes astra petunt: victi autem confusi, ad ima barathri descendunt.",
+      "english": "In this great battle, the struggle goes both ways. The victors, crowned and triumphant, seek the stars. But the vanquished, in confusion, descend to the depths of hell.",
+      "notes": null
+    },
+    {
+      "chunk_id": 229,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sta etiam hic, et considera utrorumque instantiam.",
+      "english": "Stand here now and consider the determination of both sides.",
+      "notes": null
+    },
+    {
+      "chunk_id": 230,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Citizens of Jerusalem Walk in Humility",
+      "latin": "De civibus Jerusalem humilibus.",
+      "english": "Concerning the humble citizens of Jerusalem.",
+      "notes": null
+    },
+    {
+      "chunk_id": 231,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aliquis per viam humilitatis, ab infantia incedit, et usque ad senilem aetatem, semper in melius proficit. Omnes homines superiores sibi putat; se vero inferiorem omnibus aestimat. Omnium actus laudat; suos reprobat.",
+      "english": "Someone walks the path of humility from childhood, and up to old age always advances toward what is better. He considers all people superior to himself, and judges himself inferior to everyone. He praises all others' actions, but condemns his own.",
+      "notes": null
+    },
+    {
+      "chunk_id": 232,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Chaste Citizen of Jerusalem",
+      "latin": "De cive Jerusalem casto.",
+      "english": "Concerning the chaste citizen of Jerusalem.",
+      "notes": null
+    },
+    {
+      "chunk_id": 233,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius castitatis semitam arripit, magna custodia sensus suos munit, et tamen omnes alios sanctos computat, et se velut immundum judicat.",
+      "english": "Another seizes the path of chastity, guarding his senses with great care. And yet he counts all others as holy and judges himself as unclean.",
+      "notes": null
+    },
+    {
+      "chunk_id": 234,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Patient Citizen",
+      "latin": "De patiente.",
+      "english": "Concerning the patient one.",
+      "notes": null
+    },
+    {
+      "chunk_id": 235,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius patientiae callem calcat, universa dura et aspera pro Christo patienter tolerat, alios mansuetos reputat, seipsum immilem cogitat.",
+      "english": "Another treads the way of patience, patiently enduring all harsh and difficult things for Christ. He considers others gentle, but thinks himself harsh.",
+      "notes": null
+    },
+    {
+      "chunk_id": 236,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Abstinent Citizen",
+      "latin": "De abstinente.",
+      "english": "Concerning the abstinent one.",
+      "notes": null
+    },
+    {
+      "chunk_id": 237,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius per abstinentiae iter graditur; magna castigatione carnis maceratur: et tamen alios in abstinentia districtiores honorando aestimat se ut voracem damnat.",
+      "english": "Another walks the path of abstinence and wastes away through great mortification of the flesh. Yet in honor he considers others stricter in abstinence, and condemns himself as gluttonous.",
+      "notes": null
+    },
+    {
+      "chunk_id": 238,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Citizen Who Has Charity",
+      "latin": "De charitatem habente.",
+      "english": "Concerning the one who has charity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 239,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius per latitudinem charitatis incedens, non solum amicos in Deo, sed etiam inimicos propter Deum diligit; contumelia accepta non solum poscenti veniam, injuriam laxat, sed etiam ipse reconciliari festinat.",
+      "english": "Another, walking in the breadth of charity, loves not only friends in God but even enemies for God's sake. When he suffers insult, he not only forgives the injury when the offender seeks pardon, but he himself hastens to be reconciled.",
+      "notes": null
+    },
+    {
+      "chunk_id": 240,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec et talia sunt civium Jerusalem itinera, quibus ab exsilio properant ad aeterna tabernacula.",
+      "english": "These and such like are the paths of the citizens of Jerusalem, by which they hasten from exile to the eternal dwelling places.",
+      "notes": null
+    },
+    {
+      "chunk_id": 241,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Citizens of Babylon and the Reprobate",
+      "latin": "De civibus Babyloniae et de reprobis.",
+      "english": "Concerning the citizens of Babylon and the reprobate.",
+      "notes": null
+    },
+    {
+      "chunk_id": 242,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verte te ad cives Babyloniae, et vide quales sint, per quas tendunt, plateae.",
+      "english": "Turn now to the citizens of Babylon and see what kind they are, and by what streets they travel.",
+      "notes": null
+    },
+    {
+      "chunk_id": 243,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Lustful Citizen of Babylon",
+      "latin": "De luxurioso.",
+      "english": "Concerning the lustful one.",
+      "notes": null
+    },
+    {
+      "chunk_id": 244,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aliquis a primaeva aetate a luxuria inchoat; et in hac insatiabiliter usque ad decrepitum perdurat, nunquam quid jam fecerit, sed quid adhuc facere possit, pertractat.",
+      "english": "Someone begins with lust from earliest youth and continues insatiably in it until decrepit old age, never considering what he has already done but only what he can still do.",
+      "notes": null
+    },
+    {
+      "chunk_id": 245,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Gluttonous Citizen",
+      "latin": "De guloso.",
+      "english": "Concerning the gluttonous one.",
+      "notes": null
+    },
+    {
+      "chunk_id": 246,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius voracitati et ebrietati a pueritia se subjicit, et usque ad ultimam senectutem his insistit.",
+      "english": "Another subjects himself to gluttony and drunkenness from boyhood and persists in these things until the very end of old age.",
+      "notes": null
+    },
+    {
+      "chunk_id": 247,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Rapacious and Cruel",
+      "latin": "De rapacibus et crudelibus.",
+      "english": "Concerning the rapacious and cruel.",
+      "notes": null
+    },
+    {
+      "chunk_id": 248,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Alius toto nisu rapere festinat; alius furtis invigilat; alius crudelitate pascitur; alius lucris non satiatur. Hic invidia tabescit; hic vero immunditia sordescit. Hic superbia erectus, cunctos despicit; hic odio plenus, cunctos mendaciis, et detractionibus afficit.",
+      "english": "Another hastens to plunder with all his effort. Another keeps watch for opportunities to steal. Another feeds on cruelty. Another is never satisfied with gain. This one wastes away with envy, while that one grows foul with filth. This one, puffed up with pride, despises everyone. That one, full of hatred, afflicts everyone with lies and slander.",
+      "notes": null
+    },
+    {
+      "chunk_id": 249,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tales et tales sunt plateae reproborum, quibus irrevocabiliter festinant ad profunda inferorum.",
+      "english": "Such are the streets of the reprobate, by which they hasten irrevocably to the depths of hell.",
+      "notes": null
+    },
+    {
+      "chunk_id": 250,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Different Ways Citizens Fight Each Other",
+      "latin": "De diverso modo pugnandi civium Hierusalem, contra cives Babyloniae, et econtra.",
+      "english": "Concerning the different manner of fighting between the citizens of Jerusalem and the citizens of Babylon, and vice versa.",
+      "notes": null
+    },
+    {
+      "chunk_id": 251,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Aspice nunc etiam acies diverso modo ad pugnam instructas.",
+      "english": "Look now at the battle lines drawn up for combat in different ways.",
+      "notes": null
+    },
+    {
+      "chunk_id": 252,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Reprobi justorum verba et opera abominantur, et consortia eorum detestantur, et refugiunt omne eorum consilium. Saepe eos callide circumveniunt; saepius bona eorum fraudulenter aut etiam violenter diripiunt; saepissime eos verberibus, vel etiam cruciatibus affligunt, aut in membrorum truncatione, vel variis suppliciis interimunt.",
+      "english": "The reprobate abominate the words and works of the just, detest their company, and flee from all their counsel. Often they craftily entrap them. More often they fraudulently or even violently seize their goods. Most often they afflict them with beatings or tortures, or kill them by mutilating their limbs or inflicting various punishments.",
+      "notes": null
+    },
+    {
+      "chunk_id": 253,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Econtra justi reproborum mores, ut grave pondus, sufferunt; de miserabili illorum conversatione gemunt; contagia eorum, quantum possunt, devitant; citius ab illorum contubernio liberari optant; pro eorum salute Deo supplicant; necessaria quae possunt, eis subministrant.",
+      "english": "On the other hand, the just endure the ways of the reprobate as a heavy burden. They groan over their miserable manner of life. They avoid their contamination as much as they can. They desire to be freed from association with them as soon as possible. They pray to God for their salvation. They provide them with necessities as they are able.",
+      "notes": null
+    },
+    {
+      "chunk_id": 254,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Harmony Among Jerusalem Versus Discord in Babylon",
+      "latin": "De bona concordia civium Jerusalem, et mala concordia civium Babyloniae.",
+      "english": "Concerning the good harmony of the citizens of Jerusalem and the evil harmony of the citizens of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 255,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Adhuc aliud considera. Electi omnes in bono concordant, et bonum quod non praevalent facere, in aliis amant.",
+      "english": "Consider yet another thing. The elect all agree in goodness, and they love in others the good that they themselves cannot accomplish.",
+      "notes": null
+    },
+    {
+      "chunk_id": 256,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Reprobi vero, in malo omnes concordes sunt; in bono semper discordes existunt, et si alicui illorum ab aliquo justorum, forte increpationis vel admonitionis offertur verbum, omnes resistunt; omnes pariter contradicunt;",
+      "english": "But the reprobate are all in agreement about evil. In good things they are always discordant. And if perhaps a word of reproof or admonition is offered to any of them by any of the just, they all resist. They all contradict together.",
+      "notes": null
+    },
+    {
+      "chunk_id": 257,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ipsi etiam qui non faciunt, quia bona quae facere nolunt, in aliis odio habent, moleste ferunt. Ideo eum omnes, etiam quem non noverunt, dignum odio dicunt, mendaciis detrahunt, injuriis lacessunt.",
+      "english": "Even those who do not themselves do evil things, because they hate in others the good things they refuse to do, take it badly. Therefore they all declare worthy of hatred even the person they do not know. They slander him with lies and provoke him with injuries.",
+      "notes": null
+    },
+    {
+      "chunk_id": 258,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Contemplare diligenter, et videbis in isto toto certamine, semper Cain paratum in acie contra Abel stare; et Ismael armatum adversus Isaac; Esau pugnare contra Jacob; Saul resistere David; Judam in Dominum, et Simonem Magum irruere in Petrum.",
+      "english": "Look carefully and you will see in this entire conflict Cain always standing ready in battle line against Abel, Ishmael armed against Isaac, Esau fighting against Jacob, Saul resisting David, Judas against the Lord, and Simon Magus rushing against Peter.",
+      "notes": null
+    },
+    {
+      "chunk_id": 259,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vide etiam in hoc agone: qualiter saepe reprobi cum electis currere proponunt, et aliquando diu currunt, et in itinere fatigati, deficiunt, et turpiter ut canes ad vomitum redeunt.",
+      "english": "See also in this contest how often the reprobate propose to run with the elect. Sometimes they run for a long time, but then, weary on the journey, they fail and shamefully return to their vomit like dogs.",
+      "notes": "References Proverbs 26:11 and 2 Peter 2:22"
+    },
+    {
+      "chunk_id": 260,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Particular Citizens of Babylon: Princes and Judges",
+      "latin": "De civibus Babyloniae in particulari, et primo de his qui sunt principes et judices super alios.",
+      "english": "Concerning the citizens of Babylon in particular, and first concerning those who are princes and judges over others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 261,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Veni huc ad supercilium montis, unde cuncta aedificia conspicere possis damnatae civitatis, Intuere principes et judices. Ecce posita est in eis bestiae sedes.",
+      "english": "Come here to the brow of the mountain where you can survey all the buildings of the condemned city. Look at the princes and judges. Behold, in them is placed the throne of the beast.",
+      "notes": null
+    },
+    {
+      "chunk_id": 262,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Omni tempore sunt ad malum intenti, semper in negotiis iniquitatis inexplebiliter occupati flagitia non solum faciunt, sed et alios facere instruunt, sancta vendunt, scelera emunt, totis viribus laborant, ne soli ad tartara veniant.",
+      "english": "At all times they are intent on evil, always occupied insatiably in the business of iniquity. They not only commit crimes themselves, but teach others to do so. They sell holy things and buy crimes. They labor with all their strength lest they come to hell alone.",
+      "notes": null
+    },
+    {
+      "chunk_id": 263,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Clergy and Priests of Babylon",
+      "latin": "De clericis et sacerdotibus Babyloniae.",
+      "english": "Concerning the clergy and priests of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 264,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verte te ad clerum, et videbis in eis bestiae tentorium. Dei servitium negligunt; terrenis lucris inserviunt; sacerdotium per immunditiam polluunt; populum per simulationem seducunt; Deum per mala opera abnegant;",
+      "english": "Turn to the clergy and you will see in them the tent of the beast. They neglect the service of God. They serve earthly gain. They pollute the priesthood through filth. They seduce the people through pretense. They deny God through evil works.",
+      "notes": null
+    },
+    {
+      "chunk_id": 265,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "omnes Scripturas ad salutem pertinentes abdicant; omnibus modis se laqueum et ruinam populo offerunt; quem caecum ipsi caeci ad interitum praeeunt.",
+      "english": "They reject all the Scriptures that pertain to salvation. In every way they offer themselves as a snare and ruin to the people. Blind themselves, they lead the blind people before them to destruction.",
+      "notes": null
+    },
+    {
+      "chunk_id": 266,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Monks of Babylon",
+      "latin": "De monachis Babyloniae.",
+      "english": "Concerning the monks of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 267,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Contemplare etiam monachorum conciliabuta, et videbis in eis bestiae tabernacula. Per fictam professionem Deum irridentes iram ejus provocant; normam ejus regularem moribus et vita calcant; per habitum saeculum fallunt.",
+      "english": "Look also at the gatherings of monks, and you will see in them the tabernacles of the beast. By their false profession they mock God and provoke his anger. They trample his regular rule with their behavior and life. They deceive the world through their habit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 268,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "multos ipsi decepti decipiunt; saecularibus negotiis implicati sunt, id est in servitio Dei desides existunt; plerique illorum gulae et illecebris dediti sunt; quidam immunditiae sordibus computrescunt.",
+      "english": "Deceived themselves, they deceive many others. They are entangled in worldly business, that is, they are lazy in God's service. Many of them are devoted to gluttony and pleasures. Some rot in the filth of impurity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 269,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Nuns of Babylon",
+      "latin": "De monialibus Babyloniae.",
+      "english": "Concerning the nuns of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 270,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Prospice etiam habitacula monialium, et cernes in eis bestiae praeparatum thalamum. Hae a tenera aetate impudicitiam discunt; complices sibi quamplurimas ad cumulum suae damnationis asciscunt;",
+      "english": "Look also at the dwellings of nuns, and you will see in them the prepared bridal chamber of the beast. From tender youth they learn shamelessness. They gather many accomplices for the increase of their damnation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 271,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "velo se operire festinant, quo magis frena luxuriae laxare queant omnibus fornicariis; stercore immunditiae implentur; hae mentes juvenum illaqueant et gaudent, si plures decipiant; et haec vult habere palmam victoriae, quae aliis praevalet inscelere.",
+      "english": "They hasten to cover themselves with a veil so that they may more freely loosen the reins of lust with all fornicators. They are filled with the filth of impurity. They ensnare the minds of young men and rejoice if they deceive many. And she wishes to have the palm of victory who surpasses others in wickedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 272,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Common People of Babylon",
+      "latin": "De communi plebe civitatis Babyloniae.",
+      "english": "Concerning the common people of the city of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 273,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verte te ad reliquam plebem, et invenies bestiae effigiem. Sacerdotes despiciunt; de Deo quidquam audire contemnunt; totum tempus vitae in vanitate et jactantia ducunt, et ad omne opus suum reprobi sunt.",
+      "english": "Turn to the rest of the common people and you will find the image of the beast. They despise priests. They scorn to hear anything about God. They spend their whole lifetime in vanity and boasting, and they are reprobate for every good work.",
+      "notes": null
+    },
+    {
+      "chunk_id": 274,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vulgus quoque indoctum bestiae habet idolum; Deum verum non noscunt; Deo ventri tota intentione deserviunt; per varia carnis desideria diffluunt, et per omnia vitam bestialem ducunt.",
+      "english": "The uneducated rabble also has the idol of the beast. They do not know the true God. They serve the god of the belly with their whole intention. They dissolve in various fleshly desires and in all things live a bestial life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 275,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Women of Babylon",
+      "latin": "De mulieribus Babyloniae.",
+      "english": "Concerning the women of Babylon.",
+      "notes": null
+    },
+    {
+      "chunk_id": 276,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Veni huc ad hujus vallis proclivia, et videbis monstruosa mulieris conventicula. In his bestia omnes suas pompas et monstra posuit; et has sua arma ferre constituit.",
+      "english": "Come here to the slopes of this valley and you will see the monstrous gatherings of women. In them the beast has placed all his pomp and monstrosities, and he has appointed them to bear his weapons.",
+      "notes": null
+    },
+    {
+      "chunk_id": 277,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vides qualiter juvenes per luxuriam illaqueantur. Illa multos veneno enecat; haec viri vitam pro auro perdit; haec partus suos occidit; haec lites provocat; altera bella instigat.",
+      "english": "You see how young men are ensnared through lust. This woman kills many with poison. That one destroys her husband's life for gold. This one murders her children. That one provokes quarrels. Another instigates wars.",
+      "notes": null
+    },
+    {
+      "chunk_id": 278,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ista maleficiis mentes hominum alienat; hanc vero nullus pecunia aut luxuria satiat; videndo multos decipit, illa flendo plerosque seducit: haec sunt hujus civitatis propugnacula; et haec sunt bestiae jacula.",
+      "english": "This one alienates men's minds through sorceries. That one is satisfied by no amount of money or pleasure. One deceives many by her appearance, another seduces very many by her tears. These are the fortifications of this city, and these are the weapons of the beast.",
+      "notes": null
+    },
+    {
+      "chunk_id": 279,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. O Deus, quanta prodigiosa conspicio.",
+      "english": "DISCIPLE: Oh God, how many monstrosities I see!",
+      "notes": null
+    },
+    {
+      "chunk_id": 280,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Moenia civitatis Babyloniae vidisti, destructionem quoque ejuslibet intueri.",
+      "english": "MASTER: You have seen the walls of the city of Babylon. Now look at the destruction of each part.",
+      "notes": null
+    },
+    {
+      "chunk_id": 281,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nunc cives Babylonii, cum sint plures numero, civibus Hierusalem semper inferunt bellum, qui apud eos in exsilio positi sunt.",
+      "english": "Now the citizens of Babylon, though they are more numerous, always wage war against the citizens of Jerusalem who are placed among them in exile.",
+      "notes": null
+    },
+    {
+      "chunk_id": 282,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postmodum vero, rex coelestis Hierusalem Deus, cum exercitu angelorum veniens, hanc perditam civitatem funditus subvertet, et electos suos inde liberans, in coeleste palatium secum adducet, quibus tale nunc spectaculum praebet.",
+      "english": "But afterward, God the king of heavenly Jerusalem, coming with the army of angels, will utterly overthrow this ruined city. He will free his elect from it and bring them with him into the heavenly palace, to whom he now presents this spectacle.",
+      "notes": null
+    },
+    {
+      "chunk_id": 283,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hanc quam vides Babyloniam, id est, hujus mundi gloriam, cum suo principe diabolo, et omnibus hujus civitatis civibus, scilicet hujus mundi amatoribus, repente in stagno ignis et sulphuris merget; et tunc omnia in meliorem statum permutabit.",
+      "english": "This Babylon that you see, that is, the glory of this world, together with its prince the devil and all the citizens of this city, namely the lovers of this world, he will suddenly plunge into the lake of fire and sulfur. And then he will change all things to a better state.",
+      "notes": null
+    },
+    {
+      "chunk_id": 284,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Magnum spectaculum praebuisti omnibus haec legentibus; ideo illi spectaculo te interesse concedat Deus. Et qua de causa erunt justi in gloria?",
+      "english": "DISCIPLE: You have provided a great spectacle for all who read these things. May God grant that you be present at that spectacle. And for what reason will the just be in glory?",
+      "notes": null
+    },
+    {
+      "chunk_id": 285,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia si sine fine viverent, semper justi esse vellent. Justitia igitur exigit ut semper beati sint, qui semper justitiam amplexati sunt.",
+      "english": "MASTER: Because if they were to live without end, they would always wish to be just. Justice therefore requires that those who have always embraced justice should always be blessed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 286,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Quae autem est causa, quod injusti semper erunt in poena?",
+      "english": "DISCIPLE: But what is the reason that the unjust will always be in punishment?",
+      "notes": null
+    },
+    {
+      "chunk_id": 287,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia sine fine vellent vivere, ut sine fine male facere possent. Igitur justitia poscit, ut nunquam supplicio careant, qui nunquam justitiam volebant.",
+      "english": "MASTER: Because they would wish to live without end so that they could do evil without end. Therefore justice demands that those who never desired justice should never be free from punishment.",
+      "notes": null
+    },
+    {
+      "chunk_id": 288,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur non possunt justi post resurrectionem peccare.",
+      "english": "DISCIPLE: Why cannot the just sin after the resurrection?",
+      "notes": null
+    },
+    {
+      "chunk_id": 289,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia sic liberum arbitrium eorum confirmatum est, quod nihil mali volant; cum aequales angelis erunt, et ideo in perpetuum beati erunt.",
+      "english": "MASTER: Because their free will is so confirmed that they desire nothing evil. They will be equal to the angels, and therefore they will be blessed forever.",
+      "notes": null
+    },
+    {
+      "chunk_id": 290,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Cur injusti ad bonum converti non poterunt?",
+      "english": "DISCIPLE: Why will the unjust not be able to turn to good?",
+      "notes": null
+    },
+    {
+      "chunk_id": 291,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "MAG. Quia bonum semper odio habent et ideo miseri in perpetuum erunt.",
+      "english": "MASTER: Because they always hold good in hatred, and therefore they will be miserable forever.",
+      "notes": null
+    },
+    {
+      "chunk_id": 292,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Summary of the Book's Main Teachings",
+      "latin": "Conclusio sive recapitulatio hujus libri.",
+      "english": "Conclusion or summary of this book.",
+      "notes": null
+    },
+    {
+      "chunk_id": 293,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ut igitur nostrae disputationis sententiam brevi epilogo concludam.",
+      "english": "Therefore, to conclude the teaching of our disputation with a brief summary:",
+      "notes": null
+    },
+    {
+      "chunk_id": 294,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Propositum Dei est: Numerum electorum ex angelis et hominibus perfici. Praedestinatio: Justos in beatitudine semper gloriari, injustos semper in miseria cruciari.",
+      "english": "God's purpose is to complete the number of the elect from angels and humans. Predestination is that the just always glory in blessedness, and the unjust always suffer torment in misery.",
+      "notes": null
+    },
+    {
+      "chunk_id": 295,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praescientia vel providentia: Futurarum rerum semper praesens Dei inspectio. Necessitas: Hominem post peccata mori.",
+      "english": "Foreknowledge or providence is God's ever-present vision of future things. Necessity is that man must die after sins.",
+      "notes": null
+    },
+    {
+      "chunk_id": 296,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Justitia: Rectum velle. Arbitrium: Rectae justitiae volendi judicium. Libertas: Servandi justitiam potestas, vel arbitrium nolendi volendi judicium.",
+      "english": "Justice is to will what is right. Free will is the judgment of willing right justice. Freedom is the power to preserve justice, or the judgment of willing and not willing by choice.",
+      "notes": null
+    },
+    {
+      "chunk_id": 297,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Gratia: Boni inspiratio vel mali liberatio. Meritum: Perseverantia justitiae. Praemium summum: Beatitudo. Supplicium: aeterna miseria.",
+      "english": "Grace is the inspiration of good or liberation from evil. Merit is perseverance in justice. The highest reward is blessedness. Punishment is eternal misery.",
+      "notes": null
+    },
+    {
+      "chunk_id": 298,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et quia quosdam infantes utpote baptizatos, sola sua justitia non damnari est inevitabile; et quosdam provectae aetatis, justitiae Dei per liberum arbitrium spretores justitia dictante, debitam poenam evadere, est inevitabile, propter hoc, nomen huic libello imponitur.",
+      "english": "And because it is inevitable that certain infants, being baptized, are not damned by God's justice alone, and that certain adults, despisers of God's justice through free will, cannot escape due punishment as justice dictates, for this reason the title is given to this little book:",
+      "notes": null
+    },
+    {
+      "chunk_id": 299,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Inevitable",
+      "latin": "Inevitabile.",
+      "english": "The Inevitable.",
+      "notes": "This is the title of the work"
+    },
+    {
+      "chunk_id": 300,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec de praedestinatione, praescientia et libero arbitrio offero filiis Ecclesiae, quia ea despicient filii Babyloniae.",
+      "english": "These things concerning predestination, foreknowledge, and free will I offer to the children of the Church, because the children of Babylon will despise them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 301,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed quicunque hoc contempserit vel impugnaverit, se de numero praedestinatorum non esse demonstrabit. Qui vero quaestionem post haec de libero arbitrio moverit, caecus clara die in mortem offendit.",
+      "english": "But whoever despises or attacks this work will demonstrate that he is not among the number of the predestined. And whoever raises questions about free will after these matters is like a blind man who stumbles to his death in broad daylight.",
+      "notes": null
+    },
+    {
+      "chunk_id": 302,
+      "section_type": "dialogue",
+      "speaker": "narrator",
+      "latin": "DISC. Benedictus Deus qui hoc inspiravit fratribus ut vellent me ad te dirigere; quatenus haec mira mererer a tuo mellifluo ore percipere.",
+      "english": "DISCIPLE: Blessed be God who inspired the brothers to send me to you, so that I might deserve to receive these wonderful things from your honeyed mouth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 303,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et revera noveris, quod greges reproborum pro hoc venerando opere, magno te odio abominabuntur; et maxime ob hoc quod eosdem per liberum arbitrium, filios vitiorum, imo daemonum probaveris, detestabuntur.",
+      "english": "And truly you should know that the flocks of the reprobate will abominate you with great hatred for this venerable work, and especially because you have proven them to be sons of vices, indeed of demons, through their free will. They will detest you.",
+      "notes": null
+    },
+    {
+      "chunk_id": 304,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Magnas autem grates tibi persolvet gloriosus coetus ad vitam praedestinatorum, quod tam mirabile opus prompsisti in laudem ipsorum.",
+      "english": "But the glorious company of those predestined to life will render you great thanks because you have brought forth such a wonderful work in their praise.",
+      "notes": null
+    },
+    {
+      "chunk_id": 305,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et, sicut te audivi dicere, hoc quod est a Deo praedestinatum, ut quidquid electi juste petierint, eis tribuatur; magnis precibus Dei clementiam exorant ut te ultima dies in consortio illorum inveniat. Amen.",
+      "english": "And, as I have heard you say, since it is predestined by God that whatever the elect justly ask will be granted to them, they beseech God's mercy with great prayers that your last day may find you in their fellowship. Amen.",
+      "notes": null
+    }
+  ]
+}

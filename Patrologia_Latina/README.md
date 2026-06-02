@@ -404,6 +404,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Blog](https://bibliothecarius-modernus.github.io/2025/03/epistola-consolatoria-honoratusantoninus/) | [Archive](https://archive.org/details/consolatory-letter-to-arcadius) | [YouTube](https://www.youtube.com/watch?v=11SnNFY7vfM) | [GitHub](vol_50/Honoratus%20Antoninus%20-%20Consolatory%20Letter%20to%20Arcadius)
 
 
+## Honorius Augustodunensis
+
+**The Inevitable, or A Dialogue on Predestination and Free Will** (*Inevitabile sive Dialogus de Praedestinatione et Libero Arbitrio*) — Vol. 172 [12th century]
+  [Archive](https://archive.org/details/honorius-augustodunensis-inevitabile) | [GitHub](vol_172/Honorius%20Augustodunensis%20-%20The%20Inevitable%2C%20or%20A%20Dialogue%20on%20Predestination%20and%20Free%20Will)
+
 ## Hugh of Saint Victor
 
 **On the Four Wills in Christ** — Vol. 176
