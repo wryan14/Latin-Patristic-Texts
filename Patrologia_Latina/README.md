@@ -619,6 +619,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Blog](https://bibliothecarius-modernus.github.io/2025/03/vita-sancti-odonis/) | [Archive](https://archive.org/details/the-life-of-saint-odo) | [YouTube](https://www.youtube.com/watch?v=w0jb9hMRZ1Y) | [GitHub](vol_133/Osbern%20of%20Canterbury%20-%20The%20Life%20of%20Saint%20Odo)
 
 
+## Othloh of St Emmeram
+
+**Book of His Temptations** (*Liber de tentationibus suis*) — Vol. 146
+  [Archive](https://archive.org/details/othloh-de-tentationibus) | [GitHub](vol_146/Othloh%20of%20St%20Emmeram%20-%20Book%20of%20His%20Temptations)
+
 ## Pacian of Barcelona
 
 **Exhortatory Little Book to Repentance** (*Exhortatorius libellus ad poenitentiam.*) — Vol. 13

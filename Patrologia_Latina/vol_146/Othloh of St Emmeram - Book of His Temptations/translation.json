@@ -1,0 +1,2782 @@
+{
+  "metadata": {
+    "volume_id": "PL146",
+    "title": "Book of His Temptations",
+    "latin_title": "Liber de tentationibus suis",
+    "author": "Othloh of St Emmeram",
+    "century": "11 century",
+    "source": "Patrologia Latina Volume PL146",
+    "translator": "claude-sonnet-4.5",
+    "translation_date": "2025-01-11",
+    "total_chunks": 333,
+    "estimated_duration_minutes": 87,
+    "known_issues": [
+      "Some place names have modern equivalents provided in parentheses (Obermunster/Nidernmunster, Amerbach) which were added by later editors—these are preserved as they aid identification.",
+      "Text breaks mid-sentence at column 0042C, suggesting incomplete source material",
+      "Latin syntax occasionally requires interpretive translation for natural English flow",
+      "Some theological arguments about angelic probation and human culpability are dense and may benefit from slower narration",
+      "The massive catalog of manuscript production (19 Missals + numerous other liturgical books) represents extraordinary output even for a dedicated monastic scribe and may include collaborative or supervised work, though Otloh claims personal authorship.",
+      "The Latin text shifts from third-person ('clericus') to first-person ('ego') partway through Part Two without clear transition—this appears to be Otloh's original stylistic choice as he moves from framing narrative to direct autobiography.",
+      "The 'chunk 312' historical reference to Emperor Henry and King Conrad is slightly confusing—the text likely refers to Henry III (died 1056) and the succession crisis involving young Henry IV, not Conrad II. This ambiguity is preserved as in the source.",
+      "Several book titles are given in Latin in the source but their full content/genre is not always clear from context alone (e.g., 'Liber Manualis', 'De cursu spirituali').",
+      "The exact count of books distributed is complex due to overlapping categories (original compositions vs. copied manuscripts vs. gift volumes). The totals given by Otloh himself have been preserved without editorial reconciliation."
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Beginning of the Book of Temptations",
+      "latin": "Incipit liber de tentatione cujusdam monachi.",
+      "english": "The beginning of the book concerning the temptation of a certain monk.",
+      "notes": null
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Part One: The Clerk's Conversion to Monastic Life",
+      "latin": "PARS PRIMA.",
+      "english": "Part One.",
+      "notes": null
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Fuit quidam clericus vitiis multis modis deditus, qui cum saepius a Domino commoneretur pro emendatione sua, conversus tandem venit ad monasticam professionem, nullis suorum amicorum scientibus.",
+      "english": "There was a certain clerk given over to many kinds of vices. When he had been frequently admonished by the Lord for his correction, he finally converted and came to the monastic profession, without any of his friends knowing about it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In eo autem loco quo monachus factus est, cum plurimos diversae qualitatis homines invenisset, quosdam libros quidem gentiles, quosdam vero sacram Scripturam legentes, ipse coepit illum solummodo imitari, quos videbat divinae insistere lectioni.",
+      "english": "In that place where he became a monk, though he found many men of different types—some reading pagan books, others reading sacred Scripture—he began to imitate only those whom he saw devoted to divine reading.",
+      "notes": null
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quanto autem frequentior erat in hujusmodi lectione, tanto magis molestias diabolicae tentationis sentiebat sibi inolescere; sed ille in Domino confidens gratiaeque Dei se jugiter committens, eo animo quo coepit, in sacra lectione perseverare studuit.",
+      "english": "But the more frequently he engaged in such reading, the more he felt the troubles of diabolic temptation growing within him. Yet trusting in the Lord and continually committing himself to God's grace, he strove to persevere in sacred reading with the same spirit with which he had begun.",
+      "notes": null
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cumque post multum temporis ab hac impugnatione eriperetur, cogitans qualiter per ea quae passus erat tam ipse quam alii aedificari possent, scripsit non solum illatas tentationis molestias, sed etiam sacrae Scripturae verba, quae ex divina inspiratione sibi provenerant, ex quibus interea fraudi diabolicae respondendo utebatur pro clypeo.",
+      "english": "When after much time he was freed from this assault, considering how both he and others might be edified by what he had suffered, he wrote down not only the troubles of temptation that had been brought upon him, but also the words of sacred Scripture that had come to him through divine inspiration, which he had meanwhile used as a shield in responding to diabolic deception.",
+      "notes": null
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sic quippe incipit scribere de tentationum suarum molestia:",
+      "english": "Thus indeed he begins to write about the trouble of his temptations:",
+      "notes": null
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Monk Describes His Diabolic Delusions",
+      "latin": "Delusiones Satanae varias vigilans ac dormiens pertuli",
+      "english": "I endured various delusions of Satan both waking and sleeping.",
+      "notes": "This begins the autobiographical account in first person"
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "quas licet universas nequeam promere, aliquas tamen memoriae insitas, prout possum, volo referre:",
+      "english": "Though I cannot bring forth all of them, I wish to relate some that are fixed in my memory, as best I can.",
+      "notes": null
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "et reor hoc primum de fraudibus his perhibendum quod et ante monachalis vitae professionem, et postea diu perpessus sum, quod scilicet satis stolida improvidaque etiam inesset voluntas conversionis;",
+      "english": "And I believe this should be testified first concerning these deceptions: both before my profession of monastic life and long afterward, I suffered the temptation that there existed a rather foolish and imprudent will even in my conversion itself.",
+      "notes": null
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "quia contra Scripturam quae dicit: Omnia fac cum consilio, sine consilio parentum et amicorum quamque in maximo juventutis fervore positus subito vellem adire, nimisque foret inconsultum ut hujusmodi homo quisquam tam periculosum susciperet votum;",
+      "english": "The tempter suggested that, against the Scripture which says, 'Do all things with counsel,' I wished to undertake this suddenly without the counsel of parents and friends, and while placed in the greatest fervor of youth. He argued it would be most ill-advised for someone like me to undertake such a dangerous vow.",
+      "notes": "Scripture reference from Ecclesiasticus (Sirach) 32:24"
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "ideoque multo melius esset ut praestolans usque ad aetatis maturioris perfectionem, tunc tandem cum se virtus ingesserit omnis, sponte pro desiderata tractem conversione.",
+      "english": "Therefore it would be much better if I waited until the perfection of a more mature age, and then finally, when every virtue had established itself, I should freely undertake the desired conversion.",
+      "notes": null
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Haec ergo et his similia imprimis etiam quasi compatiendo et consulendo intulit illusio diabolica.",
+      "english": "These things and similar ones were brought upon me at first by diabolic delusion, as if sympathizing with me and giving me counsel.",
+      "notes": null
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Deinde vero cum talia ad plenum voluntatis suae effectum, Dei gratia resistente, non potuisset tentator nequissimus in me obtinere, ad majoris excitatus est pugnam nequitiae.",
+      "english": "But then, when the most wicked tempter could not achieve the full effect of his will in me—God's grace resisting—he was stirred up to a battle of greater wickedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 15,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nam arte solita ad desperationem me pertrahere studuit, inspirans scilicet incassum, me talem velle reverti, qui tantis criminibus sum implicatus ut non solum principibus, sed etiam multitudini caeterae, ipsisque simul parentibus et cognatis exosus essem.",
+      "english": "For by his usual art he strove to drag me toward desperation, suggesting that it was in vain for someone like me to want to turn back, since I was entangled in so many crimes that I was hateful not only to rulers but also to all the common people, and even to my own parents and relatives.",
+      "notes": null
+    },
+    {
+      "chunk_id": 16,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Putasne, inquit, ut tam sceleratus homo apud Deum judicem districtissimum veniam possit promereri? quandoquidem, sicut scriptum est: Vix justus salvabitur.",
+      "english": "He said, 'Do you think that such a wicked man can merit pardon from God, the most strict judge? Especially since, as it is written, the righteous person is scarcely saved.'",
+      "notes": "Reference to 1 Peter 4:18"
+    },
+    {
+      "chunk_id": 17,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ne cupias ergo quae non sunt cupienda, sed potius ad ea laboris tui studium converte quae amodo possis obtinere.",
+      "english": "'Therefore do not desire things that should not be desired, but rather turn the effort of your labor toward those things that you can obtain from now on.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 18,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Si enim ita, ut tu studiosissime aestimas, omnibus concessa foret hujusmodi facultas, ut scilicet ad regna coelestia tam perversus quam justus homo pertingere posset, nequaquam Apostolus ille excellentissimus Paulus diceret: Non enim est omnium fides.",
+      "english": "'For if, as you most earnestly suppose, such an ability were granted to all—that a perverted man could reach the kingdoms of heaven just as much as a righteous one—that most excellent Apostle Paul would certainly not say, For not all have faith.'",
+      "notes": "Reference to 2 Thessalonians 3:2"
+    },
+    {
+      "chunk_id": 19,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et iterum idem dicit: Non omnes obediunt Evangelio; ipseque Salvator et veracissimus auctor haec rudimenta suis mundoque dedit omni: Qui potest capere capiat.",
+      "english": "'And again the same apostle says, Not all obey the Gospel. And the Savior himself, the most truthful author, gave this fundamental teaching to his own and to the whole world: Let him who can receive it, receive it.'",
+      "notes": "References to Romans 10:16 and Matthew 19:12"
+    },
+    {
+      "chunk_id": 20,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In qua procul dubio sententia innotuit, quod non omnis bona possit.",
+      "english": "'In which saying it is made clear beyond doubt that not everyone can achieve good things.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 21,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cum ergo delusionibus torquerer talibus, quis putas etiam tunc erat animus? nil aliud certe tunc praevalui nisi flere, et juxta Psalmistam fuerunt lacrymae meae panes die ac nocte.",
+      "english": "When I was tormented by such delusions, what do you think my state of mind was then? Certainly I could do nothing else but weep, and according to the Psalmist, my tears were my bread day and night.",
+      "notes": "Reference to Psalm 42:3"
+    },
+    {
+      "chunk_id": 22,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Fateor nimirum ex intimo corde quod nullus, nisi per gratiam Domini solam, talia potest vincere.",
+      "english": "I confess indeed from my inmost heart that no one can overcome such things except through the grace of the Lord alone.",
+      "notes": null
+    },
+    {
+      "chunk_id": 23,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Postquam autem insidiator calidissimus me ad desperationis illatae consensum nequivit pertrahere, conatus est per alia fraudis suae argumenta ad justitiae divinae blasphemiam me deflectere, non deterrendo et improperando, sed quasi condolendo et compatiendo afflictioni meae,",
+      "english": "But after the most cunning plotter could not drag me to consent to the desperation he had inflicted, he tried through other arguments of his deceit to turn me aside to blasphemy against divine justice—not by deterring and reproaching me, but as if grieving over and sympathizing with my affliction.",
+      "notes": null
+    },
+    {
+      "chunk_id": 24,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "suggerens videlicet cordi meo hujusmodi cogitationes. O quam miserande juvenis, cujus dolorem nullus hominum dignatur attendere! Quis autem hominum vel excogitare potest tanta te jam depressum afflictione?",
+      "english": "He suggested such thoughts to my heart: 'O what a pitiable young man, whose sorrow no human being deigns to attend to! What human being could even conceive that you are weighed down by such great affliction?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 25,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Unde nec illis debes imputare; quia quod nequeunt scire, in eo non possunt subvenire. Novit enim Dominus solus omnia. Ideoque illi soli constat imputandum, quidquid videtur ineptum et inordinatum.",
+      "english": "'Therefore you should not blame them, because they cannot help with what they cannot know. For the Lord alone knows all things. And therefore to him alone must be attributed whatever seems inept and disordered.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 26,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cum ergo sciat et possit omnia, quare non adjuvat te in tribulatione tua, qui pro ejus amore reliquisti et prius saeculum et jam diu inaestimabilem sustines cruciatum?",
+      "english": "'Since he both knows and can do all things, why does he not help you in your tribulation—you who for love of him left the world long ago and have now endured inestimable torment for a long time?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 27,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quae rogo ista erit ratio districtionis, quae ad se jugiter clamantes omnibus cruciat modis?",
+      "english": "'What kind of reason, I ask, is this severity that torments in every way those who continually cry out to him?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 28,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Fac quod facturus eris; depone supervacuas preces et luctus, quia ille in hac severitate, in qua hactenus erat, amodo etiam perseverat.",
+      "english": "'Do what you are going to do. Put aside useless prayers and lamentations, because he perseveres now in the same severity in which he has been until now.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 29,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nam nimis stultum est ea precibus attentare, quae te scias non posse impetrare.",
+      "english": "'For it is extremely foolish to attempt through prayers those things which you know you cannot obtain.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 30,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Verumtamen noli timere, quia nunquam unius potentis injustitia omnes permittit perdere.",
+      "english": "'Nevertheless, do not fear, because the injustice of one powerful being never allows all to perish.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 31,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quomodo enim posset fieri ut homo quisquam mereretur semper affligi? vel quis mortalium sine peccato valet esse ab initio usque ad finem vitae?",
+      "english": "'For how could it happen that any human being would deserve to be afflicted always? Or what mortal can be without sin from the beginning to the end of life?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 32,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "aut parvuli innocentia qualiter acquiri potest in senecta? sicut Christus docet: Nisi, inquiens, conversi fueritis et efficiamini sicut parvuli, non intrabitis in regnum coelorum.",
+      "english": "'Or how can the innocence of a little child be acquired in old age? As Christ teaches, saying, Unless you are converted and become like little children, you will not enter the kingdom of heaven.'",
+      "notes": "Reference to Matthew 18:3"
+    },
+    {
+      "chunk_id": 33,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nunquid et hoc te non movet quod Ezechiel propheta comminatur dicens: Anima quae peccaverit, ipsa morietur?",
+      "english": "'Does not this also move you, what the prophet Ezekiel threatens, saying, The soul that sins, it shall die?'",
+      "notes": "Reference to Ezekiel 18:4"
+    },
+    {
+      "chunk_id": 34,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Si enim omnis qui peccat morietur, profecto nullus homo salvus erit, quia nemo absque peccato inveniri potest.",
+      "english": "'For if everyone who sins will die, then certainly no human being will be saved, because no one can be found without sin.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 35,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nonne similiter et illam mirabilem sententiam, quam paulo post idem propheta dicit, tua mens attendit? Ait ergo: Si averterit se justus a justitia sua et fecerit iniquitatem, omnes justitiae ejus erunt in oblivionem.",
+      "english": "'Does your mind not also attend to that remarkable saying which the same prophet speaks a little later? He says, If a righteous person turns away from his righteousness and commits iniquity, all his righteous deeds will be given over to oblivion.'",
+      "notes": "Reference to Ezekiel 18:24"
+    },
+    {
+      "chunk_id": 36,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hinc est quod ille Judas proditor Domini, cum hoc unum traditionis crimen admisisset, post multimoda justitiae opera damnatus est.",
+      "english": "'This is why that Judas, the betrayer of the Lord, when he had committed this one crime of betrayal, was condemned after his many works of righteousness.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 37,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Attende adhuc et alia duo maxima hujus rationis exempla, in quibus probari et definiri potest omnis nostra sententia.",
+      "english": "'Consider still two other major examples of this reasoning, in which all our position can be proved and established.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 38,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Legitur enim in Exodi libro, quia dixerit Dominus ad Moysen: Miserebor cui voluero, et clemens ero in quem mihi placuerit;",
+      "english": "'For it is read in the book of Exodus that the Lord said to Moses, I will have mercy on whom I will have mercy, and I will be merciful to whom it pleases me.'",
+      "notes": "Reference to Exodus 33:19"
+    },
+    {
+      "chunk_id": 39,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "rursumque in Evangelio scriptum est, quia volens quidam discipulus ejus fieri, ac dicens: Sequar te quocunque ieris, repulsus est ab eodem Domino dicente: Vulpes foveas habent, et volucres coeli nidos, Filius autem hominis non habet ubi caput suum reclinet.",
+      "english": "'And again it is written in the Gospel that when someone wanted to become his disciple and said, I will follow you wherever you go, he was rejected by the same Lord, who said, Foxes have dens and birds of the sky have nests, but the Son of Man has nowhere to lay his head.'",
+      "notes": "Reference to Matthew 8:19-20"
+    },
+    {
+      "chunk_id": 40,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "O indiscreta severitas! o miseranda aequitas! quae tantummodo voluntatis suae arbitrium sequitur, et ad se confugientes suscipere dedignatur.",
+      "english": "'O indiscriminate severity! O pitiable justice! That follows only the judgment of its own will and disdains to receive those who flee to it.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 41,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Intolerabilis certe talis est disciplina nullique merito placitura.",
+      "english": "'Such discipline is certainly intolerable and will deservedly please no one.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 42,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hujusmodi quoque delusiones diu perturbaverunt cogitationes meas, in quibus satis probari valet quantis periculis mens mea subjaceret.",
+      "english": "Such delusions disturbed my thoughts for a long time, in which it can be sufficiently proved how many dangers my mind was subject to.",
+      "notes": null
+    },
+    {
+      "chunk_id": 43,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ad easdem delusiones videtur pertinere quod subsequenter volo referre.",
+      "english": "What I wish to relate next seems to belong to these same delusions.",
+      "notes": null
+    },
+    {
+      "chunk_id": 44,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Saepe namque contigit ut quia matutinis horis ad signum primum, sicut regula sancta docet, volui exsurgere, phantasmatico aliquo signo longe ante tempus surgendi excitatus, ad oratorium venirem festinus.",
+      "english": "For it often happened that because I wished to rise at the first signal in the morning hours, as the holy rule teaches, I was awakened by some phantom signal long before the time of rising, and came hastily to the oratory.",
+      "notes": null
+    },
+    {
+      "chunk_id": 45,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hoc etiam tandiu credidi opus esse divinum, quousque ex tempestivi soporis impedimento coactum me sentirem ad intempestivum.",
+      "english": "I believed for a long time that this was a divine work, until I felt myself forced from timely sleep to untimely waking.",
+      "notes": null
+    },
+    {
+      "chunk_id": 46,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Patiebar et hoc per aliquot annos in nocturnis horis, ut licet admodum sanus in lectulo dormiens jacerem, cum ad matutinas laudes surgere deberem, quasi compede quodam membrorum omnium constringerer debilitate: sicque ad ecclesiam nutanti et difficillimo gressu pervenirem.",
+      "english": "I also suffered this for several years during the night hours: although I lay quite healthy asleep in bed, when I should rise for morning praise, I was as if bound by some fetter of weakness in all my limbs, and thus came to church with unsteady and most difficult steps.",
+      "notes": null
+    },
+    {
+      "chunk_id": 47,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Temptation to Doubt God's Existence",
+      "latin": "Proferenda est adhuc tentatio et delusio una",
+      "english": "One more temptation and delusion must be brought forth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 48,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "quam tanto difficilius intimare queo, quanto minus unquam aliquid hujusmodi legebam aut audiebam ab ullo.",
+      "english": "This I can describe all the more difficultly because I had never read or heard anything of this kind from anyone.",
+      "notes": null
+    },
+    {
+      "chunk_id": 49,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Postquam enim suprascriptis et aliis multis tentationibus (quarum quasdam minime in memoria habeo, quasdam vero, ne legentibus sim taedio, hic proferre nolo,) sum impulsus, sed per Dei gratiam a fide et spe coelestis auxilii nequaquam evulsus,",
+      "english": "For after I was assailed by the above-mentioned temptations and many others—some of which I have no memory of, and some of which I do not wish to bring forth here lest I become tedious to readers—yet by God's grace I was never torn away from faith and hope of heavenly help.",
+      "notes": null
+    },
+    {
+      "chunk_id": 50,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "tunc impugnatione tali diutius torqueri me sentiebam, per quam et de Scripturae sacrae scientia et ipsius Dei essentia prorsus dubitare compellebar.",
+      "english": "Then I felt myself tormented for a long time by such an assault through which I was compelled to doubt completely both the knowledge of sacred Scripture and the very essence of God himself.",
+      "notes": null
+    },
+    {
+      "chunk_id": 51,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In aliarum quidem tentationum discrimine aliquid refrigerii intervallum, aliquid spei praestabatur refugium; in istis vero per horas continuas omnis fere solatii privabar cognitione.",
+      "english": "In the crisis of other temptations, some interval of relief was provided, some refuge of hope was offered. But in these, for continuous hours, I was deprived of almost all knowledge of consolation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 52,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In aliis per sacrae documenta Scripturae aliquatenus roboratus, contra illata mortis jacula fidei speique armis decertavi; in ista autem omni dubitatione et mentis caecitate circumseptus, si aut ulla in Scripturis sacris veritas sit ac profectus, aut si Deus omnipotens constet prorsus dubitavi.",
+      "english": "In other temptations, strengthened somewhat by the teachings of sacred Scripture, I fought with the weapons of faith and hope against the darts of death that were hurled at me. But in this one, surrounded by complete doubt and blindness of mind, I doubted utterly whether there was any truth and benefit in the sacred Scriptures, or whether almighty God even exists.",
+      "notes": null
+    },
+    {
+      "chunk_id": 53,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "In aliis, inquam, tolerabilis aliquo modo et temperata fuit impugnationis causa; in ista autem talis erumpebat violentia ut non solum spirituales, sed etiam corporales mei sensus vigore solito destituerentur.",
+      "english": "In the others, I say, the cause of the assault was in some way tolerable and tempered. But in this one such violence broke forth that not only my spiritual senses but even my bodily senses were deprived of their usual vigor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 54,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Videbatur enim mihi interdum, ut quasi obvelato visu et auditu nil juxta vires solitas videre aut audire possem.",
+      "english": "For it seemed to me at times as if, with sight and hearing veiled, I could see or hear nothing according to my usual powers.",
+      "notes": null
+    },
+    {
+      "chunk_id": 55,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Interim ego quasi cujusdam mecum colloquentis et ore etiam apposito verba meis auribus susurrando immittentis audirem dicentisque:",
+      "english": "Meanwhile I seemed to hear someone conversing with me, even placing his mouth close and whispering words into my ears, saying:",
+      "notes": null
+    },
+    {
+      "chunk_id": 56,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cur labore casso tandiu fatigaris? ubi est illa spes tua quam usque modo retinebas in Scriptura?",
+      "english": "'Why do you exhaust yourself so long with empty labor? Where is that hope of yours which you held until now in Scripture?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 57,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nonne, omnium mortalium stultissime, casibus propriis poteris probare, quia et Scripturarum testificatio, et totius creaturae imaginatio absque ratione constat et sine rectore?",
+      "english": "'You, most foolish of all mortals, cannot you prove by your own experiences that both the testimony of the Scriptures and the conception of all creation exist without reason and without a ruler?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 58,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "nunquid experimento non cognoscis quia aliud librorum relatio divinorum et aliud vita moresque probantur esse hominum?",
+      "english": "'Do you not know by experience that the account of divine books is one thing, and the life and customs of human beings are proved to be something else?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 59,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Putasne tot millia hominum errare, qui, ut ipse quoque hactenus cernebas, nec observare seu nec suscipere curant documenta librorum?",
+      "english": "'Do you think so many thousands of human beings are in error, who, as you yourself have observed until now, care neither to observe nor to receive the teachings of books?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 60,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cumque super his moestus in corde tractarem saepius, quasi interrogando et objiciendo: Si ita est, inquiens, cur tanta convenientia est in omnibus fere Scripturis divinitus inspiratis, ut ratione pari et de conditore Deo et de mandatorum ipsius observantia enarrent?",
+      "english": "When I often pondered these things with sadness in my heart, as if questioning and objecting—saying, 'If this is so, why is there such great agreement in almost all divinely inspired Scriptures, that they speak with equal reason about God the creator and about the observance of his commandments?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 61,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Visum est hujusmodi verba iterum quasi respondendo mihi inspirari:",
+      "english": "Words of this kind seemed to be inspired in me again, as if in response:",
+      "notes": null
+    },
+    {
+      "chunk_id": 62,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ideo utique, o insensate, Scriptura in qua confidis de Dei persona et de religione multiplici verba profert quomodo homines illi qui Scripturae ejusdem auctores olim exstiterunt, eodem modo quo etiam in tempore praesenti vivunt, ipsi tunc vixerunt.",
+      "english": "'Precisely for this reason, O foolish one, the Scripture in which you trust speaks words about the person of God and about manifold religion, because those men who were once the authors of that same Scripture lived then in the same way as people also live in the present time.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 63,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Modus autem vivendi in tempore praesenti, sicut tu quoque scis, constat talis, ut honeste quidem et religiose satis homines loquantur, aliter vero longe sint actus eorum, sicut scilicet expedit et fragilitas humana permittit.",
+      "english": "'But the manner of living in the present time, as you also know, is such that people speak honorably and quite religiously, yet their actions are far otherwise, namely as expediency and human frailty permit.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 64,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nonne ergo haec ita esse quotidie potes probare? Unde putes et auctores scripturarum antiquarum religiosa quidem honestaque dicta composuisse, sed non secundum eorumdem dictorum qualitatem vixisse.",
+      "english": "'Can you not prove daily that these things are so? Wherefore you should think that the authors of ancient scriptures composed religious and honorable sayings indeed, but did not live according to the quality of those same sayings.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 65,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Igitur secundum talem modum omnes legis divinae libros intellige conscriptos, ut videlicet religiositatis et virtutis superficiem quamdam exterius habeant, interius vero rationem aliam et intellectum exquirant.",
+      "english": "'Therefore understand all the books of divine law to be written according to such a manner, that they have some surface of religiosity and virtue externally, but internally they seek another reason and understanding.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 66,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sicut in plurimis maximeque in divinis codicibus facile reperiuntur sententiae, aliam in littera, aliam in intelligentia rationem retinentes.",
+      "english": "'Just as in very many places, especially in divine books, sayings are easily found that retain one meaning in the letter and another in the understanding.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 67,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Haec autem omnia ita esse uno Pauli testimonio approbo: Littera enim, inquit, occidit, spiritus autem, id est sensus, vivificat.",
+      "english": "'I prove that all these things are so by one testimony of Paul. For he says, The letter kills, but the spirit—that is, the meaning—gives life.'",
+      "notes": "Reference to 2 Corinthians 3:6"
+    },
+    {
+      "chunk_id": 68,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nonne satis aperte per haec Apostoli verba doceris quia, si librorum dicta sequeris, maxima pericula patieris?",
+      "english": "'Are you not taught clearly enough through these words of the Apostle that if you follow the sayings of books, you will suffer the greatest dangers?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 69,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Idem quoque de Dei essentia intelligendum est. Alioquin si aliqua persona aut virtus Dei omnipotentis esset, nequaquam tanta confusio atque diversitas in rebus cunctis appareret.",
+      "english": "'The same must also be understood about the essence of God. Otherwise, if there were any person or power of almighty God, such great confusion and diversity would not appear in all things.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 70,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sed neque tibi discrimina tanta contingerent, talisque dubitatio, quam modo pateris, minime immineret.",
+      "english": "'Nor would such great crises befall you, and such doubt as you now suffer would not threaten you at all.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 71,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cumque hujusmodi delusionibus plusquam credibile sit impugnarer, et propter inauditam ipsius impugnationis qualitatem ulli fratrum aperte indicare vererer (nullum enim talia posse credere aut audire arbitrabar);",
+      "english": "When I was assailed by such delusions—more than one would believe possible—and because of the unheard-of nature of the assault itself I feared to reveal it openly to any of the brothers, for I thought no one could believe or bear to hear such things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 72,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Prayer of Desperation and Divine Response",
+      "latin": "tunc solo prostratus, et prae amaritudine suspiria longa trahens et vires animi colligens, emisi talem labiis et pectore vocem",
+      "english": "Then prostrate on the ground, drawing long sighs from bitterness and gathering the strength of my spirit, I sent forth such a voice from lips and heart.",
+      "notes": null
+    },
+    {
+      "chunk_id": 73,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "O si quis es, Omnipotens, et si sis undique praesens, sicut et in libris legi saepissime multis, jam precor ostende quis sis et quid possis, eripiens citius me a periculis imminentibus; nam sufferre magis nequeo discrimina tanta.",
+      "english": "'O if you are someone, Almighty One, and if you are present everywhere, as I have read very often in many books, now I beg you, show who you are and what you can do, rescuing me quickly from these imminent dangers. For I can no longer bear such great crises.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 74,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nulla dehinc mora: et ablata est per Dei gratiam non solum omnis illa dubitationis supradictae nebula, sed etiam scientiae lux tanta in corde meo emicuit ut et nunquam postmodum tales dubitationis mortiferae tenebras sustinerem, et ea quae minus antea cognovi intelligere coepissem.",
+      "english": "There was no delay thereafter. By God's grace not only was all that fog of the aforementioned doubt taken away, but also such a great light of knowledge shone forth in my heart that never afterward did I endure such darkness of deadly doubt, and I began to understand things I had known less before.",
+      "notes": null
+    },
+    {
+      "chunk_id": 75,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cujus etiam intelligentiae gratia in tantum per idem tempus mihi augebatur, ut non eam facile possem occultare.",
+      "english": "The grace of this understanding was so increased for me during that same time that I could not easily conceal it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 76,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Instinctu enim quodam ineffabili et fervore insolito succensus, aliquam laudis divinae operam pro gratia collata assumere incitabar.",
+      "english": "For kindled by some ineffable impulse and unusual fervor, I was stirred to undertake some work of divine praise for the grace bestowed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 77,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cumque eamdem intelligentiae gratiam nec prorsus tacere nec convenienti ratione possem perhibere, tractare coepi, quia forsitan dictando et scribendo fervor insitus liceret proferri.",
+      "english": "Since I could neither remain completely silent about this same grace of understanding, nor bear witness to it in a fitting manner, I began to consider whether perhaps the fervor within me might be allowed to come forth through dictation and writing.",
+      "notes": null
+    },
+    {
+      "chunk_id": 78,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hoc itaque modo occasionem scribendi sumens, et ea quae superius de illusione diabolica proferebam, et quae adhuc proferre volo, de divinae inspirationis colloquio scripsi, ita incipiens.",
+      "english": "Taking the occasion for writing in this way, I wrote both what I brought forth above about diabolic delusion and what I still wish to bring forth, from the discourse of divine inspiration, beginning thus:",
+      "notes": null
+    },
+    {
+      "chunk_id": 79,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Divine Inspiration: God's Response to the Temptations",
+      "latin": "Quoniam igitur delusiones diabolicas peccatorum meorum causa exortas atque contra me suscitatas aliquantulum protuli",
+      "english": "Since therefore I have brought forth to some extent the diabolic delusions that arose because of my sins and were stirred up against me.",
+      "notes": "This begins the section of divine responses"
+    },
+    {
+      "chunk_id": 80,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "consequens profecto et rationabile videtur, ut etiam divinae inspirationis modos, quibus mens mea ad repugnandum instruebatur, scribendo aperiam,",
+      "english": "It seems indeed consequent and reasonable that I should also reveal in writing the modes of divine inspiration by which my mind was instructed for resistance.",
+      "notes": null
+    },
+    {
+      "chunk_id": 81,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "ne forte aliquis delusiones easdem hic tantummodo scriptas, et non protinus coelestis adjutorii instrumenta ex lectione pari agnoscens; aut me victoriam adeptam, quae mea nunquam est, mihimet deputasse arbitretur;",
+      "english": "This I do lest anyone, recognizing these delusions as written here alone and not immediately recognizing from equal reading the instruments of heavenly help, should think that I have attributed to myself the victory achieved, which is never mine.",
+      "notes": null
+    },
+    {
+      "chunk_id": 82,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "seu etiam, quasi mihi defuisset protectio divina in meis, in suis pariter tentationibus idem sibi venturum vereatur.",
+      "english": "Or lest anyone should fear that the same thing will come to him in his own temptations, as if divine protection had been lacking to me in mine.",
+      "notes": null
+    },
+    {
+      "chunk_id": 83,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cui suspicioni nullum dans locum, fateor me contra diaboli insidias omni modo per gratiam divinam instructum, seu desidia lasciviaque animi torpentem nullo unquam certamine debito, aut vigiliarum, aut jejunii, seu cujuscunque continentiae pro viribus datis pugnasse.",
+      "english": "Giving no place to this suspicion, I confess that although I was instructed in every way by divine grace against the snares of the devil, I never fought with any due struggle of vigils or fasting or any continence according to the powers given—languishing as I was in sloth and laxity of spirit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 84,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nam ut praeteream collata scientiae liberalis dona quae circumspectionis instrumenta constant maxima, memini me frequenter, et maxime cum primum de stratu meo in matutinis exsurgerem horis,",
+      "english": "For to pass over the gifts of liberal knowledge that had been bestowed, which are the greatest instruments of discernment, I remember that frequently, and especially when I first rose from my bed in the morning hours,",
+      "notes": null
+    },
+    {
+      "chunk_id": 85,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "mox a quodam quasi mecum surgente, mecumque simul gradiente, per ineffabilem modum nunc increpari, interdum leniter admoneri, crebro etiam humillimo nisu obsecrari pro emendatione morum et vitiorum,",
+      "english": "I was immediately, in an ineffable manner, sometimes rebuked, sometimes gently admonished, and often beseeched with the most humble effort for the correction of my morals and vices by someone as if rising with me and walking with me at the same time.",
+      "notes": null
+    },
+    {
+      "chunk_id": 86,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "eorum quidem inprimis quae hesterno forsitan die ignoranter committens pro nihilo duxi; deinde vero pro eorum emendatione, quae in quocunque tempore admisi, aut inepte ridendo, aut incaute loquendo, seu etiam inutilia cogitando:",
+      "english": "This concerned first those things which perhaps the day before I had ignorantly committed and considered as nothing; then for the correction of those things which I had committed at any time, either by foolish laughing or by careless speaking, or even by thinking useless things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 87,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "postremo pro emendatione cujuslibet vitii, quod longe jam antea perpetratum vix memini.",
+      "english": "Finally, for the correction of any vice which I had committed long before and scarcely remembered.",
+      "notes": null
+    },
+    {
+      "chunk_id": 88,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Cumque hujusmodi inspiratione et instinctu circumventus ecclesiam intrassem, et ad orationis studium me suppliciter inclinassem aut prostravissem,",
+      "english": "When, surrounded by such inspiration and impulse, I had entered the church and had humbly bowed or prostrated myself for the practice of prayer,",
+      "notes": null
+    },
+    {
+      "chunk_id": 89,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Deus scit quod non mentior, videbantur mihi quod aliquid a me deposceret eodem studio orandi, dicens:",
+      "english": "God knows I do not lie—it seemed to me that something was asking of me with that same earnestness of prayer, saying:",
+      "notes": null
+    },
+    {
+      "chunk_id": 90,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sicuti igitur tibi gratum est ut a me rogata consequaris, ita quoque mihi pretiosum constat, si tu precibus obedias meis.",
+      "english": "'Just as it is pleasing to you to obtain from me the things you ask, so also it is precious to me if you obey my prayers.'",
+      "notes": "Text breaks here mid-discourse at column 0042C"
+    },
+    {
+      "chunk_id": 91,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "liberi arbitrii nisu inhaerere, et in quo omnia habere posset, ad eum postmodum lapsus cum sudore maximo poenitentiae rediret atque ejusdem arbitrii ingeniique vires, quas ante transgressionem absque sensus torpore ad cuncta bonitatis jura retinuerat, postea carnis fragilitate praepediente cum labore gravi obtineret.",
+      "english": "Adam had the strength of free will to cling to me, and in me he could possess everything. Then, after his fall, he had to return to me with the great sweat of penance. The powers of will and understanding that he had before his transgression—which he held without any sluggishness of sense for all the rights of goodness—afterward, with the frailty of flesh hindering him, he could only maintain through heavy labor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 92,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum ergo hac ratiocinatione agnoscas non solum eumdem primum hominem singulari conditionis humanae primatu sapientiaque laureatum, sed etiam omnes coelicolas, quorum excellentiae creatura nulla comparatur, absque probatione congrua non posse mihi firmiter inhaerere nec non sui meique differentiam pervidere: quem deinceps hominum caeterorum a primi hominis prudentia insita aliquid distantium arbitraris esse tam perfectum, ut sine tentatione meae magnificentiae suaeque fragilitatis certum capere possit experimentum?",
+      "english": "When you understand through this reasoning that not only the first man—crowned with the unique primacy of human nature and with wisdom—but also all the heavenly beings, whose excellence no creature can match, cannot firmly cling to me without proper testing, nor can they clearly see the difference between themselves and me: which of the remaining humans, who fall short of the inborn prudence of the first man, do you think is so perfect that without temptation he could gain certain experience of my magnificence and his own fragility?",
+      "notes": null
+    },
+    {
+      "chunk_id": 93,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod si tentationis insolitae molestias super te irruisse causaris, attende quoque quia tu pene insolito more gratiam meam huc usque magis quam alii plures adeptus sis.",
+      "english": "But if you complain that unusual troubles of temptation have rushed upon you, consider also that you have received my grace up to this point in an almost unusual measure, more than many others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 94,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonne tibi insolitum videtur, a pueritia usque in praesens omnimodis te sceleribus implicatum, non solum poenas condignas evasisse, sed etiam quasi vice versa haec quae multis denegata sunt religiosis, et (quod non absque admiratione magna pensari valet) cum labore magno exquirentibus, ea nisu facillimo dona pietatis meae ingentia percepisse?",
+      "english": "Doesn't it seem unusual to you that from boyhood to the present, though you were entangled in crimes of every kind, you not only escaped fitting punishments, but also—almost in reverse—received with the easiest effort those great gifts of my mercy that have been denied to many religious persons, even those seeking them with great labor (which can only be considered with great wonder)?",
+      "notes": null
+    },
+    {
+      "chunk_id": 95,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Recordare, quaeso, quid tu absque labore solito beneficiorum, et quid caeteri plures mei electi experirentur angustiarum, priusquam pacem et requiem ullam, non dico futurae sed praesentis vitae, obtinerent, quamvis nonnulli inter beneficia sibimet collata afflictiones varias perferrent.",
+      "english": "Remember, I ask you, what benefits you gained without the usual labor, and what troubles many others of my chosen ones endured before they obtained any peace and rest—I'm not even speaking of the future life, but of the present one—even though some bore various afflictions amid the benefits given to them.",
+      "notes": null
+    },
+    {
+      "chunk_id": 96,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ut haec apertius tuo innotescant animo, quosdam qui hujusmodi vitam ducebant, tam in Veteri quam in Novo Testamento per nomina recitare cupio.",
+      "english": "And so that these things may become clearer to your mind, I want to name certain individuals who led such a life, both in the Old and New Testaments.",
+      "notes": null
+    },
+    {
+      "chunk_id": 97,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scisne quantos labores et tribulationes Jacob patriarcha pertulerit, priusquam ullam benedictionis perceptae a patre suo Isaac gratiam promereri potuerit?",
+      "english": "Do you know how many labors and tribulations the patriarch Jacob endured before he could earn any grace from the blessing received from his father Isaac?",
+      "notes": null
+    },
+    {
+      "chunk_id": 98,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "nam, ut Genesis liber testatur, oderat semper Esau Jacob pro benedictione qua benedixerat ei pater; ideoque, matre suadente, idem Jacob propter fratris metum profectus est in exsilium, ubi avunculo suo 14 annos serviens, ignobilis personae sortitus est negotium.",
+      "english": "For as the book of Genesis testifies, Esau always hated Jacob because of the blessing their father had given him. And so, at his mother's urging, Jacob went into exile out of fear of his brother, where he served his uncle for fourteen years, receiving the work of a lowly person.",
+      "notes": null
+    },
+    {
+      "chunk_id": 99,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postea vero cum rediret ad patriam, in tantum adhuc fratris expavit iram, ut pro reconciliatione nuntios praemittens, non solum jam fratrem, sed et dominum appellaret, dicens: Sic loquimini domino meo Esau: Haec dicit frater tuus: Mitto nunc legationem ad dominum meum, ut inveniam gratiam in conspectu tuo.",
+      "english": "Later, when he returned to his homeland, he still so feared his brother's anger that, sending messengers ahead for reconciliation, he addressed him not only as brother but as lord, saying: 'Speak thus to my lord Esau: Your brother says this: I now send this embassy to my lord, that I may find favor in your sight.'",
+      "notes": "Biblical quotation from Genesis 32:4-5"
+    },
+    {
+      "chunk_id": 100,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum autem advenientem fratrem procul vidisset, prae timore in terram cadens septies adoravit donec appropinquaret.",
+      "english": "And when he saw his brother coming from afar, falling to the ground in fear, he bowed seven times until his brother approached.",
+      "notes": "Genesis 33:3"
+    },
+    {
+      "chunk_id": 101,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Videsne ergo quantas afflictiones ille tantus vir sustinuerit, antequam gaudia aliqua benedictionis promissae gustaverit? At si gustavit, magnus timor haec superavit.",
+      "english": "Do you see, then, how many afflictions that great man endured before he tasted any joys of the promised blessing? And even when he did taste them, great fear overshadowed those joys.",
+      "notes": null
+    },
+    {
+      "chunk_id": 102,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Eadem quoque de filio suo Joseph proferri possunt; quem cum somnia patefacta fratres sui magnum quemdam sibique praeponendum arbitrarentur, mox obliti totius fraternitatis, contra eum omnimoda succensi sunt invidia, adeo ut vix ab illius interfectione sese cohibentes venundarent eum Ismaelitis:",
+      "english": "The same can be said about his son Joseph. When his brothers learned of his dreams and judged that he would become someone great and be set over them, immediately forgetting all brotherhood, they were inflamed with envy against him in every way. So much so that, barely restraining themselves from killing him, they sold him to the Ishmaelites.",
+      "notes": null
+    },
+    {
+      "chunk_id": 103,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "a quibus translatus in Aegyptum, tantam ibi contritionem pressuramque sustinuit, ut sicut de eo Psalmista commemorat, ferrum pertransiret animam ejus, donec veniret verbum ejus, id est, antequam perciperet praedestinatam et revelatam potestatem, quam non solum super omni Aegypto, sed etiam super cunctis fratribus suis ad se pro inopia confugientibus possessurus erat.",
+      "english": "Transferred by them to Egypt, he endured such great crushing and oppression there that, as the Psalmist recalls about him, iron pierced his soul until his word came—that is, until he received the predestined and revealed power that he would possess not only over all Egypt, but also over all his brothers when they fled to him because of famine.",
+      "notes": "Psalm 105:18-19 (Vulgate 104:18-19)"
+    },
+    {
+      "chunk_id": 104,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Similia etiam invenire vales de praecipuo viro Moyse, et de famulo meo David, et de sancto Daniele: qui omnes, licet disparibus modis, ante et post susceptam dignitatem tribulationes periculaque maxima pertulerunt.",
+      "english": "You can find similar examples in the outstanding man Moses, in my servant David, and in holy Daniel. All of them, though in different ways, endured very great tribulations and dangers both before and after they received their dignity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 105,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tales etiam viri multi inveniuntur in Veteri, sed multo plures in Testamento Novo, qui tanto majora passi sunt discrimina, quanto non jam praesentia ulla, sed tantummodo futura et aeterna desiderabant praemia.",
+      "english": "Many such men are found in the Old Testament, but far more in the New Testament, who suffered all the greater dangers precisely because they no longer desired any present rewards, but only future and eternal ones.",
+      "notes": null
+    },
+    {
+      "chunk_id": 106,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Illi namque qui ante legem aut sub lege religiose vixerunt, licet justi sanctique essent, magis tamen ab aliis quam a semetipsis illatas tribulationes sustinuerunt;",
+      "english": "Those who lived religiously before the law or under the law, though they were just and holy, endured tribulations inflicted more by others than by themselves.",
+      "notes": null
+    },
+    {
+      "chunk_id": 107,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "isti autem quibus exortus est verus justitiae Sol, id est Christus, qui dixit: Si quis vult post me venire, abneget semetipsum, et tollat crucem suam et sequatur me; et iterum: Qui amat animam suam, perdet eam;",
+      "english": "But those for whom the true Sun of justice arose—that is, Christ, who said: 'If anyone wishes to come after me, let him deny himself, take up his cross, and follow me,' and again: 'Whoever loves his life will lose it'—",
+      "notes": "Matthew 16:24; John 12:25"
+    },
+    {
+      "chunk_id": 108,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "hujusmodi rudimentis incitati semetipsos offerebant tortoribus; et si tortor alius defuisset, sese cum vitiis et concupiscentiis semper crucifigebant.",
+      "english": "urged on by such teachings, they offered themselves to torturers. And if no other torturer was available, they always crucified themselves along with their vices and desires.",
+      "notes": "Cf. Galatians 5:24"
+    },
+    {
+      "chunk_id": 109,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ideoque non facile terrenam sortiti sunt dignitatem, sed jugiter intendebant ad spiritualem: ut videlicet ipsi semet contra diabolicas tentationes fortiter munirent, aliosque exemplis suis erudirent.",
+      "english": "And so they did not easily obtain earthly dignity, but continually strove for spiritual dignity—so that they might strongly fortify themselves against diabolical temptations and instruct others by their examples.",
+      "notes": null
+    },
+    {
+      "chunk_id": 110,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verumtamen priusquam passionum propriarum victoria et pace fruerentur, aut aliquibus regendis praeponerentur, plurima pertulerunt pericula, multa transierunt tempora.",
+      "english": "Nevertheless, before they enjoyed victory and peace over their own passions, or were set over others to govern them, they endured very many dangers and passed through long periods of time.",
+      "notes": null
+    },
+    {
+      "chunk_id": 111,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quidam etiam in spirituali dignitate jam constituti, praeter afflictiones spontaneas, aegritudinis aut persecutionis variae flagella ob humilitatis custodiam a me transmissa, usque ad finem vitae praesentis sunt passi.",
+      "english": "Some, even when already established in spiritual dignity, besides voluntary afflictions, also suffered scourges of sickness or various persecutions sent by me for the safeguarding of humility, right up to the end of this present life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 112,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quamvis ergo hujusmodi viros innumerabiles, ut supradictum est, in Testamento Novo possis invenire, aliquos tamen exempli gratia nominare volo ut, cum hos in testimonium sumpsero, facilius agnoscas qualitatem caeterorum.",
+      "english": "Although you can find innumerable such men in the New Testament, as mentioned above, I want to name a few for the sake of example, so that when I have presented these as witnesses, you may more easily recognize the character of the others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 113,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In primis itaque apostolos Domini Jesu Christi attende quid laboraverint, quid pertulerint antequam aliquem laboris sui fructum, antequam sublimitatis percipiendae gradum, non dico in futura, sed in praesenti tantum vita, ubi Ecclesiae universae praeferendi erant, possederint.",
+      "english": "First, then, consider the apostles of the Lord Jesus Christ—what they labored for, what they endured before they possessed any fruit of their labor, before they reached the degree of sublimity to be received—I'm not speaking of the future life, but only in the present life, where they were to be set over the universal Church.",
+      "notes": null
+    },
+    {
+      "chunk_id": 114,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dicit enim, ut evangelica verba testantur, ipse primus apostolorum Simon Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti sumus te, quid ergo erit nobis?",
+      "english": "For as the words of the Gospel testify, Simon Peter himself, the first of the apostles, said to Jesus: 'Behold, we have left everything and followed you. What then will there be for us?'",
+      "notes": "Matthew 19:27"
+    },
+    {
+      "chunk_id": 115,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid autem in his verbis, ubi beatus Petrus se suosque coapostolos omnia reliquisse dicit, intelligendum putas, nisi (quod maximae difficultatis est) parentes, propinquos, dulcia matrimonii ura, filios, praedia, domos, postremo voluntatem propriam omniaque carnis desideria?",
+      "english": "What do you think should be understood in these words, where blessed Peter says that he and his fellow apostles have left everything, if not—which is of the greatest difficulty—parents, relatives, the sweet bonds of marriage, children, estates, homes, and finally their own will and all desires of the flesh?",
+      "notes": null
+    },
+    {
+      "chunk_id": 116,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quam ob rem licet apostoli, relictis omnibus suis, Dominum Jesum comitarentur jugiter et mente fideli, manifestum est tamen eosdem pro rerum suarum dimissione, nec non pro humanae fragilitatis occasione diutius a diabolo tentari et fatigari, maxime cum et ipse Dominus tentationes ejus voluerit pati.",
+      "english": "For this reason, although the apostles, having left all their possessions, constantly accompanied the Lord Jesus with faithful minds, it is nevertheless clear that they were tempted and wearied by the devil for a long time because of the abandonment of their possessions and because of the occasions of human frailty—especially since the Lord himself willed to suffer his temptations.",
+      "notes": null
+    },
+    {
+      "chunk_id": 117,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde ad eosdem apostolos dicit: Vos estis qui permansistis mecum in tentationibus meis.",
+      "english": "Hence he says to these same apostles: 'You are those who have remained with me in my temptations.'",
+      "notes": "Luke 22:28"
+    },
+    {
+      "chunk_id": 118,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praeterea tribulatione premebantur maxima, cum ipsum Dominum, in quo omnem spem suam ponebant, comprehendi ab hominibus pessimis, et flagellari morteque turpissima condemnari videbant.",
+      "english": "Moreover, they were pressed by the greatest tribulation when they saw the Lord himself, in whom they placed all their hope, seized by the most wicked men, scourged, and condemned to a most shameful death.",
+      "notes": null
+    },
+    {
+      "chunk_id": 119,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Huic autem tribulatione successit et altera, quia scilicet propter inusitatam sibique invisam tanti Magistri passionem, licet argumentis multis patefactam, vix ejus credebant resurrectionem.",
+      "english": "Another tribulation followed this one, because on account of the unprecedented and hateful passion of so great a Teacher—though revealed by many proofs—they scarcely believed in his resurrection.",
+      "notes": null
+    },
+    {
+      "chunk_id": 120,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inter haec quoque nihilominus persecutione ac metu Judaeorum afficiebantur.",
+      "english": "Amid these things they were also afflicted by persecution and fear of the Jews.",
+      "notes": null
+    },
+    {
+      "chunk_id": 121,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tantis igitur tribulationibus apostoli sunt afflicti nec non probati, priusquam in illo quo ponendi erant totius Ecclesiae fundamento collocarentur, priusquam ullum laboris sui fructum aut potestatem in animabus lucrandis meruissent adipisci.",
+      "english": "Therefore, the apostles were afflicted and tested by so many tribulations before they were placed in that foundation of the whole Church where they were to be set, before they merited to obtain any fruit of their labor or power in winning souls.",
+      "notes": null
+    },
+    {
+      "chunk_id": 122,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed his generaliter de apostolis omnibus prolatis, nunc libet de aliquo illorum caeterorumque Patrum specialiter, exempli gratia, mentionem facere, quid uniuscujusque eorum tribulationis et angustiae ante aut post perceptam spiritualis gratiae sublimitatem pertulerit;",
+      "english": "But having spoken generally about all the apostles, now I wish to make special mention, for the sake of example, of some of them and of the other Fathers—what tribulation and distress each of them endured before or after receiving the sublimity of spiritual grace.",
+      "notes": null
+    },
+    {
+      "chunk_id": 123,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ut cum tam praecipuos Patres innumeris tribulationibus afflictos agnoveris, insolitam magis gratiam quam molestiam ullius tentationis hactenus esse tibi collatam probare possis.",
+      "english": "So that when you recognize that such outstanding Fathers were afflicted with innumerable tribulations, you may prove that what has been given to you up to now is unusual grace rather than the trouble of any temptation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 124,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Attende ergo ad sanctum Paulum et considera quot perpessus fuerit genera persecutionum.",
+      "english": "Consider therefore holy Paul and think about how many kinds of persecutions he endured.",
+      "notes": null
+    },
+    {
+      "chunk_id": 125,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam sicut in libro Actuum apostolorum et in ipsius Epistolis valet agnosci, postquam Christo Jesu vocante ad conversionem venit, nunquam fere sine adversantium persequentiumque periculis exstitit.",
+      "english": "For as can be known from the book of Acts of the Apostles and from his own letters, after he came to conversion at Christ Jesus' calling, he was almost never without the dangers of opponents and persecutors.",
+      "notes": null
+    },
+    {
+      "chunk_id": 126,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ejus quoque collegam in persecutionum duntaxat numerositate Athanasium Alexandrinae Ecclesiae praesulem accipe, qui, sicut in Historia ecclesiastica legitur, mox post susceptam praesulatus dignitatem, pro catholicae fidei defensione laborans immensis haereticorum persequentium insidiis pene usque ad vitae suae finem afficiebatur.",
+      "english": "Take also as his colleague—at least in the multitude of persecutions—Athanasius, bishop of the Church of Alexandria. As is read in the Ecclesiastical History, immediately after receiving the dignity of bishop, laboring for the defense of the Catholic faith, he was afflicted by the immense plots of persecuting heretics almost until the end of his life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 127,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sic quippe de eo sacra Scriptura refert: Hujus, inquit, tanti in Ecclesia pro fidei integritate agones fuerunt ut etiam de hoc dictum esse videatur, quod scriptum est: Ego enim ostendam ei quanta oporteat eum pati pro nomine meo.",
+      "english": "For sacred Scripture reports of him: 'So great were his struggles in the Church for the integrity of the faith that it seems that what is written was said about him: For I will show him how much he must suffer for my name.'",
+      "notes": "Acts 9:16"
+    },
+    {
+      "chunk_id": 128,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In hujus namque persecutionem universus conjuravit orbis, et commoti sunt principes terrae, gentes, regna, exercitus convenerunt adversus eum.",
+      "english": "For the whole world conspired in his persecution, and the princes of the earth were stirred up, peoples, kingdoms, and armies came together against him.",
+      "notes": null
+    },
+    {
+      "chunk_id": 129,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ille autem divinum illud conferebat eloquium dicens: Si consistant adversum me castra, non timebit cor meum; si exsurgat praelium, in hoc ego sperabo.",
+      "english": "But he applied to himself that divine saying: 'Though armies encamp against me, my heart will not fear; though war arise against me, in this I will hope.'",
+      "notes": "Psalm 27:3 (Vulgate 26:3)"
+    },
+    {
+      "chunk_id": 130,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Isti igitur duo viri in exemplum humanae persecutionis sufficiant tibi, ut non solum nihil insolitum, nihil inauditum te aliquando ab homine quoquam pertulisse arbitreris, sed nec particulam minimam earum persecutionum quas alii pertulerunt te passum esse noveris.",
+      "english": "Let these two men suffice for you as examples of human persecution, so that you may judge not only that you have never endured anything unusual or unheard of from any person, but also that you know you have not suffered even the smallest fraction of the persecutions that others endured.",
+      "notes": null
+    },
+    {
+      "chunk_id": 131,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tu enim pro eo quod aliquantulum adversitatis et persecutionis prius in saeculo constitutus pertulisti, et nunc in monasterio positus parvissimis tentationum stimulis, quibus etiam Christianus omnis probandus erit, fatigaris; majoribus quam alii persecutionum tentationumque periculis afflictum te frequenter arbitraris;",
+      "english": "For you—because you endured a little adversity and persecution earlier when you were in the world, and now placed in the monastery you are wearied by the smallest stings of temptations, by which every Christian must be tested—you frequently think yourself afflicted by greater dangers of persecutions and temptations than others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 132,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "sed haec longe aliter quam tibi videantur invenies, si veritatem consideres.",
+      "english": "But you will find these things to be far different from how they seem to you, if you consider the truth.",
+      "notes": null
+    },
+    {
+      "chunk_id": 133,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam quod in persecutionibus violentia humana illatis nil simile aliis pluribus pertuleris, jam satis demonstratum est exemplis.",
+      "english": "For the fact that in persecutions inflicted by human violence you have endured nothing similar to many others has already been sufficiently demonstrated by examples.",
+      "notes": null
+    },
+    {
+      "chunk_id": 134,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Deinde vero oportet considerare quantum aliis in afflictione carnis et in omni contemptu vitae hujus sponte laborantibus succumbas.",
+      "english": "Next, however, you must consider how much you fall short of others who voluntarily labor in affliction of the flesh and in all contempt of this life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 135,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Attende itaque in duos venerandos Patres et spiritualis vitae doctores, sanctum videlicet Antonium ac beatum Benedictum, quorum tanto facilius potes reeordari, quanto magis ex lectione assidua tibi sunt noti.",
+      "english": "Consider therefore two venerable Fathers and teachers of the spiritual life—namely, holy Antony and blessed Benedict—whom you can more easily recall because they are better known to you from constant reading.",
+      "notes": null
+    },
+    {
+      "chunk_id": 136,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Illorum ergo vitam legens, cito potes cognoscere quantam uterque pertulerit afflictionem pro Dei amore, quam devote, inprimis cum adhuc juvenilis essent aetatis, mundana reliquerunt omnia; quantas deinde diaboli sustinuerint insidias et tentamenta.",
+      "english": "Reading their lives, you can quickly learn how much affliction each endured for the love of God, how devoutly they abandoned all worldly things—especially when they were still of youthful age—and then how many plots and temptations of the devil they sustained.",
+      "notes": null
+    },
+    {
+      "chunk_id": 137,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unus namque eorum, id est beatus Antonius, a quo etiam omnis fere exorta est eremitarum et coenobitarum institutio, tanta conversationis sanctitate pollere coepit, ut ex hoc antiquus hostis invidiae facibus omnimodis accensus non solum spiritualibus et invisibilibus eum impugnaret insidiis, verum etiam corporalibus atque apertis afficeret plagis.",
+      "english": "For one of them, that is, blessed Antony—from whom arose almost all the institution of hermits and cenobites—began to excel in such great holiness of life that the ancient enemy, inflamed in every way by the torches of envy, not only attacked him with spiritual and invisible plots but even afflicted him with bodily and visible blows.",
+      "notes": null
+    },
+    {
+      "chunk_id": 138,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et alter nihilominus Dei gratia repletus, maxima sanctitatis suae monimenta tam scriptis quam moribus reliquit.",
+      "english": "But the other, filled no less with God's grace, left the greatest monuments of his holiness both in writings and in conduct.",
+      "notes": "Referring to Benedict of Nursia and his Rule"
+    },
+    {
+      "chunk_id": 139,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid multa? Quidquid afflictionis, quidquid constat laboris in vigiliis et in jejuniis, aut in solitudinis horrore, et in pretiosi vestimenti abjectione, seu in desideriorum carnalium devincenda passione, aut in omnigenis invidiae diabolicae dolis superandis, eosdem invenies diu tolerasse, antequam ad arcem perfectionis qua plurimis praeferendi erant, pervenirent.",
+      "english": "What more can I say? Whatever affliction, whatever labor there is in vigils and fasts, or in the horror of solitude, in the rejection of costly clothing, or in overcoming the passion of carnal desires, or in conquering all kinds of diabolic envy's tricks—you will find that they endured these things for a long time before they reached the height of perfection by which they were to be preferred to many.",
+      "notes": null
+    },
+    {
+      "chunk_id": 140,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec igitur, quaeso, diligenter adverte, et tantas Patrum praenominatorum afflictiones ad tuas, quas tu interdum insolitas arbitraris, confer tribulationes: et tunc procul dubio cognosces quia parvi sunt quos modo aut unquam pertulisti dolores, quantumvis iidem Patres nullatenus, sicut tu, pro eriminum capitalium poenitentia mererentur affligi.",
+      "english": "Therefore, I ask you, carefully consider these things and compare the great afflictions of the aforementioned Fathers to your tribulations, which you sometimes judge to be unusual. Then without doubt you will know that the sorrows you now endure or have ever endured are small, even though those same Fathers in no way deserved, as you do, to be afflicted for penance for capital crimes.",
+      "notes": null
+    },
+    {
+      "chunk_id": 141,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praeterea tibi in aetate primaeva multo majora quam illis humani solatii adjumenta; multoque plura quam illis impensa sunt a me exterioris hominis solatia: quibus jure incitatus, fide atque devotione magna properare debuisses ad obtinendam interioris hominis puritatem, quae non nisi per magnam carnis acquiritur afflictionem.",
+      "english": "Moreover, in your early age you had much greater helps of human consolation than they did, and many more consolations of the outer man were bestowed on you by me than on them. Justly urged by these, you should have hastened with great faith and devotion to obtain the purity of the inner man, which is acquired only through great affliction of the flesh.",
+      "notes": null
+    },
+    {
+      "chunk_id": 142,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim illi beneficiis parvis adjuti ita sunt inflammati, ut labores maximos pro consequenda vitae spiritalis puritate sustinerent, cur tibi, qui parvus adhuc dona adeptus es ingentia, videtur grave tribulationem saltem aliquam pro puritate eadem tolerare?",
+      "english": "For if they, helped by small benefits, were so inflamed that they sustained the greatest labors to attain the purity of spiritual life, why does it seem burdensome to you—who though still small have obtained great gifts—to endure at least some tribulation for that same purity?",
+      "notes": null
+    },
+    {
+      "chunk_id": 143,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dic, rogo, quis tibi videris, ut nec pro subsidiis praesentibus, nec pro futura et perenni mercede molestiam ullam perferre velis?",
+      "english": "Tell me, I ask, who do you think you are, that you are unwilling to bear any trouble either for present helps or for future and everlasting reward?",
+      "notes": null
+    },
+    {
+      "chunk_id": 144,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid ergo olim, cum in schola positus esses, pro capacitate magna discendi laborasti? Quod deinde in saeculari vita positus habuisti studium, ut ejus inanem noxiumque evaderes luxum?",
+      "english": "What then? Formerly, when you were placed in school, how you labored for great capacity in learning! Then what zeal did you have when placed in secular life to escape its vain and harmful luxury?",
+      "notes": null
+    },
+    {
+      "chunk_id": 145,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid etiam nunc cum ad monasterium venires, jejunando, vigilando, orando, seu in qualicunque disciplina regulari insistendo plus aliis laboras, ut et pro praeteritis criminibus consequaris veniam, et de futuris habeas cautelam?",
+      "english": "And what even now, when you came to the monastery—by fasting, keeping vigil, praying, or by persevering in whatever regular discipline—do you labor more than others so that you may obtain pardon for past crimes and have caution regarding future ones?",
+      "notes": null
+    },
+    {
+      "chunk_id": 146,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Denique qui praeterita rite emendare, et futura mala cupit devitare, necesse est ut in vigiliis, jejuniis et orationibus nec non in aliis bonis operibus carnem studeat edomare.",
+      "english": "After all, whoever wishes to amend the past properly and avoid future evils must necessarily strive to subdue the flesh in vigils, fasts, and prayers, as well as in other good works.",
+      "notes": null
+    },
+    {
+      "chunk_id": 147,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed tamen quantum conversionis novitas et laboris tui permittit exiguitas, curam assiduam tibi inesse pro his omnibus assequendis non denego.",
+      "english": "But nevertheless, insofar as the newness of your conversion and the smallness of your labor permit, I do not deny that you have constant care for attaining all these things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 148,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde et ego eadem pietatis meae beneficia, quae hactenus tibimet exhibui, amodo non auferam a te; tu tantum viriliter age, et confortetur cor tuum, et sustine Dominum.",
+      "english": "Therefore I will not take away from you henceforth the same benefits of my mercy that I have shown you up to now. Only act manfully, and let your heart be strengthened, and wait for the Lord.",
+      "notes": "Psalm 27:14 (Vulgate 26:14)"
+    },
+    {
+      "chunk_id": 149,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Adhuc restat afflictio et tentatio una, id est passio concupiscentiae carnalis diuturna, in qua quia te specialiter vexatum esse credis, ideoque in hac assumenda sunt aliquorum Patrum exempla ut in caeteris.",
+      "english": "There still remains one affliction and temptation—that is, the long-lasting passion of carnal concupiscence, in which you believe yourself to be especially tormented. And so in this matter, as in the others, the examples of certain Fathers must be presented.",
+      "notes": null
+    },
+    {
+      "chunk_id": 150,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed hoc in primis pensandum est quia is qui nunquam, et qui saepius carnis corruptionem expertus est, nulla possunt colluctatione coaequari.",
+      "english": "But this must be considered first: that he who has never experienced the corruption of the flesh and he who has experienced it often cannot be equaled in any struggle.",
+      "notes": null
+    },
+    {
+      "chunk_id": 151,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quamvis enim uterque impugnatione gravi affligatur, is tamen qui hujusmodi viro fragilitate humana devictus saepe succubuit, tanto longiora et graviora passionum cardinalium certamina sustinebit, quanto frequentius eisdem passionibus consentiens semet subjecit.",
+      "english": "For although both are afflicted by grave assault, he who has often succumbed to this kind of vice, conquered by human frailty, will sustain much longer and more severe battles of the cardinal passions, the more frequently he subjected himself by consenting to those same passions.",
+      "notes": null
+    },
+    {
+      "chunk_id": 152,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hac igitur re considerata, aliquos jam utriusque qualitatis homines ex Scriptura sacra probatos ad exemplum assume, ut perspecta aliorum tentatione atque labore facilius impugnationis et laboris tui quantitatem agnoscas.",
+      "english": "Having considered this matter, then, take as examples some men of both kinds approved from sacred Scripture, so that having observed the temptation and labor of others, you may more easily recognize the extent of your own assault and labor.",
+      "notes": null
+    },
+    {
+      "chunk_id": 153,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et primum quidem illi qui pro castitatis intimae perseverantia, deinde vero hi qui pro corruptionis luxuriosaeque vitae poenitentia agenda certaverunt, proponantur.",
+      "english": "And let those be proposed first who struggled for the perseverance of inner chastity, and then those who struggled to do penance for a life of corruption and luxury.",
+      "notes": null
+    },
+    {
+      "chunk_id": 154,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sicut ergo Dialogorum liber narrat, sanctus Equitius cum in juventutis suae tempore nimio carnalium desideriorum certamine fuisset fatigatus, ipsis suae tentationis angustiis ad orationis studium solertior est factus.",
+      "english": "As the book of Dialogues narrates, holy Equitius, when in the time of his youth he was wearied by excessive struggle with carnal desires, was made more diligent in the practice of prayer by the very distresses of his temptation.",
+      "notes": "Gregory the Great's Dialogues"
+    },
+    {
+      "chunk_id": 155,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque hac in re ab omnipotente Deo remedium continuis precibus quaereret, nocte quadam assistente angelo, eunuchizari se vidit.",
+      "english": "And when he sought a remedy for this matter from almighty God with continuous prayers, one night, with an angel present, he saw himself made a eunuch.",
+      "notes": null
+    },
+    {
+      "chunk_id": 156,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce quantum sanctus iste laboravit, qui quanto magis impugnabatur, tanto studiosius oravit ne vinceretur.",
+      "english": "See how much this saint labored—the more he was assailed, the more zealously he prayed not to be overcome.",
+      "notes": null
+    },
+    {
+      "chunk_id": 157,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In collationibus quoque Patrum de quodam abbate eximio, qui dictus est Serenus, legitur quia, cum pro interna corporis et animae castitate nocturnis diurnisque precibus, jejuniis, etiam ac vigiliis infatigabiliter insisteret,",
+      "english": "Also, in the Conferences of the Fathers, it is read concerning a certain outstanding abbot who was called Serenus that, when he persisted untiringly in nightly and daily prayers, fasts, and vigils for the internal chastity of body and soul,",
+      "notes": "John Cassian's Conferences"
+    },
+    {
+      "chunk_id": 158,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "adveniens ad eum in visione nocturna angelus Domini ejusque velut aperiens uterum, quamdam ignitam carnis strumam de ejus visceribus avellens atque projiciens, suisque omnia, ut fuerant, locis intestina restituens: «Ecce, inquit, incentiva carnis tuae abscissa, et obtinuisse te noveris hodierna die perpetuam corporis puritatem quam fideliter poposcisti.»",
+      "english": "an angel of the Lord came to him in a vision at night and, as if opening his belly, tearing out and casting away a certain fiery swelling of the flesh from his internal organs, and restoring all the intestines to their places as they had been, said: 'Behold, the incentives of your flesh are cut away, and know that you have obtained today the perpetual purity of body that you faithfully sought.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 159,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce vides quantos sit passus et iste labores. Quapropter ut nemo excusationem aut diffidentiam habeat ea quae fideliter poscit impetrare non posse, quod uterque constanter petiit assequi meruit.",
+      "english": "See, you observe how many labors this man also suffered. Therefore, so that no one may have excuse or diffidence that he cannot obtain what he faithfully seeks, each of these merited to attain what he steadfastly sought.",
+      "notes": null
+    },
+    {
+      "chunk_id": 160,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et ut hujusmodi exempla non solum in fortiori, sed etiam in sexu habeas infirmiori, in Vita Patrum narratur quoniam abbatissa quaedam sancta, nomine Sara, 13 annis fortiter a fornicationis daemone sit impugnata, et nunquam rogaverit ut discederet ab ea hujusmodi pugna, sed hoc solum dixerit: «Da mihi fortitudinem, Deus.»",
+      "english": "And so that you may have such examples not only in the stronger sex but also in the weaker, in the Lives of the Fathers it is narrated that a certain holy abbess named Sarah was strongly assailed by the demon of fornication for thirteen years, and never asked that such a struggle depart from her, but said only this: 'Give me strength, O God.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 161,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce fides qualis et quantus amor pietatis; ecce quid uterque sexus laboraverit pro virtute castitatis.",
+      "english": "Behold what faith and how great a love of piety! Behold what each sex has labored for the virtue of chastity.",
+      "notes": null
+    },
+    {
+      "chunk_id": 162,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "De quorum omnium puritatis constantia sicut procul es effectus, ita etiam eorum laborem et impugnationem nunquam fueras expertus.",
+      "english": "Just as you are far from the constancy of purity of all these, so also you have never experienced their labor and assault.",
+      "notes": null
+    },
+    {
+      "chunk_id": 163,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quam ob rem quia perfectorum et in castitate perseverantium omnimodo discrepas meritis atque labore, videamus si aut eorum, quorum impudicitiae et irreligiositati minus discrepare videris, tribulationi et impugnationi, quam pro poenitentia agenda pertulerunt, aliquatenus assimileris.",
+      "english": "For which reason, since you differ in every way in merits and labor from the perfect and those persevering in chastity, let us see whether you are in any way similar to the tribulation and assault that those endured in doing penance—those whose impudicity and irreligiosity you seem to differ from less.",
+      "notes": null
+    },
+    {
+      "chunk_id": 164,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Legitur quippe in supradicta Vita Patrum quia fuerit quidem vir vitam turpissimam super omnes vicinos suos ducens, ita ut opinatissimus in flagitiis haberetur.",
+      "english": "For it is read in the aforementioned Lives of the Fathers that there was a man leading a most shameful life beyond all his neighbors, so that he was held most notorious in wickedness.",
+      "notes": null
+    },
+    {
+      "chunk_id": 165,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic aliquando Dei miseratione compunctus ad poenitentiam convertitur, et intra sepulcrum quoddam se concludens, priorum scelerum pollutiones lacrymarum fontibus diluebat.",
+      "english": "This man, at some point moved to compunction by God's mercy, turned to penance, and shutting himself within a certain tomb, washed away the pollutions of his former crimes with fountains of tears.",
+      "notes": null
+    },
+    {
+      "chunk_id": 166,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque in his posito hebdomada transisset, nocte veniunt ad eum daemones in sepulcro clamantes et dicentes: «Quid est quod agis, o impurissime et flagitiosissime? Postquam omni spurcitia satiatus es, nunc a nobis castus et religiosus effugere cupis? Nolis, velis, amodo unus ex nobis eris.»",
+      "english": "And when a week had passed with him thus situated, at night demons came to him in the tomb, crying out and saying: 'What are you doing, O most impure and wicked one? After being satiated with every filth, now you wish to flee from us as chaste and religious? Whether you will it or not, from now on you will be one of us.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 167,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec et hujusmodi plura exprobrantibus eis ille jacebat immobilis, ne auditum quidem suum convertens ad eos, nec ullo penitus sermone respondens.",
+      "english": "As they reproached him with these and many similar things, he lay immovable, not even turning his hearing toward them, nor responding with any word at all.",
+      "notes": null
+    },
+    {
+      "chunk_id": 168,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque illi saepius eadem repeterent, nec ille omnino moveretur, tunc in furorem commoti daemones, verberibus eum affixerunt multisque cruciatum suppliciis semivivum reliquerunt.",
+      "english": "And when they repeated the same things many times and he was not moved at all, then the demons, stirred into fury, struck him with blows and, torturing him with many torments, left him half-dead.",
+      "notes": null
+    },
+    {
+      "chunk_id": 169,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ille tamen tot cruciatibus nec moveri potuit a loco in quo orationis causa jacuerat.",
+      "english": "Yet even with so many tortures, he could not be moved from the place where he had lain for the sake of prayer.",
+      "notes": null
+    },
+    {
+      "chunk_id": 170,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sequenti vero nocte daemones iterum venientes gravioribus eum verberibus cruciabant; sed nec tunc quidem moveri valuit a loco, melius esse dicens mortem subire quam ultro daemonibus obedire.",
+      "english": "On the following night the demons came again, torturing him with more severe blows. But not even then could he be moved from the place, saying it was better to undergo death than to obey the demons of his own accord.",
+      "notes": null
+    },
+    {
+      "chunk_id": 171,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nihilominus tertia nocte multitudo daemonum convenit, et absque ulla miseratione in eum irruentes, omnibus poenis cruciatibusque afficiunt.",
+      "english": "Nevertheless, on the third night a multitude of demons assembled, and rushing upon him without any mercy, they afflicted him with every pain and torture.",
+      "notes": null
+    },
+    {
+      "chunk_id": 172,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque jam corpus defecisset in suppliciis, extremus tamen spiritus obsistebat imperio daemonum.",
+      "english": "And when his body had already failed under the torments, nevertheless his last breath resisted the command of the demons.",
+      "notes": null
+    },
+    {
+      "chunk_id": 173,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod ubi viderunt, exclamantes voce magna: Vicisti, inquiunt, vicisti!",
+      "english": "When they saw this, crying out with a loud voice, they said: 'You have conquered, you have conquered!'",
+      "notes": null
+    },
+    {
+      "chunk_id": 174,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quid ergo tibi in hujusmodi impugnatione videtur? Nunquid quia te supra multos occultis et manifestis tribulationibus oppressum esse saepius aestimabas, tale aliquid unquam passus eras? Quinimo longe minoribus subjacebas tentationibus.",
+      "english": "What, then, does this assault seem to you? Did you, because you often considered yourself oppressed above many by hidden and manifest tribulations, ever suffer anything like this? On the contrary, you were subject to far lesser temptations.",
+      "notes": null
+    },
+    {
+      "chunk_id": 175,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed licet exemplo satis hoc sis victus ab uno, pro eo tamen quod in occultis et spiritalibus tentationibus maxime te vexatum arbitraris, aliud in quo spiritalis tantum impugnatio declaratur, proferre libet exemplum.",
+      "english": "But although you are sufficiently overcome by this one example, yet because you judge yourself to be especially tormented in hidden and spiritual temptations, I wish to present another example in which only spiritual assault is shown.",
+      "notes": null
+    },
+    {
+      "chunk_id": 176,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Legitur namque de Maria Aegyptiaca, quoniam inter caetera quae Zozimo abbati de vitae conversionisque suae qualitate referebat, dixit: «Crede mihi, abba, septemdecim annis feris et irrationabilibus luctabar desideriis.»",
+      "english": "For it is read of Mary of Egypt that among other things she told Abbot Zosimas about the character of her life and conversion, she said: 'Believe me, abba, for seventeen years I struggled with wild and irrational desires.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 177,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et post pauca: «Cogitationes autem quae ad fornicationem iterum compellebant me quomodo tibi enarrare possum? Ignis interim infelix corpus meum nimius succendebat et me per omnia exurebat, et ad desiderium commistionis trahebat.",
+      "english": "And after a little: 'But how can I describe to you the thoughts that compelled me again to fornication? An unhappy fire meanwhile burned my body excessively and consumed me completely, and dragged me to the desire of intercourse.",
+      "notes": null
+    },
+    {
+      "chunk_id": 178,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Dum ergo talis accenderet cogitatio, prosternebam me in terram, et lacrymis eam infundens ipsam, mihi veraciter adstare sperabam quae me fide jusserat, id est sanctissimam Dei Genitricem: et sic per septemdecim annos periculis multis, ut dixi, luctabar.»",
+      "english": "Therefore, when such a thought inflamed me, I would prostrate myself on the ground and, flooding it with tears, I hoped that she who had commanded me in faith—that is, the most holy Mother of God—truly stood by me. And thus for seventeen years I struggled with many dangers, as I said.'",
+      "notes": null
+    },
+    {
+      "chunk_id": 179,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ecce vides quantum non solum virilis, sed etiam femineus sexus laboraverit et pro integritatis constantia, et pro corruptionis poenitentia.",
+      "english": "Behold, you see how much not only the male sex but also the female sex labored both for the constancy of integrity and for penance for corruption.",
+      "notes": null
+    },
+    {
+      "chunk_id": 180,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nunquid ergo septemdecim annis jam laborasti pugnans contra cogitationes desideriorum carnalium? Quid autem tot annos dico, qui nec uno passus es tanta anno integro?",
+      "english": "Have you then already labored for seventeen years fighting against thoughts of carnal desires? But why do I speak of so many years, when you have not endured such things for even one full year?",
+      "notes": null
+    },
+    {
+      "chunk_id": 181,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nondum igitur laboris viam coepisti, et tamen velut ex labore nimio jam fatigatus defecisti.",
+      "english": "Therefore you have not yet begun the path of labor, and yet, as if from excessive labor, you have already given up exhausted.",
+      "notes": null
+    },
+    {
+      "chunk_id": 182,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et si quas tentationis et adversitatis molestias perferres, nunquid propterea patientiae et spei solatia deponere debes?",
+      "english": "But even if you were bearing whatever troubles of temptation and adversity, should you therefore lay down the consolations of patience and hope?",
+      "notes": null
+    },
+    {
+      "chunk_id": 183,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nonne et ex supra commemoratis sanctorum Patrum exemplis, et ex aliis Scripturae sacrae sententiis agnoscere potes, utile esse ac necessarium perferre tentationes?",
+      "english": "Can you not recognize from the above-mentioned examples of the holy Fathers and from other sayings of sacred Scripture that it is useful and necessary to endure temptations?",
+      "notes": null
+    },
+    {
+      "chunk_id": 184,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Petrus namque apostolus dicit: Charissimi, nolite peregrinari in fervore, qui ad tentationem vobis sit, quasi aliquid novi vobis contingat; sed communicantes Christi passionibus gaudete.",
+      "english": "For Peter the apostle says: 'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ's sufferings.'",
+      "notes": "1 Peter 4:12-13"
+    },
+    {
+      "chunk_id": 185,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Jacobus etiam apostolus docet dicens: Omne gaudium existimate, fratres mei, cum in tentationes varias incideritis, scientes quod probatio fidei vestrae patientiam operatur, patientia autem opus perfectum habet, ut sitis perfecti et integri, in nullo deficientes.",
+      "english": "James the apostle also teaches, saying: 'Count it all joy, my brothers, when you fall into various trials, knowing that the testing of your faith produces patience. And let patience have its perfect work, that you may be perfect and complete, lacking in nothing.'",
+      "notes": "James 1:2-4"
+    },
+    {
+      "chunk_id": 186,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Item apostolus idem dicit: Beatus vir qui suffert tentationem, quoniam, cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se.",
+      "english": "Likewise the same apostle says: 'Blessed is the man who endures trial, for when he has been approved, he will receive the crown of life that God has promised to those who love him.'",
+      "notes": "James 1:12"
+    },
+    {
+      "chunk_id": 187,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hinc et Paulus apostolus ait: Gloriamur in tribulationibus, scientes quod tribulatio patientiam operatur, patientia autem probationem, probatio vero spem, spes autem non confundit.",
+      "english": "Hence also Paul the apostle says: 'We boast in our tribulations, knowing that tribulation produces patience, and patience produces proven character, and proven character produces hope, and hope does not disappoint.'",
+      "notes": "Romans 5:3-5"
+    },
+    {
+      "chunk_id": 188,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hujusmodi ergo documenta et in Novo et in Veteri Testamento inveniuntur multa: quibus si jugiter intendis, non solum tentationes quaslibet advenientes facilius devincis, sed et majoris intelligentiae dona consequeris.",
+      "english": "Many such teachings are found both in the New and in the Old Testament. If you constantly attend to them, you not only more easily overcome whatever temptations come, but you also obtain the gifts of greater understanding.",
+      "notes": null
+    },
+    {
+      "chunk_id": 189,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Vir enim, ut scriptum est, in multis expertus cogitabit multa; et qui multa didicit, narrabit intellectum.",
+      "english": "For as it is written: 'A man who has been tested in many things will think many thoughts; and he who has learned much will display understanding.'",
+      "notes": "Sirach/Ecclesiasticus 34:9-10"
+    },
+    {
+      "chunk_id": 190,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cujus videlicet rei indicium in temetipso probare vales, quia, nisi varia tentationum molestia et eura exercitatus esses, nequaquam tanta Scripturarum documenta aut testimonia tractare studuisses. Plura quippe prius incognita jam indagationi tuae sunt reserata.",
+      "english": "You can prove an indication of this matter in yourself, because unless you had been exercised by the varied trouble and care of temptations, you would never have studied to treat so many teachings or testimonies of Scripture. For many things previously unknown have now been opened to your investigation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 191,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Illud quoque summopere notandum tibi est quia, si absque tentatione et tribulatione aliqua diutius remaneres, gravius periculosiusque de beneficiorum meorum largitate superbiendo caderes, quam cum sceleribus omnimodis quondam deditus esses.",
+      "english": "This also must especially be noted by you: that if you were to remain longer without any temptation and tribulation, you would fall more gravely and dangerously through pride in the generosity of my benefits than when you were once given over to crimes of every kind.",
+      "notes": null
+    },
+    {
+      "chunk_id": 192,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quanto enim excellentioribus quisque dotatur donis, tanto magis pulsatur vitio elationis.",
+      "english": "For the more excellent the gifts with which someone is endowed, the more he is struck by the vice of pride.",
+      "notes": null
+    },
+    {
+      "chunk_id": 193,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde et ille praestantissimus angelorum non sustinens dignitatis suae donum, eo gravius superbiendo cecidit quo sublimior caeteris exstitit.",
+      "english": "Hence that most outstanding of angels, not sustaining the gift of his dignity, fell through pride all the more gravely because he was more sublime than the others.",
+      "notes": "Referring to Lucifer/Satan"
+    },
+    {
+      "chunk_id": 194,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Saul quoque, ut liber Regum narrat, cum ante perceptam regni dignitatem humilis mihique esset acceptus, postea vero ex eadem dignitate superbiens a me est repulsus.",
+      "english": "Saul also, as the book of Kings narrates, when before receiving the dignity of kingship he was humble and acceptable to me, afterward, becoming proud from that same dignity, was rejected by me.",
+      "notes": "1 Samuel 15"
+    },
+    {
+      "chunk_id": 195,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ipse etiam David, licet regum eximius et pietati meae placitur esset, prius tamen quam ad regni elevaretur fastigia majori se constrinxit religionis cura.",
+      "english": "David himself also, although he was outstanding among kings and pleasing to my mercy, nevertheless before he was elevated to the heights of kingship, bound himself with greater care of religion.",
+      "notes": null
+    },
+    {
+      "chunk_id": 196,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam antea bona pro malis, postea vero mala reddidit pro bonis: ideoque iniquitatis suae non immemor, in centesimo primo psalmo gemebundus ad me ait: Quia elevans allisisti me;",
+      "english": "For earlier he returned good for evil, but later he returned evil for good. And therefore, not unmindful of his iniquity, groaning in the one hundred and second psalm, he said to me: 'Because lifting me up, you have cast me down.'",
+      "notes": "Psalm 102:10 (Vulgate 101:11)"
+    },
+    {
+      "chunk_id": 197,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ac si aperte diceret: Quanto sublimiore me dignitate elevasti, tanto majoribus peccatis me implicari permisisti.",
+      "english": "As if he were saying openly: 'The more you elevated me with sublime dignity, the more you permitted me to be entangled in greater sins.'",
+      "notes": "Referring to David's adultery with Bathsheba"
+    },
+    {
+      "chunk_id": 198,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praeterea quantae ruinae is, qui prae caeteris elevatur, pateat, liber Paralipomenon indicat. De Joas namque rege Juda refert, quia post mortem Joiadae sacerdotis, qui eum ad regnum provexit, in tantam elationem venerit ut, relicto cultu Dei, a suis se permiserit adorari.",
+      "english": "Moreover, how great a ruin is open to him who is elevated above others is indicated by the book of Chronicles. For it reports of Joash, king of Judah, that after the death of the priest Jehoiada, who promoted him to the kingdom, he came to such pride that, abandoning the worship of God, he allowed himself to be adored by his people.",
+      "notes": "2 Chronicles 24"
+    },
+    {
+      "chunk_id": 199,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Pro quo superbiae flagitio quod regi eidem evenerit Scriptura subjungit, dicens: Cumque volutus esset onnus, ascendit contra eum rex Syriae, venitque in Judam et Jerusalem, et interfecit cunctos principes populi, et universam praedam miserunt regi Damascum. In Joas quoque ignominiosa exercuerunt judicia, et abeuntes dimiserunt eum in languoribus magnis.",
+      "english": "For this crime of pride, what befell that same king, Scripture adds, saying: 'And when the year had turned, the king of Syria came up against him and came into Judah and Jerusalem, and killed all the princes of the people, and sent all the spoil to the king of Damascus. They also executed disgraceful judgments upon Joash, and departing left him in great sicknesses.'",
+      "notes": "2 Chronicles 24:23-25"
+    },
+    {
+      "chunk_id": 200,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ex quibus omnibus sentiri valet, quia nemo aut virtutis aut dignitatis alicujus excellentia sublimatus, mortiferae superbiae ruinam absque magna contritione evadet.",
+      "english": "From all these things it can be understood that no one elevated by excellence of any virtue or dignity will escape the ruin of deadly pride without great contrition.",
+      "notes": null
+    },
+    {
+      "chunk_id": 201,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et beatus Paulus hoc attestatur, qui patefactis quibusdam virtutibus sibi concessis subjungit, dicens: Et ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meac angelus Satanae ut me colaphizet.",
+      "english": "But blessed Paul also attests to this, who, having disclosed certain virtues granted to him, adds, saying: 'And lest the greatness of the revelations should exalt me, there was given to me a thorn in the flesh, an angel of Satan to buffet me.'",
+      "notes": "2 Corinthians 12:7"
+    },
+    {
+      "chunk_id": 202,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim tantus vir stimulis ideo premebatur carnalibus, ne pro concessis extolleretur virtutibus, putasne tibi opus est aliqua adversitate fatigari, ne de perceptis beneficiis praesumas gloriari?",
+      "english": "For if so great a man was pressed by carnal thorns for this reason—lest he be exalted because of the virtues granted to him—do you think you need to be wearied by some adversity, lest you presume to glory in the benefits you have received?",
+      "notes": null
+    },
+    {
+      "chunk_id": 203,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quam ob rem perpende, quaeso, tentationis tuae causam et ordinem, exordium et finem, ut agnoscere possis, cui postremo amariori quam primitus et illa, quam tu insolitam vocasti tentationem, vexatus fueris.",
+      "english": "For which reason, consider, I ask you, the cause and order of your temptation, its beginning and end, so that you may recognize by what ultimately more bitter temptation you have been vexed than at first—even that temptation which you called unusual.",
+      "notes": null
+    },
+    {
+      "chunk_id": 204,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In primis namque ideo levioribus solitisque permissus es fatigari tentationibus, ut quasi per gradus quosdam ad altiora paulatim ascenderes et disceres congredi quandoque cum gravioribus.",
+      "english": "For in the first place you were permitted to be wearied by lighter and usual temptations, so that, as if by certain steps, you might gradually ascend to higher things and learn to contend at some point with more serious ones.",
+      "notes": null
+    },
+    {
+      "chunk_id": 205,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed cum in tam levi et temperata impugnatione aliquantulum proficiens, ea quae in te gratia mea operabatur, magis ac magis viribus meritisque tuis attribueres;",
+      "english": "But when, making some progress in such light and moderate assault, you attributed more and more what my grace was working in you to your own strengths and merits,",
+      "notes": null
+    },
+    {
+      "chunk_id": 206,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "in talem te tandem permisi tentationem incurrere, cujus impugnationis magnitudine depressus, agnosceres cui instantem defectum, et cui praeteritum omnemque laboris tui profectum debuisses imputare:",
+      "english": "I finally permitted you to fall into such a temptation that, pressed down by the magnitude of the assault, you might recognize to whom you should attribute your present failure, and to whom your past progress and all your labor's advancement:",
+      "notes": null
+    },
+    {
+      "chunk_id": 207,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ac per hoc tanto certior de gratiae meae beneficiis existeres, quanto minus de meritis tuis praesumeres.",
+      "english": "And through this you might be all the more certain about the benefits of my grace, the less you presumed about your own merits.",
+      "notes": null
+    },
+    {
+      "chunk_id": 208,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Author's Literary Works and Divine Inspiration",
+      "latin": "PARS SECUNDA.",
+      "english": "Part Two.",
+      "notes": null
+    },
+    {
+      "chunk_id": 209,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hoc ideo clericus supradictus ideo scripsit, ut his qui in conversionis initio sacram Scripturam legere cupiunt, ostenderet qualiter immensam diabolicae fraudis astutiam, qua omnes eamdem Scripturam legentes impugnare solet, agnoscere et praecavere, qualiterque etiam divinae inspirationis gratiam agnoscere et invocare debeant.",
+      "english": "The aforementioned cleric wrote this so that he might show to those who at the beginning of their conversion desire to read sacred Scripture how they should recognize and guard against the immense cunning of diabolical fraud—by which he usually attacks all who read that Scripture—and also how they should recognize and invoke the grace of divine inspiration.",
+      "notes": "Referring back to the dialogue/temptation in Part One"
+    },
+    {
+      "chunk_id": 210,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scripsit et idem clericus multa alia, quaedam quidem dictando, quaedam autem alio modo, quae scilicet utraque subsequenter pandere volo; sed dictata prius, post haec quoque caetera pandam.",
+      "english": "The same cleric also wrote many other things, some indeed by dictation, others in another manner—both of which I wish to reveal in what follows. But I will disclose the dictated works first, and afterward the others.",
+      "notes": "The author now begins describing his own works in third person"
+    },
+    {
+      "chunk_id": 211,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sic ergo incipit scribere de librorum dictamine. Quia igitur alternis uti delectabile est, non solum ob depellendam taedii molestiam, sed etiam ob recreandas animae et corporis vires studui quondam dicta diversae qualitatis scribere, sed nunc reserare libet quae scripserim.",
+      "english": "Thus he begins to write concerning the composition of books. Because it is delightful to make use of alternating things, not only to drive away the trouble of tedium but also to restore the powers of soul and body, I once endeavored to write sayings of diverse character, but now I wish to reveal what I have written.",
+      "notes": "Shifting to first person as Otloh discusses his methodology"
+    },
+    {
+      "chunk_id": 212,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tres namque libellos diverso tempore diversoque stylo edidi in primis, quos volui in unum volumen, quasi ad unam convescentium mensam colligere, instar videlicet trium pulmentorum, quae nobis sanctus Pater Benedictus coenantibus largiri jubet in regula, ut qui ex uno nequiverit refici, ex alio reficiatur.",
+      "english": "For I produced three little books at different times and in different styles at first, which I wished to gather into one volume, as if at one table for those feasting—like the three dishes which holy Father Benedict commands to be provided for us dining in the Rule, so that whoever cannot be refreshed by one may be refreshed by another.",
+      "notes": "Reference to Benedict's Rule Chapter 39"
+    },
+    {
+      "chunk_id": 213,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Confido itaque in Domino, quia omni spirituali cibo delectatus in aliquo illorum inveniat, per quod spiritualiter refici valeat.",
+      "english": "Therefore I trust in the Lord that anyone delighted with spiritual food will find in some of them something by which he may be spiritually refreshed.",
+      "notes": null
+    },
+    {
+      "chunk_id": 214,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed haec de omnibus generaliter sint dicta. Nunc vero reserare cupio quae causa fuerit singulos scribere, ut lector aliquatenus exinde instructus noverit me nequaquam frustra in talibus desudasse.",
+      "english": "But let these things be said generally about all. Now, however, I desire to reveal what the reason was for writing each one, so that the reader, instructed to some extent from this, may know that I have by no means labored in vain in such things.",
+      "notes": null
+    },
+    {
+      "chunk_id": 215,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Primum ergo libellum metrice prolatum, cui imposui titulum: De Spiritali doctrina, scribere hujusmodi erat causa.",
+      "english": "Therefore the reason for writing the first little book, set forth in verse, to which I gave the title 'On Spiritual Doctrine,' was of this kind.",
+      "notes": null
+    },
+    {
+      "chunk_id": 216,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum enim quondam ex infirmitate maxima convalescens ad monasticae professionis vitam venissem, tunc in brevi, plusquam credibile sit, factus sum sospes: ex qua sospitate veritus ne aliquod damnum spirituale mihi oriretur, prece Dominum intima rogavi ne me in tanta sospitate positum otio inutili torpescere, sed aliqua tentatione, quam mihi congruere sciret, pulsari permitteret.",
+      "english": "For when I once came to the life of monastic profession recovering from very great illness, then in a short time—more than is credible—I became well. Out of this wellness, fearing lest some spiritual harm should arise for me, I prayed to the Lord with intimate prayer that he would not allow me, placed in such wellness, to grow sluggish in useless idleness, but permit me to be tested by some temptation that he knew would be appropriate for me.",
+      "notes": null
+    },
+    {
+      "chunk_id": 217,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Post hanc orationem non multum temporis fluxit: et ecce variae tentationum molestiae accedentes in tantum me circumdederunt, ut et incaute me orasse et magis ad interitum quam ad proventum exauditum esse aliquando vererer.",
+      "english": "After this prayer not much time passed, and behold, various troubles of temptations approaching surrounded me so much that I sometimes feared I had prayed incautiously and had been heard more for destruction than for benefit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 218,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed saepius retractans illud apostolicum: Fidelis Deus, qui non patietur vos tentari supra id quod potestis, sed faciet cum tentatione proventum ut possitis sustinere;",
+      "english": "But frequently reconsidering that apostolic saying: 'God is faithful, who will not allow you to be tempted beyond what you are able, but will make with the temptation also a way out so that you may be able to endure'—",
+      "notes": "1 Corinthians 10:13"
+    },
+    {
+      "chunk_id": 219,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "laboravi non quantum debui, sed quantum fragilitate mea, permittente ipsoque Domino adjuvante, potui, ne in conspectu adversariorum meorum corruerem.",
+      "english": "I labored not as much as I should have, but as much as I could with my frailty, with the Lord permitting and himself helping, lest I fall in the sight of my adversaries.",
+      "notes": null
+    },
+    {
+      "chunk_id": 220,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ideoque in tanta molestia tentationis, quae eo magis imminebat, quo major sospitas corporalis inerat, omnimodo tractare coepi, quali studio, qualique labore corpus spiritui subjicerem.",
+      "english": "And so in such great trouble of temptation, which pressed all the more because greater bodily health was present, I began to consider in every way by what zeal and by what labor I might subject the body to the spirit.",
+      "notes": null
+    },
+    {
+      "chunk_id": 221,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam ea quae communiter cum caeteris fratribus in coenobio agere docebar, sed et illa quae speciali devotione scribendo aut legendo, seu etiam jejunando sponte subii, non satis affligere corpus videbantur.",
+      "english": "For those things that I was taught to do commonly with the other brothers in the monastery, and also those things that I undertook of my own accord with special devotion by writing or reading, or even fasting, did not seem to afflict the body enough.",
+      "notes": null
+    },
+    {
+      "chunk_id": 222,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque diu tractarem quo potissimum studio memet in tantis periculis constitutum aptissime jugiterque constringerem, occurrit animo ut in dictamine me occuparem aliquo:",
+      "english": "And when I considered for a long time by what zeal especially I might most aptly and constantly constrain myself placed in such great dangers, it occurred to my mind that I should occupy myself with some composition.",
+      "notes": null
+    },
+    {
+      "chunk_id": 223,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quod et saepe expertus sum mentem lascivam cujuslibet scholastice instructi in nullo posse magis constringi quam studio dictandi.",
+      "english": "For I have often experienced that the lascivious mind of anyone scholastically trained can be constrained in nothing more than in the practice of composition.",
+      "notes": null
+    },
+    {
+      "chunk_id": 224,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hujusmodi igitur occasione accepta, libellum primum scribere coepi metrico scilicet stylo, quo maxime in saeculari vita positus me exercebam;",
+      "english": "Having taken this kind of occasion, then, I began to write a first little book—namely in metrical style, in which I exercised myself especially when I was in secular life.",
+      "notes": null
+    },
+    {
+      "chunk_id": 225,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ponens in eo varias spiritualis doctrinae sententias, quibus me solummodo contra tentationes imminentes instruens roboravi;",
+      "english": "Placing in it various sayings of spiritual doctrine, by which I instructed and strengthened myself alone against the temptations pressing upon me.",
+      "notes": null
+    },
+    {
+      "chunk_id": 226,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "aut pravitatis meae quantitatem, quam cum caeteris clericis communiter in mundo exercebam, pertinaciamque quam specialiter prae multis ibidem retinebam, magis attenderem atque litteris expositam majori poenitentia diluendam agnoscerem.",
+      "english": "Or so that I might pay more attention to the extent of my wickedness, which I practiced commonly with other clerics in the world, and to the obstinacy that I retained there especially beyond many—and, having set it forth in writing, might recognize it should be washed away with greater penance.",
+      "notes": null
+    },
+    {
+      "chunk_id": 227,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inserui in eodem etiam libello sermonem quemdam lamentabili stylo editum, prius quidem disputans de diversa clericorum negligentia nec non avaritia: deinde narrans de miserabili improbitatis meae vindicta tam spiritualiter quam corporaliter patrata.",
+      "english": "I also inserted in the same little book a certain discourse set forth in a lamentable style, first indeed disputing concerning the various negligence and also avarice of clerics, then narrating concerning the miserable punishment of my wickedness enacted both spiritually and bodily.",
+      "notes": null
+    },
+    {
+      "chunk_id": 228,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ignorabam enim tunc, si quo loco proferenda forent hujusmodi dicta, quae licet in modo sint posita, post caetera tamen, cum me aliquid perspicaciori intuitu agnoscere coepissem, a me constant edita;",
+      "english": "For I was then ignorant in what place such sayings should be brought forth, which, though placed in verse, nevertheless were produced by me after other things, when I had begun to recognize something with more perceptive insight.",
+      "notes": null
+    },
+    {
+      "chunk_id": 229,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quia metricis prolatus est verbis quae pueris et intrantibus ad discendas litteras a multis primitus exhiberi solent.",
+      "english": "Because it is set forth in metrical words that are usually first presented by many to boys and beginners for learning letters.",
+      "notes": "Referring to teaching verse to students"
+    },
+    {
+      "chunk_id": 230,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In primis quoque ponere decrevi ut ex hoc quilibet ad veritatis viam conversus sumat quasi prandium conversioni suae congruum, sicque leviori cibo refectus ad lautiores dapes sacrae doctrinae capiendas aptior accedat.",
+      "english": "I also decided to place it first so that from this anyone converted to the way of truth might take, as it were, a meal fitting for his conversion, and thus, refreshed with lighter food, might approach more aptly to take up the richer fare of sacred doctrine.",
+      "notes": null
+    },
+    {
+      "chunk_id": 231,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Librum vero visionum, licet post duos scripserim, in ordine tamen secundum ideo posui, ut illa doctrina, quae in priori libello variis prolata est sententiis, in hoc quoque variis corroboraretur exemplis;",
+      "english": "But the book of visions, although I wrote it after two others, I nevertheless placed second in order, so that that doctrine which was set forth in various sayings in the earlier booklet might also be strengthened in this one by various examples.",
+      "notes": null
+    },
+    {
+      "chunk_id": 232,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "eaque tenacius praemissa animo inhaereant verba, quae majori testimonio tam pietatis quam severitatis divinae in subsequentibus commendantur,",
+      "english": "And so that the words sent ahead might cling more tenaciously to the mind, which are commended in what follows by greater testimony both of mercy and of divine severity—",
+      "notes": null
+    },
+    {
+      "chunk_id": 233,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "in morem videlicet lautioris cibi, qui primo aqua pura coctus, deinde aliqua aceti vel etiam piperis adjectione accuratius praeparatur.",
+      "english": "In the manner, that is, of richer food, which is first cooked in pure water, then more carefully prepared by the addition of some vinegar or even pepper.",
+      "notes": "Continuing the food metaphor"
+    },
+    {
+      "chunk_id": 234,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sola enim lenitatis verba in docendo prolata, quasi quidam cibi in sola aqua excocti possunt intelligi;",
+      "english": "For words of gentleness alone brought forth in teaching can be understood as certain foods cooked only in water.",
+      "notes": null
+    },
+    {
+      "chunk_id": 235,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "sed cum dehinc aliqua severitatis exempla admiscentur, velut amaro aceti seu piperis additamento condita fercula ut suaviora efficiantur, non incongrue intelliguntur.",
+      "english": "But when thereafter some examples of severity are mixed in, they are not inappropriately understood as dishes seasoned with the bitter addition of vinegar or pepper to make them more pleasing.",
+      "notes": null
+    },
+    {
+      "chunk_id": 236,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Apparet igitur quia, sicut cibus tam amaris quam suavibus condimentis coctus avidius sumitur, ita et doctrina blandimentis quidem inchoata, sed deinde alicujus severitatis commista exemplis studiosius auditur.",
+      "english": "It is clear, therefore, that just as food cooked with both bitter and sweet seasonings is taken more eagerly, so also doctrine begun with enticements but then mixed with examples of some severity is heard more eagerly.",
+      "notes": null
+    },
+    {
+      "chunk_id": 237,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde et Apostolus doctorem quemlibet instruens ait: Argue, obsecra, increpa, id est blandimenta terroribus admisce.",
+      "english": "Hence also the Apostle, instructing any teacher, says: 'Argue, entreat, rebuke'—that is, mix enticements with terrors.",
+      "notes": "2 Timothy 4:2"
+    },
+    {
+      "chunk_id": 238,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "His igitur praelibatis de secundi ordine libelli, jam vero subjungere volo ubi et qua occasione scriptum fuerit.",
+      "english": "Having thus prefaced these things about the second book in order, now I wish to add where and on what occasion it was written.",
+      "notes": null
+    },
+    {
+      "chunk_id": 239,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum ergo monasterium nostrum in urbe Ratisbona constitutum varia episcoporum persecutione destrui viderem, ibique per triginta annos meliora sperans subsisterem, occulto Dei judicio longe aliter quam sperarem evenit.",
+      "english": "When, therefore, I saw our monastery established in the city of Regensburg being destroyed by various persecutions of bishops, and remained there for thirty years hoping for better things, by the hidden judgment of God it turned out far differently than I hoped.",
+      "notes": "Autobiographical detail about St Emmeram's monastery in Regensburg"
+    },
+    {
+      "chunk_id": 240,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qualiter autem destructio tanta evenerit, quia nec breviter proferri valet, nec ineptias tantas hic exponere libet, aliis proferenda relinquo:",
+      "english": "How such great destruction occurred, because it cannot be briefly stated, nor do I wish to set forth such great follies here, I leave to be brought forth by others.",
+      "notes": null
+    },
+    {
+      "chunk_id": 241,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "hoc solummodo enarrans, quia cum exteriora et interiora monasterii nostri commoda penitus destrui sensissem, et contra haec nil praevaluissem, quin imo a fratribus quibusdam juvenibus quibus displicebam apud episcopum accusatus, varias mihi minas ab illo illiusque familiaribus agi saepius audissem;",
+      "english": "Narrating only this: that when I perceived the external and internal goods of our monastery to be completely destroyed, and I could do nothing against these things—indeed, accused before the bishop by certain young brothers to whom I was displeasing, I often heard that various threats were being made against me by him and his associates—",
+      "notes": null
+    },
+    {
+      "chunk_id": 242,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "tunc, petita ab abbate licentia, ad monasterium Fuldense quasi cito reversurus perrexi.",
+      "english": "Then, having sought permission from the abbot, I proceeded to the monastery of Fulda as if about to return soon.",
+      "notes": "Fulda was one of the great monasteries of medieval Germany"
+    },
+    {
+      "chunk_id": 243,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verumtamen non dubito quin tantam destructionem nemo in nos agere posset, nisi justo Dei judicio peccatisque nostris exigentibus permissus:",
+      "english": "Nevertheless, I do not doubt that no one could have brought such destruction upon us unless permitted by the just judgment of God and our sins demanding it.",
+      "notes": null
+    },
+    {
+      "chunk_id": 244,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quod scilicet exinde palam datur intelligi, quia in ipso discessionis meae anno, qui erat ab incarnatione Domini 1062, miserando semperque lugendo igne combustum est coenobium nostrum.",
+      "english": "Which is clearly given to be understood from this: that in the very year of my departure, which was the year ten sixty-two from the incarnation of the Lord, our monastery was consumed by a fire to be pitied and always mourned.",
+      "notes": "Historical date: 1062 CE, fire at St Emmeram's Regensburg"
+    },
+    {
+      "chunk_id": 245,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In Fuldensi igitur monasterio positus, et optatae tranquillitatis atque charitatis dono ibidem potitus, frequenter tractavi, qualiter pro ejusdem tranquillitatis gratia Deo, a quo mihi data est, grates referrem.",
+      "english": "Therefore, placed in the monastery of Fulda and having obtained there the gift of desired tranquility and charity, I frequently considered how I might give thanks to God—from whom it was given to me—for the grace of that same tranquility.",
+      "notes": null
+    },
+    {
+      "chunk_id": 246,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Magnum quippe mihi tunc videbatur in eodem monasterio pacifico incessu posse deambulare.",
+      "english": "For it seemed great to me then to be able to walk with peaceful steps in that same monastery.",
+      "notes": null
+    },
+    {
+      "chunk_id": 247,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quapropter animum ad deferendas Deo gratias omnino convertens, et si qua dictandi materia apte occurreret diutius exquirens, reperi tandem quamdam dictandi occasionem, visiones videlicet, quas et ego quondam vidi et ab aliis per loca diversa profectus audivi.",
+      "english": "Therefore, turning my mind entirely to giving thanks to God, and seeking for a long time if any suitable material for composition might occur, I finally found a certain occasion for composition—namely visions, which I once saw myself and heard from others as I traveled through various places.",
+      "notes": null
+    },
+    {
+      "chunk_id": 248,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Has namque ad multorum notitiam deferre ideo utile esse arbitrabar, quia credo ad omnes homines pertinere quoties quilibet visitatur a Deo, aut per castigationem aut per consolationem, sicut et ipse in Evangelio dicit: Quod uni dico, omnibus dico.",
+      "english": "For I judged it useful to bring these to the knowledge of many, because I believe it pertains to all people whenever anyone is visited by God, either through chastisement or through consolation, as he himself says in the Gospel: 'What I say to one, I say to all.'",
+      "notes": "Mark 13:37"
+    },
+    {
+      "chunk_id": 249,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Incitabar etiam ex hoc ad scribendum, quia, cum olim libellos duos ediderim, tertium pro sanctae Trinitatis honore, si ipsa Trinitas dignaretur inspirare, saepius optavi addere.",
+      "english": "I was also urged to write from this: that since I had formerly published two little books, I often wished to add a third for the honor of the Holy Trinity, if that Trinity itself would deign to inspire me.",
+      "notes": null
+    },
+    {
+      "chunk_id": 250,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tali itaque causa incitatus, librum visionum, de quo jam locutus sum, scribere studui.",
+      "english": "Urged therefore by such a reason, I strove to write the book of visions of which I have already spoken.",
+      "notes": null
+    },
+    {
+      "chunk_id": 251,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tertium vero libellum, quem ante annos 15, ut reor, scripsi, cur in extremo ordine posuerim primo dicendum, deinde qua causa scriptus fuerit subnectendum.",
+      "english": "But the third little book, which I wrote about fifteen years ago, I believe—why I placed it in the last order must first be explained, then on what occasion it was written must be added.",
+      "notes": null
+    },
+    {
+      "chunk_id": 252,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quia enim multorum accuratis epulis coenantium mos est, ut in prima et secunda vice viliora quaeque fercula (quae non ideo viliora dicimus, quasi sint vilia, sed quod sint optimis inferiora); in extrema vero lautiora, et aliqua arte praecipua cocta sibi apponere jubeant,",
+      "english": "Because the custom of many dining with careful meals is that in the first and second course they order somewhat inferior dishes (which we do not call inferior as if they were worthless, but because they are less than the best), but in the last course richer dishes, prepared with some special art.",
+      "notes": "Medieval dining customs as metaphor"
+    },
+    {
+      "chunk_id": 253,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "cupientes in hoc non tam suae gulae, quam aliorum, qui forte invitati sunt ad convivium, delectationi et honori deservire:",
+      "english": "Desiring in this to serve not so much their own appetite as the delight and honor of others who happen to be invited to the banquet.",
+      "notes": null
+    },
+    {
+      "chunk_id": 254,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ego econtra simile aliquid inoliter volui in extremo aliqua lautioris sententiae verbula ante faciem legentium, quasi ad mensam convescentium ponere, quae quilibet lector avidus, licet indigno stylo edita, generosae tamen materiae dignitatem retinentia, pro dapibus lautis potuisset gustare.",
+      "english": "I, on the contrary, wished unusually to place last some words of richer teaching before the face of readers, as if at a table of feasters, which any eager reader, though set forth in an unworthy style yet retaining the dignity of noble subject matter, could taste as rich fare.",
+      "notes": null
+    },
+    {
+      "chunk_id": 255,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam quae sententia lautior et suavior valet esse quam de gratia Dei, et cur credenda dicendaque sit gratia; judicia quoque quam vera justaque et necessaria sint;",
+      "english": "For what teaching can be richer and sweeter than concerning the grace of God, and why grace must be believed and spoken of; also how true, just, and necessary are God's judgments;",
+      "notes": "Describing the content of his third book"
+    },
+    {
+      "chunk_id": 256,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "sed et quantam bene agendi facultatem a Deo concessam habeamus nisibus totis inquirere atque pluribus testimoniis approbare?",
+      "english": "And also to inquire with all efforts and to prove with many testimonies how great a capacity for acting well we have been granted by God?",
+      "notes": "Themes: grace, divine judgment, human free will"
+    },
+    {
+      "chunk_id": 257,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec quippe tria per trium quaestionum solutiones in illo libro, quem in tertio locavi ordine, stylo quo potui per dialogum protuli, numero scilicet et ordine tali desiderans sanctam Trinitatem venerari.",
+      "english": "These three things I set forth through the solutions of three questions in that book, which I placed in third order, in the style I could manage through dialogue, desiring by this number and order to venerate the Holy Trinity.",
+      "notes": "Trinitarian symbolism in the structure"
+    },
+    {
+      "chunk_id": 258,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et in hoc eamdem Trinitatem venerari studebam, quia in tertia quaestione, quam velut fercula quaedam praecipua ritu sagaci contexta, et allata in extremo ad lectionis coenam considentibus apposui;",
+      "english": "But I also strove to venerate the same Trinity in this: that in the third question—which, like certain choice dishes woven together with wise custom and brought last to those sitting at the supper of reading, I set forth—",
+      "notes": null
+    },
+    {
+      "chunk_id": 259,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "de ipsa sancta Trinitate et Unitate, juxta intelligentiae meae vires, brevi et aperta probataque (ut spero) variis exemplis et argumentis ratione disserui.",
+      "english": "I discussed the Holy Trinity and Unity itself according to the strength of my understanding, briefly and openly and (I hope) provedly by various examples and arguments of reason.",
+      "notes": "Treatise on the Trinity in Book 3"
+    },
+    {
+      "chunk_id": 260,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Spero etiam me in eodem libello omnibus tam in saeculari quam spirituali vita positis aliqua aedificationis verba protulisse, per quae quilibet esurientes et sitientes justitiam refici possunt.",
+      "english": "I also hope that in the same little book I have brought forth for all—whether placed in secular or spiritual life—some words of edification, through which any who hunger and thirst for righteousness can be refreshed.",
+      "notes": "Matthew 5:6 reference"
+    },
+    {
+      "chunk_id": 261,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec quidem de libri extremi ordine sint dicta, cui titulum imposui: De tribus quaestionibus, id est de divinae pietatis agnitione judiciorumque divinorum diversitate, nec non de varia bene agendi facultate.",
+      "english": "Let these things be said concerning the last book in order, to which I gave the title: 'On Three Questions'—that is, on the recognition of divine mercy and the diversity of divine judgments, as well as on the varied capacity for acting well.",
+      "notes": "Full title of the Dialogue/third book"
+    },
+    {
+      "chunk_id": 262,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Deinde vero subjungimus qua causa fuerit scriptus.",
+      "english": "Then we add on what occasion it was written.",
+      "notes": null
+    },
+    {
+      "chunk_id": 263,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quidam namque monachus de Augiensi coenobio, nobilissima Alemannorum stirpe ortus, nomine Henricus, cum ab Jerusalem reverteretur, apud nos aliquandiu hospitatus est.",
+      "english": "For a certain monk from the monastery of Reichenau, born of the most noble stock of the Alemanni, named Henry, when he was returning from Jerusalem, was our guest for some time.",
+      "notes": "Reichenau (Augia) was a famous island monastery; Henry was returning from pilgrimage"
+    },
+    {
+      "chunk_id": 264,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hic ergo quia in sacra Scriptura satis studiosus fuit, me frequenter quasi doctorem adiit, suppliciter rogans pro quibusdam sacrae Scripturae sententiis ut eas sibi exponerem.",
+      "english": "Therefore, because he was quite studious in sacred Scripture, he frequently approached me as a teacher, humbly asking that I explain to him certain sayings of sacred Scripture.",
+      "notes": null
+    },
+    {
+      "chunk_id": 265,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ego autem humilitatem atque importunitatem petitionis ejus attendens, prout potui, ad quaeque rogata respondi.",
+      "english": "But I, noticing the humility and persistence of his request, as I was able, responded to whatever he asked.",
+      "notes": null
+    },
+    {
+      "chunk_id": 266,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque haec collatio saepius inter nos habita sibi placeret, postremo illud deposcere coepit, ut eamdem collationem litteris exciperem.",
+      "english": "And when this conversation held between us often pleased him, finally he began to request that I write down the same conversation.",
+      "notes": null
+    },
+    {
+      "chunk_id": 267,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quod licet diu tam pro desidia quam pro ignorantia differrem, aggressus sum tandem, scribens quidem per dialogum, sed sine titulo auctoris et absque personarum notarum litteris, ne facile pateret cujus epus esset.",
+      "english": "Though I delayed this for a long time both out of laziness and ignorance, I finally undertook it, writing indeed through dialogue, but without the author's name and without identifying letters for the characters, lest it easily appear whose work it was.",
+      "notes": "Modesty topos—hiding authorship"
+    },
+    {
+      "chunk_id": 268,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inter haec vero ille ad monasterium suum vocatus proficiscitur, et post non multum tempus ad nos iterum revertitur.",
+      "english": "Meanwhile he, summoned to his monastery, departed, and after not much time returned to us again.",
+      "notes": null
+    },
+    {
+      "chunk_id": 269,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tunc videns quae scribere coepi, qualiterque ea adumbravi, unice petiit ut et causam scribendi illustrarem prologo, et utriusque personae, mei videlicet ac sui, memoriam patefacerem in dialogo:",
+      "english": "Then, seeing what I had begun to write and how I had sketched it out, he especially asked that I both illuminate the reason for writing with a prologue and reveal the memory of both persons—namely myself and himself—in the dialogue.",
+      "notes": null
+    },
+    {
+      "chunk_id": 270,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quod mox, ut poteram, scribens implere studebam.",
+      "english": "Which I soon strove to fulfill by writing, as I was able.",
+      "notes": null
+    },
+    {
+      "chunk_id": 271,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec igitur causa Dialogum me scribere fecit: quam idcirco reseravi, ne videar frustra scriptis alia addere scripta; utque cognita charitate qua impellebar ad scribendum, quilibet in quorum manus iste liber venerit, eadem charitate incitentur ad legendum.",
+      "english": "This, therefore, was the reason that made me write the Dialogue. I have revealed it so that I may not seem to add writings to writings in vain, and so that, the charity by which I was impelled to write being known, anyone into whose hands this book comes may be urged by the same charity to read.",
+      "notes": null
+    },
+    {
+      "chunk_id": 272,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec sint dicta de supradictis libris, quos in unum componere volui. Nunc etiam liber pandere qua causa studuerim alios libellos scribere.",
+      "english": "Let these things be said about the above-mentioned books, which I wished to compose into one. Now I also freely disclose on what occasion I endeavored to write other little books.",
+      "notes": "Transition to cataloging other works"
+    },
+    {
+      "chunk_id": 273,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum igitur persecutionem quam in monasterio nostro (ut supradictum est) passus eram, fugiens ad Fuldense monasterium venirem, ibique per annos quatuor cum tranquillitate magna commoratus viderer;",
+      "english": "When therefore, fleeing the persecution that I had suffered in our monastery (as mentioned above), I came to the monastery of Fulda, and remained there for four years with great tranquility,",
+      "notes": "Four years at Fulda (ca. 1062-1066)"
+    },
+    {
+      "chunk_id": 274,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "dictandi scribendique studium frequentare postulabar a quibusdam ejusdem monasterii fratribus, ut sancti Bonifacii Vitam difficili stylo editam, aliquid facilius ederem.",
+      "english": "I was asked by certain brothers of that monastery to pursue the practice of composing and writing, so that I might produce something easier than the Life of Saint Boniface, which was set forth in difficult style.",
+      "notes": "Life of St Boniface—Fulda's patron saint, buried there"
+    },
+    {
+      "chunk_id": 275,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Quam petitionem, licet diu denegarem, postremo tamen compulsus importunis precibus, ut potui, quod petitus eram implevi.",
+      "english": "This request, although I refused for a long time, nevertheless compelled by persistent prayers, I finally fulfilled as I was able.",
+      "notes": null
+    },
+    {
+      "chunk_id": 276,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Causa ergo tali librum sancti Bonifacii promptus scripsi: alium quoque libellum quem appellavi Manualem, pro admonitione clericorum et laicorum scriptum ibidem positus edidi.",
+      "english": "For such a reason, then, I readily wrote the book of Saint Boniface. I also published another little book which I called the 'Manual,' written for the admonition of clerics and laypeople while I was situated there.",
+      "notes": "Liber Manualis—handbook of religious instruction"
+    },
+    {
+      "chunk_id": 277,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Item libellum Proverbiorum in eodem monasterio positus scribere coepi.",
+      "english": "Likewise, I began to write a little book of Proverbs while situated in that same monastery.",
+      "notes": "Collection of proverbs/wise sayings"
+    },
+    {
+      "chunk_id": 278,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum autem assiduis epistolis per monasterii nostri fratres quosdam revocatus ad patriam nollem cito reverti propter illorum fratrum, inter quos tunc commorabar, petitionem (omnimodis enim precibus ut illos non desererem efflagitabant), vix tandem ab illis remeandi licentiam obtinui.",
+      "english": "But when I was recalled to my homeland by constant letters through certain brothers of our monastery, I did not wish to return quickly because of the request of those brothers among whom I was then living (for they begged with every kind of prayer that I not abandon them)—I finally obtained permission to return from them with difficulty.",
+      "notes": "Torn between Regensburg and Fulda communities"
+    },
+    {
+      "chunk_id": 279,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Verumtamen ad monasterium nostrum prius pervenire nolui, quam indiciis aliquibus explorarem qualiter omnia agerentur ibidem. Qua de re ad monasterium Amerbach dictum perrexi, cupiens illic exspectare quousque certus fierem de monasterii nostri qualitate.",
+      "english": "Nevertheless, I did not wish to arrive at our monastery first until I explored by certain signs how all things were being conducted there. For this reason I proceeded to the monastery called Amorbach, wishing to wait there until I became certain about the condition of our monastery.",
+      "notes": "Amorbach monastery as waystation to assess situation"
+    },
+    {
+      "chunk_id": 280,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque ab ejusdem monasterii abbate susceptus omni humanitate et pietate retinerer, et de sacrae Scripturae quaestionibus multis inter nos sermo assiduus ageretur, placuissetque ei saepissime responsio mea,",
+      "english": "And when I was received by the abbot of that monastery with all humanity and kindness, and constant conversation about many questions of sacred Scripture was conducted between us, and my response had very often pleased him,",
+      "notes": null
+    },
+    {
+      "chunk_id": 281,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "accidit ut juxta paschalia festa dixisset ad me: Credite mihi quod si vobis praecipere aliquid possem, absque dubio praeciperem ut in hac solemnitate proxima sermonem faceretis ad populum.",
+      "english": "It happened that near the Easter feast he said to me: 'Believe me that if I could command you anything, without doubt I would command that you give a sermon to the people at this approaching solemnity.'",
+      "notes": "Easter preaching invitation"
+    },
+    {
+      "chunk_id": 282,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cui ego respondi dicens: Cur talia dicitis ad me, qui nihil hujus rei scio, qui nunquam consuevi populum alloqui in publico?",
+      "english": "To whom I responded, saying: 'Why do you say such things to me, who know nothing of this matter, who have never been accustomed to address the people in public?'",
+      "notes": "Otloh's reluctance to preach"
+    },
+    {
+      "chunk_id": 283,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Illo vero eadem repetente, coepi mox cogitare intra me dicens: Quid facerem, si aliquis, cujus jussa transgredi non praesumerem, talia mihi praeciperet?",
+      "english": "But when he repeated the same thing, I soon began to think within myself, saying: 'What would I do if someone whose commands I would not presume to transgress commanded such things of me?'",
+      "notes": null
+    },
+    {
+      "chunk_id": 284,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde hujusmodi opus assumendum est mihi sponte, priusquam ab aliquo compellar potente, ut sic probem quid facturus essem.",
+      "english": "Therefore such a work must be undertaken by me voluntarily, before I am compelled by someone powerful, so that I may thus prove what I would do.",
+      "notes": "Better to volunteer than be forced"
+    },
+    {
+      "chunk_id": 285,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Continuoque stylo accepto scribere coepi in modum sermonis, sumens exordium de Psalmistae dictis: Dominus de coelo prospicit super filios hominum: quae nimirum dicta, quantum potui, similitudinum argumentis roboravi, credens per haec aliquos aedificari;",
+      "english": "And immediately, taking up my pen, I began to write in the manner of a sermon, taking the beginning from the saying of the Psalmist: 'The Lord looks down from heaven upon the children of men.' These words I strengthened as much as I could with arguments from similitudes, believing that through these some would be edified.",
+      "notes": "Psalm 14:2 (Vulgate 13:2)"
+    },
+    {
+      "chunk_id": 286,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "cui videlicet operi titulum imposui: Quomodo legendum sit in rebus visibilibus.",
+      "english": "To which work I gave the title: 'How One Should Read in Visible Things.'",
+      "notes": "Sermon on reading nature as book of God"
+    },
+    {
+      "chunk_id": 287,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum autem in eodem loco unum pene annum manerem, venerunt nuntii ex monasterio nostro missi, cum quibus exinde ad patriam reversus sum.",
+      "english": "But when I remained in that same place for almost a year, messengers sent from our monastery came, with whom I then returned to my homeland.",
+      "notes": "Return to St Emmeram's ca. 1067"
+    },
+    {
+      "chunk_id": 288,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "His igitur dictis, dicam quoque qua de causa caeteros scripserim libellos.",
+      "english": "These things having been said, I will also tell on what occasion I wrote the other little books.",
+      "notes": "Continuing the catalog of works"
+    },
+    {
+      "chunk_id": 289,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ex petitione namque fratrum nostrorum, Vitam sancti Nicolai nec non sancti Wolfgangi emendans, sicut in utriusque vitae prologo intimatur, scripsi antequam proficiscerer ad monasterium Fuldense.",
+      "english": "For at the request of our brothers, I wrote—emending the Life of Saint Nicholas as well as of Saint Wolfgang, as is indicated in the prologue of each life—before I set out for the monastery of Fulda.",
+      "notes": "Lives of Nicholas and Wolfgang written before 1062"
+    },
+    {
+      "chunk_id": 290,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et Vitam sancti Altonis, una cum quibusdam carminibus ad eumdem sanctum pertinentibus.",
+      "english": "But also the Life of Saint Alto, together with certain verses pertaining to the same saint.",
+      "notes": "Alto founded Altomünster monastery"
+    },
+    {
+      "chunk_id": 291,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postquam vero redii, Vitam sancti Magni scripsi, compulsus fratrum duorum precibus intimis et assiduis, Wilhelmi scilicet ex congregatione nostra, et alterius qui ad nos discendi causa ex monasterio sancti Magni venit, Adalham dictus, quique nunc in Sanctae Afrae coenobio abbas est constitutus.",
+      "english": "But after I returned, I wrote the Life of Saint Magnus, compelled by the intimate and persistent prayers of two brothers—namely Wilhelm from our congregation, and another who came to us from the monastery of Saint Magnus for the sake of learning, called Adalham, who is now established as abbot in the monastery of Saint Afra.",
+      "notes": "Magnus of Füssen; Adalham became abbot at St Afra in Augsburg"
+    },
+    {
+      "chunk_id": 292,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Post haec autem cum viderem simul et audirem undique Christianae religionis destructionem, rectorum et principum negligentiam in subditos, tam in spirituali quam saeculari vita positos, doleremque jugiter pro talibus,",
+      "english": "But after these things, when I both saw and heard everywhere the destruction of Christian religion, the negligence of rulers and princes toward their subjects—whether placed in spiritual or secular life—and constantly grieved for such things,",
+      "notes": "Critique of church and society in mid-11th century"
+    },
+    {
+      "chunk_id": 293,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "cogitare coepi, ut quia nullus dignaretur me audire communi sermone loquentem, pro miseriaque tanta condolentem, vel scribendo aliqua sacrae Scripturae verba proferrem, unde aliquos aedificare possem.",
+      "english": "I began to think that, since no one deigned to hear me speaking in common discourse and grieving for such great misery, I might at least by writing bring forth some words of sacred Scripture by which I could edify some.",
+      "notes": "Turning to writing when oral teaching rejected"
+    },
+    {
+      "chunk_id": 294,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hac igitur causa scripsi librum mei quoque operis novissimum, cui titulum imposui: De cursu spirituali.",
+      "english": "For this reason, therefore, I wrote the last book also of my work, to which I gave the title: 'On the Spiritual Course.'",
+      "notes": "Liber de cursu spirituali—on the spiritual journey"
+    },
+    {
+      "chunk_id": 295,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "In quo videlicet libro quantum per sacrae Scripturae, maximeque per Psalterii et Evangelii campum currere potui, scribendo protuli.",
+      "english": "In which book I set forth by writing as much as I could run through the field of sacred Scripture, especially through the Psalter and the Gospel.",
+      "notes": "'Running through' Scripture—metaphor for comprehensive treatment"
+    },
+    {
+      "chunk_id": 296,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Inter haec et sermones quosdam nec non epistolas pro communi utilitate scripsi: quas si quis forte legere voluerit, apud nos invenire poterit.",
+      "english": "Among these things I also wrote certain sermons as well as letters for the common good, which if anyone should wish to read, he will be able to find with us.",
+      "notes": "Sermons and letters available but not included in this compilation"
+    },
+    {
+      "chunk_id": 297,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Scripsi etiam ante plures annos librum De confessione actuum meorum, ut si qua infirmitas vel subitanea mors me in extremis impediret a debita confessione, saltem per scripta patefacerem quis ex memetipso, quis ex Dei gratia essem.",
+      "english": "I also wrote several years ago a book 'On the Confession of My Deeds,' so that if any illness or sudden death should prevent me in my last moments from due confession, I might at least through writings reveal who I was of myself and who by God's grace.",
+      "notes": "Liber de confessione—autobiographical confession, lost"
+    },
+    {
+      "chunk_id": 298,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Adhuc proferre libet duarum orationum verba. Attendens enim saepius, quia plurimos exemplis pravis seduxi, talia orationis verba scribere studui, in quibus unusquisque satis doceri potest quomodo pro se et pro aliis orare debeat:",
+      "english": "I wish also to bring forth the words of two prayers. For often considering that I led many astray by wicked examples, I strove to write such words of prayer in which anyone can be sufficiently taught how he ought to pray for himself and for others.",
+      "notes": "Two model prayers for personal and intercessory use"
+    },
+    {
+      "chunk_id": 299,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "quae scilicet orationes cum a quibusdam jam habeantur, in hoc opusculo describere nolui.",
+      "english": "Which prayers, since they are already held by certain persons, I did not wish to transcribe in this little work.",
+      "notes": "Prayers circulated separately"
+    },
+    {
+      "chunk_id": 300,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Hae autem orationes aliaque superius de dictandi dono prolata, tanto magis pietati divinae constant referenda, quanto amplius notum est me vitiis plurimis quondam deditum nihil horum meruisse.",
+      "english": "But these prayers and the other things brought forth above concerning the gift of composition must all the more be attributed to divine mercy, the more it is known that I, once devoted to very many vices, deserved none of these things.",
+      "notes": "Attribution of all gifts to divine grace"
+    },
+    {
+      "chunk_id": 301,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ideo autem haec protuli, ut juxta hoc quod ipse Dominus in Evangelio cuidam daemoniaco a se liberato praecepit dicens: Vade in domum tuam, et narra quanta fecerit tibi Deus, ego quoque narrarem quanta mihi beneficia Deus exhibuerit.",
+      "english": "But I have brought forth these things so that, according to what the Lord himself commanded in the Gospel to a certain demoniac freed by him, saying: 'Go to your home and tell how much God has done for you,' I too might narrate how many benefits God has shown me.",
+      "notes": "Luke 8:39"
+    },
+    {
+      "chunk_id": 302,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Unde adhuc libet enarrare, quanta scientia quantaque facultas scribendi mihi data fuerit a Domino in primaeva aetate.",
+      "english": "Hence I wish also to narrate how much knowledge and how great a capacity for writing was given to me by the Lord in my early age.",
+      "notes": "Account of his youthful learning to follow"
+    },
+    {
+      "chunk_id": 303,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cum igitur parvus scholari disciplinae traditus fuissem litterasque celeriter didicissem, coepi etiam longe ante solitum tempus discendi, sine jussu magistri, artem discere scribendi.",
+      "english": "When therefore I was handed over as a small boy to scholastic discipline and had learned letters quickly, I also began to learn the art of writing far before the usual time of learning, without the command of a teacher.",
+      "notes": "Precocious autodidact in writing"
+    },
+    {
+      "chunk_id": 304,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Furtivo enim et insolito modo, nec non sine docente nisus sum eamdem artem scribendi apprehendere.",
+      "english": "For in a stealthy and unusual manner, and also without a teacher, I strove to grasp that same art of writing.",
+      "notes": "Self-taught writing—unusual in monastic education"
+    },
+    {
+      "chunk_id": 305,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Qua de re contigit ut pennam ad scribendum inrecto usu retinere consuescerem, nec postea ab ullo docente super hoc corrigi valerem.",
+      "english": "From which it happened that I became accustomed to hold the pen for writing in incorrect use, nor could I afterward be corrected on this by any teacher.",
+      "notes": "Wrong grip became habitual"
+    },
+    {
+      "chunk_id": 306,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nimius namque usus prohibuit me emendare. Quod cum viderent plures, dixerunt omnes nunquam me bene scripturum.",
+      "english": "For excessive habit prevented me from amending it. When many saw this, they all said I would never write well.",
+      "notes": "Prediction of failure due to bad technique"
+    },
+    {
+      "chunk_id": 307,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed aliter evenit ex gratia Dei, sicut plurimis notum est.",
+      "english": "But it turned out otherwise by the grace of God, as is known to very many.",
+      "notes": "Divine grace overcame technical deficiency"
+    },
+    {
+      "chunk_id": 308,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Nam cum in pueritia, ipsoque tempore quo tabula mihi data est cum aliis pueris ad discendam scripturam viderer aliquid scribere nosse, miraculum non parvum praebui videntibus:",
+      "english": "For when in boyhood, at the very time when a writing tablet was given to me with other boys for learning writing, I seemed to know how to write something, I provided no small wonder to those watching.",
+      "notes": "Early miracle of writing ability"
+    },
+    {
+      "chunk_id": 309,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "deinde vero non post longum tempus tam bene scribere coepi, tantumque affectum ad hoc habuit ut et in loco illo quo talia didici, id est in coenobio Tegernsee dicto, multos libros scripsissem;",
+      "english": "Then indeed after not a long time I began to write so well, and had such great affection for this, that even in that place where I learned such things—that is, in the monastery called Tegernsee—I had written many books.",
+      "notes": "Tegernsee monastery in Bavaria, early education site"
+    },
+    {
+      "chunk_id": 310,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "et in Franciam translatus adhuc puer, ibique in tantum multa scribendo laborassem, ut inde rediens pene visu privatus fuissem.",
+      "english": "And transferred to Francia while still a boy, and there I labored so much in writing many things that, returning from there, I had almost been deprived of sight.",
+      "notes": "Went to France as youth; excessive copying damaged eyesight"
+    },
+    {
+      "chunk_id": 311,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Haec ergo ideo proferre decrevi ut aliquos incitarem ad similem affectum laborandi; gratiamque Dei, quae tanta mihi beneficia praebuit, aliis narrans eos ad magnificandam eamdem gratiam Dei mecum traham.",
+      "english": "Therefore I decided to bring forth these things so that I might incite some to similar affection for laboring, and by narrating to others the grace of God, which provided such great benefits to me, I might draw them to magnify with me that same grace of God.",
+      "notes": "Purpose: encourage others to similar dedication"
+    },
+    {
+      "chunk_id": 312,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et, ut hoc amplius faciam, proferre libet quantum laboraverim scribendo postea, cum reversus fuissem de Francia: ibi quippe fueram quando obiit Caesar Henricus, et factus est rex Conradus.",
+      "english": "And to do this more fully, I wish to bring forth how much I labored in writing afterward, when I had returned from Francia—for I was there when Emperor Henry died and Conrad became king.",
+      "notes": "Historical marker: death of Henry III (1056), succession of Conrad II as boy-king under regency"
+    },
+    {
+      "chunk_id": 313,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postquam igitur in sancti Emmerammi coenobium ad conversionem veni, mox quorumdam prece pulsatus, tanto iterum scribendi studio occupabar, ut raro, nisi in festivis diebus aut in aliis horis incompetentibus, ab hoc opere cessarem.",
+      "english": "After therefore I came to the monastery of Saint Emmeram for conversion, soon urged by the request of certain persons, I was occupied again with such great zeal for writing that rarely, except on feast days or at other unsuitable hours, did I cease from this work.",
+      "notes": "Entered St Emmeram's as monk, prodigious copying output"
+    },
+    {
+      "chunk_id": 314,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Interea successit et alius labor. Nam pro eo quod saepius legere, aut scribere, aut dictare videbar, scholasticorum cura mihi commissa est:",
+      "english": "Meanwhile another labor also followed. For because I seemed often to read, or write, or compose, the care of students was committed to me.",
+      "notes": "Made schoolmaster in addition to copying"
+    },
+    {
+      "chunk_id": 315,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ex quibus nimirum omnibus ita per gratiam Dei constringebar, ut saepe corpus quieti necessariae non permitterer tradere.",
+      "english": "From all of which indeed I was so bound by the grace of God that often I was not permitted to give my body to necessary rest.",
+      "notes": "Overwork to point of sleep deprivation"
+    },
+    {
+      "chunk_id": 316,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque dictandi studium inesset, ad hoc saepissime non habui tempus, nisi in festivis diebus, aut noctibus, constrictus videlicet et puerorum cura ad docendum, et illorum petitione, quibus scribere coepi, ad scribendum.",
+      "english": "And when the practice of composition was present, I most often did not have time for this except on feast days or at night, constrained both by the care of boys for teaching and by the request of those for whom I began to write, for writing.",
+      "notes": "Composed original works only at night or feast days"
+    },
+    {
+      "chunk_id": 317,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ergo praeter libellos a me dictatos, quos tam sponte quam petitus pro aliorum aedificatione dandos scripsi; uno minus XX libros Missales scripsi,",
+      "english": "Therefore, besides the little books composed by me, which I wrote both voluntarily and when asked to be given for the edification of others, I wrote nineteen Missals—",
+      "notes": "19 complete Mass books (sacramentaries)"
+    },
+    {
+      "chunk_id": 318,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "decem quidem abbatibus aut fratribus in monasterio nostro positis; quatuor autem fratribus Fuldensibus, et quinque in aliis locis commorantibus;",
+      "english": "Ten indeed for abbots or brothers placed in our monastery, four for brothers of Fulda, and five for those dwelling in other places.",
+      "notes": "Distribution of the 19 Missals"
+    },
+    {
+      "chunk_id": 319,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "tres quoque libros Evangeliorum, et duos cum Epistolis et Evangeliis, qui Lectionarii vocantur. Ad haec etiam scripsi quatuor matutinales libros.",
+      "english": "Also three Gospel books, and two with Epistles and Gospels, which are called Lectionaries. Besides these I also wrote four books for Matins.",
+      "notes": "Total manuscript output: 19 Missals + 3 Gospels + 2 Lectionaries + 4 Matins books = 28 liturgical manuscripts"
+    },
+    {
+      "chunk_id": 320,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postea senectus et infirmitas varia me prohibuit, maximeque inquietudo diuturna, quae mihi ex variis curis et moerore pro monasterii nostri destructione exorto per tempora inolevit multa.",
+      "english": "Afterward old age and various illness prevented me, and especially the long unrest that grew in me over many periods from various cares and grief arising from the destruction of our monastery.",
+      "notes": "Work stopped due to age, illness, and distress over monastery troubles"
+    },
+    {
+      "chunk_id": 321,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ei autem qui omne bonum praestat, et solus cuncta gubernat, quique mihi indigno concessit plurima dona, sit laus aeterna, sit honor per saecula cuncta.",
+      "english": "But to him who bestows every good thing and alone governs all things, and who granted very many gifts to me, unworthy—to him be eternal praise, to him be honor through all ages.",
+      "notes": "Doxology"
+    },
+    {
+      "chunk_id": 322,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Libet etiam proferre, quantum reminisci valeo, quot libros quibusdam coenobiis aut amicis tradiderim.",
+      "english": "I also wish to bring forth, as much as I can remember, how many books I handed over to certain monasteries or friends.",
+      "notes": "Catalog of books given away begins"
+    },
+    {
+      "chunk_id": 323,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Et primo quidem fratres Fuldenses nominare volo, quia pro eo quod apud eos maxime laboravi, scribens libros multos, quos monasterio nostro tradebam; ideo apud nos quoque scripsi libros, quos ipsi non habebant.",
+      "english": "And first indeed I wish to name the brothers of Fulda, because since I labored especially among them, writing many books that I handed over to our monastery, therefore among us also I wrote books that they themselves did not have.",
+      "notes": "Exchange relationship with Fulda"
+    },
+    {
+      "chunk_id": 324,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Tradidi namque eis sicut memini, VII libellos, Herveldensibus autem duos libros.",
+      "english": "For I handed over to them, as I remember, seven little books, but to those of Hersfeld two books.",
+      "notes": "7 books to Fulda, 2 to Hersfeld"
+    },
+    {
+      "chunk_id": 325,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Cumque ex partibus illis remeassem, et ad Amarbach venissem, tradidi ejusdem loci abbati unum librum.",
+      "english": "And when I had returned from those parts and come to Amorbach, I handed over one book to the abbot of that place.",
+      "notes": "1 book to Amorbach"
+    },
+    {
+      "chunk_id": 326,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Postea vero cum fratre nostro Wilhelmo profectus, dedi ei quatuor libros, inter quos erat Missalis liber satis pretiosus:",
+      "english": "Later, however, having set out with our brother Wilhelm, I gave him four books, among which was a quite precious Missal.",
+      "notes": "4 books including valuable Missal to Wilhelm"
+    },
+    {
+      "chunk_id": 327,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Abbati de Lauresheim unum librum; abbati de Ebersperg unum librum; amicis quibusdam in Boemia positis quatuor libros; amico cuidam in Patavia posito unum librum;",
+      "english": "To the abbot of Lorsch one book; to the abbot of Ebersberg one book; to certain friends situated in Bohemia four books; to a certain friend situated in Passau one book.",
+      "notes": "Lorsch (1) + Ebersberg (1) + Bohemia (4) + Passau (1) = 7 more books"
+    },
+    {
+      "chunk_id": 328,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "ad monasterium Tegernsee duos libros; ad Pryelense coenobium prope nos positum volumen unum, in quo tres libri erant.",
+      "english": "To the monastery of Tegernsee two books; to the monastery of Prüfening situated near us one volume, in which were three books.",
+      "notes": "Tegernsee (2) + Prüfening (1 vol. with 3 books)"
+    },
+    {
+      "chunk_id": 329,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Sed et filio sororis meae ibidem posito unum librum, variasque epistolas dedi.",
+      "english": "But also to my sister's son situated there I gave one book and various letters.",
+      "notes": "Personal gift to nephew"
+    },
+    {
+      "chunk_id": 330,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Ad Superius ( Obermunster ) quoque monasterium tres libros; ad Inferius ( Nidernmunster ) monasterium unum librum dedi.",
+      "english": "Also to the Upper Monastery three books; to the Lower Monastery I gave one book.",
+      "notes": "Obermünster (3) + Niedermünster (1)—women's houses in Regensburg"
+    },
+    {
+      "chunk_id": 331,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Praeterea multis aliis dedi aut misi aliquando sermones aut proverbia, seu aliqua aedificationis scripta.",
+      "english": "Moreover, I gave or sent at some time to many others sermons or proverbs, or certain writings of edification.",
+      "notes": "Additional uncounted distribution of smaller works"
+    },
+    {
+      "chunk_id": 332,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Talia autem laboris mei indicia hic ideo protuli, ut aliquos monachos otiositati deditos converterem, et ad aliquod opus monasticae vitae congruum incitarem.",
+      "english": "But I have brought forth such signs of my labor here so that I might convert some monks devoted to idleness and incite them to some work fitting for monastic life.",
+      "notes": "Purpose: inspire lazy monks to productive work"
+    },
+    {
+      "chunk_id": 333,
+      "section_type": "body",
+      "speaker": "narrator",
+      "latin": "Si enim tam magna nequeunt, faciliora agere possunt.",
+      "english": "For if they cannot do such great things, they can do easier things.",
+      "notes": "Encouragement: do what you can"
+    }
+  ]
+}
