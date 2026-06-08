@@ -684,6 +684,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/treatise-on-orthodox-faith) | [YouTube](https://www.youtube.com/watch?v=0yDr7Gcslo8) | [GitHub](vol_20/Phoebadius%20of%20Agen%20-%20Treatise%20on%20Orthodox%20Faith)
 
 
+## Pietro & Girolamo Ballerini
+
+**On the Collection of Isidore Mercator — the False Decretals** (*De collectione Isidori Mercatoris*) — Vol. 56
+  [Archive](https://archive.org/details/ballerini-false-decretals) | [GitHub](vol_56/Pietro%20%26%20Girolamo%20Ballerini%20-%20On%20the%20Collection%20of%20Isidore%20Mercator%20%E2%80%94%20the%20False%20Decretals)
+
 ## Pope Adrian I
 
 **Letter of Pope Adrian to Charlemagne on Images** (*Epistola Adriani Papae ad Beatum Carolum Regem de Imaginibus*) — Vol. 98
