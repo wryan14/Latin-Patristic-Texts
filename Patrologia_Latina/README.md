@@ -406,6 +406,9 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Honorius Augustodunensis
 
+**Eight Questions on Angels and Man** (*Libellus octo quaestionum de angelis et homine*) — Vol. 172 [12th century]
+  [Archive](https://archive.org/details/eight-questions-on-angels-and-man) | [GitHub](vol_172/Honorius%20Augustodunensis%20-%20Eight%20Questions%20on%20Angels%20and%20Man)
+
 **The Inevitable, or A Dialogue on Predestination and Free Will** (*Inevitabile sive Dialogus de Praedestinatione et Libero Arbitrio*) — Vol. 172 [12th century]
   [Blog](https://bibliothecarius-modernus.github.io/2026/06/inevitabile-sive-dialogus-de-praedestinatione-et-libero-arbitrio-honorius-augustodunensis/) | [Archive](https://archive.org/details/honorius-augustodunensis-inevitabile) | [YouTube](https://www.youtube.com/watch?v=3ANQm6IDWAs) | [GitHub](vol_172/Honorius%20Augustodunensis%20-%20The%20Inevitable%2C%20or%20A%20Dialogue%20on%20Predestination%20and%20Free%20Will)
 
