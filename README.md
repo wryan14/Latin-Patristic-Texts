@@ -24,12 +24,14 @@ Translations were generated using AI (Claude, GPT-4) and should be treated as in
 
 ## License
 
-- **Original Latin Texts**: Public Domain (ancient works, no copyright)
-- **Translations**: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) - Dedicated to the public domain by Ryan Wolfslayer
+Owner decision (Bibliothecarius Modernus v2, 2026-09-13), stated the same way on the website, Archive.org and in every new `translation.json`:
 
-You are free to copy, modify, distribute, and use these translations for any purpose without attribution or permission.
+- **Latin texts** (`Latin/*.txt`, `source.txt`, the `latin` field of `translation.json` chunks): **public-domain source material** — J.-P. Migne, *Patrologia Latina* (1844–65), reproduced as extracted for the parallel translation. No rights are claimed over the Latin; where this project contributed transcription or markup, those contributions are dedicated CC0 as below. The underlying digitised database is not redistributed here.
+- **Everything Bibliothecarius Modernus created** — the English translations, full-text editions, `translation.json` metadata and notes, subtitles, SSML and any other scholarly contribution in this repository: **[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)**, dedicated to the public domain by Ryan Wolfslayer (see [LICENSE](LICENSE)).
 
-Note: Some older YouTube video descriptions may reference CC BY 4.0; this repository is now CC0.
+You are free to copy, modify, distribute and use these translations for any purpose without attribution or permission. Attribution to *Bibliothecarius Modernus* is appreciated, not required.
+
+Note: some older YouTube descriptions and the Zenodo records deposited in 2025 state CC BY 4.0; they are not edited retroactively. The CC0 dedication of the same content is the operative statement for reuse.
 
 ## Contributing
 
