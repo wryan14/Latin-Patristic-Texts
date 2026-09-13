@@ -465,8 +465,8 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Justus of Urgel
 
-**Mystical Explanation of the Song of Songs** (*Explanatio in Cantica Canticorum*) — Vol. 67 [6th century]
-  [Archive](https://archive.org/details/mystical-explanation-of-the-song-of-songs) | [GitHub](vol_67/Justus%20of%20Urgel%20-%20Mystical%20Explanation%20of%20the%20Song%20of%20Songs)
+**Mystical Explanation of the Song of Songs** (*Explanatio in Cantica Canticorum*) — Vol. 67 [6th century] · pl067-900
+  [Blog](https://bibliothecarius-modernus.github.io/2026/09/explanatio-in-cantica-canticorum-justus-of-urgel/) | [Archive](https://archive.org/details/mystical-explanation-of-the-song-of-songs) | [YouTube](https://www.youtube.com/watch?v=QFZM6iVxKy8) | [GitHub](vol_67/Justus%20of%20Urgel%20-%20Mystical%20Explanation%20of%20the%20Song%20of%20Songs)
 
 ## Laurentius of Monte Cassino
 
