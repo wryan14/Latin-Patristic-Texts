@@ -463,6 +463,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Blog](https://bibliothecarius-modernus.github.io/2025/11/de-cultu-imaginum/) | [GitHub](vol_106/Jonas%20of%20Orleans%20-%20De%20cultu%20imaginum%20Book%203)
 
 
+## Justus of Urgel
+
+**Mystical Explanation of the Song of Songs** (*Explanatio in Cantica Canticorum*) — Vol. 67 [6th century]
+  [Archive](https://archive.org/details/mystical-explanation-of-the-song-of-songs) | [GitHub](vol_67/Justus%20of%20Urgel%20-%20Mystical%20Explanation%20of%20the%20Song%20of%20Songs)
+
 ## Laurentius of Monte Cassino
 
 **Sermon on the Vigil of Saint Benedict** (*Sermo in vigiliis S Benedicti*) — Vol. 133
