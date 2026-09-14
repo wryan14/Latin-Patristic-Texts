@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Latin Patristic Texts: the open corpus of Bibliothecarius Modernus"
+message: "If you use a text from this corpus, cite the work, the Bibliothecarius Modernus edition year and its catalog id (plNNN-SSS, see Patrologia_Latina/CATALOG_INDEX.csv), and the edition URL or DOI where one exists. Everything Bibliothecarius Modernus created here is dedicated to the public domain (CC0 1.0); the Latin sources are public domain."
+type: dataset
+authors:
+  - family-names: Wolfslayer
+    given-names: Ryan
+    orcid: "https://orcid.org/0000-0001-8914-9706"
+    affiliation: Bibliothecarius Modernus (independent project)
+repository-code: "https://github.com/wryan14/Latin-Patristic-Texts"
+url: "https://bibliothecarius-modernus.github.io"
+abstract: >-
+  The open text corpus of Bibliothecarius Modernus, an independent digital
+  library of neglected Latin literature: for each published edition, the
+  public-domain Latin source as used (J.-P. Migne, Patrologia Latina, or a
+  named manuscript), the complete English translation, and the edition's
+  translation.json with method, provenance, review status and rights.
+  Editions since September 2026 carry per-segment model provenance and
+  recorded corrections and passed a deterministic source-coverage check and
+  an independent second-model review; earlier editions (2024-25) were made
+  with lighter checks and are preserved as published, with known defects
+  recorded in the library's machine-readable catalog.
+keywords:
+  - Latin literature
+  - patristics
+  - medieval theology
+  - Patrologia Latina
+  - translation
+  - digital library
+  - open access
+  - CC0
+license: CC0-1.0
