@@ -1,10 +1,8 @@
-# Latin Patristic Texts — the open corpus of Bibliothecarius Modernus
+# Latin Patristic Texts
 
-This repository is the cloneable text corpus of [Bibliothecarius Modernus](https://bibliothecarius-modernus.github.io), an independent digital library of neglected Latin literature, publishing complete open translations, parallel texts, contextual research, audio and video editions, and machine-readable scholarly data — and, where the sources require it, new transcriptions from manuscripts.
+Welcome to the Latin Patristic Texts repository! This repository houses plain text files of Latin Patristic works that have been translated using modern AI technology. These texts are part of a personal project to make classical Church history more accessible.
 
-For each published edition the corpus holds the public-domain Latin source as used, the complete English translation, and the edition's `translation.json` (Latin and English segment by segment, with method, provenance, review status and rights). The corpus is a core destination of every edition and stays where it is: the directory structure below is stable, and links into it from the website, YouTube descriptions, Archive.org items and Zenodo records are kept working.
-
-## What the repository contains
+## Repository Structure
 
 ```
 Patrologia_Latina/
@@ -23,6 +21,12 @@ Libri_Carolini/                           # legacy layout (2024): the Libri Caro
 Vita_Annonis_Minor/                       # legacy layout (2024): kept in place
 youtube_videos_export.csv                 # export of the channel's video list (2025)
 ```
+
+Production artifacts for YouTube video generation (`SSML/`, `Subtitles/`) may also be present in work directories. The directory structure is stable: links into it from the website, YouTube descriptions, Archive.org items and Zenodo records are kept working.
+
+## About the Translations
+
+Translations were generated using AI and should be treated as introductory guides rather than scholarly editions. Audio versions were produced using OpenAI TTS and Amazon Polly. Each edition's `translation.json` (where present) and the [machine-readable catalog](https://bibliothecarius-modernus.github.io/api/README.md) record the model used and the review status.
 
 ### Latin source vs Bibliothecarius contribution
 
@@ -56,18 +60,16 @@ Note: some older YouTube descriptions and the Zenodo records deposited in 2025 s
 
 Where a neglected work survives only in manuscript, or no usable printed text exists, the library will transcribe it from digitised images held by libraries and museums. Such a transcription arrives here as `Latin/*.txt` with a `Latin/transcription_provenance.json` beside it (schema `bibliothecarius.transcription_provenance/1`) recording: creator (Bibliothecarius Modernus), date, the holding institution, shelfmark and folio range, the source-image or IIIF URL and the images' rights statement, the transcription method and model, the normalization policy, the review status, known uncertainties, and a version. The transcription is **CC0 1.0** like every other Bibliothecarius contribution, versioned, and accompanied by its provenance and review information so that credit and blame for this specific digital text are explicit. The manuscript images themselves are not part of the corpus and are never represented as CC0: they remain under the terms of the institution that holds them, which is credited first and fully wherever an image is reproduced.
 
-## How the corpus is produced
-
-Editions are produced by the library's pipeline: source extraction with boundaries read by the curator, AI-assisted translation in short source-anchored segments, deterministic coverage checks, cross-family review, recorded corrections, narration, subtitles and video, then publication to this repository, the website, YouTube and Archive.org, with the catalog record written last. The method, standards and decision record are described on the [About page](https://bibliothecarius-modernus.github.io/about/) and in the project white paper (DOI [10.5281/zenodo.18002473](https://doi.org/10.5281/zenodo.18002473), December 2025; CC BY 4.0).
-
-## The library elsewhere
-
-- Website (reading room: parallel text, introduction, bibliography, Resource Info, search in Latin and English): https://bibliothecarius-modernus.github.io
-- YouTube (archival video editions — the Latin on screen, the English read aloud): https://www.youtube.com/@BibliothecariusModernus
-- Internet Archive (audio editions and edition data): https://archive.org/details/@ryan_wolfslayer
-- Machine-readable catalog: https://bibliothecarius-modernus.github.io/api/catalog.json — documentation https://bibliothecarius-modernus.github.io/api/README.md
-- White paper (2025): https://doi.org/10.5281/zenodo.18002473
-
 ## Contributing
 
-Corrections, references to existing scholarly translations or editions, and requests for works are welcome: open an issue or a pull request, or write to bibliothecarius.modernus@gmail.com. Translations are not hand-edited in place; a correction is recorded with its Latin basis and applied by the pipeline so that the edition's provenance stays complete.
+Contributions are welcome! If you have texts to add or improvements to suggest, please open an issue or submit a pull request. Translations are not hand-edited in place; a correction is recorded with its Latin basis and applied by the pipeline so that the edition's provenance stays complete.
+
+## About
+
+This repository is part of the Bibliothecarius Modernus - The Modern Librarian project, dedicated to making ancient texts accessible through modern technology. For more information, visit our [YouTube channel](https://www.youtube.com/channel/UC5hvJMbDPhlh2ldZPe_CgOg).
+
+- Website: https://bibliothecarius-modernus.github.io
+- YouTube: https://www.youtube.com/@BibliothecariusModernus
+- Internet Archive (audio and translation data): https://archive.org/details/@ryan_wolfslayer
+- Machine-readable catalog: https://bibliothecarius-modernus.github.io/api/catalog.json — documentation https://bibliothecarius-modernus.github.io/api/README.md
+- White paper (2025): https://doi.org/10.5281/zenodo.18002473
