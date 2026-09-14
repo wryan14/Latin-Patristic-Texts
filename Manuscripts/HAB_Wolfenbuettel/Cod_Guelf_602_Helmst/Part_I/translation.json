@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "volume_id": "MANUSCRIPT",
+    "title": "On the Meanings of the Name of Jesus, and On the Life of Saint Godehard",
+    "latin_title": "De diversis significationibus nominis Iesu et De vita sancti Godehardi",
+    "author": "Anonymous; Gerhardus magister",
+    "century": "13th century",
+    "source": "Manuscript: Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 602 Helmst., Part I, ff. 2v–3v, 16v–17v — Bibliothecarius Modernus transcription",
+    "translator": "openai/gpt-5.5",
+    "translation_date": "2026-09-14",
+    "total_chunks": 9,
+    "estimated_duration_minutes": 14,
+    "known_issues": [
+      "The printed spem in the phrase about beauty, splendor, and reign appears to be an error for speciem; the translation follows the context and notes the issue.",
+      "The Persius phrase non tressis agaso is idiomatic and difficult; “not even a three-penny donkey-driver” is an approximate rendering of its contemptuous force.",
+      "The phrase verbo amite dicendi cedere scorpionibus is corrupt or unclear; the translation renders the evident biblical allusion to Rehoboam’s threat involving scorpions.",
+      "Several biblical allusions occur without printed citations; they are translated as allusions rather than standardized formal citations.",
+      "Several Latin terms in the list are rare or possibly corrupt, including “saporale,” “incelabile,” “in permixtionem liquoris,” and “gratiam incerte cogitationis”; these are translated by probable sense and discussed in notes.",
+      "The supplied excerpt ends with the heading for Master Gerhard’s sermon on Saint Godehard, but no sermon text follows in the provided Latin."
+    ],
+    "catalog_id": "ms-hab-602-helmst-p1",
+    "project_id": "de-diversis-significationibus-nominis-iesu-et-de-v-20260914",
+    "metadata_written_by": "pipeline/translate.py",
+    "rights": {
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_status": "declared",
+      "scope": "English translation, notes, chapter titles, subtitles and this metadata (Bibliothecarius Modernus contributions)",
+      "source_text": "Latin: J.-P. Migne, Patrologia Latina (1844–1865), public domain; reproduced as extracted for the parallel text; no rights claimed",
+      "attribution_requested": "Bibliothecarius Modernus (courtesy, not a licence condition)",
+      "declared_on": "2026-09-13"
+    },
+    "translator_model": "openai/gpt-5.5",
+    "provenance": {
+      "translator_model": "openai/gpt-5.5",
+      "provider": "openrouter",
+      "max_chunk_chars": 4700,
+      "source_chunks": 2,
+      "response_format": "json_schema:strict",
+      "prompt_sha256": "0f619db56579ca00c00d95b6d3d34cb8f0ec6023cfc868bfc2d083e61f9bf1d5",
+      "calls": [
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789399792-NR9GF1rQNe0IKeYlfLGV",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 57.6,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 3777,
+            "output_tokens": 5273,
+            "cached_input_tokens": 2816,
+            "reasoning_tokens": 2051,
+            "total_tokens": 9050,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.164403,
+          "latin_chars": 4698,
+          "chunk_index": 0,
+          "break_type": "paragraph"
+        },
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789399850-ATLKyhpEcyZLxsbQfXs6",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 52.5,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 3371,
+            "output_tokens": 3689,
+            "cached_input_tokens": 0,
+            "reasoning_tokens": 940,
+            "total_tokens": 7060,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.127525,
+          "latin_chars": 3725,
+          "chunk_index": 1,
+          "break_type": "end"
+        }
+      ],
+      "cost_usd_known": 0.2919,
+      "calls_with_unknown_cost": 0,
+      "finish_reasons": [
+        "stop"
+      ]
+    },
+    "corrections": [
+      {
+        "id": "c001",
+        "chunk_id": 2,
+        "field": "english",
+        "original": "Jesus is the delight of those who merit reward, the eternity of those who truly live,",
+        "corrected": "Jesus is the joy of those who mourn, the eternity of those who live,",
+        "latin": "ihesus iocunditas merentium, eternitas viventium",
+        "reason": "merentium = maerentium (the sorrowful; the scribe writes e for ae), not 'those who merit'; viventium has no 'truly'",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-14T15:33:00Z"
+      },
+      {
+        "id": "c002",
+        "chunk_id": 2,
+        "field": "english",
+        "original": "The name of Jesus is powerful through the working of miracles. It is glorious in the defeat of enemies and fruitful in the growth of virtues. It is strong, glorious, fruitful, healing, life-giving, and sweet to the soul.",
+        "corrected": "The name of Jesus is a name for the working of miracles, for the rout of enemies, for the advancement of virtues: a name strong, glorious, fruitful, healing, life-giving, and sweet to the soul.",
+        "latin": "Nomen ihesu est nomen per miraculorum operationem, in inimicorum expugnationem, virtutum promotionem, virtuosum, gloriosum, fructuosum, medicinale, vitale, saporale",
+        "reason": "the adjectives virtuosum, gloriosum, fructuosum were rendered twice (reviewer r00-01); one list, as in the Latin",
+        "source": "cross_review:r00-01",
+        "reviewing_model": "google/gemini-3.1-pro-preview",
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-14T15:36:42Z"
+      }
+    ],
+    "source_kind": "bibliothecarius-transcription",
+    "source_provenance": {
+      "kind": "bibliothecarius-transcription",
+      "license": "CC0-1.0",
+      "creator": "Bibliothecarius Modernus",
+      "date": "2026-09-14",
+      "version": "1.0",
+      "repository": "Herzog August Bibliothek Wolfenbüttel",
+      "shelfmark": "Cod. Guelf. 602 Helmst.",
+      "part": "I",
+      "folios": "2v–3v, 16v–17v",
+      "short_label": "HAB 602 Helmst.",
+      "catalog_url": "https://diglib.hab.de/?catalog=Lesser&db=mss&id=602-helmst&list=ms",
+      "digitization_url": "https://diglib.hab.de/mss/602-helmst/start.htm",
+      "source_image_url": "https://diglib.hab.de/mss/602-helmst/max/00006.jpg … 00008.jpg; 00034.jpg … 00036.jpg",
+      "method": "two independent visual readings + reconciliation on the image + operator full re-read (see per-unit transcription_provenance.json)",
+      "normalization": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+      "transcription_standard": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+      "review_status": "fully-reviewed",
+      "transcription_status": "reconciled; operator full read; human curator sign-off pending",
+      "image_rights": "published by the HAB as public domain (usage notes, read 2026-09-14); legacy © / CC BY-SA marks declared void by the HAB",
+      "image_rights_short": "published by the HAB as public domain (usage notes read 2026-09-14)",
+      "textual_units": [
+        {
+          "id": "ms-hab-602-helmst-p1-002",
+          "title_latin": "De diversis significationibus nominis Iesu",
+          "folios": "2v–3v",
+          "rubric": "De deo"
+        },
+        {
+          "id": "ms-hab-602-helmst-p1-004",
+          "title_latin": "De vita sancti Godehardi episcopi Hildeshemensis",
+          "folios": "16v–17v",
+          "rubric": "Sermo magistri Gerhardi"
+        }
+      ],
+      "provenance_files": [
+        "docs/v2/experiments/hab_602_helmst/stage1/final/textA_transcription_provenance.json",
+        "docs/v2/experiments/hab_602_helmst/stage1/final/textB_transcription_provenance.json"
+      ]
+    },
+    "manuscript_object_id": "ms-hab-602-helmst-p1",
+    "textual_units": [
+      {
+        "id": "ms-hab-602-helmst-p1-002",
+        "title_latin": "De diversis significationibus nominis Iesu",
+        "folios": "2v–3v",
+        "rubric": "De deo",
+        "author": "Anonymous"
+      },
+      {
+        "id": "ms-hab-602-helmst-p1-004",
+        "title_latin": "De vita sancti Godehardi episcopi Hildeshemensis",
+        "folios": "16v–17v",
+        "rubric": "Sermo magistri Gerhardi",
+        "author": "Gerhardus magister"
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Name of Jesus and Its Spiritual Power",
+      "latin": "DE DIVERSIS SIGNIFICATIONIBUS NOMINIS IESU.",
+      "english": "On the Different Meanings of the Name of Jesus.",
+      "notes": null,
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "[f. 2v] ihesus iocunditas merentium, eternitas viventium, sanitas languentium, ubertas egentium, sacietas esurientium. Bernardi. ihesus in ore mel, in aure melos, et in corde iubilus. Si scribas, non sapit michi nisi legero ibi ihesum; si disputas aut conferas, non sapit michi nisi sonuerit ibi ihesus. Nomen ihesu est nomen bonitatis, sanctitatis, amicabilitatis. Nomen ihesu est nomen preeminentie, reverentie, magnificentie, benivolentie, confidentie. Nomen ihesu est nomen pietatis provocativum, orationum impetrativum, in tribulatione confortativum, in necessitate profectivum, in periculo salvativum. Nomen ihesu est nomen per miraculorum operationem, in inimicorum expugnationem, virtutum promotionem, virtuosum, gloriosum, fructuosum, medicinale, vitale, saporale, commendationis, confessionis, gratiarum actionis.",
+      "english": "Jesus is the joy of those who mourn, the eternity of those who live, the health of the sick, the abundance of the needy, and the fullness of the hungry.\n\nThe author cites Bernard: “Jesus is honey in the mouth, music in the ear, and joy in the heart. If you write, it has no taste for me unless I read the name Jesus there. If you debate or hold a discussion, it has no taste for me unless Jesus sounds there.”\n\nThe name of Jesus is a name of goodness, holiness, and friendship. It is a name of supreme dignity, reverence, magnificence, kindness, and confidence. It is a name that awakens devotion, obtains answers to prayer, strengthens us in distress, helps us in need, and saves us in danger.\n\nThe name of Jesus is a name for the working of miracles, for the rout of enemies, for the advancement of virtues: a name strong, glorious, fruitful, healing, life-giving, and sweet to the soul. It is a name of praise, confession, and thanksgiving.",
+      "notes": "The folio marker is editorial and is not spoken in the English. “Bernardi” appears to mark the following quotation as belonging to Bernard of Clairvaux or to the Bernardine tradition; this is a translation note and does not alter the stated metadata. “Saporale” is unusual; it is translated here by sense as “sweet to the soul,” from the idea of taste or savor.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nomen ihesu est perversis odiosum, viris sanctis gloriosum, premio copiosum. Nomen ihesu est efficax ad peccatorum conversionem, spiritualem refectionem, divini furoris placitationem, meritoriam actionem; dat dei opitulationem seu conversationem et eius felicem visitationem. Nomen ihesu meretur gratiam iustificationis, contemplationis, devotionis; desiderabile, venerabile, venerabile, incelabile, laudabile, ammirabile. Nomen ihesu venerandum est sacri cultus exhibitione, munerum oblatione, periurii declinatione. Nomen ihesu est nomen devote audiendum, recte proferendum, nemini interdicendum. Ex nomine ihesu provenit honorificata glorificatio, divina [f. 3r] glorificatio, quieta sancti spiritus cohabitatio. Nomen ihesu valet ad remissionem peccatorum, ad paracliti perceptionem, ad celestis glorie consecutionem. Per nomen ihesu dirigitur aspectus, educatur affectus. In nomine ihesu est conversandum, credendum, gaudendum et penitendum. Nomen ihesu est per orbem differendum, vite proprie preferendum, et pro eo patiendum, orandum, operandum, affandum, gloriandum, manifestandum, invocandum, memorie commendandum, obsecrationibus apponendum, disputationibus introducendum, et in munimen actionis habendum. Laudare debemus nomen ihesu tripliciter: pie et honeste vivendo, actiones nostras ad laudem eius referendo, corde et ore benedicendo.",
+      "english": "The name of Jesus is hateful to the corrupt, glorious to holy people, and rich in reward. It is effective for the conversion of sinners, for spiritual refreshment, for appeasing divine wrath, and for meritorious action. It brings God’s help—or, rather, God’s companionship—and his blessed visitation.\n\nThe name of Jesus obtains the grace of justification, contemplation, and devotion. It is desirable, venerable—yes, doubly venerable—impossible to hide, worthy of praise, and worthy of wonder. The name of Jesus must be venerated by offering sacred worship, presenting gifts, and avoiding perjury. It is a name to be heard devoutly, spoken rightly, and forbidden to no one.\n\nFrom the name of Jesus comes glorification that gives honor, divine glorification, and the peaceful dwelling of the Holy Spirit. The name of Jesus is powerful for the forgiveness of sins, for receiving the Paraclete, and for obtaining the glory of heaven. Through the name of Jesus, our sight is directed and our love is trained.\n\nIn the name of Jesus, we must live, believe, rejoice, and repent. The name of Jesus must be spread throughout the world. It must be preferred even to one’s own life. For that name we must suffer, pray, work, speak, glory, make it known, call upon it, commit it to memory, attach it to our petitions, bring it into our discussions, and keep it as a protection for every action.\n\nWe should praise the name of Jesus in three ways: by living devoutly and honorably, by directing our actions to his praise, and by blessing him with heart and mouth.",
+      "notes": "The folio marker is editorial and is not spoken in the English. The Latin repeats “venerabile”; the translation renders the repetition as “doubly venerable” for audio clarity. “Incelabile” is taken as “not able to be concealed,” hence “impossible to hide.”",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nomen ihesu bonum ostenditur .iiii. ratione: communicationis, illustrationis, excitationis, profectionis. Nomen ihesu dicitur oleum, quia influit nobis karitatem contemplationis, pinguedinem devotionis, dulcedinem consolationis, aptitudinem exercitationis, gratiam incerte cogitationis, pabulum refectionis. Nomen ihesu dicitur oleum propter mitigationem doloris, recreationem laboris, emollitionem rigoris, curationem languoris, in permixtionem liquoris, aucmentationem vigoris, condimentum saporis, incitamentum caloris, fomentum ardoris. Oleum lilii est mundificativum, resolutivum, fetus extractivum, utile, delectabile, honestum. Laudandum est nomen ihesu morum concordatione, carnis mortificatione, spirituali operatione. Date gloriam laudi eius, quia gloriam addit sibi laudem: manifestationem, frequentationem, delectationem, sublimationem, incorruptionem. Ex noticia nominis ihesu meremur divinam protectionem, [f. 3v] orationis impetrationem, dei associationem, tribulationum evasionem, glorie assecutionem; perfectivum, confortificativum, illectivum, sublimativum. Honor est exhibitio reverentie cum testimonio virtutis. Revereri debemus nomen ihesu ratione divine impositionis, eterne consecrationis, anglice prenunciationis et excellentis sublimationis. Revereri debemus nomen ihesu devota genuflexione, ipsius ihesu adoratione, laudabili salutatione, periurii declinatione. Nomen ihesu habet virtutem deificandi, beatificandi. Suavitas ihesu est admirabilis, inequiperabilis, durabilis, insuperabilis, interminabilis, sine fastidio continuabilis. Virtus nominis ihesu ostenditur in christiane fidei promotione, peccatorum conversione, hostium deiectione, nocivorum evasione, tormentorum superatione, draconum fatigatione, demonum subiugatione, linguarum novarum locutione, infamie liberatione, morborum curatione, mortuorum suscitatione. Hoc nomen ihesus fuit a patribus prefiguratum, desideratum, vaticinatum, consecratum. Hoc nomen ihesus precellit cetera nomina dignitate, suavitate, potestate, utilitate. Fructu huius nominis digni sunt vere credentes, veri penitentes, in deo sperantes, ad dominum revertentes. Hoc nomen ihesus demones fugat, admirationem generat, corporaliter sanat, formidolosos confortat, perversos cruciat, deum homini associat, peccata dimittit, gratiam infundit, sanctos glorificat. Item purgat, sanat, devotionem mentis impinguat, illuminat, postulata impetrat.",
+      "english": "The goodness of the name of Jesus is shown for four reasons: because it communicates grace, gives light, stirs the soul, and leads us forward.\n\nThe name of Jesus is called oil because it pours into us the love of contemplation, the richness of devotion, the sweetness of consolation, readiness for spiritual practice, grace amid uncertain thought, and the nourishment that restores us.\n\nThe name of Jesus is called oil because it lessens pain, renews us after labor, softens hardness, cures weakness, blends like a healing liquid, increases strength, seasons the taste of the soul, kindles warmth, and feeds the fire of love. The oil of the lily cleanses, loosens what is bound, draws out what must be brought forth, and is useful, delightful, and fitting.\n\nThe name of Jesus must be praised by harmony in our conduct, by mortification of the flesh, and by spiritual action. As the author says, “Give glory to his praise,” because praise adds glory to him: by making him known, by repeating his name often, by delighting in him, by lifting him high, and by honoring his incorruptibility.\n\nFrom knowing the name of Jesus, we merit divine protection, the granting of prayer, fellowship with God, escape from tribulations, and the attainment of glory. This name perfects, strengthens, attracts, and raises us up.\n\nHonor is the showing of reverence together with the testimony of virtue. We ought to revere the name of Jesus because it was given by God, consecrated from eternity, foretold by an angel, and exalted above all. We ought to revere the name of Jesus by devout genuflection, by adoring Jesus himself, by worthy salutation, and by avoiding perjury.\n\nThe name of Jesus has power to make us like God and to make us blessed. The sweetness of Jesus is wonderful, incomparable, lasting, unconquerable, endless, and able to continue without weariness.\n\nThe power of the name of Jesus is shown in the advancement of the Christian faith, the conversion of sinners, the overthrow of enemies, escape from harmful things, victory over torments, the wearing down of dragons, the subjection of demons, the speaking of new tongues, deliverance from disgrace, the healing of diseases, and the raising of the dead.\n\nThis name, Jesus, was prefigured by the fathers, desired by them, foretold by prophecy, and consecrated. This name, Jesus, surpasses every other name in dignity, sweetness, power, and usefulness. Those worthy of the fruit of this name are true believers, true penitents, those who hope in God, and those who return to the Lord.\n\nThis name, Jesus, drives demons away, creates wonder, heals the body, strengthens the fearful, torments the corrupt, joins God to the human person, forgives sins, pours in grace, and glorifies the saints. It also purifies, heals, enriches the devotion of the mind, enlightens, and obtains what is asked.",
+      "notes": "The folio marker is editorial and is not spoken in the English. The printed “.iiii.” is rendered as “four.” “Gratiam incerte cogitationis” is difficult; the translation follows the printed sense as “grace amid uncertain thought.” “In permixtionem liquoris” is also awkward; it is translated by probable sense as “blends like a healing liquid.” “Anglice prenunciationis” is treated as a likely form for “angelic foretelling” or “angelic announcement,” referring to the angelic naming of Jesus.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "Gerhard’s Sermon on Saint Godehard",
+      "latin": "SERMO MAGISTRI GERHARDI DE VITA SANCTI GODEHARDI EPISCOPI HILDESHEMENSIS.",
+      "english": "Sermon of Master Gerhard on the Life of Saint Godehard, Bishop of Hildesheim.",
+      "notes": "Only the heading is present in the supplied excerpt; no sermon body follows here.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "[f. 16v] Cuius desideramus e celo presidia, ipsius in mundo suscipiamus et documenta et sequamur exempla, ne si monita spernimus, facta deserimus, iuvamenta quoque sperata non sentiamus. A sanctis enim protegi non meretur, qui sanctorum exempla non sequitur et eorum precepta transgreditur. In huius autem vite vel vie processu ad eterna tendentes tribus ordinibus distinguntur: aut enim tenentur esse subiecti, aut socii, aut prelati. Porro subiecti maioribus, socii coequalibus, prelati minoribus. Siquidem subditorum est parvitas sub essendi, parium vero conformitas coessendi, prepositorum prudentia preessendi. Hiis gradibus sanctus Godehardus ordinate progrediens cuilibet eorundem orbitas imitabiles tam signanter impressit, ut sequacibus suis ostenderet luculenta vestigia, quibus in unoquoque statuum predictorum currere valeant, ut comprehendere metam et accipere bravium mereantur.",
+      "english": "We long for Saint Godehard’s help from heaven. So while we are still in this world, let us also receive his teaching and follow his example. Otherwise, if we reject his warnings and abandon his deeds, we should not expect to feel the help we hoped for. No one deserves to be protected by the saints if he refuses to follow the saints’ examples and violates their commands.\n\nAs people move forward through this life—this journey toward eternal things—they fall into three groups. Some must live as subjects, some as companions, and some as leaders. Subjects are related to those above them; companions to their equals; leaders to those below them. Those who are subject must learn the humility of being under authority. Equals must learn the harmony of living together. Those placed in charge must learn the prudence required for governing others.\n\nSaint Godehard advanced through these stages in proper order. In each one he marked out a path so clearly that others could imitate it. He showed his followers bright footprints, so to speak, by which they could run well in each of these states of life, reach the goal, and receive the prize.",
+      "notes": "The folio marker is editorial and is not spoken. The terms translated as “being under authority,” “living together,” and “governing others” render the author’s wordplay on sub-essendi, coessendi, and preessendi. The printed orbitas imitabiles appears to mean “paths/tracks that can be imitated.”",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Denique puer hic subiectus et humilis esse studebat in statu scolastico, conformis et socialis in regulari monasticoque collegio, sollicitus [f. 17r] et fidelis in rectoris officio: nec regere prius alios quam regi per alios, ac postmodum inter alios didicit conversari. Audiens a propheta: Specie tua et pulchritudine tua intende, prospere procede et regna. Specie, inquit, tua, id est speciosa obedientia tua subiecta maioribus; et pulchritudine, hoc est pulchra socialitate tua cum paribus; intende, prospere procede et regna, presidendo minoribus. Et adtende quid inter spem, pulchritudinem et regnum interserit: intende doctrine, sed et precepto superiorum; prospere procede in amicicia sociorum et parium; et sic demum regna in iusto et tollerabili gubernaculo subiectorum. Non enim ait salta et regna quasi prepropere, sed procede pedetemptim et successive.",
+      "english": "So, as a boy in school, Godehard strove to be obedient and humble. Later, in the ordered fellowship of monastic life, he lived as a true companion among his brothers. Then, when he held the office of a ruler, he was careful and faithful. He did not learn to govern others before first learning to be governed by others, and then learning how to live among others.\n\nHe heard the prophet say, “In your beauty and your splendor, give attention; go forward prosperously and reign.” The author explains it this way: “In your beauty” means, “in the beautiful obedience by which you submit to those above you.” “In your splendor” means, “in the beautiful fellowship by which you live with your equals.” Then, “give attention, go forward prosperously, and reign” means, “preside over those below you.”\n\nAnd notice what the prophet places between beauty, splendor, and kingship. First, “give attention”—to teaching, and also to the command of superiors. Then, “go forward prosperously”—in friendship with companions and equals. Only after that does he say, “reign”—that is, rule those under you with justice and with a burden they can bear. He does not say, “leap forward and reign,” as if someone should rush ahead too quickly. He says, “go forward”—step by step, in the right order.",
+      "notes": "The quoted line is from the Psalms in substance, though no explicit biblical citation is printed in the source. The printed text says spem, “hope,” where the context requires speciem, “beauty”; I translated according to the evident sense and noted the printed reading. The folio marker is editorial and is not spoken.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Succedit enim subiectioni societas, societati prelationis auctoritas, ut pondera preceptorum aliis iniecturus prius tulerit ipse sub aliis, deinde quoque cum aliis viribus propriis ante premetiens quod portabile sit humeris alienis, ne si nichil grave pertulerit, nesciens moderari mandata, non tam rector sit quam obpressor, pharisayca reprehensione dignissimus, qui onera gravia hominibus inponentes ipsi ea digito non movebant, et dissimiles qui cepit facere et docere, et ideo iugum suum suave et onus leve veraciter profitetur. Enimvero qui transilientes de cunis ad cathedram, de taxillis elevantur ad prelaturam, vel pueri moribus vel etate, verbo amite dicendi cedere scorpionibus consueverunt; nec mirum, cum adeo sui reputatione grandescant, ut digitum minimum patris dorso audeant anteferre. Ideoque scismatis causa fiunt, cum nec discreta precipiant, nec modo portabili idipsum [f. 17v] precipiant quod iniungunt, ut vel succumbendum sit vel rebellandum.",
+      "english": "For companionship follows obedience, and the authority of leadership follows companionship. A man who is going to place the weight of commands on others must first have carried that weight under others. Then, living among others, he must test by his own strength what another person’s shoulders can bear.\n\nOtherwise, if he has never endured anything heavy himself, he will not know how to moderate his commands. He will become not a ruler, but an oppressor. He will deserve the rebuke given to the Pharisees: they laid heavy burdens on people, but would not move those burdens with even a finger. He will be unlike the One who first began to act and then to teach, and who therefore could truly say that his yoke is sweet and his burden light.\n\nBut some people jump straight from the cradle to the teacher’s chair. From childish games they are lifted into positions of authority. Whether they are children in behavior or children in age, they get used to speaking like tyrants, threatening scorpions instead of ordinary discipline. No wonder. In their own estimation they grow so great that they dare to say their little finger is thicker than their father’s back. And so they become a cause of schism. They give commands without discernment, and even when the command itself is right, they do not impose it in a bearable way. The result is that people are forced either to collapse under the burden or to rebel.",
+      "notes": "This passage alludes to Christ’s criticism of the Pharisees, to the opening of Acts about doing and teaching, to Christ’s saying about the easy yoke, and to Rehoboam’s boast about his little finger and scorpions. No explicit citations are printed. The phrase verbo amite dicendi cedere scorpionibus is corrupt or obscure; I translated the evident allusion to Rehoboam’s threatening “scorpions.” The folio marker is editorial and is not spoken.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quidni succumbant, qui et supra vires a talibus sarcinantur, nec sustentantur ab ipsis vel verbali saltem solatio vel subsidio manuali? Quid neophitus iste preceptor est quam, secundum persium, non tressis agaso, immo et agasone deterior, cum agitator asselli miserum illud animal et sacco pressit in die, pabulo tamen soletur in vespera? Sanctus autem Godehardus, quia puer a magistris humiliter obedivit, amiciciam convenientium adolescens et iuvenis socialiter tenuit, ideo vir perfectus subiectos paterne ac fideliter gubernavit, studens prodesse potius quam preesse, pascens commissas oviculas doctrina et verbo, pascens vita pariter et exemplo, pascens spirituali et temporali subsidio, ter pasce quod petrus audivit adimplens; et ideo a principe vero pastorum inter pastores eximios inmarcessibiliter coronatus, nobis quoque suffragatur in celis, qui ex nobis natus, in nobis etiam conversatus, nobis postmodum est prelatus in terris, eo prestante qui est benedictus in secula seculorum. Amen.",
+      "english": "And why would people not collapse, when such leaders load them beyond their strength and do not support them—not even with the comfort of a word, let alone the help of a hand?\n\nWhat is this newly promoted teacher? As Persius would put it, he is not even a three-penny donkey-driver. In fact, he is worse than a donkey-driver. After all, a man who drives a little donkey may load the poor animal with a sack during the day, but at least he comforts it with fodder in the evening.\n\nSaint Godehard was different. As a boy, he humbly obeyed his teachers. As an adolescent and a young man, he kept friendship with his companions and lived sociably among them. Therefore, when he became a mature man, he governed those under him faithfully and like a father. He sought to help more than to dominate. He fed the little sheep entrusted to him with teaching and speech. He fed them also by his life and example. He fed them with spiritual help and with material support. In this way he fulfilled the threefold command, “Feed,” which Peter heard.\n\nAnd so the true Prince of shepherds crowned him unfailingly among the greatest shepherds. Now he intercedes for us in heaven: he was born from among us, lived among us, and later became our bishop on earth. May this be granted by the One who is blessed forever. Amen.",
+      "notes": "Persius is the Roman satirist. The expression non tressis agaso is difficult but appears to mean a very low-value or worthless donkey-driver; I rendered it “not even a three-penny donkey-driver.” “The threefold command, ‘Feed,’ which Peter heard” alludes to the risen Christ’s threefold charge to Peter in the Gospel of John, but no citation is printed.",
+      "source_chunk_index": 1
+    }
+  ]
+}

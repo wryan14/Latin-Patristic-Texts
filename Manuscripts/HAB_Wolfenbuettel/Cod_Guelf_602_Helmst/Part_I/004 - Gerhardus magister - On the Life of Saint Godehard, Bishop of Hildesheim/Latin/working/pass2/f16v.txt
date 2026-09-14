@@ -1,0 +1,36 @@
+# Pass 2 independent reread, general-purpose agent (Claude), 2026-09-14, f. 16v
+# Hardest features: (1) line 10 "ecclo" (no tongue on the second letter, read as "e celo");
+# (2) line 18 correction "minoribus" > "maioribus": superscript "ai" above the i/n with two
+# subpunction dots under "in"; (3) line 19 "puicias" with pro-loop on p and no visible nasal
+# bar (sense wants "prouincia"); (4) the sermon starts at line 10 with the 2-line red C, and
+# the rubric is squeezed in red at the END of line 10, i.e. after the first words of the
+# new text; the old text ends on line 09 with "eum."
+# u/n minims are ambiguous throughout; "ij" kept where the scribe dotted a final i.
+01 nec ullam requiem poterunt inuenire. Rapaces et auari
+02 flebunt amariter. nec malorum suorum ueniam consequuntur.
+03 In luctu maximo detinentur omnes qui carnis sue uolup-
+04 tatem sectati sunt. In merore et gemitu magno in
+05 sempiterno erunt. qui uicijs et passionibus seruierunt.
+06 Et cum hij omnes pro criminibus suis gehenne ignibus
+07 mancipantur. tibi sempiterna premia tribuuntur. Quod
+08 oculus non uidit. nec auris audiuit. nec in cor hominis
+09 ascendit quanta preparauit deus hijs qui diligunt eum.
+10 Cuius desideramus e celo (?) <ms. letters look like "ecclo"> presidia: ›Sermo Magistri Gerhardi‹ <NEW TEXT begins at start of line 10 with the 2-line red initial C; rubric in red at line end>
+11 ipsius in mundo suscipiamus et documenta et sequamur
+12 exempla. ne si monita spernimus. facta deserimus. iuua-
+13 menta quoque sperata non sentiamus. A sanctis enim pro-
+14 tegi non meretur. qui sanctorum exempla non sequitur. et eorum
+15 precepta transgreditur. In huius autem uite uel uie pro-
+16 cessu ad eterna tendentes. tribus ordinibus distinguntur.
+17 Aut enim tenentur esse subiecti. aut socij. aut prelati.
+18 Porro subiecti maioribus <ms. "minoribus" corrected: superscript "ai" above the i/n, "in" subpuncted> . socij coequalibus. prelati mino-
+19 ribus. Siquidem subditorum est prouicias (?) <p with pro-loop, then "uicias"; no nasal bar visible; expected "prouincia"> sub essendi. Pa-
+20 rium uero conformitas coessendi. prepositorum pruden-
+21 tia preessendi. Hijs gradibus sanctus Godehardus ordinate
+22 progrediens cuilibet eorundem orbitas imitabiles. tam
+23 signanter impressit. ut sequacibus suis ostenderet lu-
+24 culenta uestigia. quibus in uno quoque statuum pre-
+25 dictorum currere ualeant. ut comprehendere metam et
+26 accipere brauium mereantur. Denique puer hic subiectus
+27 et humilis esse studebat in statu scolastico. conformis
+28 et socialis in regulari monasticoque collegio. solli-

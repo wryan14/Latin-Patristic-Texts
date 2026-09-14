@@ -1,0 +1,91 @@
+{
+ "kind": "bibliothecarius-transcription",
+ "license": "CC0-1.0",
+ "creator": "Bibliothecarius Modernus",
+ "date": "2026-09-14",
+ "version": "1.0",
+ "repository": "Herzog August Bibliothek Wolfenbüttel",
+ "shelfmark": "Cod. Guelf. 602 Helmst.",
+ "part": "I",
+ "iiif_manifest": null,
+ "edition": null,
+ "method": "Two independent visual readings of the HAB 2000 px page images (text block cut into three overlapping strips): Pass 1 = general-purpose Claude agent (Phase 9A sizing draft, 2026-09-14), Pass 2 = one fresh general-purpose Claude agent per folio with no access to Pass 1 or any edition (Phase 9B, 2026-09-14); word-level alignment by tools/transcription_benchmark.py; every disagreement re-cut at line level and adjudicated on the image by the operator (Claude Fable 5.1 session) before any parallel was consulted; then a full re-read of the reconciled text against the images by the operator. No OCR/HTR service, no paid vision model, no metered call.",
+ "normalization": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0: reading text; abbreviations expanded silently following the scribe's own full spellings (ihesus, michi, sacietas); scribe's spelling kept (e for ae; anglice, aucmentationem, adtende, inponentes, asselli, pharisayca, distinguntur as written); u/v by position, i only; capitals only where the scribe wrote them; modern punctuation by the transcriber (the scribe's points are kept in the line-level working files); red paragraph marks as ¶; rubrics in ›…‹; folio boundaries as [f. Nr]; \\…/ = scribal interlinear addition; ⟨?⟩ = uncertain reading or expansion; (sic) = scribal error kept.",
+ "transcription_standard": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+ "review_status": "fully-reviewed",
+ "image_rights": {
+  "statement": "Imagedigitalisate von HAB-Beständen werden als Public Domain publiziert. In der Regel sind in bereits publizierten Digitalisate sowohl ein Copyright-Hinweis als auch ein CC BY-SA-Logo eingerechnet worden. Beide Angaben haben aber ihre Gültigkeit verloren.",
+  "url": "https://diglib.hab.de/nutzungshinweise.html",
+  "date_checked": "2026-09-14",
+  "credit": "Herzog August Bibliothek Wolfenbüttel <https://diglib.hab.de/mss/602-helmst/start.htm>"
+ },
+ "catalog_url": "https://diglib.hab.de/?catalog=Lesser&db=mss&id=602-helmst&list=ms",
+ "digitization_url": "https://diglib.hab.de/mss/602-helmst/start.htm",
+ "short_label": "HAB 602 Helmst.",
+ "image_rights_short": "published by the HAB as public domain (usage notes read 2026-09-14)",
+ "folios": "2v–3v",
+ "source_image_url": "https://diglib.hab.de/mss/602-helmst/max/00006.jpg; https://diglib.hab.de/mss/602-helmst/max/00007.jpg; https://diglib.hab.de/mss/602-helmst/max/00008.jpg",
+ "verification": {
+  "passes": [
+   {
+    "pass": 1,
+    "reader": "Claude general-purpose agent (Phase 9A sizing draft)",
+    "method": "visual reading of strip crops of the HAB max images",
+    "date": "2026-09-14",
+    "independent_of_previous": false
+   },
+   {
+    "pass": 2,
+    "reader": "Claude general-purpose agents, one per folio (Phase 9B)",
+    "method": "visual reading of the same crops; no access to Pass 1 or any edition",
+    "date": "2026-09-14",
+    "independent_of_previous": true
+   }
+  ],
+  "calibration": {
+   "passages": 3,
+   "words": 643,
+   "wer_graph": 0.028,
+   "cer_graph": 0.005,
+   "report": "docs/v2/experiments/hab_602_helmst/benchmark/RECONCILIATION.md — same hand, Phase 9A: single-pass error 1.2–2.8 %, shared error 0.5 %"
+  },
+  "curator_check": {
+   "by": "operator (Claude Fable 5.1 session) — full re-read of the reconciled text against the page images; the human curator's sign-off is pending at the Stage 1 editorial gate",
+   "date": "2026-09-14",
+   "scope": "full"
+  },
+  "stage": "reconciled",
+  "uncertain_passages_present": true,
+  "reconciliation": {
+   "disagreements": 18,
+   "inspected": 18,
+   "resolved_to_pass1": 7,
+   "resolved_to_pass2": 7,
+   "resolved_to_other": 4,
+   "log": "docs/v2/experiments/hab_602_helmst/stage1/RECONCILIATION.md"
+  }
+ },
+ "known_uncertainties": [
+  "2v.23 incelabile⟨?⟩ — as written; perhaps for ineffabile or a scribal slip",
+  "3r.05 conversandum⟨?⟩ — s/rs ambiguous; alternative convescendum",
+  "3r.07 affandum⟨?⟩ — as written; sense uncertain (affari?)",
+  "3r.10 et in munimen⟨?⟩ actionis habendum — minims; alternatives in munimine, a minime",
+  "3r.17 incerte⟨?⟩ cogitationis — written without a break; sense unclear",
+  "3v.13 conversione⟨?⟩ — f/u ambiguous; alternative confusione",
+  "3v.06 anglice = angelice (scribe's spelling, kept)",
+  "3v.27 postulata impetrat — Lesser prints imperat; both readings of the page give impetrat",
+  "2v.03 Bñi. = Bernardi, a source tag for the following Bernard quotation (SCC 15.6)",
+  "3r margin (beside l. 22): later cursive note 'nota bene de lilio' (not part of the text)"
+ ],
+ "textual_unit": {
+  "manuscript_object_id": "ms-hab-602-helmst-p1",
+  "textual_unit_id": "ms-hab-602-helmst-p1-002",
+  "order": 2,
+  "rubric": "De deo",
+  "incipit": "ihesus iocunditas merentium eternitas viventium sanitas languentium",
+  "explicit": "illuminat postulata impetrat",
+  "title_latin": "De diversis significationibus nominis Iesu",
+  "folios": "2v–3v"
+ },
+ "notes": "Text A of Stage 1 (Phase 9B). 509 words; 83 lines (2v.01–3v.27). Ends with red line-fillers before the rubric ›Incipit Regula Basilii‹ (3v.28). Wormhole in the inner margin of 2v (l. 24) and a hole in the outer margin of 3r touch no text."
+}

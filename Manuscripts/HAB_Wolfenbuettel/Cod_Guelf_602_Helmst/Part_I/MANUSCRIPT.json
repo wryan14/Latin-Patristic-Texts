@@ -1,0 +1,73 @@
+{
+ "schema": "bibliothecarius.manuscript_object/1",
+ "id": "ms-hab-602-helmst-p1",
+ "institution": "Herzog August Bibliothek Wolfenbüttel",
+ "institution_short": "HAB Wolfenbüttel",
+ "shelfmark": "Cod. Guelf. 602 Helmst.",
+ "part": "I",
+ "folios": "1r–20v",
+ "catalogue_url": "https://diglib.hab.de/?catalog=Lesser&db=mss&id=602-helmst&list=ms",
+ "catalogue_citation": "Bertram Lesser, Katalog der mittelalterlichen Helmstedter Handschriften, Teil IV: Cod. Guelf. 462 bis 615 Helmst. (in Vorbereitung), HAB Handschriftendatenbank; older: Heinemann Nr. 650 (1886)",
+ "digitization_url": "https://diglib.hab.de/mss/602-helmst/start.htm",
+ "image_url_pattern": "https://diglib.hab.de/mss/602-helmst/max/NNNNN.jpg (00003 = f. 1r)",
+ "rights_statement": "Imagedigitalisate von HAB-Beständen werden als Public Domain publiziert. (Legacy © / CC BY-SA marks in the frame: 'Beide Angaben haben aber ihre Gültigkeit verloren.')",
+ "rights_url": "https://diglib.hab.de/nutzungshinweise.html",
+ "rights_checked": "2026-09-14",
+ "credit": "Manuscript source: Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 602 Helmst., Part I. Digital images: Herzog August Bibliothek Wolfenbüttel <https://diglib.hab.de/mss/602-helmst/start.htm> — published by the HAB as public domain (usage notes, read 2026-09-14). Description: Bertram Lesser, Katalog der mittelalterlichen Helmstedter Handschriften IV (in preparation), CC BY-SA. Bibliothecarius Modernus transcription, 2026, version 1.0 (CC0 1.0).",
+ "date_origin": "13th century, second half",
+ "place_origin": "Wöltingerode, Cistercian nunnery (near Goslar)",
+ "units": [
+  {
+   "id": "ms-hab-602-helmst-p1-002",
+   "order": 2,
+   "title_latin": "De diversis significationibus nominis Iesu",
+   "title_english": "On the Meanings of the Name of Jesus",
+   "author": "Anonymous",
+   "rubric": "De deo",
+   "folios": "2v–3v",
+   "lines": "2v.01–3v.27",
+   "words": 509,
+   "frontier_class": "A",
+   "edition_status": "no modern edition or machine-readable transcription of the complete text located (Phase 9A search); the opening litany circulates in other forms",
+   "working_files": [
+    "02v",
+    "03r",
+    "03v",
+    "textA"
+   ],
+   "in_edition": true
+  },
+  {
+   "id": "ms-hab-602-helmst-p1-004",
+   "order": 4,
+   "title_latin": "De vita sancti Godehardi episcopi Hildeshemensis",
+   "title_english": "On the Life of Saint Godehard, Bishop of Hildesheim",
+   "author": "Gerhardus magister",
+   "rubric": "Sermo magistri Gerhardi",
+   "folios": "16v–17v",
+   "lines": "16v.10–17v.19",
+   "words": 513,
+   "frontier_class": "A",
+   "edition_status": "no modern edition or machine-readable transcription located (Phase 9A search); attribution 'magister Gerhardus' unidentified",
+   "working_files": [
+    "16v",
+    "17r",
+    "17v",
+    "textB"
+   ],
+   "in_edition": true
+  }
+ ],
+ "editions": [
+  {
+   "project_id": "de-diversis-significationibus-nominis-iesu-et-de-v-20260914",
+   "units": [
+    "ms-hab-602-helmst-p1-002",
+    "ms-hab-602-helmst-p1-004"
+   ],
+   "github_dir": "Manuscripts/HAB_Wolfenbuettel/Cod_Guelf_602_Helmst/Part_I"
+  }
+ ],
+ "images_note": "Manuscript images are not stored in this repository; they remain with the holding institution under its stated terms and are linked above.",
+ "license_note": "Bibliothecarius Modernus transcriptions, translations and metadata: CC0 1.0. The manuscript text is public domain."
+}

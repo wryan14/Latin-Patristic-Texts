@@ -1,0 +1,40 @@
+# Pass 2 independent reread, general-purpose agent (Claude), 2026-09-14, f. 3v
+# Read from the three strips and the full block only, with local 2x-5x enlargements; no edition or parallel text consulted.
+# Hardest features: (a) l. 08 end, the word before "de-/clinatione": letters look like "yuurij"/"puurij" with a y- or p-like
+#   first letter and a final long j; I cannot resolve it (humili? capitis? would fit the sense, but neither matches the strokes).
+#   (b) l. 09 "bñficādi": literal expansion beneficandi; beatificandi (pairing with deificandi) is equally possible.
+#   (c) l. 06 "anglice" is written without an e after g (scribal form for angelice); "p̃nūciatōis" has a tilde over p (pre-), not a pro- loop.
+#   (d) l. 13 "cōūsione": bar over u read as -uer- (conuersione); confusione is a possible alternative.
+#   (e) l. 22 first word "dm̄" (three minims + bar): deum, or dominum if the minims are ñi.
+#   (f) l. 28 rubric is red and cut off by the bottom of the crop; only the top halves of the letters survive.
+# Red-touched initials (pen-flourished, not rubric): l. 04 R, l. 07 R, l. 09 N, l. 12 V, l. 15 L, l. 17 h, l. 19 h, l. 20 F, l. 22 h, l. 24 p, l. 26 I.
+# The litany ends at l. 27 with red line-fillers; the rubric of the next text follows on l. 28.
+01 orationis impetrationem. dei associationem. tribulationum
+02 euasionem. glorie assecutionem. perfectiuum. confortificati-
+03 uum. illectiuum. sublimatiuum. honor est exhibitio reue-
+04 rentie cum testimonio uirtutis. ¶ Reuereri debemus
+05 nomen ihesu ratione diuine impositionis. eterne consecrati-
+06 onis. anglice(?) prenunciationis(?). et excellentis sublimationis.
+07 Reuereri debemus nomen ihesu deuota genuflexione
+08 ipsius ihesu adoratione. laudabili salutatione. yuurij(?) de-
+09 clinatione. Nomen ihesu habet uirtutem deificandi beneficandi(?)
+10 ¶ Suauitas ihesu est admirabilis. inequiperabilis. dura-
+11 bilis. insuperabilis. interminabilis. sine fastidio con-
+12 tinuabilis. Virtus nominis ihesu ostenditur in christiane fi-
+13 dei promotione. peccatorum conuersione(?). hostium deiectione. no-
+14 ciuorum euasione. tormentorum superatione. draconum fati-
+15 gatione. demonum subiugatione. linguarum nouarum
+16 locutione. infamie liberatione. morborum curatione.
+17 mortuorum suscitatione. hoc nomen ihesus fuit a patribus(?) prefigu-
+18 ratum. desideratum. uaticinatum. consecratum. ¶
+19 hoc nomen ihesus precellit cetera nomina. dignitate. suauitate
+20 potestate. utilitate. Fructu huius nominis digni sunt
+21 uere credentes. ueri penitentes. in deo sperantes. ad
+22 deum(?) reuertentes. hoc nomen ihesus demones fugat.
+23 admirationem generat. corporaliter sanat. formidolosos
+24 confortat. peruersos cruciat. deum homini associat
+25 peccata dimittit. gratiam infundit. sanctos glorificat.
+26 Item purgat. sanat. deuotionem mentis impinguat
+27 illuminat. postulata impetrat. [red line-fillers to end of line]
+# ---- END OF LITANY ON THE NAME OF JESUS (l. 27) ----
+28 ›Incipit Regula(?) Basilii‹ [red rubric, lower half cut off by the crop; "Regula" abbreviated Reg'la]

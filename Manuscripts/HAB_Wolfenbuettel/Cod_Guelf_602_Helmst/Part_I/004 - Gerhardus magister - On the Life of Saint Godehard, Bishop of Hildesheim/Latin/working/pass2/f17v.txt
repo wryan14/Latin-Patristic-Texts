@@ -1,0 +1,32 @@
+# Pass 2 independent reread, general-purpose agent (Claude), 2026-09-14, f. 17v
+# Hardest features: (1) line 05 "qm̃" after "est" (quoniam or quin; read quoniam); (2) the sign "qꝫ" in lines 08 and 14, which this hand seems to use for "quod" (sense in line 14 demands quod), distinct from "q̃ꝫ" = quoque in line 16; (3) line 08 "uespa" shows no clear per-stroke on the p, but "uespera" is required by sense; (4) line 16 "inmarcessibiliter" written with a run of minims; (5) last word of line 28 "p̄xiōꝝ", read proximorum, sentence continues on 18r; (6) large brown H-shaped nota-like mark in the left margin beside lines 22–24.
+# Sermon ends at line 19 ("amen."); rubric ›Bernardus‹ and the authorities begin at line 20.
+01 precipiant que iniungunt. Vt uel succumbendum sit uel rebellan-
+02 dum. Quid ni succumbant. qui et supra uires a talibus
+03 sarcinantur. nec sustentantur ab ipsis. uel uerbali sal-
+04 tem solatio. uel subsidio manuali. Quid neophitus
+05 iste preceptor est. quoniam(?) secundum persium non tressis agaso. immo
+06 et agasone deterior. cum agitator asselli miserum
+07 illud animal et sacco pressit in die. pabulo tamen solet in
+08 uespera(?). Sanctus autem godehardus quod(?) puer a magistris humi-
+09 liter obediuit. amicicia conuenientium adolescens et
+10 iuuenis socialiter tenuit. Ideo uir perfectus subiectos
+11 paterne ac fideliter gubernauit. studens prodesse potius quam
+12 preesse. pascens commissas ouiculas doctrina et uerbo.
+13 pascens uita. pariter et exemplo. pascens spirituali et tem-
+14 porali subsidio. ter pasce quod petrus audiuit ad im-
+15 plens. et ideo a principe uero pastorum inter pastores
+16 eximios inmarcessibiliter coronatus. nobis quoque suffra-
+17 gatur in celis. qui ex nobis natus. in nobis eciam
+18 conuersatus. nobis postmodum est prelatus in terris.
+19 eo prestante qui est benedictus in secula seculorum. amen.
+# --- end of sermon ---
+20 ›Bernardus‹ O gloriosa et amabilis anima. sponsum habes
+21 in terra sub sacramento. in celis habitat sine uelamen-
+22 to. hic quam dulce preludium et iocunda desponsatio. ubi nup- <left margin, lines 22–24: large brown H-shaped mark, nota(?)>
+23 ciale conuiuium et beata coniunctio. cum de fide ad spem.
+24 de spe ad rem. de mensa ad mensam. de sabbato ad sabba-
+25 tum. fiet transmutatio. tunc enim uidebitur ipse ihesus
+26 qui dulcis in facie est dulcis in ore dulcis in nomine.
+27 ›Idem Bernardus.‹ Perfectus reputabitur in cuius anima hec
+28 tria concurrunt. gemere pro se. exultare in deo proximorum(?)

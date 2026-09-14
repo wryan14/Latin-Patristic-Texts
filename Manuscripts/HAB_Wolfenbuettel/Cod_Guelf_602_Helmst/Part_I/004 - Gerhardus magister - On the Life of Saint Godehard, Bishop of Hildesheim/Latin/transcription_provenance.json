@@ -1,0 +1,96 @@
+{
+ "kind": "bibliothecarius-transcription",
+ "license": "CC0-1.0",
+ "creator": "Bibliothecarius Modernus",
+ "date": "2026-09-14",
+ "version": "1.0",
+ "repository": "Herzog August Bibliothek Wolfenbüttel",
+ "shelfmark": "Cod. Guelf. 602 Helmst.",
+ "part": "I",
+ "iiif_manifest": null,
+ "edition": null,
+ "method": "Two independent visual readings of the HAB 2000 px page images (text block cut into three overlapping strips): Pass 1 = general-purpose Claude agent (Phase 9A sizing draft, 2026-09-14), Pass 2 = one fresh general-purpose Claude agent per folio with no access to Pass 1 or any edition (Phase 9B, 2026-09-14); word-level alignment by tools/transcription_benchmark.py; every disagreement re-cut at line level and adjudicated on the image by the operator (Claude Fable 5.1 session) before any parallel was consulted; then a full re-read of the reconciled text against the images by the operator. No OCR/HTR service, no paid vision model, no metered call.",
+ "normalization": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0: reading text; abbreviations expanded silently following the scribe's own full spellings (ihesus, michi, sacietas); scribe's spelling kept (e for ae; anglice, aucmentationem, adtende, inponentes, asselli, pharisayca, distinguntur as written); u/v by position, i only; capitals only where the scribe wrote them; modern punctuation by the transcriber (the scribe's points are kept in the line-level working files); red paragraph marks as ¶; rubrics in ›…‹; folio boundaries as [f. Nr]; \\…/ = scribal interlinear addition; ⟨?⟩ = uncertain reading or expansion; (sic) = scribal error kept.",
+ "transcription_standard": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+ "review_status": "fully-reviewed",
+ "image_rights": {
+  "statement": "Imagedigitalisate von HAB-Beständen werden als Public Domain publiziert. In der Regel sind in bereits publizierten Digitalisate sowohl ein Copyright-Hinweis als auch ein CC BY-SA-Logo eingerechnet worden. Beide Angaben haben aber ihre Gültigkeit verloren.",
+  "url": "https://diglib.hab.de/nutzungshinweise.html",
+  "date_checked": "2026-09-14",
+  "credit": "Herzog August Bibliothek Wolfenbüttel <https://diglib.hab.de/mss/602-helmst/start.htm>"
+ },
+ "catalog_url": "https://diglib.hab.de/?catalog=Lesser&db=mss&id=602-helmst&list=ms",
+ "digitization_url": "https://diglib.hab.de/mss/602-helmst/start.htm",
+ "short_label": "HAB 602 Helmst.",
+ "image_rights_short": "published by the HAB as public domain (usage notes read 2026-09-14)",
+ "folios": "16v–17v",
+ "source_image_url": "https://diglib.hab.de/mss/602-helmst/max/00034.jpg; https://diglib.hab.de/mss/602-helmst/max/00035.jpg; https://diglib.hab.de/mss/602-helmst/max/00036.jpg",
+ "verification": {
+  "passes": [
+   {
+    "pass": 1,
+    "reader": "Claude general-purpose agent (Phase 9A sizing draft)",
+    "method": "visual reading of strip crops of the HAB max images",
+    "date": "2026-09-14",
+    "independent_of_previous": false
+   },
+   {
+    "pass": 2,
+    "reader": "Claude general-purpose agents, one per folio (Phase 9B)",
+    "method": "visual reading of the same crops; no access to Pass 1 or any edition",
+    "date": "2026-09-14",
+    "independent_of_previous": true
+   }
+  ],
+  "calibration": {
+   "passages": 3,
+   "words": 643,
+   "wer_graph": 0.028,
+   "cer_graph": 0.005,
+   "report": "docs/v2/experiments/hab_602_helmst/benchmark/RECONCILIATION.md — same hand, Phase 9A: single-pass error 1.2–2.8 %, shared error 0.5 %"
+  },
+  "curator_check": {
+   "by": "operator (Claude Fable 5.1 session) — full re-read of the reconciled text against the page images; the human curator's sign-off is pending at the Stage 1 editorial gate",
+   "date": "2026-09-14",
+   "scope": "full"
+  },
+  "stage": "reconciled",
+  "uncertain_passages_present": true,
+  "reconciliation": {
+   "disagreements": 23,
+   "inspected": 23,
+   "resolved_to_pass1": 10,
+   "resolved_to_pass2": 10,
+   "resolved_to_other": 3,
+   "log": "docs/v2/experiments/hab_602_helmst/stage1/RECONCILIATION.md"
+  }
+ },
+ "known_uncertainties": [
+  "16v.19 parvitas⟨?⟩ — p with bar read as par-; both passes read otherwise (puritas / prouicias); fits the triad parvitas / conformitas / prudentia",
+  "16v.22 imitabiles⟨?⟩ — minims (inuitabiles possible)",
+  "17r.03 a propheta⟨?⟩ — compendium before the Ps. 44:5 quotation; alternative apostolica",
+  "17r.08 spem (sic) — written out; the sense wants speciem",
+  "17r.12 quasi⟨?⟩ prepropere⟨?⟩",
+  "17r.16 premetiens⟨?⟩ quod⟨?⟩",
+  "17r.24 amite⟨?⟩ dicendi — unresolved; 'verbo a mite dicendi' also possible",
+  "17v.05 quam⟨?⟩ (q̃m; quoniam possible); tressis⟨?⟩ (Persius 5.76 non tressis agaso)",
+  "17v.07 soletur⟨?⟩ — suspension after solet",
+  "16v.18 minoribus corrected to maioribus by a superscript ai with subpunction of in (scribal correction; corrected reading printed)",
+  "17r.02 \\per/ interlinear scribal addition",
+  "17r.13 marginal nota-mark (no text)",
+  "Opening: the sermon begins with a relative clause (Cuius …); Lesser suggests the true beginning may be lost — nothing supplied",
+  "17v.08 quia⟨?⟩ — the sign qꝫ is used by this hand also for quod (17v.14); causal quia fits the Ideo that follows"
+ ],
+ "textual_unit": {
+  "manuscript_object_id": "ms-hab-602-helmst-p1",
+  "textual_unit_id": "ms-hab-602-helmst-p1-004",
+  "order": 4,
+  "rubric": "Sermo magistri Gerhardi",
+  "incipit": "Cuius desideramus e celo presidia ipsius in mundo suscipiamus et documenta et sequamur exempla",
+  "explicit": "eo prestante qui est benedictus in secula seculorum amen",
+  "title_latin": "De vita sancti Godehardi episcopi Hildeshemensis",
+  "folios": "16v–17v",
+  "author": "Gerhardus magister (unidentified; the rubric's attribution)"
+ },
+ "notes": "Text B of Stage 1 (Phase 9B). 513 words; 66 lines (16v.10–17v.19). Rubric stands at the end of 16v.10 after the first clause; red initial C. Attribution: 'magister Gerhardus' of the rubric, unidentified (Heinemann's index gave Gerard Zerbolt of Zutphen; rejected by Westenhoff 1890; van Dijk CCCM 192 p. 431 unread). Stain over 17r lines 14–24 (readable)."
+}

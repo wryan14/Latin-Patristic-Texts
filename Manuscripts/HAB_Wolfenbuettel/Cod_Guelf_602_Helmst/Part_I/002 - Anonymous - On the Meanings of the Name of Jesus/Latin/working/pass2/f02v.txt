@@ -1,0 +1,30 @@
+# Pass 2 independent reread, general-purpose agent (Claude), 2026-09-14, f. 2v
+# Hardest features: the two-word red rubric at the head of line 01 is tiny and worn (read as "de xpo"); the abbreviated nouns in line 01 ("mercetiu", "etnitas", "iuuetium") are all heavily suspended and their expansions are conjectural; line 03 has a red-touched source siglum "Bni" after the paragraph mark (Bernardus?); lines 16-17 "puisis" / "pmio" are p-with-stroke suspensions; line 23 "incelabile" and "ammuabile" are read letter-for-letter but do not resolve to a clean Latin word; the last word of line 28 is cut by the crop edge. Line 24 starts beside the wormhole with a red-touched N but no separate red paragraph mark.
+01 ›de christo(?)‹ Ihesus iocunditas merentium(?). eternitas(?) inuenientium(?).
+02 sanitas languentium. ubertas egentium. sacietas esurie-
+03 ntium. ¶ Bernardus(?). Ihesus in ore mel. in aure melos. et in corde
+04 iubilus. ¶ Si scribas non sapit michi. nisi legero ibi ihesum.
+05 Si disputas aut conferas. non sapit michi. nisi sonuerit ibi ihesus
+06 ¶ Nomen ihesu est nomen. bonitatis. sanctitatis(?) amicabilitatis.
+07 ¶ Nomen ihesu est nomen. preeminentie. reuerentie. magni-
+08 ficentie. beniuolentie. confidentie. ¶
+09 ¶ Nomen ihesu est nomen pietatis prouocatiuum. ora-
+10 tionum impetratiuum. In tribulatione confortatiuum. In ne-
+11 cessitate profectiuum. In periculo saluatiuum. ¶
+12 Nomen ihesu est nomen. per(?) miraculorum operationem. In imi-
+13 corum expugnationem. Virtutum promotionem. Virtuo-
+14 sum. gloriosum. fructuosum. medicinale uitale.
+15 saporale. commendationis. confessionis gratiarum actionis.
+16 ¶ Nomen ihesu est peruersis(?) odiosum. uiris sanctis gloriosum
+17 premio(?) copiosum. ¶ Nomen ihesu est efficax ad peccatorum
+18 conuersionem. spiritualem refectionem. diuini furoris
+19 placitationem(?). meritoriam actionem. dat dei opitulationem
+20 seu conuersationem. et eius felicem uisitationem. ¶
+21 Nomen ihesu meretur gratiam iustificationis. contemplati-
+22 onis deuotionis. desiderabile. uenerabile. venera-
+23 bile. incelabile(?). laudabile ammirabile(?). ¶
+24 Nomen ihesu uenerandum est. sacri cultus exhibi-
+25 tione. munerum oblatione. periurii(?) declinatione.
+26 ¶ Nomen ihesu est nomen. deuote audiendum. recte
+27 proferendum. nemini interdicendum. ¶
+28 Ex nomine ihesu prouenit honorificata glorificatio. diuin[illegible]

@@ -1,0 +1,30 @@
+# Pass 2 independent reread, general-purpose agent (Claude), 2026-09-14, f. 17r
+# Hardest features: line 01 opens mid-word ("-citus", first syllable on 16v); line 02 has an interlinear "per" squeezed between "regi" and "alios"; line 03 "audiens" (bar over -es) and the heavily abbreviated "a propheta" before the Ps 44 quotation; line 13 right margin carries a small "no/ta" (= nota) mark; the stain over lines 14-25 blurs "prius" at the end of 14, "uiribus" (minim count ambiguous, could be "in uiribus") at the end of 15, "que" (q3) in 16, and "sermonibus" at the start of 25 (e + round r read like "ac"); line 24 "uerbo amite" is the one cluster I could not resolve confidently; 22 "profitetur" (p-bar + fitet + -ur hook) and 23 "prelaturam" (p-bar + latam + bar) are expansions of tightly abbreviated forms.
+01 -citus et fidelis in rectoris officio. nec regere prius alios
+02 quam regi <per> alios. ac postmodum inter alios didicit con-
+03 uersari. Audiens(?) a propheta(?). Specie tua et pulchritudine tua. intende. prospere
+04 procede et regna. Specie inquit tua. id est speciosa obedi-
+05 entia tua subiecta maioribus. et pulchritudine. hoc est
+06 pulchritudine socialitate tua cum paribus. intende prospere
+07 procede et regna. presidendo minoribus. Et adtende quid
+08 inter spem(?) pulchritudinem et regnum interserit. Inten-
+09 de doctrine. sed et precepto superiorum prospere procede in amici-
+10 cia sociorum et parium. et sic demum regna in iusto et tolle-
+11 rabili gubernaculo subiectorum. Non enim ait salta et
+12 regna quam prepropere. sed procede pedetemptim et successiue.
+13 Succedit enim subiectioni societas. societati prelationis <nota, in right margin>
+14 auctoritas. ut pondera preceptorum aliis iniecturus. prius(?)
+15 tulerit ipse sub aliis. deinde quoque cum aliis uiribus(?)
+16 propriis(?) ante premetiens(?). que(?) portabile sit humeris alienis.
+17 ne si nichil graue pertulerit. nesciens moderari manda-
+18 ta. non tam rector sit. quam obpressor. pharisayca re-
+19 phensione dignissimus. qui onera grauia hominibus in-
+20 ponentes. ipsi ea digito non mouebant. et dissimiles
+21 qui cepit facere et docere. et ideo iugum suum suaue et
+22 onus leue. ueraciter profitetur(?). Cum uero qui transilientes
+23 de cunis ad cathedram. de taxillis eleuantur ad prelaturam(?).
+24 uel pueri moribus uel etate. uerbo(?) amite(?) dicendi. cetere(?)
+25 sermonibus(?) consueuerunt(?). nec mirum cum adeo sui repu-
+26 tatione grandescant. ut digitum minimum patris dorso
+27 audeant anteferre. Ideoque scismatis causa fiunt. cum
+28 nec discreta percipiant. nec modo portabili idipsum
