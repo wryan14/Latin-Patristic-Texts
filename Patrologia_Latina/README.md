@@ -615,6 +615,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [GitHub](vol_133/Odo%20of%20Cluny%20-%20The%20Life%20of%20Saint%20Odo%20Second%20Abbot%20of%20Cluny)
 
 
+## Odo of Tournai (Odo of Cambrai)
+
+**On Blasphemy against the Holy Spirit** (*De blasphemia in Spiritum sanctum*) — Vol. 160 [12th century]
+  [Archive](https://archive.org/details/on-blasphemy-against-the-holy-spirit) | [GitHub](vol_160/Odo%20of%20Tournai%20%28Odo%20of%20Cambrai%29%20-%20On%20Blasphemy%20against%20the%20Holy%20Spirit)
+
 ## Optatus
 
 **History of the Donatists** (*Historia Donatistarum.*) — Vol. 11
