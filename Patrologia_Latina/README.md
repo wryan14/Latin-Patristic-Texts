@@ -617,8 +617,8 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Odo of Tournai (Odo of Cambrai)
 
-**On Blasphemy against the Holy Spirit** (*De blasphemia in Spiritum sanctum*) — Vol. 160 [12th century]
-  [Archive](https://archive.org/details/on-blasphemy-against-the-holy-spirit) | [GitHub](vol_160/Odo%20of%20Tournai%20%28Odo%20of%20Cambrai%29%20-%20On%20Blasphemy%20against%20the%20Holy%20Spirit)
+**On Blasphemy against the Holy Spirit** (*De blasphemia in Spiritum sanctum*) — Vol. 160 [12th century] · pl160-027
+  [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-blasphemia-in-spiritum-sanctum-odo-of-tournai-odo-of-cambrai/) | [Archive](https://archive.org/details/on-blasphemy-against-the-holy-spirit) | [YouTube](https://www.youtube.com/watch?v=yXD5x_ObVjY) | [GitHub](vol_160/Odo%20of%20Tournai%20%28Odo%20of%20Cambrai%29%20-%20On%20Blasphemy%20against%20the%20Holy%20Spirit)
 
 ## Optatus
 
