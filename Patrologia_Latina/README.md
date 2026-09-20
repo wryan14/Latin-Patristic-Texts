@@ -268,7 +268,7 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Geoffroy Babion
 
-**On the Two Cities of God and the Devil** (*De duabus civitatibus Dei et diaboli*) — Vol. 171 [12th century]
+**On the Two Cities of God and the Devil** (*De duabus civitatibus Dei et diaboli*) — Vol. 171 [12th century] · pl171-004
   [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-duabus-civitatibus-dei-et-diaboli-geoffroy-babion/) | [Archive](https://archive.org/details/on-the-two-cities-of-god-and-the-devil) | [YouTube](https://www.youtube.com/watch?v=HoT-UhOz0T0) | [GitHub](vol_171/Geoffroy%20Babion%20-%20On%20the%20Two%20Cities%20of%20God%20and%20the%20Devil)
 
 ## Germain of Paris
