@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "volume_id": "PL171",
+    "title": "On the Two Cities of God and the Devil",
+    "latin_title": "De duabus civitatibus Dei et diaboli",
+    "author": "Geoffroy Babion",
+    "century": "12th century",
+    "source": "Patrologia Latina Volume 171",
+    "translator": "openai/gpt-5.5",
+    "translation_date": "2026-09-20",
+    "total_chunks": 10,
+    "estimated_duration_minutes": 17,
+    "known_issues": [
+      "Several scriptural phrases are quoted or paraphrased without full formal citations in the Latin; they are introduced in English as Scripture where appropriate but not assigned unprinted chapter-and-verse references.",
+      "The Psalm citations are rendered exactly as printed, using Psalm eighty-nine, though modern numbering and verse divisions may differ.",
+      "The identification of the woman in the Gospel of Luke, chapter seven, as Mary is traditional in medieval Latin preaching but is not explicit in the biblical text.",
+      "The phrase “determinati [f. indeterminati, seu dubii] [manent]” contains an editorial correction or suspected corrupt reading; the translation follows the evident sense and notes the printed form.",
+      "Several printed biblical references do not match the full quoted wording exactly; these are translated as printed and explained in chunk notes.",
+      "The printed variant “adhaeret [f. arescit]” was translated as “dries up,” following the supplied variant and the immediate context."
+    ],
+    "pl_volume": 171,
+    "catalog_id": "pl171-004",
+    "part_id": "pl171-004/cxiii",
+    "col_start": 864,
+    "col_end": 867,
+    "project_id": "de-duabus-civitatibus-dei-et-diaboli-20260920",
+    "metadata_written_by": "pipeline/translate.py",
+    "rights": {
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_status": "declared",
+      "scope": "English translation, notes, chapter titles, subtitles and this metadata (Bibliothecarius Modernus contributions)",
+      "source_text": "Latin: J.-P. Migne, Patrologia Latina (1844–1865), public domain; reproduced as extracted for the parallel text; no rights claimed",
+      "attribution_requested": "Bibliothecarius Modernus (courtesy, not a licence condition)",
+      "declared_on": "2026-09-13"
+    },
+    "translator_model": "openai/gpt-5.5",
+    "provenance": {
+      "translator_model": "openai/gpt-5.5",
+      "provider": "openrouter",
+      "max_chunk_chars": 9000,
+      "source_chunks": 2,
+      "response_format": "json_schema:strict",
+      "prompt_sha256": "0f619db56579ca00c00d95b6d3d34cb8f0ec6023cfc868bfc2d083e61f9bf1d5",
+      "calls": [
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789942316-hs08CMbctcNGblA2xenD",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 51.0,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 4328,
+            "output_tokens": 5257,
+            "cached_input_tokens": 0,
+            "reasoning_tokens": 1034,
+            "total_tokens": 9585,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.17935,
+          "latin_chars": 6076,
+          "chunk_index": 0,
+          "break_type": "paragraph"
+        },
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789942367-ruRX2PcFzyWeZyJTpQr9",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 35.6,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 3621,
+            "output_tokens": 3459,
+            "cached_input_tokens": 0,
+            "reasoning_tokens": 516,
+            "total_tokens": 7080,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.121875,
+          "latin_chars": 4167,
+          "chunk_index": 1,
+          "break_type": "end"
+        }
+      ],
+      "cost_usd_known": 0.3012,
+      "calls_with_unknown_cost": 0,
+      "finish_reasons": [
+        "stop"
+      ]
+    },
+    "corrections": [
+      {
+        "id": "c001",
+        "chunk_id": 3,
+        "field": "english",
+        "original": "continually urging the citizens to look after one another",
+        "corrected": "continually urging the citizens to look to their own safety",
+        "latin": "Sunt ibi assidui praecones, qui eos sibi providere assidue hortantur.",
+        "reason": "sibi providere is reflexive (to take heed for themselves); the exposition makes the heralds preachers who denounce the people's sins (Clama, ne cesses). 'Look after one another' repeated the earlier 'Invicem sibi provident' and lost the point.",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-20T22:16:07Z"
+      },
+      {
+        "id": "c002",
+        "chunk_id": 8,
+        "field": "english",
+        "original": "He grows stiff as a corpse and dries up in the dust.",
+        "corrected": "He grows stiff as a corpse and clings to the dust.",
+        "latin": "Indurat in cadavere, adhaeret [f. arescit] in pulvere",
+        "reason": "The printed reading adhaeret makes sense as it stands; arescit is only the editor's 'forte' conjecture. The edition translates the printed text and records the conjecture in the notes (no emendation, pre-flight caution on Migne's conjectures).",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-20T22:16:07Z"
+      },
+      {
+        "id": "c003",
+        "chunk_id": 8,
+        "field": "notes",
+        "original": "The printed text includes the variant marker “adhaeret [f. arescit].” I translated the variant “arescit,” meaning “dries up,” because it fits both the Psalm quotation and the following image of dust. The Psalm numbering is translated as printed; in many modern Bibles this corresponds to a different Psalm numbering tradition.",
+        "corrected": " Correction (operator): the body text now follows the printed reading “adhaeret” (“clings to the dust”); the editor's conjecture “arescit” (“dries up”) is recorded here only.",
+        "latin": "adhaeret [f. arescit] in pulvere",
+        "reason": "note aligned with c002",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-20T22:16:07Z"
+      },
+      {
+        "id": "c004",
+        "chunk_id": 10,
+        "field": "english",
+        "original": "After that, redeem yourself through works of mercy.",
+        "corrected": "After that, redeem yourself by almsgiving.",
+        "latin": "Redime te postea eleemosynis.",
+        "reason": "eleemosynis is alms specifically; the following sentences (rich and poor, Lazarus at the gate) depend on it. 'Works of mercy' generalised the term.",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-20T22:16:07Z"
+      },
+      {
+        "id": "c005",
+        "chunk_id": 10,
+        "field": "notes",
+        "original": "The “Mary” associated with the sinful woman in the Gospel of Luke, chapter seven, reflects a common medieval identification, though the Gospel passage itself does not name her. “Redeem yourself through works of mercy” translates the penitential language of almsgiving; it should not be understood as denying that redemption is grounded in Christ’s blood, which the author has just emphasized.",
+        "corrected": " Correction (operator): “eleemosynis” is now rendered “by almsgiving”.",
+        "latin": "Redime te postea eleemosynis.",
+        "reason": "note aligned with c004",
+        "source": "operator",
+        "reviewing_model": null,
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-20T22:16:07Z"
+      }
+    ],
+    "attribution_note": "traditionally attributed to Hildebert of Lavardin"
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Two Cities and Their Peoples",
+      "latin": "DE DUABUS CIVITATIBUS DEI ET DIABOLI",
+      "english": "On the Two Cities of God and the Devil",
+      "notes": null,
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "quote",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "«Exite, popule meus, de Babylonia, ut ne participes sitis delictorum ejus, et de plagis ejus non accipiatis, quoniam pervenerunt peccata ejus usque ad coelum, et recordatus est Dominus iniquitatum ejus (Apoc. XVIII, 4).»",
+      "english": "The author begins with Scripture: “Come out of Babylon, my people, so that you do not share in her sins, and so that you do not receive any of her plagues. For her sins have reached all the way to heaven, and the Lord has remembered her injustices.” This is cited as the Book of Revelation, chapter eighteen, verse four.",
+      "notes": "The printed citation is Revelation 18:4. The wording also includes material corresponding to Revelation 18:5, but the citation is rendered as printed.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sunt ergo, fratres charissimi, in mundo duo regna, duo principes, et duae familiae. Alterum enim regnum Dei est; alterum diaboli. Familiae utriusque regni sibi semper adversantur, ab initio mundi. Regnum diaboli Babylonia nuncupatur. Regnum Dei, Jerusalem dicitur. Babylonia enim confusio interpretatur. Jerusalem autem, visio pacis. Sed de civitate Dei prius agamus: in hac civitate est fortis murus, de quo ait Propheta: «Urbs fortitudinis [nostrae] Sion, Salvator ponetur in ea murus (Isa. XXVI, 1);» et duodecim portae, sicut ostensum est Joannis in visione. Ait enim: «Et ostendit mihi angelus civitatem sanctam Jerusalem, quae habebat murum magnum, habentem portas duodecim (Apoc. XXI, 12).» Fundata est haec civitas supra montes. Unde David: «Fundamenta ejus in montibus sanctis (Psal. LXXXVI, 1).» Turris est ibi maxima, ad quam omnes habent refugium. De qua Salomon ait: «Turris David aedificata est cum propugnaculis; mille clypei pendent in ea (Cant. IV, 4).» Turris illa tangit coelos. Sunt et aliae multae turres, sed inferiores, de quibus ait David: «Fiat pax in virtute tua, et abundantia in turribus tuis, Jerusalem (Psal. CXXI, 7).» Nunquam est ibi nox, sed semper dies. Ait enim Joannes: «Non erit in ea nox (Apoc. XXI, 25),» sed semper sunt ibi vigiles speculatores, de quibus Ecclesia in Canticis: «Invenerunt me vigiles, qui custodiunt civitatem (Cant. III, 3).» Ipse etiam Dominus facit civitatem, et facit excubias, quia: «Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam (Psal. CXXVI, 2).» Nullae sordes in ea. Omnia munda et lucida; omnia florent, omnia redolent. Nulla ira, nulla discordia nulla probra, sed quaedam communio dilectionis. Tam bene cives illius civitatis curant aliena, sicut et sua. Invicem sibi provident, invicem admonent; aliorum damna sunt sua, aliorum dolorem sentiunt et relevant. Sunt ibi assidui praecones, qui eos sibi providere assidue hortantur. Nullum renuunt qui ad eos fugiat, sed tuentur. Omnes sibi alliciunt quos possunt. Nesciunt aliena vel accipere, vel concupiscere, sed sua passim tribuere. Nihil patiuntur nisi a civibus Babylonis, [cum quibus] semper est pugna. Inter eos cum quibus habitant, semper est pax Dei. Cibus eorum est, voluntati Domini sui obedire, et quae sit voluntas ejus quaerere. Fercula eorum sunt Domini praecepta, desiderabilia eis super aurum et topazion; et memores mandatorum ejus ad faciendum ea. Ardent in absentes, et eos diligunt. Imitari boni virtutem, et non invidere desiderant. Nullus moratur in ea nisi miles, quia militia est vita hominis super terram. Omnes semper armati, quia semper necesse est pugnare, cum hostes nesciant cessare, sed semper aut insidientur aut pugnent.",
+      "english": "So then, dearly beloved brothers, there are in this world two kingdoms, two rulers, and two households. One is the kingdom of God; the other is the kingdom of the devil. From the beginning of the world, the households of these two kingdoms have always opposed one another.\n\nThe kingdom of the devil is called Babylon. The kingdom of God is called Jerusalem. Babylon means “confusion.” Jerusalem means “vision of peace.”\n\nBut let us speak first about the city of God. In that city there is a strong wall. The prophet says of it: “Sion is our city of strength; the Savior will be placed in it as a wall.” This is cited as the book of Isaiah, chapter twenty-six, verse one. And this city has twelve gates, as was shown to John in his vision. John says: “The angel showed me the holy city, Jerusalem, which had a great wall and twelve gates.” This is cited as the Book of Revelation, chapter twenty-one, verse twelve.\n\nThis city is founded upon mountains. Thus David says: “Its foundations are on the holy mountains.” This is cited as Psalm eighty-six, verse one. There is also in it a very great tower, to which everyone may flee for safety. Solomon says of this tower: “The tower of David was built with defenses; a thousand shields hang upon it.” This is cited as the Song of Songs, chapter four, verse four. That tower reaches up to the heavens.\n\nThere are many other towers as well, though they are lower. David says of them: “May there be peace in your strength, Jerusalem, and abundance in your towers.” This is cited as Psalm one hundred twenty-one, verse seven.\n\nThere is never night in that city; it is always day. For John says: “There will be no night there.” This is cited as the Book of Revelation, chapter twenty-one, verse twenty-five. Yet there are always watchful guards there. The Church speaks of them in the Song of Songs: “The watchmen who guard the city found me.” This is cited as the Song of Songs, chapter three, verse three.\n\nThe Lord himself builds the city and keeps watch over it. As Scripture says: “Unless the Lord guards the city, the one who guards it keeps watch in vain.” This is cited as Psalm one hundred twenty-six, verse two.\n\nThere is no filth in this city. Everything is clean and bright. Everything blossoms; everything gives off fragrance. There is no anger, no discord, no disgrace, but rather a shared life of love. The citizens of that city care for what belongs to others just as carefully as they care for their own. They provide for one another and warn one another. Another person’s losses are their own losses. They feel another person’s pain, and they help relieve it.\n\nThere are constant heralds there, continually urging the citizens to look to their own safety. They reject no one who runs to them for refuge; instead, they protect such a person. They draw to themselves everyone they can. They do not know how to take or desire what belongs to another. Instead, they freely distribute what is their own.\n\nThey suffer nothing except at the hands of the citizens of Babylon, with whom they are always at war. Among the people with whom they live, however, the peace of God is always present.\n\nTheir food is this: to obey the will of their Lord and to seek to know what his will is. Their banquet dishes are the Lord’s commandments, more desirable to them than gold and topaz; and they remember his commandments in order to carry them out. They burn with longing for those who are absent, and they love them. They want to imitate the virtue of the good, not envy it.\n\nNo one dwells in this city unless that person is a soldier, because human life on earth is military service. All are always armed, because they must always fight. Their enemies do not know how to stop; they are always either laying traps or openly making war.",
+      "notes": "The printed citation Psalm 126:2 is rendered as printed, though the quoted wording corresponds to Psalm 126:1 in the Vulgate numbering. The wording “Sion is our city of strength” follows the evident sense of the printed Latin, including the bracketed “nostrae.”",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Audivistis, fratres, descriptionem civitatis, audivistis mores civium; sed ad majorem intelligentiam ejus est exponenda descriptio. Murus civitatis est custodia angelorum, quae nobis deputata est ad tutelam. Ipsa civitas est Ecclesia; duodecim portae sunt duodecim apostoli, qui praedicatione, vel scripto, credentibus aditum ad Deum dederunt. Fundata est super montes, quia fundata est super fundamentum apostolorum et prophetarum. Turris est refugii [Deus ipse,] de quo David: «Esto mihi in Deum protectorem, et in domum refugii in locum munitum (Psal. XXX, III).» Aliae turres sunt quilibet sancti virtutibus eminentes, et alios verbo et exemplo moventes. Non est ibi nox infidelitatis, de qua ait Apostolus: «Nox praecessit, dies autem appropinquavit (Rom. XIII, 12).» Vigiles sunt episcopi, sacerdotes, et alii praelati, qui circa oves Domini vigilant. Praecones sunt praedicatores, quibus dicitur: «Clama, ne cesses, quasi tuba exalta vocem tuam, et annuntia populo meo scelera eorum (Psal. LVIII, 1).»",
+      "english": "You have heard, brothers, the description of the city. You have heard the character of its citizens. But for a deeper understanding, that description must be explained.\n\nThe wall of the city is the guardianship of the angels, assigned to protect us. The city itself is the Church. The twelve gates are the twelve apostles, who by preaching and by writing opened the way to God for believers. The city is founded upon mountains because it is founded upon the foundation of the apostles and prophets.\n\nThe tower of refuge is God himself. David says of him: “Be for me a protecting God, and a house of refuge, a fortified place.” This is cited as Psalm thirty, verse three.\n\nThe other towers are the saints who stand out in virtue and who move others by their word and example. There is no night of unbelief in that city. The Apostle says of that night: “The night has passed; the day has drawn near.” This is cited as Paul’s letter to the Romans, chapter thirteen, verse twelve.\n\nThe watchmen are bishops, priests, and other leaders, who keep watch over the Lord’s sheep. The heralds are preachers, to whom it is said: “Cry out; do not stop. Lift up your voice like a trumpet, and announce to my people their crimes.” This is cited as Psalm fifty-eight, verse one.",
+      "notes": "The printed citation for “Cry out; do not stop...” is Psalm 58:1 and is spoken as printed. The quotation actually corresponds to Isaiah 58:1. The phrase “the Apostle” refers here to Paul.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Babylonia vero habet murum, legionem scilicet angelorum, id est malignorum spirituum; et quinque portas, id est quinque sensus corporis, quibus intratur ad confusionem. De quibus dicit David: «Qui exaltas me de portis mortis (Psal. IX, 15).» Non habet turrem, sed foveam tenebrosam, quae est desperatio, de qua cives Jerusalem neminem possunt eripere, et de qua scriptum est: «Peccator, cum venerit in profundum peccatorum, contemnit (Prov. XVIII, 3).» In hoc profundum cecidit prior diabolus. In hoc cecidit Judas et Judaei, qui sunt omnino excaecati et obstinati. In Babylonia semper est nox, id est caecitas cordis. Mores civium hujusmodi sunt: Amant et acquirunt divitias hujus mundi omnibus modis, furto, rapina, usura, sanguine, dolo. Student commessationibus, ebrietatibus, luxuriis. Nulla fides inter eos. Gaudent decipere non solum cives Jerusalem, etiam suos, et se ipsos. Omnibus ditioribus se invident. Gaudent damnis aliorum; nesciunt misereri. Loquuntur pacem cum proximo suo, mala autem in cordibus eorum. Mutuatur peccator, et non solvit. Non est in ore eorum veritas; cor eorum vanum est. Jurant proximo suo malum, et decipiunt, et munera super innocentem accipiunt. Hi in curribus, et hi in equis. Omnes declinaverunt; simul inutiles facti sunt. Non est qui faciat bonum, non est usque ad unum. In hac Babylonia omnes impii demorantur. Hi semper laborant, ut cives Jerusalem capiant, et multos ad se rapiunt.",
+      "english": "Babylon, by contrast, also has a wall: a legion of angels, that is, evil spirits. And it has five gates: the five senses of the body, through which one enters into confusion. David speaks of these gates when he says: “You lift me up from the gates of death.” This is cited as Psalm nine, verse fifteen.\n\nBabylon has no tower. Instead, it has a dark pit, which is despair. From that pit the citizens of Jerusalem cannot rescue anyone. Scripture says of it: “When the sinner has come into the depth of sins, he despises.” This is cited as the book of Proverbs, chapter eighteen, verse three.\n\nThe devil first fell into this depth. Judas fell into it, and so did the Jews who are completely blinded and hardened.\n\nIn Babylon it is always night; that is, there is blindness of heart. The character of its citizens is like this: they love and acquire the riches of this world by every means—by theft, robbery, usury, bloodshed, and deceit. They devote themselves to feasting, drunkenness, and sexual indulgence.\n\nThere is no trust among them. They take pleasure in deceiving not only the citizens of Jerusalem, but also their own people, and even themselves. They envy everyone richer than they are. They rejoice in other people’s losses. They do not know how to show mercy.\n\nThey speak peace with their neighbor, but evil is in their hearts. The sinner borrows and does not repay. There is no truth in their mouth; their heart is empty and false. They swear harm against their neighbor and deceive him. They accept bribes against the innocent.\n\nSome trust in chariots, and some in horses. All have turned aside; together they have become useless. There is no one who does good, not even one.\n\nAll the wicked dwell in this Babylon. They are always working to capture the citizens of Jerusalem, and they drag many people over to themselves.",
+      "notes": "The reference to “Judas and the Jews” reflects the polemical language of the Latin source; it has been translated without endorsement. Several sentences in this chunk echo biblical phrases, especially from the Psalms, but no explicit citations are printed in the source for those allusions.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "His clamat Dominus, dicens: Exite popule meus, de Babylonia. Sed, quia in eo duae familiae permistae sunt, quia boni et mali in mundo corporaliter versantur, determinati [f. indeterminati, seu dubii] [manent] quomodo exibunt, non corpore, sed mentis dissimilitudine. Et hoc est quod ait: Et ne participes sitis delictorum ejus, quoniam, si vitaveritis peccata, vitabitis et peccatorum tormenta. Et hoc est: Et de plagis ejus ne accipiatis, quia multa sunt flagella peccatoris, si non in praesenti, tamen in futuro. Sed alia sunt ad correctionem, alia sunt ad vindictam.",
+      "english": "To these people the Lord cries out, saying: “Come out of Babylon, my people.” But because the two households are mixed together in this world—because the good and the evil live side by side in bodily life—someone may be unsure how they are to come out. They do not come out by leaving bodily, but by becoming different in mind and heart.\n\nThat is what the Lord means when he says: “So that you do not share in her sins.” If you avoid the sins, you will also avoid the torments that come from the sins. And that is what he means when he says: “So that you do not receive any of her plagues.” For many are the scourges of the sinner: if not in the present life, then certainly in the future. Some punishments are for correction; others are for vengeance.",
+      "notes": "The printed text reads “determinati,” with an editorial suggestion “indeterminati, seu dubii,” and a supplied “manent.” The translation follows the evident intended sense: “some may be uncertain.” The final sentence distinguishes disciplinary correction from punitive judgment.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Infirmitates corporales, damna rerum sunt ad correctionem. Mors vero aeterna, ad vindictam. «Stipendium enim peccati,» ut ait Apostolus, «mors» aeterna (Rom. VI, 23). Cum autem ait: «De plagis ejus non accipietis,» de poenis infernalibus intelligendum est, quia temporales communes sunt. Haec autem Babylonia [Col. 0866B] revera plagas recipit, quia pervenerunt peccata ejus usque ad coelum, id est usque ad notitiam Dei. Dicitur Deus ignorare peccata, quando non punit ea. Dicitur recordari, quando pro culpis datur poena. Propterea ait: «Recordatus est Deus iniquitatum ejus.» Vos ergo, fratres charissimi, qui a principibus Babyloniae et a civibus ejus decepti estis, et in captivitatem ibi redacti, exite per poenitentiam. Rumpe vincula colli tui, captiva filia Sion, et quare, domus Israel, moriemini? Datum est pretium redemptionis tuae; effusus est sanguis Christi, et tu in carcere demoraris! Ostendunt tibi Babylonii falsas divitias, ut [eas] diligas, et Creatorem tuum deseras. Audi quomodo increpet te Moyses: «Deum qui te genuit dereliquisti, et oblitus es Domini Creatoris tui [Col. 0866C] (Deut. XXXII, 18).»",
+      "english": "Bodily sicknesses and the loss of possessions are punishments meant to correct us. Eternal death, however, is punishment by way of vengeance. As the Apostle says in Paul’s letter to the Romans, chapter six, verse twenty-three: “The payment for sin is death”—that is, eternal death. So when Scripture says, “You will not receive any of her plagues,” we should understand this as referring to the punishments of hell, because temporary sufferings are common to everyone. But this Babylon really does receive plagues, because her sins have reached all the way to heaven—that is, they have come to God’s knowledge. God is said to “ignore” sins when he does not punish them. He is said to “remember” them when punishment is given for guilt. That is why Scripture says, “God remembered her injustices.” So then, dearly beloved brothers, you who have been deceived by the rulers of Babylon and by her citizens, and who have been led there into captivity: come out through repentance. Break the chains from your neck, captive daughter of Zion. And why, house of Israel, will you die? The price of your redemption has already been paid. The blood of Christ has been poured out. And yet you remain in prison! The Babylonians show you false riches, so that you will love them and abandon your Creator. Listen to how Moses rebukes you in the book of Deuteronomy, chapter thirty-two, verse eighteen: “You have abandoned the God who gave you birth, and you have forgotten the Lord, your Creator.”",
+      "notes": "The column markers are editorial and are not translated. The phrase “God remembered her injustices” alludes to the earlier Revelation passage discussed in the previous chunk.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Derelinquat impius viam suam, et vir iniquus cogitationes suas, et revertatur ad Dominum, et miserebitur ejus. Recordare, quia «omnis caro fenum, et omnis gloria ejus sicut flos agri (Isa. XL, 6).» Et quomodo caro sit fenum, determinat David, cum ait: «Mane floreat, et transeat; vespere decidat, induret et arescat (Psal. LXXXIX, 6).» Quod dicitur: Homo mane, id est in pueritia, et in juventute floret; sed in vespere decidit. Indurat in cadavere, adhaeret [f. arescit] in pulvere; quia post hominem cadaver, post cadaver vermis, post vermem cinis efficitur. Hoc ad hominem dicitur. Quid autem de labore quem exercemus in temporalibus? «Anni [nostri] sicut [Col. 0866D] aranea meditabuntur (Psal. LXXXIX, 10),» id est nos viventes annis araneae comparamur. Quid facit aranea? Viscera sua consumit ut faciat telam, et in ea tantum laborat, ut capiat vilem praedam, scilicet muscas. Similiter homines hujus mundi corpora consumunt, laborando, eundo per multa pericula, et vilem mercedem acquirendo, id est transeuntia.",
+      "english": "Let the wicked abandon his way, and the unjust person abandon his thoughts. Let him return to the Lord, and the Lord will have mercy on him. Remember what Scripture says in the book of Isaiah, chapter forty, verse six: “All flesh is grass, and all its glory is like the flower of the field.” And David explains how flesh is like grass when he says in the Book of Psalms, Psalm eighty-nine, verse six: “In the morning it blooms and passes away; in the evening it falls, grows stiff, and dries up.” This means that a human being blooms in the morning—that is, in childhood and youth. But by evening he falls. He grows stiff as a corpse and clings to the dust. For after the living person comes the corpse; after the corpse, the worm; after the worm, ashes. That is said about the human person. But what about all the labor we spend on earthly things? Scripture says in the Book of Psalms, Psalm eighty-nine, verse ten: “Our years will be spent like the spider.” That is, as long as we live, our years are compared to a spider’s work. What does a spider do? It consumes its own insides to make a web, and it works so hard on that web only to catch cheap prey—flies. In the same way, the people of this world wear out their bodies by working, passing through many dangers, and earning a worthless reward: things that pass away.",
+      "notes": "The printed text includes the variant marker “adhaeret [f. arescit].” I translated the variant “arescit,” meaning “dries up,” because it fits both the Psalm quotation and the following image of dust. The Psalm numbering is translated as printed; in many modern Bibles this corresponds to a different Psalm numbering tradition.  Correction (operator): the body text now follows the printed reading “adhaeret” (“clings to the dust”); the editor's conjecture “arescit” (“dries up”) is recorded here only.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "O miseri! Relinquent alienis divitias suas, et sepulcra eorum domus illorum in aeternum, quoniam cum dives interierit, non sumet omnia, neque descendet cum eo gloria ejus. Ostendimus, fratres, quia homo, et res humanae transitoriae sunt; et ideo a Babyloniis per falsas divitias nolite decipi, sed [ab eis] exite per poenitentiam, nec de uno solo peccato poeniteamini, sed de omnibus. Qui plura peccata [Col. 0867A] habet, nisi omnia praeter unum dimittit, similis est ei qui ligatus multis catenis, omnes praeter unam rumpit, et tamen illa sola ad illum ligandum sufficit. Similis est etiam naviganti, qui habet multa foramina in navi, nisi omnia praeter unum obturet, per illud aqua submittitur, et ad ima deducit. Similis est et illi qui habet multas sagittas in corde, si aliis extractis, una remaneat, illa sola erit causa mortis. Sic qui habet multa criminalia peccata, nisi omnia dimittat praeter unum, illud solum est causa damnationis. Valet quidem quaedam dimittere, ut leviorem poenam in inferno recipiat, sed non valet ut ad salutem veniat. Ita qui quaedam dimittit, et non omnia, non exit de Babylonia, sed tamen portae quasi vicinus est, et [ad egrediendum] paratior.",
+      "english": "How miserable they are! They will leave their riches to strangers, and their tombs will be their homes forever. For when the rich person dies, he will not take everything with him, and his glory will not go down with him. Brothers, we have shown that human beings, and all human affairs, are passing away. So do not let the Babylonians deceive you with false riches. Come out from them through repentance. And do not repent of only one sin, but of all of them. If someone has many sins and gives up all but one, he is like a man bound with many chains who breaks every chain except one—and that one chain is still enough to hold him. He is also like a sailor whose ship has many holes: if he stops up every hole except one, water still comes in through that one hole and drags the ship down to the bottom. He is also like someone with many arrows in his heart: if all the others are pulled out but one remains, that one arrow alone will cause his death. In the same way, if someone has many deadly sins and gives up all but one, that one sin alone is enough to condemn him. Yes, giving up some sins has value, because it may bring a lighter punishment in hell. But it does not bring a person to salvation. So anyone who gives up some sins, but not all, has not yet come out of Babylon. Still, he is near the gate, so to speak, and more ready to leave.",
+      "notes": "“Criminalia peccata” is rendered as “deadly sins,” referring to grave sins that bring condemnation if not repented of. “Submittitur” is translated according to the evident sense: water enters the ship and sinks it.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "[Col. 0867B] Multa peccaverat Maria, et multum flevit, et dimissa sunt ei peccata multa, quoniam dilexit multum (Luc. VII). In uno peccavit Petrus, quia Dominum negavit, et unum flevit. Tantum ergo plora quantum deliquisti. Si unum, unum, si multa, multa. Vis solvi? rumpe catenas. Redime te postea eleemosynis. Voluit enim Dominus, ut alii divites, alii pauperes essent. Si omnes divites essent, in quibus peccata sua redimerent homines non haberent. Positus est Lazarus ante januam divitis, ut videat in quo peccata redimat. Manet ergo inexcusabilis, cum nihil pauperi tribuit. Lavabis te in flumine misericordiae, ut qui exis de Babylonia, in Jerusalem merearis recipi. Dominus autem qui habitat in Jerusalem, mittat nobis auxilium de sancto, [Col. 0867C] et de Sion tueatur nos. Qui vivit et regnat Deus per omnia saecula saeculorum. Amen.",
+      "english": "Mary had sinned much, and she wept much; and many sins were forgiven her, because she loved much, as we read in the Gospel of Luke, chapter seven. Peter sinned in one thing, because he denied the Lord; and he wept over that one thing. So weep in proportion to your guilt. If your sin is one, weep for one. If your sins are many, weep for many. Do you want to be set free? Then break your chains. After that, redeem yourself by almsgiving. For the Lord willed that some people should be rich and others poor. If everyone were rich, people would have no one through whom they could redeem their sins. Lazarus was placed at the rich man’s gate so that the rich man could see in whom he might redeem his sins. Therefore he remains without excuse, since he gave nothing to the poor man. Wash yourself, then, in the river of mercy, so that, after coming out of Babylon, you may be worthy to be received into Jerusalem. And may the Lord who dwells in Jerusalem send us help from his holy place and protect us from Zion: he who lives and reigns as God forever and ever. Amen.",
+      "notes": "The “Mary” associated with the sinful woman in the Gospel of Luke, chapter seven, reflects a common medieval identification, though the Gospel passage itself does not name her. “Redeem yourself through works of mercy” translates the penitential language of almsgiving; it should not be understood as denying that redemption is grounded in Christ’s blood, which the author has just emphasized.  Correction (operator): “eleemosynis” is now rendered “by almsgiving”.",
+      "source_chunk_index": 1
+    }
+  ]
+}
