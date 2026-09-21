@@ -1,0 +1,39 @@
+01: inquiserat(?) aeternaliter perditum. et a deo(?) dampnationem.
+02: quoscumque potest secum ad perpetuum et sine fine man-
+03: surum pertrahat interitum. Nos ergo omnes quibus diui-
+04: na(?) uoluntas et facultas(?) \est(?)/. et ad beatissimi confesso-
+05: ris ill. sollempnia deuotissime celebranda humiliter
+06: uenimus. ab huius seuissimi hostis et totius huma-
+07: ni generis a mundi initio semper inimici perfidia ca-
+08: ueamus. ne nos ulla sua astutia corrumpat. non
+09: uenenosa persuasione decipiat. nec a cordibus
+10: nostris radicem bone intentionis. qua huc ducente
+11: confluimus. ullo modo euellat; Sit in nobis \dilectissimi(?)/{later} fides {margin: lc. ⟨…⟩}
+12: perseuerans. spes inconcussa. caritas indeficiens.
+13: quibus perspicuis(?) uirtutibus. ita beati et gloriosi
+14: confessoris ill. animus exuberauit. igne sancti spiritus
+15: accensus. ut nulla mundi pompa. nulla regum
+16: uel principum gloria. nulla propinquorum uel adfini-
+17: um uoluptuosa gratia eum a fide christi. a spe bea-
+18: te repromissionis. a caritate dei. qui se ob mun-
+19: di redemptionem passibilem exhibuit. auertere
+20: possent. Qui christi coheres factus. inter igni-
+21: tos residet angelorum choros. socius apostolorum.
+22: consors martirum. collega confessorum.
+23: amicus uirginum. conciuis patriarcha-
+24: rum et prophetarum. quippe peccatoribus ut resi-
+25: piscant. (run-over)
+
+NOTES:
+01: first word very faded, begins in the inner margin: "inquiserat" / "inquiserent" / "in quis erat" all possible; only "inqui-s-er-t" reasonably seen. "et a deo": written "& a dō" with bar over o; could also be "et ad o(mnem)" or "ad eorum"; the bar-over-o form read as deo(?). "dampnationem": final -em from a suspension stroke at the line end, faded.
+02: "potest" with tall st-ligature; wide gap after it (rough parchment), no text lost.
+03-04: "diui-" at line end with a bar over the last minims; line 04 starts faintly in the inner margin with two or three letters read "na" (could be "sit" or "ta"). Alternatives: "diuina uoluntas", "diui(ni)tus sit uoluntas".
+04: "facultas est": main line shows "fac..." ending in a tall st-ligature (like "potest" in 02) with small letters written above (read as part of -ultas / or "as"); I cannot separate securely what is on the line and what is added. Alternatives: "facul\tas/ est", "facultas \est/", "faciest" as written. Punctuation after it looks like a punctus elevatus; rendered ".".
+05: "humilit" with bar = humiliter.
+11: "ullo modo": the second o of "modo" written above the line (mo\d/o or m\o/do) by the main hand, not flagged as addition of words. Small lighter-brown interlinear word above "nobis"/before "fides", read "dilmi" = dilectissimi(?) (alt. "dilecti"), later hand. Right margin: a faded brown lection mark, "lc." or "L" with following sign; number illegible.
+13: "pspicu-" with per-bar; ending unclear (looks like -ur/-is with a flourish): perspicuis / perspicue.
+14: a small superscript sign over "anim" read as -us sign (animus); above "ill." nothing certain seen.
+16: a small mark below the line between "nulla" and "propinquorum" (possibly a caret/correction "e" or stray); "propinquorum" begins with pro-sign p. "uel adfini-": "ad" has an ascender with a stroke, read adfini-/um.
+18: line starts in margin "te" with e-caudata (beate).
+20-21: "inter igni-/tos": "int" with bar; "tos" at start of 21 in the margin, small.
+25: run-over "piscant." preceded by a bracket, at lower right.

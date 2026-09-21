@@ -1,0 +1,48 @@
+01: et bene placens et perfecta. Hec est autem(?) uoluntas ut be-
+02: ne facientes obmutescere faciatis imprudentium
+03: {margin: lc. iii} hominum ignorantiam. Quidam etiam quibus consur(?)-
+04: git aut languor corporis. aut menbrorum debili-
+05: tas. sicut sunt ceci. claudi. muti. et surdi. para-
+06: litici quoque. atque lunatici. inmundorumque spirituum
+07: seua crudelitate. et ira uexati. ad tam confesso-
+08: {hole} ris ill. preclaram festam confluunt. ut quod(?)
+09: {hole} adhuc in carne uiuentium hominum
+10: aut medicinis aut quibuscumque adminiculis obti-
+11: nere non possunt. meritis et intercessione illius
+12: qui in lege domini ambulauit. et in uia peccatorum non
+13: stetit. et in cathedra pestilentie hoc est in iudi-
+14: tio iniquorum non sedit. ualeant impetrare.
+15: {margin: lc. iiii} Nonnulli interea cum luminaribus diuersisque
+16: oblationibus ad sacra ecclesie(?) oratoria festinant.
+17: et simul cum aliis diuinam exorant clementiam. Haben-
+18: tes intrinsecus possessorem diabolum. qui non per-
+19: mittit eos dei oboedire mandatis. nec inpo-
+20: nere finem peccatis suis. sed magis exardescit(?)
+21: \in/{later} illos. per singula delicta. quosdam ad auaritiam.
+22: quosdam ad superbiam. alios ad luxuriam atque inuidiam.
+23: alios ad iram hac homicidia. multosque ad furta
+24: et sacrilegia. et ad omnia \a/{later}(?) prorsus \uitia(?)/{later} iniquitatis
+
+NOTES:
+01: "Hec ē aū": read "Hec est autem"; the abbreviation after "est" is faded (aū with bar = autem; "enim" not excluded). No "dei" seen after "uoluntas". Line end "be-" runs into the gutter.
+02: "imprudentium": last letters in the gutter curve, -um seen compressed.
+03: line end in the gutter: letters seen "consu" + one tall/compressed letter; "consur-/git" read, "contin-/git" considered but a long s seems to follow the n. Margin mark faded red: "Lc. iii".
+04: "menbrorum" so spelled (n, not m); "debili-" last letters squeezed at gutter.
+07: "ad tā" with bar over a = "ad tam"; agrees with "preclaram festam" (both with nasal bars) in line 08. "tanta" considered and rejected (only t + a with bar).
+08: "preclarā festā": bars above both final a's seem clear though faded. Line end "ut qd" with a sign above q: "quod" read; "quid"/"quidem" not excluded. Large hole plus small hole at line start (lines 08-09); scribe wrote around them; nothing lost.
+09: "uiuentium": middle letters faded (uiuen-ti-um).
+10: "obti-" end in gutter, -ti- partly hidden.
+11: "illius" compressed in gutter (written out, not "ill.").
+12: "non" at line end small, in gutter.
+13: "in iudi-/tio": could be read "inuidi-"; minims ambiguous; taken as "in iuditio" (spelled with t on line 14).
+15: margin mark faded red "Lc. iiii".
+16: word after "sacra": faded first letter, then c c, l with a cross-stroke, e-caudata: read "eccl(esi)e"; at first glance looks like "recte". Ending -e from e-caudata.
+17: an oblique stroke (paragraph/pause mark) stands before "Haben-"; punctuation after "clementiam" looks like a punctus elevatus.
+18/19: "per-" = p with bar through descender at line end, in gutter.
+19: "inpo-" : could be "impo-" (minims; read n+p "necinpo").
+20: "exardescit": last two letters in the gutter, -it uncertain (could be -et / -er[e]).
+21: "in" stands in the left margin in lighter brown-red ink, apparently a later supply for "exardescit in illos".
+22: "inuidiam": end in gutter, bar not clearly seen.
+23: "hac" so written (= ac). "furta" end in gutter.
+24: above/after "omnia" (written om̄a) a small superscript "a" preceded by a dot, lighter ink - either a correction of the ending or a reference sign. Above "iniquitatis", in lighter brown ink with a curved insertion stroke before "iniquitatis": minims + t + a, read "uitia" (uncertain; followed by a crossed a-like sign that may pair with the ".a" sign after "omnia", in which case the addition may belong after "omnia"). Text continues on the next page.
+Line count: the block has 24 written lines (not 22); no run-over seen.

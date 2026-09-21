@@ -1,0 +1,36 @@
+01: ›SERMO IN NATA-‹
+02: ›LE UNIUS(?) CONFESSORIS.‹
+03: FRATRES KARISSIMI qui ad celebrandam {hole} {margin: lc. i}
+04: festiuitatem sacr[[i]]\o/ sancti confessoris {hole}
+05: ill. \Aderaldi/{later} certatim concurritis. qua intentione
+06: atque deuotione huc conueni\a/{later}tis. considerare
+07: adtentissime debetis. Non enim una omnibus est
+08: intentio. nec similis deuotio. licet una omnibus
+09: sit istius diei celebratio. Quidam enim ueniunt {margin: lc. ii}
+10: ut obtentu precum magnifici confessoris ill.
+11: malos mores preteritorum actuum mutent. in qui-
+12: bus diu uixisse \eos(?)/{later} pudet. et transeant de tenebris
+13: ad lumen. de falsitate ad ueritatem. de iniusticia
+14: ad iusticiam. ac de uiciis ad uirtutes. secundum
+15: quod apostolus paulus monet dicens. Obsecro uos per
+16: misericordiam dei. ut exhibeatis corpora hostiam uiuen-
+17: tem. sanctam. deo placentem. rationabile obsequium uestrum.
+18: Et nolite conformari huic seculo. sed reformami-
+19: ni in nouitate sensus uestri. ut probetis que sit uoluntas
+20: dei bona (run-over)
+
+NOTES:
+01: The first half of this manuscript line ("celum diues ingreditur;") belongs to the preceding text and is not transcribed. Rubric in red capitals, NATA- / LE divided across the lines.
+02: Second word of the rubric is faint: letters read as V N(H-shaped) I V S = "unius"; alternative considered "cuius". A point/tick follows CONFESSORIS.
+03: "FRATRES KMI" in small capitals after a large red initial F (the R-A-T partly ligatured); "KMI" with abbreviation = karissimi. "celebrandam" with nasal bar on the final a. A hole follows; writing visible inside it ("... non", "...bus") belongs to another leaf and is ignored. Nothing of this page seems lost.
+04: "sacri" has a point under the final i and a small o above it (brownish ink): correction sacri -> sacro; whether by the main scribe or the later hand is unclear. Hole after "confessoris".
+05: Small, pale orange-brown word above/after "ill.": read "Aderaldi" followed by a point; first letters faint (A-d-e-r-a-l-d-i), alternative "Adraldi". Punctus elevatus after "concurritis" given as ".".
+06: "deuotione": a faint short stroke follows/overlies the final e (possibly an erased or very faint nasal bar = deuotionem(?)); I read deuotione. Small "a" in orange-brown ink above the "it" of "conuenitis", giving conueniatis; main-hand reading is "conuenitis".
+07: "omnibus": the initial o is blotted/filled with ink. Enlarged N in "Non" with a red-brown dot inside.
+08: "omnibus" here written "omibus" with bar.
+11: "mores": the letters "re" appear written over a correction/erasure (looks like "mor res" with a smudge); read mores. "preteritorum" = p with bar above + -orum sign.
+12: Small superscript between "uixisse" and "pudet" in lighter ink: "e" followed by a sign, read "eos(?)"; alternatives "eis", "eum", or a Tironian/ampersand-like "et". A small tick stands above the a of "transeant" (besides the nasal bar).
+16: "corpora" not followed by "uestra" on the page. "uiuen-" at line end, "tem" with bar on line 17.
+17: "uestrum" abbreviated "urm" with bar, at the line end toward the edge.
+19: "sens" with a 2-shaped/hooked sign above = sensus (sign shape closer to the -ur sign, but sense and form require -us) hence best form "sensus"; "uri" with bar = uestri. "innouitate": a dark blot over the final "te". "probetis": p with curl to the left = pro. "que" = q with e (que, for quae).
+20: Run-over below the last line at the right, preceded by a bracket-like paraph sign and a point: "di" with bar = dei, "bona".

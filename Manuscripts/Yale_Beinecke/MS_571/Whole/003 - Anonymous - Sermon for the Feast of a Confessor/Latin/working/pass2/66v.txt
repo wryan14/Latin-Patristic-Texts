@@ -1,0 +1,31 @@
+01: amalo . pulsis ut perseuerent inbono exor-
+02: atque pro totius catholice statu ecclesie incessa-
+03: biliter implorat ; Nos autem fratres dilectis-
+04: simi . qui inter mundi huius incerta tempo-
+05: ra . que nunc pacis . nunc sunt aduersitatibus
+06: com [[...]] moramur ; Et ad hanc sollempnitat-
+07: diem recolendam aduenimus . \curent summopere/{later} ut sicut ipse per
+08: dominum abiit . ita et nos post ipsius uestigia am-
+09: bulemus . lacrimabiliter deprecemur ; Ueneremur
+10: in illo gratiam redemptoris . qui pro laude sui
+11: confessoris glorificatione . operatur miracu- \consequi/{later}
+12: la martyris ; Prestet et diuina ab eo bene-
+13: ficia . que per ipsum dominum ab illo obtineamus mul-
+14: {margin: lc. viii.} decelis . Sunt uero inter nos multi qui
+15: nesciunt qualia ista sint dona . que nobis per
+16: celestis administrat clementia ; Et hec non
+17: nostris meritis . sed illorum quibus admixti
+18: incliti confessor ill. \aderaldi/{later} et cum quibus pro nostris
+19: interuenit necessitatibus ; Sed siquis igno-
+20: rans que sint ista interroget . responden-
+21: dum est unicuique docto uiro et sapienti
+22: dicendum omni insipienti ; Quia primu-
+23: dei gratia in hoc est in nobis . quod nos cum non es-
+24: semus potenter condidit . et perditos propri-
+25: (run-over) ⟨...⟩
+
+NOTES:
+Line 01: "pulsis" (or "piusis") is somewhat ambiguously written; the third letter is tall and straight like an 'l', so "pulsis" is transcribed.
+Line 05: The end of the line runs into the binding/edge; "aduersitati" is clear, followed by traces of a 'b' and semicolon-like mark, confirming "aduersitatibus".
+Line 06: An erasure exists between "com" and "moramur". The right edge abbreviates "sollempnitatis", rendered here with a hyphen as "sollempnitat-" since "diem" follows on L07.
+Line 10: Punctuation after "redemptoris" is a punctus versus, but standardising strictly to "." or ";"

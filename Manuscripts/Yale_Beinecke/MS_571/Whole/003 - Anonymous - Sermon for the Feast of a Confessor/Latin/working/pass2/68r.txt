@@ -1,0 +1,30 @@
+01: christi ut eum sequamur. exhibentes corpora nostra hos-
+02: tiam uiuentem. sanctam deo placentem. et crucifiga-
+03: mus carne hominem. non in commessationibus
+04: et ebrietatibus. non in cubilibus et impudicitiis. non
+05: in contentione et emulatione. sed induamur dominum
+06: ihesum christum. qui omnes uult saluos fieri. et ad agni-
+07: tionem ueritatis uenire. Ante cuius miseri- {margin: Tu autem.}
+08: cordissimam faciem humiliter et deuotissime
+09: nos prosternamus. eique innumeras laudes et gratias
+10: referamus. qui {hole} nos in tantas perturbationes
+11: seculi huius. usque consolatus est. atque de gladiis \+ nunc/
+12: paganorum. et de manibus persequentium clemen-
+13: ter eripuit. nosque peccantes non statim puniit.
+14: sed sicut piissimus dominus patienter sustinuit. cla-
+15: mans per prophetam Nolo mortem peccatoris.
+16: sed ut conuertatur et uiuat. Illum laudemus et
+17: benedicamus. qui nobis huius insperate pacis
+18: largitus est. eiusque deprecemur. ut nos qui populus
+19: eius et oues pascue illius. et opus manuum eius
+20: sumus. sua gubernatione per sanctorum suorum ora-
+21: tiones custodiat. Nec p{hole}mittat nos
+22: bello uirorum fatigari. {hole} sed potius
+23: tranquillitate uti et {hole} eum frua⟨...⟩
+
+NOTES:
+- 07: `miseri-` could potentially be an unusual abbreviation for `misericordiam`, but follows directly into `cordissimam` on the next line. `Tu autem.` in the margin is slightly smaller but appears to be the same hand.
+- 11: `\+ nunc/` inserted at the end of the line.
+- 18: Words visible beyond the right edge (`id est domini` etc.) belong to the underlying leaf and have not been transcribed.
+- 21: `Nec p{hole}mittat`: The hole interrupts `permittat`; the abbreviation stroke for `per` is visible on the `p`.
+- 23: `frua⟨...⟩`: The word is cut off by the irregular lower edge of the parchment; what looks like `dubio` below it belongs to the underlying leaf.

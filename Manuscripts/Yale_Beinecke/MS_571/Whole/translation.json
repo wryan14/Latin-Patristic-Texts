@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "volume_id": "MANUSCRIPT",
+    "title": "Anonymous Sermon for the Feast of a Confessor, Later Associated with St. Aderald of Troyes",
+    "latin_title": "Sermo in natale unius confessoris",
+    "author": "Anonymous",
+    "century": "10th century",
+    "source": "Manuscript: Yale University, Beinecke Rare Book and Manuscript Library, MS 571, ff. 65r–69v — Bibliothecarius Modernus transcription",
+    "translator": "openai/gpt-5.5",
+    "translation_date": "2026-09-20",
+    "total_chunks": 14,
+    "estimated_duration_minutes": 15,
+    "known_issues": [
+      "Several places in the transmitted text appear corrupt or incomplete, especially around folios 66r, 67r, and 67v. I have translated the evident sense where possible and noted the uncertainty in the relevant chunks.",
+      "The phrase “et nos a celorum beata et felitia perducat” appears corrupt; the translation follows the evident intended sense, “lead us to the blessed and joyful places of heaven.”",
+      "The abbreviation “ill.” in the saintly intercession formula is uncertain; it may stand for a form of “ille” or “illustris,” or reflect a damaged or abbreviated exemplar. The translation avoids naming a specific saint beyond the text’s general designation as confessor and bishop.",
+      "The abbreviation “ill.” is printed repeatedly in connection with the confessor. It may stand for “illius” or function as a placeholder for a saint’s name. I have translated it contextually as “this holy confessor” or “the holy confessor.”",
+      "The sermon quotes or alludes to Scripture frequently, but the source text provides no formal chapter-and-verse citations. I have not added chapter-and-verse references where the Latin does not print them."
+    ],
+    "source_kind": "bibliothecarius-transcription",
+    "source_provenance": {
+      "kind": "bibliothecarius-transcription",
+      "license": "CC0-1.0",
+      "creator": "Bibliothecarius Modernus",
+      "date": "2026-09-20",
+      "version": "1.0",
+      "repository": "Yale University, Beinecke Rare Book and Manuscript Library",
+      "shelfmark": "MS 571",
+      "part": "",
+      "folios": "65r–69v",
+      "short_label": "Beinecke MS 571",
+      "catalog_url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms571.htm",
+      "digitization_url": "https://collections.library.yale.edu/catalog/17418520",
+      "iiif_manifest": "https://collections.library.yale.edu/manifests/17418520",
+      "source_image_url": "https://collections.library.yale.edu/iiif/2/17418950/full/full/0/default.jpg … 17418959",
+      "method": "two independent visual readings per side + reconciliation of every disagreement on the image + operator read (see transcription_provenance.json)",
+      "normalization": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0; reading text = final transmitted wording, first state in APPARATUS.md",
+      "transcription_standard": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+      "review_status": "fully-reviewed",
+      "transcription_status": "reconciled; uncertain passages present; not curator-verified",
+      "image_rights": "Yale Open Access policy for public-domain collections (read 2026-09-20); the item record carries Yale's generic notice; images are not CC0",
+      "image_rights_short": "Yale Open Access policy (read 2026-09-20)",
+      "textual_units": [
+        {
+          "id": "ms-yale-beinecke-571-003",
+          "title_latin": "Sermo in natale unius confessoris",
+          "folios": "65r–69v",
+          "rubric": "Sermo in natale unius confessoris"
+        }
+      ],
+      "repository_short": "Beinecke Library, Yale University",
+      "image_rights_card": "Yale open-access policy"
+    },
+    "manuscript_object_id": "ms-yale-beinecke-571",
+    "textual_units": [
+      {
+        "id": "ms-yale-beinecke-571-003",
+        "title_latin": "Sermo in natale unius confessoris",
+        "folios": "65r–69v",
+        "rubric": "Sermo in natale unius confessoris",
+        "author": "Anonymous"
+      }
+    ],
+    "catalog_id": "ms-yale-beinecke-571",
+    "project_id": "sermo-in-natale-unius-confessoris-20260921",
+    "metadata_written_by": "pipeline/translate.py",
+    "rights": {
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_status": "declared",
+      "scope": "English translation, notes, chapter titles, subtitles and this metadata (Bibliothecarius Modernus contributions)",
+      "source_text": "Latin: J.-P. Migne, Patrologia Latina (1844–1865), public domain; reproduced as extracted for the parallel text; no rights claimed",
+      "attribution_requested": "Bibliothecarius Modernus (courtesy, not a licence condition)",
+      "declared_on": "2026-09-13"
+    },
+    "translator_model": "openai/gpt-5.5",
+    "provenance": {
+      "translator_model": "openai/gpt-5.5",
+      "provider": "openrouter",
+      "max_chunk_chars": 9000,
+      "source_chunks": 2,
+      "response_format": "json_schema:strict",
+      "prompt_sha256": "0f619db56579ca00c00d95b6d3d34cb8f0ec6023cfc868bfc2d083e61f9bf1d5",
+      "calls": [
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789961643-XcfuPsc5rXhhvbvkVspk",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 70.7,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 4869,
+            "output_tokens": 6049,
+            "cached_input_tokens": 3840,
+            "reasoning_tokens": 516,
+            "total_tokens": 10918,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.188535,
+          "latin_chars": 8682,
+          "chunk_index": 0,
+          "break_type": "sentence"
+        },
+        {
+          "model_requested": "openai/gpt-5.5",
+          "model_returned": "openai/gpt-5.5",
+          "provider": "openrouter",
+          "request_id": "gen-1789961713-X5CEwlOYf5mZuD6GJ0ZY",
+          "finish_reason": "stop",
+          "native_finish_reason": "completed",
+          "duration_s": 24.9,
+          "retries": 0,
+          "usage": {
+            "input_tokens": 2775,
+            "output_tokens": 1772,
+            "cached_input_tokens": 0,
+            "reasoning_tokens": 516,
+            "total_tokens": 4547,
+            "web_search_calls": null,
+            "characters": null,
+            "audio_seconds": null,
+            "images": null
+          },
+          "cost_usd": 0.067035,
+          "latin_chars": 1570,
+          "chunk_index": 1,
+          "break_type": "end"
+        }
+      ],
+      "cost_usd_known": 0.2556,
+      "calls_with_unknown_cost": 0,
+      "finish_reasons": [
+        "stop"
+      ]
+    },
+    "corrections": [
+      {
+        "id": "c001",
+        "chunk_id": 11,
+        "field": "english",
+        "original": "As Scripture says, he makes his sun rise",
+        "corrected": "He makes his sun rise",
+        "latin": "qui solem suum oriri facit super bonos et malos",
+        "reason": "'As Scripture says' is not in the Latin, which joins the allusion with a relative pronoun (reviewer r01-01)",
+        "source": "cross_review:r01-01",
+        "reviewing_model": "google/gemini-3.1-pro-preview",
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-21T03:37:38Z"
+      },
+      {
+        "id": "c002",
+        "chunk_id": 13,
+        "field": "english",
+        "original": "tearfully ask for the powerful prayers of this blessed confessor and most holy bishop",
+        "corrected": "tearfully ask for the prayers of this blessed confessor and most holy, illustrious bishop",
+        "latin": "beati confessoris atque pontificis sanctissimi ill. egregii suffragia lacrimabiliter imploremus",
+        "reason": "egregii is genitive singular and qualifies the bishop, not the suffragia (reviewer r01-02)",
+        "source": "cross_review:r01-02",
+        "reviewing_model": "google/gemini-3.1-pro-preview",
+        "operator_judgment": "confirmed",
+        "applied_at": "2026-09-21T03:37:38Z"
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "section_type": "chapter_heading",
+      "speaker": "announcer",
+      "chapter_title": "The Feast of a Holy Confessor",
+      "latin": "SERMO IN NATALE UNIUS CONFESSORIS.",
+      "english": "Sermon for the Feast Day of One Confessor.",
+      "notes": null,
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 2,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "[f. 65r] FRATRES KARISSIMI, qui ad celebrandam festivitatem sacrosancti confessoris ill. certatim concurritis, qua intentione atque devotione huc conveniatis considerare actentissime debetis. Non enim una omnibus est intentio nec similis devotio, licet una omnibus sit istius diei celebratio.",
+      "english": "Dearly beloved brothers, you have come eagerly to celebrate the feast of this most holy confessor. So you must think very carefully about the intention and devotion with which you have gathered here. For even though all of you are celebrating the same day, not everyone has the same intention, and not everyone brings the same devotion.",
+      "notes": "The folio marker is editorial and is not translated for audio. The printed “ill.” is treated as referring to the saint being celebrated.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 3,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quidam enim veniunt ut obtentu precum magnifici confessoris ill. malos mores preteritorum actuum mutent, in quibus diu vixisse eos pudet, et transeant de tenebris ad lumen, de falsitate ad veritatem, de iniusticia ad iusticiam ac de viciis ad virtutes, secundum quod apostolus paulus monet dicens: Obsecro vos per misericordiam dei ut exhibeatis corpora hostiam viventem, sanctam, deo placentem, rationabile obsequium vestrum. Et nolite conformari huic seculo, sed reformamini in novitate sensus vestri, ut probetis que sit voluntas dei bona [f. 65v] et bene placens et perfecta. Hec est autem voluntas ut bene facientes obmutescere faciatis imprudentium hominum ignorantiam.",
+      "english": "Some people come so that, through the prayers of this great confessor, they may change the evil habits of their past lives—habits they are now ashamed to have lived in for so long. They want to pass from darkness into light, from falsehood into truth, from injustice into righteousness, and from vices into virtues. As the apostle Paul urges: “I appeal to you, by the mercy of God, to present your bodies as a living sacrifice, holy and pleasing to God; this is your reasonable service. And do not be conformed to this age, but be renewed in the freshness of your understanding, so that you may discern what the will of God is: what is good, pleasing, and perfect.” And this is God’s will: that by doing good you may silence the ignorance of foolish people.",
+      "notes": "The passage combines language from Paul’s letter to the Romans and the first letter of Peter, but the Latin prints no formal citations. The folio marker is editorial and omitted from the spoken translation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 4,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Quidam etiam, quibus consurgit aut languor corporis aut menbrorum debilitas, sicut sunt ceci, claudi, muti et surdi, paralitici quoque atque lunatici, inmundorumque spirituum seva crudelitate et ira vexati, ad tam confessoris ill. preclaram festam confluunt, ut quod adhuc in carne viventium hominum aut medicinis aut quibuscumque adminiculis obtinere non possunt, meritis et intercessione illius qui in lege domini ambulavit et in via peccatorum non stetit et in cathedra pestilentie, hoc est in iuditio iniquorum, non sedit, valeant impetrare.",
+      "english": "Others suffer bodily sickness or weakness in their limbs. Some are blind, lame, mute, or deaf. Some are paralyzed or afflicted in mind. Some are tormented by the savage cruelty and rage of unclean spirits. These people gather for the splendid feast of this confessor so that, through his merits and intercession, they may obtain what they cannot obtain from living human beings, from medicines, or from any other human help. For he walked in the law of the Lord; he did not stand in the way of sinners; and he did not sit in the seat of corruption—that is, in the judgment of the wicked.",
+      "notes": "“Lunatici” is translated as “afflicted in mind” for clear modern audio while preserving the sense of a condition thought to involve periodic mental disturbance. The final sentence alludes to the opening of the Psalms but gives no printed citation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 5,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nonnulli interea cum luminaribus diversisque oblationibus ad sacra ecclesie oratoria festinant, et simul cum aliis divinam exorant clementiam, habentes intrinsecus possessorem diabolum, qui non permittit eos dei oboedire mandatis nec inponere finem peccatis suis, sed magis exardescit in illos per singula delicta: quosdam ad avaritiam, quosdam ad superbiam, alios ad luxuriam atque invidiam, alios ad iram hac homicidia, multosque ad furta et sacrilegia et ad omnia prorsus vitia iniquitatis [f. 66r] inquiserit aeternaliter perditum, et a deo dampnationem quoscumque potest secum ad perpetuum et sine fine mansurum pertrahat interitum.",
+      "english": "Meanwhile, some hurry to the holy chapels of the church with lights and various offerings, and together with others they beg for the mercy of God. Yet inside themselves they still have the devil as their possessor. He does not allow them to obey God’s commandments or to put an end to their sins. Instead, he burns more fiercely against them through each offense. He drives some toward greed, some toward pride, others toward lust and envy, others toward anger and murder, and many toward theft, sacrilege, and every kind of sinful vice. His aim is to make them eternally lost, condemned by God, and to drag with him, into everlasting and endless destruction, everyone he can.",
+      "notes": "The printed Latin becomes difficult at “inquiserit aeternaliter perditum...” The translation follows the evident sense: the devil seeks to ruin and drag others into eternal destruction. The folio marker is editorial and omitted from the spoken translation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 6,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nos ergo omnes, quibus dum licet voluntas et facultas est, et ad beatissimi confessoris ill. sollempnia devotissime celebranda humiliter venimus, ab huius sevissimi hostis et totius humani generis a mundi initio semper inimica perfidia caveamus, ne nos ulla sua astutia corrumpat, non venenosa persuasione decipiat, nec a cordibus nostris radicem bone intentionis, qua huc ducente confluimus, ullo modo evellat. Sit in nobis, dilectissimi, fides perseverans, spes inconcussa, caritas indeficiens, quibus perspicuis virtutibus ita beati et gloriosi confessoris ill. animus exuberavit igne sancti spiritus accensus, ut nulla mundi pompa, nulla regum vel principum gloria, nulla propinquorum vel adfinium voluptuosa gratia eum a fide christi, a spe beate repromissionis, a caritate dei, qui se ob mundi redemptionem passibilem exhibuit, avertere possent.",
+      "english": "Therefore, all of us who still have both the will and the ability, and who have come humbly to celebrate with deep devotion the solemn feast of this blessed confessor, must beware of the treachery of this most savage enemy. From the beginning of the world he has always been the enemy of the whole human race. Let us be careful that he does not corrupt us by any trick, deceive us by poisonous persuasion, or in any way tear from our hearts the root of the good intention that has brought us here. Beloved, let there be in us persevering faith, unshaken hope, and unfailing love. These bright virtues filled the soul of this blessed and glorious confessor. He was set on fire by the Holy Spirit, so that no worldly display, no glory of kings or princes, and no pleasant favor from relatives or friends could turn him away from faith in Christ, from hope in the blessed promise, or from love for God, who allowed himself to suffer for the redemption of the world.",
+      "notes": null,
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 7,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Qui christi coheres factus inter ignitos residet angelorum choros, socius apostolorum, consors martirum, collega confessorum, amicus virginum, concivis patriarcharum et prophetarum, qui pro peccatoribus ut resipiscant [f. 66v] a malo, pro iustis ut perseverent in bono exorat, atque pro totius catholice statu ecclesie incessabiliter implorat. Nos autem, fratres dilectissimi, qui inter mundi huius incerta tempora, que nunc pacis, nunc sunt adversitatis, commoramur, et ad hanc sollempnitatis diem recolendam advenimus, curemus summopere ut sicut ipse post dominum abiit, ita et nos post ipsius vestigia ambulemus. Veneremur in illo gratiam redemptoris, qui pro laude sui confessoris glorificationem operatur miracula in terris. Prestolemur et divina ab eo consequi beneficia, quae per ipsum dominum ab illo obtineamus de celis.",
+      "english": "Now he has been made a co-heir with Christ and dwells among the fiery choirs of angels. He is a companion of the apostles, a sharer with the martyrs, a colleague of the confessors, a friend of the virgins, and a fellow citizen of the patriarchs and prophets. He prays for sinners, that they may recover their senses and turn away from evil. He prays for the righteous, that they may persevere in good. And he pleads without ceasing for the well-being of the whole catholic Church. But we, dearly beloved brothers, are living amid the uncertain conditions of this world: sometimes times of peace, sometimes times of hardship. Since we have come to commemorate this solemn day, let us take the greatest care to walk in his footsteps, just as he followed the Lord. In him, let us venerate the grace of the Redeemer, who works miracles on earth to glorify his confessor and to bring him praise. And let us wait in hope to receive divine gifts from heaven—gifts that we obtain from God through this saint’s intercession and through the Lord himself.",
+      "notes": "The folio marker is editorial and omitted from the spoken translation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 8,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Sunt vero inter nos multi qui nesciunt qualia ista sint dona quae nobis celestis administrat clementia, et hec non nostris meritis, sed illorum quibus admixtus est inclitus confessor ill., et cum quibus pro nostris intervenit necessitatibus. Sed si quis ignorans quae sint ista interrogat, respondendum est unicuique docto viro et sapienti, et dicendum omni insipienti: Quia primum dei gratia in hoc est in nobis, quod nos cum non essemus potenter condidit, et perditos propri[…] [f. 67r] prevaricationis sententiam misericorditer redemit. Offerens semet ipsum per manus iudaeorum deo patri christus in ara crucis hostiam propitiationis pro peccatis nostris, et non solum pro nostris, sed etiam pro totius mundi. Deinde nobis sui baptismatis gratiam spiritalem condonavit, ubi fit omnium peccatorum tam originalium quam actualium ablutio et caelestis vite ingressus apertio. Inde septiformis spiritus sequitur per manus episcoporum impositionem donatio, cum singulis datur spiritus sapientie et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis atque timoris domini.",
+      "english": "There are many among us who do not know what these gifts are that heavenly mercy provides for us. And these gifts do not come because of our own merits, but because of the merits of those saints with whom this renowned confessor is joined, and with whom he intercedes for our needs. If someone does not know what these gifts are and asks about them, then every educated and wise person should answer, and every unlearned person should be told this: first, God’s grace is present in us because, when we did not yet exist, he powerfully created us; and when we were lost under the sentence of our own transgression, he mercifully redeemed us. Christ offered himself through the hands of the Jews to God the Father on the altar of the cross as a sacrifice of atonement for our sins—and not only for our sins, but also for the sins of the whole world. Then he granted us the spiritual grace of his baptism. In baptism, all sins are washed away, both original sins and actual sins, and the entrance into heavenly life is opened. After that comes the gift of the sevenfold Spirit through the laying on of bishops’ hands: to each person is given the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and devotion, and the fear of the Lord.",
+      "notes": "The printed text has a damaged word in “perditos propri[…] prevaricationis sententiam.” I have translated the probable sense as “lost under the sentence of our own transgression,” likely reflecting “propriae prevaricationis sententia.” The list of the seven gifts of the Spirit alludes to Isaiah, but the source provides no citation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 9,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Postmodum, post ista omnia dona percepta et non custodita, ne peccatori suadeatur desperatio, ex secreto supernae miserationis sinu processit poenitentiae reconciliatio, quam cum peccator suscipit, gemit, lacrimas sui doloris profert cum suspiriis, carnis mollitiem fugit, asperitatem victus ac potus atque strati diligit, caloris et frigoris rigorem ferre concupiscit, vigiliarum atque orationum perseverantiam habere discit, arrogantiam declinat, humilitatem amat, iurgia despicit, lites et contentiones execratur, patientiam amplectitur, castimonie studio invigilat, [f. 67v] luxuriam velud stercus calcat, avaritiam sicut inimicum vitat, ne elemosina deficiat, sciens quia caro concupiscit adversus spiritum et spiritus adversus carnem, ut non quodcumque volumus illa faciamus.",
+      "english": "Later, after all these gifts have been received but not preserved, God does not want the sinner to be persuaded into despair. So from the hidden depths of divine compassion came the reconciliation of penance. When the sinner receives it, he groans. He sheds tears of sorrow with sighs. He flees the softness of the flesh. He learns to love a harsher way of eating, drinking, and sleeping. He desires to endure the severity of heat and cold. He learns perseverance in vigils and prayers. He turns away from arrogance and loves humility. He despises quarrels and detests lawsuits and disputes. He embraces patience. He keeps watch over the pursuit of chastity. He tramples lust like dung. He avoids greed as an enemy, so that almsgiving may not fail. For he knows that, as Scripture says, the flesh desires against the spirit, and the spirit against the flesh, so that we do not simply do whatever we want.",
+      "notes": "The folio marker is editorial and omitted from the spoken translation. The final sentence quotes Paul’s letter to the Galatians, but the source gives no printed citation.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 10,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Nos denique, qui partim mixti sumus boni et mali in presentis vite ecclesia, si post sancti huius ill. vestigia ire satagimus, et spiritalia dona et cum istis carnalia, quibus corpora nostra sustentantur et ex quibus celestia metere possumus, digne et laudabiliter apud deum obtinere […]camus eamus impetrare ab ipso quod volumus. Agamus cum eodem confessore quod dominus noster ihesus christus iubet: Primum querite regnum dei et iusticiam eius, et hec omnia adicientur vobis. Quid enim prodest homini si universum mundum lucretur, anime vero sue detrimentum patiatur? Aut quam dabit homo commutationem pro anima sua? Subaudis: nullam. Si ergo consortes huius incliti confessoris in amoenitate celestis paradisi fieri cupimus, abnegemus ea que sunt opera carnis, id est inmunditia, avaritia, luxuria, ire, rixe, dissensiones, superbia, invidia, cupiditas et his similia, que predixit nobis apostolus, quoniam qui talia agunt regnum dei non consequentur. Suscipiamus crucem [f. 68r] christi, ut eum sequamur, exhibentes corpora nostra hostiam viventem, sanctam, deo placentem, et crucifigamus veterem hominem, non in commessationibus et ebrietatibus, non in cubilibus et inpudicitiis, non in contentione et emulatione, sed induamus dominum ihesum christum, qui omnes vult salvos fieri et ad agnitionem veritatis venire. Ante cuius misericordissimam faciem humiliter et devotissime nos prosternamus, eique innumeras laudes et gratias referamus, qui nos inter tantas perturbationes seculi huius usque nunc consolatus est, atque de gladiis paganorum et de manibus persequentium clementer eripuit, nosque peccantes non statim puniit, sed sicut piissimus dominus patienter sustinuit, clamans per prophetam: Nolo mortem peccatoris, sed ut convertatur et vivat. Illum laudemus et benedicamus, qui nobis huius insperate pacis largitus est donum, eique deprecemur ut nos, qui populus eius et oves pascue illius et opus manuum eius sumus, sua gubernatione per sanctorum suorum orationes custodiat, nec permittat nos bello vitiorum fatigari, sed potius tranquillitate virtutum frui [f. 68v] atque in ea delectari, quo post istius transitorie pacis curricula ad illam que in celis est et sine fine permanet pervenire valeamus. Offeramus nos deo ut simus habitaculum eius per opera caritatis, quia qui manet in caritate in deo manet et deus in eo. Diligamus nos invicem, quia ipse prior dilexit nos. Qui enim non diligit fratrem suum quem videt, deum quem non videt quomodo potest diligere? Et hoc mandatum habemus a deo, ut qui diligit deum diligat et fratrem suum. Omnes autem nos in christo fratres sumus. Reddamus vota nostra domino que debemus, hoc est oblationes et sacrificia, decimas et primitias, laudes et gratiarum actiones, cordis munditiam et puritatem labiorum nostrorum et cetera omnia que a nobis deus requirit. Non simus avari aut pigri ad ista domino nostro fideliter persolvenda, quoniam ab ipso etiam hoc quod sumus accepimus.",
+      "english": "Finally, in the Church of this present life, we are mixed together: some good, some evil. If we strive to follow in the footsteps of this saint, then we should seek from God not only spiritual gifts, but also bodily gifts—the things by which our bodies are sustained and through which we may reap heavenly rewards. Let us go to God and ask from him what we need, in a worthy and praiseworthy way. Let us do, together with this confessor, what our Lord Jesus Christ commands: “First seek the kingdom of God and his righteousness, and all these things will be added to you.” For what does it profit a person to gain the whole world and suffer the loss of his own soul? Or what will a person give in exchange for his soul? The answer is understood: nothing. So if we desire to become companions of this renowned confessor in the beauty of the heavenly paradise, let us renounce the works of the flesh: impurity, greed, lust, anger, quarrels, divisions, pride, envy, covetousness, and similar things. The apostle warned us beforehand that those who do such things will not obtain the kingdom of God. Let us take up the cross of Christ and follow him. Let us present our bodies as a living sacrifice, holy and pleasing to God. Let us crucify the old self—not living in feasting and drunkenness, not in sexual immorality and shamelessness, not in rivalry and jealousy—but let us put on the Lord Jesus Christ, who wants everyone to be saved and to come to the knowledge of the truth. Before his most merciful face, let us prostrate ourselves humbly and devoutly. Let us offer him countless praises and thanks. He has comforted us up to this very day amid so many disturbances of this age. He has mercifully rescued us from the swords of pagans and from the hands of persecutors. And although we sinned, he did not punish us immediately; rather, like the most loving Lord, he patiently endured us, crying out through the prophet: “I do not desire the death of the sinner, but that he should turn back and live.” Let us praise and bless him, for he has granted us the gift of this unexpected peace. Let us pray that, by the prayers of his saints, he will govern and protect us—his people, the sheep of his pasture, and the work of his hands. May he not allow us to be worn down by the war of vices, but rather allow us to enjoy the tranquility of virtues and take delight in it. Then, after the course of this passing peace, we may be able to arrive at that peace which is in heaven and remains without end. Let us offer ourselves to God, so that through works of love we may become his dwelling place. For whoever remains in love remains in God, and God remains in him. Let us love one another, because he first loved us. For if someone does not love the brother whom he sees, how can he love God whom he does not see? And we have this commandment from God: whoever loves God must also love his brother. For in Christ we are all brothers. Let us render to the Lord the vows we owe: offerings and sacrifices, tithes and firstfruits, praise and thanksgiving, purity of heart, purity of speech, and all the other things God requires from us. Let us not be greedy or lazy in faithfully paying these things to our Lord, because even our very existence is something we have received from him.",
+      "notes": "The phrase around “obtinere […]camus eamus impetrare” is damaged or corrupt. I have translated the evident exhortation: believers should seek from God both spiritual and bodily gifts in a worthy way. The folio markers are editorial and omitted from the spoken translation. This section quotes or alludes to the Gospel of Matthew, the Gospel of Mark, Paul’s letter to the Romans, Paul’s letter to the Galatians, Paul’s first letter to Timothy, Ezekiel, the Psalms, and the first letter of John, but the source prints no chapter-and-verse citations.",
+      "source_chunk_index": 0
+    },
+    {
+      "chunk_id": 11,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Ipse etenim nostra corpora in utero matrum effigiavit ac spiritu animavit et in hac luce produxit, ubi absque donis illius vivere nequaquam possumus, qui solem suum oriri facit super bonos et malos et pluit super iustos et iniustos, sine cuius inluminatione vias preceptorum eius scire [f. 69r] non valemus, nec sine dono illius sanitatem corporum neque salutem animarum obtinemus; sine illius ordinatione celum non dat pluviam, nec terra fructus germinare potest, quibus sustentatur omnis caro hominum et iumentorum omniumque animantium.",
+      "english": "For he himself shaped our bodies in our mothers’ wombs, gave them life by the spirit, and brought us out into this light. And here, in this life, we cannot live at all without his gifts. He makes his sun rise on the good and the evil, and sends rain on the righteous and the unrighteous. Without his light, we cannot know the paths of his commandments. Without his gift, we gain neither health for our bodies nor salvation for our souls. Without his ordering of creation, the sky gives no rain, and the earth cannot bring forth the fruits by which all human beings, all livestock, and every living creature are sustained.",
+      "notes": "The manuscript folio marker is omitted from the spoken translation. The phrase about sun and rain echoes the Gospel of Matthew, chapter five, verse forty-five, but the source gives no citation.",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 12,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Hunc magnificum creatorem et districtum iudicem timeamus, amemus, veneremur, atque ut nos a laqueo aeterni interitus liberet, ubi perpetuus est luctus et gemitus et horror tenebrarum, ubi ignis inextinguibilis et intolerabile frigus et vermes qui non moriuntur, et nos a celorum beata et felitia perducat, in quibus est lux indeficiens et leticia sempiterna, et ubi nulla infirmitas, nulla fames vel sitis sentitur nec hostis timetur, sed sola dei visio ab omnibus cernitur, intentissime deprecemur.",
+      "english": "So let us fear, love, and honor this magnificent Creator and strict Judge. Let us pray to him with all our hearts, asking him to free us from the snare of eternal ruin—where there is endless weeping and groaning and the terror of darkness, where there is unquenchable fire, unbearable cold, and worms that do not die—and to lead us instead to the blessed and joyful places of heaven. There the light never fails, joy lasts forever, no sickness is felt, no hunger or thirst is known, no enemy is feared, and everyone beholds only the vision of God.",
+      "notes": "The printed Latin reads “et nos a celorum beata et felitia perducat,” literally “and lead us from the blessed and happy things of the heavens,” which is evidently corrupt. I have translated the evident sense, reading “a” as “ad,” meaning “to,” and taking “felitia” as medieval spelling for “felicia.”",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 13,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "Et quia nos accuset conscientia reatus nostri, pro quo nos indignos ut exaudiamur iudicamus, inter ista sollempnia beati confessoris atque pontificis sanctissimi ill. egregii suffragia lacrimabiliter imploremus, quo illius obtentu hic in presenti vita divinis adiuvemur auxiliis atque in futura beatitudine coniungi mereamur celestibus angelorum omniumque sanctorum choris, auxiliante domino et deo nostro ihesu christo, qui in sanctis suis semper est [f. 69v] mirabilis, nunc et per cuncta secula seculorum. AMEN.",
+      "english": "And because our conscience accuses us of our guilt, and because for that reason we judge ourselves unworthy to be heard, let us, during this solemn feast, tearfully ask for the prayers of this blessed confessor and most holy, illustrious bishop. Through his intercession, may we be helped in this present life by divine aid, and in the blessed life to come may we be found worthy to join the heavenly choirs of angels and of all the saints. May this be granted by the help of our Lord and God, Jesus Christ, who is always wonderful in his saints, now and through all ages of ages. Amen.",
+      "notes": "The manuscript folio marker is omitted from the spoken translation. The printed abbreviation “ill.” in “sanctissimi ill. egregii suffragia” is uncertain; I have rendered the phrase in context as referring to the intercession of the saint being celebrated. “Ihesu Christo” is the medieval spelling of “Jesus Christ.”",
+      "source_chunk_index": 1
+    },
+    {
+      "chunk_id": 14,
+      "section_type": "body",
+      "speaker": "narrator",
+      "chapter_title": null,
+      "latin": "EXPLICIT SERMO.",
+      "english": "Here ends the sermon.",
+      "notes": "This is a closing scribal or editorial formula, included because it appears in the supplied Latin.",
+      "source_chunk_index": 1
+    }
+  ]
+}

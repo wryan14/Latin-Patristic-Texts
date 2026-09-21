@@ -1,0 +1,41 @@
+01: non ualemus. nec sine dono illius sanitatem corporum.
+02: neque salutem animarum obtinemus sine illius ordina-
+03: tione celum non dat pluuiam. nec terra fructus germi-
+04: nare potest. quibus sustentat[[o]]\u/r omnis caro hominum
+05: et iumentorum omniumque animantium. Hunc mag-
+06: nificum creatorem. et districtum iudicem. timeamus. ame-
+07: mus. ueneremur. atque ut nos a laqueo aeterni interi-
+08: tus liberet. ubi perpetuus est luctus et gemitus.
+09: et horror tenebrarum ubi ignis inextinguibi-
+10: lis. et intolerabile frigus. et uermes qui non mo-
+11: riuntur. et nos a celorum beata et felitia(?) perducat. in
+12: quibus est lux indeficiens. et leticia sempiterna. et
+13: ubi nulla infirmitas. nulla fames uel sitis sentitur
+14: nec hostis tim\e/tur. sed sola dei uisio ab omnibus
+15: cernitur {hole} intentissime deprecemur; Et que
+16: nos ac{hole}cuset conscientia reatus nostri. pro
+17: quo no{hole}s indignos ut exaudiamur iudicamus;
+18: Inter ista sollempnia beati confessoris atque pon-
+19: tificis sanctissimi ill. egregii suffragia lacrimabi-
+20: liter imploremus. quo illius obtentu; hic in pre-
+21: senti uita diuinis adiuuemur auxiliis. atque in
+22: futura beatitudine coniungi mereamur celestibus
+23: angelorum. omniumque sanctorum choris. auxiliante domino et deo
+24: nostro ihesu christo qui in {hole} sanctis suis semper est.
+
+NOTES:
+04: the scribe first wrote "sustentator"; a small u is written above the o (no clear expunction dot visible, the spot is stained) = correction to "sustentatur". The u looks like the main hand/ink, so not marked {later}.
+05: between "Hunc" and "mag-" a comma-/7-shaped stroke hangs below the baseline, close to the m. I take it as punctuation or a pen flourish, not a word; alternative: an insertion/attention sign. Nothing corresponding seen in the margin.
+06: "timeam9" and 06/07 "ame-/m9": -mus by 9-sign, clear.
+07: "aeterni" is written with an a+e ligature (not e-caudata), hence ae kept. "ut nos" could be divided "utnos"; no doubt about letters.
+11: "a celorum": only "a" is written (not "ad"); kept as on the page. "felitia": the letter after i looks like t (flat top) rather than c; a small stroke/accent stands above the e–l ("fél"); alternative reading "felicia". In the left margin beside this line a small round hole/stain shows two letters ("a" above, "l"/"i" below) which I take to be writing of another leaf, not transcribed.
+14: "timetur": e written above the line between m and t, main hand. "dei": written di with bar; alternative "diuisio" rejected because of the bar and the word space.
+15: large oval hole after "cernitur" and a second smaller damaged spot to its right; letters seen inside ("inf…", and minims above) belong to another leaf. No punctuation visible between "cernitur" and "intentissime". "deprecemur": p with bar above (pre) + 2-sign. "que" = q with e and bar (quae); alternative "quia" not supported.
+16: "ac{hole}cuset": the scribe wrote "ac", skipped the hole, continued "cuset" (single s).
+17: a tiny hole/defect between "no" and "s" of "nos", with a dark mark above it (possibly show-through or a dot); the word is "nos".
+19: "ill." written "itt" with stroke through the two l's; nothing written above it that I can see.
+20: after "obtentu" a punctus-elevatus-like mark (point with tick above), given as ";".
+21: above "senti" (over the n–t) a small round stained spot, probably a tiny hole with dark traces inside; I do not read it as an addition. "auxiliis" written "auxilijs" with long final i.
+22: "futura": "futa" with 2-shaped sign above (-ur-). "celestibus": e-caudata, -bus by b;.
+23: "auxiliante" has a point-like mark after "auxili" (auxili:ante), apparently a parchment flaw/line-filler; "et" before "deo" is faint (paler ink).
+24: "nostro" = nro with bar (read, not "pro"). Large hole after "qui in"; writing visible in the hole ("…us non…") and below/right of the flap ("…dubio") belongs to another leaf. "sanctis" = scis with bar; "semper" = semp with crossed p; "est" is written raised, above the line level, on the flap beside a repaired tear, followed by a point.

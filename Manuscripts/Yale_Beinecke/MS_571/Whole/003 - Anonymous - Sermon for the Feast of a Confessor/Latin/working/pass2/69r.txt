@@ -1,0 +1,41 @@
+01: non ualemus. nec sine dono illius sanitatem corporum.
+02: neque salutem animarum obtinemus; sine illius ordina-
+03: tione celum non dat pluuiam. nec terra fructus germi-
+04: nare potest. quibus sustentat[[o]]\u/r omnis caro hominum
+05: et iumentorum omniumque animantium. Hunc mag-
+06: nificum creatorem. et districtum iudicem. timeamus. ame-
+07: mus. ueneremur. atque ut nos a laqueo aeterni interi-
+08: tus liberet. ubi perpetuus est luctus et gemitus.
+09: et horror tenebrarum ubi ignis inextinguibi-
+10: lis. et intolerabile frigus. et uermes qui non mo-
+11: riuntur. et nos a celorum beata et felitia(?) perducat. in
+12: quibus est lux indeficiens. et leticia sempiterna. et
+13: ubi nulla infirmitas. nulla fames uel sitis sentitur
+14: nec hostis timetur. sed sola dei uisio ab omnibus
+15: cernitur {hole} intentissime deprecemur; Et quia
+16: nos ac{hole}cuset conscientia reatus nostri. pro
+17: quo nos indignos ut exaudiamur iudicamus;
+18: Inter ista sollempnia beati confessoris atque pon-
+19: tificis sanctissimi ill. egregii suffragia lacrimabi-
+20: liter imploremus. quo illius obtentu; hic in pre-
+21: senti uita diuinis adiuuemur auxiliis. atque in
+22: futura beatitudine coniungi mereamur celestibus;
+23: angelorum. omniumque sanctorum choris. auxiliante domino et deo
+24: nostro(?) ihesu christo qui in {hole} sanctis suis semper est
+
+NOTES:
+04: "sustentator" with a small u written above the o (correction to sustentatur); recorded as deletion of o + added u, though the o is not visibly cancelled. Alternative: sustentator\u/.
+06: the 9-sign of "timeamus" hangs low between lines 5 and 6 (under "Hunc mag"); it belongs to timeam-. Bar over "nificu" is faint/slanted but present.
+07: "aeterni" written with ae-ligature (not e-caudata). "interi-": the first minims could be read "uiteri", taken as interi/tus.
+10: "intolerabile" (no final s seen), then "frigus".
+11: line begins beside a small marginal hole (strokes of another leaf show in it; ignored). After "nos" the page has only "a" before "celorum" (not "ad"); no noun (e.g. regna) after "felitia". "felitia": fourth-to-last letter looks like t rather than c (felicia alternative); an accent-like stroke stands over the first e.
+13: "uel" = ul with stroke through l. Small mark before the 2-sign of sentitur.
+14: e of "timetur" is written raised above the line (tim^e tur), apparently because of the parchment defect just below; could be counted as a supralinear addition \e/. "dei" = di with bar, written close to "uisio" (alternative: diuisio, but the bar is there).
+15: "quia" = q with superscript open-a sign; alternative "que"/"quam". Large hole after "cernitur" and a second smaller defect; writing seen in them belongs to another leaf.
+16: "accuset" is split around the hole (ac | cuset). "nostri" = nri with bar.
+17: between "no" and "s" of "nos" a small defect/mark (2-shaped stroke on the line) separates the letters; read simply nos. Alternative: something erased.
+19: "egregii" written egregu (two minims + i); "ill." with stroke through the l's, nothing written above it.
+20: "liter" = lit with bar. Punctus versus after "obtentu".
+21: small stained defect above "senti" with a dark stroke in it; not read as text.
+23: a point or pair of points stands inside "auxili:ante" (after auxili); ignored as a parchment mark/pen rest. "et" before "deo" is faint (ampersand, rubbed).
+24: first word has a bar above and its first letter seems to have a descender (looks like "pro" with bar); read as nro = nostro from the shape of the abbreviation, doubtful. Line is interrupted by the curved edge/hole ("... nis non ..." and "... dubio" seen below/right belong to another leaf); "est" is written higher, on the flap, after "semper" (sep with bar and crossed p? — p has a bar above: sem-per). Sentence continues on the verso.

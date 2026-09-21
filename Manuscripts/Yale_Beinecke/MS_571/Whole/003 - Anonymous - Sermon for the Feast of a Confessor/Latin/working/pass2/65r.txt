@@ -1,0 +1,36 @@
+01: ›SERMO IN NATA-‹
+02: ›LE UNIUS CONFESSORIS.‹
+03: FRATRES KARISSIMI qui ad celebrandam {hole} {margin: lc. i}
+04: festiuitatem sacr[[i]]\o/ sancti confessoris {hole}
+05: ill. \aderaldi(?)/{later} certatim concurritis. qua intentione
+06: atque deuotione huc conuen\a/itis. considerare
+07: actentissime debetis. Non enim una omnibus est
+08: intentio. nec similis deuotio. licet una omnibus
+09: sit istius diei celebratio. Quidam enim ueniunt {margin: lc. ii}
+10: ut obtentu precum magnifici confessoris ill.
+11: malos mores preteritorum actuum mutent. in qui-
+12: bus diu uixisse \eos(?)/ pudet. et transeant de tenebris
+13: ad lumen. de falsitate ad ueritatem. de iniusticia
+14: ad iusticiam. ac de uiciis ad uirtutes. secundum
+15: quod apostolus paulus monet dicens. Obsecro uos per
+16: misericordiam dei. ut exhibeatis corpora hostiam uiuen-
+17: tem. sanctam. deo placentem. rationabile obsequium uestrum.
+18: Et nolite conformari huic seculo. sed reformami-
+19: ni in nouitate sensus uestri. ut probetis que sit uoluntas
+20: dei bona (run-over)
+
+NOTES:
+01: the first half of this manuscript line ("celum diues ingreditur;") belongs to the preceding text and is not transcribed. Rubric NATA- divided at line end.
+02: second rubric word reads V-N(or H)-I-V-S; taken as UNIUS (N with a high crossbar looks like H); alternative CUIUS unlikely (no C seen). Rubric ink faded.
+03: KARISSIMI is abbreviated (KMI with bar); expansion by rule. A hole follows "celebrandam"; writing of another leaf ("non", "...bus") shows through it and is ignored. No text lost, line continues on 04.
+04: "sacri" has a dot under the i and a small o above it: read as correction sacri -> sacro (sacrosancti). Hole after "confessoris"; nothing lost.
+05: small pale word above/after "ill.": read "aderaldi" (first letter a or A; could also be "adesaldi"); later hand.
+06: a small "a" written above "conuenitis" between n and i/t (above "ni"); placement uncertain — perhaps intended correction toward "conuenistis"/"conueniatis"; recorded as seen.
+07: "actentissime" spelled with ct (= attentissime); "omnibus" has a blot over the o.
+08: second "omnibus" written "omibus" with bar.
+11: "mores" — the r appears doubled or retouched ("morres"?); read mores. "preteritorum" = p with bar above + -orum sign.
+12: small superscript word between "uixisse" and "pudet", pale ink, read "eos" (alternatives "se", "eis"); hand uncertain, possibly later. "transeant": bar over a, plus a small tick above — nasal bar taken.
+13: "lumen" abbreviated "lum" + bar.
+17: "uestrum" abbreviated urm with bar.
+19: blot in "nouitate" before the final e (nouita[t]e); "sensus" = sens + superscript us-sign (shaped like a 2/9; if 2 = -ur it would be meaningless, so -us). "probetis" = p with pro-loop.
+20: run-over at lower right, preceded by a paragraph/run-over bracket sign: "dei bona".

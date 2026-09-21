@@ -1,0 +1,42 @@
+# Apparatus — Sermo in natale unius confessoris (Beinecke MS 571, ff. 65r–69v), transcription v1.0
+
+The reading text prints the manuscript's **final transmitted wording**. This file keeps the other state. *B* = the main scribe (catalogue hand B, s. X²); *B corr.* = the scribe correcting himself (same dark ink); *rev.* = the revising hand (smaller script, lighter brown ink; the catalogue dates the hand that wrote *Aderaldi* to the twelfth century — whether every revision below is by that same hand is not established). Locators are folio.line. The line-by-line working transcription with all marks in place is `sermo_in_natale_unius_confessoris.diplomatic-marks.v0.9.txt`; the raw readings are in `../pilot/` and `../full/`.
+
+## 1. Places where the reading text follows a correction or addition
+| Loc. | First state (B) | Final state (printed) | By |
+|---|---|---|---|
+| 65r.04 | sacri sancti | sacrosancti (dot under i, o above) | B corr. or rev. |
+| 65r.06 | conuenitis | conveniatis⟨?⟩ (small a above) | rev.? |
+| 65r.12 | uixisse pudet | vixisse eos⟨?⟩ pudet | rev.? (pale ink) |
+| 65v.21 | exardescit illos | exardescit in illos (*in* in the margin) | rev. |
+| 65v.24 | ad omnia prorsus iniquitatis | ad omnia prorsus vitia⟨?⟩ iniquitatis (superscript a on *omnia*; *vitia* interlinear) | rev. |
+| 66r.11 | ullo mdo | ullo modo (o above) | B corr. |
+| 66r.11 | Sit in nobis fides | Sit in nobis, dilectissimi, fides (*dilmi* above *nobis*) | rev. |
+| 66v.06 | com⟨2–3 letters erased⟩moramur | commoramur | eraser unknown |
+| 66v.07 | aduenimus. ut sicut | advenimus, curemus summopere ut sicut | rev. |
+| 66v.09 | ambulemus. lacrimabiliter deprecemur; Veneremur | ambulemus. Veneremur (two words struck through) | rev. |
+| 66v.12 | miracula (dot under final a, faded sign above) | miracula | — (change begun or undone; B's word printed) |
+| 66v.12 | Prestomur | Prestolemur (*le* above) | B corr. |
+| 66v.12 | diuina ab eo beneficia | divina ab eo consequi beneficia | rev. |
+| 67r.01–02 | sententiam transgressum a primis parentibus nostris per inoboedientiam misericorditer redemit | sententiam misericorditer redemit (eight words struck through) | rev. |
+| 67r.14 | ne + one erased letter (nec?) | ne | — |
+| 67r.16 | quam cum + erased false start (p…) | quam cum | B corr. |
+| 67v.06 | post sancti ill. uestigia | post sancti huius ill. vestigia | rev. |
+| 67v.07 | et ⟨two words erased: ut hec?⟩ spiritalia | et spiritalia | eraser unknown |
+| 67v.08 | sustentat | sustentantur (n and ur-sign above) | B corr. or rev. |
+| 67v.10 | obtinere ⟨word erased: sus…?⟩ eamus | obtinere po⟨…⟩camus⟨?⟩ eamus (gloss written above the erasure) | rev. |
+| 67v.20 | abnegemus que sunt | abnegemus ea que sunt (*ea* in the margin) | rev. |
+| 68r.11 | usque consolatus est | usque nunc consolatus est (*+ nunc* in the margin) | rev. |
+| 68r.13 | punit | puniit (i above) | B corr. |
+| 68r.18 | largitus est. eique | largitus est donum⟨?⟩, eique (*+ don…* in the margin) | rev. |
+| 69r.04 | sustentator | sustentatur (o expunged, u above) | B corr. |
+| 69r.14 | timtur | timetur (e above) | B corr. |
+
+## 2. The saint's name
+The scribe wrote the placeholder **ill.** (*illius / ille*) eight times: 65r.05, 65r.10, 65v.08, 66r.05, 66r.14, 66v.18, 67v.06 and 69r.19 (*confessoris atque pontificis sanctissimi ill.*). Nothing is erased under it. Later glosses above it: **65r.05 *Aderaldi*** · **66v.18 *Aderald'*** (suspension mark; = *Aderaldus* in its nominative context). These identify the saint for a later user of the book; they are not adopted into the text.
+
+## 3. Uncertain readings kept open in the reading text
+65r.06 conveniatis⟨?⟩ · 65r.12 eos⟨?⟩ · 65v.24 vitia⟨?⟩ · 66r.01 inquiserit⟨?⟩ · 66r.01 a deo⟨?⟩ · 66r.03–04 dum licet⟨?⟩ · 66v.07 post⟨?⟩ · 66v.11 glorificationem⟨?⟩ · 66v.17 admixtus est⟨?⟩ · 66v.24–25 propri⟨…⟩⟨?⟩ · 67r.23 ⟨iu⟩rgia · 67v.10 po⟨…⟩camus⟨?⟩ · 68r.18 donum⟨?⟩ · 68v.24 scir⟨e⟩ · 69r.11 a (sic). Alternatives and what was seen: `transcription_provenance.json` → `known_uncertainties`.
+
+## 4. Not text
+Lection marks *lc. i–ix(?)* in the margins; *Tu autem* (68r.07); a faint later two-word note after the explicit (69v.02); brown paragraph signs; a small *que*-like sign under 66r.16; writing of neighbouring leaves visible through holes (65r, 65v, 68r, 68v, 69r); modern pencil foliation and "Lib. IV cap. 1" (69v).

@@ -1,0 +1,46 @@
+01: a malo. pro iustis ut perseuerent in bono exorat
+02: atque pro totius catholice statu ecclesie incessa-
+03: biliter implorat; Nos autem fratres dilectis- {margin: lc. vii(?)}
+04: simi. qui inter mundi huius incerta tempo-
+05: ra. que nunc pacis. nunc sunt aduersitatis
+06: com[[…]]moramur; Et ad hanc sollempnitatis
+07: diem recolendam aduenimus. \curemus summopere/{later} ut sicut ipse post(?)
+08: dominum abiit. ita et nos post ipsius uestigia am-
+09: bulemus. [[lacrimabiliter deprecemur]]; Veneremur
+10: in illo gratiam redemptoris. qui pro laude sui
+11: confessoris glorificationem(?). operatur miracu-
+12: l[[a]]\a(?)/{later} in terris; Presto\le/mur et diuina ab eo \consequi/{later} bene-
+13: ficia. quae per ipsum dominum ab illo obtineamus
+14: de celis. Sunt uero inter nos multi. qui {margin: lc. vii(?)}
+15: nesciunt qualia ista sint dona. quae nobis
+16: celestis administrat clementia; Et hec non
+17: nostris meritis. sed illorum quibus admixtus est(?)
+18: inclitus confessor ill. \aderaldus/{later} et cum quibus pro nostris
+19: interuenit necessitatibus; Sed si quis igno-
+20: rans quae sint ista interrogat. responden-
+21: dum est unicuique docto uiro et sapienti et(?)
+22: dicendum omni insipienti; Quia primum
+23: dei gratia in hoc est in nobis. quod nos cum non es-
+24: semus potenter condidit. et perditos propri-
+25: a mi-(?) (run-over)
+
+NOTES:
+- General: the right edge of the block runs into the gutter and the last one or two letters of several lines are partly hidden (01 exora|t, 03 dilecti|s, 17, 19 ign|o, 21, 23 e|s). Brown paragraph-type signs (an angular bracket with a horizontal stroke) stand before "Nos autem" (03), "Et ad hanc" (06), "Et hec" (16) and "Quia" (22); "ut sicut" (07) and "Prestolemur" (12) are also set off by brown strokes. I have not transcribed these signs.
+- 01/02: "pro" is the pro-sign with a looped stroke to the left of the descender in both places; not "et pro".
+- 02: "statu" is in browner ink and looks rewritten or retouched (over erasure?); reading itself is clear. "catholice", "ecclesie" have e-caudata.
+- 03 margin: faint brown lection mark, "lc." + numeral; I count v + two minims (vii), a possible third minim is not excluded.
+- 06: erasure of about 2–3 letters between "com" and "moramur" (illegible; a faint brownish trace like a small "a" or sign stands above the gap); the word as it now stands reads com…moramur = commoramur. The -ur sign stands above the final m.
+- 07: "curemus summopere" added above the line over "ut sicut" in a small, lighter brown hand, with a stroke tying it to the point before "ut". "curemus" with -us sign; "summopere" with barred p (per). End of line: "ipse" + "p" with a small "o" written high above it at the very edge; I take it as "post" (context "post dominum abiit"), but "pro"/"primo" style abbreviation cannot be excluded from the form alone; part of the sign may be lost in the gutter.
+- 08: "ipsiu" + 9-sign = ipsius (the page has ipsius, not ipsum). "dominum" = dnm with bar (could also be meant as "domnum").
+- 09: "lacrimabiliter deprecemur" struck through with one long brown horizontal stroke (both words, up to the punctus versus); fully legible: lacrimabilit(er) dep(re)cem(ur).
+- 11: "glorificatione" with a brown 7-shaped mark above the final e, which I take as a (later?) nasal stroke → glorificationem; without it: glorificatione.
+- 12: "la": the a has an expunction dot beneath, and above it stands a faded yellowish-brown letter or sign (open a? u? possibly itself erased), with a brown oblique stroke. Alternatives: miracul[[a]]\a/ (letter restored), or a change of ending (miraculum / miraculo) that I cannot read. "Prestolemur": main line has "Prestom" with bar/-ur sign (2-shaped, brown) and "le" written small above between o and m; whether "le" is the main scribe or a corrector I cannot say (smaller, dark ink). "consequi" added above "bene-" in the small lighter brown hand; I place it before "beneficia".
+- 13, 15, 20: "quae" written with the ae-ligature (æ), whereas 05 has plain "que".
+- 13: "obtineamus": a stroke/accent above the second a; under the final "-us" a brownish smudge (erased sign or offset), not read.
+- 14 margin: faint brown lection mark "lc." + numeral, again v + two minims visible (vii), possibly a third very faint (viii). The marks at 03 and 14 should differ in number; I cannot settle which is which from the image (perhaps vi/vii or vii/viii).
+- 17: end of line in the gutter: "admixt" + a letter that looks like e (with bar?), and above it a small 9-sign followed by two dots. I read "admixtus est"; alternatives "admixtus" alone, or "admixte".
+- 18: "inclit" + 9-sign = inclitus. "ill." written itt./ill. with point; above it in the small lighter hand "aderald" + us-sign = aderaldus.
+- 19: comma-like stroke after "quis" not transcribed as punctuation (ignored; could be "."?).
+- 21: after "sapienti" a further sign at the gutter edge, apparently "&" (et), mostly hidden.
+- 24: "perditos" ends in long s directly joined to the following "pro"-sign: I read "perditos propri-"; alternative "perditos s(ua) propri-" is not supported by a visible abbreviation mark.
+- 25: run-over written below the end of line 24, enclosed by a brown bracket: a small first stroke/letter (a?), then "m" and a tall i with an accent-like stroke: read "a mi-" (= propri-a mi-[sericordia?], continuing on the next page); alternatives "mia" with bar (= misericordia), "ina", "una".

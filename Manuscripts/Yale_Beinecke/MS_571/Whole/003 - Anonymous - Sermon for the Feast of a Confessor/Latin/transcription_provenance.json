@@ -1,0 +1,100 @@
+{
+ "kind": "bibliothecarius-transcription",
+ "license": "CC0-1.0",
+ "creator": "Bibliothecarius Modernus",
+ "date": "2026-09-20",
+ "version": "1.0",
+ "repository": "Yale University, Beinecke Rare Book and Manuscript Library",
+ "shelfmark": "MS 571",
+ "part": "art. 3",
+ "folios": "65r–69v",
+ "iiif_manifest": "https://collections.library.yale.edu/manifests/17418520",
+ "edition": null,
+ "source_image_url": "https://collections.library.yale.edu/iiif/2/17418950/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418951/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418952/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418953/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418954/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418955/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418956/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418957/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418958/full/full/0/default.jpg; https://collections.library.yale.edu/iiif/2/17418959/full/full/0/default.jpg",
+ "catalog_url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms571.htm",
+ "digitization_url": "https://collections.library.yale.edu/catalog/17418520",
+ "short_label": "Beinecke MS 571",
+ "method": "Two independent visual readings per side of the native IIIF JPEGs (3042–3120 × 4065–4082 px; SHA-256 in page_manifest.json), text block cut into overlapping strips. Pilot sides 66v, 67r, 68r: Pass 1 fresh Claude agent (Claude Fable 5.1, Claude Code subscription session), Pass 2 google/gemini-3.1-pro-preview via OpenRouter (metered), escalation openai/gpt-5.5 on five line crops (evidence only; one answer rejected). Remaining sides 65r, 65v, 66r, 67v, 68v, 69r, 69v ll. 1–2: Pass 1 and Pass 2 both fresh Claude agents with no access to each other's work, on differently framed image sets (A: 4 strips; B: 3 strips + magnified binding-edge crops). Alignment with tools/transcription_benchmark.py; every disagreement and every (?) cut at line level from the native image and decided by the operator; operator read of every side against the text. Readers saw no catalogue, edition or web source.",
+ "normalization": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0: reading text; abbreviations expanded silently following the scribe's spellings; scribe's orthography kept (e/ę → e; ae/oe only where written); u/v by position; always i; scribal capitals only; transcriber's modern punctuation and word division; lines joined; [f. N] at page turns. Text-specific: the scribe's placeholder 'ill.' is printed as written and never expanded to a name; the later gloss 'Aderaldi' is recorded in known_uncertainties/notes only; scribal and later deletions [[…]], additions \\…/ (hand discussed in notes); lection marks and marginal cues are object notes. Owner decision 2026-09-20: the reading text prints the manuscript's final transmitted wording (scribal and later corrections/additions adopted, deleted words omitted); the first scribe's reading and every revision are preserved in final/APPARATUS.md and in the v0.9 working text with marks; the later gloss 'Aderaldi' is an identification and is never adopted.",
+ "transcription_standard": "MANUSCRIPT_TRANSCRIPTION_STANDARD.md v1.0",
+ "review_status": "fully-reviewed",
+ "image_rights": {
+  "statement": "Item record: \"The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.\" Governing policy (Yale University, Open Access to Digital Representations of Works in the Public Domain, 2011): \"Yale will make digital copies of unrestricted public domain collections available for use without limitations through the University's electronic interfaces.\"",
+  "url": "https://collections.library.yale.edu/catalog/17418520 ; https://lux.collections.yale.edu/content/open-access-policy-2011",
+  "date_checked": "2026-09-20",
+  "credit": "Beinecke Rare Book and Manuscript Library, Yale University <https://collections.library.yale.edu/catalog/17418520>"
+ },
+ "image_rights_short": "Yale Open Access policy for public-domain collections (read 2026-09-20); item record carries Yale's generic notice; images are not CC0",
+ "verification": {
+  "passes": [
+   {
+    "pass": 1,
+    "reader": "Claude general-purpose agents (Fable 5.1), one per side",
+    "method": "visual reading of block + 4 strips",
+    "date": "2026-09-20",
+    "independent_of_previous": true
+   },
+   {
+    "pass": 2,
+    "reader": "pilot sides: google/gemini-3.1-pro-preview; other sides: second set of Claude general-purpose agents (Fable 5.1)",
+    "method": "same images (pilot) / differently framed strips + binding-edge magnifications (other sides); no access to Pass 1",
+    "date": "2026-09-20",
+    "independent_of_previous": true
+   }
+  ],
+  "calibration": {
+   "passages": 3,
+   "words": 320,
+   "wer_graph": 0.0,
+   "cer_graph": 0.0,
+   "report": "docs/v2/BEINECKE_MS571_PILOT_REPORT.md §5 and pilot/calibration/: same hand B, ff. 64v, 65r ll. 1–6 (Sulpicius Severus, Ep. III) and 69v ll. 3–22 (Gregory, Dial. IV 1). Figures are CLASSIFIED transcription errors of the Claude reader (0 demonstrable in ≈ 320 words); raw WER against the editions (28–43 %) reflects a different recension and is not an error rate. Two Claude readers on 64v/69v disagree at 2.6 % / ≈ 3 % of words (word division excluded). Gemini on 69v: ≈ 9 %."
+  },
+  "curator_check": {
+   "by": "operator (Claude Fable 5.1 session) — read of every side against the images; all disagreement sites and flags on native-resolution line crops. NOT a human curator sign-off.",
+   "date": "2026-09-20",
+   "scope": "full"
+  },
+  "stage": "reconciled",
+  "uncertain_passages_present": true,
+  "reconciliation": {
+   "disagreements": 63,
+   "inspected": 63,
+   "resolved_to_pass1": 41,
+   "resolved_to_pass2": 11,
+   "resolved_to_other": 11,
+   "log": "docs/v2/experiments/beinecke-ms571-confessor/pilot/RECONCILIATION.md ; docs/v2/experiments/beinecke-ms571-confessor/full/RECONCILIATION.md"
+  }
+ },
+ "known_uncertainties": [
+  "65r.06 conveni\\a/tis⟨?⟩ — small a above 'conuenitis' (between n and t); intended form unclear (conueniatis? conuenistis?); both readers recorded it as seen",
+  "65r.12 \\eos⟨?⟩/ — pale superscript word between 'uixisse' and 'pudet'; alternatives se, eis, or a small '&' (et) — a 3× zoom shows an ampersand-like shape with a tick; hand uncertain",
+  "65v.24 \\vitia⟨?⟩/ — brown interlinear word above 'iniquitatis' (later hand), about five minims + a; insertion point uncertain; 'omni\\a/' has a superscript a",
+  "66r.01 inquiserit⟨?⟩ — first word of the page faded; readers: inquiserat / inquisierit; syntax with 65v.24 unclear",
+  "66r.01 a deo⟨?⟩ — 'adō' with bar; alternatives ad eorum, ad omnem",
+  "66r.03-04 dum licet⟨?⟩ — 'dū' at line end + 'lic&' at the inner edge; Pass 1 read diuina; decided on a zoom for dum licet; marked because the line start is rubbed",
+  "66v.07 post⟨?⟩ — p with raised sign at the gutter; alternatives pro, primo",
+  "66v.11 glorificationem⟨?⟩ — bar over final e perhaps by the later hand; glorificatione gives better sense",
+  "66v.17 admixtus est⟨?⟩ — partly in the gutter; alternatives admixtus, admixte",
+  "66v.24-25 propri⟨…⟩⟨?⟩ — run-over hidden in the gutter ('e ma', 'a mi', 'mia'?); continues 67r 'prevaricationis sententiam'",
+  "67r.23 ⟨iu⟩rgia — first letters hidden at the inner edge",
+  "67v.10 \\po⟨…⟩camus⟨?⟩/ — later interlinear word over an erasure ('sus'?); readers: poscamus / preoptamus; letters seen p-o-p(bar)-c-a-m-us-sign; the main line continues 'eamus impetrare' (readers: eamus / eam)",
+  "68r.18 \\donum⟨?⟩/ — marginal addition with +, lighter ink; alternative dona",
+  "68v.24 scir⟨e⟩ — final letter lost at the damaged edge; 69r continues 'non valemus'",
+  "69r.11 a (sic) celorum beata et felitia — page has 'a'; sense requires ad; 'felitia' with a mark above l (felicia)",
+  "NOT MARKED, recorded: 67r.14 ne + erased letter (nec→ne?); 67r.16 erased false start; 66v.06 erasure inside com…moramur; 66v.12 miracula with expunction dot and faded sign; 67v.07 erased 2 words after 'et' (ut hec?); 65v.01 'autem' (aū) faded; c/t not distinguishable (inpudicitiis, faciem, vitiorum, patientiam, iusticia, viciis); ae/e as read; ihesus expands ihs/ihm; 66r.16 a small que-like sign under the line after 'nulla'; undetected shared misreadings estimated at 0.3–1 % (see verification)",
+  "LATER HAND (s. XII per catalogue), NOT PART OF THE TEXT: 65r.05 'Aderaldi' above 'ill.'; 66v.18 'Aderald'' (suspension) above 'ill.'; 67v.06 'huius' above 'ill.' (printed as \\huius/ because it modifies the sentence, not the name); 66r.11 'dilectissimi' abbreviated above 'nobis' (recorded here, not printed). Whether this hand also made the revisions printed as \\…/ and [[…]] (curemus summopere, consequi, nunc, donum, in, vitia, the struck passages) is OPEN.",
+  "OBJECT NOTES: lection marks lc. i–ix(?) in the margins (65r.03, 65r.09, 65v.03, 65v.15, 66r.11, 66v.03, 66v.14, 67r.13?, 67v.05; several numerals not decidable); 'Tu autem' 68r.07; faint later two-word note after the explicit rubric (69v.02), not read; brown paragraph signs; modern pencil foliation."
+ ],
+ "textual_unit": {
+  "manuscript_object_id": "ms-yale-beinecke-571",
+  "textual_unit_id": "ms-yale-beinecke-571-003",
+  "order": 3,
+  "rubric": "SERMO IN NATALE UNIUS CONFESSORIS",
+  "incipit": "Fratres karissimi qui ad celebrandam festivitatem sacrosancti confessoris ill. certatim concurritis",
+  "explicit": "qui in sanctis suis semper est mirabilis nunc et per cuncta secula seculorum amen",
+  "title_latin": "Sermo in natale unius confessoris",
+  "folios": "65r–69v",
+  "author": "Anonymous"
+ },
+ "notes": "≈ 1,425 words; 65r.06–69v.02. Rubric begins at the end of 65r.06. The saint is a bishop in the base text (69r.18–19 'confessoris atque pontificis sanctissimi ill.'); the Aderald gloss is a later application. Version 1.0: owner decision 2026-09-20 — published as 'reconciled' with every flagged reading kept explicit; the owner has not adjudicated the flags; not curator-verified."
+}

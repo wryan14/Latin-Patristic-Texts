@@ -1,0 +1,41 @@
+01: Luxuriam uelud stercus calcat. auaritiam sicut
+02: inimicum uitat. ne elemosina deficiat. sciens quia(?)
+03: caro concupiscit aduersus spiritum. et spiritus aduersus
+04: carnem. ut non quecumque uolumus illa faciamus;
+05: {margin: lc. viii(?)} Nos denique qui partim mixti sumus boni et mali
+06: in presentis uite ecclesia. si post sancti \huius/{later} ill. uestigia ire(?)
+07: satagimus. et [[ut(?) hec(?)]] spiritalia dona et cum istis car-
+08: nalia quibus corpora nostra sustenta\n/t\ur/. et ex quibus
+09: celestia metere possumus. digne et laudabiliter(?)
+10: apud deum obtinere. \poscamus(?)/{later} [[sus(?)]] eamus impetrare ab ip-
+11: so quod uolumus. Agamus cum eodem confessore quod
+12: dominus noster ihesus christus iubet. Primum querite reg-
+13: num dei et iusticiam eius. et hec omnia adicientur
+14: uobis. Quid enim prodest homini si uniuersum
+15: mundum lucretur anime uero sue detrimentum(?)
+16: patiatur. Aut quam dabit homo commutationem(?)
+17: pro anima sua. Subaudis nullam; Si ergo con-
+18: sortes huius incliti confessoris. in amoenita-
+19: te celestis paradisi fieri cupimus. abnegemus(?)
+20: \ea/{later} que sunt opera carnis. id est inmunditia. aua(?)-
+21: ritia. luxuria. ire. rixe. dissensiones. su-
+22: perbia. inuidia. cupiditas. et his similia. que(?)
+23: predixit nobis apostolus. quoniam qui talia agunt regnum(?)
+24: dei non consequentur; Suscipiamus crucem(?)
+
+NOTES:
+02: "neelemosina" written without word space; line end "qua" + gutter: quia (i not clearly seen) vs. quam/quod.
+05: left margin lection mark in lighter brown ink, "Lc" + numeral, read viii(?) (alternatives: vii, uiii with suspension). A small horizontal dash/paragraph mark also stands in the left margin between lines 6 and 7.
+06: "huius" (hui + us-sign) in small lighter later hand above "ill."; a small stain/hole below "post". Line end "ire" curves into gutter; could be "ire" or "ir-" with more hidden.
+07: erasure of c. 5-6 letters after "et"; faint traces look like "ut h.c" / "ut hec" with a descender-mark (possibly "uc hꝫ e"); very uncertain.
+08: main scribe "sustentat" with bar over -ta-(?); "n" and the 2-shaped -ur sign added above the line (dark ink, possibly main hand correcting) = sustentantur.
+09: "possum'" read possumus (us-sign); possimus not excluded, the letter before m looks like u. "laudabilit" + sign at gutter.
+10: after "obtinere." a smudged/partly erased short word on the line ("sus"? "fus"? "siu"?), over which a small later lighter hand wrote "poscam'" (first letter seems to carry a bar: "p̄oscam'"?; alternatives: possimus, poscamus). Then "eam'" with us-sign = eamus (or eam + mark).
+15: 2-shaped -ur sign above "lucret" appears added in lighter ink; no point visible after lucretur. Line end "detrimentu" + bar lost in gutter.
+16: -ur sign(s) after "patiat" doubled in lighter ink; line end "commutation" + gutter, ending (-em) not seen.
+17: "pro" = p with loop to the left, standing out into the margin.
+19: line end "abnegem" + gutter; -us sign not clearly seen.
+20: "ea" in lighter ink in the left margin directly before "que" (later addition). Line end "au"/"aua" in gutter, continues "ritia" (written "rítia" with a stroke over i) on 21.
+22: last word in gutter, "que" (or "quae"/"qui") doubtful.
+23: line end "reg" + descending flourish in gutter; "-num" not seen (line 24 begins "dei"), contrast line 12/13 where "reg-/num" is divided.
+24: "crucem" smudged at the gutter; possibly followed by further letters lost in binding.

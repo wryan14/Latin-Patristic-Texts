@@ -1,0 +1,46 @@
+01: Luxuriam uelud stercus calcat. auaritiam sicut
+02: inimicum uitat. ne elemosina defitiat. sciens quia
+03: caro concupiscit aduersus spiritum. et spiritus aduersus
+04: carnem. ut non quodcumque uolumus illa fatiamus;
+05: {margin: lc. viii(?)} Nos denique qui partim mixti sumus boni et mali(?)
+06: in presentis uite ecclesia. si post sancti \huius/{later} ill. uestigia ire(?)
+07: satagimus. et [[…]] spiritalia dona. et cum istis car-
+08: nalia quibus corpora nostra sustenta\n/t\ur/(?). et ex quibus
+09: celestia metere possumus. digne et laudabiliter(?)
+10: apud dominum obtinere. \preoptamus/{later} [[siuis(?)]] eam impetrare ab ip-
+11: so quod uolumus. Agamus cum eodem confessore quod
+12: dominus noster ihesus christus iubet. Primum querite reg-
+13: num dei et iusticiam eius. et hec omnia adicientur
+14: uobis. Quid enim prodest homini si uniuersum(?)
+15: mundum lucretur anime uero sue detrimentum
+16: patiatur. Aut quam dabit homo commutationem(?)
+17: pro anima sua. Subaudis nullam; Si ergo con-
+18: sortes huius incliti confessoris. in amoenita-
+19: te celestis paradisi fieri cupimus. abnegemus(?)
+20: \ea/{later} que sunt opera carnis. id est inmunditia. aua(?)-
+21: ritia. luxuria. ire. rixe. dissensiones. su-
+22: perbia. inuidia. cupiditas. et his similia. que(?)
+23: predixit nobis apostolus. quoniam qui talia agunt regnum(?)
+24: dei non consequentur; Suscipiamus crucem(?)
+
+NOTES:
+- 02/04: defitiat, fatiamus: the letter before i looks like t rather than c in both words (c/t close in this hand); alternatives deficiat, faciamus.
+- 02: line end "quia" – the final a is at the gutter but visible.
+- 04: "qd+bar cuq;" read quodcumque (same qd sign as quod in line 11); quecumque considered and rejected.
+- 05: marginal lection mark in brown ink, "Lc" followed by a numeral, mottled: viii most likely, vii or iii possible. Line end "mali": final i in the gutter.
+- 06: "huius" (hui + us-sign) added above ill. in a small, lighter later hand. Line end after uestigia: two or three letters in the gutter, read "ire" (possibly with e-caudata); not fully visible. A short horizontal stroke stands in the left margin between lines 6 and 7 (not text).
+- 07: after "et" an erasure of roughly 5-6 letters (one word); faint traces (possibly "ut h.." or "uel ..", a descender in the middle) not legible. "istis": read iftif = istis; "ipsis" considered but no p seen.
+- 08: main text "sustentat" with a bar over -at-; above the line "n" and a 2-shaped -ur sign have been added, giving sustentantur; whether the bar/n and -ur belong to the first hand or a corrector is unclear. "nostra" = nra with bar.
+- 09: laudabiliter: "laudabilit" plus an -er sign disappearing in the gutter.
+- 10: "preoptamus" (p with bar above + optam + us-sign) added above the line in a small, lighter later hand, with an insertion stroke after obtinere. The main-line word under/after it is blotted or cancelled: tall s + iu + a smeared ending; read siuis ("si uis") or possibly siue / suis. Treated as deleted because of the smear; it may simply be blotted and still valid.
+- 13: iusticiam: a short bar above the final a, faint.
+- 14, 16: final nasal bars at the gutter (uniuersum, commutationem) only partly visible.
+- 16: after "patiatur" a 2-shaped -ur sign above and a paragraph/insertion flourish before "Aut".
+- 17: "pro" written in the left margin/outdented, p with loop to the left.
+- 18: "sortes": the final letters are ligatured (looks like "sorter"); with con- from line 17 = consortes.
+- 19: abnegemus: "abnege" + abbreviation at the gutter, ending not clearly visible.
+- 20: "ea" written in the left margin before "que" in lighter brown ink, apparently a later addition. Line end "aua": only "au" and part of a further letter visible.
+- 21: an accent-like stroke over the a of "ritia". Line end "su-" (next line begins with per-abbreviation + bia = superbia).
+- 22: line end "que" in the gutter, smudged; could be "que" with e-caudata or "qua".
+- 23: line end "reg" + descending stroke/abbreviation in the stained gutter; read regnum (line 24 begins "dei"); possibly "reg-" only with "num" lost in the gutter.
+- 24: "crucem": stained, final letters faint; a mark above may be a bar.
