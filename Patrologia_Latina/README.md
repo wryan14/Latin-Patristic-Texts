@@ -241,6 +241,9 @@ This catalog lists all translated works organized by author. Each entry includes
 
 ## Florus of Lyon
 
+**Exposition of the Mass, Part II** (*De expositione missae, pars II*) — Vol. 119
+  [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-expositione-missae-pars-ii-florus-of-lyon/) | [Archive](https://archive.org/details/exposition-of-the-mass-part-ii) | [YouTube](https://www.youtube.com/watch?v=g367BvyZQRg) | [GitHub](vol_119/Florus%20of%20Lyon%20-%20Exposition%20of%20the%20Mass%2C%20Part%20II)
+
 **Exposition of the Mass, Part I** (*De expositione missae, pars I*) — Vol. 119 [9th century] · pl119-002
   [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-expositione-missae-pars-i-florus-of-lyon/) | [Archive](https://archive.org/details/exposition-of-the-mass-part-i) | [YouTube](https://www.youtube.com/watch?v=WR4kgd9ZZZE) | [GitHub](vol_119/Florus%20of%20Lyon%20-%20Exposition%20of%20the%20Mass%2C%20Part%20I)
 
