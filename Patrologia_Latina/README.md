@@ -439,16 +439,16 @@ This catalog lists all translated works organized by author. Each entry includes
   [GitHub](vol_133/Jean%20Mabillon%20-%20Historical%20Eulogy%20by%20Mabillon)
 
 **Historical Eulogy** — Vol. 68
-  [GitHub](vol_68/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
+  [GitHub](vol_68/Jean%20Mabillon%20-%20Historical%20Eulogy)
 
 **Historical Eulogy** (*Sancti Adonis Elogium historicum*) — Vol. 123
-  [Archive](https://archive.org/details/historical-eulogy) | [YouTube](https://www.youtube.com/watch?v=BLZPxk3T9qQ) | [GitHub](vol_123/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
+  [Archive](https://archive.org/details/historical-eulogy) | [YouTube](https://www.youtube.com/watch?v=BLZPxk3T9qQ) | [GitHub](vol_123/Jean%20Mabillon%20-%20Historical%20Eulogy)
 
 
 ## Jean Martianay
 
 **Defense of the Learning of Jerome Against Jean Le Clerc** (*Defensio Eruditionis Hieronymianae adversus Joannem Clericum*) — Vol. 25
-  [Blog](https://bibliothecarius-modernus.github.io/2025/03/defensio-eruditionis-hieronymianae/) | [Archive](https://archive.org/details/defense-of-the-learning-of-jerome-against-jean-le-clerc) | [YouTube](https://www.youtube.com/watch?v=40fIiE9grXY) | [GitHub](vol_25/Jerome%20of%20Stridon%20-%20Defense%20of%20the%20Learning%20of%20Jerome%20Against%20Jean%20Le%20Clerc)
+  [Blog](https://bibliothecarius-modernus.github.io/2025/03/defensio-eruditionis-hieronymianae/) | [Archive](https://archive.org/details/defense-of-the-learning-of-jerome-against-jean-le-clerc) | [YouTube](https://www.youtube.com/watch?v=40fIiE9grXY) | [GitHub](vol_25/Jean%20Martianay%20-%20Defense%20of%20the%20Learning%20of%20Jerome%20Against%20Jean%20Le%20Clerc)
 
 
 ## John Italus of Cluny
@@ -457,7 +457,7 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/prologue-to-his-book-on-miracles) | [YouTube](https://www.youtube.com/watch?v=StQbtyPh8Zo) | [GitHub](vol_133/John%20Italus%20of%20Cluny%20-%20Prologue%20to%20His%20Book%20on%20Miracles)
 
 **The Life of Saint Odo Second Abbot of Cluny** — Vol. 133
-  [GitHub](vol_133/Odo%20of%20Cluny%20-%20The%20Life%20of%20Saint%20Odo%20Second%20Abbot%20of%20Cluny)
+  [GitHub](vol_133/John%20Italus%20of%20Cluny%20-%20The%20Life%20of%20Saint%20Odo%20Second%20Abbot%20of%20Cluny)
 
 
 ## John Scotus
@@ -574,10 +574,10 @@ This catalog lists all translated works organized by author. Each entry includes
 ## Notker Balbulus
 
 **Books on the Interpreters of Sacred Scriptures** (*Libri de interpretibus divinarum Scripturarum*) — Vol. 131
-  [Archive](https://archive.org/details/books-on-the-interpreters-of-sacred-scriptures) | [YouTube](https://www.youtube.com/watch?v=MaSojacIWmQ) | [GitHub](vol_131/Notker%20Labeo%20-%20Books%20on%20the%20Interpreters%20of%20Sacred%20Scriptures)
+  [Archive](https://archive.org/details/books-on-the-interpreters-of-sacred-scriptures) | [YouTube](https://www.youtube.com/watch?v=MaSojacIWmQ) | [GitHub](vol_131/Notker%20Balbulus%20-%20Books%20on%20the%20Interpreters%20of%20Sacred%20Scriptures)
 
-**Martyrology of Notker Labeo** — Vol. 131
-  [GitHub](vol_131/Notker%20Labeo%20-%20Martyrology%20of%20Notker%20Labeo)
+**Martyrology of Notker Balbulus** — Vol. 131
+  [GitHub](vol_131/Notker%20Balbulus%20-%20Martyrology%20of%20Notker%20Balbulus)
 
 
 ## Novatus the Catholic
@@ -697,22 +697,22 @@ This catalog lists all translated works organized by author. Each entry includes
 ## Pietro Tommaso Cacciari
 
 **On the Heresy and History of the Eutychians Book One** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20One)
+  [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20One)
 
 **On the Heresy and History of the Eutychians Book Two** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20Two)
+  [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20Two)
 
 **On the Heresy and History of the Manicheans Book One** (*De Eutychiana haeresi et historia Liber I*) — Vol. 55
-  [Blog](https://bibliothecarius-modernus.github.io/2025/05/de-eutychiana-haeresi/) | [Archive](https://archive.org/details/on-the-heresy-and-history-of-the-eutychians-book-one) | [YouTube](https://www.youtube.com/watch?v=peY5ysKu7Mo) | [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20One)
+  [Blog](https://bibliothecarius-modernus.github.io/2025/05/de-eutychiana-haeresi/) | [Archive](https://archive.org/details/on-the-heresy-and-history-of-the-eutychians-book-one) | [YouTube](https://www.youtube.com/watch?v=peY5ysKu7Mo) | [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20One)
 
 **On the Heresy and History of the Manicheans Book Two** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20Two)
+  [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20Two)
 
 **On the Heresy and History of the Priscillianists** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Priscillianists)
+  [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Priscillianists)
 
 **On the Pelagian Heresy Growing in the Age of Leo the Great** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Pelagian%20Heresy%20Growing%20in%20the%20Age%20of%20Leo%20the%20Great)
+  [GitHub](vol_55/Pietro%20Tommaso%20Cacciari%20-%20On%20the%20Pelagian%20Heresy%20Growing%20in%20the%20Age%20of%20Leo%20the%20Great)
 
 
 ## Pope Adrian I
