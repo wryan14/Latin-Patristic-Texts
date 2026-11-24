@@ -10,15 +10,6 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/adelbold-treatise-sphere-thickness) | [YouTube](https://www.youtube.com/watch?v=44vqTfEStio) | [GitHub](vol_140/Adelbold%20of%20Utrecht%20-%20Treatise%20on%20Finding%20the%20Thickness%20of%20a%20Sphere)
 
 
-## Ado of Vienne
-
-**Historical Eulogy** — Vol. 68
-  [GitHub](vol_68/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
-
-**Historical Eulogy** (*Sancti Adonis Elogium historicum*) — Vol. 123
-  [Archive](https://archive.org/details/historical-eulogy) | [YouTube](https://www.youtube.com/watch?v=BLZPxk3T9qQ) | [GitHub](vol_123/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
-
-
 ## Adventius, Bishop of Metz
 
 **Little Book on Waldrada** (*Libellus de Waldrada*) — Vol. 121
@@ -44,6 +35,7 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **Verses on the Cuckoo** (*Versus de Cuculo*) — Vol. 101
   [Archive](https://archive.org/details/verses-on-the-cuckoo) | [GitHub](vol_101/Alcuin%20of%20York%20-%20Verses%20on%20the%20Cuckoo)
+
 
 ## Ambrose of Milan
 
@@ -106,6 +98,7 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **The Polypticum which is called Perpendiculum (alternative recension)** (*Polypticum quod appellatur Perpendiculum (textus alter)*) — Vol. 134
   [GitHub](vol_134/Atto%20of%20Vercelli%20-%20The%20Polypticum%20which%20is%20called%20Perpendiculum%20%28alternative%20recension%29)
+
 
 ## Augustine of Hippo
 
@@ -277,6 +270,7 @@ This catalog lists all translated works organized by author. Each entry includes
 **On the Two Cities of God and the Devil** (*De duabus civitatibus Dei et diaboli*) — Vol. 171 [12th century] · pl171-004
   [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-duabus-civitatibus-dei-et-diaboli-geoffroy-babion/) | [Archive](https://archive.org/details/on-the-two-cities-of-god-and-the-devil) | [YouTube](https://www.youtube.com/watch?v=HoT-UhOz0T0) | [GitHub](vol_171/Geoffroy%20Babion%20-%20On%20the%20Two%20Cities%20of%20God%20and%20the%20Devil)
 
+
 ## Germain of Paris
 
 **Privilege of the Monastery of Saint Germanus** (*Privilegium monasterii St Germani.*) — Vol. 72
@@ -423,6 +417,7 @@ This catalog lists all translated works organized by author. Each entry includes
 **The Inevitable, or A Dialogue on Predestination and Free Will** (*Inevitabile sive Dialogus de Praedestinatione et Libero Arbitrio*) — Vol. 172 [12th century]
   [Blog](https://bibliothecarius-modernus.github.io/2026/06/inevitabile-sive-dialogus-de-praedestinatione-et-libero-arbitrio-honorius-augustodunensis/) | [Archive](https://archive.org/details/honorius-augustodunensis-inevitabile) | [YouTube](https://www.youtube.com/watch?v=3ANQm6IDWAs) | [GitHub](vol_172/Honorius%20Augustodunensis%20-%20The%20Inevitable%2C%20or%20A%20Dialogue%20on%20Predestination%20and%20Free%20Will)
 
+
 ## Hugh of Saint Victor
 
 **On the Four Wills in Christ** — Vol. 176
@@ -443,8 +438,14 @@ This catalog lists all translated works organized by author. Each entry includes
 **Historical Eulogy by Mabillon** — Vol. 133
   [GitHub](vol_133/Jean%20Mabillon%20-%20Historical%20Eulogy%20by%20Mabillon)
 
+**Historical Eulogy** — Vol. 68
+  [GitHub](vol_68/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
 
-## Jerome of Stridon
+**Historical Eulogy** (*Sancti Adonis Elogium historicum*) — Vol. 123
+  [Archive](https://archive.org/details/historical-eulogy) | [YouTube](https://www.youtube.com/watch?v=BLZPxk3T9qQ) | [GitHub](vol_123/Ado%20of%20Vienne%20-%20Historical%20Eulogy)
+
+
+## Jean Martianay
 
 **Defense of the Learning of Jerome Against Jean Le Clerc** (*Defensio Eruditionis Hieronymianae adversus Joannem Clericum*) — Vol. 25
   [Blog](https://bibliothecarius-modernus.github.io/2025/03/defensio-eruditionis-hieronymianae/) | [Archive](https://archive.org/details/defense-of-the-learning-of-jerome-against-jean-le-clerc) | [YouTube](https://www.youtube.com/watch?v=40fIiE9grXY) | [GitHub](vol_25/Jerome%20of%20Stridon%20-%20Defense%20of%20the%20Learning%20of%20Jerome%20Against%20Jean%20Le%20Clerc)
@@ -454,6 +455,9 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **Prologue to His Book on Miracles** (*Prologus in Librum suum de Miraculis*) — Vol. 133
   [Archive](https://archive.org/details/prologue-to-his-book-on-miracles) | [YouTube](https://www.youtube.com/watch?v=StQbtyPh8Zo) | [GitHub](vol_133/John%20Italus%20of%20Cluny%20-%20Prologue%20to%20His%20Book%20on%20Miracles)
+
+**The Life of Saint Odo Second Abbot of Cluny** — Vol. 133
+  [GitHub](vol_133/Odo%20of%20Cluny%20-%20The%20Life%20of%20Saint%20Odo%20Second%20Abbot%20of%20Cluny)
 
 
 ## John Scotus
@@ -482,6 +486,7 @@ This catalog lists all translated works organized by author. Each entry includes
 **Mystical Explanation of the Song of Songs** (*Explanatio in Cantica Canticorum*) — Vol. 67 [6th century] · pl067-900
   [Blog](https://bibliothecarius-modernus.github.io/2026/09/explanatio-in-cantica-canticorum-justus-of-urgel/) | [Archive](https://archive.org/details/mystical-explanation-of-the-song-of-songs) | [YouTube](https://www.youtube.com/watch?v=QFZM6iVxKy8) | [GitHub](vol_67/Justus%20of%20Urgel%20-%20Mystical%20Explanation%20of%20the%20Song%20of%20Songs)
 
+
 ## Laurentius of Monte Cassino
 
 **Sermon on the Vigil of Saint Benedict** (*Sermo in vigiliis S Benedicti*) — Vol. 133
@@ -492,27 +497,6 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **Letter to Childerbert** (*Epistola ad Childerbertum*) — Vol. 68
   [Blog](https://bibliothecarius-modernus.github.io/2025/05/epistola-ad-childebertum/) | [Archive](https://archive.org/details/letter-to-childerbert) | [YouTube](https://www.youtube.com/watch?v=ZbM7vdt48fE) | [GitHub](vol_68/Leo%20of%20Sens%20-%20Letter%20to%20Childerbert)
-
-
-## Leo the Great
-
-**On the Heresy and History of the Eutychians Book One** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20One)
-
-**On the Heresy and History of the Eutychians Book Two** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20Two)
-
-**On the Heresy and History of the Manicheans Book One** (*De Eutychiana haeresi et historia Liber I*) — Vol. 55
-  [Blog](https://bibliothecarius-modernus.github.io/2025/05/de-eutychiana-haeresi/) | [Archive](https://archive.org/details/on-the-heresy-and-history-of-the-eutychians-book-one) | [YouTube](https://www.youtube.com/watch?v=peY5ysKu7Mo) | [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20One)
-
-**On the Heresy and History of the Manicheans Book Two** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20Two)
-
-**On the Heresy and History of the Priscillianists** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Priscillianists)
-
-**On the Pelagian Heresy Growing in the Age of Leo the Great** — Vol. 55
-  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Pelagian%20Heresy%20Growing%20in%20the%20Age%20of%20Leo%20the%20Great)
 
 
 ## Leporius
@@ -587,7 +571,7 @@ This catalog lists all translated works organized by author. Each entry includes
   [Blog](https://bibliothecarius-modernus.github.io/2025/04/opusculum-de-vigiliis-servorum-dei/) | [Archive](https://archive.org/details/work-on-the-vigils-of-gods-servants) | [YouTube](https://www.youtube.com/watch?v=03_nqMucNBw) | [GitHub](vol_68/Nicetas%20of%20Remesiana%20-%20Work%20on%20the%20Vigils%20of%20Gods%20Servants)
 
 
-## Notker Labeo
+## Notker Balbulus
 
 **Books on the Interpreters of Sacred Scriptures** (*Libri de interpretibus divinarum Scripturarum*) — Vol. 131
   [Archive](https://archive.org/details/books-on-the-interpreters-of-sacred-scriptures) | [YouTube](https://www.youtube.com/watch?v=MaSojacIWmQ) | [GitHub](vol_131/Notker%20Labeo%20-%20Books%20on%20the%20Interpreters%20of%20Sacred%20Scriptures)
@@ -620,16 +604,11 @@ This catalog lists all translated works organized by author. Each entry includes
   [Archive](https://archive.org/details/sermon-on-st.-lucian) | [YouTube](https://www.youtube.com/watch?v=McEoqSTfvpI) | [GitHub](vol_124/Odo%20I%20of%20Beauvais%20-%20Sermon%20on%20St.%20Lucian)
 
 
-## Odo of Cluny
-
-**The Life of Saint Odo Second Abbot of Cluny** — Vol. 133
-  [GitHub](vol_133/Odo%20of%20Cluny%20-%20The%20Life%20of%20Saint%20Odo%20Second%20Abbot%20of%20Cluny)
-
-
 ## Odo of Tournai (Odo of Cambrai)
 
 **On Blasphemy against the Holy Spirit** (*De blasphemia in Spiritum sanctum*) — Vol. 160 [12th century] · pl160-027
   [Blog](https://bibliothecarius-modernus.github.io/2026/09/de-blasphemia-in-spiritum-sanctum-odo-of-tournai-odo-of-cambrai/) | [Archive](https://archive.org/details/on-blasphemy-against-the-holy-spirit) | [YouTube](https://www.youtube.com/watch?v=yXD5x_ObVjY) | [GitHub](vol_160/Odo%20of%20Tournai%20%28Odo%20of%20Cambrai%29%20-%20On%20Blasphemy%20against%20the%20Holy%20Spirit)
+
 
 ## Optatus
 
@@ -647,6 +626,7 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **Book of His Temptations** (*Liber de tentationibus suis*) — Vol. 146
   [Archive](https://archive.org/details/othloh-de-tentationibus) | [GitHub](vol_146/Othloh%20of%20St%20Emmeram%20-%20Book%20of%20His%20Temptations)
+
 
 ## Pacian of Barcelona
 
@@ -712,6 +692,28 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **On the Collection of Isidore Mercator — the False Decretals** (*De collectione Isidori Mercatoris*) — Vol. 56
   [Archive](https://archive.org/details/ballerini-false-decretals) | [GitHub](vol_56/Pietro%20%26%20Girolamo%20Ballerini%20-%20On%20the%20Collection%20of%20Isidore%20Mercator%20%E2%80%94%20the%20False%20Decretals)
+
+
+## Pietro Tommaso Cacciari
+
+**On the Heresy and History of the Eutychians Book One** — Vol. 55
+  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20One)
+
+**On the Heresy and History of the Eutychians Book Two** — Vol. 55
+  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Eutychians%20Book%20Two)
+
+**On the Heresy and History of the Manicheans Book One** (*De Eutychiana haeresi et historia Liber I*) — Vol. 55
+  [Blog](https://bibliothecarius-modernus.github.io/2025/05/de-eutychiana-haeresi/) | [Archive](https://archive.org/details/on-the-heresy-and-history-of-the-eutychians-book-one) | [YouTube](https://www.youtube.com/watch?v=peY5ysKu7Mo) | [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20One)
+
+**On the Heresy and History of the Manicheans Book Two** — Vol. 55
+  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Manicheans%20Book%20Two)
+
+**On the Heresy and History of the Priscillianists** — Vol. 55
+  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Heresy%20and%20History%20of%20the%20Priscillianists)
+
+**On the Pelagian Heresy Growing in the Age of Leo the Great** — Vol. 55
+  [GitHub](vol_55/Leo%20the%20Great%20-%20On%20the%20Pelagian%20Heresy%20Growing%20in%20the%20Age%20of%20Leo%20the%20Great)
+
 
 ## Pope Adrian I
 
@@ -1051,6 +1053,7 @@ This catalog lists all translated works organized by author. Each entry includes
 **The First Book of Sentences** (*Sententiarum Liber Primus*) — Vol. 80
   [GitHub](vol_80/Taio%20of%20Zaragoza%20-%20The%20First%20Book%20of%20Sentences)
 
+
 ## Theodulf of Orleans
 
 **Concerning the Holy Spirit** — Vol. 105
@@ -1115,4 +1118,3 @@ This catalog lists all translated works organized by author. Each entry includes
 
 **On the Life of St Goar** — Vol. 121
   [GitHub](vol_121/Wandalbert%20of%20Prum%20-%20On%20the%20Life%20of%20St%20Goar)
-
