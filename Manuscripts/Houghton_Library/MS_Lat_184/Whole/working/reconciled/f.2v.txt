@@ -1,0 +1,35 @@
+01: pariter inuocate mecum hodie dominum omnipotentem.
+02: ut causa matris sue. et omnium sanctorum suorum nos
+03: participes faciat gratie spiritus sancti et maneat
+04: super nos et perducat nos in uitam eternam. amen. ›De‹
+05: Fratres karissimi. Scire debetis ›s. iohanne baptista.‹ {margin: s. iohanne baptista}
+06: quia(?) quic quid sanctis impenditur honoris et uenera-
+07: tionis. illud impenditur ipsi domino nostro cui
+08: seruierunt dum uixerunt. Et sicut nos diligimus quod
+09: aliquis seruus noster bene tractatur pro nostra di-
+10: lectione in domo alterius. ita diligit dominus
+11: si pro amore eius. sanctos suos honoramus et ue-
+12: neramur. Et ideo moneo \uos/ ut diem istum celebre-
+13: tis orationibus uestris et omnibus operibus caritatis
+14: quantum possitis. Quando hic statis in ecclesia.
+15: debetis uos intime commendare deo cum cor-
+16: pore et anima uestra. et debetis eum rogare ut
+17: ipse habeat uos in manibus suis. ne diabolus
+18: aliquam potestatem habeat in uobis. et primum debe-
+19: tis orare pro omni ecclesia. et pro omnibus fidelibus
+20: defunctis. et debetis orare pro inimicis
+21: uestris. ut deus eos conuertat ad pacem. Et
+22: debetis dare elemosynam uestram. et debe-
+23: tis inuicem fidem et ueritatem seruare. Hoc
+24: tale festum placet deo. Et debetis hodie
+
+NOTES:
+- Join with f.2 HOLDS: f.2 l.24 ends with the complete word "Un̄" = Unde (V + n + general abbreviation curl), and f.2v l.01 "pariter inuocate mecum hodie dominum omnipotentem" continues the same sentence ("Unde pariter inuocate mecum hodie ..."). Pencil foliation "4" top left, not text.
+- 01: "omp̄tm" with bar = omnipotentem.
+- 03: "sci" with superscript curl, then "⁊ maneat": no point after sancti.
+- 04-05: rubric in red split over two lines: "De" at the end of l.04, "·s· iohe bapt̃·" at the end of l.05; red initial F (l.05). "iohe" with bar and "bapt" with abbreviation mark expanded iohanne baptista (ablative after De); "s." = sancto, kept as written. Left-margin guide note in brown ink, level with l.04-05: "s· iohe bapt̃" (abbreviations expanded, "s." kept as written, as for the other guide notes).
+- 06: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (same as f.1 l.15). Read quia(?) — the scribe writes quod as "qd" (l.08 "quod" written out; f.1v l.09, f.3 l.02 "qd"), so quod (Pass 1) is not what the sign shows; no full "quia" on ff.1-4v, so (?) kept. Alternatives: quod, quam. "quic q(i)d" written as two words.
+- 09: "p" whose descender curls back to the left (pro, not the barred per of f.2 l.03) + "nra" with the general abbreviation mark = pro nostra; "lectione" (l.10) has no nasal mark: "pro nostra dilectione" (ablative) as written.
+- 11: "si" as written; "p" with leftward loop = pro; a punctus after "eius" (beside a small brown stain).
+- 12: "uos" in the left margin between l.11 and l.12; two dots above the end of "moneo" mark the insertion point: inserted after moneo.
+- 18: "p" with a superscript i (vertical stroke with a head) = pri + "mū" = primum.

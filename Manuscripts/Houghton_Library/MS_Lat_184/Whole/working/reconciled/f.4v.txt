@@ -1,0 +1,39 @@
+01: uocate eam. ut intercedat pro peccatis uestris. Ipsa est
+02: per quam dominus operatus est salutem humano generi.
+03: Ipsa est stella maris. uel(?) illuminatio tocius mun-
+04: di. Mundus iste est quasi mare. quia(?) omni tempore
+05: mouetur magna instabilitate. et numquam in eodem
+06: statu permanet. Sicut per euam suasione diaboli
+07: casus factus est humano generi. sic per mariam an-
+08: gelo nuntiante salus illuxit. toto orbi terrarum.
+09: Ipsa est singularis spes omnium qui confugiunt
+10: ad eam. Ipsa est per qua dominus noster filius eius peccata
+11: dimittit. Ipsa est que hodie inter choros angelorum
+12: in conspectu dei gaudet leticia eterna. Ipsa
+13: est que genuit nobis eternum lumen ipsum christum
+14: filium dei per quem illuminatus est mundus. Ipsa
+15: est a quam nos peccatores confugere debemus.
+16: Ipsa est magna spes nostra. Unde leuate hodie
+17: corda uestra ad omnipotentem dominum. ut ipse pro matre que
+18: hodie corpore et anima recepta est in celum.
+19: [[recipiat]] respiciat super nos. et concedat nobis
+20: fidem et ueritatem. et ueram penitentiam. et uitam
+21: eternam. Unde quoque(?) moneo ut cum summa deuotione
+22: stetis in ecclesia. et oretis que uobis necessaria
+23: sunt. et peccata deflete uestra. et rogate indu- {offset}
+24: cias. ut penitendo(?) peccata \uestra/ diluatis. Quod ipse prestet(?).
+
+NOTES:
+- Join with f.4 HOLDS: f.4 l.24 "toto corde in- / uocate eam". Pencil foliation "8" top left, not text. The Assumption sermon ends on l.24 with the closing formula; the join to f.5 is outside this batch.
+- 01: "intc̄edat" = intercedat; "p" with loop = pro.
+- 02: "ꝑ quā" — per quam, with a nasal bar over the a (so quam is written q-u-a + bar, not with the q-stroke sign).
+- 03: a bare "v" between "maris·" and "illuminatio", no abbreviation mark: uel(?) (alternatives ut, et).
+- 04: q-sign. Seen: q with a horizontal stroke through the descender, NO superscript (as f.1 l.15, f.2v l.06, f.3v l.08, l.24). Read quia(?): this scribe writes quod as "qd" and quam as "quā" (l.02), so neither is this sign; no full quia on ff.1-4v, so (?) kept.
+- 06: "suasione" without abbreviation mark (as written).
+- 10: "ꝑ qua" — NO nasal bar over the a (contrast l.02 "quā"); kept as written "per qua" (sense: per quam).
+- 15: "ē aquā" — est + "aquā" written together: "a quam" (no d written; sense: ad quam).
+- 17: "p" whose descender ends in a leftward hooked loop (as f.2v l.09) = pro; "q" with superscript e = que.
+- 19: "recipiat" underlined (deletion by underlining), followed by "respiciat".
+- 21: "Un̄" = Unde (same form as f.2 l.24). q-sign WITH the small superscript hook (as f.3 l.06, l.10, f.4 l.03, l.10): quoque(?) by sense; alternative quidem.
+- 23: "deflete" as written; the stroke below its final e is the insertion caret belonging to l.24, not a mark on the word. A red smudge at the right edge of l.23-24 = offset/stain.
+- 24: "penit" + the general abbreviation curl over t: the ending is not determined — penitendo(?) (alternatives penitentia, penitentie). "ura" with stroke (uestra) written above between "pecca" (peccata, bar) and "diluatis", with a comma-shaped caret below: \uestra/. Closing formula "Qd ipse p̃st̃" = Quod ipse prestet(?) (alternative prestare ...).

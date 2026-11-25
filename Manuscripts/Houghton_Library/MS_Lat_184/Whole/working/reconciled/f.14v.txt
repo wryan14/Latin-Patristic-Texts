@@ -1,0 +1,38 @@
+{margin: 26 (pencil page number, top left)}
+01: omnibus illis qui in hoc mundo deum timuerint(?). et eius uo-
+02: luntatem impleuerint(?). Tunc cessat omnis miseria. tunc
+03: cessat fnales(?) et sitis. tunc cessat omnis lapor. Ubi
+04: nulla pestis. nullus hostis. ibi chorus angelorum. ibi
+05: uidebimus filium dei ad dexteram patris. ibi regna-
+06: bimus cum christo in perpetuum. Fratres karissimi debetis quoque(?) scire
+07: quare melius sit uobis ire ad domum ubi mortuos
+08: uidemus. et ubi gemitus et planctus est. quam ad conuiuia ubi
+09: leticia est. quia ubi mortuos uidemus. statim quoque(?) cogitamus
+10: quid futurum sit de nobis. et ubi cogitamus quoque(?) ad quem
+11: finem ueniat et uita et substantia nostra. et omnis secu-
+12: laris gloria. Et commonemur quoque(?) quia omnia nostra debemus
+13: hic relinquere. et quia nudi intrauimus nudi
+14: exibimus. tunc primum ignorabimus cui congregauimus.
+15: et quomodo statim incipimus putrescere. et tunc alii in-
+16: cipiunt uti bonis nostris. \et nihil umquam remanet nobis de omnibus bonis nostris/ nisi forte aliquid premisis-
+17: semus. Bona opera nostra et bona uoluntas nostra tantum
+18: nobiscum remanet. Et pro certo scire debetis. quia
+19: in transitu uniuscuiusque nostrum. aderunt \angeli/ dei. et an-
+20: geli diaboli. et utrique suam partem exigunt. Si maiora
+21: sunt opera bona angeli dei preualebunt. et rapiunt
+22: animam in paradysum in conspectu dei. Si autem plura
+23: sunt opera mala. tunc preualebunt nuncii diabo-
+24: li et ducunt animam in conspectum diaboli. ut in
+
+NOTES:
+JOIN: f.14 l.24 "... eterna leticia." + f.14v l.01 "omnibus illis qui" — joins. f.14v l.24 "ut in" runs on to f.15 l.01.
+01, 02: "timuert" / "impleuert" with superscript mark: timuerint / impleuerint; alternative -erunt.
+03: the word after "cessat": three minims of which the middle one is drawn up into a tall f with crossbar (stem on the baseline), followed by "ales"; a single dot stands below the middle minim (possible expunction/correction mark). Literal segmentations: f + n + ales ("fnales") or m + ales with an f-ascender added ("males"); fames is presumably intended but its letters (a-m-e) are not on the page. Unresolved.
+03: "lapor" written with p (sic, = labor). "Ubi": tall U + b + i.
+04, 05: "ibi" (single minim before b) three times; contrast l.10.
+06, 09, 10, 12: q with the ꝛ-like stroke through the descender (the plain quia sign, e.g. l.09 "quia ubi", l.12 "quia omnia", l.18) PLUS a superscript curl (the hand's general abbreviation curl). l.12 has this sign and plain quia side by side, so it is not quia; quam is q + superscript a (l.08). quoque fits all four contexts (and f.13 l.21, f.13v l.15); kept quoque(?); alternatives quasi / quare.
+10: "ubi" — two joined minims before b (u), not ibi as both passes read.
+16: three-dot insertion sign above, after "nostris."; left margin "∴ 7 nihil umq̄ / remanet nob / de om̄ib; boni / nr̄is" — the margin has "nihil" (no c). "n" with superscript i = nisi; p with superscript curl = pre- (premisissemus).
+18: "remanet" — no nasal stroke.
+19: "angli" written above the line = \angeli/.
+24: no point after "li" (Pass 2's "li." not on the page). Page ends mid-sentence.

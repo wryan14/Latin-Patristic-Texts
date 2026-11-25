@@ -1,0 +1,40 @@
+01: querimus. non gloriam dei. Nos gloriamur ex potestate et diuiciis
+02: nostris. et non cogitamus quid commissum sit. Nos comedimus bo-
+03: na [[domini]] populi. et non laboramus quomodo animas eorum deo lucri(?)-
+04: faciamus. Vere dico uobis. quia deus exigit a nobis omnes animas
+05: illas que ex nostra negligentia pereunt. Nos nulla ca-
+06: ritate. nulla dulcedine regimus populum dei. sed cum
+07: quadam austeritate et indignatione magis prouocamus
+08: eos ad iram. et ad murmura contra nos. Immo ex-
+09: hortari debemus eos blandis ammonitionibus
+10: [[eos]] et deberemus eos adtrahere cum omnimoda
+11: caritate. ut et nos ipsi simul cum eis conseruaremur
+12: ad eternam uitam. Ut diceretur nobis a domino. Serue bone
+13: et fidelis. quia s. p. f. uidelicet(?) in his terrenis. super multa
+14: te constituam. uidelicet(?) eternam uitam tibi dabo. Nobis non dicitur ab episcopo.
+15: Accipite diuicias et utimini sicut uultis. sed dicitur nobis
+16: accipite curam animarum. de quibus rationem reddi-
+17: turi estis in die iudicii. Hoc nobis ualde timen-
+18: dum est. Hoc nobis ualde terribile est. Non est professio
+19: aliqua super terram que deo gratius posset seruire
+20: quam nos sacerdotes. quia et nos ipsos et alios possemus ser-
+21: uare. Quia quoque(?) aliquis nostrum plus diligit illum ser-
+22: uum suum. qui .x. uel .xx. uel plures manipulos affert
+23: ad horreum suum. quam illum qui tantum unum affert. hoc
+24: est qui se tantum seruat. Ideo petro a domino. Si diligis
+{margin: 13 (pencil foliation, lower left)}
+
+NOTES:
+JOIN: f.12v l.24 "... Nos gloriam" + f.13 l.01 "querimus. non gloriam dei." — joins. f.13 l.24 "Si diligis" continues on f.13v l.01 "me. pasce oues meas" — joins.
+01: second "glam" carries a superscript curl over the m that the first "glam" (after n̄) lacks; the same curl stands over "diceret" l.12 (= diceretur), so read gloriamur. "diuiciis": "diuic" + ii with two strokes + s; clear.
+02: "nr̄is" = nostris, clear. "qd" with a small superscript i between q and d (no stroke through the d-ascender) = quid; not quod.
+03: "dm̄i" underlined = deleted. "luc" + a short vertical superscript stroke, the same shape as the superscript i in "Qⁱa" l.21 and "qⁱd" l.02 → lucri- (lucrifaciamus); alternative lucre- if the stroke is the er/re hook.
+04: "exigit": e + x (r-like) + igit, clear.
+07: "austeritate": small letters written above the t-group (looks like "tu" / "it"), possibly a correction; word kept as austeritate.
+08: "murmura": the final a has a rising cross-stroke, read as a flourish; the word is clear.
+09: "ammonitionib;" — the ; is the -us sign of b, not punctuation.
+13: "s. p. f." = initials of "super pauca fuisti" (Mt 25:21), kept as written (Pass 1 expanded silently to "super pauca fuisti fidelis"). The fidelis of Pass 1 is not on the page.
+13, 14: free-standing v, preceded by a point, no point after it. The scribe writes uel as ł (l.22, twice), so this is a different sign. The same v occurs on f.12v l.24 ("v predicatione": spiritual food, namely preaching) and f.16 l.20. uidelicet fits every instance; uel also possible. Kept uidelicet(?).
+21: "Qⁱa" = Quia (Q + superscript i + a), clear. Then q with the ꝛ-like stroke through the descender (the quia sign of l.04, l.20) PLUS a superscript curl (the general abbreviation curl of this hand, as on cũ, suũ). It is distinct from plain quia and from quam (q + superscript a, l.23 / f.14v l.08). Read quoque(?) consistently with f.13v l.15 and f.14v ll.06, 09, 10, 12, where quoque fits every context; alternatives quasi / quare. The sign itself does not spell the word.
+22: "q̃ⁱ" = qui; points before and after x and xx.
+24: "pet" with clear superscript o = petro.

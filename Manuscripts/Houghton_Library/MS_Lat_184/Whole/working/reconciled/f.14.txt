@@ -1,0 +1,37 @@
+{margin: 25 (pencil page number, top right)}
+01: dite ibi odorem sancte caritatis in deum et proximum
+02: uestrum. Tunc habitabit in corde uestro. et mansionem
+03: apud uos faciet. et eritis deo uerum templum. de quo
+04: dicit apostolus. Templum dei sanctum est quod estis uos. Hoc
+05: modo sicut prediximus promeruit publicanus hacheus(?) de
+06: quo hodie lectum est in euangelio. quod deus dignatus est
+07: in domo illius manere. et indulsit ei omnia peccata
+08: sua. quia ei locum uere penitentie preparauit. Unde uos fratres
+09: karissimi inuitate deum in domum cordis uestri. et offerte
+10: ei sacrificium bone uoluntatis. ut ipse uos post
+11: hanc uitam recipiat in eterna tabernacula. Quod ipse p.
+12: Scriptum est in libris ›In die exequiarum‹ {margin: i die / exeqaru}
+13: quia melior est dies mortis. dies natiuitatis. et me-
+14: lius ire ad domum luctus. quam ad domum conuiuii. Qui
+15: hoc prescripsit nobis. ille sciuit bene miseriam et labo-
+16: rem huius uite. Statim ut nascimur incipimus plorare.
+17: hec prima uox nostra est. et ita quamdiu uiuimus. semper in
+18: labore et miseriis sumus. Ecce uidetis reges.
+19: et duces. comites. et alios diuites. quomodo labo-
+20: rant. in quibus angustiis nocte et die uersantur. Diui-
+21: tes eodem modo ut pauperes captiuantur. occiduntur. mul-
+22: ta aduersa paciuntur et usque ad diem mortis numquam erunt
+23: in pace. et in die mortis sue soluuntur a malis omnibus
+24: huius seculi. et tunc incipit eterna requies et eterna leticia.
+{margin: 14 (pencil foliation, lower left)}
+
+NOTES:
+JOIN: f.13v l.24 "et accen-" + f.14 l.01 "dite ibi odorem" — joins. f.14 l.24 "... eterna leticia." + f.14v l.01 "omnibus illis qui ..." — joins.
+05: the name is written "hacheus": an h-form first letter with a hairline lead-in at its upper left; the hairline may make it the scribe's z (Zacheus intended). Letters kept, (?) on the first letter. A red-brown stain lies under "-eus".
+06: "ęuglio" with abbreviation stroke = euangelio (standard expansion; the scribe's full spelling not seen on these pages; Pass 1 "euuangelio" not supported by the letters).
+08: "penit" with stroke = penitentie (scribe writes "penitentie" in full on f.13v l.24).
+11: closing formula as written: "Qd ipse p." (p with point; presumably prestare dignetur / prestet). Not written out in full on ff.13–16v, so kept.
+12: red initial S; rubric in red "Indie exeq̇arū" = In die exequiarum. Guide note, right margin, brown: "i die / exeqaru".
+13: "dies natiuitatis" as on the page.
+15: "p̄sc\i/psit" = prescripsit; clear.
+22: no point after "paciunt~". "ert" with a superscript curl (general abbreviation sign, not a superscript i) = erunt.

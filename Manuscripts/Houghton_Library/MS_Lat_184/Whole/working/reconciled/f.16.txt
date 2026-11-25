@@ -1,0 +1,37 @@
+{margin: 28. (pencil page number, top right)}
+01: esse merita. Semper enim aures diuine pietatis nostris
+02: orationibus sunt aperte. si a precibus non cessemus. et in
+03: fide non dubitemus. Si enim carnalis pater bona data
+04: dare filiis nouit. quanto magis pater celestis
+05: dabit spiritum suum petetentibus. Confiteamur ergo alter-
+06: utrum peccata nostra. et pro inuicem ut saluemur oremus.
+07: Multum enim assidua deprecatio ualet. Celum namque
+08: oratio clausit et aperuit. Sed quia rogationum dies
+09: annuatim recolimus. commemorare libet unde ex-
+10: ordium sumpsit. Peccatis exigentibus luporum ra- {offset}
+11: bie acriter inminente. galliarum episcopi apud uien-
+12: nam congregati. in commune hos dies triduo cele-
+13: brari statuerunt. Cumque dominus pestem misericordi-
+14: ter abstulisset. hi dies in consuetudinem annue
+15: celebritatis uenerunt ut per galliarum prouincias ante
+16: ascensionem domini celebrarentur. Agamus et nos hos
+17: dies sicut statutum est in conciliis cum summa reue-
+18: rentia et deuotione. cum abstinentia carnis et [[ab]]
+19: humilitate cordis. ut non uisibilium luporum rabiem
+20: euadamus. sed ut inuisibilium. uidelicet(?) spirituum inmundorum
+21: temptamenta uincere ualeamus. Nullus his diebus
+22: preciosis uestimentis induatur. sed in sacco et cinere lu-
+23: gere a patribus statutum est. Prohibeantur ebrietates.
+24: et commessationes. Nemo ibi equitare presumat. et discal-
+
+NOTES:
+JOIN: f.15v l.24 "et sua gratuita dona. nostra ult~" + f.16 l.01 "esse merita" — joins (ultra). f.16 l.24 "et discal-" runs on to f.16v l.01.
+01: gap between "p" and "ietatis" caused by a flaw/crease at the top of the leaf; no letters lost.
+02: "apte" (e-caudata) with p whose descender is crossed at its foot by a stroke — the same per-sign as "Semp" (semper) in l.01, while plain p (pater l.03/04) has no such stroke: aperte, not apte.
+05: "petetentibus" as written (syllable doubled, sic).
+10: red offset from the facing page beside ll.09–10 at the right edge; not text.
+11: "in minente" written with n = inminente.
+12: point after "congregati".
+18: "ab" at line end underlined = deleted.
+20: free-standing v preceded by a point (none after), as f.13 ll.13–14 and f.12v l.24: uidelicet(?) ("the invisible, namely unclean spirits"). Not uel: the scribe writes uel in full (f.15v l.19) or as ł (f.13 l.22). Alternative uel.
+24: "9messationes": the con/com-sign followed by a written m = commessationes (possibly conmessationes; the scribe writes "inminente" l.11). A horizontal dash after "discal" in the right margin (line-end mark).

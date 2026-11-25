@@ -1,0 +1,33 @@
+{margin: later foliation "21" top right}
+01: alium locum ubi multi congregantur. ornat se uestibus
+02: candidioribus. componit capillos. ne aliquid sit unde
+03: oculos multorum offendat. Quanto magis cum ituri
+04: sumus in conspectu domini nostri ornari debemus bonis
+05: operibus. Quod u. p. d. qui cum p. s. s. uiuit et regnat. ›alius‹ {margin: alius.}
+06: Uos qui pauperes estis. qui substantia huius
+07: mundi caretis. deus consololabitur uos si in ipso spera-
+08: bitis. et si cum pacientia paupertatem uestram subportare
+09: uultis. Omnem spem uestram ponite in eo. quoniam ipsi
+10: cura est de uobis. et apud eum sunt diuicie. que manent
+11: in eternum. Christus non promisit electis suis diuicias huius
+12: mundi. sed laborem et dolorem in hoc seculo. Sicut ipse
+13: dicit. Mundus gaudebit. uos autem contristabimini.
+14: sed tristicia uestra(?) uertetur(?) in gaudium(?). quando mecum regnabitis. in eter-
+15: na leticia gaudebitis. Monemus uos ut uestras di-
+16: uitias comportetis in celum. ubi fur non effodiet. ubi latro
+17: non aufert. ubi nullus potentior a uobis extorquet. Et
+18: sicut in substantia pauperes estis. ita et in concupiscen-
+19: tia pauperes estote. ita ut nichil aliud queratis.
+20: nichil aliud concupiscatis. nisi quod deus ex sua gratia uobis
+21: obtulerit. Et scitote quia nichil deerit timentibus deum.
+22: Multi enim diuicias huius mundi. ad dampna-
+23: tionem anime sue habent. quia ex eis superbi sunt. pau-
+24: periores contempnunt. pauperes depredantur. nullam reue- {margin: —}
+NOTES:
+05: closing formula written "op(er)ib;· Qd u· p· d· qⁱ cū p· s· s· u· ⁊ r·". Expanded only where the letters or the scribe's own fuller wording support it: Qd = Quod, qⁱ = qui, cū = cum, "u· ⁊ r·" = uiuit et regnat (written out f.10v 10). "u. p. d." and "p. s. s." are kept as letters: likely sense "uobis prestare dignetur … patre (et) spiritu sancto"; no "et" before s. s. is written. Red rubric "alius" (lower-case a, x-height) after the formula; brown guide note "alius." in the right margin. 06: new piece, red enlarged initial U/V (Uos), red smudge below it.
+07: "9sololabit" + ur-sign: consololabitur (dittography), as written.
+14: "s; tristicia u· u· ı́ g·" — single-letter suspensions of the quotation; ı́ = in (conventional); u. u. g. expanded from the sense (uestra uertetur … gaudium), hence (?) on each. Point after g.
+16: "uitias": the third letter has a flat top stroke crossing the stem (t), unlike the curved-top c of "diuicias" 22 and "diuicie" 10; written as seen.
+21, 23: q-sign = quia (q + 2-shaped stroke + long horizontal, as f.9 03, f.10v 02/15).
+24: "dep̄dant" — the bar is over the bowl of p (pre), the descender is plain (no per-bar at the foot), then the ur-wave: depredantur. "nullā": nasal stroke running from the top of the second l over the a = nullam (f.11v 01 continues "rentiam"). Long dash in right margin after the line (line filler).
+Join: begins "alium locum", continuing f.10v 24 "uel in" ("uel in alium locum") — joins. Ends "nullam reue-", continued f.11v 01 "rentiam".

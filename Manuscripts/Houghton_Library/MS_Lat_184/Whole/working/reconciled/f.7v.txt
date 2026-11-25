@@ -1,0 +1,39 @@
+{margin: 14 (pencil foliation, top left)}
+01: oremus hodie. ut eius interuentu ab eterna mor-
+02: te resuscitemur. Monemus quoque(?) uos sicut iuste de-
+03: bemus. ut preceptis dei obediatis et ne despicia-
+04: tis eius paternas admonitiones. quia(?) semper ad
+05: hoc tendit. ut conseruet nos sicut filios suos eter-
+06: ne hereditatis. Operemur(?) ergo fratres karissimi. que numquam
+07: deficiunt. Que sunt illa opera. fidem et ueritatem
+08: seruemus omnibus proximis nostris. Nulli iniuriam
+09: faciamus. Omnibus quibus possumus prodesse debemus.
+10: pauperes. inuitemus in domum nostram. Demus eis
+11: uestes. demus eis cibum et \potum/ cibum. Sed cum dominus sit
+12: omni die in medio uestri. in specie pauperis. opor-
+13: tet ut sepius recipiamus eum. ut et ipse nos
+14: suscipiat. cum quo beatus martynus sine
+15: fine regnat. Inuocate ergo sanctum martynum.
+16: ut ipse sit intercessor noster. ut gratiam dei
+17: promereri possimus et letari cum ipso in eterna
+18: leticia. Quod ipse prestet(?) [[…]] ›In quocumque(?) festo.‹ {margin: in quocumque festo (guide note for the rubric, left margin, beside line 19)}
+19: CONSULImus(?) uobis fratres karissimi. ut deum di-
+20: ligatis ex omni cogitatione. ex toto corde.
+21: et quod committatis ei corpus et animam uestram. et
+22: ubicumque possitis uoluntatem eius faciatis. quia(?) sine
+23: gratia eius nichil facere potestis. In illius
+24: manus committite uos. et habete eum coram oculis
+
+NOTES:
+- Join f.7 → f.7v: "Unde pariter / oremus hodie" — joins.
+- 01: "int" + superscript hook + "uentu" = interuentu (not intuentu).
+- 02: q-sign of the SECOND form (q with a short 2-/3-shaped stroke from the top right of the bowl, ending in a blob, + superscript hook) — the same sign as f.7 l.15, 24 → quoque(?) ("Monemus quoque uos ... ut"); quia is excluded by the shape (contrast l.04, l.22).
+- 04, 22: q-sign of the FIRST form: q with a long straight horizontal stroke crossing the stem at the baseline, no superscript → quia(?) (as f.5 l.11–12).
+- 06: "Opem" + superscript ur-sign (no er-sign on the p) → Operemur(?); "ǵ" = ergo.
+- 07: "fide" with nasal curl = fidem; Tironian et (clear).
+- 10: point after "pauperes"; "Demus" begins with a capital (uncial D).
+- 11: "potum" above the second "cibum" (same ink), no deletion mark on "cibum": kept.
+- 18: "Qđ ipse p" — p with a short flag at the top right; the rest of the formula is not visible: prestet(?) as on ff. 5v–7. Then faint grey traces of two or three letters (erased, illegible) before the rubric.
+- 18: rubric (red, faded): "In" + display q (bowl with a tail, no long descender) + u + o + a pale/thin tall l-like stroke + e + u with superscript stroke + q; + "festo." Literally "In quo l e ū q; festo". The guide note in the left margin (brown, beside l.19) is clear: "ı̄ qͦcūq; festo" = in quocumque festo. The rubric is read as a (miscopied?) In quocumque(?) festo; "le" stands where "c" is expected. Not "apostoli cuiusque" (letter count and forms do not fit).
+- 19: red initial C (two lines); "ONSULI" in spaced black display capitals, then a bowl with a tail descending to the left (display M?) with superscript 9 (-us): CONSULImus(?) — Consulimus; the M is the uncertain letter.
+- q-sign form A (q + straight stroke across the stem, no superscript) is written quia(?): quia is never spelled out on ff. 5–8v, so the default is not confirmed by the scribe; quia is the only one of his q-words not otherwise assigned (qđ = quod, q + sup. i = qui, q + sup. open a = quam/qua, q + 2-shaped stroke + sup. hook = quoque(?)). Same treatment as the f.4/f.4v reconciliation.

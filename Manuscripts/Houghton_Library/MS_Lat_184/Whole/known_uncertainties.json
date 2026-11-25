@@ -1,0 +1,427 @@
+[
+ {
+  "locus": "1r.15",
+  "reading": "quia",
+  "note": "15: q-sign. Seen: q with a horizontal stroke crossing the descender at the baseline and running on to the right; NO superscript. The same sign stands on f.2v l.06, f.3v l.08, l.24, f.4v l.04; this scribe writes quod as \"qd\" (f.1v l.09, f.3 l.02, f.3v l.09) and qui in full, so quod is excluded by his practice; read quia, but no full spelling of quia occurs on ff.1-4v, so the reading rests partly on sense: quia(?). Alternatives: quod (Pass 1; no d is written), quam."
+ },
+ {
+  "locus": "1r.17",
+  "reading": "Propter",
+  "note": "17: first letter an uncial-d-like form with a tall ascender looped at the top, then p, then t with crossbar; a brownish \"&\"-like mark (different ink, possibly later) over/after the t. Read Propter by sense; letters not certain. Alternatives: none fitting the letters found."
+ },
+ {
+  "locus": "2r.14",
+  "reading": "norati",
+  "note": "14: \"nor\" + a + t + a final glyph that may be i or a (tt-ligature look); norati(?) (alt. norata). The o after n is certain (Pass 1 \"nerati\" excluded). \"aput\" with a clear final t."
+ },
+ {
+  "locus": "2v.06",
+  "reading": "quia",
+  "note": "06: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (same as f.1 l.15). Read quia(?) — the scribe writes quod as \"qd\" (l.08 \"quod\" written out; f.1v l.09, f.3 l.02 \"qd\"), so quod (Pass 1) is not what the sign shows; no full \"quia\" on ff.1-4v, so (?) kept. Alternatives: quod, quam. \"quic q(i)d\" written as two words."
+ },
+ {
+  "locus": "3r.06",
+  "reading": "quoque",
+  "note": "06, 10: q-sign. Seen: q with the horizontal stroke through the descender (as on f.1 l.15) PLUS a small superscript hook rising to the right, the same shape as the scribe's general abbreviation mark (e.g. over \"Un̄\", \"enī\"). Not an a, o, 2-shape or 3-shape. The sign itself does not fix the word; read quoque(?) by sense, consistently with f.4 l.03, l.10, f.4v l.21. Alternatives: quidem, quoque/quidem only by sense; not quia (the bare sign) and not quod (written \"qd\")."
+ },
+ {
+  "locus": "3r.10",
+  "reading": "quoque",
+  "note": "06, 10: q-sign. Seen: q with the horizontal stroke through the descender (as on f.1 l.15) PLUS a small superscript hook rising to the right, the same shape as the scribe's general abbreviation mark (e.g. over \"Un̄\", \"enī\"). Not an a, o, 2-shape or 3-shape. The sign itself does not fix the word; read quoque(?) by sense, consistently with f.4 l.03, l.10, f.4v l.21. Alternatives: quidem, quoque/quidem only by sense; not quia (the bare sign) and not quod (written \"qd\"). | 10: \"x\" with a superscript i (upright with a small head-stroke, as the superscript i of \"p(ri)mum\" f.2v l.18) = christi, parall"
+ },
+ {
+  "locus": "3r.20",
+  "reading": "quod",
+  "note": "20: \"nihil\" (with h) written above between \"pene\" and \"umq̃\", no insertion sign; letters clear, placed before umquam. \"affl-i-x-iss;\" = afflixisset. \"p\" with left loop = pro. At the line end, beyond the ruled column but in the text ink and continuing the line: \"qd\" — q + uncial d whose ascender carries a short tick/hook, i.e. the form this scribe uses for quod (f.3 l.02, l.09, l.14; f.3v l.09 \"promeruit qd\"); it lacks the superscript i of \"quic q(i)d\" (f.2v l.06). The page therefore shows quod; sense (\"... quid de nobis peccatoribus erit\") requires quid, so transcribed quod(?) with the alterna"
+ },
+ {
+  "locus": "3v.08",
+  "reading": "quia",
+  "note": "08, 24: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (as f.1 l.15, f.2v l.06, f.4v l.04). Read quia(?) — quod is written \"qd\" by this scribe (l.09 \"qd\" at the line end); no full quia on ff.1-4v, so (?) kept. Alternatives: quod, quam."
+ },
+ {
+  "locus": "3v.24",
+  "reading": "quia",
+  "note": "08, 24: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (as f.1 l.15, f.2v l.06, f.4v l.04). Read quia(?) — quod is written \"qd\" by this scribe (l.09 \"qd\" at the line end); no full quia on ff.1-4v, so (?) kept. Alternatives: quod, quam. | 24: after \"ei\" a raised curl shaped like \"?\" (open hook at the top, stem down to mid x-height) standing between \"ei\" and \"misit\". It is taller and more open than this scribe's small 9-shaped -us (illi9 l.21) and is not the baseline con- sign with descender (ꝯstituit l.14). Read \"ei commisit\" (con- written high), "
+ },
+ {
+  "locus": "3v.24",
+  "reading": "commisit",
+  "note": "08, 24: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (as f.1 l.15, f.2v l.06, f.4v l.04). Read quia(?) — quod is written \"qd\" by this scribe (l.09 \"qd\" at the line end); no full quia on ff.1-4v, so (?) kept. Alternatives: quod, quam. | 24: after \"ei\" a raised curl shaped like \"?\" (open hook at the top, stem down to mid x-height) standing between \"ei\" and \"misit\". It is taller and more open than this scribe's small 9-shaped -us (illi9 l.21) and is not the baseline con- sign with descender (ꝯstituit l.14). Read \"ei commisit\" (con- written high), "
+ },
+ {
+  "locus": "4r.03",
+  "reading": "quoque",
+  "note": "03, 10: q-sign. Seen: q with the horizontal stroke through the descender PLUS a small superscript hook rising to the right (the scribe's general abbreviation mark), as f.3 l.06, l.10. Read quoque(?) by sense; the sign does not determine it (alternative quidem). Distinct from the bare sign (quia(?)) and from qd (quod)."
+ },
+ {
+  "locus": "4r.10",
+  "reading": "quoque",
+  "note": "03, 10: q-sign. Seen: q with the horizontal stroke through the descender PLUS a small superscript hook rising to the right (the scribe's general abbreviation mark), as f.3 l.06, l.10. Read quoque(?) by sense; the sign does not determine it (alternative quidem). Distinct from the bare sign (quia(?)) and from qd (quod)."
+ },
+ {
+  "locus": "4r.22",
+  "reading": "prestet",
+  "note": "22: closing formula \"Qd ipse p̃st̃\" — Quod ipse + p and t with abbreviation marks: prestet(?) (alternative prestare ...). Rubric in red at the right \"In assumpt̃ s. m.\" (expanded assumptione: the brown guide note in the right margin \"i assūptione / s. m.\" writes the ending); \"s. m.\" (sancte marie) kept as written in both."
+ },
+ {
+  "locus": "4v.03",
+  "reading": "uel",
+  "note": "03: a bare \"v\" between \"maris·\" and \"illuminatio\", no abbreviation mark: uel(?) (alternatives ut, et)."
+ },
+ {
+  "locus": "4v.04",
+  "reading": "quia",
+  "note": "04: q-sign. Seen: q with a horizontal stroke through the descender, NO superscript (as f.1 l.15, f.2v l.06, f.3v l.08, l.24). Read quia(?): this scribe writes quod as \"qd\" and quam as \"quā\" (l.02), so neither is this sign; no full quia on ff.1-4v, so (?) kept."
+ },
+ {
+  "locus": "4v.21",
+  "reading": "quoque",
+  "note": "21: \"Un̄\" = Unde (same form as f.2 l.24). q-sign WITH the small superscript hook (as f.3 l.06, l.10, f.4 l.03, l.10): quoque(?) by sense; alternative quidem."
+ },
+ {
+  "locus": "4v.24",
+  "reading": "penitendo",
+  "note": "24: \"penit\" + the general abbreviation curl over t: the ending is not determined — penitendo(?) (alternatives penitentia, penitentie). \"ura\" with stroke (uestra) written above between \"pecca\" (peccata, bar) and \"diluatis\", with a comma-shaped caret below: \\uestra/. Closing formula \"Qd ipse p̃st̃\" = Quod ipse prestet(?) (alternative prestare ...)."
+ },
+ {
+  "locus": "4v.24",
+  "reading": "prestet",
+  "note": "24: \"penit\" + the general abbreviation curl over t: the ending is not determined — penitendo(?) (alternatives penitentia, penitentie). \"ura\" with stroke (uestra) written above between \"pecca\" (peccata, bar) and \"diluatis\", with a comma-shaped caret below: \\uestra/. Closing formula \"Qd ipse p̃st̃\" = Quod ipse prestet(?) (alternative prestare ...)."
+ },
+ {
+  "locus": "5r.11",
+  "reading": "quia",
+  "note": "11, 12: q-sign: q with a short straight horizontal stroke through the descender, no superscript. Expanded quia(?) (both times). quia is never written out on ff. 5–8v; the same sign recurs at f.7v l.04, 22, f.8 l.02, f.8v l.07, always where only quia fits, and the scribe's other q-forms are taken (qđ = quod, q + superscript i = qui, q + superscript open a = quam/qua, q + 2-shaped stroke + superscript = quoque(?), f.7 l.15). Distinct from \"qđ\" (q + d with a curl on the ascender) = quod, l.02."
+ },
+ {
+  "locus": "5r.12",
+  "reading": "quia",
+  "note": "11, 12: q-sign: q with a short straight horizontal stroke through the descender, no superscript. Expanded quia(?) (both times). quia is never written out on ff. 5–8v; the same sign recurs at f.7v l.04, 22, f.8 l.02, f.8v l.07, always where only quia fits, and the scribe's other q-forms are taken (qđ = quod, q + superscript i = qui, q + superscript open a = quam/qua, q + 2-shaped stroke + superscript = quoque(?), f.7 l.15). Distinct from \"qđ\" (q + d with a curl on the ascender) = quod, l.02."
+ },
+ {
+  "locus": "5v.09",
+  "reading": "prestet",
+  "note": "09: \"de ė\" written as two words (deest). Closing formula \"Qđ ipse p̃st.\" : p with a curl above (pre) + s + t + point; no ending is written. prestet(?) kept; the scribe nowhere on ff. 5–8v writes the formula out in full (alternative: prestare dignetur or similar)."
+ },
+ {
+  "locus": "5v.23",
+  "reading": "concupiscimus",
+  "note": "23: \"9piscim9\": con-sign + p (no bar or loop) + iscimus; the syllable cu is not written. concupiscimus(?) as the intended word; literally \"con-piscimus\"."
+ },
+ {
+  "locus": "6r.10",
+  "reading": "Michahelis",
+  "note": "10: \"michahel\" with a hook-stroke after the l (absent from nominative \"Michahel\" in l.01) → Michahelis(?); uninflected Michahel possible."
+ },
+ {
+  "locus": "6r.15",
+  "reading": "exierint",
+  "note": "15: two dots stand above the a of \"ab\" (after \"uestras\"); the right margin has the matching dots before \"cū ex..\" : first word cū = cum; second word a tall x-like letter with a small superscript, then e/a-shape, r with a superscript stroke — read exierint(?), letters only partly certain (exierit possible)."
+ },
+ {
+  "locus": "6r.16",
+  "reading": "prestet",
+  "note": "16: closing formula \"Qđ ipse pst.\" as f.5v l.09 → prestet(?). Rubric red \"In nat͛ omnium scōꝝ\": \"nat\" + superscript sign — natale(?); natali / natiuitate equally possible from the sign. Guide note in right margin brown \"omniū scōꝝ\"."
+ },
+ {
+  "locus": "6r.16",
+  "reading": "natale",
+  "note": "16: closing formula \"Qđ ipse pst.\" as f.5v l.09 → prestet(?). Rubric red \"In nat͛ omnium scōꝝ\": \"nat\" + superscript sign — natale(?); natali / natiuitate equally possible from the sign. Guide note in right margin brown \"omniū scōꝝ\"."
+ },
+ {
+  "locus": "6r.22",
+  "reading": "certum",
+  "note": "22: \"certu\" — two minims after t (u, not i); a small stroke stands over r/t rather than over the u → certum(?), literally \"certu\". \"ppi\": first p with pro-loop, second p with a superscript i → proprii."
+ },
+ {
+  "locus": "6v.01",
+  "reading": "Quid",
+  "note": "01: \"Q'd\" — capital Q + d with a curl on the ascender, the same sign as \"Qđ ipse prestet\" (= Quod) on these pages. The next line has \"quid\" written in full (\"quid delectationis\"), so Quid(?) by the parallel; Quod is what the sign shows elsewhere. Open between Quid / Quod."
+ },
+ {
+  "locus": "7r.05",
+  "reading": "prestet",
+  "note": "05: \"Qđ ipse pst.\" → prestet(?) as on ff. 5v, 6. Rubric red \"SCI MARTINI\"; guide note right margin brown \"s· marty\" / \"ni\"."
+ },
+ {
+  "locus": "7r.15",
+  "reading": "quoque",
+  "note": "15, 24: q-sign (second form on these pages): q whose bowl carries a short 2-/3-shaped stroke at the top right ending in a blob, the stem with a foot turned right, AND a superscript hook above. This differs from the quia sign of f.5 l.11–12 (q with a long horizontal stroke crossing the stem at the baseline, no superscript). The same 2-shaped sign + superscript is on f.4 l.03, l.10 and f.4v l.21 (Pass 2 there: quoque(?)). Read quoque(?) at both places (l.15 \"quoque illud diuisit medium\", l.24 \"quod quoque tres mortuos\"); alternatives quia / quidem. Pass 2's \"et\" at l.15 is excluded: the sign has"
+ },
+ {
+  "locus": "7r.22",
+  "reading": "michi",
+  "note": "22: \"mͥ f.\" = m with superscript i: michi(?) (the scribe writes \"nichil\" in full, f.6 l.22, f.6v l.16, but also \"nihil\" f.6 l.22; mihi possible) + f(ecistis)."
+ },
+ {
+  "locus": "7r.24",
+  "reading": "quoque",
+  "note": "15, 24: q-sign (second form on these pages): q whose bowl carries a short 2-/3-shaped stroke at the top right ending in a blob, the stem with a foot turned right, AND a superscript hook above. This differs from the quia sign of f.5 l.11–12 (q with a long horizontal stroke crossing the stem at the baseline, no superscript). The same 2-shaped sign + superscript is on f.4 l.03, l.10 and f.4v l.21 (Pass 2 there: quoque(?)). Read quoque(?) at both places (l.15 \"quoque illud diuisit medium\", l.24 \"quod quoque tres mortuos\"); alternatives quia / quidem. Pass 2's \"et\" at l.15 is excluded: the sign has"
+ },
+ {
+  "locus": "7v.02",
+  "reading": "quoque",
+  "note": "02: q-sign of the SECOND form (q with a short 2-/3-shaped stroke from the top right of the bowl, ending in a blob, + superscript hook) — the same sign as f.7 l.15, 24 → quoque(?) (\"Monemus quoque uos ... ut\"); quia is excluded by the shape (contrast l.04, l.22)."
+ },
+ {
+  "locus": "7v.04",
+  "reading": "quia",
+  "note": "04, 22: q-sign of the FIRST form: q with a long straight horizontal stroke crossing the stem at the baseline, no superscript → quia(?) (as f.5 l.11–12)."
+ },
+ {
+  "locus": "7v.06",
+  "reading": "Operemur",
+  "note": "06: \"Opem\" + superscript ur-sign (no er-sign on the p) → Operemur(?); \"ǵ\" = ergo."
+ },
+ {
+  "locus": "7v.18",
+  "reading": "prestet",
+  "note": "18: \"Qđ ipse p\" — p with a short flag at the top right; the rest of the formula is not visible: prestet(?) as on ff. 5v–7. Then faint grey traces of two or three letters (erased, illegible) before the rubric. | 18: rubric (red, faded): \"In\" + display q (bowl with a tail, no long descender) + u + o + a pale/thin tall l-like stroke + e + u with superscript stroke + q; + \"festo.\" Literally \"In quo l e ū q; festo\". The guide note in the left margin (brown, beside l.19) is clear: \"ı̄ qͦcūq; festo\" = in quocumque festo. The rubric is read as a (miscopied?) In quocumque(?) festo; \"le\" stands where \"c"
+ },
+ {
+  "locus": "7v.18",
+  "reading": "quocumque",
+  "note": "18: \"Qđ ipse p\" — p with a short flag at the top right; the rest of the formula is not visible: prestet(?) as on ff. 5v–7. Then faint grey traces of two or three letters (erased, illegible) before the rubric. | 18: rubric (red, faded): \"In\" + display q (bowl with a tail, no long descender) + u + o + a pale/thin tall l-like stroke + e + u with superscript stroke + q; + \"festo.\" Literally \"In quo l e ū q; festo\". The guide note in the left margin (brown, beside l.19) is clear: \"ı̄ qͦcūq; festo\" = in quocumque festo. The rubric is read as a (miscopied?) In quocumque(?) festo; \"le\" stands where \"c"
+ },
+ {
+  "locus": "7v.19",
+  "reading": "CONSULImus",
+  "note": "19: red initial C (two lines); \"ONSULI\" in spaced black display capitals, then a bowl with a tail descending to the left (display M?) with superscript 9 (-us): CONSULImus(?) — Consulimus; the M is the uncertain letter."
+ },
+ {
+  "locus": "7v.22",
+  "reading": "quia",
+  "note": "04, 22: q-sign of the FIRST form: q with a long straight horizontal stroke crossing the stem at the baseline, no superscript → quia(?) (as f.5 l.11–12)."
+ },
+ {
+  "locus": "8r.02",
+  "reading": "quia",
+  "note": "02: q-sign form A (q + long horizontal stroke across the stem at the baseline, no superscript) → quia(?)."
+ },
+ {
+  "locus": "8r.11",
+  "reading": "offendimus",
+  "note": "11: \"nusq\" + superscript open a = nusquam (as written)."
+ },
+ {
+  "locus": "8r.24",
+  "reading": "spiritus",
+  "note": "24: \"grē scī spē.\" — sp + e(c?) with a bar: spiritus(?) (form unusual; case ending not shown)."
+ },
+ {
+  "locus": "8v.01",
+  "reading": "prestet",
+  "note": "01: \"Qđ ipse p.\" (p + point only) → prestet(?). Rubric red \"Itē in qͦlib; f.\" = Item in quolibet f(esto); guide note left margin \"itē iqͦlib;\" / \"festo.\""
+ },
+ {
+  "locus": "8v.07",
+  "reading": "quia",
+  "note": "07: q-sign form A (q + horizontal stroke across the stem at the baseline) → quia(?). \"n\" + an upright superscript i (not the curl of \"n̄\" = non in l.06) → nisi."
+ },
+ {
+  "locus": "8v.13",
+  "reading": "presentia",
+  "note": "13: \"inp̄senta\": p with bar above = pre; the letters after \"sen\" are t + a with no i visible → presentia(?) (literally \"presenta\"). A row of expunction dots runs under the whole of \"lectione\" and \"di\" (= dei) is written above it: [[lectione]] \\dei/."
+ },
+ {
+  "locus": "8v.17",
+  "reading": "prestet",
+  "note": "17: rubric red \"alius sermo.\"; guide note left margin \"alius s:\"."
+ },
+ {
+  "locus": "8v.18",
+  "reading": "gloria",
+  "note": "18: line ends with \"g\" + superscript open a (two-pronged): read gloria(?) — the sign itself (g + a) would more usually stand for gratia; gloria / gratia both open."
+ },
+ {
+  "locus": "9r.05",
+  "reading": "que",
+  "note": "05: q whose stem rises and closes in a small loop with a hairline tail to the upper right (no nasal bar, no further letters); read que (= quae); alternatives qua / qualia. Not quanta: the scribe writes quanta as q + \"nta\" (f.11v 20). Same sign f.11v 19 (\"Uidete que sit uoluntas\")."
+ },
+ {
+  "locus": "9r.09",
+  "reading": "hodie",
+  "note": "09: \"t̄ q h· m· e·\" — t with abbreviation stroke (tibi), the quia sign of 03, then single-letter suspensions with points; h. m. e. expanded from the sense of the quoted words (hodie mecum eris), hence (?) on each. | 09, 15, 22: p with a straight horizontal bar through the descender = per (not propter: no superscript t / second p). \"per hoc\" each time."
+ },
+ {
+  "locus": "9r.09",
+  "reading": "mecum",
+  "note": "09: \"t̄ q h· m· e·\" — t with abbreviation stroke (tibi), the quia sign of 03, then single-letter suspensions with points; h. m. e. expanded from the sense of the quoted words (hodie mecum eris), hence (?) on each. | 09, 15, 22: p with a straight horizontal bar through the descender = per (not propter: no superscript t / second p). \"per hoc\" each time."
+ },
+ {
+  "locus": "9r.09",
+  "reading": "eris",
+  "note": "09: \"t̄ q h· m· e·\" — t with abbreviation stroke (tibi), the quia sign of 03, then single-letter suspensions with points; h. m. e. expanded from the sense of the quoted words (hodie mecum eris), hence (?) on each. | 09, 15, 22: p with a straight horizontal bar through the descender = per (not propter: no superscript t / second p). \"per hoc\" each time."
+ },
+ {
+  "locus": "9v.14",
+  "reading": "quoque",
+  "note": "14: q-sign: q with the same 2-shaped / r-rotunda stroke attached to the stem as the quia sign (f.9 03, 09), plus an added superscript mark above it — a short stroke rising right into a dot. The superscript is not part of the plain quia sign, so the sign does not determine the word. Same composite sign f.12v 20 (\"Quod ipse … apostolus\"), where quia cannot stand; one value read for both: quoque(?); alternatives quia (base sign) / quamuis (sense \"etiam si\" here)."
+ },
+ {
+  "locus": "9v.24",
+  "reading": "regnat",
+  "note": "24: \"Ad\" with a capital A; point after \"pducat\". Closing formula written \"q· sine fine· u· r·\": expanded qui sine fine uiuit et regnat; \"et\" is not written (the scribe writes \"uiuit et r.\" in full form on f.11v 08), hence (?). Long decorative descenders into the lower margin; small red speck below \"fine\" (not text). END of the piece; no rubric or explicit on the page."
+ },
+ {
+  "locus": "11r.14",
+  "reading": "uestra",
+  "note": "14: \"s; tristicia u· u· ı́ g·\" — single-letter suspensions of the quotation; ı́ = in (conventional); u. u. g. expanded from the sense (uestra uertetur … gaudium), hence (?) on each. Point after g."
+ },
+ {
+  "locus": "11r.14",
+  "reading": "uertetur",
+  "note": "14: \"s; tristicia u· u· ı́ g·\" — single-letter suspensions of the quotation; ı́ = in (conventional); u. u. g. expanded from the sense (uestra uertetur … gaudium), hence (?) on each. Point after g."
+ },
+ {
+  "locus": "11r.14",
+  "reading": "gaudium",
+  "note": "14: \"s; tristicia u· u· ı́ g·\" — single-letter suspensions of the quotation; ı́ = in (conventional); u. u. g. expanded from the sense (uestra uertetur … gaudium), hence (?) on each. Point after g."
+ },
+ {
+  "locus": "11v.19",
+  "reading": "que",
+  "note": "19: q whose stem rises into a small closed loop with a hairline tail; no further letters. Read que (= quae) as on f.9 05; alternatives qua / qualis. Same sign f.9 05. Not quanta: \"O quanta\" (20) is written q + superscript + \"nta\"."
+ },
+ {
+  "locus": "12r.02",
+  "reading": "communis",
+  "note": "02: rubric in red after \"luit.\": \"Sermo inebdomada q̊ dr̃ ꝯmi·\" — Sermo | in (written joined to ebdomada) | ebdomada (in full) | q + superscript e = que | d + r + stroke = dicitur | ꝯ + m + one minim with a hooked abbreviation stroke above + point. The rubric form gives only \"communi\" + general abbreviation stroke; no s is written. Read communis(?) after the brown guide note in the right margin (three lines: \"sermo i ebdo / mada q̊ dr̃ / ꝯmunis\", where \"ꝯmunis\" is written with s) and the predicate syntax; alternative communi. Faint pinkish shape below the rubric = offset."
+ },
+ {
+  "locus": "12r.15",
+  "reading": "Illi",
+  "note": "15: the word after \"cursione·\" is a tall l-shaped stroke (the scribe's capital I has this form: \"Igitur\" f.10v 01, \"Ideo\" f.11v 06) followed by four minims, then a point: letters \"I + iiii\"/\"luu\". Read Illi(?) from the construction (Illi quibus dedit deus substantiam … parciantur); the letters do not show two tall l's. Alternatives: Hii / Hi; unresolved."
+ },
+ {
+  "locus": "12r.24",
+  "reading": "Illi",
+  "note": "24: last word after a point: tall l-shaped stroke + three minims (\"lui\"); same problem as 15; read Illi(?) to match 15; alternative Uni (cf. f.12v 01 \"eidem domino nostro committo …\"). Unresolved."
+ },
+ {
+  "locus": "12v.13",
+  "reading": "uidelicet",
+  "note": "13, 24: \"v\" with a point before it (same form on both lines). Operator decision 2026-11-24 for consistency with f.13 ll.13-14 and f.16 l.20: bare \"v.\" (distinct from the scribe's ł = uel) is printed uidelicet(?), alternative uel in its explanatory sense; English \"that is\" either way. 13: \"mei\" clear."
+ },
+ {
+  "locus": "12v.20",
+  "reading": "quoque",
+  "note": "20: q-sign: q + 2-shaped / r-rotunda stroke (the quia sign) with an added superscript hook ending in a dot above it — the same composite sign as f.9v 14. The superscript is not part of the plain quia sign, so the sign does not determine the word. One value read for both instances: quoque(?) (fits \"Quod ipse quoque apostolus … dicit\" and \"quoque si multis criminibus cecidisset\"); alternatives quia (base sign) / quamuis (f.9v only). \"apls\" = apostolus. | 20-21: \"pre-/dicatio\" as written."
+ },
+ {
+  "locus": "12v.24",
+  "reading": "uidelicet",
+  "note": "13, 24: \"v\" with a point before it (same form on both lines). Operator decision 2026-11-24 for consistency with f.13 ll.13-14 and f.16 l.20: bare \"v.\" (distinct from the scribe's ł = uel) is printed uidelicet(?), alternative uel in its explanatory sense; English \"that is\" either way. 13: \"mei\" clear."
+ },
+ {
+  "locus": "13r.03",
+  "reading": "lucri",
+  "note": "03: \"dm̄i\" underlined = deleted. \"luc\" + a short vertical superscript stroke, the same shape as the superscript i in \"Qⁱa\" l.21 and \"qⁱd\" l.02 → lucri- (lucrifaciamus); alternative lucre- if the stroke is the er/re hook."
+ },
+ {
+  "locus": "13r.13",
+  "reading": "uidelicet",
+  "note": "13: \"s. p. f.\" = initials of \"super pauca fuisti\" (Mt 25:21), kept as written (Pass 1 expanded silently to \"super pauca fuisti fidelis\"). The fidelis of Pass 1 is not on the page. | 13, 14: free-standing v, preceded by a point, no point after it. The scribe writes uel as ł (l.22, twice), so this is a different sign. The same v occurs on f.12v l.24 (\"v predicatione\": spiritual food, namely preaching) and f.16 l.20. uidelicet fits every instance; uel also possible. Kept uidelicet(?)."
+ },
+ {
+  "locus": "13r.14",
+  "reading": "uidelicet",
+  "note": "13, 14: free-standing v, preceded by a point, no point after it. The scribe writes uel as ł (l.22, twice), so this is a different sign. The same v occurs on f.12v l.24 (\"v predicatione\": spiritual food, namely preaching) and f.16 l.20. uidelicet fits every instance; uel also possible. Kept uidelicet(?)."
+ },
+ {
+  "locus": "13r.21",
+  "reading": "quoque",
+  "note": "21: \"Qⁱa\" = Quia (Q + superscript i + a), clear. Then q with the ꝛ-like stroke through the descender (the quia sign of l.04, l.20) PLUS a superscript curl (the general abbreviation curl of this hand, as on cũ, suũ). It is distinct from plain quia and from quam (q + superscript a, l.23 / f.14v l.08). Read quoque(?) consistently with f.13v l.15 and f.14v ll.06, 09, 10, 12, where quoque fits every context; alternatives quasi / quare. The sign itself does not spell the word."
+ },
+ {
+  "locus": "13v.05",
+  "reading": "dedicatione",
+  "note": "05: red rubric at line end \"Indedicat\" with superscript abbreviation stroke: In dedicatione(?) — ending (and any implied following word) not written out. Rubricator's guide note in brown ink, left margin: \"i dedicat\" with stroke over t. Small superscript mark after \"eius.\" not recorded."
+ },
+ {
+  "locus": "13v.15",
+  "reading": "quoque",
+  "note": "15: q with ꝛ-like stroke through the descender + superscript curl, the same sign as f.13 l.21 and f.14v ll.06, 09, 10, 12; distinct from plain quia and from quam (q + superscript a). Read quoque(?); alternatives quasi / quare. Ink of ll.14–15 is browner (ink change), same hand."
+ },
+ {
+  "locus": "14r.05",
+  "reading": "hacheus",
+  "note": "05: the name is written \"hacheus\": an h-form first letter with a hairline lead-in at its upper left; the hairline may make it the scribe's z (Zacheus intended). Letters kept, (?) on the first letter. A red-brown stain lies under \"-eus\"."
+ },
+ {
+  "locus": "14v.01",
+  "reading": "timuerint",
+  "note": "01, 02: \"timuert\" / \"impleuert\" with superscript mark: timuerint / impleuerint; alternative -erunt."
+ },
+ {
+  "locus": "14v.02",
+  "reading": "impleuerint",
+  "note": "01, 02: \"timuert\" / \"impleuert\" with superscript mark: timuerint / impleuerint; alternative -erunt."
+ },
+ {
+  "locus": "14v.03",
+  "reading": "fnales",
+  "note": "03: the word after \"cessat\": three minims of which the middle one is drawn up into a tall f with crossbar (stem on the baseline), followed by \"ales\"; a single dot stands below the middle minim (possible expunction/correction mark). Literal segmentations: f + n + ales (\"fnales\") or m + ales with an f-ascender added (\"males\"); fames is presumably intended but its letters (a-m-e) are not on the page. Unresolved. | 03: \"lapor\" written with p (sic, = labor). \"Ubi\": tall U + b + i."
+ },
+ {
+  "locus": "14v.06",
+  "reading": "quoque",
+  "note": "06, 09, 10, 12: q with the ꝛ-like stroke through the descender (the plain quia sign, e.g. l.09 \"quia ubi\", l.12 \"quia omnia\", l.18) PLUS a superscript curl (the hand's general abbreviation curl). l.12 has this sign and plain quia side by side, so it is not quia; quam is q + superscript a (l.08). quoque fits all four contexts (and f.13 l.21, f.13v l.15); kept quoque(?); alternatives quasi / quare."
+ },
+ {
+  "locus": "14v.09",
+  "reading": "quoque",
+  "note": "06, 09, 10, 12: q with the ꝛ-like stroke through the descender (the plain quia sign, e.g. l.09 \"quia ubi\", l.12 \"quia omnia\", l.18) PLUS a superscript curl (the hand's general abbreviation curl). l.12 has this sign and plain quia side by side, so it is not quia; quam is q + superscript a (l.08). quoque fits all four contexts (and f.13 l.21, f.13v l.15); kept quoque(?); alternatives quasi / quare."
+ },
+ {
+  "locus": "14v.10",
+  "reading": "quoque",
+  "note": "10: \"ubi\" — two joined minims before b (u), not ibi as both passes read."
+ },
+ {
+  "locus": "14v.12",
+  "reading": "quoque",
+  "note": ""
+ },
+ {
+  "locus": "15r.10",
+  "reading": "deficiet",
+  "note": "10: \"deficiet\": d-e-f-i-c + e + t; a second i before e is not clearly separate (possibly written \"deficet\"). Rubric in red, spaced letters, with point: \"Dominica die.\"; guide note in right margin, brown: \"dom̄ die\". Red initial O on l.11."
+ },
+ {
+  "locus": "15r.21",
+  "reading": "inde",
+  "note": "21: \"in̄\" after Tironian et: inde(?), alternative ideo; the abbreviation (bar over n) is not the usual form for either."
+ },
+ {
+  "locus": "15v.24",
+  "reading": "ultra",
+  "note": "24: \"ult\" with long t-crossbar at line end = ultra(?) (confirmed by sense of f.16 l.01 \"esse merita\"); page ends mid-sentence."
+ },
+ {
+  "locus": "16r.20",
+  "reading": "uidelicet",
+  "note": "20: free-standing v preceded by a point (none after), as f.13 ll.13–14 and f.12v l.24: uidelicet(?) (\"the invisible, namely unclean spirits\"). Not uel: the scribe writes uel in full (f.15v l.19) or as ł (f.13 l.22). Alternative uel."
+ },
+ {
+  "locus": "16v.04",
+  "reading": "domino",
+  "note": "04: \"dn̄o\" = domino (the scribe's normal sign, cf. f.13 l.12 \"a dn̄o\"); domno (for the pope) equally possible with this abbreviation."
+ },
+ {
+  "locus": "16v.08",
+  "reading": "uu⟨…⟩",
+  "note": "08: after \"uenire.\" in lighter brown ink, at the gutter edge: Q with a superscript stroke (= Qui, cf. \"Qⁱa\" f.13 l.21) + v + two minims, the rest running into the gutter fold. Most probably the closing cue \"Qui uiuit (et regnat ...)\" ending the rogation sermon before the new rubric; only \"Qui u u\" is visible, and a third minim (uiu-) may be lost in the gutter. Lighter ink: possibly added afterwards, same or near-contemporary hand. Not settled."
+ },
+ {
+  "locus": "16v.09",
+  "reading": "dedicatione",
+  "note": "09: point after \"kmi\" (karissimi.) clearly visible. Large red initial F. Rubric in red, spaced letters: \"In dedicat~\" with abbreviation stroke and point = In dedicatione(?). Guide note, left margin, brown: \"i dedicat\"."
+ },
+ {
+  "locus": "16v.24",
+  "reading": "quidam",
+  "note": "24: last word: q with a small vertical superscript stroke (the i-mark of quid/qui), d with a hooked stroke on its ascender, and a — letters q-i-d-a + abbreviation: quidam(?). Neither n nor o is written, so \"quando\" (both passes) is not supported by the letters, although the f.13v parallel (postquam) would suit a temporal conjunction. Unresolved."
+ }
+]

@@ -1,0 +1,34 @@
+{margin: 12 (pencil foliation, top left)}
+01: quorum hodie festum celebramus remunerauit. Quid(?) le-
+02: ticie. quid delectationis habeant electi dei in
+03: celis. humanus sermo explicare non potest. nec
+04: cor alicuius percipere potest. Beati sunt illi qui paucos dies
+05: mutant pro eterna iocunditate. Qui sunt illi. Hoc sunt
+06: illi de quibus ipse dominus dicit in euangelio. Beati mi-
+07: sericordes qui pupillis et uiduis et omnibus qui in la-
+08: bore sunt. et miseriis. auxilium ferunt quantum
+09: possunt. Isti tales misericordiam \a domino/ consequentur. et rursum
+10: dicit dominus. Beati pacifici qui pacem diligunt. qui
+11: nullum ledunt. qui miseros defendunt. qui
+12: suis contenti sunt. qui aliena \non/ rapiunt. qui nullo
+13: odio et inuidia torquentur. Isti tales eternam pa-
+14: cem consequentur. Et rursum dicit dominus. Beati humi-
+15: les qui multas iniurias propter deum paciuntur. et
+16: rursum. Beati mundo corde. qui nichil sceleris
+17: cogitant. qui nullum malum moliuntur. qui puri {offset}
+18: sunt ab homicidio. a periurio. ab adulterio. a forni-
+19: catione. ab auaricia. Isti filii dei uocantur. Istorum
+20: copiosa merces erit in celis. Infelices enim sunt.
+21: qui paucis his diebus eternam penam in eternum ignem
+22: merentur. Qui sunt isti. Hoc sunt superbi. homicide.
+23: predones. periuri. perfidi. adulteri. fornicarii. ebri-
+24: osi. Isti erunt cum diabolo in eterno igne. State
+
+NOTES:
+- Join f.6 → f.6v: "quomodo electos suos / quorum hodie festum celebramus remunerauit" — joins.
+- 01: "Q'd" — capital Q + d with a curl on the ascender, the same sign as "Qđ ipse prestet" (= Quod) on these pages. The next line has "quid" written in full ("quid delectationis"), so Quid(?) by the parallel; Quod is what the sign shows elsewhere. Open between Quid / Quod.
+- 02: point after "leticie" is visible.
+- 09: two dots before "9sequent" match two dots before "adn̄o" (a domino) in the left margin at l.08/09: insertion \a domino/ before consequentur.
+- 12: superscript n (non) above, with a hook below the line after "aliena": insertion \non/.
+- 17: faint red T-shaped mark at the right edge of the text block: offset, not text.
+- 24: ends "State" (capital S), no hyphen, no catchword at the foot. See f.7 for the join.

@@ -1,0 +1,39 @@
+{margin: 15 (pencil foliation, top right)}
+01: uestris. et rogate eum ut emolliat cor uestrum. ut pec-
+02: cata uestra deflere possitis. quia(?) nemo est qui
+03: adiuuare nos possit. si ipse non adiuuet nos.
+04: Nullus speret in diuitiis suis. nullus in thes-
+05: auris suis. Nullus in magnis castellis suis. nullus
+06: in lato fundo. Hec omnia non \pro/sunt illi qui deum of-
+07: fendit. Hec omnia aufert deus. quando uult. Sicut
+08: uos sepe uidistis. quomodo principes potentes hu-
+09: miliati sunt. Quomodo captiuati sunt. Quomodo incar-
+10: cerati sunt. Uidistis multos diuites ad maximam
+11: miseriam redactos. Quando deum \offendimus(?)/ tunc nusquam
+12: oportet nos esse securos. Multis modis osten-
+13: dit nobis dominus quod hec omnia que in mundo sunt
+14: incerta et caduca sunt. Ideo rogamus et monemus uos
+15: ut causa anime uestre conuertamini ad deum uestrum.
+16: nec decipiat uos mundus iste. qui est plenus
+17: omni labore et dolore. Sed tamen nullus est iam inter
+18: diuites et pauperes qui aliud intendat in hoc mun-
+19: do. quam ut dicior fiat. et multa colligat. sed nescit
+20: cui relinquat. et quando relinquat. Consulimus ergo uobis
+21: in caritate omnipotentis dei ut uerba que hodie diximus
+22: uobis in corde uestro retineatis. ut ibi radicent.
+23: et bonum fructum afferant. Committo uos hodie
+24: gratie sancti spiritus(?). ut ille immittat cordi uestro bonam
+
+NOTES:
+- Join f.7v → f.8: "coram oculis / uestris" — joins.
+- 02: q-sign form A (q + long horizontal stroke across the stem at the baseline, no superscript) → quia(?).
+- 04: "diuitiis": after "diui" a t (straight top bar running from a stem on the left), not the curved c of "incorde" l.22; two oblique i-strokes over the last ii in lighter brown ink (possibly added later).
+- 06: "pro" written above, with a hook below the line between "n̄" and "sunt": non \pro/sunt.
+- 10–11: "offendim9" (offendimus) stands alone in the right margin at the height of l.10, main-hand ink. NO insertion sign was found: none beside the marginal word, none in l.10 after "maximam", none in l.11 between "dm̄" and "tunc" (checked at 3.5–4×). Placed after "deum" in l.11 because the sentence lacks its verb there ("Quando deum … tunc nusquam oportet nos esse securos"); the placement is by sense only, hence (?). Physically: {margin: offendimus} beside l.10.
+- 11: "nusq" + superscript open a = nusquam (as written).
+- 17: "int̃" at line end = inter (whole word).
+- 19: q + superscript open a (two-pronged, as in numquam/aliquam f.6) = quam.
+- 20: "relinqt" with a superscript open a over q/t — the same mark as on "qͣndo" just before it — = relinquat (not the 2-shaped ur-sign) → "cui relinquat. et quando relinquat".
+- 22: "radicent." — t with its bar drawn out to the right, no ur-sign → radicent (not radicentur).
+- 24: "grē scī spē." — sp + e(c?) with a bar: spiritus(?) (form unusual; case ending not shown).
+- q-sign form A (q + straight stroke across the stem, no superscript) is written quia(?): quia is never spelled out on ff. 5–8v, so the default is not confirmed by the scribe; quia is the only one of his q-words not otherwise assigned (qđ = quod, q + sup. i = qui, q + sup. open a = quam/qua, q + 2-shaped stroke + sup. hook = quoque(?)). Same treatment as the f.4/f.4v reconciliation.

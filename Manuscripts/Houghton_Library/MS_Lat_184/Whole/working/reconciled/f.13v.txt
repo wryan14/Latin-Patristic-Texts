@@ -1,0 +1,37 @@
+{margin: 24 (pencil page number, top left)}
+01: me. pase oues meas. pascuis scilicet spiritualibus. Nos
+02: deberemus esse intercessores hominum ad deum omnipotentem.
+03: et deberemus esse mediatores inter deum et homines. Sed
+04: quomodo possumus intercedere pro eis. cum nos ipsi deum
+05: offendissemus et careamus gratia eius. ›In dedicatione(?)‹ {margin: i dedicat}
+06: Quamuis deus presens sit in omni loco ubicumque
+07: inuocatur nomen eius. tamen specialiter elegit sibi domum
+08: ubi ab omnibus conueniatur et sacrificium ei offeratur. et ubi
+09: angelos suos custodes die et nocte deputauit.
+10: qui offerant orationes nostras coram ipso et ubi ab omnibus
+11: inuocaretur. et ubi fides catholica predicaretur. ut esset
+12: omnibus una fides. unum baptisma. et ut omnes unum
+13: in christo sentirent. Ideo fratres karissimi qui hodie conuenistis
+14: in honore domini nostri ihesu christi et sancte dedicationis. pre-
+15: parate deo quoque(?) aliud templum. cuius figura est
+16: illud lapideum. Preparate deo dignam domum in corde
+17: uestro et mundate illud ab omni odio. fornicatione.
+18: adulterio. periurio. auaricia. Gula. ebrietate. Cuius-
+19: cumque cor ab his et similibus possessum est. ab illo
+20: fugit deus. Et \postquam has/ sordes expurgetis. ornate templum
+21: illud. Humilitate. castitate. continentia. uigiliis
+22: ieiuniis. elemosinis. orationibus. et ceteris bonis
+23: operibus. et accendite ibi lumen sancte confessionis. et uere
+24: penitentie. et perfundite lacrimis illud. et accen-
+
+NOTES:
+JOIN: f.13 l.24 "Si diligis" + f.13v l.01 "me. pase oues meas" — joins. f.13v l.24 "et accen-" runs on to f.14 l.01.
+01: "pase" — letters p-a-ſ-e, no c visible even at 6× (sic, for pasce; Pass 2's s-c ligature is not on the page). "spualib;" = spiritualibus.
+04: "possum⁹": after the ſſ the column profile shows five minims (u + m) = possumus, not possimus.
+05: red rubric at line end "Indedicat" with superscript abbreviation stroke: In dedicatione(?) — ending (and any implied following word) not written out. Rubricator's guide note in brown ink, left margin: "i dedicat" with stroke over t. Small superscript mark after "eius." not recorded.
+06: red initial Q.
+12: a red-brown smudge lies over the last word "unum" (stain/offset, not a rubric); the word is legible.
+15: q with ꝛ-like stroke through the descender + superscript curl, the same sign as f.13 l.21 and f.14v ll.06, 09, 10, 12; distinct from plain quia and from quam (q + superscript a). Read quoque(?); alternatives quasi / quare. Ink of ll.14–15 is browner (ink change), same hand.
+16: "lapideū. Preparate" — capital P, no word between; Pass 1's "uel[?]" is not on the page.
+18–19: "Cui⁹-/cumq;" = Cuius-/cumque.
+20: "Et" carries a three-dot insertion sign; left margin "∴ p⁹q̄ has" with the same sign = postquam has, inserted after Et.

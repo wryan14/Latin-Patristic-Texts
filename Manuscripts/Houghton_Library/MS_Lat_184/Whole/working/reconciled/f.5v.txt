@@ -1,0 +1,34 @@
+{margin: 10 (pencil foliation, top left)}
+01: uero exultant cum celesti rege inenarrabili leticia.
+02: et regnant cum angelis. et cum omnibus sanctis in secula seculorum.
+03: Igitur querite matrem domini hodie adiutricem.
+04: rogate eius pietatem. ut hodie pedibus domini nostri
+05: prouoluatur. ut nos ab eternis penis eripiat. et eter-
+06: na gaudia concedat. Unde iniungo uobis ut qui-
+07: uis uestrum qui hoc persoluere possit pauperem pascat
+08: hodie. qui hoc non possit. det unam elemosynam. et
+09: cui illa de est. habeat bonam uoluntatem. Quod ipse prestet(?).
+10: Dicit dominus in euangelio. ›De sancto Michahele.‹ {margin: ds. michahele (guide note for the rubric, left margin)}
+11: Nisi conuersi fueritis. et non efficiamini sicut paruu-
+12: li. non intrabitis in regnum celorum. Paruulorum puerorum
+13: mos est ut sint simplices sine inuidia. sine odio.
+14: nec malum pro malo reddant. et si quis eos leserit.
+15: statim tradant obliuioni. et per horam arrideant ei
+16: qui eos lesit. Quicumque hos pueros imitantur.
+17: quantumcumque sint senes pueri et filii dei
+18: uocantur. Illos tales custodiunt sancti angeli die
+19: et nocte. et non dant locum malis angelis ut preuale-
+20: ant. Cum aliquid boni fecerimus. cum ea que iusta sunt.
+21: diligimus. cum caste et munde uiuimus. preualent
+22: boni angeli. Cum uero portamus odium et inuidiam. in
+23: proximum nostrum. cum concupiscimus(?) rem proximi nostri. cum
+24: alii auferimus iniuste que sua sunt. tunc diabolus
+
+NOTES:
+- Join f.5 → f.5v: "Boni / uero exultant" — joins.
+- 09: "de ė" written as two words (deest). Closing formula "Qđ ipse p̃st." : p with a curl above (pre) + s + t + point; no ending is written. prestet(?) kept; the scribe nowhere on ff. 5–8v writes the formula out in full (alternative: prestare dignetur or similar).
+- 10: red initial D in the left margin, then "icit dñs in eglio" (abbreviated, bar) = euangelio. Rubric in red display capitals "DE SCO MICHAHELE." Brown guide note in left margin: "ds· michahele" (first sign a round d, probably d(e) s(ancto)).
+- 14: p with a loop from the descender to the left = pro (pro malo).
+- 15: "phorā": p with a STRAIGHT horizontal bar across the descender (extending on both sides), not the loop of l.14 → per horam (both passes had pro(?)).
+- 23: "9piscim9": con-sign + p (no bar or loop) + iscimus; the syllable cu is not written. concupiscimus(?) as the intended word; literally "con-piscimus".
+- 24: "alii": two minims with two oblique i-strokes above (as on "iudicii" f.5 l.12), no nasal bar → alii, not alium.

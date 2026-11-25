@@ -1,0 +1,36 @@
+{margin: later foliation "17" top right; pencil "9" bottom left}
+01: fornicator. si quis homicida. si quis periurus. si quis
+02: fenerator. si quis aliis sceleribus circumdatus. non
+03: desperet. quia pro his uenit dominus in hunc mundum
+04: ut hos saluaret. Sicut ipse dicit. Non ueni uocare
+05: iustos. sed peccatores. et uidete que(?) exempla proposu-
+06: isset nobis. Latro in cruce cum deberet mori. pe-
+07: nituit quod fecit. et dixit. Domine miserere mei dum ue-
+08: neris in regnum tuum. Et respondit ei dominus. Uere
+09: dico tibi quia hodie(?) mecum(?) eris(?) in paradiso. Et per hoc dedit nobis
+10: magnam spem. latronibus et peccatoribus. et aliis scelera-
+11: tis. quod latro post ueram penitentiam priusquam aliquis
+12: sanctorum adscendit ad gloriam. Dauid reus erat adul-
+13: terii et homicidii. et penituit eum quod fecit. et dictum est
+14: ei a propheta domini nathan. dimissum est peccatum tuum.
+15: et per hoc dedit \dominus/ magnam spem omnibus qui adulterii et
+16: homicidii rei sunt. Maria peccatrix uniuersis
+17: uiciis plena erat. et uenit cum uera penitentia
+18: et multis lacrimis ad pedes domini. et deosculabatur
+19: eos. donec dimisit ei omnia peccata sua. et tantum
+20: honorauit eam. quod ei primum post resurrectionem suam
+21: apparuit. et apostolis resurrectionem nuntiauit. et
+22: per hoc magnam spem dedit omnibus uiris et mu-
+23: lieribus qui ex fragilitate sua lapsi sunt. Za-
+24: cheus publicanus qui multos \de/fraudauerat. ex
+NOTES:
+03: q-sign: q whose stem rises above x-height, with a 2-shaped / r-rotunda-like stroke attached to the right of the stem and a long hairline tail sweeping right; no superscript letter. Same sign at 09 and on f.10v 02/15, where f.10v 14 has "quia" written in full in the same construction; quod is always "qd" on this page (07, 11, 13, 20). Read quia throughout. Next: p with a loop curling left from the foot of the descender = pro (contrast the straight bar of per at 09, 15, 22); then "his" (h, i, long s).
+05: q whose stem rises and closes in a small loop with a hairline tail to the upper right (no nasal bar, no further letters); read que (= quae); alternatives qua / qualia. Not quanta: the scribe writes quanta as q + "nta" (f.11v 20). Same sign f.11v 19 ("Uidete que sit uoluntas").
+07: "m·" with point = mei (suspension point, as the points in 09).
+09: "t̄ q h· m· e·" — t with abbreviation stroke (tibi), the quia sign of 03, then single-letter suspensions with points; h. m. e. expanded from the sense of the quoted words (hodie mecum eris), hence (?) on each.
+09, 15, 22: p with a straight horizontal bar through the descender = per (not propter: no superscript t / second p). "per hoc" each time.
+10: no point after "latronib;" (the ; is the -us sign); point after "peccatorib;".
+15: two-dot insertion sign after "dedit"; "dns" (dominus) with the same sign in the left margin; same hand and ink.
+23: capital Z: horizontal top bar running left of the stem, vertical stroke, foot to the right (not L, which has no top bar).
+24: "de" above the line with a comma-shaped caret below the line after "multos". "q" with superscript i = qui.
+Join: begins "fornicator", continuing f.8v 24 "Si quis adulter est. si quis" — joins. Ends "ex" mid-sentence; continues on f.9v.

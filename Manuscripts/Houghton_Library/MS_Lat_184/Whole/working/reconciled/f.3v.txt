@@ -1,0 +1,39 @@
+01: cogitare debetis. quanto labore sancti dei reg-
+02: num celorum adepti sunt. terrene substantie non
+03: parcebant. corpori non parcebant. sed dederunt pro
+04: anima sua. Omnia tormenta patiebantur. \omnis/ pena
+05: uilis fuit eis propter amorem dei. Uincti sunt. in-
+06: carcerati sunt. gladio occisi sunt. in cruce suspen-
+07: si sunt. Sicut sanctus petrus cuius festum hodie
+08: celebramus cruci suspensus est. quia(?) predicauit
+09: uerbum dei. et dilexit ueritatem. et ideo promeruit quod
+10: potestatem accepit a domino. ut cuicumque digne
+11: querenti celi portam aperiret. aperta esset ei.
+12: et cuicumque clauderet. clausa esset ei. Unde pariter
+13: omnes inuocemus hodie sanctum Petrum. quem dominus
+14: principem apostolorum constituit. ut ipse apud dominum ue-
+15: niam peccatorum nostrorum impetret. et ianuam celi
+16: aperiat. Et sicut \ipse/ corpus suum tradidit pro anima sua.
+17: ita debemus et nos mortificare in nobis omnia
+18: uitia nostra. scilicet. auariciam. luxuriam. superbiam.
+19: perfidiam. gulam. ebrietatem. ut his passionibus
+20: et hac pugna [[…]] uitam mereamur eternam. et commo-
+21: nete hodie [[…]] sanctum petrum. ut memor sit illius
+22: misericordie. qua dominus misertus est eius. cum eum ter
+23: negauit. Permisit enim dominus sanctum petrum labi ut
+24: nobis labentibus possit compati. quia(?) nos ei commisit(?)
+
+NOTES:
+- Join with f.3 HOLDS: f.3 l.24 "Fratres karissimi. Assidue / cogitare debetis". Pencil foliation "6" top left, not text.
+- 04: right margin "∴ omis" (omnis) in the text ink; three matching dots above the end of "patiebant(ur)" before "pena": inserted before pena.
+- 05: "Vincti" with the capital-form V; "ppt" = propter.
+- 08, 24: q-sign. Seen: q with a horizontal stroke through the descender at the baseline, NO superscript (as f.1 l.15, f.2v l.06, f.4v l.04). Read quia(?) — quod is written "qd" by this scribe (l.09 "qd" at the line end); no full quia on ff.1-4v, so (?) kept. Alternatives: quod, quam.
+- 09: "ubu" with abbreviation stroke = uerbum; "di·" with a point after it; "dilex" + superscript = dilexit (Pass 1 "dulcem" not supported: d-i-l-e-x). "p" with loop = promeruit.
+- 13: "Petrum" with a capital P (l.21, l.23 lower case).
+- 16: "ipse" written above "corpus", no sign; placed before corpus. "p aīa" = pro anima.
+- 18: "scil" with stroke = scilicet.
+- 20: after "pugna" a scraped area with grey traces (a long s and one or two further letters), erased and illegible: [[…]].
+- 21: after "hodie" grey smudged traces in a scraped patch (one or two letters erased): [[…]]. "illi" + superscript 9-shaped -us sign = illius.
+- 23: "Ꝑmisit" (capital-form P with bar through the descender) = Permisit. A red stain near "ut" (offset), not text.
+- 24: after "ei" a raised curl shaped like "?" (open hook at the top, stem down to mid x-height) standing between "ei" and "misit". It is taller and more open than this scribe's small 9-shaped -us (illi9 l.21) and is not the baseline con- sign with descender (ꝯstituit l.14). Read "ei commisit" (con- written high), which joins f.4 l.01 "sicut oues pastori"; alternative "eius misit". UNSETTLED on the image.
+- Join to f.4 holds on the reading "ei commisit / sicut oues pastori".

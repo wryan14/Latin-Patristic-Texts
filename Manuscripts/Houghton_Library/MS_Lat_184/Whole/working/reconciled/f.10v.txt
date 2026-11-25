@@ -1,0 +1,36 @@
+{margin: later foliation "20" top left}
+01: Igitur uigilate omni tempore. in elemosynis. ieiuniis. {offset}
+02: orationibus. omnibus bonis operibus. quia nescitis diem
+03: quando dies domini ut fur in nocte ueniat. et separat
+04: corpus ab anima. et ultra locus non erit penitentie. tunc
+05: ibimus illuc quo meruimus. siue ad eternam requiem.
+06: siue ad eternum ignem. Preparate uobis locum in celo.
+07: ubi pax et leticia est sine fine. et tale gaudium. quod nec
+08: oculus uidit. nec in cor hominis ascendit quod prepa-
+09: rauit deus diligentibus se. Ad hoc gaudium uos perducat
+10: qui sine fine uiuit et regnat. ›Alius.‹ {margin: alius}
+11: Fratres karissimi. Moneo uos et hortor. ut anime uestre
+12: consulatis. que eternaliter permanebit. siue in celo
+13: siue in inferno. Operamini ergo omne opus bonum dum
+14: tempus habetis. quia totum spatium huius uite datum
+15: est nobis in spacium penitentie. quia post mortem. omnis
+16: penitentia infructuosa erit. Preparate itaque uos
+17: ad diem mortis. ornate uos. humilitate. castitate.
+18: continentia. caritate. Hec sunt uestes albe que placent
+19: in conspectu regis summi. Laborate hinc exire.
+20: laborate exire de medio iniquitatis. de tenebris
+21: huius mundi. ad terram repromissionis ibi nos expectat
+22: angelorum chorus. ibi prophetarum numerus. ibi omnes sancti
+23: occurrunt. ibi mater. ibi omnis cognatio nostra leta.
+24: Nonne qui uis nostrum cum iturus est in curiam. uel in
+NOTES:
+01: red vertical stroke at the right edge beside "ieiuniis" (lines 01–02) is offset from the facing page, not text.
+02, 15: q-sign: q whose stem rises a little above x-height, with a 2-/r-rotunda shape at the top right running into a long horizontal stroke across the descender; no superscript. Identical to f.9 03, 09. Line 14 has "quia" written in full in the same chain of clauses ("quia totum spatium … quia post mortem"). Read quia.
+03: "sepat" with per-bar: separat.
+04: "ult" + superscript open a (two-pronged flag) = ultra; ulterius would need -ius. Not fully certain of the superscript's value, but it is not the -er/-ur wave.
+05: "re" + q whose stem rises above x-height with a small flag at the top and descends well below the baseline (so q, not d) + "em": requiem (q with superscript mark = qui). Point after.
+10: closing formula written "q· sine f· uiuit ⁊ regnat·" ("f·" = fine; uiuit et regnat in full, the model for the expansion on f.9v 24). Red rubric "Alius." at the end of the line; brown guide note "alius" in the left margin. 11: new piece, red enlarged initial F; "Frs kmi" = Fratres karissimi.
+21: no point after "repromissionis"; "rep" with pro-curl at the foot.
+23: "mat" + superscript = mater.
+24: "qui uis" written with a space. "iturus" clear (i-t-u-r-u-s). Last word pair: the ł-shaped sign (stem with a loop/stroke at the top right, base turning right) — the same sign as f.9v 04 "emunt uel uendunt" — then "in": uel in. Not the scribe's capital E (f.9 09, 15 etc.), which has a separate t. Long decorative descenders into the lower margin.
+Join: begins "Igitur uigilate", continuing f.10 24 "sic uita nostra deficit." — a new sentence after a full stop; sense continuous (exhortation), joins. Ends "uel in" mid-sentence, continued on f.11 ("alium locum").

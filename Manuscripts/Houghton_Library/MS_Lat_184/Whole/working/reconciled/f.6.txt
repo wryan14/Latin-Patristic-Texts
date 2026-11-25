@@ -1,0 +1,39 @@
+{margin: 11 (pencil foliation, top right)}
+01: cum angelis suis preualet. Et ideo dicitur. Michahel pug-
+02: nare cum diabolo. Unde fratres karissimi. omni tempore de-
+03: bemus inuocare presidia sancti Michahelis. et omnium
+04: sanctorum angelorum ut defendant nos ab insidiis diaboli.
+05: et muniant animas nostras. ne diabolus eas rapiat.
+06: Cauete uobis contra maliciosas artes diaboli. qui
+07: numquam dormit sed uigilat. et sicut lupus circa gre-
+08: gem uadit insidiando si aliquam ouiculam rapere possit.
+09: sic diabolus circuit. ut animas nostras rapiat.
+10: Igitur fratres karissimi. festum istud. sancti Michahelis(?) omni stu-
+11: dio celebrate. date elemosynas in honore eius.
+12: estote benigni in inuicem. et nolite fugare \sanctos/ an-
+13: gelos a custodia uestra. Rogate hodie sanctum Micha-
+14: helem qui habet potestatem super omnes animas. ut
+15: animas uestras \cum exierint(?)/ ab hoc corpore representet in pa-
+16: radysum. Quod ipse prestet(?). ›In natale(?) omnium sanctorum‹ {margin: omnium sanctorum (guide note for the rubric)}
+17: Fratres karissimi. Omni die hortatur nos dominus ut conuer-
+18: tamur ad ipsum. et faciamus eius uoluntatem. et pro- {hole}
+19: mittit nobis premium regnum celorum. Omni die cla-
+20: mat post nos. filios nos uocat. ad gaudia celestia
+21: nos inuitat. Nos autem auertimus aures nostras. et plus
+22: diligimus mundum istum ubi nichil certum(?). nihil proprii
+23: possidemus. quam ut illuc perueniamus. ubi ciues angelorum
+24: et omnium sanctorum erimus. Uidetis \fratres/ quomodo electos suos
+
+NOTES:
+- Join f.5v → f.6: "tunc diabolus / cum angelis suis preualet" — joins.
+- 01: point after "dr" (dicitur) before Michahel. 10: point after "istud".
+- 10: "michahel" with a hook-stroke after the l (absent from nominative "Michahel" in l.01) → Michahelis(?); uninflected Michahel possible.
+- 12: "ininuicē": 9 minims before c (counted on the image: i+n | i+n+u+i) → in inuicem, not inuicem. "scōs" above "fugare"/"an-" with a hook below the line after "fugare,": insertion \sanctos/ (main hand).
+- 13: "an-/glos": the l carries the same oblique stroke up from the ascender as "anglis" (l.01), which both passes expand angelis → an-gelos.
+- 15: two dots stand above the a of "ab" (after "uestras"); the right margin has the matching dots before "cū ex.." : first word cū = cum; second word a tall x-like letter with a small superscript, then e/a-shape, r with a superscript stroke — read exierint(?), letters only partly certain (exierit possible).
+- 16: closing formula "Qđ ipse pst." as f.5v l.09 → prestet(?). Rubric red "In nat͛ omnium scōꝝ": "nat" + superscript sign — natale(?); natali / natiuitate equally possible from the sign. Guide note in right margin brown "omniū scōꝝ".
+- 18: after "pro" the parchment is torn and repaired; a dark trace (like an a) shows inside the repaired hole, probably seen through the repair, not read. "pro-/mittit" is continuous, so no text appears to be lost.
+- 19: "regnū": after g four minims (n + u) with the nasal curl above → regnum (not regni).
+- 22: "certu" — two minims after t (u, not i); a small stroke stands over r/t rather than over the u → certum(?), literally "certu". "ppi": first p with pro-loop, second p with a superscript i → proprii.
+- 23: q-sign: q with a stroke through the descender and a superscript open a (u-shaped curl with upturned tips). The identical sign appears in "numq^a" (l.07 numquam) and "aliq^a" (l.08 aliquam) → quam. Distinct from q + stroke without superscript (quia, f.5 l.11–12).
+- 24: "frs" above, with a hook below the line after "Uidetis": \fratres/. No point after it.

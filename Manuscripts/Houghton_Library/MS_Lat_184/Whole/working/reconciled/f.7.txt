@@ -1,0 +1,36 @@
+{margin: 13 (pencil foliation, top right)}
+01: qui hodie coram deo et omnibus sanctis eius. et uidete in
+02: cor \uestrum/ eius quibus peccatis uincti sitis. et reddite
+03: uos culpabiles deo et sanctis \suis/ eius. et confitemini ei pec-
+04: cata uestra. ut uos clementer ab eis eripiat. et ad celestia
+05: gaudia perducat. Quod ipse prestet(?). ›Sancti Martini‹ {margin: s. marty/ni (guide note for the rubric)}
+06: Fratres karissimi. Non est sine causa quod sancta ecclesia
+07: sanctorum festiuitates per singulos annos celebrat. Ad
+08: salutem nostram preordinatum est. ut ad eorum patrocinia
+09: confugiamus. et quod eorum sanctam conuersationem imitemur
+10: quantum possimus. Ideo fratres karissimi. imitamini opera
+11: sancti martini cuius diem hodie celebramus. Uidete
+12: quante misericordie et quante bonitatis esset. et quantum
+13: diligeret deum. qui media hieme quando frigus
+14: durissimum est. cum omnes uestes suas dedisset pau-
+15: peribus preter pallium unum. quoque(?) illud diuisit me-
+16: dium. et unam partem dedit pauperi. aliam reseruauit
+17: sibi. Unde factum est quod in eadem nocte uidit christum in-
+18: dutum illa dimidia ueste. qua pauperem uesti- {offset}
+19: uit. dicentem sanctis angelis. Martynus adhuc ca-
+20: ticuminus. et cetera. Et ideo quicquid tribuitur pauperibus. {offset}
+21: deo tribuitur. Sicut ipse testatur. Quod uni ex mini-
+22: mis meis fecistis. michi(?) fecistis. Et ex hac magna
+23: bonitate promeruit hoc donum a deo accipere.
+24: quod quoque(?) tres mortuos resuscitauit. Unde pariter
+
+NOTES:
+- Join f.6v → f.7: f.6v ends "State" (no hyphen, no catchword); f.7 opens with lower-case "q" + superscript i = qui, no rubric or initial: "State qui hodie coram deo et omnibus sanctis eius. et uidete in cor uestrum…". Physically continuous (same sermon, nothing suggests a lost leaf); the syntax is elliptical (no verb for "qui" — cf. f.5 l.05–06 "Qui hodie conuenistis … state in ecclesia"), so possibly a word omitted by the scribe, but the join itself does not break.
+- 02: "urm" (uestrum) written above "eius", with a small hook after "cor"; 03: "suis" written above "eius". Same ink; both read as corrections intended to replace eius, but eius carries no deletion mark, so it stays in the line.
+- 05: "Qđ ipse pst." → prestet(?) as on ff. 5v, 6. Rubric red "SCI MARTINI"; guide note right margin brown "s· marty" / "ni".
+- 15, 24: q-sign (second form on these pages): q whose bowl carries a short 2-/3-shaped stroke at the top right ending in a blob, the stem with a foot turned right, AND a superscript hook above. This differs from the quia sign of f.5 l.11–12 (q with a long horizontal stroke crossing the stem at the baseline, no superscript). The same 2-shaped sign + superscript is on f.4 l.03, l.10 and f.4v l.21 (Pass 2 there: quoque(?)). Read quoque(?) at both places (l.15 "quoque illud diuisit medium", l.24 "quod quoque tres mortuos"); alternatives quia / quidem. Pass 2's "et" at l.15 is excluded: the sign has a bowl and a descender, unlike the scribe's 7-shaped et.
+- 15: no point after "peribus" (the ";" after b is the -us sign).
+- 18: blank space of about one word between "dimidia" and "ueste" along a crease/scar in the parchment, with a short dash in it; no text missing. "q" + superscript open a = qua. Red offsets in the left margin at l.18 and over l.19–20 near the right: not text.
+- 19: "Martyn9" = Martynus (y as written).
+- 20: "ticumin9": t + one minim (i) + c — not te-.
+- 22: "mͥ f." = m with superscript i: michi(?) (the scribe writes "nichil" in full, f.6 l.22, f.6v l.16, but also "nihil" f.6 l.22; mihi possible) + f(ecistis).

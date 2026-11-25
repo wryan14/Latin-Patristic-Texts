@@ -1,0 +1,39 @@
+{margin: 27 (pencil page number, top right)}
+01: eterno igne sine fine ardeat. Ideo rogo uos propter
+02: omnipotentem deum. ut adtendatis periculum uestrum quod uobis
+03: futurum sit. et rememoramini diem nouissimum
+04: uestrum. et preparate uos ad illum locum. ubi uos ipse christus
+05: cum angelis suis expectat. et quo[[s]] uos inuitat.
+06: Orate hodie omnipotentem deum. ut causa sancte marie
+07: matris sue. et omnium angelorum suorum. animam cuius
+08: boni hominis eripiat de potestate diaboli. et conser-
+09: uet eam. ad eternam requiem. et ad eternam leticiam. que
+10: numquam deficiet(?). ›Dominica die.‹ {margin: dom die}
+11: Omnem dominicum diem honorare debemus
+12: cum omni studio honoris et sanctitatis. quia dominicus
+13: dies. est primus dies in quo christus mundum cepit
+14: operari. In ipso creati sunt angeli. In ipso primum
+15: manna israhelitico populo ueniebat. In ipso christus
+16: resurrexit a mortuis. In ipso spiritus sanctus apostolis datus
+17: est. et ipse ultimus dies est huius seculi. in quo et nos re-
+18: surrecturi sumus. et in quo unusquisque premium
+19: secundum opera sua recepturus est. Ideo placuit apostolis {hole}
+20: ut dominicus dies sine omni seruili opere seruare-
+21: tur. et inde(?) dominicus dies appellatus est. quod nichil
+22: liceat nobis in illa die operari quod displiceat domino
+23: nostro. Quapropter quia \hodie/ in illis operibus que deo placent
+24: studere debemus. Ideo congruum uidebatur referre
+{margin: 15 (pencil foliation, lower left)}
+
+NOTES:
+JOIN: f.14v l.24 "... ut in" + f.15 l.01 "eterno igne sine fine ardeat." — joins. f.15 l.24 "referre" runs on to f.15v l.01.
+02: "qd" with the stroke attached to the d-ascender = quod (contrast f.13 l.02, where a separate superscript i makes quid).
+05: "quos" with an expunction dot below the long s: quo[[s]] (et quo uos inuitat).
+07: "cui⁹" = cuius.
+09: point after "ea~" (eam.).
+10: "deficiet": d-e-f-i-c + e + t; a second i before e is not clearly separate (possibly written "deficet"). Rubric in red, spaced letters, with point: "Dominica die."; guide note in right margin, brown: "dom̄ die". Red initial O on l.11.
+13: point after "dies".
+19: hole/tear at the right edge beside "aplis"; no text lost.
+21: "in̄" after Tironian et: inde(?), alternative ideo; the abbreviation (bar over n) is not the usual form for either.
+23: plain quia sign (q + stroke, no superscript). Insertion dots (∴) above the space after it; left margin "∴ hodie" between ll.22–23, inserted there. Next word: column profile shows i + three minims before the two l's (4 minims, no bar) = in illis, not in nullis (5 minims). "placet" with stroke = placent. Ink of ll.22–24 partly browner, same hand.
+24: page ends mid-sentence ("referre").

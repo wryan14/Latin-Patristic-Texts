@@ -1,0 +1,38 @@
+01: istam tanta ueneratione habeamus. Dies iste tribus
+02: miraculis ornatur. Christus hodie a iohanne baptizari
+03: uoluit. Hodie uinum ex aqua fecit. Hodie stel-
+04: la noua numquam ante uisa. que christum eternum
+05: lumen significabat. magos perduxit ad presepium
+06: ubi christus iacuit. Unde cum summa deuotione cele-
+07: brate diem istam. ut christus ad \cuius/ lau{hole}dem hec agitis
+08: ipse uobis retribuat. ›In purificatione‹ {margin: in purificatione s. marie}
+09: Quamuis christus et sanctissima mater eius esset sine
+10: peccato. et non subiacerent legibus quibus nos pec-
+11: catores sub iacemus. tamen ut nos doceret humi-
+12: litatem. uoluit deferri in templum cum oblationi-
+13: bus et mundari ut peccator. Et ei uenienti ad
+14: templum. occurrebat iustus symeon. qui et in
+15: ulnas suas eum suscepit. quia(?) responsum accepit a
+16: spiritu sancto non uisurum se mortem. nisi uideret dominum christum
+17: natum. Propter(?) quod constituit sancta ecclesia. ut ea die
+18: omnes cum candelis ueniamus ad ecclesiam summa
+19: deuotione. in honore sancte Marie. et filii eius. ut
+20: illud uerum lumen quod christus est accendatur in cor-
+21: dibus nostris. Occurrebat enim ei uenienti ad tem-
+22: plum uiri religiosi et deuote femine cum can-
+23: candelis. ut illud uerum lumen cum lumine sus-
+24: ciperet. Unde monemus uos ut diem istum celebretis
+
+NOTES:
+- Join: f.1 is the first page of the block; it opens mid-sentence ("istam tanta ueneratione habeamus", end of an Epiphany sermon), so the preceding text is not in this block. The last line runs on to f.1v l.01 ("celebretis / elemosinis uestris deuotis orationibus"): the join holds.
+- 02, 20: "ornat" and "accendat" each carry the same superscript sign, a horizontal wavy stroke with a hook at its left end, above/after the t; it differs clearly from this scribe's 9-shaped -us sign (habeam9 l.01, iacem9 l.11, monem9 l.24). Read -ur: ornatur, accendatur.
+- 04, 16: "xp" + three minims with a curl above (same form in both lines; in l.16 it must be "dominum christum") = christum. There is no separate "in" before "eternum" ("ētnum" with bar).
+- 07: "cui" + a 9-shaped curl written above "lau", no insertion sign; placed before laudem ("ad cuius laudem"). A repaired hole lies between "lau" and "dē"; the nasal bar on e is visible, so laudem; nothing appears lost in the hole.
+- 08: rubric in red capitals "IN PVRIFIC̄." with an abbreviation mark on C; expanded purificatione (guide note in the right margin, brown ink, "i purificat' / s. marie", supports it).
+- 09: red initial Q; the following display letters "VA" and an uncial (round) M, then "uis": Quamuis.
+- 11: "sub iacem9" written as two words.
+- 15: q-sign. Seen: q with a horizontal stroke crossing the descender at the baseline and running on to the right; NO superscript. The same sign stands on f.2v l.06, f.3v l.08, l.24, f.4v l.04; this scribe writes quod as "qd" (f.1v l.09, f.3 l.02, f.3v l.09) and qui in full, so quod is excluded by his practice; read quia, but no full spelling of quia occurs on ff.1-4v, so the reading rests partly on sense: quia(?). Alternatives: quod (Pass 1; no d is written), quam.
+- 17: first letter an uncial-d-like form with a tall ascender looped at the top, then p, then t with crossbar; a brownish "&"-like mark (different ink, possibly later) over/after the t. Read Propter by sense; letters not certain. Alternatives: none fitting the letters found.
+- 19: "Marie" with the round uncial M (as the display M in l.09); a point after it.
+- 22-23: "can- / candelis" dittography at the line break, kept.
+- Pass 2's "uos" (l.08) is wrong: the image has "uob" with a superscript = uobis.

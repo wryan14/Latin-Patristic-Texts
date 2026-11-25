@@ -1,0 +1,41 @@
+{margin: 29 (pencil page number, top left)}
+01: ciatis pedibus omnes inceda[[tis]]\mus/ et cum contritione cor-
+02: dis. dei misericordiam exoremus pro peccatis. et non solum pro nostris
+03: sed pro tocius ecclesie necessitatibus. supplicemus pro omnibus
+04: hominibus. pro domino(?) apostolico. pro rege. et his qui in sub-
+05: limitate sunt constituti. pro clero et omni populo ca-
+06: tholico. ut in omni sanctitate quietam et tranquillam
+07: uitam agamus. Hoc enim acceptum est coram deo. qui uult
+08: omnes homines saluos fieri. et ad agnitionem uenire. Qui uu⟨…⟩(?)
+09: Fratres karissimi. qui hodie ›In dedicatione(?).‹ {margin: i dedicat}
+10: conuenistis in honore domini nostri ihesu. et sancte de-
+11: dicationis preparate deo et ornate illud templum
+12: cuius figura est istud lapideum. Quia quamuis deus
+13: presens sit in omni loco ubicumque inuocatur nomen
+14: eius. tamen specialiter elegit sibi domum ubi ab omnibus
+15: conueniatur. et sacrificium \ei/ offeratur. et ubi angelos
+16: suos custodes die et nocte deputauit. qui offerant
+17: orationes nostras coram ipso. et ubi ab omnibus inuo-
+18: caretur. et ubi fides catholica predicaretur. ut esset
+19: omnibus una fides. unum baptisma. et ut unum in
+20: christo sentirent. Ideo uos preparate deo dignam do-
+21: mum in corde uestro. et mundate illud ab omni
+22: odio. fornicatione. adulterio. periurio. auaricia.
+23: gula. ebrietate. et cetera. Cuiuscumque cor ab his
+24: et similibus possessum est. ab illo fugit deus. Et quidam(?)
+
+NOTES:
+JOIN (in): f.16 l.24 "et discal-" + f.16v l.01 "ciatis pedibus" — joins (discalciatis).
+JOIN (out) — BREAKS: f.16v l.24 ends mid-sentence "... ab illo fugit deus. Et q\i/da~", but f.17 l.01 begins a new piece with a large red initial: "[F]ilii hominum usque quo graui corde. ut quid diligitis ..." (Ps 4:3). The dedication sermon (a second copy of f.13v ll.05–24, where the sentence continues "Et \postquam has/ sordes expurgetis. ornate templum ...") does not continue on f.17: text lost (missing leaf/leaves) or the copy was abandoned. Not resolvable from the images.
+01: "ciatis" — c + i + a (not "ceatis"). Gap in "pe dibus" from a crease at the top of the leaf; no loss. "incedatis": "tis" underlined (deletion) with superscript "m⁹" above = incedamus.
+02–05: the p-signs before peccatis, nostris, tocius, omnibus, domino, rege, clero end in a hook curling back to the left at the foot of the descender (the pro-form), unlike the per-p of f.16 l.01/02 whose foot is crossed by a straight stroke: pro throughout. Point after "peccatis".
+03: "tocius" with c. Point after "necessitatib;" (separate from the -us sign).
+04: "dn̄o" = domino (the scribe's normal sign, cf. f.13 l.12 "a dn̄o"); domno (for the pope) equally possible with this abbreviation.
+08: after "uenire." in lighter brown ink, at the gutter edge: Q with a superscript stroke (= Qui, cf. "Qⁱa" f.13 l.21) + v + two minims, the rest running into the gutter fold. Most probably the closing cue "Qui uiuit (et regnat ...)" ending the rogation sermon before the new rubric; only "Qui u u" is visible, and a third minim (uiu-) may be lost in the gutter. Lighter ink: possibly added afterwards, same or near-contemporary hand. Not settled.
+09: point after "kmi" (karissimi.) clearly visible. Large red initial F. Rubric in red, spaced letters: "In dedicat~" with abbreviation stroke and point = In dedicatione(?). Guide note, left margin, brown: "i dedicat".
+11: small blank/erased space between Tironian et and "ornate".
+12: "q\a/uis" with stroke through q = quamuis.
+15: stained blank (erasure?) between "sacrificium" and "offeratur"; "ei" written above it.
+19: "unu i" = unum in (no "omnes", unlike f.13v l.12).
+23: "Cui⁹cūq;" = Cuiuscumque (9-sign present).
+24: last word: q with a small vertical superscript stroke (the i-mark of quid/qui), d with a hooked stroke on its ascender, and a — letters q-i-d-a + abbreviation: quidam(?). Neither n nor o is written, so "quando" (both passes) is not supported by the letters, although the f.13v parallel (postquam) would suit a temporal conjunction. Unresolved.

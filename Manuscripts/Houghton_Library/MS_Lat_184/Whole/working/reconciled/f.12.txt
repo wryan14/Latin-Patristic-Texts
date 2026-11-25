@@ -1,0 +1,43 @@
+{margin: later foliation "23" top right; pencil "12" bottom left}
+01: ipsum dedit pro peccatis suis. Nos peccauimus. et ipse
+02: peccata nostra luit. ›Sermo in ebdomada que dicitur communis(?).‹ {margin: sermo in ebdo/mada que dicitur/communis}
+03: Predicare debemus uobis quare ecclesia consue-
+04: sit hanc ebdomadam plusquam alias in anno. maiori obser-
+05: uatione elemosinarum celebrare. Sic constituerunt sancti
+06: qui ante nos fuerunt. et parentes nostri. uiri sancti. qui
+07: deum ex toto corde diligebant. Bonum uisum est eis.
+08: ut post collectionem frugum. tunc de his pauperibus
+09: parciamur in memoriam uiuorum et defunctorum et paren-
+10: tum nostrorum. et ad laudem dei et gloriam dei. qui nobis ea contulit.
+11: Et ideo dicitur uulgo communis ebdomada. ut omnes communi-
+12: ter celebrent hanc ebdomadam omnibus bonis operibus.
+13: quisque pro sua copia. ut deus ea que dedit conseruet et
+14: custodiat ab igne. a latronibus. ab omni mala in-
+15: cursione. Illi(?). quibus dedit deus substantiam huius mun-
+16: di parciantur his [[uerbis]] qui \non/ habent. Quia cui deus
+17: plus contulit. plus exigit ab eo. Pauperiores autem orent
+18: deum pro diuitibus ut per diuicias suas uitam eternam mere-
+19: antur. et consolentur se pauperes inuicem de eternis di-
+20: uiciis. Diuites autem non spem ponant in diuiciis huius
+21: mundi. que ad horam transeunt. cum ipsis simul
+22: qui possident eas. sed spem ponant in eternis diuiciis.
+23: ubi uerum et eternum thesaurum inueniemus. christum filium
+24: dei dominum nostrum. qui dedit nobis uitam et substantiam. Illi(?)
+NOTES:
+Foliation: the second digit is a rounded open form (3 or 0); "23" fits the sequence (f.10v = 20, f.11v = 22).
+01: p before "peccatis" has a stroke curling left from the foot of the descender (pro-form, as f.9 03); "suis" clear (sense would want nostris; written as seen).
+02: rubric in red after "luit.": "Sermo inebdomada q̊ dr̃ ꝯmi·" — Sermo | in (written joined to ebdomada) | ebdomada (in full) | q + superscript e = que | d + r + stroke = dicitur | ꝯ + m + one minim with a hooked abbreviation stroke above + point. The rubric form gives only "communi" + general abbreviation stroke; no s is written. Read communis(?) after the brown guide note in the right margin (three lines: "sermo i ebdo / mada q̊ dr̃ / ꝯmunis", where "ꝯmunis" is written with s) and the predicate syntax; alternative communi. Faint pinkish shape below the rubric = offset.
+03: new piece: red enlarged P (descending through 03–05) + "REDICARE" in spaced display capitals.
+03-04: "ꝯsue-" / "sit" as written (consueuit expected).
+10: "ad laudē dī ⁊ glām dī· qⁱ nob ea ꝯtulit": dei twice.
+11: "Et ideo dr̃ uulgo ꝯmunis ebdom̄· ut oms ꝯmuni-" = Et ideo dicitur uulgo communis ebdomada. ut omnes communi-/ter.
+13: "p sua": pro-form.
+15: the word after "cursione·" is a tall l-shaped stroke (the scribe's capital I has this form: "Igitur" f.10v 01, "Ideo" f.11v 06) followed by four minims, then a point: letters "I + iiii"/"luu". Read Illi(?) from the construction (Illi quibus dedit deus substantiam … parciantur); the letters do not show two tall l's. Alternatives: Hii / Hi; unresolved.
+16: "uerbis" underlined (deletion); "non" written above the line between "qⁱ" and "habent" (main hand).
+17: "Paup(er)iores" — p with the per-bar: Pauperiores, as written.
+18: "dm̄" (d + three minims) = deum; no point after "diuitib;"; "p diuitib;" pro-form, "ut p diuicias" per-bar.
+20-21: "hui⁹" at the end of 20 = huius; 21 begins "mundi·"; point after "transeunt".
+23: "xp̄m" lower-case = christum.
+24: last word after a point: tall l-shaped stroke + three minims ("lui"); same problem as 15; read Illi(?) to match 15; alternative Uni (cf. f.12v 01 "eidem domino nostro committo …"). Unresolved.
+Lighter reddish-brown ink on most of the page (same hand).
+Join: begins "ipsum dedit", continuing f.11v 24 "manifestaret. se" (se ipsum dedit) — joins. Piece ends at 02 "luit." without doxology; new piece 03. Ends "Illi(?)" continued f.12v 01 "eidem domino nostro committo …".

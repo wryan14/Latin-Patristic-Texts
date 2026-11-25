@@ -1,0 +1,37 @@
+{margin: later foliation "19" top right}
+01: Fratres karissimi. Tempora nouissima ›alius.‹ {margin: alius.}
+02: et periculosa instant. Fides et ueritas. et omnis iusticia
+03: defecerunt. Non inuenitur iam fides inter seruum et
+04: dominum. inter uirum et uxorem. Et omnis iniquitas et uani-
+05: tas adeo iam inualuit. quod ira dei et plaga eius me- {margin: –}
+06: rito uenit super nos. Uidemus famem coram uobis. Uide-
+07: mus sterilitatem frumenti et uini. Uidemus predas et in-
+08: cendia per totam terram. Uidemus quod gens contra gentem
+09: surgit. Uidemus romanum imperium destrui. De inde
+10: et leges humane penitus defecerunt. Mundus iam
+11: casum minatur. Fugiamus ergo ne obruamur cum mundo.
+12: Si quis maneret in domo sua que ex uetustate
+13: nutaret. nonne cicius inde exiret. ut ad loca tuci- {margin: –}
+14: ora fugeret. Fugiamus de hoc mundo et de hoc ex-
+15: ilio ad patriam nostram que in celis est. ad quam ipse pater
+16: noster qui nobis dedit corpus et animam inuitat nos sic
+17: dicens. Uenite benedicte\i/ patris mei. Moneo ergo et exhor-
+18: tor uos pro meo officio. ut unusquisque conscientiam suam
+19: interroget. quibus peccatis suis dominum offenderit.
+20: et confiteatur deo et sacertoti suo. et iudicet se ipsum. si uult
+21: futurum iudicium dei. Sicut dicit apostolus. Si uos ipsos iu-
+22: dicaretis. non utique iudicaremini. Adtendite fratres
+23: karissimi. Uita nobis breuis et incerta est. ut flos qui hodie
+24: floret. et cras arescet. et cadet. sic uita nostra deficit.
+NOTES:
+01: new piece: red enlarged initial F (two lines high); red rubric "alius." with point after "nouissima"; brown guide note "alius." in the right margin. "Frs kmi" = Fratres karissimi.
+05, 13: short horizontal dash in the right margin, not text.
+09: word by word: "surgit·" | "Uidem(us)" (capital U, -us sign) | "romanū" = romanum | "imp(er)iū" — p with a horizontal stroke across the foot of the descender (the per-bar as on f.9) + "iu" + bar = imperium | "destrui" followed by a point | "De" — round-backed d enlarged above x-height (capital) | space | "in" with a superscript stroke = inde (same sign as "in̄ exiret" = inde exiret, 13). Reconciled: "Uidemus romanum imperium destrui. De inde et leges humane penitus defecerunt." De inde = deinde; written as two units with a space, as the scribe also does with "Qua cumque" (f.9v 13).
+13: "nōne" written as one word = nonne; "cicius" (c-i-c-i-u-s, no t).
+17: an "i" written above the final e of "benedicte" (correction to benedicti), no expunction point under the e. "pat" + superscript i + s = patris; "m·" = mei.
+19: "dn̄m" — d + n + m (five minims) with bar = dominum (contrast "dm̄" = deum on f.9v 19, 21).
+20: "sacertoti" with t for d, clear.
+20-21: "si uult futurum iudicium dei" — no infinitive written; no insertion mark.
+22: "Adtendite" (A, d, t).
+24: point after "floret". Last line; descenders drawn long.
+Join: f.9v ended a piece with its doxology; f.10 opens a new piece with rubric and initial — no running text across the page break, no break in sequence.

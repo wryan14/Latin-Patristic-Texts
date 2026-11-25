@@ -1,0 +1,43 @@
+{margin: 27 (pencil page number, top left)}
+01: uobis de dignitate et sanctitate huius diei. ut
+02: his auditis terrore et amore deum amplectamini.
+03: et sic uestre anime consolamini. et in eo bonis bonis
+04: operibus insidare debemus. ›Quando uolueris.‹ {margin: qndo uolu- / eris}
+05: Diligenter filii et fratres karissimi. in corporis et cordis
+06: aure uerba dei percipite. piis moribusque adimplete.
+07: Sciens enim dominus post liberi arbitrii amissionem
+08: nullum bonum a nobis posse esse. non solum ad orandum
+09: deuote. sed et instanter hortatur. et monet ut quod na-
+10: ture possibilitas minus habet ab illo sine quo
+11: boni quid agi non potest. orando inueniat. Adeamus ergo
+12: eum iuxta euangelii parabolam nocte tribulationis.
+13: eiusque auxilium qui suos in mundo pressuram habituros
+14: esse predixit. suppliciter flagitemus. ut sicut ipse mun-
+15: dum uicit. sic nos uincere faciat. Et quia omnipotens in-
+16: terdum peticionem differt non ut premium minuat.
+17: sed ut meritum augeat. instanter petamus ut tres
+18: panes nobis tribuat. Per panem quippe qui principalis
+19: {hole} est uictus. noticiam sancte trinitatis. uel tres prin-
+20: {hole} cipales uirtutes. fidem. spem. caritatem. quibus ad
+21: celestia gradiamur designat. Hoc instanter petamus.
+22: et si non propter amiciciam. saltem propter inprobitatem surgens
+23: necessaria dabit. Uult enim deus inportunos ha-
+24: bere petitores. et sua gratuita dona. nostra ultra(?)
+
+NOTES:
+JOIN: f.15 l.24 "Ideo congruum uidebatur referre" + f.15v l.01 "uobis de dignitate ..." — joins. f.15v l.24 "nostra ult~" + f.16 l.01 "esse merita" — joins (nostra ultra esse merita).
+00: pencil page number "27" (f.15 recto also reads 27), as seen.
+02: t with superscript er-hook + "rore" = terrore; no i-m for timore.
+03: "bonis bonis" written twice (dittography, no deletion marks).
+04: "insidare": after the long s a single minim, then d (sic, for insudare). Rubric in red with point "Quando uolueris."; guide note, left margin, brown: "q̄ndo uolu- / eris". Red initial D on l.05.
+05: a point after "kmi" at mid-height (karissimi.), touching the i's finishing stroke; low confidence.
+07: "dn̄s": d + n + long s with stroke = dominus (not ds).
+08: "n̄ solū": n with the general abbreviation curl = non (as "n̄ pot" l.11), not nisi.
+11: "boni" without abbreviation mark (not bonum). "q\i/d" with separate superscript i = quid (cf. f.13 l.02).
+14: "sic" with superscript curl = sicut.
+15: the word after "faciat." is the capital E of this hand (tall stem with flag, as "Et" on f.14v l.12 and f.13v l.20) + t, followed by the plain quia sign (q + crossing stroke, no superscript): Et quia. Pass 2's "Rex(?)" misreads the E-form as R and the q-sign as x.
+16: no point after "differt".
+18: "q" with superscript i = qui.
+19: point after "uictus". "uel" written out in full (u-e-l): the scribe's full form; cf. ł on f.13 l.22 and the bare v of f.13 ll.13–14 / f.16 l.20.
+19–20: slit/hole with stitch holes in the left margin area; both lines begin to the right of it; letters seen inside the hole belong to the leaf beneath. No text lost.
+24: "ult" with long t-crossbar at line end = ultra(?) (confirmed by sense of f.16 l.01 "esse merita"); page ends mid-sentence.

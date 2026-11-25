@@ -1,0 +1,39 @@
+01: sanctum iohannem rogare ut ipse sit nuntius noster
+02: ad omnipotentem dominum. quod ita conseruet uos in presenti
+03: uita. ut eternam uitam ac quiratis. Fratres karissimi. uos
+04: debetis scire quis iste iohannes fuerit cuius
+05: festum hodie celebramus. Iste est ille iohannes qui
+06: christum baptizauit. Ille quoque(?) adeo sanctus fuit. ut ho-
+07: mines qui in illo tempore fuerunt putarent
+08: eum esse christum. Sanctus iohannes autem respondens eis.
+09: quod nec dignus esset ut solueret corrigiam
+10: calciamentorum christi. Iste quoque(?) iohannes fuit. qui christum
+11: uenturum in mundum prenuntiauit. qui totum
+12: humanum genus deberet redimere. Iste
+13: est ille iohannes. cui ipse dominus testimonium dat
+14: quod inter natos mulierum non surrexit maior .i.
+15: sanctior iohanne baptista. Et quamuis tam sanctus
+16: esset. tamen segregauit se ab omnibus et moratus
+17: est in deserto. et misero aggresti cibo ibi
+18: pastus est. et aspero uestitu de pilis camelorum
+19: facto induebatur. Et cum tam sanctus homo qui
+20: pene \nihil/ umquam peccauit ita se afflixisset pro amore quod(?)
+21: de nobis peccatoribus erit \qui cottidie/ peccamus. et tamen
+22: cottidie in magnis deliciis simus. et come-
+23: dimus ad superfluitatem. et bibimus ad ebrietatem.
+24: Fratres karissimi. Assidue ›Sancti Petri apostoli‹ {margin: s. petri apostoli}
+
+NOTES:
+- Join with f.2v HOLDS: "Et debetis hodie / sanctum iohannem rogare ut ipse sit nuntius noster". Pencil foliation "5" top right, not text. Page ends mid-sentence ("Fratres karissimi. Assidue"), continued on f.3v.
+- 02: "qd" with a stroke through the ascender of d = quod (as written; sense might prefer qui).
+- 03: "ac quiratis" written as two words.
+- 06, 10: q-sign. Seen: q with the horizontal stroke through the descender (as on f.1 l.15) PLUS a small superscript hook rising to the right, the same shape as the scribe's general abbreviation mark (e.g. over "Un̄", "enī"). Not an a, o, 2-shape or 3-shape. The sign itself does not fix the word; read quoque(?) by sense, consistently with f.4 l.03, l.10, f.4v l.21. Alternatives: quidem, quoque/quidem only by sense; not quia (the bare sign) and not quod (written "qd").
+- 10: "x" with a superscript i (upright with a small head-stroke, as the superscript i of "p(ri)mum" f.2v l.18) = christi, parallel to x + superscript c = christus (f.1v l.21). "calciamentorum" spelled with ci.
+- 11: "q" with superscript i = qui.
+- 14: "maior .i." (= id est) as written.
+- 15: "q" with superscript a + "uis" = quamuis.
+- 17: "aggresti" with double g, clearly written (both passes normalised to "agresti").
+- 20: "nihil" (with h) written above between "pene" and "umq̃", no insertion sign; letters clear, placed before umquam. "affl-i-x-iss;" = afflixisset. "p" with left loop = pro. At the line end, beyond the ruled column but in the text ink and continuing the line: "qd" — q + uncial d whose ascender carries a short tick/hook, i.e. the form this scribe uses for quod (f.3 l.02, l.09, l.14; f.3v l.09 "promeruit qd"); it lacks the superscript i of "quic q(i)d" (f.2v l.06). The page therefore shows quod; sense ("... quid de nobis peccatoribus erit") requires quid, so transcribed quod(?) with the alternative quid (both passes read quid). Possibly a scribal slip.
+- 21: right margin: two dots + "q" with superscript i + "cotti / die" = qui cottidie; matching two dots above the space before "peccam9": inserted there. No punctus after "erit" (the dots are the insertion sign, above the line).
+- 22: "sim9" = simus (as written).
+- 24: red initial F (new sermon on St Peter); rubric in red at the right "Sci Pet̃ apli" — Petri confirmed by the brown guide note in the right margin "s· petri / apli" (petri written out); expanded Sancti Petri apostoli, capitals S and P as written.

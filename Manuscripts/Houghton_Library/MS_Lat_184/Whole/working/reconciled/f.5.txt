@@ -1,0 +1,34 @@
+{margin: 9 (pencil foliation, top right)}
+01: Modo committo corpus et animam uestram omnipotenti
+02: deo. et sancte marie matri eius. et omnibus sanctis eius. quod
+03: hic in terris promereamini ut participes fia-
+04: tis eterne beatitudinis. ›In natiuitate sancte marie.‹ {margin: i natiu[…] / s. ma[…] (guide note for the rubric, cut by the gutter stain)}
+05: Fratres karissimi. Qui hodie conuenistis in honore dei
+06: et sancte matr\i/es eius. \sic/ state in ecclesia ut non fiat uobis
+07: ad dampnationem. Respiciat unusquisque ad cor
+08: suum in quibus peccatis eum accuset et reprehendat
+09: se ipsum. et peccata sua statuat coram se. et fiat
+10: iudex peccatorum suorum. et puniat se uera penitentia.
+11: quia(?) penitentia pena est. Et quicumque hoc fecerit.
+12: securus erit in die iudicii. quia(?) preuenit iudi-
+13: cium. sicut scriptum est. Si uos ipsos iudicaretis. non
+14: utique iudicaremini. Adtendite miseram condi-
+15: cionem uestram. Cum merore et maxima amari-
+16: tudine uita ista finienda est. et omnia huius
+17: mundi relinquenda sunt. Non respicit dominus
+18: ad diuicias. non respicit ad nobilitatem. non ad
+19: pulchritudinem. omnia uno fine concluduntur.
+20: Sed in celo fit nobilior. dicior et pulchrior.
+21: qui hic fuit iustior. Terminus huius uite. malis
+22: est inicium eterni ignis. Bonis inicium eterne ex-
+23: ultationis. Mali dampnantur cum diabolo. cui
+24: semper seruierunt. et cuius uoluntatem fecerunt. Boni
+
+NOTES:
+- Join f.4v → f.5: BREAK in sense. f.4v ends with the closing formula "Quod ipse prestet(?)."; f.5 l.01 opens with a commendation/blessing formula "Modo committo corpus et animam uestram ..." (capital M, not an enlarged initial), ending "... ut participes fiatis eterne beatitudinis." before the rubric of the Nativity sermon. Either a free-standing formula appended after the Assumption sermon, or text lost between f.4v and f.5; the image of f.5 alone cannot decide.
+- 03: "hic interris" written as one unit: three minims + t + e + r + r + one minim + long s. Read in terris (compare l.22 "inicium", where the i's foot likewise runs into the next minim and makes "in" look like "u"). Only one minim after "rr" excludes Pass 1's "uiterius". The hook below the line under "pmereamini" is the pro-loop of p (loop from the descender to the left), not an interlinear "ci".
+- 06: "matr" + e, with a small i (with a short crossing tick) written above the e: a correction matres → matris; recorded matr\i/es (the e is not cancelled). Two dots stand above-left of the long s of "state"; the left margin has the same two dots before "sic" (main-hand ink as far as can be seen): insertion "sic state". "state" itself is clear (long s, t, a, t, e).
+- 11, 12: q-sign: q with a short straight horizontal stroke through the descender, no superscript. Expanded quia(?) (both times). quia is never written out on ff. 5–8v; the same sign recurs at f.7v l.04, 22, f.8 l.02, f.8v l.07, always where only quia fits, and the scribe's other q-forms are taken (qđ = quod, q + superscript i = qui, q + superscript open a = quam/qua, q + 2-shaped stroke + superscript = quoque(?), f.7 l.15). Distinct from "qđ" (q + d with a curl on the ascender) = quod, l.02.
+- 14: "Adtendite": capital A (uncial form) + round d with a short ascender + tendite. Not "Att-".
+- 22: "inicium" twice: the letter after "ini" is c (no stem above the line, unlike t in "eterni" beside it).
+- q-sign form A (q + straight stroke across the stem, no superscript) is written quia(?): quia is never spelled out on ff. 5–8v, so the default is not confirmed by the scribe; quia is the only one of his q-words not otherwise assigned (qđ = quod, q + sup. i = qui, q + sup. open a = quam/qua, q + 2-shaped stroke + sup. hook = quoque(?)). Same treatment as the f.4/f.4v reconciliation.

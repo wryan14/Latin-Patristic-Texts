@@ -1,0 +1,35 @@
+{margin: later foliation "18" top left}
+01: uera penitentia quadrupliciter omnia restituit.
+02: et per hoc promeruit christum in domum suam recipere.
+03: Et per hoc dedit dominus magnam spem mercatori-
+04: bus. qui cum fraude emunt uel uendunt. Nam ue-
+05: ra penitentia est uerum remedium contra omnia pec-
+06: cata. Matheus thelone\a/rius. multis bona sua
+07: iniuste extorserat. et per ueram penitentiam factus
+08: est apostolus et euangelista. Petrus negauit dominum. et uera
+09: penitentia et lacrimis promeruit quod factus est
+10: princeps apostolorum. Hec omnia magnam spem dant
+11: nobis peccatoribus. Et dico uobis quod gaudium
+12: fit angelis dei super conuersione unius peccato-
+13: ris. Igitur nullus peccator desperet. Qua cumque
+14: enim die conuersus fuerit ad dominum. quoque(?) si mul-
+15: tis criminibus cecidisset. cum gaudio suscipietur.
+16: Semper clamat post nos. ut reuertamur ad ipsum.
+17: Qui uere penitens est securus erit de pecca-
+18: tis suis. Sed qui cumque uestrum adhuc ueram penitentiam
+19: non habet. roget deum et pulset ad ianuam diuine
+20: clementie. et aperietur ei. et dabitur ei quod petit. Unde
+21: rogamus et monemus uos. ut omni tempore deum
+22: coram oculis uestris habeatis. qui omnia dedit
+23: nobis que habemus. et adhuc regnum celorum pro-
+24: mittit. Ad quod uos perducat. qui sine fine uiuit et regnat(?).
+NOTES:
+02: "per hoc" with straight-barred p; "promeruit" with p looped to the left at the foot (pro); same pro-form 09.
+04: between "emunt" and "uendunt" a sign like ł (stem with a stroke crossing the top, base turning right), sitting on the line; not the scribe's tironian et, which is a 7-shape descending below the line (02, 08). Read uel.
+06: superscript "a" with a caret below the line: inserted letter, thelone\a/rius.
+13, 18: "Qua cumq;" and "qui cuq;" written with a clear space between the parts; kept as two words.
+14: q-sign: q with the same 2-shaped / r-rotunda stroke attached to the stem as the quia sign (f.9 03, 09), plus an added superscript mark above it — a short stroke rising right into a dot. The superscript is not part of the plain quia sign, so the sign does not determine the word. Same composite sign f.12v 20 ("Quod ipse … apostolus"), where quia cannot stand; one value read for both: quoque(?); alternatives quia (base sign) / quamuis (sense "etiam si" here).
+19, 21: "dm̄" — d + three minims (m) with the bar hooked from the d; no n (contrast "adnm" = ad dominum 14 and "dnm" 08). Read deum.
+20: "apiet" with the wavy superscript ur-sign, the same mark as "dabit(ur)" in the same line: aperietur.
+24: "Ad" with a capital A; point after "pducat". Closing formula written "q· sine fine· u· r·": expanded qui sine fine uiuit et regnat; "et" is not written (the scribe writes "uiuit et r." in full form on f.11v 08), hence (?). Long decorative descenders into the lower margin; small red speck below "fine" (not text). END of the piece; no rubric or explicit on the page.
+Join: begins "uera penitentia", continuing f.9 24 "ex" ("ex uera penitentia") — joins.

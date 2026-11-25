@@ -1,0 +1,39 @@
+{margin: later foliation "22" top left}
+01: rentiam deo exhibent. omnia ad libitum suum faciunt.
+02: Pauperes autem qui famem paciuntur sitim et frigus. sepius
+03: confugiunt ad deum. qui restringit eos laboribus
+04: huius mundi. ne dulcescat eis iste mundus. ut
+05: facilius eos ad se. dum nichil habeant in hoc
+06: mundo quod eos delectet. Ideo conuertimini ad {offset}
+07: eum ex toto corde. et ipse erit consolatio pau-
+08: pertatis uestre. Qui uiuit et regnat u. s. s. ›Alius.‹ {margin: alius.}
+09: Necesse est fratres karissimi. ut sepius moneamus
+10: uos quia sumus sacerdotes uestri. et rationem reddituri
+11: sumus de anima uestra. si diabolus ille lupus inui-
+12: sibilis aliquam rapuerit. Et sicut respondere debet
+13: pastor de perdita oue. sic sacerdos de perdita anima.
+14: Ideo monemus uos et rogamus. ut fide et uerita-
+15: tem inuicem conseruetis. nullus alii fraudem faci-
+16: at. quod sibi non uult alii non faciat. Diligite deum qui uos
+17: diligit. Diligite patrem uestrum qui uobis animam et
+18: corpus dedit. habete eum in corde uestro. Uidete
+19: que(?) sit uoluntas eius. et hoc facite. Omnis uoluntas
+20: eius et cogitatio hec est ut conseruet uos. O quanta dig-
+21: nitas. quod ipse nos filios uocat. Uere illi soli be-
+22: ati sunt qui deum diligunt. et qui adherent ei. et qui in-
+23: uocant nomen eius. et bona opera operantur. Ecce ut
+24: dilectionem quam habuit in nos manifestaret. se
+NOTES:
+01: "suū": long s + four minims (u + u) with a bar over the last two = suum (not sibi, which would need b / superscript i).
+02: no point between "paciunt(ur)" and "sitim".
+03, 16, 22: "dm̄" — d + three minims (m), no n: deum (contrast "dn̄m" = dominum, f.10 19).
+05: "ut facilius eos ad se." — no verb written; no insertion mark.
+06-07: red shape in the right margin beside "ad / eum" is offset, not text; "ad" is legible under it.
+08: closing formula written "Qui uiuit ⁊ r· v· ſ· ſ·": "r·" expanded regnat from the scribe's full wording (f.10v 10 "uiuit ⁊ regnat"); "v. s. s." kept as letters — likely sense "in secula seculorum", but the first letter is a clear v, not i, so it is not expanded. Red rubric "Alius" (enlarged uncial A) with a small red point; brown guide note "alius." in the left margin. 09: new piece, red initial N (faded) in the margin, "ecesse" in spaced display letters.
+10: q-sign = quia (as f.9 03).
+14-15: "fide" has no nasal bar; "uerita-" / "tē" with a clear bar = ueritatem; the word is split across the line (Pass 1 put all of "ueritatem" on line 14).
+19: q whose stem rises into a small closed loop with a hairline tail; no further letters. Read que (= quae) as on f.9 05; alternatives qua / qualis. Same sign f.9 05. Not quanta: "O quanta" (20) is written q + superscript + "nta".
+22: "qⁱ" = qui (twice), "qⁱ ī-" = qui in-.
+24: "q" + superscript = quam.
+14-23: lighter, more reddish brown ink (same hand), not rubric.
+Join: begins "rentiam", completing f.11 24 "nullam reue-" (reuerentiam) — joins. Ends "se" mid-sentence; continued f.12.

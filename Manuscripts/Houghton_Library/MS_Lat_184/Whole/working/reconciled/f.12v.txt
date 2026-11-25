@@ -1,0 +1,38 @@
+{margin: admonitio / ad sacerdotes}
+01: eidem domino nostro committo corpus et animam uestram. amen.
+02: Apostolus clamat. Nomen dei plas\p/hematur per
+03: uos. Nos sacerdotes qui deberemus populum dei pre-
+04: dicare uerbis et exemplis. et deberemus eum iusticiam
+05: dei docere. et debemus imperitos ducere. sicut uiden-
+06: tes cecum. Heu nos ipsi ceci sumus ab omni iusticia
+07: et omni ueritate. et utrique tam nos duces. quam ipsi se-
+08: quentes in foueam cadimus. Que est hec fouea. Po-
+09: testas diaboli. Unde dicit beatus gregorius. Sacerdotes mali
+10: ruina sunt populi. Unde et propheta clamat. Ue sacerdotibus qui
+11: pascunt se ipsos bonis exterioribus. et populum dei
+12: negligunt in bonis spiritalibus. Et rursum clamat
+13: propheta. Sanguinem mei. uidelicet(?) peccata de manibus uestris
+14: requiram. Uere nomen dei per uos plasphematur. quia quod
+15: nos prohibemus aliis. nos ipsi committimus. nos predicamus
+16: castitatem. et ipsi casti non sumus. Nos predicamus continen-
+17: tiam. et ipsi incontinentes sumus. Nos predicamus ieiu-
+18: nium. et ipsi non ieiunamus. Nos prohibemus auariciam. et ipsi
+19: auari sumus. Omne quod \de/testamur in aliis. hoc ipsi perpe-
+20: tramus. Quod ipse quoque(?) apostolus expauescens dicit. Ne cum aliis pre-
+21: dicatio. ipse reprobus efficiar. Homines ministrant
+22: nobis bona exteriora. et pascunt corpus nostrum.
+23: nos deberemus animas eorum pascere epulis spiritalibus
+24: uidelicet(?) predicatione diuine iusticie et ueritatis. Nos gloriam
+NOTES:
+{margin}: brown note "admonitio / ad sacerdotes" in the left margin beside 01–02 (guide for a rubric that was not executed). No later foliation on this side.
+01: ends the piece begun f.12 03; "eide" with bar = eidem; "am̄" = amen.
+02: new piece: red enlarged A + "POSTOL'" in spaced display letters. "plashemat" with p written above between s and h, + ur-sign: plas\p/hematur. Red stroke in the right margin by 02–04 = offset.
+03: "Nos": the capital is the scribe's N (two uprights joined by a diagonal), identical to "Nom" (02) and "Nos" (24); his capital U is the b-shaped form ("Uere" 14).
+05: "debem⁹" = debemus.
+12: "spiritalib;" written in full; 23 "spūalib;" (sp + two minims + stroke + alib;) expanded to the scribe's own full spelling spiritalibus; alternative spiritualibus.
+13, 24: "v" with a point before it (same form on both lines). Operator decision 2026-11-24 for consistency with f.13 ll.13-14 and f.16 l.20: bare "v." (distinct from the scribe's ł = uel) is printed uidelicet(?), alternative uel in its explanatory sense; English "that is" either way. 13: "mei" clear.
+14: q-sign = quia (as f.9 03), then "qd" = quod.
+19: "de" above the line with a comma-shaped caret below: \de/testamur.
+20: q-sign: q + 2-shaped / r-rotunda stroke (the quia sign) with an added superscript hook ending in a dot above it — the same composite sign as f.9v 14. The superscript is not part of the plain quia sign, so the sign does not determine the word. One value read for both instances: quoque(?) (fits "Quod ipse quoque apostolus … dicit" and "quoque si multis criminibus cecidisset"); alternatives quia (base sign) / quamuis (f.9v only). "apls" = apostolus.
+20-21: "pre-/dicatio" as written.
+Join: begins "eidem domino nostro committo …", continuing f.12 24 "Illi(?)" — sense joins (the last word of f.12 itself unresolved). Ends "Nos gloriam" mid-sentence; continued on f.13.

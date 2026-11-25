@@ -1,0 +1,41 @@
+{margin: 16 (pencil foliation, top left)}
+01: uoluntatem. et bona opera. Quod ipse prestet(?). ›Item in quolibet festo.‹ {margin: item in quolibet / festo. (guide note for the rubric, left margin, lines 01–02)}
+02: Uelimus nolumus transeundum nobis est ab hoc
+03: mundo. Ideo beati sunt illi. qui aliquid boni pre-
+04: mittunt. unde eternaliter uiuant. Mirum est fratres karissimi
+05: nos solliciti sumus unde paucos annos hic uiua-
+06: mus. non cogitamus unde eternaliter uiuere debeamus.
+07: Uere dico uobis. quia(?) nichil ibi inuenitur. nisi hinc
+08: premittatur. Tendite fratres karissimi ad patriam uestram. Ipse
+09: inuitat uos et hortatur exire de hac peregrina-
+10: tione. Nolite esse desides. maiora ibi inueni-
+11: untur quam ab aliquo premitti possint. Nullus ibi labor
+12: est. nullus dolor. Ibi nichil est nisi gaudium et leti-
+13: cia in presentia(?) [[lectione]] \dei/. Ibi est exultatio cum an-
+14: gelis et omnibus sanctis eius. Unde rogate qui diligit nos
+15: super omnem creaturam suam. ut ipse dignetur \nobis/ por-
+16: rigere manum suam. ut eripiat nos de erumpnis
+17: huius seculi. Quod ipse prestet(?). ›Alius sermo.‹ {margin: alius s. (guide note, left margin)}
+18: Fratres karissimi. apostolus dicit. Omnes peccauimus et egemus gloria(?)
+19: dei. Omnes peccatores sumus. sed misericordia dei maior est
+20: quam peccata nostra. Nullum terreant peccata sua quan-
+21: tumcumque sint magna. tantum conuertatur. et pe-
+22: nitentiam agat. et saluus erit. Sic enim scriptum
+23: est. Peccasti quiesce. deus non spernit peccatores.
+24: sed penitere nolentes. Si quis adulter est. si quis
+
+NOTES:
+- Join f.8 → f.8v: "cordi uestro bonam / uoluntatem" — joins. Last line runs on to f.9 ("si quis").
+- 01: "Qđ ipse p." (p + point only) → prestet(?). Rubric red "Itē in qͦlib; f." = Item in quolibet f(esto); guide note left margin "itē iqͦlib;" / "festo." 
+- 02: "nolum9": l + u + m (five minims) + us-sign → nolumus (not nolimus); "Uelim9" four minims → Uelimus.
+- 04, 05, 06: "un̄" = u + n + the general abbreviation curl (the same curl as "n̄" = non in l.06 and "Un̄" = Unde l.14) → unde (Pass 1's ubi would be u + superscript i, as on f.6 l.22).
+- 07: q-sign form A (q + horizontal stroke across the stem at the baseline) → quia(?). "n" + an upright superscript i (not the curl of "n̄" = non in l.06) → nisi.
+- 08: point after "uestram", then capital I (tall) "Ipe" with superscript = Ipse.
+- 11: "q" with superscript open a + descender stroke = quam; "aliq" + superscript o = aliquo.
+- 13: "inp̄senta": p with bar above = pre; the letters after "sen" are t + a with no i visible → presentia(?) (literally "presenta"). A row of expunction dots runs under the whole of "lectione" and "di" (= dei) is written above it: [[lectione]] \dei/.
+- 15: "nob" above with a hook below the line before "por-": insertion \nobis/.
+- 17: rubric red "alius sermo."; guide note left margin "alius s:".
+- 18: line ends with "g" + superscript open a (two-pronged): read gloria(?) — the sign itself (g + a) would more usually stand for gratia; gloria / gratia both open.
+- 19: "sum" + superscript 9-shaped us-sign → sumus (not sunt).
+- 21: point after "conuertatur".
+- q-sign form A (q + straight stroke across the stem, no superscript) is written quia(?): quia is never spelled out on ff. 5–8v, so the default is not confirmed by the scribe; quia is the only one of his q-words not otherwise assigned (qđ = quod, q + sup. i = qui, q + sup. open a = quam/qua, q + 2-shaped stroke + sup. hook = quoque(?)). Same treatment as the f.4/f.4v reconciliation.

@@ -1,0 +1,39 @@
+01: domine. intrabit in regnum celorum. sed qui f. uol.
+02: p. m. Monet nos dominus. hortatur et instruit
+03: per se. et per sanctos suos ut uitam istam que plena est
+04: omnis doloris et laboris. non sic diligamus \quasi/ semper
+05: habituri simus. Inuitat nos de hac miseria
+06: ad celestia gaudia. de hac peregrinatione ad ce-
+07: cestem patriam. Quare tardamus uenire ad patrem
+08: nostrum qui nos diligit super omnia que creauit. Am-
+09: plectitur enim nos omni desiderio. ipse non dat
+10: nobis ea que deficiunt. sed que eterna sunt. non dat
+11: miseras dignitates huius seculi. sed dat regnum.
+12: ut pariter regnemus cum ipso. Clamat et post nos
+13: dicens. Uenite ad me omnes qui laboratis et ho-
+14: norati(?) estis. et ego reficiam uos. et aput me
+15: inuenietis requiem animabus uestris. Igitur fratres
+16: karissimi inuocate hodie spiritum sanctum qui super dis-
+17: cipulos domini sicut est hodie apparuit. et confortauit
+18: eos. et docuit eos omnem ueritatem. Ut \ille uos/ doceat
+19: et dulcescere uobis faciat fidem et ueritatem. et di-
+20: lectionem dei et proximi. et regat uos in corpore et
+21: anima. Scimus enim uerissime quotiens cumque
+22: penitet nos peccasse. et deflemus et gem[[e]]\i/mus
+23: peccata nostra. et ad dominum currimus in uera peni-
+24: tentia. tunc spiritus sanctus possidet cor nostrum. Unde
+
+NOTES:
+- Join with f.1v BREAKS: f.1v ends "habe pacem et caritatem cum proximo tuo. et sic tu", f.2 opens "domine. intrabit in regnum celorum. sed qui f. uol. p. m." (end of the quotation "non omnis qui dicit mihi domine domine ..."). Text is missing between the leaves (at least the end of the Lenten sermon and the opening of the next one); f.2 continues with a Pentecost theme. Pencil foliation "3" top right, not text.
+- 01-02: "sꝫ q̄(i) f· uol· / p· m·" — "q" with superscript i = qui; the rest is a suspended quotation (facit uoluntatem patris mei), kept as written.
+- 03: "ꝑ se·" — a point after "se" is written.
+- 04: right margin "··q̄si" (quasi) with two dots; matching two dots after "diligam9" before "semp": inserted before semper, same brown ink.
+- 06-07: "ad cę- / cestē" — line 07 clearly begins c-e-s-t-e + nasal bar: the scribe wrote "cestem" (slip for celestem, the "ce" repeated across the break); letters certain, kept as written.
+- 14: "nor" + a + t + a final glyph that may be i or a (tt-ligature look); norati(?) (alt. norata). The o after n is certain (Pass 1 "nerati" excluded). "aput" with a clear final t.
+- 17: "sic" with the general abbreviation curl = sicut; "ē" = est. Syntax odd ("qui super discipulos domini sicut est hodie apparuit") but the signs are unambiguous.
+- 18: "ille uos" written above, between "Ut" and "doceat", with a comma-like caret after "Ut".
+- 21: "quotiens cūq;" written as two words.
+- 22: "⁊ g" with superscript e (= ge), then "mẹmus" with a dot UNDER the second e (expunction) and an "i" written above it: corrected from gememus to gemimus; transcribed gem[[e]]\i/mus.
+- 24: last word "Vn" (V in capital form) + n with the general abbreviation curl = Unde (the same abbreviation as f.4v l.21 "Un̄ ... moneo"). It is a complete word, not a word broken at the line end.
+- Join to f.2v HOLDS: "possidet cor nostrum. Unde / pariter inuocate mecum hodie dominum omnipotentem" is one sentence (cf. f.3v l.12 "Unde pariter omnes inuocemus hodie").
+- No q-sign (q + stroke) on this page.

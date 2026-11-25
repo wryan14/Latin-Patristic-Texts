@@ -1,0 +1,40 @@
+01: sicut oues pastori dicens. Si diligis me pasce
+02: meas. et sicut indulsi tibi. ita et tu indulge eis. Tu
+03: ex fragilitate cecidisti. ipse quoque(?) ex fragilitate
+04: sepe cadens. Hanc potestatem petri qui uocantur
+05: episcopi et nos sacerdotes habemus. quam uis simus pec-
+06: catores. Ut qui cumque ex uera penitentia confu-
+07: gerit ad nos. ei peccata dimittimus. Christus dimit-
+08: tit. et nos precones sumus et iudices quod dimissa sunt
+09: peccata. et penitentiam penitenti iniungimus.
+10: et ita celum aperimus. Rogate quoque(?) eum hodie ut re-
+11: cordetur sancte ecclesie que sibi commissa est. Et pape
+12: nostri. ut deus omnipotens eum dignum reddat ad regen-
+13: da ecclesiam suam. De inde rogate eum. ut recor-
+14: detur secularis iudicis nostri imperatoris. et omnium.
+15: ut dominus omnipotens eos tales faciat. ut dum secularia
+16: iuste iudicant. celestem mercedem recipiant.
+17: De inde rogate eum pro omnibus fidelibus defunctis.
+18: ut celestem patriam eis hodie aperiat. Rogate
+19: eum pro uobis ipsis. ut qui potestatem habet claudere
+20: et aperire celum cui cumque cumque uoluerit.
+21: uincula peccatorum uestrorum soluat et ianuam nobis
+22: celi aperiat. Quod ipse prestet(?). ›In assumptione s. m.‹ {margin: in assumptione s. m.}
+23: Quicumque conuenistis hodie in honore
+24: sancte Marie matris domini. toto corde in-
+
+NOTES:
+- Join with f.3v holds on the reading "quia(?) nos ei commisit(?) / sicut oues pastori dicens" (see f.3v NOTES l.24, unsettled sign). Pencil foliation "7" top right, not text. Page ends mid-word "in-", continued on f.4v "uocate eam": join holds.
+- 01-02: "pasce / meas" — "oues" not repeated (as written). l.02 "⁊ sic̄ indulsi t̃" — no "ego" on the page; "t" with superscript = tibi.
+- 03, 10: q-sign. Seen: q with the horizontal stroke through the descender PLUS a small superscript hook rising to the right (the scribe's general abbreviation mark), as f.3 l.06, l.10. Read quoque(?) by sense; the sign does not determine it (alternative quidem). Distinct from the bare sign (quia(?)) and from qd (quod).
+- 04: "pet" with a superscript i (upright with head-tick) = petri. "uocan-t" + the wavy -ur sign = uocantur (n, not m: Pass 1 "uocamur" excluded).
+- 05: "quā uis" written as two words.
+- 06: the first word is "Vt": a tall left stroke + v-bowl (the same capital-form V as "Vn̄" f.2 l.24, "Vincti" f.3v l.05), not this scribe's E; read Ut (sense might prefer Et). "qui cumq;" written as two words.
+- 08: "p̄cones" = precones; "qd" = quod; "s" with a separate curl above = sunt.
+- 11: "s" with a superscript i rising from it = sibi (clearly different from "s" + curl = sunt in l.08).
+- 13: "da" — no nasal mark over the a, kept as written (sense "ad regendam"); the d has the hook at the top of its ascender common in this hand. 13, 17: "De inde" written as two words; l.17 "De" set out into the left margin.
+- 15: "dū" = dum.
+- 20: "cui cumq; cumq;" — "cui cumque cumque" dittography, kept, word division as written.
+- 22: closing formula "Qd ipse p̃st̃" — Quod ipse + p and t with abbreviation marks: prestet(?) (alternative prestare ...). Rubric in red at the right "In assumpt̃ s. m." (expanded assumptione: the brown guide note in the right margin "i assūptione / s. m." writes the ending); "s. m." (sancte marie) kept as written in both.
+- 23: two-line red initial Q, then "VI cumq;" = Quicumque (new sermon, Assumption).
+- 24: "Marie" with the round uncial M (capital form, as f.1 l.19).
